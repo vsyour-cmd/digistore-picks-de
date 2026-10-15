@@ -4,16 +4,16 @@ digistore24_product_id: 422725
 title: "Feng Shui Ausbildung, Zertifiziert"
 vendor: "Feng-Shui-Digital"
 product_type: "Distance learning (Germany)"
-price: 2931.49
+price: 2933.33
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 313.07
+earnings_per_sale: 313.26
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2022-01-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://feng-shui.de/feng-shui-online/?aff=adminstore#aff=adminstore"
 sales_page: "https://feng-shui.de/feng-shui-online/"
@@ -22,16 +22,16 @@ language: "de"
 # Feng Shui Ausbildung, Zertifiziert
 
 > Product ID `39664` · Digistore24 productId `422725` · [HTML profile page](../../produkte/feng-shui-ausbildung-zertifiziert-39664.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Distance learning (Germany) |
-| Price | $2931.49 (Single payment, Installment) |
+| Price | $2933.33 (Single payment, Installment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $313.07 |
+| Earnings/sale* | $313.26 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Feng-Shui-Digital |
@@ -93,14 +93,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Feng Shui Ausbildung, Zertifiziert? — Typ: Distance learning (Germany), Anbieter: Feng-Shui-Digital, gelistet seit 2022-01-01
-- Wie viel kostet es? — 2931.4904850000003 USD
+- Wie viel kostet es? — 2933.32578 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Feng Shui Ausbildung, Zertifiziert Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/422725
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/422725/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Feng%20Shui%20Ausbildung%2C%20Zertifiziert
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 588893
 title: "KI-Kompendium: Die Plattform für die KI-Praxis"
 vendor: "MibeneUG"
 product_type: "Member area and video courses"
-price: 557.93
+price: 558.28
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 111.59
+earnings_per_sale: 111.66
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Computer & Internet","Education","Profession & Job"]
+categories: ["Computer & Internet","Profession & Job","Education"]
 listed_since: "2025-01-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/588893?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/588893"
@@ -22,22 +22,22 @@ language: "de"
 # KI-Kompendium: Die Plattform für die KI-Praxis
 
 > Product ID `50985` · Digistore24 productId `588893` · [HTML profile page](../../produkte/ki-kompendium-die-plattform-f-r-die-ki-praxis-50985.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $557.93 (Subscription) |
+| Price | $558.28 (Subscription) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $111.59 |
+| Earnings/sale* | $111.66 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MibeneUG |
 | Listed since | 2025-01-05 |
 | Auto-accept affiliates | yes |
-| Categories | Computer & Internet, Education, Profession & Job |
+| Categories | Computer & Internet, Profession & Job, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -82,14 +82,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI-Kompendium: Die Plattform für die KI-Praxis? — Typ: Member area and video courses, Anbieter: MibeneUG, gelistet seit 2025-01-05
-- Wie viel kostet es? — 557.9319 USD
+- Wie viel kostet es? — 558.2812 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: KI-Kompendium: Die Plattform für die KI-Praxis Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/588893
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/588893/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=KI-Kompendium%3A%20Die%20Plattform%20f%C3%BCr%20die%20KI-Praxis
 
 ## 4. Editorial notes

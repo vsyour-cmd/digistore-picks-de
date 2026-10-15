@@ -10,10 +10,10 @@ affiliate_commission_pct: 50
 earnings_per_sale: 0
 cart_conversion_pct: 15
 cancel_rate_pct: 0
-categories: ["Education","Personal Development","Spiri­tua­lity & Esotericism"]
+categories: ["Personal Development","Spiri­tua­lity & Esotericism","Education"]
 listed_since: "2025-08-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://seelen-treffpunkt.de/sofort-guide-fuer-mehr-innere-freiheit/?aff=adminstore#aff=adminstore"
 sales_page: "https://seelen-treffpunkt.de/sofort-guide-fuer-mehr-innere-freiheit/"
@@ -22,7 +22,7 @@ language: "de"
 # Sofort-Guide „Innere Freiheit“ mit 50 % Upsell-Provision
 
 > Product ID `54258` · Digistore24 productId `628002` · [HTML profile page](../../produkte/sofort-guide-innere-freiheit-mit-50-upsell-provision-54258.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | Sternenlichter |
 | Listed since | 2025-08-05 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Personal Development, Spiri­tua­lity & Esotericism |
+| Categories | Personal Development, Spiri­tua­lity & Esotericism, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -70,14 +70,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Sofort-Guide „Innere Freiheit“ mit 50 % Upsell-Provision? — Typ: Member area and video courses, Anbieter: Sternenlichter, gelistet seit 2025-08-05
-- Wie viel kostet es? — 2.7952500000000002 USD
+- Wie viel kostet es? — 2.797 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Sofort-Guide „Innere Freiheit“ mit 50 % Upsell-Provision Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/628002
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/628002/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Sofort-Guide%20%E2%80%9EInnere%20Freiheit%E2%80%9C%20mit%2050%20%25%20Upsell-Provision
 
 ## 4. Editorial notes

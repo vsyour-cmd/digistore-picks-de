@@ -4,40 +4,40 @@ digistore24_product_id: 594364
 title: "Alle 4 Live-Sessions zum Vorteilspreis!"
 vendor: "user3968737"
 product_type: "Online coaching"
-price: 241.46
+price: 241.62
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 24.15
+earnings_per_sale: 24.17
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Business & Investment","Personal Development","Services"]
+categories: ["Personal Development","Business & Investment","Services"]
 listed_since: "2025-02-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/51213/adminstore/"
+promo_link: "https://www.digistore24.com/product/594364?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/594364"
 language: "de"
 ---
 # Alle 4 Live-Sessions zum Vorteilspreis!
 
 > Product ID `51213` · Digistore24 productId `594364` · [HTML profile page](../../produkte/alle-4-live-sessions-zum-vorteilspreis-51213.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $241.46 (Single payment) |
+| Price | $241.62 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $24.15 |
+| Earnings/sale* | $24.17 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | user3968737 |
 | Listed since | 2025-02-05 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Personal Development, Services |
+| Categories | Personal Development, Business & Investment, Services |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/51213/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/594364?aff=adminstore
 - Sales page: https://www.digistore24.com/product/594364
 - Canonical redirect: https://www.digistore24.com/redir/594364/adminstore
 
@@ -89,14 +89,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Alle 4 Live-Sessions zum Vorteilspreis!? — Typ: Online coaching, Anbieter: user3968737, gelistet seit 2025-02-05
-- Wie viel kostet es? — 241.46487600000003 USD
+- Wie viel kostet es? — 241.616048 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Alle 4 Live-Sessions zum Vorteilspreis! Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/594364
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/594364/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Alle%204%20Live-Sessions%20zum%20Vorteilspreis!
 
 ## 4. Editorial notes

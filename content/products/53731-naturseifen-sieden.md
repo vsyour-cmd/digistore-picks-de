@@ -4,34 +4,34 @@ digistore24_product_id: 525809
 title: "Naturseifen sieden"
 vendor: "Katharinaruehrt"
 product_type: "Member area and video courses"
-price: 69.52
+price: 69.57
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 13.36
+earnings_per_sale: 13.37
 cart_conversion_pct: 11
 cancel_rate_pct: 0.9
 categories: ["Green Products & Environmental Protection","Hobby & Craft","Marketing Services"]
 listed_since: "2023-11-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/redir/53731/adminstore/"
+promo_link: "https://www.katharinaruehrt.com/seife-sieden?aff=adminstore#aff=adminstore"
 sales_page: "https://www.katharinaruehrt.com/seife-sieden"
 language: "de"
 ---
 # Naturseifen sieden
 
 > Product ID `53731` · Digistore24 productId `525809` · [HTML profile page](../../produkte/naturseifen-sieden-53731.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $69.52 (Single payment) |
+| Price | $69.57 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $13.36 |
+| Earnings/sale* | $13.37 |
 | Cart conversion* | 11% |
 | Cancel rate* | 0.9% |
 | Vendor | Katharinaruehrt |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/redir/53731/adminstore/
+- **Promo link (affiliate):** https://www.katharinaruehrt.com/seife-sieden?aff=adminstore#aff=adminstore
 - Sales page: https://www.katharinaruehrt.com/seife-sieden
 - Canonical redirect: https://www.digistore24.com/redir/525809/adminstore
 
@@ -82,14 +82,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Naturseifen sieden? — Typ: Member area and video courses, Anbieter: Katharinaruehrt, gelistet seit 2023-11-17
-- Wie viel kostet es? — 69.523458 USD
+- Wie viel kostet es? — 69.566984 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Naturseifen sieden Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/525809
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/525809/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Naturseifen%20sieden
 
 ## 4. Editorial notes

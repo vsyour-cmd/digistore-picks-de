@@ -10,19 +10,19 @@ affiliate_commission_pct: 50
 earnings_per_sale: 0.1
 cart_conversion_pct: 40
 cancel_rate_pct: 0
-categories: ["Business & Investment","Email Marketing","Online Marketing & E-Business"]
+categories: ["Business & Investment","Online Marketing & E-Business","Email Marketing"]
 listed_since: "2025-11-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/55345/adminstore/"
+promo_link: "https://byebyehamsterrad.de/e-mail-liste-in-rekordzeit/?aff=adminstore#aff=adminstore"
 sales_page: "https://byebyehamsterrad.de/e-mail-liste-in-rekordzeit/"
 language: "de"
 ---
 # Gratis E-Book verschenken / automatisch Provision verdienen
 
 > Product ID `55345` · Digistore24 productId `651790` · [HTML profile page](../../produkte/gratis-e-book-verschenken-automatisch-provision-verdienen-55345.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | MSFS_2218 |
 | Listed since | 2025-11-29 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Email Marketing, Online Marketing & E-Business |
+| Categories | Business & Investment, Online Marketing & E-Business, Email Marketing |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55345/adminstore/
+- **Promo link (affiliate):** https://byebyehamsterrad.de/e-mail-liste-in-rekordzeit/?aff=adminstore#aff=adminstore
 - Sales page: https://byebyehamsterrad.de/e-mail-liste-in-rekordzeit/
 - Vendor affiliate support: https://byebyehamsterrad.de/partnerprogramm/e-mail-liste-in-rekordzeit/
 - Canonical redirect: https://www.digistore24.com/redir/651790/adminstore
@@ -80,14 +80,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Gratis E-Book verschenken / automatisch Provision verdienen? — Typ: Member area and video courses, Anbieter: MSFS_2218, gelistet seit 2025-11-29
-- Wie viel kostet es? — 5.5010520000000005 USD
+- Wie viel kostet es? — 5.504496 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Gratis E-Book verschenken / automatisch Provision verdienen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/651790
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/651790/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Gratis%20E-Book%20verschenken%20%2F%20automatisch%20Provision%20verdienen
 
 ## 4. Editorial notes

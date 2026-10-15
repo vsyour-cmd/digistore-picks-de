@@ -4,16 +4,16 @@ digistore24_product_id: 625312
 title: "Abschlussgarant Selbstlernkurs"
 vendor: "MUTPUNKT"
 product_type: "Member area and video courses"
-price: 185.1
+price: 185.22
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 92.56
+earnings_per_sale: 92.61
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Profession & Job","Sales Training"]
 listed_since: "2026-06-14"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/625312?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/625312"
@@ -22,16 +22,16 @@ language: "de"
 # Abschlussgarant Selbstlernkurs
 
 > Product ID `56884` · Digistore24 productId `625312` · [HTML profile page](../../produkte/abschlussgarant-selbstlernkurs-56884.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $185.10 (Single payment, Installment) |
+| Price | $185.22 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $92.56 |
+| Earnings/sale* | $92.61 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MUTPUNKT |
@@ -95,14 +95,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Abschlussgarant Selbstlernkurs? — Typ: Member area and video courses, Anbieter: MUTPUNKT, gelistet seit 2026-06-14
-- Wie viel kostet es? — 185.10145500000002 USD
+- Wie viel kostet es? — 185.21734 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Abschlussgarant Selbstlernkurs Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/625312
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/625312/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Abschlussgarant%20Selbstlernkurs
 
 ## 4. Editorial notes

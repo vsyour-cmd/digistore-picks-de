@@ -4,16 +4,16 @@ digistore24_product_id: 261488
 title: "Erfolgreiches 7-Tage-Fastenprogramm (50% Provision)"
 vendor: "digicube"
 product_type: "Member area and video courses"
-price: 64.83
+price: 64.87
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 32.41
+earnings_per_sale: 32.43
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2019-02-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://lanaprinzip.com/fastenwebinar/?aff=adminstore#aff=adminstore"
 sales_page: "https://lanaprinzip.com/fastenwebinar/"
@@ -22,16 +22,16 @@ language: "de"
 # Erfolgreiches 7-Tage-Fastenprogramm (50% Provision)
 
 > Product ID `31434` · Digistore24 productId `261488` · [HTML profile page](../../produkte/erfolgreiches-7-tage-fastenprogramm-50-provision-31434.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $64.83 (Single payment) |
+| Price | $64.87 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $32.41 |
+| Earnings/sale* | $32.43 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | digicube |
@@ -103,14 +103,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Erfolgreiches 7-Tage-Fastenprogramm (50% Provision)? — Typ: Member area and video courses, Anbieter: digicube, gelistet seit 2019-02-22
-- Wie viel kostet es? — 64.827438 USD
+- Wie viel kostet es? — 64.86802399999999 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Erfolgreiches 7-Tage-Fastenprogramm (50% Provision) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/261488
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/261488/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Erfolgreiches%207-Tage-Fastenprogramm%20(50%25%20Provision)
 
 ## 4. Editorial notes

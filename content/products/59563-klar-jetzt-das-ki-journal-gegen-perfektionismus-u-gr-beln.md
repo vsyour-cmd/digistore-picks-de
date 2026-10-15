@@ -4,34 +4,34 @@ digistore24_product_id: 736066
 title: "KLAR.JETZT – Das KI-Journal gegen Perfektionismus u. Grübeln"
 vendor: "klarjetzt"
 product_type: "Software"
-price: 84.56
+price: 84.61
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 25.37
+earnings_per_sale: 25.39
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2026-09-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/59563/adminstore/"
+promo_link: "https://klar.jetzt?aff=adminstore#aff=adminstore"
 sales_page: "https://klar.jetzt"
 language: "de"
 ---
 # KLAR.JETZT – Das KI-Journal gegen Perfektionismus u. Grübeln
 
 > Product ID `59563` · Digistore24 productId `736066` · [HTML profile page](../../produkte/klar-jetzt-das-ki-journal-gegen-perfektionismus-u-gr-beln-59563.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $84.56 (Subscription) |
+| Price | $84.61 (Subscription) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $25.37 |
+| Earnings/sale* | $25.39 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | klarjetzt |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59563/adminstore/
+- **Promo link (affiliate):** https://klar.jetzt?aff=adminstore#aff=adminstore
 - Sales page: https://klar.jetzt
 - Canonical redirect: https://www.digistore24.com/redir/736066/adminstore
 
@@ -84,14 +84,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KLAR.JETZT – Das KI-Journal gegen Perfektionismus u. Grübeln? — Typ: Software, Anbieter: klarjetzt, gelistet seit 2026-09-23
-- Wie viel kostet es? — 84.561903 USD
+- Wie viel kostet es? — 84.61484399999999 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: KLAR.JETZT – Das KI-Journal gegen Perfektionismus u. Grübeln Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/736066
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/736066/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=KLAR.JETZT%20%E2%80%93%20Das%20KI-Journal%20gegen%20Perfektionismus%20u.%20Gr%C3%BCbeln
 
 ## 4. Editorial notes

@@ -4,40 +4,40 @@ digistore24_product_id: 646454
 title: "NEU! SPRACHSOFTWARE verschenken + 450€ über Upsell verdienen"
 vendor: "Magnodesign"
 product_type: "Member area and video courses"
-price: 74.52
+price: 74.57
 currency: "USD"
 affiliate_commission_pct: 100
-earnings_per_sale: 18.67
+earnings_per_sale: 18.68
 cart_conversion_pct: 14
 cancel_rate_pct: 3.3
-categories: ["Computer & Internet","Email Marketing","Software"]
+categories: ["Software","Computer & Internet","Email Marketing"]
 listed_since: "2025-11-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/24997/adminstore/"
+promo_link: "https://voicefixx.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://voicefixx.com/"
 language: "de"
 ---
 # NEU! SPRACHSOFTWARE verschenken + 450€ über Upsell verdienen
 
 > Product ID `24997` · Digistore24 productId `646454` · [HTML profile page](../../produkte/neu-sprachsoftware-verschenken-450-ber-upsell-verdienen-24997.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $74.52 (Single payment) |
+| Price | $74.57 (Single payment) |
 | Affiliate commission | 100% |
-| Earnings/sale* | $18.67 |
+| Earnings/sale* | $18.68 |
 | Cart conversion* | 14% |
 | Cancel rate* | 3.3% |
 | Vendor | Magnodesign |
 | Listed since | 2025-11-05 |
 | Auto-accept affiliates | yes |
-| Categories | Computer & Internet, Email Marketing, Software |
+| Categories | Software, Computer & Internet, Email Marketing |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/24997/adminstore/
+- **Promo link (affiliate):** https://voicefixx.com/?aff=adminstore#aff=adminstore
 - Sales page: https://voicefixx.com/
 - Vendor affiliate support: https://partnerseite.myfunnelcockpit.com/
 - Canonical redirect: https://www.digistore24.com/redir/646454/adminstore
@@ -85,14 +85,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist NEU! SPRACHSOFTWARE verschenken + 450€ über Upsell verdienen? — Typ: Member area and video courses, Anbieter: Magnodesign, gelistet seit 2025-11-05
-- Wie viel kostet es? — 74.52136500000002 USD
+- Wie viel kostet es? — 74.56802 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: NEU! SPRACHSOFTWARE verschenken + 450€ über Upsell verdienen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/646454
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/646454/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=NEU!%20SPRACHSOFTWARE%20verschenken%20%2B%20450%E2%82%AC%20%C3%BCber%20Upsell%20verdienen
 
 ## 4. Editorial notes

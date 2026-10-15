@@ -4,40 +4,40 @@ digistore24_product_id: 735317
 title: "Reel Studio Pro © - 9:16 Content & Reel-Generator"
 vendor: "remotecreator"
 product_type: "Software"
-price: 185.1
+price: 185.22
 currency: "USD"
 affiliate_commission_pct: 33
-earnings_per_sale: 61.08
+earnings_per_sale: 61.12
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Online Marketing & E-Business","Social Media","Software"]
+categories: ["Software","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-09-28"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/59985/adminstore/"
+promo_link: "https://alex1.work/reel-studio-pro?aff=adminstore#aff=adminstore"
 sales_page: "https://alex1.work/reel-studio-pro"
 language: "de"
 ---
 # Reel Studio Pro © - 9:16 Content & Reel-Generator
 
 > Product ID `59985` · Digistore24 productId `735317` · [HTML profile page](../../produkte/reel-studio-pro-9-16-content-reel-generator-59985.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $185.10 (Single payment) |
+| Price | $185.22 (Single payment) |
 | Affiliate commission | 33% |
-| Earnings/sale* | $61.08 |
+| Earnings/sale* | $61.12 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | remotecreator |
 | Listed since | 2026-09-28 |
 | Auto-accept affiliates | yes |
-| Categories | Online Marketing & E-Business, Social Media, Software |
+| Categories | Software, Online Marketing & E-Business, Social Media |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59985/adminstore/
+- **Promo link (affiliate):** https://alex1.work/reel-studio-pro?aff=adminstore#aff=adminstore
 - Sales page: https://alex1.work/reel-studio-pro
 - Canonical redirect: https://www.digistore24.com/redir/735317/adminstore
 
@@ -82,14 +82,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Reel Studio Pro © - 9:16 Content & Reel-Generator? — Typ: Software, Anbieter: remotecreator, gelistet seit 2026-09-28
-- Wie viel kostet es? — 185.10145500000002 USD
+- Wie viel kostet es? — 185.21734 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Reel Studio Pro © - 9:16 Content & Reel-Generator Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/735317
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/735317/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Reel%20Studio%20Pro%20%C2%A9%20-%209%3A16%20Content%20%26%20Reel-Generator
 
 ## 4. Editorial notes

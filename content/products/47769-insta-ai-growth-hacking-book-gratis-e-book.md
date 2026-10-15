@@ -4,34 +4,34 @@ digistore24_product_id: 547995
 title: "Insta AI Growth Hacking Book (Gratis E-Book)"
 vendor: "webpirat"
 product_type: "E-books"
-price: 1.27
+price: 1.28
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 0.42
+earnings_per_sale: 0.43
 cart_conversion_pct: 33
 cancel_rate_pct: 2.2
 categories: ["Computer & Internet","Social Media"]
 listed_since: "2024-04-13"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/47769/adminstore/"
+promo_link: "https://www.webpirat.de/insta-ai-growth-hacking-book/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.webpirat.de/insta-ai-growth-hacking-book/"
 language: "de"
 ---
 # Insta AI Growth Hacking Book (Gratis E-Book)
 
 > Product ID `47769` · Digistore24 productId `547995` · [HTML profile page](../../produkte/insta-ai-growth-hacking-book-gratis-e-book-47769.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $1.27 (Single payment) |
+| Price | $1.28 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $0.42 |
+| Earnings/sale* | $0.43 |
 | Cart conversion* | 33% |
 | Cancel rate* | 2.2% |
 | Vendor | webpirat |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/47769/adminstore/
+- **Promo link (affiliate):** https://www.webpirat.de/insta-ai-growth-hacking-book/?aff=adminstore#aff=adminstore
 - Sales page: https://www.webpirat.de/insta-ai-growth-hacking-book/
 - Vendor affiliate support: https://www.webpirat.de/werde-affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/547995/adminstore
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Insta AI Growth Hacking Book (Gratis E-Book)? — Typ: E-books, Anbieter: webpirat, gelistet seit 2024-04-13
-- Wie viel kostet es? — 1.274634 USD
+- Wie viel kostet es? — 1.275432 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Insta AI Growth Hacking Book (Gratis E-Book) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/547995
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/547995/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Insta%20AI%20Growth%20Hacking%20Book%20(Gratis%20E-Book)
 
 ## 4. Editorial notes

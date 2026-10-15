@@ -4,16 +4,16 @@ digistore24_product_id: 741567
 title: "Landingpage für Kampagnen für italienischsprachige Betriebe: 490 €, ca. 90 € Provision"
 vendor: "massarocalogero19976adc"
 product_type: "Remote service provided electronically"
-price: 547.87
+price: 548.21
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 109.57
+earnings_per_sale: 109.64
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2026-10-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.direzionex.com/offerta/landing-page?aff=adminstore#aff=adminstore"
 sales_page: "https://www.direzionex.com/offerta/landing-page"
@@ -22,16 +22,16 @@ language: "de"
 # Landingpage für Kampagnen für italienischsprachige Betriebe: 490 €, ca. 90 € Provision
 
 > Product ID `60298` · Digistore24 productId `741567` · [HTML profile page](../../produkte/landingpage-f-r-kampagnen-f-r-italienischsprachige-betriebe-490-ca-90-provision-60298.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $547.87 (Single payment) |
+| Price | $548.21 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $109.57 |
+| Earnings/sale* | $109.64 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | massarocalogero19976adc |
@@ -87,14 +87,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Landingpage für Kampagnen für italienischsprachige Betriebe: 490 €, ca. 90 € Provision? — Typ: Remote service provided electronically, Anbieter: massarocalogero19976adc, gelistet seit 2026-10-07
-- Wie viel kostet es? — 547.869 USD
+- Wie viel kostet es? — 548.212 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Landingpage für Kampagnen für italienischsprachige Betriebe: 490 €, ca. 90 € Provision Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/741567
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/741567/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Landingpage%20f%C3%BCr%20Kampagnen%20f%C3%BCr%20italienischsprachige%20Betriebe%3A%20490%20%E2%82%AC%2C%20ca.%2090%20%E2%82%AC%20Provision
 
 ## 4. Editorial notes

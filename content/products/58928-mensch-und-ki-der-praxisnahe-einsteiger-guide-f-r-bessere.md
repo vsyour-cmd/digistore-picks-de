@@ -4,16 +4,16 @@ digistore24_product_id: 727784
 title: "Mensch und KI – Der praxisnahe Einsteiger-Guide für bessere"
 vendor: "maikheidemann2012"
 product_type: "E-books"
-price: 30.3
+price: 30.32
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 12.12
+earnings_per_sale: 12.13
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Computer & Internet","Education"]
 listed_since: "2026-09-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/redir/727784/adminstore"
 sales_page: "https://www.ac-kiamse.de/#aff=[AFFILIATE]&cam=[CAMPAIGNKEY]"
@@ -22,16 +22,16 @@ language: "de"
 # Mensch und KI – Der praxisnahe Einsteiger-Guide für bessere
 
 > Product ID `58928` · Digistore24 productId `727784` · [HTML profile page](../../produkte/mensch-und-ki-der-praxisnahe-einsteiger-guide-f-r-bessere-58928.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $30.30 (Single payment) |
+| Price | $30.32 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $12.12 |
+| Earnings/sale* | $12.13 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | maikheidemann2012 |
@@ -70,14 +70,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mensch und KI – Der praxisnahe Einsteiger-Guide für bessere? — Typ: E-books, Anbieter: maikheidemann2012, gelistet seit 2026-09-05
-- Wie viel kostet es? — 30.300510000000003 USD
+- Wie viel kostet es? — 30.319480000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Mensch und KI – Der praxisnahe Einsteiger-Guide für bessere Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/727784
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/727784/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Mensch%20und%20KI%20%E2%80%93%20Der%20praxisnahe%20Einsteiger-Guide%20f%C3%BCr%20bessere
 
 ## 4. Editorial notes

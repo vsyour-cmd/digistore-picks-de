@@ -4,34 +4,34 @@ digistore24_product_id: 729867
 title: "Pinterest-KI-Fahrplan: 5 klare Schritte zu besseren Pins"
 vendor: "mitti10"
 product_type: "E-books"
-price: 17.77
+price: 17.78
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 7.11
+earnings_per_sale: 7.12
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media","Online Marketing"]
 listed_since: "2026-09-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/59071/adminstore/"
+promo_link: "https://pinterest-ki-fahrplan.netlify.app/?aff=adminstore#aff=adminstore"
 sales_page: "https://pinterest-ki-fahrplan.netlify.app/"
 language: "de"
 ---
 # Pinterest-KI-Fahrplan: 5 klare Schritte zu besseren Pins
 
 > Product ID `59071` · Digistore24 productId `729867` · [HTML profile page](../../produkte/pinterest-ki-fahrplan-5-klare-schritte-zu-besseren-pins-59071.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $17.77 (Single payment) |
+| Price | $17.78 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $7.11 |
+| Earnings/sale* | $7.12 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | mitti10 |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59071/adminstore/
+- **Promo link (affiliate):** https://pinterest-ki-fahrplan.netlify.app/?aff=adminstore#aff=adminstore
 - Sales page: https://pinterest-ki-fahrplan.netlify.app/
 - Canonical redirect: https://www.digistore24.com/redir/729867/adminstore
 
@@ -76,14 +76,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Pinterest-KI-Fahrplan: 5 klare Schritte zu besseren Pins? — Typ: E-books, Anbieter: mitti10, gelistet seit 2026-09-09
-- Wie viel kostet es? — 17.766609000000003 USD
+- Wie viel kostet es? — 17.777732 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Pinterest-KI-Fahrplan: 5 klare Schritte zu besseren Pins Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/729867
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/729867/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Pinterest-KI-Fahrplan%3A%205%20klare%20Schritte%20zu%20besseren%20Pins
 
 ## 4. Editorial notes

@@ -4,34 +4,34 @@ digistore24_product_id: 346312
 title: "6D-Affirmationen - MLM - Erfolgs-Booster"
 vendor: "antomi"
 product_type: "Downloads"
-price: 466.97
+price: 467.27
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 140.1
+earnings_per_sale: 140.19
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2020-09-02"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/34113/adminstore/"
+promo_link: "https://6d-affirmationen.de/network?aff=adminstore#aff=adminstore"
 sales_page: "https://6d-affirmationen.de/network"
 language: "de"
 ---
 # 6D-Affirmationen - MLM - Erfolgs-Booster
 
 > Product ID `34113` · Digistore24 productId `346312` · [HTML profile page](../../produkte/6d-affirmationen-mlm-erfolgs-booster-34113.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $466.97 (Single payment) |
+| Price | $467.27 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $140.10 |
+| Earnings/sale* | $140.19 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | antomi |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/34113/adminstore/
+- **Promo link (affiliate):** https://6d-affirmationen.de/network?aff=adminstore#aff=adminstore
 - Sales page: https://6d-affirmationen.de/network
 - Canonical redirect: https://www.digistore24.com/redir/346312/adminstore
 
@@ -97,14 +97,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 6D-Affirmationen - MLM - Erfolgs-Booster? — Typ: Downloads, Anbieter: antomi, gelistet seit 2020-09-02
-- Wie viel kostet es? — 466.974465 USD
+- Wie viel kostet es? — 467.26682 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 6D-Affirmationen - MLM - Erfolgs-Booster Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/346312
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/346312/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=6D-Affirmationen%20-%20MLM%20-%20Erfolgs-Booster
 
 ## 4. Editorial notes

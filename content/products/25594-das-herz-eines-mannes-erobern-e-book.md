@@ -4,16 +4,16 @@ digistore24_product_id: 52367
 title: "Das Herz eines Mannes erobern [E-Book]"
 vendor: "rheinrost"
 product_type: "E-books"
-price: 13.48
+price: 13.49
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 6.74
+earnings_per_sale: 6.75
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Dating, Relationships & Romance","Family & Children","Personal Development"]
+categories: ["Personal Development","Dating, Relationships & Romance","Family & Children"]
 listed_since: "2015-06-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.beziehungsratgeber.net/shop/beziehungsratgeber-buch/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.beziehungsratgeber.net/shop/beziehungsratgeber-buch/"
@@ -22,22 +22,22 @@ language: "de"
 # Das Herz eines Mannes erobern [E-Book]
 
 > Product ID `25594` · Digistore24 productId `52367` · [HTML profile page](../../produkte/das-herz-eines-mannes-erobern-e-book-25594.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $13.48 (Single payment) |
+| Price | $13.49 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $6.74 |
+| Earnings/sale* | $6.75 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | rheinrost |
 | Listed since | 2015-06-21 |
 | Auto-accept affiliates | yes |
-| Categories | Dating, Relationships & Romance, Family & Children, Personal Development |
+| Categories | Personal Development, Dating, Relationships & Romance, Family & Children |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -84,14 +84,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Herz eines Mannes erobern [E-Book]? — Typ: E-books, Anbieter: rheinrost, gelistet seit 2015-06-21
-- Wie viel kostet es? — 13.484286 USD
+- Wie viel kostet es? — 13.492728000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Das Herz eines Mannes erobern [E-Book] Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/52367
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/52367/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Das%20Herz%20eines%20Mannes%20erobern%20%5BE-Book%5D
 
 ## 4. Editorial notes

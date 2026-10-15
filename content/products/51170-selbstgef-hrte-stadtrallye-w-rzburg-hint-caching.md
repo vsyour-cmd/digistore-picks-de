@@ -4,16 +4,16 @@ digistore24_product_id: 423370
 title: "Selbstgeführte Stadtrallye Würzburg | Hint-Caching"
 vendor: "hintcaching"
 product_type: "Member area and video courses"
-price: 32.44
+price: 32.46
 currency: "USD"
 affiliate_commission_pct: 20
 earnings_per_sale: 8.04
 cart_conversion_pct: 10
 cancel_rate_pct: 1
-categories: ["Fun & Games","Travel & Culture"]
+categories: ["Travel & Culture","Fun & Games"]
 listed_since: "2022-01-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://hint-caching.de/stadtrallye-wuerzburg/?aff=adminstore#aff=adminstore"
 sales_page: "https://hint-caching.de/stadtrallye-wuerzburg/"
@@ -22,14 +22,14 @@ language: "de"
 # Selbstgeführte Stadtrallye Würzburg | Hint-Caching
 
 > Product ID `51170` · Digistore24 productId `423370` · [HTML profile page](../../produkte/selbstgef-hrte-stadtrallye-w-rzburg-hint-caching-51170.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $32.44 (Single payment) |
+| Price | $32.46 (Single payment) |
 | Affiliate commission | 20% |
 | Earnings/sale* | $8.04 |
 | Cart conversion* | 10% |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | hintcaching |
 | Listed since | 2022-01-05 |
 | Auto-accept affiliates | yes |
-| Categories | Fun & Games, Travel & Culture |
+| Categories | Travel & Culture, Fun & Games |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -87,14 +87,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Selbstgeführte Stadtrallye Würzburg | Hint-Caching? — Typ: Member area and video courses, Anbieter: hintcaching, gelistet seit 2022-01-05
-- Wie viel kostet es? — 32.436081 USD
+- Wie viel kostet es? — 32.456388000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Selbstgeführte Stadtrallye Würzburg | Hint-Caching Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/423370
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/423370/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Selbstgef%C3%BChrte%20Stadtrallye%20W%C3%BCrzburg%20%7C%20Hint-Caching
 
 ## 4. Editorial notes

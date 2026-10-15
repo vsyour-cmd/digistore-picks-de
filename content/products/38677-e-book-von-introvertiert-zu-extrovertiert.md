@@ -4,34 +4,34 @@ digistore24_product_id: 422227
 title: "E-Book: Von Introvertiert zu Extrovertiert"
 vendor: "Spekulatius"
 product_type: "E-books"
-price: 26.12
+price: 26.14
 currency: "USD"
 affiliate_commission_pct: 80
-earnings_per_sale: 20.9
+earnings_per_sale: 20.91
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2021-12-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/38677/adminstore/"
+promo_link: "https://page.funnelcockpit.com/4dYxSmzGjboRTePxL?aff=adminstore#aff=adminstore"
 sales_page: "https://page.funnelcockpit.com/4dYxSmzGjboRTePxL"
 language: "de"
 ---
 # E-Book: Von Introvertiert zu Extrovertiert
 
 > Product ID `38677` · Digistore24 productId `422227` · [HTML profile page](../../produkte/e-book-von-introvertiert-zu-extrovertiert-38677.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $26.12 (Single payment) |
+| Price | $26.14 (Single payment) |
 | Affiliate commission | 80% |
-| Earnings/sale* | $20.90 |
+| Earnings/sale* | $20.91 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Spekulatius |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/38677/adminstore/
+- **Promo link (affiliate):** https://page.funnelcockpit.com/4dYxSmzGjboRTePxL?aff=adminstore#aff=adminstore
 - Sales page: https://page.funnelcockpit.com/4dYxSmzGjboRTePxL
 - Canonical redirect: https://www.digistore24.com/redir/422227/adminstore
 
@@ -66,14 +66,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist E-Book: Von Introvertiert zu Extrovertiert? — Typ: E-books, Anbieter: Spekulatius, gelistet seit 2021-12-27
-- Wie viel kostet es? — 26.118816000000002 USD
+- Wie viel kostet es? — 26.135168 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: E-Book: Von Introvertiert zu Extrovertiert Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/422227
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/422227/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=E-Book%3A%20Von%20Introvertiert%20zu%20Extrovertiert
 
 ## 4. Editorial notes

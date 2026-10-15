@@ -4,34 +4,34 @@ digistore24_product_id: 64911
 title: "Traffic & Conversion Bomber"
 vendor: "Cleriker"
 product_type: "Downloads"
-price: 91.14
+price: 91.19
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 54.69
+earnings_per_sale: 54.72
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2015-12-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/10719/adminstore/"
+promo_link: "https://lp.larspilawski.de/traffic-conversion-bomber/?aff=adminstore#aff=adminstore"
 sales_page: "https://lp.larspilawski.de/traffic-conversion-bomber/"
 language: "de"
 ---
 # Traffic & Conversion Bomber
 
 > Product ID `10719` · Digistore24 productId `64911` · [HTML profile page](../../produkte/traffic-conversion-bomber-10719.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $91.14 (Single payment) |
+| Price | $91.19 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $54.69 |
+| Earnings/sale* | $54.72 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Cleriker |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/10719/adminstore/
+- **Promo link (affiliate):** https://lp.larspilawski.de/traffic-conversion-bomber/?aff=adminstore#aff=adminstore
 - Sales page: https://lp.larspilawski.de/traffic-conversion-bomber/
 - Vendor affiliate support: http://www.larspilawski.de/partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/64911/adminstore
@@ -95,14 +95,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Traffic & Conversion Bomber? — Typ: Downloads, Anbieter: Cleriker, gelistet seit 2015-12-04
-- Wie viel kostet es? — 91.13633100000001 USD
+- Wie viel kostet es? — 91.19338800000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Traffic & Conversion Bomber Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/64911
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/64911/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Traffic%20%26%20Conversion%20Bomber
 
 ## 4. Editorial notes

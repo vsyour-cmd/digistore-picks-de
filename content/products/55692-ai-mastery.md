@@ -4,16 +4,16 @@ digistore24_product_id: 595207
 title: "AI Mastery"
 vendor: "seotech"
 product_type: "Member area and video courses"
-price: 331.05
+price: 331.25
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 124.74
+earnings_per_sale: 124.81
 cart_conversion_pct: 10
 cancel_rate_pct: 0.77
 categories: ["Computer & Internet","Online Marketing & E-Business","Social Media"]
 listed_since: "2025-02-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://go.eugen-grinschuk.de/ai-mastery/?aff=adminstore#aff=adminstore"
 sales_page: "https://go.eugen-grinschuk.de/ai-mastery/"
@@ -22,16 +22,16 @@ language: "de"
 # AI Mastery
 
 > Product ID `55692` · Digistore24 productId `595207` · [HTML profile page](../../produkte/ai-mastery-55692.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $331.05 (Single payment, Installment) |
+| Price | $331.25 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $124.74 |
+| Earnings/sale* | $124.81 |
 | Cart conversion* | 10% |
 | Cancel rate* | 0.77% |
 | Vendor | seotech |
@@ -66,14 +66,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist AI Mastery? — Typ: Member area and video courses, Anbieter: seotech, gelistet seit 2025-02-09
-- Wie viel kostet es? — 331.047048 USD
+- Wie viel kostet es? — 331.254304 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: AI Mastery Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/595207
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/595207/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=AI%20Mastery
 
 ## 4. Editorial notes

@@ -4,34 +4,34 @@ digistore24_product_id: 735891
 title: "Das komplette Notion Business System für Selbständige"
 vendor: "Medina88"
 product_type: "E-books"
-price: 416.94
+price: 417.2
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 125.08
+earnings_per_sale: 125.16
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Social Media","Finances"]
 listed_since: "2026-09-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/59825/adminstore/"
+promo_link: "https://www.digistore24.com/product/735891?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/735891"
 language: "de"
 ---
 # Das komplette Notion Business System für Selbständige
 
 > Product ID `59825` · Digistore24 productId `735891` · [HTML profile page](../../produkte/das-komplette-notion-business-system-f-r-selbst-ndige-59825.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $416.94 (Single payment) |
+| Price | $417.20 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $125.08 |
+| Earnings/sale* | $125.16 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Medina88 |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59825/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/735891?aff=adminstore
 - Sales page: https://www.digistore24.com/product/735891
 - Canonical redirect: https://www.digistore24.com/redir/735891/adminstore
 
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das komplette Notion Business System für Selbständige? — Typ: E-books, Anbieter: Medina88, gelistet seit 2026-09-27
-- Wie viel kostet es? — 416.93949000000003 USD
+- Wie viel kostet es? — 417.20052 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Das komplette Notion Business System für Selbständige Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/735891
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/735891/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Das%20komplette%20Notion%20Business%20System%20f%C3%BCr%20Selbst%C3%A4ndige
 
 ## 4. Editorial notes

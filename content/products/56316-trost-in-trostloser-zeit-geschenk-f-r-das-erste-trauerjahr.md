@@ -7,13 +7,13 @@ product_type: "E-books"
 price: 9.93
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 4.96
+earnings_per_sale: 4.97
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-03-19"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://www.edition-morgenglanz.de?aff=adminstore#aff=adminstore"
 sales_page: "https://www.edition-morgenglanz.de"
@@ -22,7 +22,7 @@ language: "de"
 # Trost in trostloser Zeit. Geschenk für das erste Trauerjahr
 
 > Product ID `56316` · Digistore24 productId `677652` · [HTML profile page](../../produkte/trost-in-trostloser-zeit-geschenk-f-r-das-erste-trauerjahr-56316.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,7 @@ language: "de"
 | Product type | E-books |
 | Price | $9.93 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $4.96 |
+| Earnings/sale* | $4.97 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | wolfgang1958lange628c |
@@ -58,14 +58,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Trost in trostloser Zeit. Geschenk für das erste Trauerjahr? — Typ: E-books, Anbieter: wolfgang1958lange628c, gelistet seit 2026-03-19
-- Wie viel kostet es? — 9.928728000000001 USD
+- Wie viel kostet es? — 9.934944000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Trost in trostloser Zeit. Geschenk für das erste Trauerjahr Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/677652
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/677652/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Trost%20in%20trostloser%20Zeit.%20Geschenk%20f%C3%BCr%20das%20erste%20Trauerjahr
 
 ## 4. Editorial notes

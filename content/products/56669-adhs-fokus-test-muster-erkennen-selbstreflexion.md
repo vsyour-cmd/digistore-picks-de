@@ -4,7 +4,7 @@ digistore24_product_id: 689388
 title: "ADHS-Fokus-Test: Muster erkennen - Selbstreflexion"
 vendor: "Keto-Fasten"
 product_type: "Remote service provided electronically"
-price: 27.25
+price: 27.27
 currency: "USD"
 affiliate_commission_pct: 20
 earnings_per_sale: 5.45
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Profession & Job"]
 listed_since: "2026-05-25"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
-promo_link: "https://www.digistore24.com/redir/56669/adminstore/"
+promo_link: "https://adhs-online-test.de?aff=adminstore#aff=adminstore"
 sales_page: "https://adhs-online-test.de"
 language: "de"
 ---
 # ADHS-Fokus-Test: Muster erkennen - Selbstreflexion
 
 > Product ID `56669` · Digistore24 productId `689388` · [HTML profile page](../../produkte/adhs-fokus-test-muster-erkennen-selbstreflexion-56669.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $27.25 (Single payment) |
+| Price | $27.27 (Single payment) |
 | Affiliate commission | 20% |
 | Earnings/sale* | $5.45 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56669/adminstore/
+- **Promo link (affiliate):** https://adhs-online-test.de?aff=adminstore#aff=adminstore
 - Sales page: https://adhs-online-test.de
 - Canonical redirect: https://www.digistore24.com/redir/689388/adminstore
 
@@ -60,14 +60,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist ADHS-Fokus-Test: Muster erkennen - Selbstreflexion? — Typ: Remote service provided electronically, Anbieter: Keto-Fasten, gelistet seit 2026-05-25
-- Wie viel kostet es? — 27.248097000000005 USD
+- Wie viel kostet es? — 27.265156 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: ADHS-Fokus-Test: Muster erkennen - Selbstreflexion Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/689388
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/689388/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=ADHS-Fokus-Test%3A%20Muster%20erkennen%20-%20Selbstreflexion
 
 ## 4. Editorial notes

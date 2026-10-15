@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2024-12-02"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/50607/adminstore/"
+promo_link: "https://page.funnelcockpit.com/KAEyxpcistHw2BFTX?aff=adminstore#aff=adminstore"
 sales_page: "https://page.funnelcockpit.com/KAEyxpcistHw2BFTX"
 language: "de"
 ---
 # Der 5-Schritte-Plan: So baust du ein profitables Online...
 
 > Product ID `50607` · Digistore24 productId `583877` · [HTML profile page](../../produkte/der-5-schritte-plan-so-baust-du-ein-profitables-online-50607.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/50607/adminstore/
+- **Promo link (affiliate):** https://page.funnelcockpit.com/KAEyxpcistHw2BFTX?aff=adminstore#aff=adminstore
 - Sales page: https://page.funnelcockpit.com/KAEyxpcistHw2BFTX
 - Vendor affiliate support: https://page.funnelcockpit.com/5g9JXY2jhBohDs65K
 - Canonical redirect: https://www.digistore24.com/redir/583877/adminstore
@@ -66,7 +66,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Der 5-Schritte-Plan: So baust du ein profitables Online... Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/583877
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/583877/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%205-Schritte-Plan%3A%20So%20baust%20du%20ein%20profitables%20Online...
 
 ## 4. Editorial notes

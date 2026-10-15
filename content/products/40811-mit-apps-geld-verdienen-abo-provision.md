@@ -4,7 +4,7 @@ digistore24_product_id: 454379
 title: "Mit Apps Geld verdienen - Abo Provision!"
 vendor: "monetenwissen"
 product_type: "Downloads"
-price: 22.19
+price: 22.21
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 3.47
@@ -12,24 +12,24 @@ cart_conversion_pct: 19
 cancel_rate_pct: 2.66
 categories: ["Education"]
 listed_since: "2022-08-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/40811/adminstore/"
+promo_link: "https://moneten-wissen.de/mit-apps-geld-verdienen-ebook/?aff=adminstore#aff=adminstore"
 sales_page: "https://moneten-wissen.de/mit-apps-geld-verdienen-ebook/"
 language: "de"
 ---
 # Mit Apps Geld verdienen - Abo Provision!
 
 > Product ID `40811` · Digistore24 productId `454379` · [HTML profile page](../../produkte/mit-apps-geld-verdienen-abo-provision-40811.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $22.19 (Single payment) |
+| Price | $22.21 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $3.47 |
 | Cart conversion* | 19% |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/40811/adminstore/
+- **Promo link (affiliate):** https://moneten-wissen.de/mit-apps-geld-verdienen-ebook/?aff=adminstore#aff=adminstore
 - Sales page: https://moneten-wissen.de/mit-apps-geld-verdienen-ebook/
 - Vendor affiliate support: https://moneten-wissen.de/mit-apps-geld-verdienen-affiliate-support/
 - Canonical redirect: https://www.digistore24.com/redir/454379/adminstore
@@ -69,14 +69,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mit Apps Geld verdienen - Abo Provision!? — Typ: Downloads, Anbieter: monetenwissen, gelistet seit 2022-08-07
-- Wie viel kostet es? — 22.194285000000004 USD
+- Wie viel kostet es? — 22.208180000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Mit Apps Geld verdienen - Abo Provision! Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/454379
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/454379/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Mit%20Apps%20Geld%20verdienen%20-%20Abo%20Provision!
 
 ## 4. Editorial notes

@@ -4,34 +4,34 @@ digistore24_product_id: 609522
 title: "Der Kurs für die echte Herzensverbindung mit deinem Pferd"
 vendor: "Ophelis"
 product_type: "Member area and video courses"
-price: 140
+price: 140.08
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 42
+earnings_per_sale: 42.02
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Animals & Pets"]
 listed_since: "2025-04-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/52279/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/609522?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/609522"
 language: "de"
 ---
 # Der Kurs für die echte Herzensverbindung mit deinem Pferd
 
 > Product ID `52279` · Digistore24 productId `609522` · [HTML profile page](../../produkte/der-kurs-f-r-die-echte-herzensverbindung-mit-deinem-pferd-52279.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $140.00 (Single payment) |
+| Price | $140.08 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $42.00 |
+| Earnings/sale* | $42.02 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Ophelis |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/52279/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/609522?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/609522
 - Canonical redirect: https://www.digistore24.com/redir/609522/adminstore
 
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Kurs für die echte Herzensverbindung mit deinem Pferd? — Typ: Member area and video courses, Anbieter: Ophelis, gelistet seit 2025-04-26
-- Wie viel kostet es? — 139.997301 USD
+- Wie viel kostet es? — 140.084948 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Der Kurs für die echte Herzensverbindung mit deinem Pferd Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/609522
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/609522/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%20Kurs%20f%C3%BCr%20die%20echte%20Herzensverbindung%20mit%20deinem%20Pferd
 
 ## 4. Editorial notes

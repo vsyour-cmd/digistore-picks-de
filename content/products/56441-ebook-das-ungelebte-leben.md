@@ -4,32 +4,32 @@ digistore24_product_id: 689701
 title: "Ebook - Das ungelebte Leben"
 vendor: "joebgesbuchverleger39ac"
 product_type: "E-books"
-price: 6.26
+price: 6.27
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 3.13
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Personal Development"]
+categories: ["Personal Development","Education"]
 listed_since: "2026-05-03"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/56441/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/689701?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/689701"
 language: "de"
 ---
 # Ebook - Das ungelebte Leben
 
 > Product ID `56441` · Digistore24 productId `689701` · [HTML profile page](../../produkte/ebook-das-ungelebte-leben-56441.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $6.26 (Single payment) |
+| Price | $6.27 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $3.13 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | joebgesbuchverleger39ac |
 | Listed since | 2026-05-03 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Personal Development |
+| Categories | Personal Development, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56441/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/689701?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/689701
 - Canonical redirect: https://www.digistore24.com/redir/689701/adminstore
 
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ebook - Das ungelebte Leben? — Typ: E-books, Anbieter: joebgesbuchverleger39ac, gelistet seit 2026-05-03
-- Wie viel kostet es? — 6.26136 USD
+- Wie viel kostet es? — 6.26528 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Ebook - Das ungelebte Leben Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/689701
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/689701/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Ebook%20-%20Das%20ungelebte%20Leben
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 569388
 title: "Grüne Magie - Heilkraft aus Pflanzen"
 vendor: "stable-stuff"
 product_type: "E-books"
-price: 25.08
+price: 25.09
 currency: "USD"
 affiliate_commission_pct: 15
 earnings_per_sale: 3.76
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Animals & Pets","Health & Fitness"]
+categories: ["Health & Fitness","Animals & Pets"]
 listed_since: "2024-09-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://stable-stuff.com/heilmittel-fuer-pferde-grundlagen/?aff=adminstore#aff=adminstore"
 sales_page: "https://stable-stuff.com/heilmittel-fuer-pferde-grundlagen/"
@@ -22,14 +22,14 @@ language: "de"
 # Grüne Magie - Heilkraft aus Pflanzen
 
 > Product ID `49374` · Digistore24 productId `569388` · [HTML profile page](../../produkte/gr-ne-magie-heilkraft-aus-pflanzen-49374.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $25.08 (Single payment) |
+| Price | $25.09 (Single payment) |
 | Affiliate commission | 15% |
 | Earnings/sale* | $3.76 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | stable-stuff |
 | Listed since | 2024-09-09 |
 | Auto-accept affiliates | yes |
-| Categories | Animals & Pets, Health & Fitness |
+| Categories | Health & Fitness, Animals & Pets |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -76,14 +76,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Grüne Magie - Heilkraft aus Pflanzen? — Typ: E-books, Anbieter: stable-stuff, gelistet seit 2024-09-09
-- Wie viel kostet es? — 25.078983 USD
+- Wie viel kostet es? — 25.094684 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Grüne Magie - Heilkraft aus Pflanzen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/569388
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/569388/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Gr%C3%BCne%20Magie%20-%20Heilkraft%20aus%20Pflanzen
 
 ## 4. Editorial notes

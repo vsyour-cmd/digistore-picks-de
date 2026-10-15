@@ -4,16 +4,16 @@ digistore24_product_id: 474857
 title: "Gesunde Stressbewältigung, Achtsamkeit + positive Emotionen"
 vendor: "LUMEUS"
 product_type: "Member area and video courses"
-price: 20.61
+price: 20.62
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 6.1
+earnings_per_sale: 6.11
 cart_conversion_pct: 11
 cancel_rate_pct: 2.73
 categories: ["Health & Fitness"]
 listed_since: "2022-12-14"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/474857/?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/474857/"
@@ -22,16 +22,16 @@ language: "de"
 # Gesunde Stressbewältigung, Achtsamkeit + positive Emotionen
 
 > Product ID `45826` · Digistore24 productId `474857` · [HTML profile page](../../produkte/gesunde-stressbew-ltigung-achtsamkeit-positive-emotionen-45826.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $20.61 (Single payment) |
+| Price | $20.62 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $6.10 |
+| Earnings/sale* | $6.11 |
 | Cart conversion* | 11% |
 | Cancel rate* | 2.73% |
 | Vendor | LUMEUS |
@@ -74,14 +74,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Gesunde Stressbewältigung, Achtsamkeit + positive Emotionen? — Typ: Member area and video courses, Anbieter: LUMEUS, gelistet seit 2022-12-14
-- Wie viel kostet es? — 20.606583 USD
+- Wie viel kostet es? — 20.619484 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Gesunde Stressbewältigung, Achtsamkeit + positive Emotionen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/474857
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/474857/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Gesunde%20Stressbew%C3%A4ltigung%2C%20Achtsamkeit%20%2B%20positive%20Emotionen
 
 ## 4. Editorial notes

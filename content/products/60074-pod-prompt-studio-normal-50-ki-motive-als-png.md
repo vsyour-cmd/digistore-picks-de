@@ -4,7 +4,7 @@ digistore24_product_id: 737772
 title: "POD Prompt Studio – Normal 50: KI-Motive als PNG"
 vendor: "gowxsese"
 product_type: "Software"
-price: 27.25
+price: 27.27
 currency: "USD"
 affiliate_commission_pct: 5
 earnings_per_sale: 1.36
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2026-09-30"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://dein-wunschdesign.de?aff=adminstore#aff=adminstore"
 sales_page: "https://dein-wunschdesign.de"
@@ -22,14 +22,14 @@ language: "de"
 # POD Prompt Studio – Normal 50: KI-Motive als PNG
 
 > Product ID `60074` · Digistore24 productId `737772` · [HTML profile page](../../produkte/pod-prompt-studio-normal-50-ki-motive-als-png-60074.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $27.25 (Subscription) |
+| Price | $27.27 (Subscription) |
 | Affiliate commission | 5% |
 | Earnings/sale* | $1.36 |
 | Cart conversion* | — |
@@ -58,14 +58,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist POD Prompt Studio – Normal 50: KI-Motive als PNG? — Typ: Software, Anbieter: gowxsese, gelistet seit 2026-09-30
-- Wie viel kostet es? — 27.248097000000005 USD
+- Wie viel kostet es? — 27.265156 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: POD Prompt Studio – Normal 50: KI-Motive als PNG Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/737772
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/737772/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=POD%20Prompt%20Studio%20%E2%80%93%20Normal%2050%3A%20KI-Motive%20als%20PNG
 
 ## 4. Editorial notes

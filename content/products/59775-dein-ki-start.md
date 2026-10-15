@@ -4,7 +4,7 @@ digistore24_product_id: 735628
 title: "Dein KI-Start"
 vendor: "ima806"
 product_type: "Member area and video courses"
-price: 6.57
+price: 6.58
 currency: "USD"
 affiliate_commission_pct: 33
 earnings_per_sale: 2.17
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2026-09-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/59775/adminstore/"
+promo_link: "https://markwart-academy.de/deinkistart/?aff=adminstore#aff=adminstore"
 sales_page: "https://markwart-academy.de/deinkistart/"
 language: "de"
 ---
 # Dein KI-Start
 
 > Product ID `59775` · Digistore24 productId `735628` · [HTML profile page](../../produkte/dein-ki-start-59775.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $6.57 (Single payment) |
+| Price | $6.58 (Single payment) |
 | Affiliate commission | 33% |
 | Earnings/sale* | $2.17 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59775/adminstore/
+- **Promo link (affiliate):** https://markwart-academy.de/deinkistart/?aff=adminstore#aff=adminstore
 - Sales page: https://markwart-academy.de/deinkistart/
 - Canonical redirect: https://www.digistore24.com/redir/735628/adminstore
 
@@ -58,14 +58,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Dein KI-Start? — Typ: Member area and video courses, Anbieter: ima806, gelistet seit 2026-09-26
-- Wie viel kostet es? — 6.574428 USD
+- Wie viel kostet es? — 6.578544 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Dein KI-Start Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/735628
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/735628/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Dein%20KI-Start
 
 ## 4. Editorial notes

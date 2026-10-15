@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-10-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/60355/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/741775?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/741775"
 language: "de"
 ---
 # Patientenrechte leicht gemacht – mit Patienten-Briefen
 
 > Product ID `60355` · Digistore24 productId `741775` · [HTML profile page](../../produkte/patientenrechte-leicht-gemacht-mit-patienten-briefen-60355.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/60355/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/741775?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/741775
 - Canonical redirect: https://www.digistore24.com/redir/741775/adminstore
 
@@ -81,14 +81,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Patientenrechte leicht gemacht – mit Patienten-Briefen? — Typ: E-books, Anbieter: ratgeberleichtgemacht, gelistet seit 2026-10-07
-- Wie viel kostet es? — 15.575133000000001 USD
+- Wie viel kostet es? — 15.584884 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Patientenrechte leicht gemacht – mit Patienten-Briefen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/741775
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/741775/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Patientenrechte%20leicht%20gemacht%20%E2%80%93%20mit%20Patienten-Briefen
 
 ## 4. Editorial notes

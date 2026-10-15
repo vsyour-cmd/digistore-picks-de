@@ -4,16 +4,16 @@ digistore24_product_id: 688847
 title: "Mathematik: Grössen, Geometrie, Daten"
 vendor: "Mathecloud"
 product_type: "Member area and video courses"
-price: 91.14
+price: 91.19
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 54.69
+earnings_per_sale: 54.72
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Personal Development"]
+categories: ["Personal Development","Education"]
 listed_since: "2026-04-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://academy.e-ducation.cloud/course/groessen-geometrie-und-daten?aff=adminstore#aff=adminstore"
 sales_page: "https://academy.e-ducation.cloud/course/groessen-geometrie-und-daten"
@@ -22,22 +22,22 @@ language: "de"
 # Mathematik: Grössen, Geometrie, Daten
 
 > Product ID `56458` · Digistore24 productId `688847` · [HTML profile page](../../produkte/mathematik-gr-ssen-geometrie-daten-56458.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $91.14 (Single payment) |
+| Price | $91.19 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $54.69 |
+| Earnings/sale* | $54.72 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Mathecloud |
 | Listed since | 2026-04-29 |
 | Auto-accept affiliates | no (approval required) |
-| Categories | Education, Personal Development |
+| Categories | Personal Development, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -91,14 +91,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mathematik: Grössen, Geometrie, Daten? — Typ: Member area and video courses, Anbieter: Mathecloud, gelistet seit 2026-04-29
-- Wie viel kostet es? — 91.13633100000001 USD
+- Wie viel kostet es? — 91.19338800000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Mathematik: Grössen, Geometrie, Daten Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/688847
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/688847/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Mathematik%3A%20Gr%C3%B6ssen%2C%20Geometrie%2C%20Daten
 
 ## 4. Editorial notes

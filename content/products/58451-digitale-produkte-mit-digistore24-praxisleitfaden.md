@@ -4,34 +4,34 @@ digistore24_product_id: 718575
 title: "Digitale Produkte mit Digistore24 – Praxisleitfaden"
 vendor: "infoamvezde"
 product_type: "E-books"
-price: 61.65
+price: 61.69
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 30.83
+earnings_per_sale: 30.85
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Marketing Services"]
 listed_since: "2026-08-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/58451/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/718575?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/718575"
 language: "de"
 ---
 # Digitale Produkte mit Digistore24 – Praxisleitfaden
 
 > Product ID `58451` · Digistore24 productId `718575` · [HTML profile page](../../produkte/digitale-produkte-mit-digistore24-praxisleitfaden-58451.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $61.65 (Single payment) |
+| Price | $61.69 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $30.83 |
+| Earnings/sale* | $30.85 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | infoamvezde |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58451/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/718575?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/718575
 - Canonical redirect: https://www.digistore24.com/redir/718575/adminstore
 
@@ -86,14 +86,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Digitale Produkte mit Digistore24 – Praxisleitfaden? — Typ: E-books, Anbieter: infoamvezde, gelistet seit 2026-08-18
-- Wie viel kostet es? — 61.65203400000001 USD
+- Wie viel kostet es? — 61.690632 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Digitale Produkte mit Digistore24 – Praxisleitfaden Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/718575
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/718575/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Digitale%20Produkte%20mit%20Digistore24%20%E2%80%93%20Praxisleitfaden
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 456396
 title: "Facebook Marketing Secrets"
 vendor: "Spekulatius"
 product_type: "E-books"
-price: 10.34
+price: 10.35
 currency: "USD"
 affiliate_commission_pct: 80
-earnings_per_sale: 8.27
+earnings_per_sale: 8.28
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2022-08-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://page.funnelcockpit.com/pdirgAigjLG8pNTam?aff=adminstore#aff=adminstore"
 sales_page: "https://page.funnelcockpit.com/pdirgAigjLG8pNTam"
@@ -22,16 +22,16 @@ language: "de"
 # Facebook Marketing Secrets
 
 > Product ID `40930` · Digistore24 productId `456396` · [HTML profile page](../../produkte/facebook-marketing-secrets-40930.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.34 (Single payment) |
+| Price | $10.35 (Single payment) |
 | Affiliate commission | 80% |
-| Earnings/sale* | $8.27 |
+| Earnings/sale* | $8.28 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Spekulatius |
@@ -58,14 +58,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Facebook Marketing Secrets? — Typ: E-books, Anbieter: Spekulatius, gelistet seit 2022-08-20
-- Wie viel kostet es? — 10.342425 USD
+- Wie viel kostet es? — 10.3489 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Facebook Marketing Secrets Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/456396
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/456396/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Facebook%20Marketing%20Secrets
 
 ## 4. Editorial notes

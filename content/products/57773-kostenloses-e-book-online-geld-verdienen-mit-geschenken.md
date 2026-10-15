@@ -4,34 +4,34 @@ digistore24_product_id: 714939
 title: "Kostenloses E-Book: Online Geld verdienen mit Geschenken"
 vendor: "werni1"
 product_type: "E-books"
-price: 30.3
+price: 30.32
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 15.15
+earnings_per_sale: 15.16
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-07-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/57773/adminstore/"
+promo_link: "https://page.funnelcockpit.com/cnmekDPrfbcwr99qt?aff=adminstore#aff=adminstore"
 sales_page: "https://page.funnelcockpit.com/cnmekDPrfbcwr99qt"
 language: "de"
 ---
 # Kostenloses E-Book: Online Geld verdienen mit Geschenken
 
 > Product ID `57773` · Digistore24 productId `714939` · [HTML profile page](../../produkte/kostenloses-e-book-online-geld-verdienen-mit-geschenken-57773.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $30.30 (Single payment) |
+| Price | $30.32 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $15.15 |
+| Earnings/sale* | $15.16 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | werni1 |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/57773/adminstore/
+- **Promo link (affiliate):** https://page.funnelcockpit.com/cnmekDPrfbcwr99qt?aff=adminstore#aff=adminstore
 - Sales page: https://page.funnelcockpit.com/cnmekDPrfbcwr99qt
 - Vendor affiliate support: https://page.funnelcockpit.com/k2WxgcqGWHHQZNAXp
 - Canonical redirect: https://www.digistore24.com/redir/714939/adminstore
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Kostenloses E-Book: Online Geld verdienen mit Geschenken? — Typ: E-books, Anbieter: werni1, gelistet seit 2026-07-27
-- Wie viel kostet es? — 30.300510000000003 USD
+- Wie viel kostet es? — 30.319480000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Kostenloses E-Book: Online Geld verdienen mit Geschenken Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/714939
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/714939/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Kostenloses%20E-Book%3A%20Online%20Geld%20verdienen%20mit%20Geschenken
 
 ## 4. Editorial notes

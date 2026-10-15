@@ -4,7 +4,7 @@ digistore24_product_id: 654604
 title: "E-Book Bundesstraße 30 – Geschichte exklusiv bewerben"
 vendor: "erit-tibi"
 product_type: "E-books"
-price: 7.3
+price: 7.31
 currency: "USD"
 affiliate_commission_pct: 30
 earnings_per_sale: 2.19
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Politics & Economy"]
 listed_since: "2025-12-10"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.b30oberschwaben.de/ebook-bundesstrasse-30-geschichte.html?aff=adminstore#aff=adminstore"
 sales_page: "https://www.b30oberschwaben.de/ebook-bundesstrasse-30-geschichte.html"
@@ -22,14 +22,14 @@ language: "de"
 # E-Book Bundesstraße 30 – Geschichte exklusiv bewerben
 
 > Product ID `54888` · Digistore24 productId `654604` · [HTML profile page](../../produkte/e-book-bundesstra-e-30-geschichte-exklusiv-bewerben-54888.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $7.30 (Single payment) |
+| Price | $7.31 (Single payment) |
 | Affiliate commission | 30% |
 | Earnings/sale* | $2.19 |
 | Cart conversion* | — |
@@ -73,14 +73,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist E-Book Bundesstraße 30 – Geschichte exklusiv bewerben? — Typ: E-books, Anbieter: erit-tibi, gelistet seit 2025-12-10
-- Wie viel kostet es? — 7.3011930000000005 USD
+- Wie viel kostet es? — 7.305764000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: E-Book Bundesstraße 30 – Geschichte exklusiv bewerben Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/654604
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/654604/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=E-Book%20Bundesstra%C3%9Fe%2030%20%E2%80%93%20Geschichte%20exklusiv%20bewerben
 
 ## 4. Editorial notes

@@ -4,34 +4,34 @@ digistore24_product_id: 172975
 title: "Anziehungskraft-Masterplan-Coaching"
 vendor: "Erfolg-Intuitiv"
 product_type: "Member area and video courses"
-price: 29.37
+price: 29.39
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 11.85
+earnings_per_sale: 11.86
 cart_conversion_pct: 19
 cancel_rate_pct: 6.02
 categories: ["Personal Development"]
 listed_since: "2017-10-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/20539/adminstore/"
+promo_link: "https://erfolg-intuitiv.de/anziehungskraft-masterplan-online-seminar/?aff=adminstore#aff=adminstore"
 sales_page: "https://erfolg-intuitiv.de/anziehungskraft-masterplan-online-seminar/"
 language: "de"
 ---
 # Anziehungskraft-Masterplan-Coaching
 
 > Product ID `20539` · Digistore24 productId `172975` · [HTML profile page](../../produkte/anziehungskraft-masterplan-coaching-20539.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $29.37 (Single payment, Installment) |
+| Price | $29.39 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $11.85 |
+| Earnings/sale* | $11.86 |
 | Cart conversion* | 19% |
 | Cancel rate* | 6.02% |
 | Vendor | Erfolg-Intuitiv |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/20539/adminstore/
+- **Promo link (affiliate):** https://erfolg-intuitiv.de/anziehungskraft-masterplan-online-seminar/?aff=adminstore#aff=adminstore
 - Sales page: https://erfolg-intuitiv.de/anziehungskraft-masterplan-online-seminar/
 - Vendor affiliate support: https://erfolg-intuitiv.de/partnerprogramm-amc/
 - Canonical redirect: https://www.digistore24.com/redir/172975/adminstore
@@ -78,14 +78,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Anziehungskraft-Masterplan-Coaching? — Typ: Member area and video courses, Anbieter: Erfolg-Intuitiv, gelistet seit 2017-10-23
-- Wie viel kostet es? — 29.372487000000003 USD
+- Wie viel kostet es? — 29.390876 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Anziehungskraft-Masterplan-Coaching Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/172975
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/172975/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Anziehungskraft-Masterplan-Coaching
 
 ## 4. Editorial notes

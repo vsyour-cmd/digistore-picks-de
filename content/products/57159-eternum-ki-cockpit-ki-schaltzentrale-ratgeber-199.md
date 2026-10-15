@@ -4,34 +4,34 @@ digistore24_product_id: 706557
 title: "ETERNUM KI-Cockpit – KI-Schaltzentrale + Ratgeber | 199 €"
 vendor: "megareichtum"
 product_type: "Member area and video courses"
-price: 186.98
+price: 187.1
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 112.19
+earnings_per_sale: 112.26
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-06-28"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/57159/adminstore/"
+promo_link: "https://eternumtech.eu/ki-cockpit?aff=adminstore#aff=adminstore"
 sales_page: "https://eternumtech.eu/ki-cockpit"
 language: "de"
 ---
 # ETERNUM KI-Cockpit – KI-Schaltzentrale + Ratgeber | 199 €
 
 > Product ID `57159` · Digistore24 productId `706557` · [HTML profile page](../../produkte/eternum-ki-cockpit-ki-schaltzentrale-ratgeber-199-57159.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $186.98 (Single payment) |
+| Price | $187.10 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $112.19 |
+| Earnings/sale* | $112.26 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | megareichtum |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/57159/adminstore/
+- **Promo link (affiliate):** https://eternumtech.eu/ki-cockpit?aff=adminstore#aff=adminstore
 - Sales page: https://eternumtech.eu/ki-cockpit
 - Vendor affiliate support: https://eternumtech.eu/partner
 - Canonical redirect: https://www.digistore24.com/redir/706557/adminstore
@@ -92,14 +92,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist ETERNUM KI-Cockpit – KI-Schaltzentrale + Ratgeber | 199 €? — Typ: Member area and video courses, Anbieter: megareichtum, gelistet seit 2026-06-28
-- Wie viel kostet es? — 186.979863 USD
+- Wie viel kostet es? — 187.096924 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: ETERNUM KI-Cockpit – KI-Schaltzentrale + Ratgeber | 199 € Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/706557
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/706557/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=ETERNUM%20KI-Cockpit%20%E2%80%93%20KI-Schaltzentrale%20%2B%20Ratgeber%20%7C%20199%20%E2%82%AC
 
 ## 4. Editorial notes

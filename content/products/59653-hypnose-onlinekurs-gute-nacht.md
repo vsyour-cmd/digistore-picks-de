@@ -4,34 +4,34 @@ digistore24_product_id: 515014
 title: "Hypnose-Onlinekurs GUTE NACHT"
 vendor: "petanthony"
 product_type: "Member area and video courses"
-price: 73.29
+price: 73.34
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 18.33
+earnings_per_sale: 18.34
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-09-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/59653/adminstore/"
+promo_link: "https://shop.petanthony.com/online-kurs_gutenacht_DS/?aff=adminstore#aff=adminstore"
 sales_page: "https://shop.petanthony.com/online-kurs_gutenacht_DS/"
 language: "de"
 ---
 # Hypnose-Onlinekurs GUTE NACHT
 
 > Product ID `59653` · Digistore24 productId `515014` · [HTML profile page](../../produkte/hypnose-onlinekurs-gute-nacht-59653.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $73.29 (Single payment) |
+| Price | $73.34 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $18.33 |
+| Earnings/sale* | $18.34 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | petanthony |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59653/adminstore/
+- **Promo link (affiliate):** https://shop.petanthony.com/online-kurs_gutenacht_DS/?aff=adminstore#aff=adminstore
 - Sales page: https://shop.petanthony.com/online-kurs_gutenacht_DS/
 - Vendor affiliate support: https://www.petanthony.com/partner/
 - Canonical redirect: https://www.digistore24.com/redir/515014/adminstore
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Hypnose-Onlinekurs GUTE NACHT? — Typ: Member area and video courses, Anbieter: petanthony, gelistet seit 2026-09-24
-- Wie viel kostet es? — 73.291455 USD
+- Wie viel kostet es? — 73.33734 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Hypnose-Onlinekurs GUTE NACHT Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/515014
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/515014/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Hypnose-Onlinekurs%20GUTE%20NACHT
 
 ## 4. Editorial notes

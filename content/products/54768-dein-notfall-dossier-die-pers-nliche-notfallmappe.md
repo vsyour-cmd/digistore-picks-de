@@ -4,7 +4,7 @@ digistore24_product_id: 651091
 title: "Dein Notfall-Dossier – Die persönliche Notfallmappe"
 vendor: "dd530xd"
 product_type: "Downloads"
-price: 9.38
+price: 9.39
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 4.7
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children","Law & Justice","Services"]
 listed_since: "2025-11-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/651091?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/651091"
@@ -22,14 +22,14 @@ language: "de"
 # Dein Notfall-Dossier – Die persönliche Notfallmappe
 
 > Product ID `54768` · Digistore24 productId `651091` · [HTML profile page](../../produkte/dein-notfall-dossier-die-pers-nliche-notfallmappe-54768.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $9.38 (Single payment) |
+| Price | $9.39 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $4.70 |
 | Cart conversion* | — |
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Dein Notfall-Dossier – Die persönliche Notfallmappe? — Typ: Downloads, Anbieter: dd530xd, gelistet seit 2025-11-26
-- Wie viel kostet es? — 9.380859000000001 USD
+- Wie viel kostet es? — 9.386732 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Dein Notfall-Dossier – Die persönliche Notfallmappe Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/651091
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/651091/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Dein%20Notfall-Dossier%20%E2%80%93%20Die%20pers%C3%B6nliche%20Notfallmappe
 
 ## 4. Editorial notes

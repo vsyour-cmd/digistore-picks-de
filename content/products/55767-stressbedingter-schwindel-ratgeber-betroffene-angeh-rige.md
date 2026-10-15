@@ -4,34 +4,34 @@ digistore24_product_id: 417751
 title: "Stressbedingter Schwindel - Ratgeber Betroffene - Angehörige"
 vendor: "aktiv-entspannt-eifel"
 product_type: "E-books"
-price: 19.75
+price: 19.76
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 9.87
+earnings_per_sale: 9.88
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2021-11-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "http://www.vokabeln-lernen-wie-2037.de/grand-slam-premium/#aff=adminstore"
+promo_link: "https://natuerlich-einfach.de/stressbedingter-schwindel/?aff=adminstore#aff=adminstore"
 sales_page: "https://natuerlich-einfach.de/stressbedingter-schwindel/"
 language: "de"
 ---
 # Stressbedingter Schwindel - Ratgeber Betroffene - Angehörige
 
 > Product ID `55767` · Digistore24 productId `417751` · [HTML profile page](../../produkte/stressbedingter-schwindel-ratgeber-betroffene-angeh-rige-55767.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $19.75 (Single payment) |
+| Price | $19.76 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $9.87 |
+| Earnings/sale* | $9.88 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | aktiv-entspannt-eifel |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://www.vokabeln-lernen-wie-2037.de/grand-slam-premium/#aff=adminstore
+- **Promo link (affiliate):** https://natuerlich-einfach.de/stressbedingter-schwindel/?aff=adminstore#aff=adminstore
 - Sales page: https://natuerlich-einfach.de/stressbedingter-schwindel/
 - Canonical redirect: https://www.digistore24.com/redir/417751/adminstore
 
@@ -72,14 +72,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Stressbedingter Schwindel - Ratgeber Betroffene - Angehörige? — Typ: E-books, Anbieter: aktiv-entspannt-eifel, gelistet seit 2021-11-24
-- Wie viel kostet es? — 19.745646 USD
+- Wie viel kostet es? — 19.758008 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Stressbedingter Schwindel - Ratgeber Betroffene - Angehörige Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/417751
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/417751/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Stressbedingter%20Schwindel%20-%20Ratgeber%20Betroffene%20-%20Angeh%C3%B6rige
 
 ## 4. Editorial notes

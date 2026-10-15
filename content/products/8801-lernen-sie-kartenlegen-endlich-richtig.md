@@ -4,7 +4,7 @@ digistore24_product_id: 61745
 title: "Lernen Sie Kartenlegen endlich richtig"
 vendor: "maren_giertz"
 product_type: "Downloads"
-price: 23.48
+price: 23.49
 currency: "USD"
 affiliate_commission_pct: 20
 earnings_per_sale: 4.7
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2015-10-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.esoterikwelle.de/kartenlegen-lernen/lenormand-anleitungen-e-books/e-book-video-1-angebot/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.esoterikwelle.de/kartenlegen-lernen/lenormand-anleitungen-e-books/e-book-video-1-angebot/"
@@ -22,14 +22,14 @@ language: "de"
 # Lernen Sie Kartenlegen endlich richtig
 
 > Product ID `8801` · Digistore24 productId `61745` · [HTML profile page](../../produkte/lernen-sie-kartenlegen-endlich-richtig-8801.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $23.48 (Single payment) |
+| Price | $23.49 (Single payment) |
 | Affiliate commission | 20% |
 | Earnings/sale* | $4.70 |
 | Cart conversion* | — |
@@ -73,14 +73,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Lernen Sie Kartenlegen endlich richtig? — Typ: Downloads, Anbieter: maren_giertz, gelistet seit 2015-10-27
-- Wie viel kostet es? — 23.4801 USD
+- Wie viel kostet es? — 23.4948 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Lernen Sie Kartenlegen endlich richtig Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/61745
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/61745/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Lernen%20Sie%20Kartenlegen%20endlich%20richtig
 
 ## 4. Editorial notes

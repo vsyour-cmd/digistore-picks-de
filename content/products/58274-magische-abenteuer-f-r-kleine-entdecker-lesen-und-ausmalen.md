@@ -4,7 +4,7 @@ digistore24_product_id: 703626
 title: "Magische Abenteuer für kleine Entdecker – Lesen und Ausmalen"
 vendor: "a968403496d45"
 product_type: "Downloads"
-price: 11.17
+price: 11.18
 currency: "USD"
 affiliate_commission_pct: 60
 earnings_per_sale: 6.7
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2026-08-11"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/703626?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/703626"
@@ -22,14 +22,14 @@ language: "de"
 # Magische Abenteuer für kleine Entdecker – Lesen und Ausmalen
 
 > Product ID `58274` · Digistore24 productId `703626` · [HTML profile page](../../produkte/magische-abenteuer-f-r-kleine-entdecker-lesen-und-ausmalen-58274.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $11.17 (Single payment) |
+| Price | $11.18 (Single payment) |
 | Affiliate commission | 60% |
 | Earnings/sale* | $6.70 |
 | Cart conversion* | — |
@@ -72,14 +72,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Magische Abenteuer für kleine Entdecker – Lesen und Ausmalen? — Typ: Downloads, Anbieter: a968403496d45, gelistet seit 2026-08-11
-- Wie viel kostet es? — 11.169819 USD
+- Wie viel kostet es? — 11.176812 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Magische Abenteuer für kleine Entdecker – Lesen und Ausmalen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/703626
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/703626/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Magische%20Abenteuer%20f%C3%BCr%20kleine%20Entdecker%20%E2%80%93%20Lesen%20und%20Ausmalen
 
 ## 4. Editorial notes

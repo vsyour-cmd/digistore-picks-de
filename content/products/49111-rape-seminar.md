@@ -4,34 +4,34 @@ digistore24_product_id: 563103
 title: "Rape Seminar"
 vendor: "MDretreat"
 product_type: "Downloads"
-price: 186.98
+price: 187.1
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 93.5
+earnings_per_sale: 93.55
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2024-07-28"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/49111/adminstore/"
+promo_link: "https://dominichenry.systeme.io/offene-haende-a2413c09?aff=adminstore#aff=adminstore"
 sales_page: "https://dominichenry.systeme.io/offene-haende-a2413c09"
 language: "de"
 ---
 # Rape Seminar
 
 > Product ID `49111` · Digistore24 productId `563103` · [HTML profile page](../../produkte/rape-seminar-49111.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $186.98 (Single payment) |
+| Price | $187.10 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $93.50 |
+| Earnings/sale* | $93.55 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MDretreat |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/49111/adminstore/
+- **Promo link (affiliate):** https://dominichenry.systeme.io/offene-haende-a2413c09?aff=adminstore#aff=adminstore
 - Sales page: https://dominichenry.systeme.io/offene-haende-a2413c09
 - Canonical redirect: https://www.digistore24.com/redir/563103/adminstore
 
@@ -78,14 +78,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Rape Seminar? — Typ: Downloads, Anbieter: MDretreat, gelistet seit 2024-07-28
-- Wie viel kostet es? — 186.979863 USD
+- Wie viel kostet es? — 187.096924 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Rape Seminar Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/563103
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/563103/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Rape%20Seminar
 
 ## 4. Editorial notes

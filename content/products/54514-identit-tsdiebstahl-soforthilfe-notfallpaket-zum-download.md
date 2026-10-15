@@ -4,16 +4,16 @@ digistore24_product_id: 644072
 title: "Identitätsdiebstahl Soforthilfe – Notfallpaket zum Download"
 vendor: "ID-Service"
 product_type: "Downloads"
-price: 45.09
+price: 45.12
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 22.55
+earnings_per_sale: 22.57
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Computer & Internet","Law & Justice","Personal Development"]
+categories: ["Personal Development","Law & Justice","Computer & Internet"]
 listed_since: "2025-10-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://identitaetsdiebstahl-direkthilfe.de/soforthilfe/?aff=adminstore#aff=adminstore"
 sales_page: "https://identitaetsdiebstahl-direkthilfe.de/soforthilfe/"
@@ -22,22 +22,22 @@ language: "de"
 # Identitätsdiebstahl Soforthilfe – Notfallpaket zum Download
 
 > Product ID `54514` · Digistore24 productId `644072` · [HTML profile page](../../produkte/identit-tsdiebstahl-soforthilfe-notfallpaket-zum-download-54514.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $45.09 (Single payment) |
+| Price | $45.12 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $22.55 |
+| Earnings/sale* | $22.57 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ID-Service |
 | Listed since | 2025-10-26 |
 | Auto-accept affiliates | yes |
-| Categories | Computer & Internet, Law & Justice, Personal Development |
+| Categories | Personal Development, Law & Justice, Computer & Internet |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -97,14 +97,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Identitätsdiebstahl Soforthilfe – Notfallpaket zum Download? — Typ: Downloads, Anbieter: ID-Service, gelistet seit 2025-10-26
-- Wie viel kostet es? — 45.092973 USD
+- Wie viel kostet es? — 45.121204 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Identitätsdiebstahl Soforthilfe – Notfallpaket zum Download Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/644072
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/644072/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Identit%C3%A4tsdiebstahl%20Soforthilfe%20%E2%80%93%20Notfallpaket%20zum%20Download
 
 ## 4. Editorial notes

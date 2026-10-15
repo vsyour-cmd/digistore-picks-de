@@ -4,34 +4,34 @@ digistore24_product_id: 231757
 title: "Dein Welpe kommt ins Haus - Welpenerziehung leicht gemacht"
 vendor: "khaphom5"
 product_type: "Webinar"
-price: 46.88
+price: 46.91
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 23.45
+earnings_per_sale: 23.46
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2018-07-03"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/25543/adminstore/"
+promo_link: "https://rheinische-hundeschule.de/dein-welpe-kommt-ins-haus/?aff=adminstore#aff=adminstore"
 sales_page: "https://rheinische-hundeschule.de/dein-welpe-kommt-ins-haus/"
 language: "de"
 ---
 # Dein Welpe kommt ins Haus - Welpenerziehung leicht gemacht
 
 > Product ID `25543` · Digistore24 productId `231757` · [HTML profile page](../../produkte/dein-welpe-kommt-ins-haus-welpenerziehung-leicht-gemacht-25543.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Webinar |
-| Price | $46.88 (Single payment) |
+| Price | $46.91 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $23.45 |
+| Earnings/sale* | $23.46 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | khaphom5 |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/25543/adminstore/
+- **Promo link (affiliate):** https://rheinische-hundeschule.de/dein-welpe-kommt-ins-haus/?aff=adminstore#aff=adminstore
 - Sales page: https://rheinische-hundeschule.de/dein-welpe-kommt-ins-haus/
 - Canonical redirect: https://www.digistore24.com/redir/231757/adminstore
 
@@ -83,14 +83,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Dein Welpe kommt ins Haus - Welpenerziehung leicht gemacht? — Typ: Webinar, Anbieter: khaphom5, gelistet seit 2018-07-03
-- Wie viel kostet es? — 46.881933000000004 USD
+- Wie viel kostet es? — 46.911284 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Dein Welpe kommt ins Haus - Welpenerziehung leicht gemacht Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/231757
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/231757/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Dein%20Welpe%20kommt%20ins%20Haus%20-%20Welpenerziehung%20leicht%20gemacht
 
 ## 4. Editorial notes

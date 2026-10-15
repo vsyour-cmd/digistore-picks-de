@@ -4,16 +4,16 @@ digistore24_product_id: 539552
 title: "Mikes Digital Academy"
 vendor: "m012692"
 product_type: "Member area and video courses"
-price: 144.69
+price: 144.78
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 16.4
+earnings_per_sale: 16.41
 cart_conversion_pct: 8
 cancel_rate_pct: 4.9
-categories: ["Education","Online Marketing & E-Business"]
+categories: ["Online Marketing & E-Business","Education"]
 listed_since: "2024-02-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/539552?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/539552"
@@ -22,22 +22,22 @@ language: "de"
 # Mikes Digital Academy
 
 > Product ID `47488` · Digistore24 productId `539552` · [HTML profile page](../../produkte/mikes-digital-academy-47488.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $144.69 (Single payment, Installment) |
+| Price | $144.78 (Single payment, Installment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $16.40 |
+| Earnings/sale* | $16.41 |
 | Cart conversion* | 8% |
 | Cancel rate* | 4.9% |
 | Vendor | m012692 |
 | Listed since | 2024-02-18 |
 | Auto-accept affiliates | no (approval required) |
-| Categories | Education, Online Marketing & E-Business |
+| Categories | Online Marketing & E-Business, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -77,14 +77,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mikes Digital Academy? — Typ: Member area and video courses, Anbieter: m012692, gelistet seit 2024-02-18
-- Wie viel kostet es? — 144.693321 USD
+- Wie viel kostet es? — 144.783908 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Mikes Digital Academy Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/539552
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/539552/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Mikes%20Digital%20Academy
 
 ## 4. Editorial notes

@@ -4,34 +4,34 @@ digistore24_product_id: 176051
 title: "eBook - Erfolgreich und gesund Zunehmen"
 vendor: "chrille"
 product_type: "Downloads"
-price: 25.37
+price: 25.39
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 12.69
+earnings_per_sale: 12.7
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink"]
 listed_since: "2017-11-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/20385/adminstore/"
+promo_link: "https://www.gesundzunehmen.de/shop/ebook-endlich-erfolgreich-zunehmen/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.gesundzunehmen.de/shop/ebook-endlich-erfolgreich-zunehmen/"
 language: "de"
 ---
 # eBook - Erfolgreich und gesund Zunehmen
 
 > Product ID `20385` · Digistore24 productId `176051` · [HTML profile page](../../produkte/ebook-erfolgreich-und-gesund-zunehmen-20385.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $25.37 (Single payment) |
+| Price | $25.39 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $12.69 |
+| Earnings/sale* | $12.70 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | chrille |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/20385/adminstore/
+- **Promo link (affiliate):** https://www.gesundzunehmen.de/shop/ebook-endlich-erfolgreich-zunehmen/?aff=adminstore#aff=adminstore
 - Sales page: https://www.gesundzunehmen.de/shop/ebook-endlich-erfolgreich-zunehmen/
 - Canonical redirect: https://www.digistore24.com/redir/176051/adminstore
 
@@ -58,14 +58,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist eBook - Erfolgreich und gesund Zunehmen? — Typ: Downloads, Anbieter: chrille, gelistet seit 2017-11-01
-- Wie viel kostet es? — 25.369689000000005 USD
+- Wie viel kostet es? — 25.385572000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: eBook - Erfolgreich und gesund Zunehmen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/176051
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/176051/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=eBook%20-%20Erfolgreich%20und%20gesund%20Zunehmen
 
 ## 4. Editorial notes

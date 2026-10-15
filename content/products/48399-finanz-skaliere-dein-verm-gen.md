@@ -4,40 +4,40 @@ digistore24_product_id: 556138
 title: "Finanz - Skaliere Dein Vermögen"
 vendor: "Spekulatius"
 product_type: "Member area and video courses"
-price: 560.93
+price: 561.28
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 280.46
+earnings_per_sale: 280.64
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Business & Investment","Education","Profession & Job"]
+categories: ["Business & Investment","Profession & Job","Education"]
 listed_since: "2024-06-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/48399/adminstore/"
+promo_link: "https://reich-in-rente.net/finanzwissen-masterkurs/?aff=adminstore#aff=adminstore"
 sales_page: "https://reich-in-rente.net/finanzwissen-masterkurs/"
 language: "de"
 ---
 # Finanz - Skaliere Dein Vermögen
 
 > Product ID `48399` · Digistore24 productId `556138` · [HTML profile page](../../produkte/finanz-skaliere-dein-verm-gen-48399.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $560.93 (Single payment) |
+| Price | $561.28 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $280.46 |
+| Earnings/sale* | $280.64 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Spekulatius |
 | Listed since | 2024-06-09 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Education, Profession & Job |
+| Categories | Business & Investment, Profession & Job, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/48399/adminstore/
+- **Promo link (affiliate):** https://reich-in-rente.net/finanzwissen-masterkurs/?aff=adminstore#aff=adminstore
 - Sales page: https://reich-in-rente.net/finanzwissen-masterkurs/
 - Canonical redirect: https://www.digistore24.com/redir/556138/adminstore
 
@@ -88,14 +88,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Finanz - Skaliere Dein Vermögen? — Typ: Member area and video courses, Anbieter: Spekulatius, gelistet seit 2024-06-09
-- Wie viel kostet es? — 560.9284080000001 USD
+- Wie viel kostet es? — 561.279584 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Finanz - Skaliere Dein Vermögen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/556138
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/556138/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Finanz%20-%20Skaliere%20Dein%20Verm%C3%B6gen
 
 ## 4. Editorial notes

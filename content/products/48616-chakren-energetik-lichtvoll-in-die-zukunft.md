@@ -4,16 +4,16 @@ digistore24_product_id: 518862
 title: "Chakren-Energetik - Lichtvoll in die Zukunft"
 vendor: "Magierschule"
 product_type: "Member area and video courses"
-price: 258.38
+price: 258.54
 currency: "USD"
 affiliate_commission_pct: 33
-earnings_per_sale: 85.27
+earnings_per_sale: 85.32
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2023-10-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://magierschule.de/7Chakren?aff=adminstore#aff=adminstore"
 sales_page: "https://magierschule.de/7Chakren"
@@ -22,16 +22,16 @@ language: "de"
 # Chakren-Energetik - Lichtvoll in die Zukunft
 
 > Product ID `48616` · Digistore24 productId `518862` · [HTML profile page](../../produkte/chakren-energetik-lichtvoll-in-die-zukunft-48616.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $258.38 (Single payment, Installment) |
+| Price | $258.54 (Single payment, Installment) |
 | Affiliate commission | 33% |
-| Earnings/sale* | $85.27 |
+| Earnings/sale* | $85.32 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Magierschule |
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Chakren-Energetik - Lichtvoll in die Zukunft? — Typ: Member area and video courses, Anbieter: Magierschule, gelistet seit 2023-10-01
-- Wie viel kostet es? — 258.381729 USD
+- Wie viel kostet es? — 258.543492 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Chakren-Energetik - Lichtvoll in die Zukunft Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/518862
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/518862/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Chakren-Energetik%20-%20Lichtvoll%20in%20die%20Zukunft
 
 ## 4. Editorial notes

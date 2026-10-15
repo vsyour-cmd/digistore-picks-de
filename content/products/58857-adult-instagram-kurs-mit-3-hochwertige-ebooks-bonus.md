@@ -4,34 +4,34 @@ digistore24_product_id: 613450
 title: "Adult Instagram Kurs mit 3 Hochwertige Ebooks + BONUS"
 vendor: "DS-AffiliateSolution"
 product_type: "Member area and video courses"
-price: 101.48
+price: 101.54
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 60.89
+earnings_per_sale: 60.93
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2026-09-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/58857/adminstore/"
+promo_link: "https://page.funnelcockpit.com/QeheZMWodDPW6q4vq?aff=adminstore#aff=adminstore"
 sales_page: "https://page.funnelcockpit.com/QeheZMWodDPW6q4vq"
 language: "de"
 ---
 # Adult Instagram Kurs mit 3 Hochwertige Ebooks + BONUS
 
 > Product ID `58857` · Digistore24 productId `613450` · [HTML profile page](../../produkte/adult-instagram-kurs-mit-3-hochwertige-ebooks-bonus-58857.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $101.48 (Single payment, Installment) |
+| Price | $101.54 (Single payment, Installment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $60.89 |
+| Earnings/sale* | $60.93 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DS-AffiliateSolution |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58857/adminstore/
+- **Promo link (affiliate):** https://page.funnelcockpit.com/QeheZMWodDPW6q4vq?aff=adminstore#aff=adminstore
 - Sales page: https://page.funnelcockpit.com/QeheZMWodDPW6q4vq
 - Vendor affiliate support: https://page.funnelcockpit.com/4vj52wFP75RPFHMvq
 - Canonical redirect: https://www.digistore24.com/redir/613450/adminstore
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Adult Instagram Kurs mit 3 Hochwertige Ebooks + BONUS? — Typ: Member area and video courses, Anbieter: DS-AffiliateSolution, gelistet seit 2026-09-01
-- Wie viel kostet es? — 101.47875600000002 USD
+- Wie viel kostet es? — 101.54228800000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Adult Instagram Kurs mit 3 Hochwertige Ebooks + BONUS Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/613450
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/613450/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Adult%20Instagram%20Kurs%20mit%203%20Hochwertige%20Ebooks%20%2B%20BONUS
 
 ## 4. Editorial notes

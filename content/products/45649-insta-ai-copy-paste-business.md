@@ -4,34 +4,34 @@ digistore24_product_id: 500407
 title: "Insta AI Copy Paste Business"
 vendor: "ss-business"
 product_type: "Member area and video courses"
-price: 77.15
+price: 77.2
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 38.57
+earnings_per_sale: 38.6
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Online Marketing & E-Business","Social Media"]
 listed_since: "2023-05-25"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/45649/adminstore/"
+promo_link: "https://www.digistore24.com/redir/500407/adminstore"
 sales_page: "https://instabusiness.org/insta-ai-copy-paste-business/?afid=[AFFILIATE]"
 language: "de"
 ---
 # Insta AI Copy Paste Business
 
 > Product ID `45649` · Digistore24 productId `500407` · [HTML profile page](../../produkte/insta-ai-copy-paste-business-45649.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $77.15 (Single payment) |
+| Price | $77.20 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $38.57 |
+| Earnings/sale* | $38.60 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ss-business |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/45649/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/redir/500407/adminstore
 - Sales page: https://instabusiness.org/insta-ai-copy-paste-business/?afid=[AFFILIATE]
 - Vendor affiliate support: https://instabusiness.org/insta-ai/partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/500407/adminstore
@@ -59,14 +59,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Insta AI Copy Paste Business? — Typ: Member area and video courses, Anbieter: ss-business, gelistet seit 2023-05-25
-- Wie viel kostet es? — 77.14890000000001 USD
+- Wie viel kostet es? — 77.1972 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Insta AI Copy Paste Business Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/500407
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/500407/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Insta%20AI%20Copy%20Paste%20Business
 
 ## 4. Editorial notes

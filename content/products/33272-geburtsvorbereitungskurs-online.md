@@ -4,7 +4,7 @@ digistore24_product_id: 364116
 title: "Geburtsvorbereitungskurs Online"
 vendor: "ltcplus"
 product_type: "Member area and video courses"
-price: 27.96
+price: 27.98
 currency: "USD"
 affiliate_commission_pct: 25
 earnings_per_sale: 13.13
@@ -12,8 +12,8 @@ cart_conversion_pct: 31
 cancel_rate_pct: 0.98
 categories: ["Family & Children"]
 listed_since: "2020-12-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://myhebamme24.de/gbk/?aff=adminstore#aff=adminstore"
 sales_page: "https://myhebamme24.de/gbk/"
@@ -22,14 +22,14 @@ language: "de"
 # Geburtsvorbereitungskurs Online
 
 > Product ID `33272` · Digistore24 productId `364116` · [HTML profile page](../../produkte/geburtsvorbereitungskurs-online-33272.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $27.96 (Single payment) |
+| Price | $27.98 (Single payment) |
 | Affiliate commission | 25% |
 | Earnings/sale* | $13.13 |
 | Cart conversion* | 31% |
@@ -89,14 +89,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Geburtsvorbereitungskurs Online? — Typ: Member area and video courses, Anbieter: ltcplus, gelistet seit 2020-12-22
-- Wie viel kostet es? — 27.963681000000005 USD
+- Wie viel kostet es? — 27.981188000000003 USD
 - Garantie? — 14
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Geburtsvorbereitungskurs Online Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/364116
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/364116/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Geburtsvorbereitungskurs%20Online
 
 ## 4. Editorial notes

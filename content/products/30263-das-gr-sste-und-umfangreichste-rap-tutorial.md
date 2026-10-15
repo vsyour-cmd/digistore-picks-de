@@ -4,34 +4,34 @@ digistore24_product_id: 277027
 title: "Das grösste und umfangreichste RAP-TUTORIAL"
 vendor: "jayjiggy"
 product_type: "Member area and video courses"
-price: 138.24
+price: 138.33
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 48.66
+earnings_per_sale: 48.69
 cart_conversion_pct: 14
 cancel_rate_pct: 1.99
 categories: ["Education"]
 listed_since: "2019-06-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/30263/adminstore/"
+promo_link: "https://rap-tutorial.de/kaufen/?aff=adminstore#aff=adminstore"
 sales_page: "https://rap-tutorial.de/kaufen/"
 language: "de"
 ---
 # Das grösste und umfangreichste RAP-TUTORIAL
 
 > Product ID `30263` · Digistore24 productId `277027` · [HTML profile page](../../produkte/das-gr-sste-und-umfangreichste-rap-tutorial-30263.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $138.24 (Single payment) |
+| Price | $138.33 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $48.66 |
+| Earnings/sale* | $48.69 |
 | Cart conversion* | 14% |
 | Cancel rate* | 1.99% |
 | Vendor | jayjiggy |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/30263/adminstore/
+- **Promo link (affiliate):** https://rap-tutorial.de/kaufen/?aff=adminstore#aff=adminstore
 - Sales page: https://rap-tutorial.de/kaufen/
 - Vendor affiliate support: https://rap-tutorial.de/affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/277027/adminstore
@@ -90,14 +90,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das grösste und umfangreichste RAP-TUTORIAL? — Typ: Member area and video courses, Anbieter: jayjiggy, gelistet seit 2019-06-26
-- Wie viel kostet es? — 138.241884 USD
+- Wie viel kostet es? — 138.328432 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Das grösste und umfangreichste RAP-TUTORIAL Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/277027
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/277027/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Das%20gr%C3%B6sste%20und%20umfangreichste%20RAP-TUTORIAL
 
 ## 4. Editorial notes

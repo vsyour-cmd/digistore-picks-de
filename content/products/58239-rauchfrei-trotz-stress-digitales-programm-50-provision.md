@@ -4,40 +4,40 @@ digistore24_product_id: 717828
 title: "Rauchfrei trotz Stress – digitales Programm + 50 % Provision"
 vendor: "HeikoBoos"
 product_type: "E-books"
-price: 28.21
+price: 28.23
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 14.11
+earnings_per_sale: 14.12
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Family & Children","Health & Fitness"]
+categories: ["Health & Fitness","Family & Children"]
 listed_since: "2026-08-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/58239/adminstore/"
+promo_link: "https://nichtraucherzone.de/rauchfrei-trotz-stress-und-innerer-unruhe?aff=adminstore#aff=adminstore"
 sales_page: "https://nichtraucherzone.de/rauchfrei-trotz-stress-und-innerer-unruhe"
 language: "de"
 ---
 # Rauchfrei trotz Stress – digitales Programm + 50 % Provision
 
 > Product ID `58239` · Digistore24 productId `717828` · [HTML profile page](../../produkte/rauchfrei-trotz-stress-digitales-programm-50-provision-58239.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $28.21 (Single payment) |
+| Price | $28.23 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $14.11 |
+| Earnings/sale* | $14.12 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | HeikoBoos |
 | Listed since | 2026-08-09 |
 | Auto-accept affiliates | yes |
-| Categories | Family & Children, Health & Fitness |
+| Categories | Health & Fitness, Family & Children |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58239/adminstore/
+- **Promo link (affiliate):** https://nichtraucherzone.de/rauchfrei-trotz-stress-und-innerer-unruhe?aff=adminstore#aff=adminstore
 - Sales page: https://nichtraucherzone.de/rauchfrei-trotz-stress-und-innerer-unruhe
 - Vendor affiliate support: https://nichtraucherzone.de/partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/717828/adminstore
@@ -100,14 +100,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Rauchfrei trotz Stress – digitales Programm + 50 % Provision? — Typ: E-books, Anbieter: HeikoBoos, gelistet seit 2026-08-09
-- Wie viel kostet es? — 28.209663000000003 USD
+- Wie viel kostet es? — 28.227324 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Rauchfrei trotz Stress – digitales Programm + 50 % Provision Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/717828
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/717828/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Rauchfrei%20trotz%20Stress%20%E2%80%93%20digitales%20Programm%20%2B%2050%20%25%20Provision
 
 ## 4. Editorial notes

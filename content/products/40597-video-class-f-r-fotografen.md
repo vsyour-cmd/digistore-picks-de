@@ -4,7 +4,7 @@ digistore24_product_id: 443396
 title: "VIDEO CLASS für Fotografen"
 vendor: "juliaundgil"
 product_type: "Member area and video courses"
-price: 383.61
+price: 383.85
 currency: "USD"
 affiliate_commission_pct: 0
 earnings_per_sale: 0
@@ -12,24 +12,24 @@ cart_conversion_pct: 15
 cancel_rate_pct: 2.52
 categories: ["Photography & Film"]
 listed_since: "2022-05-19"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/40597/adminstore/"
+promo_link: "https://juliaandgil.education/video-class/?aff=adminstore#aff=adminstore"
 sales_page: "https://juliaandgil.education/video-class/"
 language: "de"
 ---
 # VIDEO CLASS für Fotografen
 
 > Product ID `40597` · Digistore24 productId `443396` · [HTML profile page](../../produkte/video-class-f-r-fotografen-40597.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $383.61 (Single payment, Installment) |
+| Price | $383.85 (Single payment, Installment) |
 | Affiliate commission | 0% |
 | Earnings/sale* | $0.00 |
 | Cart conversion* | 15% |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/40597/adminstore/
+- **Promo link (affiliate):** https://juliaandgil.education/video-class/?aff=adminstore#aff=adminstore
 - Sales page: https://juliaandgil.education/video-class/
 - Canonical redirect: https://www.digistore24.com/redir/443396/adminstore
 
@@ -75,14 +75,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist VIDEO CLASS für Fotografen? — Typ: Member area and video courses, Anbieter: juliaundgil, gelistet seit 2022-05-19
-- Wie viel kostet es? — 383.608929 USD
+- Wie viel kostet es? — 383.849092 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: VIDEO CLASS für Fotografen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/443396
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/443396/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=VIDEO%20CLASS%20f%C3%BCr%20Fotografen
 
 ## 4. Editorial notes

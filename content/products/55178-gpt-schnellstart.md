@@ -4,7 +4,7 @@ digistore24_product_id: 612705
 title: "GPT Schnellstart"
 vendor: "MoneyCreators"
 product_type: "Member area and video courses"
-price: 44.16
+price: 44.19
 currency: "USD"
 affiliate_commission_pct: 40
 earnings_per_sale: 0.56
@@ -12,8 +12,8 @@ cart_conversion_pct: 37
 cancel_rate_pct: 8.22
 categories: ["Business & Investment","Computer & Internet","Email Marketing"]
 listed_since: "2025-05-14"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://cash4lead.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://cash4lead.de/"
@@ -22,14 +22,14 @@ language: "de"
 # GPT Schnellstart
 
 > Product ID `55178` · Digistore24 productId `612705` · [HTML profile page](../../produkte/gpt-schnellstart-55178.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $44.16 (Single payment) |
+| Price | $44.19 (Single payment) |
 | Affiliate commission | 40% |
 | Earnings/sale* | $0.56 |
 | Cart conversion* | 37% |
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist GPT Schnellstart? — Typ: Member area and video courses, Anbieter: MoneyCreators, gelistet seit 2025-05-14
-- Wie viel kostet es? — 44.164950000000005 USD
+- Wie viel kostet es? — 44.1926 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: GPT Schnellstart Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/612705
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/612705/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=GPT%20Schnellstart
 
 ## 4. Editorial notes

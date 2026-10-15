@@ -4,32 +4,32 @@ digistore24_product_id: 665673
 title: "Arbeitszeugnis verstehen und mit KI optimieren"
 vendor: "Diveco"
 product_type: "Downloads"
-price: 23.39
+price: 23.41
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 11.7
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Profession & Job","Services"]
+categories: ["Profession & Job","Education","Services"]
 listed_since: "2026-02-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/55497/adminstore/"
+promo_link: "https://heinzbader.com/workbook-arb-eitszeugnis-landingpage/?aff=adminstore#aff=adminstore"
 sales_page: "https://heinzbader.com/workbook-arb-eitszeugnis-landingpage/"
 language: "de"
 ---
 # Arbeitszeugnis verstehen und mit KI optimieren
 
 > Product ID `55497` · Digistore24 productId `665673` · [HTML profile page](../../produkte/arbeitszeugnis-verstehen-und-mit-ki-optimieren-55497.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $23.39 (Single payment) |
+| Price | $23.41 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $11.70 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | Diveco |
 | Listed since | 2026-02-01 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Profession & Job, Services |
+| Categories | Profession & Job, Education, Services |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55497/adminstore/
+- **Promo link (affiliate):** https://heinzbader.com/workbook-arb-eitszeugnis-landingpage/?aff=adminstore#aff=adminstore
 - Sales page: https://heinzbader.com/workbook-arb-eitszeugnis-landingpage/
 - Vendor affiliate support: https://heinzbader.com/affiliate-support-seite-arbeitszeugnis/
 - Canonical redirect: https://www.digistore24.com/redir/665673/adminstore
@@ -82,14 +82,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Arbeitszeugnis verstehen und mit KI optimieren? — Typ: Downloads, Anbieter: Diveco, gelistet seit 2026-02-01
-- Wie viel kostet es? — 23.390652000000003 USD
+- Wie viel kostet es? — 23.405296000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Arbeitszeugnis verstehen und mit KI optimieren Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/665673
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/665673/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Arbeitszeugnis%20verstehen%20und%20mit%20KI%20optimieren
 
 ## 4. Editorial notes

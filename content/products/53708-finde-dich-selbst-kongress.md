@@ -4,16 +4,16 @@ digistore24_product_id: 630271
 title: "Finde dich selbst Kongress"
 vendor: "DeliaV"
 product_type: "Downloads"
-price: 64.83
+price: 64.87
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 32.41
+earnings_per_sale: 32.43
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2025-08-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.finde-dich-selbst-kongress.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.finde-dich-selbst-kongress.com/"
@@ -22,16 +22,16 @@ language: "de"
 # Finde dich selbst Kongress
 
 > Product ID `53708` · Digistore24 productId `630271` · [HTML profile page](../../produkte/finde-dich-selbst-kongress-53708.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $64.83 (Single payment) |
+| Price | $64.87 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $32.41 |
+| Earnings/sale* | $32.43 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DeliaV |
@@ -77,14 +77,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Finde dich selbst Kongress? — Typ: Downloads, Anbieter: DeliaV, gelistet seit 2025-08-18
-- Wie viel kostet es? — 64.827438 USD
+- Wie viel kostet es? — 64.86802399999999 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Finde dich selbst Kongress Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/630271
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/630271/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Finde%20dich%20selbst%20Kongress
 
 ## 4. Editorial notes

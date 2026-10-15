@@ -4,16 +4,16 @@ digistore24_product_id: 632881
 title: "Der Magenretter - Schluss mit Magenschmerzen"
 vendor: "Lobato1"
 product_type: "Member area and video courses"
-price: 1014.74
+price: 1015.38
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 304.43
+earnings_per_sale: 304.62
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2025-08-31"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://www.rafaellobato.de/der-magenretter?aff=adminstore#aff=adminstore"
 sales_page: "https://www.rafaellobato.de/der-magenretter"
@@ -22,16 +22,16 @@ language: "de"
 # Der Magenretter - Schluss mit Magenschmerzen
 
 > Product ID `54602` · Digistore24 productId `632881` · [HTML profile page](../../produkte/der-magenretter-schluss-mit-magenschmerzen-54602.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1014.74 (Single payment, Installment) |
+| Price | $1015.38 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $304.43 |
+| Earnings/sale* | $304.62 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Lobato1 |
@@ -66,14 +66,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Magenretter - Schluss mit Magenschmerzen? — Typ: Member area and video courses, Anbieter: Lobato1, gelistet seit 2025-08-31
-- Wie viel kostet es? — 1014.742836 USD
+- Wie viel kostet es? — 1015.378128 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Der Magenretter - Schluss mit Magenschmerzen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/632881
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/632881/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%20Magenretter%20-%20Schluss%20mit%20Magenschmerzen
 
 ## 4. Editorial notes

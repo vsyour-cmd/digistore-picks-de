@@ -4,16 +4,16 @@ digistore24_product_id: 384521
 title: "Der außergewöhnliche Mann - Online-Kurs"
 vendor: "herozon"
 product_type: "Member area and video courses"
-price: 392.74
+price: 392.99
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 196.37
+earnings_per_sale: 196.49
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2021-04-14"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://home.herozon.de/der-aussergewoehnliche-mann?aff=adminstore#aff=adminstore"
 sales_page: "https://home.herozon.de/der-aussergewoehnliche-mann"
@@ -22,16 +22,16 @@ language: "de"
 # Der außergewöhnliche Mann - Online-Kurs
 
 > Product ID `36828` · Digistore24 productId `384521` · [HTML profile page](../../produkte/der-au-ergew-hnliche-mann-online-kurs-36828.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $392.74 (Single payment, Installment) |
+| Price | $392.99 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $196.37 |
+| Earnings/sale* | $196.49 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | herozon |
@@ -94,14 +94,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der außergewöhnliche Mann - Online-Kurs? — Typ: Member area and video courses, Anbieter: herozon, gelistet seit 2021-04-14
-- Wie viel kostet es? — 392.743806 USD
+- Wie viel kostet es? — 392.989688 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Der außergewöhnliche Mann - Online-Kurs Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/384521
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/384521/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%20au%C3%9Fergew%C3%B6hnliche%20Mann%20-%20Online-Kurs
 
 ## 4. Editorial notes

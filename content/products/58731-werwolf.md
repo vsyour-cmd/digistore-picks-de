@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-08-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/58731/adminstore/"
+promo_link: "https://novaris.de.cool/werwolf.php?aff=adminstore#aff=adminstore"
 sales_page: "https://novaris.de.cool/werwolf.php"
 language: "de"
 ---
 # WERWOLF
 
 > Product ID `58731` · Digistore24 productId `717607` · [HTML profile page](../../produkte/werwolf-58731.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58731/adminstore/
+- **Promo link (affiliate):** https://novaris.de.cool/werwolf.php?aff=adminstore#aff=adminstore
 - Sales page: https://novaris.de.cool/werwolf.php
 - Canonical redirect: https://www.digistore24.com/redir/717607/adminstore
 
@@ -65,14 +65,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist WERWOLF? — Typ: Audio book (download), Anbieter: Novaris_web, gelistet seit 2026-08-27
-- Wie viel kostet es? — 5.1768030000000005 USD
+- Wie viel kostet es? — 5.180044 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: WERWOLF Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/717607
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/717607/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=WERWOLF
 
 ## 4. Editorial notes

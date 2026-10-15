@@ -4,34 +4,34 @@ digistore24_product_id: 66335
 title: "ActiveBrain Akademie"
 vendor: "Insider-Media"
 product_type: "Downloads"
-price: 44.16
+price: 44.19
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 15.46
+earnings_per_sale: 15.47
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2015-12-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/17449/adminstore/"
+promo_link: "https://www.lerntipp.com/gehirnfitness?aff=adminstore#aff=adminstore"
 sales_page: "https://www.lerntipp.com/gehirnfitness"
 language: "de"
 ---
 # ActiveBrain Akademie
 
 > Product ID `17449` · Digistore24 productId `66335` · [HTML profile page](../../produkte/activebrain-akademie-17449.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $44.16 (Single payment) |
+| Price | $44.19 (Single payment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $15.46 |
+| Earnings/sale* | $15.47 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Insider-Media |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/17449/adminstore/
+- **Promo link (affiliate):** https://www.lerntipp.com/gehirnfitness?aff=adminstore#aff=adminstore
 - Sales page: https://www.lerntipp.com/gehirnfitness
 - Vendor affiliate support: https://www.lerntipp.com/affiliate
 - Canonical redirect: https://www.digistore24.com/redir/66335/adminstore
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist ActiveBrain Akademie? — Typ: Downloads, Anbieter: Insider-Media, gelistet seit 2015-12-16
-- Wie viel kostet es? — 44.164950000000005 USD
+- Wie viel kostet es? — 44.1926 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: ActiveBrain Akademie Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/66335
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/66335/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=ActiveBrain%20Akademie
 
 ## 4. Editorial notes

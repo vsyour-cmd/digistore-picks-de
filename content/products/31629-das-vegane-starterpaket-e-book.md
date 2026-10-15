@@ -4,7 +4,7 @@ digistore24_product_id: 301508
 title: "Das vegane Starterpaket (E-Book)"
 vendor: "Melanie341"
 product_type: "E-books"
-price: 16.76
+price: 16.77
 currency: "USD"
 affiliate_commission_pct: 30
 earnings_per_sale: 5.03
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2019-12-30"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/31629/adminstore/"
+promo_link: "https://vegaliferocks.de/der-vegane-starterguide/?aff=adminstore#aff=adminstore"
 sales_page: "https://vegaliferocks.de/der-vegane-starterguide/"
 language: "de"
 ---
 # Das vegane Starterpaket (E-Book)
 
 > Product ID `31629` · Digistore24 productId `301508` · [HTML profile page](../../produkte/das-vegane-starterpaket-e-book-31629.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $16.76 (Single payment) |
+| Price | $16.77 (Single payment) |
 | Affiliate commission | 30% |
 | Earnings/sale* | $5.03 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/31629/adminstore/
+- **Promo link (affiliate):** https://vegaliferocks.de/der-vegane-starterguide/?aff=adminstore#aff=adminstore
 - Sales page: https://vegaliferocks.de/der-vegane-starterguide/
 - Canonical redirect: https://www.digistore24.com/redir/301508/adminstore
 
@@ -89,14 +89,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das vegane Starterpaket (E-Book)? — Typ: E-books, Anbieter: Melanie341, gelistet seit 2019-12-30
-- Wie viel kostet es? — 16.760319000000003 USD
+- Wie viel kostet es? — 16.770812 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Das vegane Starterpaket (E-Book) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/301508
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/301508/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Das%20vegane%20Starterpaket%20(E-Book)
 
 ## 4. Editorial notes

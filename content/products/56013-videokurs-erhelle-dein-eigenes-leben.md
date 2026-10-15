@@ -4,34 +4,34 @@ digistore24_product_id: 676527
 title: "Videokurs: \"Erhelle dein eigenes Leben\"!"
 vendor: "ReinerKatzinger"
 product_type: "Member area and video courses"
-price: 46.88
+price: 46.91
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 23.45
+earnings_per_sale: 23.46
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-03-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/56013/adminstore/"
+promo_link: "https://www.reinergeist.com/erhelledeineigenesLeben/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.reinergeist.com/erhelledeineigenesLeben/"
 language: "de"
 ---
 # Videokurs: "Erhelle dein eigenes Leben"!
 
 > Product ID `56013` · Digistore24 productId `676527` · [HTML profile page](../../produkte/videokurs-erhelle-dein-eigenes-leben-56013.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $46.88 (Single payment) |
+| Price | $46.91 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $23.45 |
+| Earnings/sale* | $23.46 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ReinerKatzinger |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56013/adminstore/
+- **Promo link (affiliate):** https://www.reinergeist.com/erhelledeineigenesLeben/?aff=adminstore#aff=adminstore
 - Sales page: https://www.reinergeist.com/erhelledeineigenesLeben/
 - Vendor affiliate support: https://www.reinergeist.com/Partnerprogramm/vkerhelle/
 - Canonical redirect: https://www.digistore24.com/redir/676527/adminstore
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Videokurs: "Erhelle dein eigenes Leben"!? — Typ: Member area and video courses, Anbieter: ReinerKatzinger, gelistet seit 2026-03-15
-- Wie viel kostet es? — 46.881933000000004 USD
+- Wie viel kostet es? — 46.911284 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Videokurs: "Erhelle dein eigenes Leben"! Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/676527
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/676527/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Videokurs%3A%20%22Erhelle%20dein%20eigenes%20Leben%22!
 
 ## 4. Editorial notes

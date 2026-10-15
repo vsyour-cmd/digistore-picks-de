@@ -7,13 +7,13 @@ product_type: "E-books"
 price: 0
 currency: "USD"
 affiliate_commission_pct: 55
-earnings_per_sale: 10.74
+earnings_per_sale: 10.75
 cart_conversion_pct: 41
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2023-09-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://page.funnelcockpit.com/Dj3BzcNaT3dfHrr5R?aff=adminstore#aff=adminstore"
 sales_page: "https://page.funnelcockpit.com/Dj3BzcNaT3dfHrr5R"
@@ -22,7 +22,7 @@ language: "de"
 # Super Affiliate Plan
 
 > Product ID `45510` · Digistore24 productId `517855` · [HTML profile page](../../produkte/super-affiliate-plan-45510.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,7 @@ language: "de"
 | Product type | E-books |
 | Price | $0.00 (Single payment) |
 | Affiliate commission | 55% |
-| Earnings/sale* | $10.74 |
+| Earnings/sale* | $10.75 |
 | Cart conversion* | 41% |
 | Cancel rate* | 0% |
 | Vendor | DS-AffiliateSolution |
@@ -66,7 +66,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Super Affiliate Plan Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/517855
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/517855/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Super%20Affiliate%20Plan
 
 ## 4. Editorial notes

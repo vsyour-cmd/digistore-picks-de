@@ -4,7 +4,7 @@ digistore24_product_id: 500912
 title: "Hypnose-Onlinekurs Selbstliebe"
 vendor: "petanthony"
 product_type: "Member area and video courses"
-price: 46.04
+price: 46.07
 currency: "USD"
 affiliate_commission_pct: 25
 earnings_per_sale: 11.52
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-09-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://shop.petanthony.com/online-kurse_selbstliebe_DS/?aff=adminstore#aff=adminstore"
 sales_page: "https://shop.petanthony.com/online-kurse_selbstliebe_DS/"
@@ -22,14 +22,14 @@ language: "de"
 # Hypnose-Onlinekurs Selbstliebe
 
 > Product ID `59652` · Digistore24 productId `500912` · [HTML profile page](../../produkte/hypnose-onlinekurs-selbstliebe-59652.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $46.04 (Single payment) |
+| Price | $46.07 (Single payment) |
 | Affiliate commission | 25% |
 | Earnings/sale* | $11.52 |
 | Cart conversion* | — |
@@ -59,14 +59,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Hypnose-Onlinekurs Selbstliebe? — Typ: Member area and video courses, Anbieter: petanthony, gelistet seit 2026-09-24
-- Wie viel kostet es? — 46.043358000000005 USD
+- Wie viel kostet es? — 46.072184 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Hypnose-Onlinekurs Selbstliebe Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/500912
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/500912/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Hypnose-Onlinekurs%20Selbstliebe
 
 ## 4. Editorial notes

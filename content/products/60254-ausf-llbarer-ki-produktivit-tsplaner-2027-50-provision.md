@@ -4,16 +4,16 @@ digistore24_product_id: 742275
 title: "Ausfüllbarer KI-Produktivitätsplaner 2027 – 50 % Provision"
 vendor: "christian0b0c"
 product_type: "Downloads"
-price: 14.1
+price: 14.11
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 7.06
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: []
+categories: ["Business & Investment","Profession & Job"]
 listed_since: "2026-10-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://kiplanerstudio.koeniqsoftware.de/planner.html?aff=adminstore#aff=adminstore"
 sales_page: "https://kiplanerstudio.koeniqsoftware.de/planner.html"
@@ -22,14 +22,14 @@ language: "de"
 # Ausfüllbarer KI-Produktivitätsplaner 2027 – 50 % Provision
 
 > Product ID `60254` · Digistore24 productId `742275` · [HTML profile page](../../produkte/ausf-llbarer-ki-produktivit-tsplaner-2027-50-provision-60254.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $14.10 (Single payment) |
+| Price | $14.11 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $7.06 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | christian0b0c |
 | Listed since | 2026-10-06 |
 | Auto-accept affiliates | yes |
-| Categories | Uncategorized |
+| Categories | Business & Investment, Profession & Job |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ausfüllbarer KI-Produktivitätsplaner 2027 – 50 % Provision? — Typ: Downloads, Anbieter: christian0b0c, gelistet seit 2026-10-06
-- Wie viel kostet es? — 14.099241000000001 USD
+- Wie viel kostet es? — 14.108068 USD
 - Garantie? — 14
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Ausfüllbarer KI-Produktivitätsplaner 2027 – 50 % Provision Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/742275
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/742275/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Ausf%C3%BCllbarer%20KI-Produktivit%C3%A4tsplaner%202027%20%E2%80%93%2050%20%25%20Provision
 
 ## 4. Editorial notes

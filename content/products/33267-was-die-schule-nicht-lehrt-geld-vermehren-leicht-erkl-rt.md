@@ -4,34 +4,34 @@ digistore24_product_id: 333486
 title: "Was die Schule nicht lehrt - Geld vermehren leicht erklärt"
 vendor: "geldhuepfer"
 product_type: "E-books"
-price: 20.89
+price: 20.9
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 10.44
+earnings_per_sale: 10.45
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2020-06-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/33267/adminstore/"
+promo_link: "https://geldhuepfer.de/was-die-schule-nicht-lehrt-geld-vermehren-kinderleicht-erklaert?aff=adminstore#aff=adminstore"
 sales_page: "https://geldhuepfer.de/was-die-schule-nicht-lehrt-geld-vermehren-kinderleicht-erklaert"
 language: "de"
 ---
 # Was die Schule nicht lehrt - Geld vermehren leicht erklärt
 
 > Product ID `33267` · Digistore24 productId `333486` · [HTML profile page](../../produkte/was-die-schule-nicht-lehrt-geld-vermehren-leicht-erkl-rt-33267.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.89 (Single payment, Installment) |
+| Price | $20.90 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $10.44 |
+| Earnings/sale* | $10.45 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | geldhuepfer |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/33267/adminstore/
+- **Promo link (affiliate):** https://geldhuepfer.de/was-die-schule-nicht-lehrt-geld-vermehren-kinderleicht-erklaert?aff=adminstore#aff=adminstore
 - Sales page: https://geldhuepfer.de/was-die-schule-nicht-lehrt-geld-vermehren-kinderleicht-erklaert
 - Vendor affiliate support: https://geldhuepfer.de/affiliate-support-seite-was-die-schule-nicht-lehrt-geld-vermehren-kinderleicht-erklaert-digi
 - Canonical redirect: https://www.digistore24.com/redir/333486/adminstore
@@ -73,14 +73,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Was die Schule nicht lehrt - Geld vermehren leicht erklärt? — Typ: E-books, Anbieter: geldhuepfer, gelistet seit 2020-06-26
-- Wie viel kostet es? — 20.886108 USD
+- Wie viel kostet es? — 20.899184 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Was die Schule nicht lehrt - Geld vermehren leicht erklärt Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/333486
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/333486/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Was%20die%20Schule%20nicht%20lehrt%20-%20Geld%20vermehren%20leicht%20erkl%C3%A4rt
 
 ## 4. Editorial notes

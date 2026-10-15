@@ -4,34 +4,34 @@ digistore24_product_id: 364724
 title: "Eicheln essen: Traditionelle Verarbeitung und Rezepte"
 vendor: "ypsilon"
 product_type: "E-books"
-price: 14.62
+price: 14.63
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 7.31
+earnings_per_sale: 7.32
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Survival"]
 listed_since: "2020-12-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/35185/adminstore/"
+promo_link: "https://ousuca.com/buecher/eicheln-buch/?aff=adminstore#aff=adminstore"
 sales_page: "https://ousuca.com/buecher/eicheln-buch/"
 language: "de"
 ---
 # Eicheln essen: Traditionelle Verarbeitung und Rezepte
 
 > Product ID `35185` · Digistore24 productId `364724` · [HTML profile page](../../produkte/eicheln-essen-traditionelle-verarbeitung-und-rezepte-35185.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $14.62 (Single payment) |
+| Price | $14.63 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $7.31 |
+| Earnings/sale* | $7.32 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ypsilon |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/35185/adminstore/
+- **Promo link (affiliate):** https://ousuca.com/buecher/eicheln-buch/?aff=adminstore#aff=adminstore
 - Sales page: https://ousuca.com/buecher/eicheln-buch/
 - Vendor affiliate support: https://ousuca.com/partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/364724/adminstore
@@ -75,14 +75,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Eicheln essen: Traditionelle Verarbeitung und Rezepte? — Typ: E-books, Anbieter: ypsilon, gelistet seit 2020-12-27
-- Wie viel kostet es? — 14.624748000000002 USD
+- Wie viel kostet es? — 14.633904000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Eicheln essen: Traditionelle Verarbeitung und Rezepte Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/364724
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/364724/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Eicheln%20essen%3A%20Traditionelle%20Verarbeitung%20und%20Rezepte
 
 ## 4. Editorial notes

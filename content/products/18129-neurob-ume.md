@@ -4,34 +4,34 @@ digistore24_product_id: 154051
 title: "Neurobäume"
 vendor: "motivation-art"
 product_type: "Member area and video courses"
-price: 277.18
+price: 277.35
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 30.94
+earnings_per_sale: 30.96
 cart_conversion_pct: 11
 cancel_rate_pct: 1.08
 categories: ["Personal Development"]
 listed_since: "2017-07-28"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
-promo_link: "http://outdoorgpsnavigation.info/mapsource-handbuch#aff=adminstore"
+promo_link: "http://motivation-art.de/neurobaeume?aff=adminstore#aff=adminstore"
 sales_page: "http://motivation-art.de/neurobaeume"
 language: "de"
 ---
 # Neurobäume
 
 > Product ID `18129` · Digistore24 productId `154051` · [HTML profile page](../../produkte/neurob-ume-18129.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $277.18 (Single payment) |
+| Price | $277.35 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $30.94 |
+| Earnings/sale* | $30.96 |
 | Cart conversion* | 11% |
 | Cancel rate* | 1.08% |
 | Vendor | motivation-art |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://outdoorgpsnavigation.info/mapsource-handbuch#aff=adminstore
+- **Promo link (affiliate):** http://motivation-art.de/neurobaeume?aff=adminstore#aff=adminstore
 - Sales page: http://motivation-art.de/neurobaeume
 - Canonical redirect: https://www.digistore24.com/redir/154051/adminstore
 
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Neurobäume? — Typ: Member area and video courses, Anbieter: motivation-art, gelistet seit 2017-07-28
-- Wie viel kostet es? — 277.17699000000005 USD
+- Wie viel kostet es? — 277.35052 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Neurobäume Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/154051
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/154051/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Neurob%C3%A4ume
 
 ## 4. Editorial notes

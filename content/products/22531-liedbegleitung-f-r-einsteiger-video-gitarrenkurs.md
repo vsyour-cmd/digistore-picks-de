@@ -4,34 +4,34 @@ digistore24_product_id: 199683
 title: "Liedbegleitung für Einsteiger (Video-Gitarrenkurs)"
 vendor: "musiklehrer"
 product_type: "Member area and video courses"
-price: 101.59
+price: 101.65
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 71.56
+earnings_per_sale: 71.6
 cart_conversion_pct: 17
 cancel_rate_pct: 2.66
 categories: ["Dancing & Music"]
 listed_since: "2018-02-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/22531/adminstore/"
+promo_link: "https://gitarrenvideounterricht.coachy.net/lp/liedbegleitung-fuer-einsteiger?aff=adminstore#aff=adminstore"
 sales_page: "https://gitarrenvideounterricht.coachy.net/lp/liedbegleitung-fuer-einsteiger"
 language: "de"
 ---
 # Liedbegleitung für Einsteiger (Video-Gitarrenkurs)
 
 > Product ID `22531` · Digistore24 productId `199683` · [HTML profile page](../../produkte/liedbegleitung-f-r-einsteiger-video-gitarrenkurs-22531.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $101.59 (Single payment, Installment) |
+| Price | $101.65 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $71.56 |
+| Earnings/sale* | $71.60 |
 | Cart conversion* | 17% |
 | Cancel rate* | 2.66% |
 | Vendor | musiklehrer |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/22531/adminstore/
+- **Promo link (affiliate):** https://gitarrenvideounterricht.coachy.net/lp/liedbegleitung-fuer-einsteiger?aff=adminstore#aff=adminstore
 - Sales page: https://gitarrenvideounterricht.coachy.net/lp/liedbegleitung-fuer-einsteiger
 - Vendor affiliate support: http://www.gitarrenvideounterricht.de/partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/199683/adminstore
@@ -101,14 +101,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Liedbegleitung für Einsteiger (Video-Gitarrenkurs)? — Typ: Member area and video courses, Anbieter: musiklehrer, gelistet seit 2018-02-08
-- Wie viel kostet es? — 101.59056600000001 USD
+- Wie viel kostet es? — 101.654168 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Liedbegleitung für Einsteiger (Video-Gitarrenkurs) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/199683
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/199683/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Liedbegleitung%20f%C3%BCr%20Einsteiger%20(Video-Gitarrenkurs)
 
 ## 4. Editorial notes

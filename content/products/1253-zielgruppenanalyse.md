@@ -4,16 +4,16 @@ digistore24_product_id: 14285
 title: "Zielgruppenanalyse"
 vendor: "holgertiegel"
 product_type: "E-books"
-price: 25.37
+price: 25.39
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 15.22
+earnings_per_sale: 15.23
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2013-07-31"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.werbetexterservice.de/produkte/zielgruppenanalyse/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.werbetexterservice.de/produkte/zielgruppenanalyse/"
@@ -22,16 +22,16 @@ language: "de"
 # Zielgruppenanalyse
 
 > Product ID `1253` · Digistore24 productId `14285` · [HTML profile page](../../produkte/zielgruppenanalyse-1253.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $25.37 (Single payment) |
+| Price | $25.39 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $15.22 |
+| Earnings/sale* | $15.23 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | holgertiegel |
@@ -83,14 +83,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Zielgruppenanalyse? — Typ: E-books, Anbieter: holgertiegel, gelistet seit 2013-07-31
-- Wie viel kostet es? — 25.369689000000005 USD
+- Wie viel kostet es? — 25.385572000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Zielgruppenanalyse Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/14285
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/14285/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Zielgruppenanalyse
 
 ## 4. Editorial notes

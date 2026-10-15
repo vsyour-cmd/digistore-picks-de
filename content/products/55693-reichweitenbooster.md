@@ -4,34 +4,34 @@ digistore24_product_id: 595203
 title: "ReichweitenBooster"
 vendor: "seotech"
 product_type: "Member area and video courses"
-price: 330.87
+price: 331.08
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 126.83
+earnings_per_sale: 126.91
 cart_conversion_pct: 11
 cancel_rate_pct: 0.76
 categories: ["Computer & Internet","Online Marketing & E-Business","Social Media"]
 listed_since: "2025-02-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/55693/adminstore/"
+promo_link: "https://go.eugen-grinschuk.de/reichweitenbooster/?aff=adminstore#aff=adminstore"
 sales_page: "https://go.eugen-grinschuk.de/reichweitenbooster/"
 language: "de"
 ---
 # ReichweitenBooster
 
 > Product ID `55693` · Digistore24 productId `595203` · [HTML profile page](../../produkte/reichweitenbooster-55693.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $330.87 (Single payment, Installment) |
+| Price | $331.08 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $126.83 |
+| Earnings/sale* | $126.91 |
 | Cart conversion* | 11% |
 | Cancel rate* | 0.76% |
 | Vendor | seotech |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55693/adminstore/
+- **Promo link (affiliate):** https://go.eugen-grinschuk.de/reichweitenbooster/?aff=adminstore#aff=adminstore
 - Sales page: https://go.eugen-grinschuk.de/reichweitenbooster/
 - Canonical redirect: https://www.digistore24.com/redir/595203/adminstore
 
@@ -66,14 +66,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist ReichweitenBooster? — Typ: Member area and video courses, Anbieter: seotech, gelistet seit 2025-02-09
-- Wie viel kostet es? — 330.86815200000007 USD
+- Wie viel kostet es? — 331.07529600000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: ReichweitenBooster Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/595203
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/595203/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=ReichweitenBooster
 
 ## 4. Editorial notes

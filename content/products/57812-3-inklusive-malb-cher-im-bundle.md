@@ -4,16 +4,16 @@ digistore24_product_id: 712154
 title: "3 inklusive Malbücher im Bundle"
 vendor: "Herzenswelt"
 product_type: "E-books"
-price: 20.89
+price: 20.9
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 10.44
+earnings_per_sale: 10.45
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Family & Children","Fun & Games"]
+categories: ["Family & Children","Education","Fun & Games"]
 listed_since: "2026-07-30"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://gesundleben360.de/3-starke-malbuecher-in-einem-bundle/?aff=adminstore#aff=adminstore"
 sales_page: "https://gesundleben360.de/3-starke-malbuecher-in-einem-bundle/"
@@ -22,22 +22,22 @@ language: "de"
 # 3 inklusive Malbücher im Bundle
 
 > Product ID `57812` · Digistore24 productId `712154` · [HTML profile page](../../produkte/3-inklusive-malb-cher-im-bundle-57812.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.89 (Single payment) |
+| Price | $20.90 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $10.44 |
+| Earnings/sale* | $10.45 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Herzenswelt |
 | Listed since | 2026-07-30 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Family & Children, Fun & Games |
+| Categories | Family & Children, Education, Fun & Games |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -77,14 +77,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 3 inklusive Malbücher im Bundle? — Typ: E-books, Anbieter: Herzenswelt, gelistet seit 2026-07-30
-- Wie viel kostet es? — 20.886108 USD
+- Wie viel kostet es? — 20.899184 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 3 inklusive Malbücher im Bundle Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/712154
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/712154/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=3%20inklusive%20Malb%C3%BCcher%20im%20Bundle
 
 ## 4. Editorial notes

@@ -7,22 +7,22 @@ product_type: "E-books"
 price: 15.58
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 4.67
+earnings_per_sale: 4.68
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2026-09-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/58847/adminstore/"
+promo_link: "https://www.mini-guides.info?aff=adminstore#aff=adminstore"
 sales_page: "https://www.mini-guides.info"
 language: "de"
 ---
 # Mini-Schlaf-Guide
 
 > Product ID `58847` · Digistore24 productId `711087` · [HTML profile page](../../produkte/mini-schlaf-guide-58847.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,7 @@ language: "de"
 | Product type | E-books |
 | Price | $15.58 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $4.67 |
+| Earnings/sale* | $4.68 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | markuskorn5700 |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58847/adminstore/
+- **Promo link (affiliate):** https://www.mini-guides.info?aff=adminstore#aff=adminstore
 - Sales page: https://www.mini-guides.info
 - Canonical redirect: https://www.digistore24.com/redir/711087/adminstore
 
@@ -58,14 +58,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mini-Schlaf-Guide? — Typ: E-books, Anbieter: markuskorn5700, gelistet seit 2026-09-01
-- Wie viel kostet es? — 15.575133000000001 USD
+- Wie viel kostet es? — 15.584884 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Mini-Schlaf-Guide Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/711087
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/711087/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Mini-Schlaf-Guide
 
 ## 4. Editorial notes

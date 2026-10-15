@@ -4,16 +4,16 @@ digistore24_product_id: 389396
 title: "KI-Kickstart für ChatGPT"
 vendor: "tombrigl"
 product_type: "Downloads"
-price: 220.27
+price: 220.4
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 110.13
+earnings_per_sale: 110.2
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet"]
 listed_since: "2021-05-12"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.ki-kickstart.de?aff=adminstore#aff=adminstore"
 sales_page: "https://www.ki-kickstart.de"
@@ -22,16 +22,16 @@ language: "de"
 # KI-Kickstart für ChatGPT
 
 > Product ID `43016` · Digistore24 productId `389396` · [HTML profile page](../../produkte/ki-kickstart-f-r-chatgpt-43016.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $220.27 (Single payment) |
+| Price | $220.40 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $110.13 |
+| Earnings/sale* | $110.20 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | tombrigl |
@@ -106,14 +106,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI-Kickstart für ChatGPT? — Typ: Downloads, Anbieter: tombrigl, gelistet seit 2021-05-12
-- Wie viel kostet es? — 220.2657 USD
+- Wie viel kostet es? — 220.4036 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: KI-Kickstart für ChatGPT Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/389396
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/389396/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=KI-Kickstart%20f%C3%BCr%20ChatGPT
 
 ## 4. Editorial notes

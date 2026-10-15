@@ -4,34 +4,34 @@ digistore24_product_id: 632019
 title: "Webseite 3-4Page erstellen mit 499 euro"
 vendor: "Skenteridis"
 product_type: "Remote service provided electronically"
-price: 557.93
+price: 558.28
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 139.48
+earnings_per_sale: 139.57
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Services","Marketing Services"]
 listed_since: "2025-08-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/54403/adminstore/"
+promo_link: "https://robotics-marketing.com/de-landing/webseite-3-4page-erstellen-guenstig-digistore1-landing/?aff=adminstore#aff=adminstore"
 sales_page: "https://robotics-marketing.com/de-landing/webseite-3-4page-erstellen-guenstig-digistore1-landing/"
 language: "de"
 ---
 # Webseite 3-4Page erstellen mit 499 euro
 
 > Product ID `54403` · Digistore24 productId `632019` · [HTML profile page](../../produkte/webseite-3-4page-erstellen-mit-499-euro-54403.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $557.93 (Single payment) |
+| Price | $558.28 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $139.48 |
+| Earnings/sale* | $139.57 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Skenteridis |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/54403/adminstore/
+- **Promo link (affiliate):** https://robotics-marketing.com/de-landing/webseite-3-4page-erstellen-guenstig-digistore1-landing/?aff=adminstore#aff=adminstore
 - Sales page: https://robotics-marketing.com/de-landing/webseite-3-4page-erstellen-guenstig-digistore1-landing/
 - Vendor affiliate support: https://robotics-marketing.com/de-landing/affiliate-partner-webdesign-digistore24/
 - Canonical redirect: https://www.digistore24.com/redir/632019/adminstore
@@ -96,14 +96,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Webseite 3-4Page erstellen mit 499 euro? — Typ: Remote service provided electronically, Anbieter: Skenteridis, gelistet seit 2025-08-26
-- Wie viel kostet es? — 557.9319 USD
+- Wie viel kostet es? — 558.2812 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Webseite 3-4Page erstellen mit 499 euro Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/632019
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/632019/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Webseite%203-4Page%20erstellen%20mit%20499%20euro
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 473279
 title: "Netzwerken für's Onlinebusiness"
 vendor: "cduffner"
 product_type: "Member area and video courses"
-price: 489.53
+price: 489.83
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 48.95
+earnings_per_sale: 48.98
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2022-12-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/473279?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/473279"
@@ -22,16 +22,16 @@ language: "de"
 # Netzwerken für's Onlinebusiness
 
 > Product ID `43464` · Digistore24 productId `473279` · [HTML profile page](../../produkte/netzwerken-f-r-s-onlinebusiness-43464.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $489.53 (Single payment, Installment) |
+| Price | $489.83 (Single payment, Installment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $48.95 |
+| Earnings/sale* | $48.98 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | cduffner |
@@ -90,14 +90,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Netzwerken für's Onlinebusiness? — Typ: Member area and video courses, Anbieter: cduffner, gelistet seit 2022-12-04
-- Wie viel kostet es? — 489.526542 USD
+- Wie viel kostet es? — 489.833016 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Netzwerken für's Onlinebusiness Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/473279
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/473279/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Netzwerken%20f%C3%BCr's%20Onlinebusiness
 
 ## 4. Editorial notes

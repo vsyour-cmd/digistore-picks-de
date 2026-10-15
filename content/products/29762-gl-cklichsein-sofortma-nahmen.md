@@ -7,13 +7,13 @@ product_type: "Downloads"
 price: 8.04
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 3.16
+earnings_per_sale: 3.17
 cart_conversion_pct: 23
 cancel_rate_pct: 6.3
 categories: ["Personal Development"]
 listed_since: "2018-10-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://erfolg-intuitiv.de/gluecklichsein-sofortmassnahmen?aff=adminstore#aff=adminstore"
 sales_page: "https://erfolg-intuitiv.de/gluecklichsein-sofortmassnahmen"
@@ -22,7 +22,7 @@ language: "de"
 # Glücklichsein-Sofortmaßnahmen
 
 > Product ID `29762` · Digistore24 productId `245692` · [HTML profile page](../../produkte/gl-cklichsein-sofortma-nahmen-29762.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,7 @@ language: "de"
 | Product type | Downloads |
 | Price | $8.04 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $3.16 |
+| Earnings/sale* | $3.17 |
 | Cart conversion* | 23% |
 | Cancel rate* | 6.3% |
 | Vendor | Erfolg-Intuitiv |
@@ -82,14 +82,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Glücklichsein-Sofortmaßnahmen? — Typ: Downloads, Anbieter: Erfolg-Intuitiv, gelistet seit 2018-10-29
-- Wie viel kostet es? — 8.039139 USD
+- Wie viel kostet es? — 8.044172000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Glücklichsein-Sofortmaßnahmen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/245692
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/245692/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Gl%C3%BCcklichsein-Sofortma%C3%9Fnahmen
 
 ## 4. Editorial notes

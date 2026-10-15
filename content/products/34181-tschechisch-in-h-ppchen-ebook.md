@@ -4,34 +4,34 @@ digistore24_product_id: 350016
 title: "Tschechisch in Häppchen - eBook"
 vendor: "linguatools"
 product_type: "E-books"
-price: 10.34
+price: 10.35
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 3.91
+earnings_per_sale: 3.92
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Languages"]
 listed_since: "2020-09-28"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/34181/adminstore/"
+promo_link: "https://tschechischblog.de/tschechisch-in-haeppchen-ebook?aff=adminstore#aff=adminstore"
 sales_page: "https://tschechischblog.de/tschechisch-in-haeppchen-ebook"
 language: "de"
 ---
 # Tschechisch in Häppchen - eBook
 
 > Product ID `34181` · Digistore24 productId `350016` · [HTML profile page](../../produkte/tschechisch-in-h-ppchen-ebook-34181.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.34 (Single payment) |
+| Price | $10.35 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $3.91 |
+| Earnings/sale* | $3.92 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | linguatools |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/34181/adminstore/
+- **Promo link (affiliate):** https://tschechischblog.de/tschechisch-in-haeppchen-ebook?aff=adminstore#aff=adminstore
 - Sales page: https://tschechischblog.de/tschechisch-in-haeppchen-ebook
 - Vendor affiliate support: https://tschechischblog.de/affiliate-supportseite-tschechisch/
 - Canonical redirect: https://www.digistore24.com/redir/350016/adminstore
@@ -76,14 +76,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Tschechisch in Häppchen - eBook? — Typ: E-books, Anbieter: linguatools, gelistet seit 2020-09-28
-- Wie viel kostet es? — 10.342425 USD
+- Wie viel kostet es? — 10.3489 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Tschechisch in Häppchen - eBook Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/350016
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/350016/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Tschechisch%20in%20H%C3%A4ppchen%20-%20eBook
 
 ## 4. Editorial notes

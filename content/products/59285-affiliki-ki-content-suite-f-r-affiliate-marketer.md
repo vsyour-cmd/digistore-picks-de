@@ -4,40 +4,40 @@ digistore24_product_id: 719411
 title: "AffiliKI – KI-Content-Suite für Affiliate-Marketer"
 vendor: "Elemweb"
 product_type: "Software"
-price: 138.12
+price: 138.21
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 69.07
+earnings_per_sale: 69.11
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Online Marketing & E-Business","Software"]
+categories: ["Software","Online Marketing & E-Business"]
 listed_since: "2026-09-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/59285/adminstore/"
+promo_link: "https://affiliki.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://affiliki.de/"
 language: "de"
 ---
 # AffiliKI – KI-Content-Suite für Affiliate-Marketer
 
 > Product ID `59285` · Digistore24 productId `719411` · [HTML profile page](../../produkte/affiliki-ki-content-suite-f-r-affiliate-marketer-59285.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $138.12 (Single payment) |
+| Price | $138.21 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $69.07 |
+| Earnings/sale* | $69.11 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Elemweb |
 | Listed since | 2026-09-16 |
 | Auto-accept affiliates | yes |
-| Categories | Online Marketing & E-Business, Software |
+| Categories | Software, Online Marketing & E-Business |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59285/adminstore/
+- **Promo link (affiliate):** https://affiliki.de/?aff=adminstore#aff=adminstore
 - Sales page: https://affiliki.de/
 - Vendor affiliate support: https://affiliki.de/affiliate-support.html
 - Canonical redirect: https://www.digistore24.com/redir/719411/adminstore
@@ -99,14 +99,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist AffiliKI – KI-Content-Suite für Affiliate-Marketer? — Typ: Software, Anbieter: Elemweb, gelistet seit 2026-09-16
-- Wie viel kostet es? — 138.118893 USD
+- Wie viel kostet es? — 138.205364 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: AffiliKI – KI-Content-Suite für Affiliate-Marketer Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/719411
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/719411/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=AffiliKI%20%E2%80%93%20KI-Content-Suite%20f%C3%BCr%20Affiliate-Marketer
 
 ## 4. Editorial notes

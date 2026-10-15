@@ -4,16 +4,16 @@ digistore24_product_id: 60947
 title: "Loslassen-Lebensenergie-Formel"
 vendor: "Erfolg-Intuitiv"
 product_type: "Downloads"
-price: 24.71
+price: 24.73
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 50.52
+earnings_per_sale: 50.55
 cart_conversion_pct: 18
 cancel_rate_pct: 4.58
 categories: ["Personal Development"]
 listed_since: "2015-10-14"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://erfolg-intuitiv.de/energie-webinar/?aff=adminstore#aff=adminstore"
 sales_page: "https://erfolg-intuitiv.de/energie-webinar/"
@@ -22,16 +22,16 @@ language: "de"
 # Loslassen-Lebensenergie-Formel
 
 > Product ID `9167` · Digistore24 productId `60947` · [HTML profile page](../../produkte/loslassen-lebensenergie-formel-9167.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $24.71 (Single payment, Installment) |
+| Price | $24.73 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $50.52 |
+| Earnings/sale* | $50.55 |
 | Cart conversion* | 18% |
 | Cancel rate* | 4.58% |
 | Vendor | Erfolg-Intuitiv |
@@ -87,14 +87,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Loslassen-Lebensenergie-Formel? — Typ: Downloads, Anbieter: Erfolg-Intuitiv, gelistet seit 2015-10-14
-- Wie viel kostet es? — 24.710010000000004 USD
+- Wie viel kostet es? — 24.72548 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Loslassen-Lebensenergie-Formel Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/60947
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/60947/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Loslassen-Lebensenergie-Formel
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 477995
 title: "KAPOPO - Das Portal für PowerPoint Karaoke"
 vendor: "sndgmedia"
 product_type: "Member area and video courses"
-price: 33.54
+price: 33.56
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 0.59
 cart_conversion_pct: 36
 cancel_rate_pct: 0.83
-categories: ["Fun & Games","Software"]
+categories: ["Software","Fun & Games"]
 listed_since: "2023-01-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://kapopo.de/preise/?aff=adminstore#aff=adminstore"
 sales_page: "https://kapopo.de/preise/"
@@ -22,14 +22,14 @@ language: "de"
 # KAPOPO - Das Portal für PowerPoint Karaoke
 
 > Product ID `46150` · Digistore24 productId `477995` · [HTML profile page](../../produkte/kapopo-das-portal-f-r-powerpoint-karaoke-46150.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $33.54 (Subscription) |
+| Price | $33.56 (Subscription) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $0.59 |
 | Cart conversion* | 36% |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | sndgmedia |
 | Listed since | 2023-01-06 |
 | Auto-accept affiliates | no (approval required) |
-| Categories | Fun & Games, Software |
+| Categories | Software, Fun & Games |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -76,14 +76,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KAPOPO - Das Portal für PowerPoint Karaoke? — Typ: Member area and video courses, Anbieter: sndgmedia, gelistet seit 2023-01-06
-- Wie viel kostet es? — 33.543000000000006 USD
+- Wie viel kostet es? — 33.564 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: KAPOPO - Das Portal für PowerPoint Karaoke Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/477995
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/477995/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=KAPOPO%20-%20Das%20Portal%20f%C3%BCr%20PowerPoint%20Karaoke
 
 ## 4. Editorial notes

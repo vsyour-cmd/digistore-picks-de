@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2026-04-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/56297/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/685159?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/685159"
 language: "de"
 ---
 # Ebook - Die Kraft niemanden zu brauchen
 
 > Product ID `56297` · Digistore24 productId `685159` · [HTML profile page](../../produkte/ebook-die-kraft-niemanden-zu-brauchen-56297.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56297/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/685159?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/685159
 - Canonical redirect: https://www.digistore24.com/redir/685159/adminstore
 
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ebook - Die Kraft niemanden zu brauchen? — Typ: E-books, Anbieter: joebgesbuchverleger39ac, gelistet seit 2026-04-16
-- Wie viel kostet es? — 1.0398330000000002 USD
+- Wie viel kostet es? — 1.040484 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Ebook - Die Kraft niemanden zu brauchen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/685159
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/685159/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Ebook%20-%20Die%20Kraft%20niemanden%20zu%20brauchen
 
 ## 4. Editorial notes

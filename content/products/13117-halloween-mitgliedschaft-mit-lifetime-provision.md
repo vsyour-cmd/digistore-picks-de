@@ -4,34 +4,34 @@ digistore24_product_id: 94557
 title: "Halloween-Mitgliedschaft mit Lifetime-Provision"
 vendor: "tricos"
 product_type: "Downloads"
-price: 28.18
+price: 28.19
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 7.04
+earnings_per_sale: 7.05
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft"]
 listed_since: "2016-09-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/13117/adminstore/"
+promo_link: "https://www.halloweenies.de/premium/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.halloweenies.de/premium/"
 language: "de"
 ---
 # Halloween-Mitgliedschaft mit Lifetime-Provision
 
 > Product ID `13117` · Digistore24 productId `94557` · [HTML profile page](../../produkte/halloween-mitgliedschaft-mit-lifetime-provision-13117.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $28.18 (Subscription) |
+| Price | $28.19 (Subscription) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $7.04 |
+| Earnings/sale* | $7.05 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | tricos |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/13117/adminstore/
+- **Promo link (affiliate):** https://www.halloweenies.de/premium/?aff=adminstore#aff=adminstore
 - Sales page: https://www.halloweenies.de/premium/
 - Vendor affiliate support: https://www.halloweenies.de/halloween-partnerprogramm.html
 - Canonical redirect: https://www.digistore24.com/redir/94557/adminstore
@@ -89,14 +89,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Halloween-Mitgliedschaft mit Lifetime-Provision? — Typ: Downloads, Anbieter: tricos, gelistet seit 2016-09-08
-- Wie viel kostet es? — 28.17612 USD
+- Wie viel kostet es? — 28.19376 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Halloween-Mitgliedschaft mit Lifetime-Provision Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/94557
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/94557/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Halloween-Mitgliedschaft%20mit%20Lifetime-Provision
 
 ## 4. Editorial notes

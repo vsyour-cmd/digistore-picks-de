@@ -4,16 +4,16 @@ digistore24_product_id: 728339
 title: "Das geheime Spielbuch für Social Media Manager:innen – Teil2"
 vendor: "Medina88"
 product_type: "E-books"
-price: 207.94
+price: 208.07
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 62.38
+earnings_per_sale: 62.42
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-09-03"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/728339?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/728339"
@@ -22,16 +22,16 @@ language: "de"
 # Das geheime Spielbuch für Social Media Manager:innen – Teil2
 
 > Product ID `58888` · Digistore24 productId `728339` · [HTML profile page](../../produkte/das-geheime-spielbuch-f-r-social-media-manager-innen-teil2-58888.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $207.94 (Single payment) |
+| Price | $208.07 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $62.38 |
+| Earnings/sale* | $62.42 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Medina88 |
@@ -87,14 +87,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das geheime Spielbuch für Social Media Manager:innen – Teil2? — Typ: E-books, Anbieter: Medina88, gelistet seit 2026-09-03
-- Wie viel kostet es? — 207.944238 USD
+- Wie viel kostet es? — 208.074424 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Das geheime Spielbuch für Social Media Manager:innen – Teil2 Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/728339
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/728339/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Das%20geheime%20Spielbuch%20f%C3%BCr%20Social%20Media%20Manager%3Ainnen%20%E2%80%93%20Teil2
 
 ## 4. Editorial notes

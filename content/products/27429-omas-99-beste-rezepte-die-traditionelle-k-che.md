@@ -4,7 +4,7 @@ digistore24_product_id: 252890
 title: "Omas 99 beste Rezepte! Die traditionelle Küche"
 vendor: "geldhuepfer"
 product_type: "E-books"
-price: 8.35
+price: 8.36
 currency: "USD"
 affiliate_commission_pct: 60
 earnings_per_sale: 5.01
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink"]
 listed_since: "2018-12-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/27429/adminstore/"
+promo_link: "https://www.digistore24.com/product/252890?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/252890"
 language: "de"
 ---
 # Omas 99 beste Rezepte! Die traditionelle Küche
 
 > Product ID `27429` · Digistore24 productId `252890` · [HTML profile page](../../produkte/omas-99-beste-rezepte-die-traditionelle-k-che-27429.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $8.35 (Single payment) |
+| Price | $8.36 (Single payment) |
 | Affiliate commission | 60% |
 | Earnings/sale* | $5.01 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/27429/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/252890?aff=adminstore
 - Sales page: https://www.digistore24.com/product/252890
 - Vendor affiliate support: https://geldhuepfer.de/affiliate-support-seite-omas-99-beste-rezepte-die-traditionelle-kueche-digi
 - Canonical redirect: https://www.digistore24.com/redir/252890/adminstore
@@ -70,14 +70,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Omas 99 beste Rezepte! Die traditionelle Küche? — Typ: E-books, Anbieter: geldhuepfer, gelistet seit 2018-12-17
-- Wie viel kostet es? — 8.352207 USD
+- Wie viel kostet es? — 8.357436 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Omas 99 beste Rezepte! Die traditionelle Küche Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/252890
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/252890/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Omas%2099%20beste%20Rezepte!%20Die%20traditionelle%20K%C3%BCche
 
 ## 4. Editorial notes

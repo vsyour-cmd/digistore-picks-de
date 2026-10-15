@@ -4,34 +4,34 @@ digistore24_product_id: 611167
 title: "Torwarttraining ohne Torwarttrainer - Online-Kurs"
 vendor: "kowerk"
 product_type: "Member area and video courses"
-price: 49.96
+price: 49.99
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 12.57
+earnings_per_sale: 12.58
 cart_conversion_pct: 4
 cancel_rate_pct: 0
 categories: ["Sport","Food Supplements"]
 listed_since: "2025-05-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/53691/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/611167/?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/611167/"
 language: "de"
 ---
 # Torwarttraining ohne Torwarttrainer - Online-Kurs
 
 > Product ID `53691` · Digistore24 productId `611167` · [HTML profile page](../../produkte/torwarttraining-ohne-torwarttrainer-online-kurs-53691.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $49.96 (Single payment) |
+| Price | $49.99 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $12.57 |
+| Earnings/sale* | $12.58 |
 | Cart conversion* | 4% |
 | Cancel rate* | 0% |
 | Vendor | kowerk |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/53691/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/611167/?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/611167/
 - Canonical redirect: https://www.digistore24.com/redir/611167/adminstore
 
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Torwarttraining ohne Torwarttrainer - Online-Kurs? — Typ: Member area and video courses, Anbieter: kowerk, gelistet seit 2025-05-06
-- Wie viel kostet es? — 49.956708000000006 USD
+- Wie viel kostet es? — 49.987984 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Torwarttraining ohne Torwarttrainer - Online-Kurs Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/611167
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/611167/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Torwarttraining%20ohne%20Torwarttrainer%20-%20Online-Kurs
 
 ## 4. Editorial notes

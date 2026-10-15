@@ -4,16 +4,16 @@ digistore24_product_id: 711145
 title: "SESSA - Sleep Bundle"
 vendor: "ulrikelinke"
 product_type: "Member area and video courses"
-price: 126.85
+price: 126.93
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 63.43
+earnings_per_sale: 63.47
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-08-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/711145?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/711145"
@@ -22,16 +22,16 @@ language: "de"
 # SESSA - Sleep Bundle
 
 > Product ID `58136` · Digistore24 productId `711145` · [HTML profile page](../../produkte/sessa-sleep-bundle-58136.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $126.85 (Single payment) |
+| Price | $126.93 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $63.43 |
+| Earnings/sale* | $63.47 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ulrikelinke |
@@ -86,14 +86,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist SESSA - Sleep Bundle? — Typ: Member area and video courses, Anbieter: ulrikelinke, gelistet seit 2026-08-04
-- Wie viel kostet es? — 126.84844500000001 USD
+- Wie viel kostet es? — 126.92786000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: SESSA - Sleep Bundle Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/711145
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/711145/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=SESSA%20-%20Sleep%20Bundle
 
 ## 4. Editorial notes

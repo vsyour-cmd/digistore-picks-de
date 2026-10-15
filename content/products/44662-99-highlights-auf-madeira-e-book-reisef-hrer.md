@@ -4,16 +4,16 @@ digistore24_product_id: 82899
 title: "99 Highlights auf Madeira (E-Book Reiseführer)"
 vendor: "rheinrost"
 product_type: "E-books"
-price: 13.86
+price: 13.87
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 3.92
+earnings_per_sale: 3.93
 cart_conversion_pct: 36
 cancel_rate_pct: 0.83
-categories: ["Languages","Social Media","Travel & Culture"]
+categories: ["Travel & Culture","Languages","Social Media"]
 listed_since: "2016-06-02"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.unaufschiebbar.de/madeira-reisefuehrer-99-highlights/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.unaufschiebbar.de/madeira-reisefuehrer-99-highlights/"
@@ -22,22 +22,22 @@ language: "de"
 # 99 Highlights auf Madeira (E-Book Reiseführer)
 
 > Product ID `44662` · Digistore24 productId `82899` · [HTML profile page](../../produkte/99-highlights-auf-madeira-e-book-reisef-hrer-44662.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $13.86 (Single payment) |
+| Price | $13.87 (Single payment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $3.92 |
+| Earnings/sale* | $3.93 |
 | Cart conversion* | 36% |
 | Cancel rate* | 0.83% |
 | Vendor | rheinrost |
 | Listed since | 2016-06-02 |
 | Auto-accept affiliates | yes |
-| Categories | Languages, Social Media, Travel & Culture |
+| Categories | Travel & Culture, Languages, Social Media |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -82,14 +82,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 99 Highlights auf Madeira (E-Book Reiseführer)? — Typ: E-books, Anbieter: rheinrost, gelistet seit 2016-06-02
-- Wie viel kostet es? — 13.864440000000002 USD
+- Wie viel kostet es? — 13.87312 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 99 Highlights auf Madeira (E-Book Reiseführer) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/82899
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/82899/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=99%20Highlights%20auf%20Madeira%20(E-Book%20Reisef%C3%BChrer)
 
 ## 4. Editorial notes

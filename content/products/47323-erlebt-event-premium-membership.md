@@ -4,34 +4,34 @@ digistore24_product_id: 537341
 title: "Erlebt Event Premium Membership"
 vendor: "ErlebtEvent"
 product_type: "Member area and video courses"
-price: 111.81
+price: 111.88
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 22.36
+earnings_per_sale: 22.38
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2024-02-02"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/47323/adminstore/"
+promo_link: "https://erlebt-event.de/membership/?aff=adminstore#aff=adminstore"
 sales_page: "https://erlebt-event.de/membership/"
 language: "de"
 ---
 # Erlebt Event Premium Membership
 
 > Product ID `47323` · Digistore24 productId `537341` · [HTML profile page](../../produkte/erlebt-event-premium-membership-47323.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $111.81 (Subscription) |
+| Price | $111.88 (Subscription) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $22.36 |
+| Earnings/sale* | $22.38 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ErlebtEvent |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/47323/adminstore/
+- **Promo link (affiliate):** https://erlebt-event.de/membership/?aff=adminstore#aff=adminstore
 - Sales page: https://erlebt-event.de/membership/
 - Canonical redirect: https://www.digistore24.com/redir/537341/adminstore
 
@@ -78,14 +78,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Erlebt Event Premium Membership? — Typ: Member area and video courses, Anbieter: ErlebtEvent, gelistet seit 2024-02-02
-- Wie viel kostet es? — 111.81 USD
+- Wie viel kostet es? — 111.88 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Erlebt Event Premium Membership Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/537341
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/537341/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Erlebt%20Event%20Premium%20Membership
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 731609
 title: "Gitarre lernen ohne Frust"
 vendor: "Book2Book"
 product_type: "E-books"
-price: 20.11
+price: 20.13
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 14.08
+earnings_per_sale: 14.09
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dancing & Music","Hobby & Craft"]
 listed_since: "2026-09-10"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/731609?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/731609"
@@ -22,16 +22,16 @@ language: "de"
 # Gitarre lernen ohne Frust
 
 > Product ID `59086` · Digistore24 productId `731609` · [HTML profile page](../../produkte/gitarre-lernen-ohne-frust-59086.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.11 (Single payment) |
+| Price | $20.13 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $14.08 |
+| Earnings/sale* | $14.09 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Book2Book |
@@ -90,14 +90,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Gitarre lernen ohne Frust? — Typ: E-books, Anbieter: Book2Book, gelistet seit 2026-09-10
-- Wie viel kostet es? — 20.114619 USD
+- Wie viel kostet es? — 20.127212 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Gitarre lernen ohne Frust Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/731609
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/731609/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Gitarre%20lernen%20ohne%20Frust
 
 ## 4. Editorial notes

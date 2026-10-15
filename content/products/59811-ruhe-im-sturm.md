@@ -4,16 +4,16 @@ digistore24_product_id: 737931
 title: "Ruhe im Sturm"
 vendor: "sentinelsystem"
 product_type: "E-books"
-price: 30.3
+price: 30.32
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 15.15
+earnings_per_sale: 15.16
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2026-09-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/737931?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/737931"
@@ -22,16 +22,16 @@ language: "de"
 # Ruhe im Sturm
 
 > Product ID `59811` · Digistore24 productId `737931` · [HTML profile page](../../produkte/ruhe-im-sturm-59811.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $30.30 (Single payment) |
+| Price | $30.32 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $15.15 |
+| Earnings/sale* | $15.16 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | sentinelsystem |
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ruhe im Sturm? — Typ: E-books, Anbieter: sentinelsystem, gelistet seit 2026-09-26
-- Wie viel kostet es? — 30.300510000000003 USD
+- Wie viel kostet es? — 30.319480000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Ruhe im Sturm Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/737931
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/737931/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Ruhe%20im%20Sturm
 
 ## 4. Editorial notes

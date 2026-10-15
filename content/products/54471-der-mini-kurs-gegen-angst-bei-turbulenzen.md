@@ -4,34 +4,34 @@ digistore24_product_id: 596988
 title: "Der Mini-Kurs gegen Angst bei Turbulenzen"
 vendor: "SkyCair"
 product_type: "Member area and video courses"
-price: 27.25
+price: 27.27
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 10.88
+earnings_per_sale: 10.89
 cart_conversion_pct: 5
 cancel_rate_pct: 0.5
 categories: ["Personal Development","Travel & Culture"]
 listed_since: "2025-02-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/54471/adminstore/"
+promo_link: "https://www.skycair.com/turbulenzen?aff=adminstore#aff=adminstore"
 sales_page: "https://www.skycair.com/turbulenzen"
 language: "de"
 ---
 # Der Mini-Kurs gegen Angst bei Turbulenzen
 
 > Product ID `54471` · Digistore24 productId `596988` · [HTML profile page](../../produkte/der-mini-kurs-gegen-angst-bei-turbulenzen-54471.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $27.25 (Single payment) |
+| Price | $27.27 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $10.88 |
+| Earnings/sale* | $10.89 |
 | Cart conversion* | 5% |
 | Cancel rate* | 0.5% |
 | Vendor | SkyCair |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/54471/adminstore/
+- **Promo link (affiliate):** https://www.skycair.com/turbulenzen?aff=adminstore#aff=adminstore
 - Sales page: https://www.skycair.com/turbulenzen
 - Vendor affiliate support: https://affiliate.skycair.com/
 - Canonical redirect: https://www.digistore24.com/redir/596988/adminstore
@@ -59,14 +59,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Mini-Kurs gegen Angst bei Turbulenzen? — Typ: Member area and video courses, Anbieter: SkyCair, gelistet seit 2025-02-18
-- Wie viel kostet es? — 27.248097000000005 USD
+- Wie viel kostet es? — 27.265156 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Der Mini-Kurs gegen Angst bei Turbulenzen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/596988
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/596988/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%20Mini-Kurs%20gegen%20Angst%20bei%20Turbulenzen
 
 ## 4. Editorial notes

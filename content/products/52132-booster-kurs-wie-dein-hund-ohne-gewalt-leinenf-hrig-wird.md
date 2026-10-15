@@ -4,16 +4,16 @@ digistore24_product_id: 607575
 title: "Booster-Kurs \"Wie dein Hund ohne Gewalt leinenführig wird\""
 vendor: "NinaNowak"
 product_type: "Member area and video courses"
-price: 39.46
+price: 39.48
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 19.73
+earnings_per_sale: 19.75
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets","Home & Garden","Animals & Pets"]
 listed_since: "2025-04-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://www.hundesozialisation.de/leinenfuehrigkeit-der-profis/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.hundesozialisation.de/leinenfuehrigkeit-der-profis/"
@@ -22,16 +22,16 @@ language: "de"
 # Booster-Kurs "Wie dein Hund ohne Gewalt leinenführig wird"
 
 > Product ID `52132` · Digistore24 productId `607575` · [HTML profile page](../../produkte/booster-kurs-wie-dein-hund-ohne-gewalt-leinenf-hrig-wird-52132.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $39.46 (Single payment, Installment) |
+| Price | $39.48 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $19.73 |
+| Earnings/sale* | $19.75 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | NinaNowak |
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Booster-Kurs "Wie dein Hund ohne Gewalt leinenführig wird"? — Typ: Member area and video courses, Anbieter: NinaNowak, gelistet seit 2025-04-15
-- Wie viel kostet es? — 39.457749 USD
+- Wie viel kostet es? — 39.482452 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Booster-Kurs "Wie dein Hund ohne Gewalt leinenführig wird" Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/607575
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/607575/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Booster-Kurs%20%22Wie%20dein%20Hund%20ohne%20Gewalt%20leinenf%C3%BChrig%20wird%22
 
 ## 4. Editorial notes

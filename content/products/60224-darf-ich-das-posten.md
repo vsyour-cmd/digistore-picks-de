@@ -4,16 +4,16 @@ digistore24_product_id: 734319
 title: "Darf ich das ... posten?"
 vendor: "businessdesignrocks"
 product_type: "Member area and video courses"
-price: 88.33
+price: 88.39
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 44.16
+earnings_per_sale: 44.19
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-10-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/734319?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/734319"
@@ -22,16 +22,16 @@ language: "de"
 # Darf ich das ... posten?
 
 > Product ID `60224` · Digistore24 productId `734319` · [HTML profile page](../../produkte/darf-ich-das-posten-60224.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $88.33 (Single payment) |
+| Price | $88.39 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $44.16 |
+| Earnings/sale* | $44.19 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | businessdesignrocks |
@@ -87,14 +87,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Darf ich das ... posten?? — Typ: Member area and video courses, Anbieter: businessdesignrocks, gelistet seit 2026-10-06
-- Wie viel kostet es? — 88.32990000000001 USD
+- Wie viel kostet es? — 88.3852 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Darf ich das ... posten? Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/734319
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/734319/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Darf%20ich%20das%20...%20posten%3F
 
 ## 4. Editorial notes

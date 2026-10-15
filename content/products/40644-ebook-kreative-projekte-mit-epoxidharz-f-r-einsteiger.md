@@ -4,7 +4,7 @@ digistore24_product_id: 360118
 title: "eBook - Kreative Projekte mit Epoxidharz für Einsteiger"
 vendor: "acrylgiessen"
 product_type: "E-books"
-price: 15.62
+price: 15.63
 currency: "USD"
 affiliate_commission_pct: 20
 earnings_per_sale: 3.12
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft"]
 listed_since: "2020-11-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://acrylgiessen.com/ebook-kreative-projekte-mit-epoxy-resin-fuer-einsteiger/?aff=adminstore#aff=adminstore"
 sales_page: "https://acrylgiessen.com/ebook-kreative-projekte-mit-epoxy-resin-fuer-einsteiger/"
@@ -22,14 +22,14 @@ language: "de"
 # eBook - Kreative Projekte mit Epoxidharz für Einsteiger
 
 > Product ID `40644` · Digistore24 productId `360118` · [HTML profile page](../../produkte/ebook-kreative-projekte-mit-epoxidharz-f-r-einsteiger-40644.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $15.62 (Single payment) |
+| Price | $15.63 (Single payment) |
 | Affiliate commission | 20% |
 | Earnings/sale* | $3.12 |
 | Cart conversion* | — |
@@ -76,14 +76,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist eBook - Kreative Projekte mit Epoxidharz für Einsteiger? — Typ: E-books, Anbieter: acrylgiessen, gelistet seit 2020-11-29
-- Wie viel kostet es? — 15.619857000000001 USD
+- Wie viel kostet es? — 15.629636000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: eBook - Kreative Projekte mit Epoxidharz für Einsteiger Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/360118
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/360118/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=eBook%20-%20Kreative%20Projekte%20mit%20Epoxidharz%20f%C3%BCr%20Einsteiger
 
 ## 4. Editorial notes

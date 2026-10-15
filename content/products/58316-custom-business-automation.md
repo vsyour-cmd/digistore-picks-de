@@ -4,16 +4,16 @@ digistore24_product_id: 721065
 title: "Custom Business Automation"
 vendor: "MichaMH"
 product_type: "Remote service provided electronically"
-price: 2225.02
+price: 2226.41
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 445
+earnings_per_sale: 445.28
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: []
+categories: ["Online Marketing & E-Business","Services"]
 listed_since: "2026-08-12"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://affyro.com/ki-automatisierung.html?aff=adminstore#aff=adminstore"
 sales_page: "https://affyro.com/ki-automatisierung.html"
@@ -22,22 +22,22 @@ language: "de"
 # Custom Business Automation
 
 > Product ID `58316` · Digistore24 productId `721065` · [HTML profile page](../../produkte/custom-business-automation-58316.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $2225.02 (Single payment, Installment) |
+| Price | $2226.41 (Single payment, Installment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $445.00 |
+| Earnings/sale* | $445.28 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MichaMH |
 | Listed since | 2026-08-12 |
 | Auto-accept affiliates | yes |
-| Categories | Uncategorized |
+| Categories | Online Marketing & E-Business, Services |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -85,14 +85,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Custom Business Automation? — Typ: Remote service provided electronically, Anbieter: MichaMH, gelistet seit 2026-08-12
-- Wie viel kostet es? — 2225.0190000000002 USD
+- Wie viel kostet es? — 2226.412 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Custom Business Automation Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/721065
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/721065/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Custom%20Business%20Automation
 
 ## 4. Editorial notes

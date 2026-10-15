@@ -4,16 +4,16 @@ digistore24_product_id: 698461
 title: "Löwenkraftkinder"
 vendor: "ThomasTenkamp"
 product_type: "Member area and video courses"
-price: 465.1
+price: 465.39
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 186.04
+earnings_per_sale: 186.16
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Family & Children","Personal Development"]
+categories: ["Personal Development","Family & Children","Education"]
 listed_since: "2026-07-02"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.thomastenkamp.de/loewenkraftkinder?aff=adminstore#aff=adminstore"
 sales_page: "https://www.thomastenkamp.de/loewenkraftkinder"
@@ -22,22 +22,22 @@ language: "de"
 # Löwenkraftkinder
 
 > Product ID `57380` · Digistore24 productId `698461` · [HTML profile page](../../produkte/l-wenkraftkinder-57380.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $465.10 (Single payment, Installment) |
+| Price | $465.39 (Single payment, Installment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $186.04 |
+| Earnings/sale* | $186.16 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ThomasTenkamp |
 | Listed since | 2026-07-02 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Family & Children, Personal Development |
+| Categories | Personal Development, Family & Children, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -89,14 +89,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Löwenkraftkinder? — Typ: Member area and video courses, Anbieter: ThomasTenkamp, gelistet seit 2026-07-02
-- Wie viel kostet es? — 465.0960570000001 USD
+- Wie viel kostet es? — 465.38723600000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Löwenkraftkinder Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/698461
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/698461/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=L%C3%B6wenkraftkinder
 
 ## 4. Editorial notes

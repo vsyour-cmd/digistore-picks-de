@@ -4,16 +4,16 @@ digistore24_product_id: 740657
 title: "Instagram Profilanalyse"
 vendor: "susyBo"
 product_type: "Remote service provided electronically"
-price: 91.14
+price: 91.19
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 36.45
+earnings_per_sale: 36.47
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: []
+categories: ["Online Marketing & E-Business","Marketing Services"]
 listed_since: "2026-10-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://www.susyberger.ch/profilanalyse?aff=adminstore#aff=adminstore"
 sales_page: "https://www.susyberger.ch/profilanalyse"
@@ -22,22 +22,22 @@ language: "de"
 # Instagram Profilanalyse
 
 > Product ID `60408` · Digistore24 productId `740657` · [HTML profile page](../../produkte/instagram-profilanalyse-60408.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $91.14 (Single payment) |
+| Price | $91.19 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $36.45 |
+| Earnings/sale* | $36.47 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | susyBo |
 | Listed since | 2026-10-08 |
 | Auto-accept affiliates | yes |
-| Categories | Uncategorized |
+| Categories | Online Marketing & E-Business, Marketing Services |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -58,14 +58,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Instagram Profilanalyse? — Typ: Remote service provided electronically, Anbieter: susyBo, gelistet seit 2026-10-08
-- Wie viel kostet es? — 91.13633100000001 USD
+- Wie viel kostet es? — 91.19338800000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Instagram Profilanalyse Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/740657
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/740657/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Instagram%20Profilanalyse
 
 ## 4. Editorial notes

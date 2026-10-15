@@ -4,16 +4,16 @@ digistore24_product_id: 28579
 title: "der Zahlen-Code (E-Book + Upsells)"
 vendor: "rosinakaiser"
 product_type: "Downloads"
-price: 668.78
+price: 669.2
 currency: "USD"
 affiliate_commission_pct: 33
-earnings_per_sale: 43.51
+earnings_per_sale: 43.53
 cart_conversion_pct: 4
 cancel_rate_pct: 2.09
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2014-07-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.rosinakaiser.de/produkte/ebook-zahlen-code?aff=adminstore#aff=adminstore"
 sales_page: "https://www.rosinakaiser.de/produkte/ebook-zahlen-code"
@@ -22,16 +22,16 @@ language: "de"
 # der Zahlen-Code (E-Book + Upsells)
 
 > Product ID `5279` · Digistore24 productId `28579` · [HTML profile page](../../produkte/der-zahlen-code-e-book-upsells-5279.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $668.78 (Single payment) |
+| Price | $669.20 (Single payment) |
 | Affiliate commission | 33% |
-| Earnings/sale* | $43.51 |
+| Earnings/sale* | $43.53 |
 | Cart conversion* | 4% |
 | Cancel rate* | 2.09% |
 | Vendor | rosinakaiser |
@@ -97,14 +97,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist der Zahlen-Code (E-Book + Upsells)? — Typ: Downloads, Anbieter: rosinakaiser, gelistet seit 2014-07-04
-- Wie viel kostet es? — 668.780334 USD
+- Wie viel kostet es? — 669.199032 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: der Zahlen-Code (E-Book + Upsells) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/28579
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/28579/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=der%20Zahlen-Code%20(E-Book%20%2B%20Upsells)
 
 ## 4. Editorial notes

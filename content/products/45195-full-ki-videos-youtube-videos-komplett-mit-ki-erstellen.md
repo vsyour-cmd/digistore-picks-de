@@ -4,34 +4,34 @@ digistore24_product_id: 514484
 title: "Full KI Videos - YouTube Videos komplett mit KI erstellen"
 vendor: "Ararembe"
 product_type: "Member area and video courses"
-price: 71.23
+price: 71.28
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 13.56
+earnings_per_sale: 13.57
 cart_conversion_pct: 6
 cancel_rate_pct: 4.08
 categories: ["Online Marketing & E-Business","Social Media"]
 listed_since: "2023-08-30"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/45195/adminstore/"
+promo_link: "https://onlinekurse-von-experten.com/ytki-fe/?aff=adminstore#aff=adminstore"
 sales_page: "https://onlinekurse-von-experten.com/ytki-fe/"
 language: "de"
 ---
 # Full KI Videos - YouTube Videos komplett mit KI erstellen
 
 > Product ID `45195` · Digistore24 productId `514484` · [HTML profile page](../../produkte/full-ki-videos-youtube-videos-komplett-mit-ki-erstellen-45195.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $71.23 (Single payment) |
+| Price | $71.28 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $13.56 |
+| Earnings/sale* | $13.57 |
 | Cart conversion* | 6% |
 | Cancel rate* | 4.08% |
 | Vendor | Ararembe |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/45195/adminstore/
+- **Promo link (affiliate):** https://onlinekurse-von-experten.com/ytki-fe/?aff=adminstore#aff=adminstore
 - Sales page: https://onlinekurse-von-experten.com/ytki-fe/
 - Vendor affiliate support: https://www.ararembe.com/serviceportal/online-einkommen/
 - Canonical redirect: https://www.digistore24.com/redir/514484/adminstore
@@ -87,14 +87,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Full KI Videos - YouTube Videos komplett mit KI erstellen? — Typ: Member area and video courses, Anbieter: Ararembe, gelistet seit 2023-08-30
-- Wie viel kostet es? — 71.23415100000001 USD
+- Wie viel kostet es? — 71.27874800000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Full KI Videos - YouTube Videos komplett mit KI erstellen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/514484
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/514484/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Full%20KI%20Videos%20-%20YouTube%20Videos%20komplett%20mit%20KI%20erstellen
 
 ## 4. Editorial notes

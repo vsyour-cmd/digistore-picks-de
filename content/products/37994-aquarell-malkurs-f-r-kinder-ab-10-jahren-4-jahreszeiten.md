@@ -4,16 +4,16 @@ digistore24_product_id: 408957
 title: "Aquarell Malkurs für Kinder ab 10 Jahren \"4 Jahreszeiten\""
 vendor: "kolibrischool"
 product_type: "Member area and video courses"
-price: 23.39
+price: 23.41
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 4.67
+earnings_per_sale: 4.68
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2021-09-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://kolibri-school.de/vier-jahreszeiten-malen/?aff=adminstore#aff=adminstore"
 sales_page: "https://kolibri-school.de/vier-jahreszeiten-malen/"
@@ -22,16 +22,16 @@ language: "de"
 # Aquarell Malkurs für Kinder ab 10 Jahren "4 Jahreszeiten"
 
 > Product ID `37994` · Digistore24 productId `408957` · [HTML profile page](../../produkte/aquarell-malkurs-f-r-kinder-ab-10-jahren-4-jahreszeiten-37994.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $23.39 (Single payment) |
+| Price | $23.41 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $4.67 |
+| Earnings/sale* | $4.68 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | kolibrischool |
@@ -69,14 +69,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Aquarell Malkurs für Kinder ab 10 Jahren "4 Jahreszeiten"? — Typ: Member area and video courses, Anbieter: kolibrischool, gelistet seit 2021-09-23
-- Wie viel kostet es? — 23.390652000000003 USD
+- Wie viel kostet es? — 23.405296000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Aquarell Malkurs für Kinder ab 10 Jahren "4 Jahreszeiten" Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/408957
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/408957/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Aquarell%20Malkurs%20f%C3%BCr%20Kinder%20ab%2010%20Jahren%20%224%20Jahreszeiten%22
 
 ## 4. Editorial notes

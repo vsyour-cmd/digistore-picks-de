@@ -4,40 +4,40 @@ digistore24_product_id: 740971
 title: "Wandern im Bayerischen Wald mit Kindern"
 vendor: "Book2Book"
 product_type: "Downloads"
-price: 14.52
+price: 14.53
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 8.71
+earnings_per_sale: 8.72
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Family & Children","Hobby & Craft","Travel & Culture"]
+categories: ["Family & Children","Travel & Culture","Hobby & Craft"]
 listed_since: "2026-10-03"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/60145/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/740971?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/740971"
 language: "de"
 ---
 # Wandern im Bayerischen Wald mit Kindern
 
 > Product ID `60145` · Digistore24 productId `740971` · [HTML profile page](../../produkte/wandern-im-bayerischen-wald-mit-kindern-60145.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $14.52 (Single payment) |
+| Price | $14.53 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $8.71 |
+| Earnings/sale* | $8.72 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Book2Book |
 | Listed since | 2026-10-03 |
 | Auto-accept affiliates | yes |
-| Categories | Family & Children, Hobby & Craft, Travel & Culture |
+| Categories | Family & Children, Travel & Culture, Hobby & Craft |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/60145/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/740971?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/740971
 - Vendor affiliate support: https://book2bookaffiliatesupport.blogspot.com/2026/10/wandern-im-bayerischen-wald-mit-kindern.html
 - Canonical redirect: https://www.digistore24.com/redir/740971/adminstore
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Wandern im Bayerischen Wald mit Kindern? — Typ: Downloads, Anbieter: Book2Book, gelistet seit 2026-10-03
-- Wie viel kostet es? — 14.524119 USD
+- Wie viel kostet es? — 14.533212 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Wandern im Bayerischen Wald mit Kindern Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/740971
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/740971/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Wandern%20im%20Bayerischen%20Wald%20mit%20Kindern
 
 ## 4. Editorial notes

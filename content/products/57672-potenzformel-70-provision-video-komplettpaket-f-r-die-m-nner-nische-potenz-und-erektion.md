@@ -4,16 +4,16 @@ digistore24_product_id: 145327
 title: "PotenzFormel: 70% Provision! Video-Komplettpaket für die Männer-Nische (Potenz und Erektion)"
 vendor: "profitbiz"
 product_type: "Downloads"
-price: 186.98
+price: 187.1
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 130.88
+earnings_per_sale: 130.97
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Dating, Relationships & Romance","Health & Fitness"]
+categories: ["Health & Fitness","Dating, Relationships & Romance"]
 listed_since: "2026-07-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://david-emmerich-coaching.com/nie-wieder-impotenz-cpd?aff=adminstore#aff=adminstore"
 sales_page: "https://david-emmerich-coaching.com/nie-wieder-impotenz-cpd"
@@ -22,22 +22,22 @@ language: "de"
 # PotenzFormel: 70% Provision! Video-Komplettpaket für die Männer-Nische (Potenz und Erektion)
 
 > Product ID `57672` · Digistore24 productId `145327` · [HTML profile page](../../produkte/potenzformel-70-provision-video-komplettpaket-f-r-die-m-nner-nische-potenz-und-erektion-57672.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $186.98 (Single payment) |
+| Price | $187.10 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $130.88 |
+| Earnings/sale* | $130.97 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | profitbiz |
 | Listed since | 2026-07-22 |
 | Auto-accept affiliates | no (approval required) |
-| Categories | Dating, Relationships & Romance, Health & Fitness |
+| Categories | Health & Fitness, Dating, Relationships & Romance |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -80,14 +80,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist PotenzFormel: 70% Provision! Video-Komplettpaket für die Männer-Nische (Potenz und Erektion)? — Typ: Downloads, Anbieter: profitbiz, gelistet seit 2026-07-22
-- Wie viel kostet es? — 186.979863 USD
+- Wie viel kostet es? — 187.096924 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: PotenzFormel: 70% Provision! Video-Komplettpaket für die Männer-Nische (Potenz und Erektion) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/145327
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/145327/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=PotenzFormel%3A%2070%25%20Provision!%20Video-Komplettpaket%20f%C3%BCr%20die%20M%C3%A4nner-Nische%20(Potenz%20und%20Erektion)
 
 ## 4. Editorial notes

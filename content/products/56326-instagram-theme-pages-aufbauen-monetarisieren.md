@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media"]
 listed_since: "2026-04-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://designs-nf.com/ebooks/instagram-theme-pages-monetarisieren?aff=adminstore#aff=adminstore"
 sales_page: "https://designs-nf.com/ebooks/instagram-theme-pages-monetarisieren"
@@ -22,7 +22,7 @@ language: "de"
 # Instagram Theme Pages aufbauen & monetarisieren
 
 > Product ID `56326` · Digistore24 productId `686045` · [HTML profile page](../../produkte/instagram-theme-pages-aufbauen-monetarisieren-56326.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -82,14 +82,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Instagram Theme Pages aufbauen & monetarisieren? — Typ: E-books, Anbieter: Freifone, gelistet seit 2026-04-20
-- Wie viel kostet es? — 10.398330000000001 USD
+- Wie viel kostet es? — 10.40484 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Instagram Theme Pages aufbauen & monetarisieren Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/686045
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/686045/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Instagram%20Theme%20Pages%20aufbauen%20%26%20monetarisieren
 
 ## 4. Editorial notes

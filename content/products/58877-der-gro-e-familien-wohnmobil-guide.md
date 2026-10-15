@@ -7,22 +7,22 @@ product_type: "E-books"
 price: 15.58
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 7.79
+earnings_per_sale: 7.8
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children","Travel & Culture"]
 listed_since: "2026-09-02"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/58877/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/711041?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/711041"
 language: "de"
 ---
 # Der große Familien-Wohnmobil-Guide
 
 > Product ID `58877` · Digistore24 productId `711041` · [HTML profile page](../../produkte/der-gro-e-familien-wohnmobil-guide-58877.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,7 @@ language: "de"
 | Product type | E-books |
 | Price | $15.58 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $7.79 |
+| Earnings/sale* | $7.80 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | FranziskaVockrodt |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58877/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/711041?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/711041
 - Vendor affiliate support: https://unsertraumvomreisen.de/affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/711041/adminstore
@@ -75,14 +75,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der große Familien-Wohnmobil-Guide? — Typ: E-books, Anbieter: FranziskaVockrodt, gelistet seit 2026-09-02
-- Wie viel kostet es? — 15.575133000000001 USD
+- Wie viel kostet es? — 15.584884 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Der große Familien-Wohnmobil-Guide Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/711041
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/711041/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%20gro%C3%9Fe%20Familien-Wohnmobil-Guide
 
 ## 4. Editorial notes

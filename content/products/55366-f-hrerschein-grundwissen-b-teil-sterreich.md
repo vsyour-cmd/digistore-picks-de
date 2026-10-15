@@ -4,16 +4,16 @@ digistore24_product_id: 654471
 title: "Führerschein Grundwissen + B-Teil (Österreich)"
 vendor: "Fahrschulnachhilfe"
 product_type: "Member area and video courses"
-price: 44.72
+price: 44.75
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 18.56
+earnings_per_sale: 18.57
 cart_conversion_pct: 0
 cancel_rate_pct: 6.67
-categories: ["Education","Personal Development"]
+categories: ["Personal Development","Education"]
 listed_since: "2025-12-10"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/654471?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/654471"
@@ -22,22 +22,22 @@ language: "de"
 # Führerschein Grundwissen + B-Teil (Österreich)
 
 > Product ID `55366` · Digistore24 productId `654471` · [HTML profile page](../../produkte/f-hrerschein-grundwissen-b-teil-sterreich-55366.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $44.72 (Single payment) |
+| Price | $44.75 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $18.56 |
+| Earnings/sale* | $18.57 |
 | Cart conversion* | 0% |
 | Cancel rate* | 6.67% |
 | Vendor | Fahrschulnachhilfe |
 | Listed since | 2025-12-10 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Personal Development |
+| Categories | Personal Development, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -78,14 +78,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Führerschein Grundwissen + B-Teil (Österreich)? — Typ: Member area and video courses, Anbieter: Fahrschulnachhilfe, gelistet seit 2025-12-10
-- Wie viel kostet es? — 44.724000000000004 USD
+- Wie viel kostet es? — 44.752 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Führerschein Grundwissen + B-Teil (Österreich) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/654471
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/654471/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=F%C3%BChrerschein%20Grundwissen%20%2B%20B-Teil%20(%C3%96sterreich)
 
 ## 4. Editorial notes

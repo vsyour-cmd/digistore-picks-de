@@ -4,16 +4,16 @@ digistore24_product_id: 711304
 title: "130 € Provision Hypnose-Intensiv-Workshop in Berlin bewerben"
 vendor: "Jafmar"
 product_type: "Seminar for business customers"
-price: 653
+price: 653.41
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 145.35
+earnings_per_sale: 145.44
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-07-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://september.hypnose-erfolg.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://september.hypnose-erfolg.de/"
@@ -22,16 +22,16 @@ language: "de"
 # 130 € Provision Hypnose-Intensiv-Workshop in Berlin bewerben
 
 > Product ID `57686` · Digistore24 productId `711304` · [HTML profile page](../../produkte/130-provision-hypnose-intensiv-workshop-in-berlin-bewerben-57686.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Seminar for business customers |
-| Price | $653.00 (Single payment) |
+| Price | $653.41 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $145.35 |
+| Earnings/sale* | $145.44 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Jafmar |
@@ -66,14 +66,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 130 € Provision Hypnose-Intensiv-Workshop in Berlin bewerben? — Typ: Seminar for business customers, Anbieter: Jafmar, gelistet seit 2026-07-22
-- Wie viel kostet es? — 653.003943 USD
+- Wie viel kostet es? — 653.4127639999999 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 130 € Provision Hypnose-Intensiv-Workshop in Berlin bewerben Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/711304
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/711304/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=130%20%E2%82%AC%20Provision%20Hypnose-Intensiv-Workshop%20in%20Berlin%20bewerben
 
 ## 4. Editorial notes

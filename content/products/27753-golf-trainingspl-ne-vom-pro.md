@@ -4,34 +4,34 @@ digistore24_product_id: 256260
 title: "Golf Trainingspläne vom Pro"
 vendor: "hinmed"
 product_type: "E-books"
-price: 82.55
+price: 82.6
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 12.38
+earnings_per_sale: 12.39
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Sport"]
 listed_since: "2019-01-14"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/27753/adminstore/"
+promo_link: "https://www.golf-trainingsplan.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.golf-trainingsplan.de/"
 language: "de"
 ---
 # Golf Trainingspläne vom Pro
 
 > Product ID `27753` · Digistore24 productId `256260` · [HTML profile page](../../produkte/golf-trainingspl-ne-vom-pro-27753.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $82.55 (Single payment) |
+| Price | $82.60 (Single payment) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $12.38 |
+| Earnings/sale* | $12.39 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | hinmed |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/27753/adminstore/
+- **Promo link (affiliate):** https://www.golf-trainingsplan.de/?aff=adminstore#aff=adminstore
 - Sales page: https://www.golf-trainingsplan.de/
 - Canonical redirect: https://www.digistore24.com/redir/256260/adminstore
 
@@ -85,14 +85,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Golf Trainingspläne vom Pro? — Typ: E-books, Anbieter: hinmed, gelistet seit 2019-01-14
-- Wie viel kostet es? — 82.549323 USD
+- Wie viel kostet es? — 82.601004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Golf Trainingspläne vom Pro Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/256260
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/256260/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Golf%20Trainingspl%C3%A4ne%20vom%20Pro
 
 ## 4. Editorial notes

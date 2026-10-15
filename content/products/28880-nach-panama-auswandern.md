@@ -4,16 +4,16 @@ digistore24_product_id: 242028
 title: "Nach Panama Auswandern"
 vendor: "serfanoo"
 product_type: "Downloads"
-price: 52.55
+price: 52.58
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 13.14
+earnings_per_sale: 13.15
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Law & Justice"]
 listed_since: "2018-10-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.globalcitizenexplorer.com/index.php?page_id=676&aff=adminstore#aff=adminstore"
 sales_page: "https://www.globalcitizenexplorer.com/index.php?page_id=676"
@@ -22,16 +22,16 @@ language: "de"
 # Nach Panama Auswandern
 
 > Product ID `28880` · Digistore24 productId `242028` · [HTML profile page](../../produkte/nach-panama-auswandern-28880.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $52.55 (Single payment) |
+| Price | $52.58 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $13.14 |
+| Earnings/sale* | $13.15 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | serfanoo |
@@ -88,14 +88,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Nach Panama Auswandern? — Typ: Downloads, Anbieter: serfanoo, gelistet seit 2018-10-01
-- Wie viel kostet es? — 52.550700000000006 USD
+- Wie viel kostet es? — 52.583600000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Nach Panama Auswandern Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/242028
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/242028/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Nach%20Panama%20Auswandern
 
 ## 4. Editorial notes

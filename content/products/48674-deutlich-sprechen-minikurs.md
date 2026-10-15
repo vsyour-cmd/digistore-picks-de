@@ -4,16 +4,16 @@ digistore24_product_id: 561632
 title: "Deutlich sprechen - Minikurs"
 vendor: "Stimmfluencer"
 product_type: "Downloads"
-price: 20.07
+price: 20.08
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 10.04
+earnings_per_sale: 10.05
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Profession & Job"]
 listed_since: "2024-07-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.stimmfluencer.de/minikurse?aff=adminstore#aff=adminstore"
 sales_page: "https://www.stimmfluencer.de/minikurse"
@@ -22,16 +22,16 @@ language: "de"
 # Deutlich sprechen - Minikurs
 
 > Product ID `48674` · Digistore24 productId `561632` · [HTML profile page](../../produkte/deutlich-sprechen-minikurs-48674.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $20.07 (Single payment) |
+| Price | $20.08 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $10.04 |
+| Earnings/sale* | $10.05 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Stimmfluencer |
@@ -75,14 +75,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Deutlich sprechen - Minikurs? — Typ: Downloads, Anbieter: Stimmfluencer, gelistet seit 2024-07-18
-- Wie viel kostet es? — 20.069895000000002 USD
+- Wie viel kostet es? — 20.08246 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Deutlich sprechen - Minikurs Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/561632
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/561632/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Deutlich%20sprechen%20-%20Minikurs
 
 ## 4. Editorial notes

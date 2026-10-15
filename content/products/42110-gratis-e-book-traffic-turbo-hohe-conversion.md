@@ -4,16 +4,16 @@ digistore24_product_id: 472968
 title: "GRATIS E-BOOK | Traffic Turbo | Hohe Conversion!"
 vendor: "CyrilCash"
 product_type: "E-books"
-price: 211.3
+price: 211.43
 currency: "USD"
 affiliate_commission_pct: 100
-earnings_per_sale: 156.23
+earnings_per_sale: 156.33
 cart_conversion_pct: 8
 cancel_rate_pct: 2.04
 categories: ["Computer & Internet"]
 listed_since: "2022-12-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://business-kickstart.de/trafficturbo/?aff=adminstore#aff=adminstore"
 sales_page: "https://business-kickstart.de/trafficturbo/"
@@ -22,16 +22,16 @@ language: "de"
 # GRATIS E-BOOK | Traffic Turbo | Hohe Conversion!
 
 > Product ID `42110` · Digistore24 productId `472968` · [HTML profile page](../../produkte/gratis-e-book-traffic-turbo-hohe-conversion-42110.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $211.30 (Single payment) |
+| Price | $211.43 (Single payment) |
 | Affiliate commission | 100% |
-| Earnings/sale* | $156.23 |
+| Earnings/sale* | $156.33 |
 | Cart conversion* | 8% |
 | Cancel rate* | 2.04% |
 | Vendor | CyrilCash |
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist GRATIS E-BOOK | Traffic Turbo | Hohe Conversion!? — Typ: E-books, Anbieter: CyrilCash, gelistet seit 2022-12-01
-- Wie viel kostet es? — 211.298538 USD
+- Wie viel kostet es? — 211.430824 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: GRATIS E-BOOK | Traffic Turbo | Hohe Conversion! Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/472968
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/472968/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=GRATIS%20E-BOOK%20%7C%20Traffic%20Turbo%20%7C%20Hohe%20Conversion!
 
 ## 4. Editorial notes

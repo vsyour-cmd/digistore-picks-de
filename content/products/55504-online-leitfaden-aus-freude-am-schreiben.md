@@ -4,16 +4,16 @@ digistore24_product_id: 667437
 title: "Online-Leitfaden Aus Freude am Schreiben"
 vendor: "MadrigenumVerlag"
 product_type: "Downloads"
-price: 93.01
+price: 93.07
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 46.51
+earnings_per_sale: 46.54
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2026-02-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://madrigenum.dworak.name/online-leitfaden-aus-freude-am-schreiben/?aff=adminstore#aff=adminstore"
 sales_page: "https://madrigenum.dworak.name/online-leitfaden-aus-freude-am-schreiben/"
@@ -22,16 +22,16 @@ language: "de"
 # Online-Leitfaden Aus Freude am Schreiben
 
 > Product ID `55504` · Digistore24 productId `667437` · [HTML profile page](../../produkte/online-leitfaden-aus-freude-am-schreiben-55504.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $93.01 (Single payment) |
+| Price | $93.07 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $46.51 |
+| Earnings/sale* | $46.54 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MadrigenumVerlag |
@@ -74,14 +74,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online-Leitfaden Aus Freude am Schreiben? — Typ: Downloads, Anbieter: MadrigenumVerlag, gelistet seit 2026-02-08
-- Wie viel kostet es? — 93.014739 USD
+- Wie viel kostet es? — 93.072972 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Online-Leitfaden Aus Freude am Schreiben Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/667437
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/667437/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Online-Leitfaden%20Aus%20Freude%20am%20Schreiben
 
 ## 4. Editorial notes

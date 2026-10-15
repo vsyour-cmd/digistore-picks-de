@@ -4,34 +4,34 @@ digistore24_product_id: 733493
 title: "neofire Core Basic Shopsystem im Abo 20 % wiederk. Prov."
 vendor: "neofire"
 product_type: "Software"
-price: 1212.05
+price: 1212.81
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 242.42
+earnings_per_sale: 242.57
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software","Online Marketing"]
 listed_since: "2026-09-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/59261/adminstore/"
+promo_link: "https://www.neofire.de/partner/digistore24/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.neofire.de/partner/digistore24/"
 language: "de"
 ---
 # neofire Core Basic Shopsystem im Abo 20 % wiederk. Prov.
 
 > Product ID `59261` · Digistore24 productId `733493` · [HTML profile page](../../produkte/neofire-core-basic-shopsystem-im-abo-20-wiederk-prov-59261.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $1212.05 (Subscription) |
+| Price | $1212.81 (Subscription) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $242.42 |
+| Earnings/sale* | $242.57 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | neofire |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59261/adminstore/
+- **Promo link (affiliate):** https://www.neofire.de/partner/digistore24/?aff=adminstore#aff=adminstore
 - Sales page: https://www.neofire.de/partner/digistore24/
 - Canonical redirect: https://www.digistore24.com/redir/733493/adminstore
 
@@ -96,14 +96,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist neofire Core Basic Shopsystem im Abo 20 % wiederk. Prov.? — Typ: Software, Anbieter: neofire, gelistet seit 2026-09-16
-- Wie viel kostet es? — 1212.0539430000001 USD
+- Wie viel kostet es? — 1212.812764 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: neofire Core Basic Shopsystem im Abo 20 % wiederk. Prov. Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/733493
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/733493/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=neofire%20Core%20Basic%20Shopsystem%20im%20Abo%2020%20%25%20wiederk.%20Prov.
 
 ## 4. Editorial notes

@@ -7,22 +7,22 @@ product_type: "E-books"
 price: 0
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 7.02
+earnings_per_sale: 7.03
 cart_conversion_pct: 28
 cancel_rate_pct: 0
-categories: ["Education","Personal Development"]
+categories: ["Personal Development","Education"]
 listed_since: "2024-04-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "http://www.seminare-lenormand.de/themenaufstellung#aff=adminstore"
+promo_link: "https://coachingtrip.de/dankbarkeitstagebuch-kostenlos/?aff=adminstore#aff=adminstore"
 sales_page: "https://coachingtrip.de/dankbarkeitstagebuch-kostenlos/"
 language: "de"
 ---
 # VERSCHENKE: Kostenloses Dankbarkeitstagebuch
 
 > Product ID `47923` · Digistore24 productId `549630` · [HTML profile page](../../produkte/verschenke-kostenloses-dankbarkeitstagebuch-47923.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,13 +31,13 @@ language: "de"
 | Product type | E-books |
 | Price | $0.00 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $7.02 |
+| Earnings/sale* | $7.03 |
 | Cart conversion* | 28% |
 | Cancel rate* | 0% |
 | Vendor | coachingtrip |
 | Listed since | 2024-04-24 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Personal Development |
+| Categories | Personal Development, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://www.seminare-lenormand.de/themenaufstellung#aff=adminstore
+- **Promo link (affiliate):** https://coachingtrip.de/dankbarkeitstagebuch-kostenlos/?aff=adminstore#aff=adminstore
 - Sales page: https://coachingtrip.de/dankbarkeitstagebuch-kostenlos/
 - Canonical redirect: https://www.digistore24.com/redir/549630/adminstore
 
@@ -82,7 +82,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: VERSCHENKE: Kostenloses Dankbarkeitstagebuch Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/549630
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/549630/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=VERSCHENKE%3A%20Kostenloses%20Dankbarkeitstagebuch
 
 ## 4. Editorial notes

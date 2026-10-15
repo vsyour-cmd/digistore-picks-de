@@ -4,7 +4,7 @@ digistore24_product_id: 413659
 title: "Shuffle Dance Online Kurs - Für Anfänger"
 vendor: "shuffledancemunich"
 product_type: "Member area and video courses"
-price: 47.82
+price: 47.85
 currency: "USD"
 affiliate_commission_pct: 30
 earnings_per_sale: 12.08
@@ -12,24 +12,24 @@ cart_conversion_pct: 14
 cancel_rate_pct: 2.89
 categories: ["Dancing & Music"]
 listed_since: "2021-10-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "http://magiclearning.at/akademie-sl/#aff=adminstore"
+promo_link: "https://www.shuffledancemunich.com/shuffle-dance-onlinekurs?aff=adminstore#aff=adminstore"
 sales_page: "https://www.shuffledancemunich.com/shuffle-dance-onlinekurs"
 language: "de"
 ---
 # Shuffle Dance Online Kurs - Für Anfänger
 
 > Product ID `38255` · Digistore24 productId `413659` · [HTML profile page](../../produkte/shuffle-dance-online-kurs-f-r-anf-nger-38255.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $47.82 (Single payment) |
+| Price | $47.85 (Single payment) |
 | Affiliate commission | 30% |
 | Earnings/sale* | $12.08 |
 | Cart conversion* | 14% |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://magiclearning.at/akademie-sl/#aff=adminstore
+- **Promo link (affiliate):** https://www.shuffledancemunich.com/shuffle-dance-onlinekurs?aff=adminstore#aff=adminstore
 - Sales page: https://www.shuffledancemunich.com/shuffle-dance-onlinekurs
 - Vendor affiliate support: https://www.shuffledancemunich.com/affiliate-shuffledance
 - Canonical redirect: https://www.digistore24.com/redir/413659/adminstore
@@ -83,14 +83,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Shuffle Dance Online Kurs - Für Anfänger? — Typ: Member area and video courses, Anbieter: shuffledancemunich, gelistet seit 2021-10-26
-- Wie viel kostet es? — 47.82113700000001 USD
+- Wie viel kostet es? — 47.851076000000006 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Shuffle Dance Online Kurs - Für Anfänger Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/413659
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/413659/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Shuffle%20Dance%20Online%20Kurs%20-%20F%C3%BCr%20Anf%C3%A4nger
 
 ## 4. Editorial notes

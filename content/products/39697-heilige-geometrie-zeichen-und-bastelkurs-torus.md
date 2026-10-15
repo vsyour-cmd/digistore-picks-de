@@ -4,34 +4,34 @@ digistore24_product_id: 437776
 title: "Heilige Geometrie - Zeichen- und Bastelkurs Torus"
 vendor: "AndreasBeutel"
 product_type: "Member area and video courses"
-price: 46.04
+price: 46.07
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 18.42
+earnings_per_sale: 18.43
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2022-04-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/39697/adminstore/"
+promo_link: "https://andreas-beutel.tv/wir-malen-einen-torus/?aff=adminstore#aff=adminstore"
 sales_page: "https://andreas-beutel.tv/wir-malen-einen-torus/"
 language: "de"
 ---
 # Heilige Geometrie - Zeichen- und Bastelkurs Torus
 
 > Product ID `39697` · Digistore24 productId `437776` · [HTML profile page](../../produkte/heilige-geometrie-zeichen-und-bastelkurs-torus-39697.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $46.04 (Single payment) |
+| Price | $46.07 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $18.42 |
+| Earnings/sale* | $18.43 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | AndreasBeutel |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/39697/adminstore/
+- **Promo link (affiliate):** https://andreas-beutel.tv/wir-malen-einen-torus/?aff=adminstore#aff=adminstore
 - Sales page: https://andreas-beutel.tv/wir-malen-einen-torus/
 - Vendor affiliate support: https://andreas-beutel.tv/affiliate-info/
 - Canonical redirect: https://www.digistore24.com/redir/437776/adminstore
@@ -83,14 +83,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Heilige Geometrie - Zeichen- und Bastelkurs Torus? — Typ: Member area and video courses, Anbieter: AndreasBeutel, gelistet seit 2022-04-06
-- Wie viel kostet es? — 46.043358000000005 USD
+- Wie viel kostet es? — 46.072184 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Heilige Geometrie - Zeichen- und Bastelkurs Torus Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/437776
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/437776/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Heilige%20Geometrie%20-%20Zeichen-%20und%20Bastelkurs%20Torus
 
 ## 4. Editorial notes

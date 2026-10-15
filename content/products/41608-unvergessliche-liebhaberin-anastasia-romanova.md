@@ -4,16 +4,16 @@ digistore24_product_id: 333761
 title: "Unvergessliche Liebhaberin - Anastasia Romanova"
 vendor: "powerline"
 product_type: "Member area and video courses"
-price: 83.62
+price: 83.68
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 29.27
+earnings_per_sale: 29.29
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2020-06-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://powermuskel.com/produkte/unvergessliche-liebhaberin/?aff=adminstore#aff=adminstore"
 sales_page: "https://powermuskel.com/produkte/unvergessliche-liebhaberin/"
@@ -22,16 +22,16 @@ language: "de"
 # Unvergessliche Liebhaberin - Anastasia Romanova
 
 > Product ID `41608` · Digistore24 productId `333761` · [HTML profile page](../../produkte/unvergessliche-liebhaberin-anastasia-romanova-41608.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $83.62 (Single payment) |
+| Price | $83.68 (Single payment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $29.27 |
+| Earnings/sale* | $29.29 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | powerline |
@@ -97,14 +97,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Unvergessliche Liebhaberin - Anastasia Romanova? — Typ: Member area and video courses, Anbieter: powerline, gelistet seit 2020-06-27
-- Wie viel kostet es? — 83.62269900000001 USD
+- Wie viel kostet es? — 83.67505200000001 USD
 - Garantie? — 14
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Unvergessliche Liebhaberin - Anastasia Romanova Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/333761
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/333761/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Unvergessliche%20Liebhaberin%20-%20Anastasia%20Romanova
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 661805
 title: "150 Seiten Wortsuchrätsel zum Ausdrucken"
 vendor: "businessregistra"
 product_type: "Downloads"
-price: 7.5
+price: 7.51
 currency: "USD"
 affiliate_commission_pct: 20
 earnings_per_sale: 1.5
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Family & Children","Fun & Games","Marketing Services"]
+categories: ["Family & Children","Marketing Services","Fun & Games"]
 listed_since: "2026-01-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/product/661805?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/661805"
@@ -22,14 +22,14 @@ language: "de"
 # 150 Seiten Wortsuchrätsel zum Ausdrucken
 
 > Product ID `55870` · Digistore24 productId `661805` · [HTML profile page](../../produkte/150-seiten-wortsuchr-tsel-zum-ausdrucken-55870.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $7.50 (Single payment) |
+| Price | $7.51 (Single payment) |
 | Affiliate commission | 20% |
 | Earnings/sale* | $1.50 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | businessregistra |
 | Listed since | 2026-01-16 |
 | Auto-accept affiliates | yes |
-| Categories | Family & Children, Fun & Games, Marketing Services |
+| Categories | Family & Children, Marketing Services, Fun & Games |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -70,14 +70,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 150 Seiten Wortsuchrätsel zum Ausdrucken? — Typ: Downloads, Anbieter: businessregistra, gelistet seit 2026-01-16
-- Wie viel kostet es? — 7.502451000000001 USD
+- Wie viel kostet es? — 7.507148 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 150 Seiten Wortsuchrätsel zum Ausdrucken Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/661805
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/661805/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=150%20Seiten%20Wortsuchr%C3%A4tsel%20zum%20Ausdrucken
 
 ## 4. Editorial notes

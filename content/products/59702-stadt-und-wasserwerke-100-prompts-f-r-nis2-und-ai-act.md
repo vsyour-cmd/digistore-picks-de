@@ -4,16 +4,16 @@ digistore24_product_id: 649019
 title: "Stadt und Wasserwerke – 100 Prompts für NIS2 und AI Act"
 vendor: "MindshiftDigitalStudio"
 product_type: "E-books"
-price: 103.45
+price: 103.51
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 31.04
+earnings_per_sale: 31.06
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Education"]
 listed_since: "2026-09-25"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/649019?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/649019"
@@ -22,16 +22,16 @@ language: "de"
 # Stadt und Wasserwerke – 100 Prompts für NIS2 und AI Act
 
 > Product ID `59702` · Digistore24 productId `649019` · [HTML profile page](../../produkte/stadt-und-wasserwerke-100-prompts-f-r-nis2-und-ai-act-59702.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $103.45 (Single payment) |
+| Price | $103.51 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $31.04 |
+| Earnings/sale* | $31.06 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MindshiftDigitalStudio |
@@ -92,14 +92,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Stadt und Wasserwerke – 100 Prompts für NIS2 und AI Act? — Typ: E-books, Anbieter: MindshiftDigitalStudio, gelistet seit 2026-09-25
-- Wie viel kostet es? — 103.446612 USD
+- Wie viel kostet es? — 103.511376 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Stadt und Wasserwerke – 100 Prompts für NIS2 und AI Act Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/649019
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/649019/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Stadt%20und%20Wasserwerke%20%E2%80%93%20100%20Prompts%20f%C3%BCr%20NIS2%20und%20AI%20Act
 
 ## 4. Editorial notes

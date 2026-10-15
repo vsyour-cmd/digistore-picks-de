@@ -4,16 +4,16 @@ digistore24_product_id: 356906
 title: "Kinderwunsch-Relax©: Natürliche Empfängnis (MP3s)"
 vendor: "Kinderwunsch-Relax"
 product_type: "Downloads"
-price: 24.44
+price: 24.46
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 11.75
+earnings_per_sale: 11.76
 cart_conversion_pct: 23
 cancel_rate_pct: 0.38
 categories: ["Family & Children"]
 listed_since: "2020-11-11"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.kinderwunsch-in-berlin.de/kinderwunsch-relax-natuerliche-empfaengnis.htm?aff=adminstore#aff=adminstore"
 sales_page: "https://www.kinderwunsch-in-berlin.de/kinderwunsch-relax-natuerliche-empfaengnis.htm"
@@ -22,16 +22,16 @@ language: "de"
 # Kinderwunsch-Relax©: Natürliche Empfängnis (MP3s)
 
 > Product ID `43676` · Digistore24 productId `356906` · [HTML profile page](../../produkte/kinderwunsch-relax-nat-rliche-empf-ngnis-mp3s-43676.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $24.44 (Single payment) |
+| Price | $24.46 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $11.75 |
+| Earnings/sale* | $11.76 |
 | Cart conversion* | 23% |
 | Cancel rate* | 0.38% |
 | Vendor | Kinderwunsch-Relax |
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Kinderwunsch-Relax©: Natürliche Empfängnis (MP3s)? — Typ: Downloads, Anbieter: Kinderwunsch-Relax, gelistet seit 2020-11-11
-- Wie viel kostet es? — 24.441666 USD
+- Wie viel kostet es? — 24.456968 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Kinderwunsch-Relax©: Natürliche Empfängnis (MP3s) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/356906
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/356906/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Kinderwunsch-Relax%C2%A9%3A%20Nat%C3%BCrliche%20Empf%C3%A4ngnis%20(MP3s)
 
 ## 4. Editorial notes

@@ -4,7 +4,7 @@ digistore24_product_id: 707518
 title: "Absicherung und Versicherung"
 vendor: "buergelconsulting"
 product_type: "E-books"
-price: 29.2
+price: 29.22
 currency: "USD"
 affiliate_commission_pct: 30
 earnings_per_sale: 8.77
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Finances"]
 listed_since: "2026-07-02"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/57355/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/707518?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/707518"
 language: "de"
 ---
 # Absicherung und Versicherung
 
 > Product ID `57355` · Digistore24 productId `707518` · [HTML profile page](../../produkte/absicherung-und-versicherung-57355.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $29.20 (Single payment) |
+| Price | $29.22 (Single payment) |
 | Affiliate commission | 30% |
 | Earnings/sale* | $8.77 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/57355/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/707518?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/707518
 - Canonical redirect: https://www.digistore24.com/redir/707518/adminstore
 
@@ -73,14 +73,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Absicherung und Versicherung? — Typ: E-books, Anbieter: buergelconsulting, gelistet seit 2026-07-02
-- Wie viel kostet es? — 29.204772000000002 USD
+- Wie viel kostet es? — 29.223056000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Absicherung und Versicherung Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/707518
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/707518/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Absicherung%20und%20Versicherung
 
 ## 4. Editorial notes

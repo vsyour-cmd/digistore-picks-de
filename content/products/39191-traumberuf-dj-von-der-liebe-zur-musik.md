@@ -4,7 +4,7 @@ digistore24_product_id: 407692
 title: "Traumberuf DJ - Von der Liebe zur Musik..."
 vendor: "DJRevolution"
 product_type: "Book (printed)"
-price: 20.84
+price: 20.85
 currency: "USD"
 affiliate_commission_pct: 25
 earnings_per_sale: 5.21
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2021-09-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/39191/adminstore/"
+promo_link: "https://www.digistore24.com/product/407692?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/407692"
 language: "de"
 ---
 # Traumberuf DJ - Von der Liebe zur Musik...
 
 > Product ID `39191` · Digistore24 productId `407692` · [HTML profile page](../../produkte/traumberuf-dj-von-der-liebe-zur-musik-39191.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $20.84 (Single payment) |
+| Price | $20.85 (Single payment) |
 | Affiliate commission | 25% |
 | Earnings/sale* | $5.21 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/39191/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/407692?aff=adminstore
 - Sales page: https://www.digistore24.com/product/407692
 - Canonical redirect: https://www.digistore24.com/redir/407692/adminstore
 
@@ -76,14 +76,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Traumberuf DJ - Von der Liebe zur Musik...? — Typ: Book (printed), Anbieter: DJRevolution, gelistet seit 2021-09-16
-- Wie viel kostet es? — 20.841384 USD
+- Wie viel kostet es? — 20.854432 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Traumberuf DJ - Von der Liebe zur Musik... Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/407692
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/407692/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Traumberuf%20DJ%20-%20Von%20der%20Liebe%20zur%20Musik...
 
 ## 4. Editorial notes

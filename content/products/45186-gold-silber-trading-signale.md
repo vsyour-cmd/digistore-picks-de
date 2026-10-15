@@ -4,16 +4,16 @@ digistore24_product_id: 507926
 title: "Gold/Silber Trading Signale"
 vendor: "kagels-trading"
 product_type: "Remote service provided electronically"
-price: 136.5
+price: 136.58
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 39.12
+earnings_per_sale: 39.15
 cart_conversion_pct: 8
 cancel_rate_pct: 12.44
 categories: ["Trading Products"]
 listed_since: "2023-07-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.kagels-trading.de/trading-signale/gold-silber-handelssignale/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.kagels-trading.de/trading-signale/gold-silber-handelssignale/"
@@ -22,16 +22,16 @@ language: "de"
 # Gold/Silber Trading Signale
 
 > Product ID `45186` · Digistore24 productId `507926` · [HTML profile page](../../produkte/gold-silber-trading-signale-45186.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $136.50 (Subscription) |
+| Price | $136.58 (Subscription) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $39.12 |
+| Earnings/sale* | $39.15 |
 | Cart conversion* | 8% |
 | Cancel rate* | 12.44% |
 | Vendor | kagels-trading |
@@ -94,14 +94,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Gold/Silber Trading Signale? — Typ: Remote service provided electronically, Anbieter: kagels-trading, gelistet seit 2023-07-18
-- Wie viel kostet es? — 136.497648 USD
+- Wie viel kostet es? — 136.583104 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Gold/Silber Trading Signale Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/507926
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/507926/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Gold%2FSilber%20Trading%20Signale
 
 ## 4. Editorial notes

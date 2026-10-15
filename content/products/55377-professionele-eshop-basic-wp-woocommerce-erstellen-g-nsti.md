@@ -4,34 +4,34 @@ digistore24_product_id: 664270
 title: "Professionele Eshop \" Basic WP WooCommerce\" erstellen günsti"
 vendor: "Skenteridis"
 product_type: "Remote service provided electronically"
-price: 2794.13
+price: 2795.88
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 838.24
+earnings_per_sale: 838.76
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Services","Marketing Services"]
 listed_since: "2026-01-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/55377/adminstore/"
+promo_link: "https://robotics-marketing.com/de-landing/webseite-eshop-wp-erstellen-guenstig-digistore24/?aff=adminstore#aff=adminstore"
 sales_page: "https://robotics-marketing.com/de-landing/webseite-eshop-wp-erstellen-guenstig-digistore24/"
 language: "de"
 ---
 # Professionele Eshop " Basic WP WooCommerce" erstellen günsti
 
 > Product ID `55377` · Digistore24 productId `664270` · [HTML profile page](../../produkte/professionele-eshop-basic-wp-woocommerce-erstellen-g-nsti-55377.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $2794.13 (Installment) |
+| Price | $2795.88 (Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $838.24 |
+| Earnings/sale* | $838.76 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Skenteridis |
@@ -41,11 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Professionelle ESHOP erstellen ” mit WP WooCommerce“ Nur mit 2.499 € Basic Paket #0 Eshop in Woocommerce or Shopify erstellen mit kostenlosen Themes #1 Eshop ist voll funktionsfähig #2 Verknüpfen mit Payments, Checkout, Policies usw. #3 Nach Ihre Bedürfnisse. Fotos,Texte,Videos #4 +Einfügen die ersten 50-100 Produkten #5 Inkl. Links zu Ihre Social Media #6 Inkl. einfache Kontakt-formular & Map #7 Netto Preis fürs Basic Eshop Erstellen #8 Domain Name & Hosting kostet zusätzlich #9 Nach bezahlen - folgen ZOOM Gespräche - Planung #10 Pflege : Ja möglich zusätzlich kostet Schauen Sie hier unsere Infos & Video, was können wir für Euch tun sehr günstig
+**Vendor's marketplace description:** Professionelle ESHOP erstellen ��� mit WP WooCommerce“ Nur mit 2.499 € Basic Paket #0 Eshop in Woocommerce or Shopify erstellen mit kostenlosen Themes #1 Eshop ist voll funktionsfähig #2 Verknüpfen mit Payments, Checkout, Policies usw. #3 Nach Ihre Bedürfnisse. Fotos,Texte,Videos #4 +Einfügen die ersten 50-100 Produkten #5 Inkl. Links zu Ihre Social Media #6 Inkl. einfache Kontakt-formular & Map #7 Netto Preis fürs Basic Eshop Erstellen #8 Domain Name & Hosting kostet zusätzlich #9 Nach bezahlen - folgen ZOOM Gespräche - Planung #10 Pflege : Ja möglich zusätzlich kostet Schauen Sie hier unsere Infos & Video, was können wir für Euch tun sehr günstig
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55377/adminstore/
+- **Promo link (affiliate):** https://robotics-marketing.com/de-landing/webseite-eshop-wp-erstellen-guenstig-digistore24/?aff=adminstore#aff=adminstore
 - Sales page: https://robotics-marketing.com/de-landing/webseite-eshop-wp-erstellen-guenstig-digistore24/
 - Vendor affiliate support: https://robotics-marketing.com/de-landing/affiliate-partner-webdesign-digistore24/
 - Canonical redirect: https://www.digistore24.com/redir/664270/adminstore
@@ -97,14 +97,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Professionele Eshop " Basic WP WooCommerce" erstellen günsti? — Typ: Remote service provided electronically, Anbieter: Skenteridis, gelistet seit 2026-01-26
-- Wie viel kostet es? — 2794.1319000000003 USD
+- Wie viel kostet es? — 2795.8812000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Professionele Eshop " Basic WP WooCommerce" erstellen günsti Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/664270
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/664270/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Professionele%20Eshop%20%22%20Basic%20WP%20WooCommerce%22%20erstellen%20g%C3%BCnsti
 
 ## 4. Editorial notes

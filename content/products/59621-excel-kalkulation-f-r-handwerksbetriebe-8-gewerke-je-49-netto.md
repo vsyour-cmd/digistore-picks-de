@@ -4,34 +4,34 @@ digistore24_product_id: 734487
 title: "Excel-Kalkulation für Handwerksbetriebe — 8 Gewerke, je 49 € netto"
 vendor: "Meisterblatt"
 product_type: "Downloads"
-price: 54.79
+price: 54.82
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 16.44
+earnings_per_sale: 16.45
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Software","Office Organization"]
 listed_since: "2026-09-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/59621/adminstore/"
+promo_link: "https://meisterblatt.de/Landingpage_Elektro.html?aff=adminstore#aff=adminstore"
 sales_page: "https://meisterblatt.de/Landingpage_Elektro.html"
 language: "de"
 ---
 # Excel-Kalkulation für Handwerksbetriebe — 8 Gewerke, je 49 € netto
 
 > Product ID `59621` · Digistore24 productId `734487` · [HTML profile page](../../produkte/excel-kalkulation-f-r-handwerksbetriebe-8-gewerke-je-49-netto-59621.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $54.79 (Single payment) |
+| Price | $54.82 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $16.44 |
+| Earnings/sale* | $16.45 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Meisterblatt |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59621/adminstore/
+- **Promo link (affiliate):** https://meisterblatt.de/Landingpage_Elektro.html?aff=adminstore#aff=adminstore
 - Sales page: https://meisterblatt.de/Landingpage_Elektro.html
 - Vendor affiliate support: https://meisterblatt.de/Partner.html
 - Canonical redirect: https://www.digistore24.com/redir/734487/adminstore
@@ -88,14 +88,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Excel-Kalkulation für Handwerksbetriebe — 8 Gewerke, je 49 € netto? — Typ: Downloads, Anbieter: Meisterblatt, gelistet seit 2026-09-23
-- Wie viel kostet es? — 54.7869 USD
+- Wie viel kostet es? — 54.8212 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Excel-Kalkulation für Handwerksbetriebe — 8 Gewerke, je 49 € netto Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/734487
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/734487/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Excel-Kalkulation%20f%C3%BCr%20Handwerksbetriebe%20%E2%80%94%208%20Gewerke%2C%20je%2049%20%E2%82%AC%20netto
 
 ## 4. Editorial notes

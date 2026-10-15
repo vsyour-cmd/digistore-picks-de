@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Law & Justice"]
 listed_since: "2026-10-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/60369/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/741976?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/741976"
 language: "de"
 ---
 # Autokauf und Leasing leicht gemacht – mit Auto-Rechner
 
 > Product ID `60369` · Digistore24 productId `741976` · [HTML profile page](../../produkte/autokauf-und-leasing-leicht-gemacht-mit-auto-rechner-60369.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/60369/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/741976?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/741976
 - Canonical redirect: https://www.digistore24.com/redir/741976/adminstore
 
@@ -81,14 +81,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Autokauf und Leasing leicht gemacht – mit Auto-Rechner? — Typ: E-books, Anbieter: ratgeberleichtgemacht, gelistet seit 2026-10-07
-- Wie viel kostet es? — 15.575133000000001 USD
+- Wie viel kostet es? — 15.584884 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Autokauf und Leasing leicht gemacht – mit Auto-Rechner Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/741976
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/741976/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Autokauf%20und%20Leasing%20leicht%20gemacht%20%E2%80%93%20mit%20Auto-Rechner
 
 ## 4. Editorial notes

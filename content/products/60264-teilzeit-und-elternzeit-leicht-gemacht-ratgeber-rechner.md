@@ -4,7 +4,7 @@ digistore24_product_id: 740831
 title: "Teilzeit und Elternzeit leicht gemacht – Ratgeber + Rechner"
 vendor: "ratgeberleichtgemacht"
 product_type: "E-books"
-price: 20.8
+price: 20.81
 currency: "USD"
 affiliate_commission_pct: 40
 earnings_per_sale: 8.32
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children","Law & Justice","Profession & Job"]
 listed_since: "2026-10-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/740831?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/740831"
@@ -22,14 +22,14 @@ language: "de"
 # Teilzeit und Elternzeit leicht gemacht – Ratgeber + Rechner
 
 > Product ID `60264` · Digistore24 productId `740831` · [HTML profile page](../../produkte/teilzeit-und-elternzeit-leicht-gemacht-ratgeber-rechner-60264.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.80 (Single payment) |
+| Price | $20.81 (Single payment) |
 | Affiliate commission | 40% |
 | Earnings/sale* | $8.32 |
 | Cart conversion* | — |
@@ -80,14 +80,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Teilzeit und Elternzeit leicht gemacht – Ratgeber + Rechner? — Typ: E-books, Anbieter: ratgeberleichtgemacht, gelistet seit 2026-10-06
-- Wie viel kostet es? — 20.796660000000003 USD
+- Wie viel kostet es? — 20.80968 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Teilzeit und Elternzeit leicht gemacht – Ratgeber + Rechner Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/740831
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/740831/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Teilzeit%20und%20Elternzeit%20leicht%20gemacht%20%E2%80%93%20Ratgeber%20%2B%20Rechner
 
 ## 4. Editorial notes

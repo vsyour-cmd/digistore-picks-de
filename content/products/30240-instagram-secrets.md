@@ -12,8 +12,8 @@ cart_conversion_pct: 23
 cancel_rate_pct: 1.42
 categories: ["Social Media"]
 listed_since: "2019-08-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://instagramsecrets.de?aff=adminstore#aff=adminstore"
 sales_page: "https://instagramsecrets.de"
@@ -22,7 +22,7 @@ language: "de"
 # Instagram Secrets
 
 > Product ID `30240` · Digistore24 productId `283972` · [HTML profile page](../../produkte/instagram-secrets-30240.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -88,7 +88,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Instagram Secrets Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/283972
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/283972/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Instagram%20Secrets
 
 ## 4. Editorial notes

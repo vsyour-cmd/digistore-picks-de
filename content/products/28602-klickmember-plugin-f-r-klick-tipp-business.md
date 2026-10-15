@@ -4,16 +4,16 @@ digistore24_product_id: 179949
 title: "KlickMember Plugin für Klick-Tipp (Business)"
 vendor: "intellicon"
 product_type: "Downloads"
-price: 205.76
+price: 205.89
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 61.73
+earnings_per_sale: 61.77
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2017-11-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.klicksuite.de/bestellung/?product=179949&aff=adminstore#aff=adminstore"
 sales_page: "https://www.klicksuite.de/bestellung/?product=179949"
@@ -22,16 +22,16 @@ language: "de"
 # KlickMember Plugin für Klick-Tipp (Business)
 
 > Product ID `28602` · Digistore24 productId `179949` · [HTML profile page](../../produkte/klickmember-plugin-f-r-klick-tipp-business-28602.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $205.76 (Subscription) |
+| Price | $205.89 (Subscription) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $61.73 |
+| Earnings/sale* | $61.77 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | intellicon |
@@ -77,14 +77,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KlickMember Plugin für Klick-Tipp (Business)? — Typ: Downloads, Anbieter: intellicon, gelistet seit 2017-11-15
-- Wie viel kostet es? — 205.763943 USD
+- Wie viel kostet es? — 205.892764 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: KlickMember Plugin für Klick-Tipp (Business) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/179949
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/179949/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=KlickMember%20Plugin%20f%C3%BCr%20Klick-Tipp%20(Business)
 
 ## 4. Editorial notes

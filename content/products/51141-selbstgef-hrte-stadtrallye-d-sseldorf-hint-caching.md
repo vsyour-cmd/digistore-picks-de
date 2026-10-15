@@ -4,40 +4,40 @@ digistore24_product_id: 464087
 title: "Selbstgeführte Stadtrallye Düsseldorf | Hint-Caching"
 vendor: "hintcaching"
 product_type: "Member area and video courses"
-price: 46.04
+price: 46.07
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 9.21
+earnings_per_sale: 9.22
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Fun & Games","Travel & Culture"]
+categories: ["Travel & Culture","Fun & Games"]
 listed_since: "2022-10-10"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/51141/adminstore/"
+promo_link: "https://hint-caching.de/stadtrallye-duesseldorf/?aff=adminstore#aff=adminstore"
 sales_page: "https://hint-caching.de/stadtrallye-duesseldorf/"
 language: "de"
 ---
 # Selbstgeführte Stadtrallye Düsseldorf | Hint-Caching
 
 > Product ID `51141` · Digistore24 productId `464087` · [HTML profile page](../../produkte/selbstgef-hrte-stadtrallye-d-sseldorf-hint-caching-51141.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $46.04 (Single payment) |
+| Price | $46.07 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $9.21 |
+| Earnings/sale* | $9.22 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | hintcaching |
 | Listed since | 2022-10-10 |
 | Auto-accept affiliates | yes |
-| Categories | Fun & Games, Travel & Culture |
+| Categories | Travel & Culture, Fun & Games |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/51141/adminstore/
+- **Promo link (affiliate):** https://hint-caching.de/stadtrallye-duesseldorf/?aff=adminstore#aff=adminstore
 - Sales page: https://hint-caching.de/stadtrallye-duesseldorf/
 - Vendor affiliate support: https://hint-caching.de/affiliateprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/464087/adminstore
@@ -88,14 +88,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Selbstgeführte Stadtrallye Düsseldorf | Hint-Caching? — Typ: Member area and video courses, Anbieter: hintcaching, gelistet seit 2022-10-10
-- Wie viel kostet es? — 46.043358000000005 USD
+- Wie viel kostet es? — 46.072184 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Selbstgeführte Stadtrallye Düsseldorf | Hint-Caching Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/464087
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/464087/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Selbstgef%C3%BChrte%20Stadtrallye%20D%C3%BCsseldorf%20%7C%20Hint-Caching
 
 ## 4. Editorial notes

@@ -4,34 +4,34 @@ digistore24_product_id: 678396
 title: "Erfolgreicher Content Creator mit KI Teil 2"
 vendor: "Freifone"
 product_type: "E-books"
-price: 31.3
+price: 31.32
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 15.65
+earnings_per_sale: 15.66
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-03-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/56009/adminstore/"
+promo_link: "https://designs-nf.com/ebooks/erfolgreicher-content-creator-mit-ki-teil-2?aff=adminstore#aff=adminstore"
 sales_page: "https://designs-nf.com/ebooks/erfolgreicher-content-creator-mit-ki-teil-2"
 language: "de"
 ---
 # Erfolgreicher Content Creator mit KI Teil 2
 
 > Product ID `56009` · Digistore24 productId `678396` · [HTML profile page](../../produkte/erfolgreicher-content-creator-mit-ki-teil-2-56009.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $31.30 (Single payment) |
+| Price | $31.32 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $15.65 |
+| Earnings/sale* | $15.66 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Freifone |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56009/adminstore/
+- **Promo link (affiliate):** https://designs-nf.com/ebooks/erfolgreicher-content-creator-mit-ki-teil-2?aff=adminstore#aff=adminstore
 - Sales page: https://designs-nf.com/ebooks/erfolgreicher-content-creator-mit-ki-teil-2
 - Vendor affiliate support: https://designs-nf.com/affiliate/links
 - Canonical redirect: https://www.digistore24.com/redir/678396/adminstore
@@ -90,14 +90,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Erfolgreicher Content Creator mit KI Teil 2? — Typ: E-books, Anbieter: Freifone, gelistet seit 2026-03-23
-- Wie viel kostet es? — 31.295619000000002 USD
+- Wie viel kostet es? — 31.315212 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Erfolgreicher Content Creator mit KI Teil 2 Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/678396
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/678396/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Erfolgreicher%20Content%20Creator%20mit%20KI%20Teil%202
 
 ## 4. Editorial notes

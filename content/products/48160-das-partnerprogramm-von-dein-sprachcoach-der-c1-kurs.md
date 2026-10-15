@@ -4,16 +4,16 @@ digistore24_product_id: 551151
 title: "Das Partnerprogramm von Dein Sprachcoach: Der C1-Kurs"
 vendor: "DeinSprachcoach"
 product_type: "Member area and video courses"
-price: 267.93
+price: 268.1
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 104.84
+earnings_per_sale: 104.91
 cart_conversion_pct: 4
 cancel_rate_pct: 2.13
 categories: ["Education"]
 listed_since: "2024-05-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://dein-sprachcoach.de/c1-kurs/?aff=adminstore#aff=adminstore"
 sales_page: "https://dein-sprachcoach.de/c1-kurs/"
@@ -22,16 +22,16 @@ language: "de"
 # Das Partnerprogramm von Dein Sprachcoach: Der C1-Kurs
 
 > Product ID `48160` · Digistore24 productId `551151` · [HTML profile page](../../produkte/das-partnerprogramm-von-dein-sprachcoach-der-c1-kurs-48160.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $267.93 (Single payment, Installment) |
+| Price | $268.10 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $104.84 |
+| Earnings/sale* | $104.91 |
 | Cart conversion* | 4% |
 | Cancel rate* | 2.13% |
 | Vendor | DeinSprachcoach |
@@ -96,14 +96,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Partnerprogramm von Dein Sprachcoach: Der C1-Kurs? — Typ: Member area and video courses, Anbieter: DeinSprachcoach, gelistet seit 2024-05-05
-- Wie viel kostet es? — 267.93030300000004 USD
+- Wie viel kostet es? — 268.098044 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Das Partnerprogramm von Dein Sprachcoach: Der C1-Kurs Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/551151
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/551151/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Das%20Partnerprogramm%20von%20Dein%20Sprachcoach%3A%20Der%20C1-Kurs
 
 ## 4. Editorial notes

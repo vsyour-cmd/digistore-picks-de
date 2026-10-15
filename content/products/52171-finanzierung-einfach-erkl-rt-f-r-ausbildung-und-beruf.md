@@ -4,40 +4,40 @@ digistore24_product_id: 607799
 title: "Finanzierung einfach erklärt – für Ausbildung und Beruf"
 vendor: "wileleg"
 product_type: "Member area and video courses"
-price: 44.16
+price: 44.19
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 22.08
+earnings_per_sale: 22.1
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Profession & Job"]
+categories: ["Profession & Job","Education"]
 listed_since: "2025-04-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.checkout-ds24.com/redir/52171/adminstore/"
+promo_link: "https://kostenrechnung-ganz-einfach.de/onlinekurs-finanzierung-fur-anfanger-gaaanz-einfach-af/?aff=adminstore#aff=adminstore"
 sales_page: "https://kostenrechnung-ganz-einfach.de/onlinekurs-finanzierung-fur-anfanger-gaaanz-einfach-af/"
 language: "de"
 ---
 # Finanzierung einfach erklärt – für Ausbildung und Beruf
 
 > Product ID `52171` · Digistore24 productId `607799` · [HTML profile page](../../produkte/finanzierung-einfach-erkl-rt-f-r-ausbildung-und-beruf-52171.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $44.16 (Single payment) |
+| Price | $44.19 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $22.08 |
+| Earnings/sale* | $22.10 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | wileleg |
 | Listed since | 2025-04-16 |
 | Auto-accept affiliates | no (approval required) |
-| Categories | Education, Profession & Job |
+| Categories | Profession & Job, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/redir/52171/adminstore/
+- **Promo link (affiliate):** https://kostenrechnung-ganz-einfach.de/onlinekurs-finanzierung-fur-anfanger-gaaanz-einfach-af/?aff=adminstore#aff=adminstore
 - Sales page: https://kostenrechnung-ganz-einfach.de/onlinekurs-finanzierung-fur-anfanger-gaaanz-einfach-af/
 - Canonical redirect: https://www.digistore24.com/redir/607799/adminstore
 
@@ -66,14 +66,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Finanzierung einfach erklärt – für Ausbildung und Beruf? — Typ: Member area and video courses, Anbieter: wileleg, gelistet seit 2025-04-16
-- Wie viel kostet es? — 44.164950000000005 USD
+- Wie viel kostet es? — 44.1926 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Finanzierung einfach erklärt – für Ausbildung und Beruf Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/607799
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/607799/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Finanzierung%20einfach%20erkl%C3%A4rt%20%E2%80%93%20f%C3%BCr%20Ausbildung%20und%20Beruf
 
 ## 4. Editorial notes

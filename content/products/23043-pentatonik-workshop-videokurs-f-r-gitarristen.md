@@ -4,34 +4,34 @@ digistore24_product_id: 205801
 title: "Pentatonik-Workshop (Videokurs für Gitarristen)"
 vendor: "musiklehrer"
 product_type: "Member area and video courses"
-price: 101.59
+price: 101.65
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 23.87
+earnings_per_sale: 23.89
 cart_conversion_pct: 17
 cancel_rate_pct: 2.66
 categories: ["Dancing & Music"]
 listed_since: "2018-03-03"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/23043/adminstore/"
+promo_link: "https://www.gitarrenvideounterricht.de/kurse/pentatonik/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.gitarrenvideounterricht.de/kurse/pentatonik/"
 language: "de"
 ---
 # Pentatonik-Workshop (Videokurs für Gitarristen)
 
 > Product ID `23043` · Digistore24 productId `205801` · [HTML profile page](../../produkte/pentatonik-workshop-videokurs-f-r-gitarristen-23043.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $101.59 (Single payment) |
+| Price | $101.65 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $23.87 |
+| Earnings/sale* | $23.89 |
 | Cart conversion* | 17% |
 | Cancel rate* | 2.66% |
 | Vendor | musiklehrer |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/23043/adminstore/
+- **Promo link (affiliate):** https://www.gitarrenvideounterricht.de/kurse/pentatonik/?aff=adminstore#aff=adminstore
 - Sales page: https://www.gitarrenvideounterricht.de/kurse/pentatonik/
 - Vendor affiliate support: https://www.gitarrenvideounterricht.de/partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/205801/adminstore
@@ -83,14 +83,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Pentatonik-Workshop (Videokurs für Gitarristen)? — Typ: Member area and video courses, Anbieter: musiklehrer, gelistet seit 2018-03-03
-- Wie viel kostet es? — 101.59056600000001 USD
+- Wie viel kostet es? — 101.654168 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Pentatonik-Workshop (Videokurs für Gitarristen) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/205801
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/205801/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Pentatonik-Workshop%20(Videokurs%20f%C3%BCr%20Gitarristen)
 
 ## 4. Editorial notes

@@ -4,7 +4,7 @@ digistore24_product_id: 693658
 title: "Der Ritualbaukasten: Abschied am Sterbebett"
 vendor: "Leene86"
 product_type: "E-books"
-price: 10.44
+price: 10.45
 currency: "USD"
 affiliate_commission_pct: 40
 earnings_per_sale: 4.18
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2026-06-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
-promo_link: "https://www.digistore24.com/redir/57001/adminstore/"
+promo_link: "https://ritualbaukasten.my.canva.site/?aff=adminstore#aff=adminstore"
 sales_page: "https://ritualbaukasten.my.canva.site/"
 language: "de"
 ---
 # Der Ritualbaukasten: Abschied am Sterbebett
 
 > Product ID `57001` · Digistore24 productId `693658` · [HTML profile page](../../produkte/der-ritualbaukasten-abschied-am-sterbebett-57001.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.44 (Single payment) |
+| Price | $10.45 (Single payment) |
 | Affiliate commission | 40% |
 | Earnings/sale* | $4.18 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/57001/adminstore/
+- **Promo link (affiliate):** https://ritualbaukasten.my.canva.site/?aff=adminstore#aff=adminstore
 - Sales page: https://ritualbaukasten.my.canva.site/
 - Canonical redirect: https://www.digistore24.com/redir/693658/adminstore
 
@@ -59,14 +59,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Ritualbaukasten: Abschied am Sterbebett? — Typ: E-books, Anbieter: Leene86, gelistet seit 2026-06-16
-- Wie viel kostet es? — 10.443054 USD
+- Wie viel kostet es? — 10.449592 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Der Ritualbaukasten: Abschied am Sterbebett Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/693658
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/693658/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%20Ritualbaukasten%3A%20Abschied%20am%20Sterbebett
 
 ## 4. Editorial notes

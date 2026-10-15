@@ -4,16 +4,16 @@ digistore24_product_id: 717827
 title: "Rauchfrei ohne Gewichtsstress – 50 % Affiliate-Provision"
 vendor: "HeikoBoos"
 product_type: "E-books"
-price: 17.77
+price: 17.78
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 8.89
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Food & Drink","Health & Fitness","Personal Development"]
+categories: ["Health & Fitness","Personal Development","Food & Drink"]
 listed_since: "2026-08-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://nichtraucherzone.de/rauchfrei-ohne-gewichtsstress?aff=adminstore#aff=adminstore"
 sales_page: "https://nichtraucherzone.de/rauchfrei-ohne-gewichtsstress"
@@ -22,14 +22,14 @@ language: "de"
 # Rauchfrei ohne Gewichtsstress – 50 % Affiliate-Provision
 
 > Product ID `58238` · Digistore24 productId `717827` · [HTML profile page](../../produkte/rauchfrei-ohne-gewichtsstress-50-affiliate-provision-58238.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $17.77 (Single payment) |
+| Price | $17.78 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $8.89 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | HeikoBoos |
 | Listed since | 2026-08-09 |
 | Auto-accept affiliates | yes |
-| Categories | Food & Drink, Health & Fitness, Personal Development |
+| Categories | Health & Fitness, Personal Development, Food & Drink |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -85,14 +85,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Rauchfrei ohne Gewichtsstress – 50 % Affiliate-Provision? — Typ: E-books, Anbieter: HeikoBoos, gelistet seit 2026-08-09
-- Wie viel kostet es? — 17.766609000000003 USD
+- Wie viel kostet es? — 17.777732 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Rauchfrei ohne Gewichtsstress – 50 % Affiliate-Provision Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/717827
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/717827/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Rauchfrei%20ohne%20Gewichtsstress%20%E2%80%93%2050%20%25%20Affiliate-Provision
 
 ## 4. Editorial notes

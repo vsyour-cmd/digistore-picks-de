@@ -4,34 +4,34 @@ digistore24_product_id: 671416
 title: "Die Faceless Content Maschine – 50% Provision"
 vendor: "moritzfrowein97a1a2"
 product_type: "E-books"
-price: 41.78
+price: 41.81
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 20.9
+earnings_per_sale: 20.91
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Marketing Services"]
 listed_since: "2026-02-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/55733/adminstore/"
+promo_link: "https://e-bookshop.systeme.io/33d275d1?aff=adminstore#aff=adminstore"
 sales_page: "https://e-bookshop.systeme.io/33d275d1"
 language: "de"
 ---
 # Die Faceless Content Maschine – 50% Provision
 
 > Product ID `55733` · Digistore24 productId `671416` · [HTML profile page](../../produkte/die-faceless-content-maschine-50-provision-55733.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $41.78 (Single payment) |
+| Price | $41.81 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $20.90 |
+| Earnings/sale* | $20.91 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | moritzfrowein97a1a2 |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55733/adminstore/
+- **Promo link (affiliate):** https://e-bookshop.systeme.io/33d275d1?aff=adminstore#aff=adminstore
 - Sales page: https://e-bookshop.systeme.io/33d275d1
 - Vendor affiliate support: https://docs.google.com/document/d/13Hm2Lvhf1v9UZKw8KfzZbVCvzvWcOWATtEdC8XZJkrc/edit?usp=sharing
 - Canonical redirect: https://www.digistore24.com/redir/671416/adminstore
@@ -73,14 +73,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die Faceless Content Maschine – 50% Provision? — Typ: E-books, Anbieter: moritzfrowein97a1a2, gelistet seit 2026-02-24
-- Wie viel kostet es? — 41.783397 USD
+- Wie viel kostet es? — 41.809556 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Die Faceless Content Maschine – 50% Provision Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/671416
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/671416/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Die%20Faceless%20Content%20Maschine%20%E2%80%93%2050%25%20Provision
 
 ## 4. Editorial notes

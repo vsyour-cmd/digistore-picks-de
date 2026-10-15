@@ -4,7 +4,7 @@ digistore24_product_id: 672233
 title: "Selbststudium Jetpeel"
 vendor: "xxbeautyliciousbysun8aec"
 product_type: "Downloads"
-price: 28.19
+price: 28.2
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 2.82
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2026-02-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/55745/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/672233?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/672233"
 language: "de"
 ---
 # Selbststudium Jetpeel
 
 > Product ID `55745` · Digistore24 productId `672233` · [HTML profile page](../../produkte/selbststudium-jetpeel-55745.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $28.19 (Single payment) |
+| Price | $28.20 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $2.82 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55745/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/672233?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/672233
 - Canonical redirect: https://www.digistore24.com/redir/672233/adminstore
 
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Selbststudium Jetpeel? — Typ: Downloads, Anbieter: xxbeautyliciousbysun8aec, gelistet seit 2026-02-27
-- Wie viel kostet es? — 28.187301000000005 USD
+- Wie viel kostet es? — 28.204948 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Selbststudium Jetpeel Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/672233
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/672233/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Selbststudium%20Jetpeel
 
 ## 4. Editorial notes

@@ -4,34 +4,34 @@ digistore24_product_id: 737348
 title: "Herzens-Adventskalender – 24 persönliche Botschaften, 3 Türchen gratis testen"
 vendor: "Anha13"
 product_type: "Remote service provided electronically"
-price: 12.12
+price: 12.13
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 4.85
+earnings_per_sale: 4.86
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Family & Children","Hobby & Craft"]
 listed_since: "2026-09-25"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/59693/adminstore/"
+promo_link: "https://ahliving.de/adventskalender/?aff=adminstore#aff=adminstore"
 sales_page: "https://ahliving.de/adventskalender/"
 language: "de"
 ---
 # Herzens-Adventskalender – 24 persönliche Botschaften, 3 Türchen gratis testen
 
 > Product ID `59693` · Digistore24 productId `737348` · [HTML profile page](../../produkte/herzens-adventskalender-24-pers-nliche-botschaften-3-t-rchen-gratis-testen-59693.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $12.12 (Single payment) |
+| Price | $12.13 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $4.85 |
+| Earnings/sale* | $4.86 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Anha13 |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59693/adminstore/
+- **Promo link (affiliate):** https://ahliving.de/adventskalender/?aff=adminstore#aff=adminstore
 - Sales page: https://ahliving.de/adventskalender/
 - Vendor affiliate support: https://ahliving.de/adventskalender/partner.html
 - Canonical redirect: https://www.digistore24.com/redir/737348/adminstore
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Herzens-Adventskalender – 24 persönliche Botschaften, 3 Türchen gratis testen? — Typ: Remote service provided electronically, Anbieter: Anha13, gelistet seit 2026-09-25
-- Wie viel kostet es? — 12.120204000000001 USD
+- Wie viel kostet es? — 12.127792 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Herzens-Adventskalender – 24 persönliche Botschaften, 3 Türchen gratis testen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/737348
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/737348/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Herzens-Adventskalender%20%E2%80%93%2024%20pers%C3%B6nliche%20Botschaften%2C%203%20T%C3%BCrchen%20gratis%20testen
 
 ## 4. Editorial notes

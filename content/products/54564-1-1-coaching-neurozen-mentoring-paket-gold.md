@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Services"]
 listed_since: "2025-09-10"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://holistic-life.coachy.net/lp/1-1-coaching-gold-1/?aff=adminstore#aff=adminstore"
 sales_page: "https://holistic-life.coachy.net/lp/1-1-coaching-gold-1/"
@@ -22,7 +22,7 @@ language: "de"
 # 1:1 Coaching / NeuroZen® Mentoring Paket "Gold"
 
 > Product ID `54564` · Digistore24 productId `634779` · [HTML profile page](../../produkte/1-1-coaching-neurozen-mentoring-paket-gold-54564.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium (browser-rendered)**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -90,7 +90,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 1:1 Coaching / NeuroZen® Mentoring Paket "Gold" Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/634779
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/634779/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=1%3A1%20Coaching%20%2F%20NeuroZen%C2%AE%20Mentoring%20Paket%20%22Gold%22
 
 ## 4. Editorial notes

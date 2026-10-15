@@ -7,13 +7,13 @@ product_type: "E-books"
 price: 5.58
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 3.34
+earnings_per_sale: 3.35
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-09-02"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/728764?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/728764"
@@ -22,7 +22,7 @@ language: "de"
 # 999 KI-Prompts für Affiliate-Marketer
 
 > Product ID `58863` · Digistore24 productId `728764` · [HTML profile page](../../produkte/999-ki-prompts-f-r-affiliate-marketer-58863.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,7 @@ language: "de"
 | Product type | E-books |
 | Price | $5.58 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $3.34 |
+| Earnings/sale* | $3.35 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Book2Book |
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 999 KI-Prompts für Affiliate-Marketer? — Typ: E-books, Anbieter: Book2Book, gelistet seit 2026-09-02
-- Wie viel kostet es? — 5.579319000000001 USD
+- Wie viel kostet es? — 5.5828120000000006 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 999 KI-Prompts für Affiliate-Marketer Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/728764
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/728764/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=999%20KI-Prompts%20f%C3%BCr%20Affiliate-Marketer
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 470910
 title: "New Spirit for Money und Business VIP Paket und Bundle"
 vendor: "herzengel"
 product_type: "Member area and video courses"
-price: 100.54
+price: 100.6
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 10.05
+earnings_per_sale: 10.06
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2022-11-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.newspiritkongress.de?aff=adminstore#aff=adminstore"
 sales_page: "https://www.newspiritkongress.de"
@@ -22,16 +22,16 @@ language: "de"
 # New Spirit for Money und Business VIP Paket und Bundle
 
 > Product ID `42298` · Digistore24 productId `470910` · [HTML profile page](../../produkte/new-spirit-for-money-und-business-vip-paket-und-bundle-42298.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $100.54 (Single payment, Installment) |
+| Price | $100.60 (Single payment, Installment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $10.05 |
+| Earnings/sale* | $10.06 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | herzengel |
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist New Spirit for Money und Business VIP Paket und Bundle? — Typ: Member area and video courses, Anbieter: herzengel, gelistet seit 2022-11-20
-- Wie viel kostet es? — 100.53955200000001 USD
+- Wie viel kostet es? — 100.602496 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: New Spirit for Money und Business VIP Paket und Bundle Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/470910
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/470910/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=New%20Spirit%20for%20Money%20und%20Business%20VIP%20Paket%20und%20Bundle
 
 ## 4. Editorial notes

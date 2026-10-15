@@ -4,32 +4,32 @@ digistore24_product_id: 93941
 title: "FUERTE: Fuerteventura Bildband [E-Book]"
 vendor: "rheinrost"
 product_type: "E-books"
-price: 17.32
+price: 17.33
 currency: "USD"
 affiliate_commission_pct: 35
 earnings_per_sale: 2.93
 cart_conversion_pct: 21
 cancel_rate_pct: 1.58
-categories: ["Hobby & Craft","Photography & Film","Travel & Culture"]
+categories: ["Travel & Culture","Hobby & Craft","Photography & Film"]
 listed_since: "2016-09-03"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/34089/adminstore/"
+promo_link: "https://www.unaufschiebbar.de/fuerteventura-bildband/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.unaufschiebbar.de/fuerteventura-bildband/"
 language: "de"
 ---
 # FUERTE: Fuerteventura Bildband [E-Book]
 
 > Product ID `34089` · Digistore24 productId `93941` · [HTML profile page](../../produkte/fuerte-fuerteventura-bildband-e-book-34089.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $17.32 (Single payment) |
+| Price | $17.33 (Single payment) |
 | Affiliate commission | 35% |
 | Earnings/sale* | $2.93 |
 | Cart conversion* | 21% |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | rheinrost |
 | Listed since | 2016-09-03 |
 | Auto-accept affiliates | yes |
-| Categories | Hobby & Craft, Photography & Film, Travel & Culture |
+| Categories | Travel & Culture, Hobby & Craft, Photography & Film |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/34089/adminstore/
+- **Promo link (affiliate):** https://www.unaufschiebbar.de/fuerteventura-bildband/?aff=adminstore#aff=adminstore
 - Sales page: https://www.unaufschiebbar.de/fuerteventura-bildband/
 - Vendor affiliate support: https://www.unaufschiebbar.de/partner
 - Canonical redirect: https://www.digistore24.com/redir/93941/adminstore
@@ -80,14 +80,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist FUERTE: Fuerteventura Bildband [E-Book]? — Typ: E-books, Anbieter: rheinrost, gelistet seit 2016-09-03
-- Wie viel kostet es? — 17.319369000000002 USD
+- Wie viel kostet es? — 17.330212 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: FUERTE: Fuerteventura Bildband [E-Book] Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/93941
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/93941/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=FUERTE%3A%20Fuerteventura%20Bildband%20%5BE-Book%5D
 
 ## 4. Editorial notes

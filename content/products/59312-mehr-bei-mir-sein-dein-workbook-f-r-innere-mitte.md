@@ -4,7 +4,7 @@ digistore24_product_id: 732995
 title: "Mehr bei mir sein – Dein Workbook für innere Mitte"
 vendor: "entdeckerei"
 product_type: "Downloads"
-price: 22.55
+price: 22.57
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 2.26
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-09-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/732995?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/732995"
@@ -22,14 +22,14 @@ language: "de"
 # Mehr bei mir sein – Dein Workbook für innere Mitte
 
 > Product ID `59312` · Digistore24 productId `732995` · [HTML profile page](../../produkte/mehr-bei-mir-sein-dein-workbook-f-r-innere-mitte-59312.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $22.55 (Single payment) |
+| Price | $22.57 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $2.26 |
 | Cart conversion* | — |
@@ -73,14 +73,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mehr bei mir sein – Dein Workbook für innere Mitte? — Typ: Downloads, Anbieter: entdeckerei, gelistet seit 2026-09-17
-- Wie viel kostet es? — 22.552077000000004 USD
+- Wie viel kostet es? — 22.566196 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Mehr bei mir sein – Dein Workbook für innere Mitte Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/732995
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/732995/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Mehr%20bei%20mir%20sein%20%E2%80%93%20Dein%20Workbook%20f%C3%BCr%20innere%20Mitte
 
 ## 4. Editorial notes

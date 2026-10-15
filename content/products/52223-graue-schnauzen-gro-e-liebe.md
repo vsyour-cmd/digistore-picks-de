@@ -4,7 +4,7 @@ digistore24_product_id: 608625
 title: "Graue Schnauzen große Liebe"
 vendor: "Lauf-Stall"
 product_type: "E-books"
-price: 6.26
+price: 6.27
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 0.63
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2025-04-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/52223/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/608625?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/608625"
 language: "de"
 ---
 # Graue Schnauzen große Liebe
 
 > Product ID `52223` · Digistore24 productId `608625` · [HTML profile page](../../produkte/graue-schnauzen-gro-e-liebe-52223.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $6.26 (Single payment) |
+| Price | $6.27 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $0.63 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/52223/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/608625?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/608625
 - Canonical redirect: https://www.digistore24.com/redir/608625/adminstore
 
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Graue Schnauzen große Liebe? — Typ: E-books, Anbieter: Lauf-Stall, gelistet seit 2025-04-22
-- Wie viel kostet es? — 6.26136 USD
+- Wie viel kostet es? — 6.26528 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Graue Schnauzen große Liebe Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/608625
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/608625/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Graue%20Schnauzen%20gro%C3%9Fe%20Liebe
 
 ## 4. Editorial notes

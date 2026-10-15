@@ -10,10 +10,10 @@ affiliate_commission_pct: 50
 earnings_per_sale: 0
 cart_conversion_pct: 56
 cancel_rate_pct: 0
-categories: ["Business & Investment","Email Marketing","Online Marketing & E-Business"]
+categories: ["Business & Investment","Online Marketing & E-Business","Email Marketing"]
 listed_since: "2026-04-14"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
 promo_link: "https://affiliate-macher.de/freebie-ebook?aff=adminstore#aff=adminstore"
 sales_page: "https://affiliate-macher.de/freebie-ebook"
@@ -22,7 +22,7 @@ language: "de"
 # E-Mail Marketing Sofortstart - Freebie
 
 > Product ID `56288` · Digistore24 productId `684471` · [HTML profile page](../../produkte/e-mail-marketing-sofortstart-freebie-56288.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | MoneyCreators |
 | Listed since | 2026-04-14 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Email Marketing, Online Marketing & E-Business |
+| Categories | Business & Investment, Online Marketing & E-Business, Email Marketing |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -68,7 +68,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: E-Mail Marketing Sofortstart - Freebie Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/684471
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/684471/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=E-Mail%20Marketing%20Sofortstart%20-%20Freebie
 
 ## 4. Editorial notes

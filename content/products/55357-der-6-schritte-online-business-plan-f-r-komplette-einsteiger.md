@@ -4,40 +4,40 @@ digistore24_product_id: 663356
 title: "Der 6-Schritte Online-Business-Plan für komplette Einsteiger"
 vendor: "SD-Lifestyle"
 product_type: "Member area and video courses"
-price: 62.95
+price: 62.99
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 31.47
+earnings_per_sale: 31.49
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Online Marketing & E-Business","Profession & Job"]
+categories: ["Online Marketing & E-Business","Profession & Job","Education"]
 listed_since: "2026-01-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/55357/adminstore/"
+promo_link: "https://www.onlinebusiness-anleitung.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.onlinebusiness-anleitung.de/"
 language: "de"
 ---
 # Der 6-Schritte Online-Business-Plan für komplette Einsteiger
 
 > Product ID `55357` · Digistore24 productId `663356` · [HTML profile page](../../produkte/der-6-schritte-online-business-plan-f-r-komplette-einsteiger-55357.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $62.95 (Single payment) |
+| Price | $62.99 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $31.47 |
+| Earnings/sale* | $31.49 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SD-Lifestyle |
 | Listed since | 2026-01-22 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Online Marketing & E-Business, Profession & Job |
+| Categories | Online Marketing & E-Business, Profession & Job, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55357/adminstore/
+- **Promo link (affiliate):** https://www.onlinebusiness-anleitung.de/?aff=adminstore#aff=adminstore
 - Sales page: https://www.onlinebusiness-anleitung.de/
 - Vendor affiliate support: https://www.onlinebusiness-anleitung.de/Affiliate-Support/
 - Canonical redirect: https://www.digistore24.com/redir/663356/adminstore
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der 6-Schritte Online-Business-Plan für komplette Einsteiger? — Typ: Member area and video courses, Anbieter: SD-Lifestyle, gelistet seit 2026-01-22
-- Wie viel kostet es? — 62.94903 USD
+- Wie viel kostet es? — 62.98844 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Der 6-Schritte Online-Business-Plan für komplette Einsteiger Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/663356
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/663356/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%206-Schritte%20Online-Business-Plan%20f%C3%BCr%20komplette%20Einsteiger
 
 ## 4. Editorial notes

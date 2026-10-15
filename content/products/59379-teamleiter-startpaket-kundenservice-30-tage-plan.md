@@ -4,34 +4,34 @@ digistore24_product_id: 735004
 title: "Teamleiter-Startpaket Kundenservice – 30-Tage-Plan"
 vendor: "einfachmitmatze"
 product_type: "Downloads"
-price: 74.23
+price: 74.28
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 37.12
+earnings_per_sale: 37.14
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Profession & Job","Leadership & Management"]
 listed_since: "2026-09-19"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/59379/adminstore/"
+promo_link: "https://www.digistore24.com/product/735004?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/735004"
 language: "de"
 ---
 # Teamleiter-Startpaket Kundenservice – 30-Tage-Plan
 
 > Product ID `59379` · Digistore24 productId `735004` · [HTML profile page](../../produkte/teamleiter-startpaket-kundenservice-30-tage-plan-59379.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $74.23 (Single payment) |
+| Price | $74.28 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $37.12 |
+| Earnings/sale* | $37.14 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | einfachmitmatze |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59379/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/735004?aff=adminstore
 - Sales page: https://www.digistore24.com/product/735004
 - Vendor affiliate support: https://einfachmitmatze.de/partner-735004/
 - Canonical redirect: https://www.digistore24.com/redir/735004/adminstore
@@ -80,14 +80,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Teamleiter-Startpaket Kundenservice – 30-Tage-Plan? — Typ: Downloads, Anbieter: einfachmitmatze, gelistet seit 2026-09-19
-- Wie viel kostet es? — 74.230659 USD
+- Wie viel kostet es? — 74.27713200000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Teamleiter-Startpaket Kundenservice – 30-Tage-Plan Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/735004
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/735004/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Teamleiter-Startpaket%20Kundenservice%20%E2%80%93%2030-Tage-Plan
 
 ## 4. Editorial notes

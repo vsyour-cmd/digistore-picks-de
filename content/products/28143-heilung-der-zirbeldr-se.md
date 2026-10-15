@@ -4,34 +4,34 @@ digistore24_product_id: 260302
 title: "Heilung der Zirbeldrüse"
 vendor: "Musik-Apotheke"
 product_type: "Downloads"
-price: 42.29
+price: 42.31
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 12.69
+earnings_per_sale: 12.7
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2019-02-13"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/28143/adminstore/"
+promo_link: "https://www.compose-media.de/heilung-der-zirbeldruese/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.compose-media.de/heilung-der-zirbeldruese/"
 language: "de"
 ---
 # Heilung der Zirbeldrüse
 
 > Product ID `28143` · Digistore24 productId `260302` · [HTML profile page](../../produkte/heilung-der-zirbeldr-se-28143.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $42.29 (Single payment) |
+| Price | $42.31 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $12.69 |
+| Earnings/sale* | $12.70 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Musik-Apotheke |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/28143/adminstore/
+- **Promo link (affiliate):** https://www.compose-media.de/heilung-der-zirbeldruese/?aff=adminstore#aff=adminstore
 - Sales page: https://www.compose-media.de/heilung-der-zirbeldruese/
 - Vendor affiliate support: https://www.compose-media.de/heilung-der-zirbeldruese/
 - Canonical redirect: https://www.digistore24.com/redir/260302/adminstore
@@ -70,14 +70,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Heilung der Zirbeldrüse? — Typ: Downloads, Anbieter: Musik-Apotheke, gelistet seit 2019-02-13
-- Wie viel kostet es? — 42.286542000000004 USD
+- Wie viel kostet es? — 42.313016 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Heilung der Zirbeldrüse Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/260302
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/260302/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Heilung%20der%20Zirbeldr%C3%BCse
 
 ## 4. Editorial notes

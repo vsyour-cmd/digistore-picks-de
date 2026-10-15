@@ -4,16 +4,16 @@ digistore24_product_id: 295301
 title: "Feather and Moon Desktop Presets für Lightroom"
 vendor: "farbklangphotography"
 product_type: "Software"
-price: 51.68
+price: 51.71
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 10.33
+earnings_per_sale: 10.34
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Photography & Film"]
 listed_since: "2019-11-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.farbklang-fotografie.de/fuer-fotografen/shop/presets/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.farbklang-fotografie.de/fuer-fotografen/shop/presets/"
@@ -22,16 +22,16 @@ language: "de"
 # Feather and Moon Desktop Presets für Lightroom
 
 > Product ID `36104` · Digistore24 productId `295301` · [HTML profile page](../../produkte/feather-and-moon-desktop-presets-f-r-lightroom-36104.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $51.68 (Single payment) |
+| Price | $51.71 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $10.33 |
+| Earnings/sale* | $10.34 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | farbklangphotography |
@@ -75,14 +75,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Feather and Moon Desktop Presets für Lightroom? — Typ: Software, Anbieter: farbklangphotography, gelistet seit 2019-11-15
-- Wie viel kostet es? — 51.678582000000006 USD
+- Wie viel kostet es? — 51.710936 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Feather and Moon Desktop Presets für Lightroom Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/295301
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/295301/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Feather%20and%20Moon%20Desktop%20Presets%20f%C3%BCr%20Lightroom
 
 ## 4. Editorial notes

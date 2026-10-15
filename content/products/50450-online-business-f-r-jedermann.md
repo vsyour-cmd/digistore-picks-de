@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2024-11-13"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://page.funnelcockpit.com/pf7d6wNZ2AyBunrSM?aff=adminstore#aff=adminstore"
 sales_page: "https://page.funnelcockpit.com/pf7d6wNZ2AyBunrSM"
@@ -22,7 +22,7 @@ language: "de"
 # Online Business für Jedermann
 
 > Product ID `50450` · Digistore24 productId `580214` · [HTML profile page](../../produkte/online-business-f-r-jedermann-50450.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -66,7 +66,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Online Business für Jedermann Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/580214
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/580214/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Online%20Business%20f%C3%BCr%20Jedermann
 
 ## 4. Editorial notes

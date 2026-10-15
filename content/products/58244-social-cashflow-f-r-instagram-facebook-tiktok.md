@@ -4,16 +4,16 @@ digistore24_product_id: 693344
 title: "Social Cashflow für Instagram, Facebook Tiktok"
 vendor: "rs-onlineagentur"
 product_type: "E-books"
-price: 28.21
+price: 28.23
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 14.11
+earnings_per_sale: 14.12
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2026-08-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://rita-scheer.de/social-cashflow?aff=adminstore#aff=adminstore"
 sales_page: "https://rita-scheer.de/social-cashflow"
@@ -22,16 +22,16 @@ language: "de"
 # Social Cashflow für Instagram, Facebook Tiktok
 
 > Product ID `58244` · Digistore24 productId `693344` · [HTML profile page](../../produkte/social-cashflow-f-r-instagram-facebook-tiktok-58244.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $28.21 (Single payment) |
+| Price | $28.23 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $14.11 |
+| Earnings/sale* | $14.12 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | rs-onlineagentur |
@@ -89,14 +89,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Social Cashflow für Instagram, Facebook Tiktok? — Typ: E-books, Anbieter: rs-onlineagentur, gelistet seit 2026-08-09
-- Wie viel kostet es? — 28.209663000000003 USD
+- Wie viel kostet es? — 28.227324 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Social Cashflow für Instagram, Facebook Tiktok Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/693344
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/693344/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Social%20Cashflow%20f%C3%BCr%20Instagram%2C%20Facebook%20Tiktok
 
 ## 4. Editorial notes

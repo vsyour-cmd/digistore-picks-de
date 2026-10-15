@@ -4,34 +4,34 @@ digistore24_product_id: 712058
 title: "FREEFORLIFE – Der Weg zurück zu beweglicheren Händen"
 vendor: "Bewusstseins-Training"
 product_type: "Downloads"
-price: 46.04
+price: 46.07
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 27.63
+earnings_per_sale: 27.65
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-08-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/58213/adminstore/"
+promo_link: "https://freeforlife.eu?aff=adminstore#aff=adminstore"
 sales_page: "https://freeforlife.eu"
 language: "de"
 ---
 # FREEFORLIFE – Der Weg zurück zu beweglicheren Händen
 
 > Product ID `58213` · Digistore24 productId `712058` · [HTML profile page](../../produkte/freeforlife-der-weg-zur-ck-zu-beweglicheren-h-nden-58213.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $46.04 (Single payment) |
+| Price | $46.07 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $27.63 |
+| Earnings/sale* | $27.65 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Bewusstseins-Training |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58213/adminstore/
+- **Promo link (affiliate):** https://freeforlife.eu?aff=adminstore#aff=adminstore
 - Sales page: https://freeforlife.eu
 - Vendor affiliate support: https://freeforlife.eu/partner/
 - Canonical redirect: https://www.digistore24.com/redir/712058/adminstore
@@ -109,14 +109,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist FREEFORLIFE – Der Weg zurück zu beweglicheren Händen? — Typ: Downloads, Anbieter: Bewusstseins-Training, gelistet seit 2026-08-07
-- Wie viel kostet es? — 46.043358000000005 USD
+- Wie viel kostet es? — 46.072184 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: FREEFORLIFE – Der Weg zurück zu beweglicheren Händen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/712058
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/712058/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=FREEFORLIFE%20%E2%80%93%20Der%20Weg%20zur%C3%BCck%20zu%20beweglicheren%20H%C3%A4nden
 
 ## 4. Editorial notes

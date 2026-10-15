@@ -4,16 +4,16 @@ digistore24_product_id: 36863
 title: "GPSMAP 62 und 64 Handbuch"
 vendor: "MBMweb"
 product_type: "E-books"
-price: 20.89
+price: 20.9
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 10.44
+earnings_per_sale: 10.45
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft"]
 listed_since: "2014-11-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://gps-anleitung.de/handbuecher/gpsmap-62-64-65-handbuch/?aff=adminstore#aff=adminstore"
 sales_page: "https://gps-anleitung.de/handbuecher/gpsmap-62-64-65-handbuch/"
@@ -22,16 +22,16 @@ language: "de"
 # GPSMAP 62 und 64 Handbuch
 
 > Product ID `5505` · Digistore24 productId `36863` · [HTML profile page](../../produkte/gpsmap-62-und-64-handbuch-5505.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.89 (Single payment) |
+| Price | $20.90 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $10.44 |
+| Earnings/sale* | $10.45 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MBMweb |
@@ -92,14 +92,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist GPSMAP 62 und 64 Handbuch? — Typ: E-books, Anbieter: MBMweb, gelistet seit 2014-11-20
-- Wie viel kostet es? — 20.886108 USD
+- Wie viel kostet es? — 20.899184 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: GPSMAP 62 und 64 Handbuch Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/36863
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/36863/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=GPSMAP%2062%20und%2064%20Handbuch
 
 ## 4. Editorial notes

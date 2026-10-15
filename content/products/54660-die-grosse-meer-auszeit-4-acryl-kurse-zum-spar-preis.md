@@ -4,16 +4,16 @@ digistore24_product_id: 648703
 title: "Die Grosse Meer-Auszeit - 4 Acryl-Kurse zum Spar-Preis"
 vendor: "liebezumleben"
 product_type: "Downloads"
-price: 74.23
+price: 74.28
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 37.12
+earnings_per_sale: 37.14
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Hobby & Craft"]
 listed_since: "2025-11-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://malenmitanke.de/acrylmalkurs-meer-bundle/?aff=adminstore#aff=adminstore"
 sales_page: "https://malenmitanke.de/acrylmalkurs-meer-bundle/"
@@ -22,16 +22,16 @@ language: "de"
 # Die Grosse Meer-Auszeit - 4 Acryl-Kurse zum Spar-Preis
 
 > Product ID `54660` · Digistore24 productId `648703` · [HTML profile page](../../produkte/die-grosse-meer-auszeit-4-acryl-kurse-zum-spar-preis-54660.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $74.23 (Single payment) |
+| Price | $74.28 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $37.12 |
+| Earnings/sale* | $37.14 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | liebezumleben |
@@ -87,14 +87,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die Grosse Meer-Auszeit - 4 Acryl-Kurse zum Spar-Preis? — Typ: Downloads, Anbieter: liebezumleben, gelistet seit 2025-11-15
-- Wie viel kostet es? — 74.230659 USD
+- Wie viel kostet es? — 74.27713200000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Die Grosse Meer-Auszeit - 4 Acryl-Kurse zum Spar-Preis Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/648703
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/648703/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Die%20Grosse%20Meer-Auszeit%20-%204%20Acryl-Kurse%20zum%20Spar-Preis
 
 ## 4. Editorial notes

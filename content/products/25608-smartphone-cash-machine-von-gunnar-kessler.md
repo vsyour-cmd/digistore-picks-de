@@ -4,16 +4,16 @@ digistore24_product_id: 230451
 title: "Smartphone Cash Machine - von Gunnar Kessler"
 vendor: "GTK-littlefreilich"
 product_type: "Member area and video courses"
-price: 182.95
+price: 183.07
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 111.04
+earnings_per_sale: 111.11
 cart_conversion_pct: 7
 cancel_rate_pct: 19.44
 categories: ["Online Marketing & E-Business"]
 listed_since: "2018-06-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://byebyeschufterei.de/smartphone-cash-7500/?aff=adminstore#aff=adminstore"
 sales_page: "https://byebyeschufterei.de/smartphone-cash-7500/"
@@ -22,16 +22,16 @@ language: "de"
 # Smartphone Cash Machine - von Gunnar Kessler
 
 > Product ID `25608` · Digistore24 productId `230451` · [HTML profile page](../../produkte/smartphone-cash-machine-von-gunnar-kessler-25608.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $182.95 (Single payment) |
+| Price | $183.07 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $111.04 |
+| Earnings/sale* | $111.11 |
 | Cart conversion* | 7% |
 | Cancel rate* | 19.44% |
 | Vendor | GTK-littlefreilich |
@@ -93,14 +93,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Smartphone Cash Machine - von Gunnar Kessler? — Typ: Member area and video courses, Anbieter: GTK-littlefreilich, gelistet seit 2018-06-26
-- Wie viel kostet es? — 182.95470300000002 USD
+- Wie viel kostet es? — 183.069244 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Smartphone Cash Machine - von Gunnar Kessler Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/230451
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/230451/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Smartphone%20Cash%20Machine%20-%20von%20Gunnar%20Kessler
 
 ## 4. Editorial notes

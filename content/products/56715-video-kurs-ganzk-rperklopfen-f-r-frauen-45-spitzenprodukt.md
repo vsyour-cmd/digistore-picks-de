@@ -4,34 +4,34 @@ digistore24_product_id: 555570
 title: "Video-Kurs: Ganzkörperklopfen für Frauen 45+ (Spitzenprodukt"
 vendor: "SabineQigong"
 product_type: "Member area and video courses"
-price: 167.72
+price: 167.82
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 83.86
+earnings_per_sale: 83.91
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2026-05-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/56715/adminstore/"
+promo_link: "https://sabine-tukovits-fischer.app.mentortools.com/klopfmassagefrauen?aff=adminstore#aff=adminstore"
 sales_page: "https://sabine-tukovits-fischer.app.mentortools.com/klopfmassagefrauen"
 language: "de"
 ---
 # Video-Kurs: Ganzkörperklopfen für Frauen 45+ (Spitzenprodukt
 
 > Product ID `56715` · Digistore24 productId `555570` · [HTML profile page](../../produkte/video-kurs-ganzk-rperklopfen-f-r-frauen-45-spitzenprodukt-56715.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $167.72 (Single payment) |
+| Price | $167.82 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $83.86 |
+| Earnings/sale* | $83.91 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SabineQigong |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56715/adminstore/
+- **Promo link (affiliate):** https://sabine-tukovits-fischer.app.mentortools.com/klopfmassagefrauen?aff=adminstore#aff=adminstore
 - Sales page: https://sabine-tukovits-fischer.app.mentortools.com/klopfmassagefrauen
 - Vendor affiliate support: https://sabine-tukovits-fischer.app.mentortools.com/fur-affiliates-2-2
 - Canonical redirect: https://www.digistore24.com/redir/555570/adminstore
@@ -89,14 +89,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Video-Kurs: Ganzkörperklopfen für Frauen 45+ (Spitzenprodukt? — Typ: Member area and video courses, Anbieter: SabineQigong, gelistet seit 2026-05-27
-- Wie viel kostet es? — 167.715 USD
+- Wie viel kostet es? — 167.82 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Video-Kurs: Ganzkörperklopfen für Frauen 45+ (Spitzenprodukt Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/555570
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/555570/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Video-Kurs%3A%20Ganzk%C3%B6rperklopfen%20f%C3%BCr%20Frauen%2045%2B%20(Spitzenprodukt
 
 ## 4. Editorial notes

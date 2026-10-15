@@ -4,40 +4,40 @@ digistore24_product_id: 743006
 title: "Verkaufsstellen-Manager – Notion-Template"
 vendor: "digitalstralli"
 product_type: "Downloads"
-price: 37.49
+price: 37.51
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 9.37
+earnings_per_sale: 9.38
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: []
+categories: ["Business & Investment","Software","Hobby & Craft"]
 listed_since: "2026-10-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/60419/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/743006?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/743006"
 language: "de"
 ---
 # Verkaufsstellen-Manager – Notion-Template
 
 > Product ID `60419` · Digistore24 productId `743006` · [HTML profile page](../../produkte/verkaufsstellen-manager-notion-template-60419.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $37.49 (Single payment) |
+| Price | $37.51 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $9.37 |
+| Earnings/sale* | $9.38 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | digitalstralli |
 | Listed since | 2026-10-08 |
 | Auto-accept affiliates | no (approval required) |
-| Categories | Uncategorized |
+| Categories | Business & Investment, Software, Hobby & Craft |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/60419/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/743006?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/743006
 - Canonical redirect: https://www.digistore24.com/redir/743006/adminstore
 
@@ -70,14 +70,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Verkaufsstellen-Manager – Notion-Template? — Typ: Downloads, Anbieter: digitalstralli, gelistet seit 2026-10-08
-- Wie viel kostet es? — 37.489893 USD
+- Wie viel kostet es? — 37.513364 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Verkaufsstellen-Manager – Notion-Template Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/743006
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/743006/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Verkaufsstellen-Manager%20%E2%80%93%20Notion-Template
 
 ## 4. Editorial notes

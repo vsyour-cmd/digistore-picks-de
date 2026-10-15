@@ -4,16 +4,16 @@ digistore24_product_id: 397449
 title: "Chronische Schmerzen lösen - Selbstheilung aktivieren"
 vendor: "OKsuccess"
 product_type: "Downloads"
-price: 37.99
+price: 38.02
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 20.9
+earnings_per_sale: 20.91
 cart_conversion_pct: 3
 cancel_rate_pct: 0.26
 categories: ["Health & Fitness","Spiri­tua­lity & Esotericism"]
 listed_since: "2021-07-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://brainfood4you.com/lp-chronische-schmerzen-loesen-album?aff=adminstore#aff=adminstore"
 sales_page: "https://brainfood4you.com/lp-chronische-schmerzen-loesen-album"
@@ -22,16 +22,16 @@ language: "de"
 # Chronische Schmerzen lösen - Selbstheilung aktivieren
 
 > Product ID `37150` · Digistore24 productId `397449` · [HTML profile page](../../produkte/chronische-schmerzen-l-sen-selbstheilung-aktivieren-37150.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $37.99 (Single payment) |
+| Price | $38.02 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $20.90 |
+| Earnings/sale* | $20.91 |
 | Cart conversion* | 3% |
 | Cancel rate* | 0.26% |
 | Vendor | OKsuccess |
@@ -97,14 +97,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Chronische Schmerzen lösen - Selbstheilung aktivieren? — Typ: Downloads, Anbieter: OKsuccess, gelistet seit 2021-07-09
-- Wie viel kostet es? — 37.993038 USD
+- Wie viel kostet es? — 38.016824 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Chronische Schmerzen lösen - Selbstheilung aktivieren Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/397449
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/397449/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Chronische%20Schmerzen%20l%C3%B6sen%20-%20Selbstheilung%20aktivieren
 
 ## 4. Editorial notes

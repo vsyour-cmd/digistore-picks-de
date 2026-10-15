@@ -4,7 +4,7 @@ digistore24_product_id: 731117
 title: "Der Amazon-Provisionen-Fahrplan"
 vendor: "torstendigital35b0"
 product_type: "E-books"
-price: 15.68
+price: 15.69
 currency: "USD"
 affiliate_commission_pct: 20
 earnings_per_sale: 3.13
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-09-10"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://meinwegzumerfolg.com/deine-ratgeber-anleitungen/?aff=adminstore#aff=adminstore"
 sales_page: "https://meinwegzumerfolg.com/deine-ratgeber-anleitungen/"
@@ -22,14 +22,14 @@ language: "de"
 # Der Amazon-Provisionen-Fahrplan
 
 > Product ID `59082` · Digistore24 productId `731117` · [HTML profile page](../../produkte/der-amazon-provisionen-fahrplan-59082.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $15.68 (Single payment) |
+| Price | $15.69 (Single payment) |
 | Affiliate commission | 20% |
 | Earnings/sale* | $3.13 |
 | Cart conversion* | — |
@@ -70,14 +70,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Amazon-Provisionen-Fahrplan? — Typ: E-books, Anbieter: torstendigital35b0, gelistet seit 2026-09-10
-- Wie viel kostet es? — 15.675762 USD
+- Wie viel kostet es? — 15.685576 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Der Amazon-Provisionen-Fahrplan Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/731117
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/731117/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%20Amazon-Provisionen-Fahrplan
 
 ## 4. Editorial notes

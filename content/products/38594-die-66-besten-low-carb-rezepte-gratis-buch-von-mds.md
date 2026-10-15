@@ -4,16 +4,16 @@ digistore24_product_id: 415828
 title: "Die 66 besten Low Carb Rezepte Gratis Buch von MDS"
 vendor: "produktmanagerin"
 product_type: "E-books"
-price: 26.02
+price: 26.03
 currency: "USD"
 affiliate_commission_pct: 100
-earnings_per_sale: 6.94
+earnings_per_sale: 6.95
 cart_conversion_pct: 34
 cancel_rate_pct: 12.33
 categories: ["Food & Drink"]
 listed_since: "2021-11-12"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://machdichschlank.info/66-low-carb-rezepte/?aff=adminstore#aff=adminstore"
 sales_page: "https://machdichschlank.info/66-low-carb-rezepte/"
@@ -22,16 +22,16 @@ language: "de"
 # Die 66 besten Low Carb Rezepte Gratis Buch von MDS
 
 > Product ID `38594` · Digistore24 productId `415828` · [HTML profile page](../../produkte/die-66-besten-low-carb-rezepte-gratis-buch-von-mds-38594.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $26.02 (Single payment) |
+| Price | $26.03 (Single payment) |
 | Affiliate commission | 100% |
-| Earnings/sale* | $6.94 |
+| Earnings/sale* | $6.95 |
 | Cart conversion* | 34% |
 | Cancel rate* | 12.33% |
 | Vendor | produktmanagerin |
@@ -87,14 +87,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die 66 besten Low Carb Rezepte Gratis Buch von MDS? — Typ: E-books, Anbieter: produktmanagerin, gelistet seit 2021-11-12
-- Wie viel kostet es? — 26.018187 USD
+- Wie viel kostet es? — 26.034476 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Die 66 besten Low Carb Rezepte Gratis Buch von MDS Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/415828
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/415828/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Die%2066%20besten%20Low%20Carb%20Rezepte%20Gratis%20Buch%20von%20MDS
 
 ## 4. Editorial notes

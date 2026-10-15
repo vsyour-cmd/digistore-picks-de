@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink"]
 listed_since: "2020-06-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.heilyoga.me/chakra-meditation-reinigung-pdf-mp3-video/#aff=adminstore"
+promo_link: "https://clevermom.de/schwangerschaft-naehstoffboost/?aff=adminstore#aff=adminstore"
 sales_page: "https://clevermom.de/schwangerschaft-naehstoffboost/"
 language: "de"
 ---
 # Nährstoff-Boost für Schwangerschaft & Geburt
 
 > Product ID `33855` · Digistore24 productId `331999` · [HTML profile page](../../produkte/n-hrstoff-boost-f-r-schwangerschaft-geburt-33855.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.heilyoga.me/chakra-meditation-reinigung-pdf-mp3-video/#aff=adminstore
+- **Promo link (affiliate):** https://clevermom.de/schwangerschaft-naehstoffboost/?aff=adminstore#aff=adminstore
 - Sales page: https://clevermom.de/schwangerschaft-naehstoffboost/
 - Vendor affiliate support: https://clevermom.de/affiliate-programm/
 - Canonical redirect: https://www.digistore24.com/redir/331999/adminstore
@@ -78,14 +78,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Nährstoff-Boost für Schwangerschaft & Geburt? — Typ: E-books, Anbieter: CleverMom, gelistet seit 2020-06-16
-- Wie viel kostet es? — 9.347316 USD
+- Wie viel kostet es? — 9.353168 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Nährstoff-Boost für Schwangerschaft & Geburt Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/331999
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/331999/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=N%C3%A4hrstoff-Boost%20f%C3%BCr%20Schwangerschaft%20%26%20Geburt
 
 ## 4. Editorial notes

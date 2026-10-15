@@ -4,16 +4,16 @@ digistore24_product_id: 350964
 title: "Innere Stärke dank Resilienz - ZPP Präventionskurs"
 vendor: "glueckwaerts"
 product_type: "Member area and video courses"
-price: 140
+price: 140.08
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 55.99
+earnings_per_sale: 56.03
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Health & Fitness"]
+categories: ["Health & Fitness","Education"]
 listed_since: "2020-10-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.glueckwaerts.com/ok-ds?aff=adminstore#aff=adminstore"
 sales_page: "https://www.glueckwaerts.com/ok-ds"
@@ -22,22 +22,22 @@ language: "de"
 # Innere Stärke dank Resilienz - ZPP Präventionskurs
 
 > Product ID `36078` · Digistore24 productId `350964` · [HTML profile page](../../produkte/innere-st-rke-dank-resilienz-zpp-pr-ventionskurs-36078.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $140.00 (Single payment, Installment) |
+| Price | $140.08 (Single payment, Installment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $55.99 |
+| Earnings/sale* | $56.03 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | glueckwaerts |
 | Listed since | 2020-10-05 |
 | Auto-accept affiliates | no (approval required) |
-| Categories | Education, Health & Fitness |
+| Categories | Health & Fitness, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -101,14 +101,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Innere Stärke dank Resilienz - ZPP Präventionskurs? — Typ: Member area and video courses, Anbieter: glueckwaerts, gelistet seit 2020-10-05
-- Wie viel kostet es? — 139.997301 USD
+- Wie viel kostet es? — 140.084948 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Innere Stärke dank Resilienz - ZPP Präventionskurs Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/350964
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/350964/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Innere%20St%C3%A4rke%20dank%20Resilienz%20-%20ZPP%20Pr%C3%A4ventionskurs
 
 ## 4. Editorial notes

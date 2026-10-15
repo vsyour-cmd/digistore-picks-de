@@ -4,7 +4,7 @@ digistore24_product_id: 303023
 title: "Virtuelles Klassenzimmer: Lernen mit Spaß und Leichtigkeit"
 vendor: "MiaundMika"
 product_type: "Member area and video courses"
-price: 44.16
+price: 44.19
 currency: "USD"
 affiliate_commission_pct: 0
 earnings_per_sale: 0
@@ -12,8 +12,8 @@ cart_conversion_pct: 22
 cancel_rate_pct: 1.53
 categories: ["Education"]
 listed_since: "2020-01-13"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://miaundmika.de/vkz?aff=adminstore#aff=adminstore"
 sales_page: "https://miaundmika.de/vkz"
@@ -22,14 +22,14 @@ language: "de"
 # Virtuelles Klassenzimmer: Lernen mit Spaß und Leichtigkeit
 
 > Product ID `43568` · Digistore24 productId `303023` · [HTML profile page](../../produkte/virtuelles-klassenzimmer-lernen-mit-spa-und-leichtigkeit-43568.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $44.16 (Subscription) |
+| Price | $44.19 (Subscription) |
 | Affiliate commission | 0% |
 | Earnings/sale* | $0.00 |
 | Cart conversion* | 22% |
@@ -85,14 +85,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Virtuelles Klassenzimmer: Lernen mit Spaß und Leichtigkeit? — Typ: Member area and video courses, Anbieter: MiaundMika, gelistet seit 2020-01-13
-- Wie viel kostet es? — 44.164950000000005 USD
+- Wie viel kostet es? — 44.1926 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Virtuelles Klassenzimmer: Lernen mit Spaß und Leichtigkeit Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/303023
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/303023/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Virtuelles%20Klassenzimmer%3A%20Lernen%20mit%20Spa%C3%9F%20und%20Leichtigkeit
 
 ## 4. Editorial notes

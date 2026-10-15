@@ -4,34 +4,34 @@ digistore24_product_id: 350206
 title: "Buch Bist du auf stumm geschaltet?"
 vendor: "RuthTravitzky"
 product_type: "Book (printed)"
-price: 26.12
+price: 26.14
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 13.06
+earnings_per_sale: 13.07
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2020-09-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/36219/adminstore/"
+promo_link: "https://www.stimmkraftmagie.de?aff=adminstore#aff=adminstore"
 sales_page: "https://www.stimmkraftmagie.de"
 language: "de"
 ---
 # Buch Bist du auf stumm geschaltet?
 
 > Product ID `36219` · Digistore24 productId `350206` · [HTML profile page](../../produkte/buch-bist-du-auf-stumm-geschaltet-36219.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $26.12 (Single payment) |
+| Price | $26.14 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $13.06 |
+| Earnings/sale* | $13.07 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | RuthTravitzky |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/36219/adminstore/
+- **Promo link (affiliate):** https://www.stimmkraftmagie.de?aff=adminstore#aff=adminstore
 - Sales page: https://www.stimmkraftmagie.de
 - Vendor affiliate support: http://www.stimmkraftmagie.de/affiliatefjh2kwgm
 - Canonical redirect: https://www.digistore24.com/redir/350206/adminstore
@@ -59,14 +59,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Buch Bist du auf stumm geschaltet?? — Typ: Book (printed), Anbieter: RuthTravitzky, gelistet seit 2020-09-29
-- Wie viel kostet es? — 26.118816000000002 USD
+- Wie viel kostet es? — 26.135168 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Buch Bist du auf stumm geschaltet? Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/350206
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/350206/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Buch%20Bist%20du%20auf%20stumm%20geschaltet%3F
 
 ## 4. Editorial notes

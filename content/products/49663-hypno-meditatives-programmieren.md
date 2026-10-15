@@ -4,34 +4,34 @@ digistore24_product_id: 116981
 title: "Hypno Meditatives Programmieren"
 vendor: "freedomacademy"
 product_type: "Downloads"
-price: 222.68
+price: 222.82
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 111.34
+earnings_per_sale: 111.41
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2017-02-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/49663/adminstore/"
+promo_link: "https://www.namastedolphins.de/einladung?aff=adminstore#aff=adminstore"
 sales_page: "https://www.namastedolphins.de/einladung"
 language: "de"
 ---
 # Hypno Meditatives Programmieren
 
 > Product ID `49663` · Digistore24 productId `116981` · [HTML profile page](../../produkte/hypno-meditatives-programmieren-49663.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $222.68 (Single payment, Installment) |
+| Price | $222.82 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $111.34 |
+| Earnings/sale* | $111.41 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | freedomacademy |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/49663/adminstore/
+- **Promo link (affiliate):** https://www.namastedolphins.de/einladung?aff=adminstore#aff=adminstore
 - Sales page: https://www.namastedolphins.de/einladung
 - Vendor affiliate support: https://www.namastedolphins.de/affiiate-support
 - Canonical redirect: https://www.digistore24.com/redir/116981/adminstore
@@ -85,14 +85,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Hypno Meditatives Programmieren? — Typ: Downloads, Anbieter: freedomacademy, gelistet seit 2017-02-01
-- Wie viel kostet es? — 222.68079600000002 USD
+- Wie viel kostet es? — 222.820208 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Hypno Meditatives Programmieren Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/116981
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/116981/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Hypno%20Meditatives%20Programmieren
 
 ## 4. Editorial notes

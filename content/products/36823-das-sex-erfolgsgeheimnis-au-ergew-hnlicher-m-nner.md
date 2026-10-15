@@ -4,34 +4,34 @@ digistore24_product_id: 384858
 title: "Das (Sex-)Erfolgsgeheimnis außergewöhnlicher Männer"
 vendor: "herozon"
 product_type: "Member area and video courses"
-price: 25.37
+price: 25.39
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 12.69
+earnings_per_sale: 12.7
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2021-04-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.rainbow-web.com#aff=adminstore"
+promo_link: "https://home.herozon.de/sexerfolgsgeheimnisse-sp?aff=adminstore#aff=adminstore"
 sales_page: "https://home.herozon.de/sexerfolgsgeheimnisse-sp"
 language: "de"
 ---
 # Das (Sex-)Erfolgsgeheimnis außergewöhnlicher Männer
 
 > Product ID `36823` · Digistore24 productId `384858` · [HTML profile page](../../produkte/das-sex-erfolgsgeheimnis-au-ergew-hnlicher-m-nner-36823.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $25.37 (Single payment) |
+| Price | $25.39 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $12.69 |
+| Earnings/sale* | $12.70 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | herozon |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.rainbow-web.com#aff=adminstore
+- **Promo link (affiliate):** https://home.herozon.de/sexerfolgsgeheimnisse-sp?aff=adminstore#aff=adminstore
 - Sales page: https://home.herozon.de/sexerfolgsgeheimnisse-sp
 - Vendor affiliate support: https://home.herozon.de/affiliateclub
 - Canonical redirect: https://www.digistore24.com/redir/384858/adminstore
@@ -72,14 +72,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das (Sex-)Erfolgsgeheimnis außergewöhnlicher Männer? — Typ: Member area and video courses, Anbieter: herozon, gelistet seit 2021-04-15
-- Wie viel kostet es? — 25.369689000000005 USD
+- Wie viel kostet es? — 25.385572000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Das (Sex-)Erfolgsgeheimnis außergewöhnlicher Männer Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/384858
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/384858/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Das%20(Sex-)Erfolgsgeheimnis%20au%C3%9Fergew%C3%B6hnlicher%20M%C3%A4nner
 
 ## 4. Editorial notes

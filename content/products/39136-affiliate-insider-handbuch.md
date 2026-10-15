@@ -4,16 +4,16 @@ digistore24_product_id: 429459
 title: "Affiliate Insider Handbuch"
 vendor: "sattelitevendor"
 product_type: "Downloads"
-price: 68.71
+price: 68.75
 currency: "USD"
 affiliate_commission_pct: 100
-earnings_per_sale: 66.59
+earnings_per_sale: 66.64
 cart_conversion_pct: 8
 cancel_rate_pct: 0.96
 categories: ["Online Marketing & E-Business"]
 listed_since: "2022-02-13"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://aiffilateinsider.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://aiffilateinsider.com/"
@@ -22,16 +22,16 @@ language: "de"
 # Affiliate Insider Handbuch
 
 > Product ID `39136` · Digistore24 productId `429459` · [HTML profile page](../../produkte/affiliate-insider-handbuch-39136.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $68.71 (Single payment) |
+| Price | $68.75 (Single payment) |
 | Affiliate commission | 100% |
-| Earnings/sale* | $66.59 |
+| Earnings/sale* | $66.64 |
 | Cart conversion* | 8% |
 | Cancel rate* | 0.96% |
 | Vendor | sattelitevendor |
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Affiliate Insider Handbuch? — Typ: Downloads, Anbieter: sattelitevendor, gelistet seit 2022-02-13
-- Wie viel kostet es? — 68.70724500000001 USD
+- Wie viel kostet es? — 68.75026 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Affiliate Insider Handbuch Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/429459
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/429459/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Affiliate%20Insider%20Handbuch
 
 ## 4. Editorial notes

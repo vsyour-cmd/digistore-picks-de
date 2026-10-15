@@ -4,16 +4,16 @@ digistore24_product_id: 661606
 title: "Professionelle WordPress Websites – Verdienen Sie 40 % Provi"
 vendor: "ClickserviceGmbH"
 product_type: "Remote service provided electronically"
-price: 1106.92
+price: 1107.61
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 442.77
+earnings_per_sale: 443.04
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Services","Software"]
+categories: ["Software","Services"]
 listed_since: "2026-01-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/661606?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/661606"
@@ -22,22 +22,22 @@ language: "de"
 # Professionelle WordPress Websites – Verdienen Sie 40 % Provi
 
 > Product ID `55340` · Digistore24 productId `661606` · [HTML profile page](../../produkte/professionelle-wordpress-websites-verdienen-sie-40-provi-55340.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $1106.92 (Single payment) |
+| Price | $1107.61 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $442.77 |
+| Earnings/sale* | $443.04 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ClickserviceGmbH |
 | Listed since | 2026-01-15 |
 | Auto-accept affiliates | yes |
-| Categories | Services, Software |
+| Categories | Software, Services |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -80,14 +80,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Professionelle WordPress Websites – Verdienen Sie 40 % Provi? — Typ: Remote service provided electronically, Anbieter: ClickserviceGmbH, gelistet seit 2026-01-15
-- Wie viel kostet es? — 1106.919 USD
+- Wie viel kostet es? — 1107.612 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Professionelle WordPress Websites – Verdienen Sie 40 % Provi Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/661606
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/661606/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Professionelle%20WordPress%20Websites%20%E2%80%93%20Verdienen%20Sie%2040%E2%80%AF%25%20Provi
 
 ## 4. Editorial notes

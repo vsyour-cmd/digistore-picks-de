@@ -4,16 +4,16 @@ digistore24_product_id: 661685
 title: "Schmuckkalkulator V2.2"
 vendor: "Kaiwgt"
 product_type: "Downloads"
-price: 18.74
+price: 18.75
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 1.88
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Profession & Job","Services","Software"]
+categories: ["Software","Profession & Job","Services"]
 listed_since: "2026-01-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/661685?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/661685"
@@ -22,14 +22,14 @@ language: "de"
 # Schmuckkalkulator V2.2
 
 > Product ID `55532` · Digistore24 productId `661685` · [HTML profile page](../../produkte/schmuckkalkulator-v2-2-55532.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $18.74 (Single payment) |
+| Price | $18.75 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $1.88 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | Kaiwgt |
 | Listed since | 2026-01-15 |
 | Auto-accept affiliates | yes |
-| Categories | Profession & Job, Services, Software |
+| Categories | Software, Profession & Job, Services |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -70,14 +70,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Schmuckkalkulator V2.2? — Typ: Downloads, Anbieter: Kaiwgt, gelistet seit 2026-01-15
-- Wie viel kostet es? — 18.739356000000004 USD
+- Wie viel kostet es? — 18.751088000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Schmuckkalkulator V2.2 Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/661685
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/661685/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Schmuckkalkulator%20V2.2
 
 ## 4. Editorial notes

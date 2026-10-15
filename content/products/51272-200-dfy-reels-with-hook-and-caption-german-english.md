@@ -4,16 +4,16 @@ digistore24_product_id: 594738
 title: "200 DFY Reels with Hook and Caption(German-English)"
 vendor: "moneywithangie"
 product_type: "E-books"
-price: 32.39
+price: 32.41
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 22.68
+earnings_per_sale: 22.69
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media","Online Marketing"]
 listed_since: "2025-02-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/594738?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/594738"
@@ -22,16 +22,16 @@ language: "de"
 # 200 DFY Reels with Hook and Caption(German-English)
 
 > Product ID `51272` · Digistore24 productId `594738` · [HTML profile page](../../produkte/200-dfy-reels-with-hook-and-caption-german-english-51272.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $32.39 (Single payment) |
+| Price | $32.41 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $22.68 |
+| Earnings/sale* | $22.69 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | moneywithangie |
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 200 DFY Reels with Hook and Caption(German-English)? — Typ: E-books, Anbieter: moneywithangie, gelistet seit 2025-02-06
-- Wie viel kostet es? — 32.391357 USD
+- Wie viel kostet es? — 32.411636 USD
 - Garantie? — 60
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 200 DFY Reels with Hook and Caption(German-English) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/594738
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/594738/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=200%20DFY%20Reels%20with%20Hook%20and%20Caption(German-English)
 
 ## 4. Editorial notes

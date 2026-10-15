@@ -4,7 +4,7 @@ digistore24_product_id: 68903
 title: "Ziele sicher erreichen!"
 vendor: "ellingm"
 product_type: "Downloads"
-price: 25.37
+price: 25.39
 currency: "USD"
 affiliate_commission_pct: 25
 earnings_per_sale: 6.34
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2016-01-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/10959/adminstore/"
+promo_link: "http://www.ziele-sicher-erreichen.de/ziele-sicher-erreichen-vorlagenpaket/?aff=adminstore#aff=adminstore"
 sales_page: "http://www.ziele-sicher-erreichen.de/ziele-sicher-erreichen-vorlagenpaket/"
 language: "de"
 ---
 # Ziele sicher erreichen!
 
 > Product ID `10959` · Digistore24 productId `68903` · [HTML profile page](../../produkte/ziele-sicher-erreichen-10959.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $25.37 (Single payment) |
+| Price | $25.39 (Single payment) |
 | Affiliate commission | 25% |
 | Earnings/sale* | $6.34 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/10959/adminstore/
+- **Promo link (affiliate):** http://www.ziele-sicher-erreichen.de/ziele-sicher-erreichen-vorlagenpaket/?aff=adminstore#aff=adminstore
 - Sales page: http://www.ziele-sicher-erreichen.de/ziele-sicher-erreichen-vorlagenpaket/
 - Canonical redirect: https://www.digistore24.com/redir/68903/adminstore
 
@@ -75,14 +75,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ziele sicher erreichen!? — Typ: Downloads, Anbieter: ellingm, gelistet seit 2016-01-16
-- Wie viel kostet es? — 25.369689000000005 USD
+- Wie viel kostet es? — 25.385572000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Ziele sicher erreichen! Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/68903
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/68903/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Ziele%20sicher%20erreichen!
 
 ## 4. Editorial notes

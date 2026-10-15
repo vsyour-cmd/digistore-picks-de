@@ -4,34 +4,34 @@ digistore24_product_id: 363375
 title: "NEU Besser Schlafen-Bundle (Subliminal) der Topseller 2022"
 vendor: "seiwunderbar"
 product_type: "Downloads"
-price: 37.58
+price: 37.6
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 7.51
+earnings_per_sale: 7.52
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2020-12-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/39807/adminstore/"
+promo_link: "https://earnetic.de/produkt/natuerlich-besser-schlafen-durchschlafen-und-unruhigen-schlaf-korrigieren-silent-subliminal/?aff=adminstore#aff=adminstore"
 sales_page: "https://earnetic.de/produkt/natuerlich-besser-schlafen-durchschlafen-und-unruhigen-schlaf-korrigieren-silent-subliminal/"
 language: "de"
 ---
 # NEU Besser Schlafen-Bundle (Subliminal) der Topseller 2022
 
 > Product ID `39807` · Digistore24 productId `363375` · [HTML profile page](../../produkte/neu-besser-schlafen-bundle-subliminal-der-topseller-2022-39807.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $37.58 (Single payment) |
+| Price | $37.60 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $7.51 |
+| Earnings/sale* | $7.52 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | seiwunderbar |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/39807/adminstore/
+- **Promo link (affiliate):** https://earnetic.de/produkt/natuerlich-besser-schlafen-durchschlafen-und-unruhigen-schlaf-korrigieren-silent-subliminal/?aff=adminstore#aff=adminstore
 - Sales page: https://earnetic.de/produkt/natuerlich-besser-schlafen-durchschlafen-und-unruhigen-schlaf-korrigieren-silent-subliminal/
 - Vendor affiliate support: https://earnetic.de/werbemittel-fuer-partner/
 - Canonical redirect: https://www.digistore24.com/redir/363375/adminstore
@@ -73,14 +73,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist NEU Besser Schlafen-Bundle (Subliminal) der Topseller 2022? — Typ: Downloads, Anbieter: seiwunderbar, gelistet seit 2020-12-17
-- Wie viel kostet es? — 37.579341 USD
+- Wie viel kostet es? — 37.602868 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: NEU Besser Schlafen-Bundle (Subliminal) der Topseller 2022 Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/363375
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/363375/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=NEU%20Besser%20Schlafen-Bundle%20(Subliminal)%20der%20Topseller%202022
 
 ## 4. Editorial notes

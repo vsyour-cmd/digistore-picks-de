@@ -4,16 +4,16 @@ digistore24_product_id: 733806
 title: "Dein eigenes Parfum selber machen"
 vendor: "AndreasLang"
 product_type: "E-books"
-price: 141.88
+price: 141.96
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 86.81
+earnings_per_sale: 86.86
 cart_conversion_pct: 5
 cancel_rate_pct: 5.86
-categories: ["Family & Children","Green Products & Environmental Protection","Health & Fitness"]
+categories: ["Health & Fitness","Family & Children","Green Products & Environmental Protection"]
 listed_since: "2024-07-28"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/product/733806?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/733806"
@@ -22,22 +22,22 @@ language: "de"
 # Dein eigenes Parfum selber machen
 
 > Product ID `50726` · Digistore24 productId `733806` · [HTML profile page](../../produkte/dein-eigenes-parfum-selber-machen-50726.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $141.88 (Single payment) |
+| Price | $141.96 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $86.81 |
+| Earnings/sale* | $86.86 |
 | Cart conversion* | 5% |
 | Cancel rate* | 5.86% |
 | Vendor | AndreasLang |
 | Listed since | 2024-07-28 |
 | Auto-accept affiliates | yes |
-| Categories | Family & Children, Green Products & Environmental Protection, Health & Fitness |
+| Categories | Health & Fitness, Family & Children, Green Products & Environmental Protection |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -89,14 +89,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Dein eigenes Parfum selber machen? — Typ: E-books, Anbieter: AndreasLang, gelistet seit 2024-07-28
-- Wie viel kostet es? — 141.875709 USD
+- Wie viel kostet es? — 141.964532 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Dein eigenes Parfum selber machen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/733806
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/733806/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Dein%20eigenes%20Parfum%20selber%20machen
 
 ## 4. Editorial notes

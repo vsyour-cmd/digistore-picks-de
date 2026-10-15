@@ -4,16 +4,16 @@ digistore24_product_id: 607931
 title: "Kostenrechnung für Kaufleute für Büromanagement"
 vendor: "wileleg"
 product_type: "Member area and video courses"
-price: 93.01
+price: 93.07
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 46.51
+earnings_per_sale: 46.54
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Profession & Job"]
+categories: ["Profession & Job","Education"]
 listed_since: "2025-04-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://kostenrechnung-ganz-einfach.de/onlinekurs-kostenrechnung-fur-kaufleute-fur-buromanagement-gaaanz-einfach-af?aff=adminstore#aff=adminstore"
 sales_page: "https://kostenrechnung-ganz-einfach.de/onlinekurs-kostenrechnung-fur-kaufleute-fur-buromanagement-gaaanz-einfach-af"
@@ -22,22 +22,22 @@ language: "de"
 # Kostenrechnung für Kaufleute für Büromanagement
 
 > Product ID `52180` · Digistore24 productId `607931` · [HTML profile page](../../produkte/kostenrechnung-f-r-kaufleute-f-r-b-romanagement-52180.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $93.01 (Single payment) |
+| Price | $93.07 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $46.51 |
+| Earnings/sale* | $46.54 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | wileleg |
 | Listed since | 2025-04-17 |
 | Auto-accept affiliates | no (approval required) |
-| Categories | Education, Profession & Job |
+| Categories | Profession & Job, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -66,14 +66,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Kostenrechnung für Kaufleute für Büromanagement? — Typ: Member area and video courses, Anbieter: wileleg, gelistet seit 2025-04-17
-- Wie viel kostet es? — 93.014739 USD
+- Wie viel kostet es? — 93.072972 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Kostenrechnung für Kaufleute für Büromanagement Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/607931
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/607931/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Kostenrechnung%20f%C3%BCr%20Kaufleute%20f%C3%BCr%20B%C3%BCromanagement
 
 ## 4. Editorial notes

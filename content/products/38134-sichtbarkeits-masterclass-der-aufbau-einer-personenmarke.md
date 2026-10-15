@@ -4,16 +4,16 @@ digistore24_product_id: 314882
 title: "Sichtbarkeits-Masterclass - Der Aufbau einer Personenmarke"
 vendor: "mdinet"
 product_type: "Member area and video courses"
-price: 239.6
+price: 239.75
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 119.8
+earnings_per_sale: 119.88
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2020-03-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://academy.oliver-albrecht.com/lp/onlinekurs-sichtbarkeit-masterclass/?aff=adminstore#aff=adminstore"
 sales_page: "https://academy.oliver-albrecht.com/lp/onlinekurs-sichtbarkeit-masterclass/"
@@ -22,16 +22,16 @@ language: "de"
 # Sichtbarkeits-Masterclass - Der Aufbau einer Personenmarke
 
 > Product ID `38134` · Digistore24 productId `314882` · [HTML profile page](../../produkte/sichtbarkeits-masterclass-der-aufbau-einer-personenmarke-38134.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $239.60 (Single payment, Installment) |
+| Price | $239.75 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $119.80 |
+| Earnings/sale* | $119.88 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | mdinet |
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Sichtbarkeits-Masterclass - Der Aufbau einer Personenmarke? — Typ: Member area and video courses, Anbieter: mdinet, gelistet seit 2020-03-23
-- Wie viel kostet es? — 239.59764900000002 USD
+- Wie viel kostet es? — 239.747652 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Sichtbarkeits-Masterclass - Der Aufbau einer Personenmarke Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/314882
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/314882/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Sichtbarkeits-Masterclass%20-%20Der%20Aufbau%20einer%20Personenmarke
 
 ## 4. Editorial notes

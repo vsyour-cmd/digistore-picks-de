@@ -4,16 +4,16 @@ digistore24_product_id: 728953
 title: "Metaleve Germany"
 vendor: "DS24-nordinary"
 product_type: "Supplements - health"
-price: 127.17
+price: 127.25
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 76.3
+earnings_per_sale: 76.35
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2026-09-14"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://metaleve.com/home-page-de/?aff=adminstore#aff=adminstore"
 sales_page: "https://metaleve.com/home-page-de/"
@@ -22,16 +22,16 @@ language: "de"
 # Metaleve Germany
 
 > Product ID `59222` · Digistore24 productId `728953` · [HTML profile page](../../produkte/metaleve-germany-59222.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $127.17 (Single payment) |
+| Price | $127.25 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $76.30 |
+| Earnings/sale* | $76.35 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DS24-nordinary |
@@ -94,14 +94,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Metaleve Germany? — Typ: Supplements - health, Anbieter: DS24-nordinary, gelistet seit 2026-09-14
-- Wie viel kostet es? — 127.172694 USD
+- Wie viel kostet es? — 127.25231199999999 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Metaleve Germany Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/728953
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/728953/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Metaleve%20Germany
 
 ## 4. Editorial notes

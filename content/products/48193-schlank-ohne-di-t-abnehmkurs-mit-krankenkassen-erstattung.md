@@ -4,34 +4,34 @@ digistore24_product_id: 548679
 title: "Schlank ohne Diät: Abnehmkurs mit Krankenkassen-Erstattung"
 vendor: "fitnessdoc"
 product_type: "Member area and video courses"
-price: 127.35
+price: 127.43
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 29.06
+earnings_per_sale: 29.08
 cart_conversion_pct: 9
 cancel_rate_pct: 7.69
 categories: ["Health & Fitness"]
 listed_since: "2024-04-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/48193/adminstore/"
+promo_link: "https://fitnessdoc.net/sod/?aff=adminstore#aff=adminstore"
 sales_page: "https://fitnessdoc.net/sod/"
 language: "de"
 ---
 # Schlank ohne Diät: Abnehmkurs mit Krankenkassen-Erstattung
 
 > Product ID `48193` · Digistore24 productId `548679` · [HTML profile page](../../produkte/schlank-ohne-di-t-abnehmkurs-mit-krankenkassen-erstattung-48193.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $127.35 (Single payment) |
+| Price | $127.43 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $29.06 |
+| Earnings/sale* | $29.08 |
 | Cart conversion* | 9% |
 | Cancel rate* | 7.69% |
 | Vendor | fitnessdoc |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/48193/adminstore/
+- **Promo link (affiliate):** https://fitnessdoc.net/sod/?aff=adminstore#aff=adminstore
 - Sales page: https://fitnessdoc.net/sod/
 - Vendor affiliate support: https://fitnessdoc.net/affiliate-support-page-sod/
 - Canonical redirect: https://www.digistore24.com/redir/548679/adminstore
@@ -93,14 +93,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Schlank ohne Diät: Abnehmkurs mit Krankenkassen-Erstattung? — Typ: Member area and video courses, Anbieter: fitnessdoc, gelistet seit 2024-04-18
-- Wie viel kostet es? — 127.35159000000002 USD
+- Wie viel kostet es? — 127.43132000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Schlank ohne Diät: Abnehmkurs mit Krankenkassen-Erstattung Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/548679
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/548679/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Schlank%20ohne%20Di%C3%A4t%3A%20Abnehmkurs%20mit%20Krankenkassen-Erstattung
 
 ## 4. Editorial notes

@@ -4,34 +4,34 @@ digistore24_product_id: 376915
 title: "Der einfachste Verkaufs-Funnel der Welt (vifugo)"
 vendor: "vifugo"
 product_type: "Member area and video courses"
-price: 1130.72
+price: 1131.43
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 187.89
+earnings_per_sale: 188
 cart_conversion_pct: 11
 cancel_rate_pct: 2.48
 categories: ["Software"]
 listed_since: "2021-03-02"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/38087/adminstore/"
+promo_link: "https://www.vifugo.com?aff=adminstore#aff=adminstore"
 sales_page: "https://www.vifugo.com"
 language: "de"
 ---
 # Der einfachste Verkaufs-Funnel der Welt (vifugo)
 
 > Product ID `38087` · Digistore24 productId `376915` · [HTML profile page](../../produkte/der-einfachste-verkaufs-funnel-der-welt-vifugo-38087.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1130.72 (Subscription) |
+| Price | $1131.43 (Subscription) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $187.89 |
+| Earnings/sale* | $188.00 |
 | Cart conversion* | 11% |
 | Cancel rate* | 2.48% |
 | Vendor | vifugo |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/38087/adminstore/
+- **Promo link (affiliate):** https://www.vifugo.com?aff=adminstore#aff=adminstore
 - Sales page: https://www.vifugo.com
 - Vendor affiliate support: https://support.vifugo.com/hc/de/articles/4410557921169-Gibt-es-von-vifugo-auch-ein-Partner-Affiliate-Programm
 - Canonical redirect: https://www.digistore24.com/redir/376915/adminstore
@@ -90,14 +90,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der einfachste Verkaufs-Funnel der Welt (vifugo)? — Typ: Member area and video courses, Anbieter: vifugo, gelistet seit 2021-03-02
-- Wie viel kostet es? — 1130.723349 USD
+- Wie viel kostet es? — 1131.431252 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Der einfachste Verkaufs-Funnel der Welt (vifugo) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/376915
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/376915/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%20einfachste%20Verkaufs-Funnel%20der%20Welt%20(vifugo)
 
 ## 4. Editorial notes

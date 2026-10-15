@@ -4,34 +4,34 @@ digistore24_product_id: 438749
 title: "Online-Kurs: Profiling Masterclass"
 vendor: "GRUENDERPILOT"
 product_type: "Member area and video courses"
-price: 939.58
+price: 940.17
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 234.9
+earnings_per_sale: 235.05
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2022-04-13"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
-promo_link: "https://www.digistore24.com/redir/41413/adminstore/"
+promo_link: "https://www.profiling.me/masterclass/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.profiling.me/masterclass/"
 language: "de"
 ---
 # Online-Kurs: Profiling Masterclass
 
 > Product ID `41413` · Digistore24 productId `438749` · [HTML profile page](../../produkte/online-kurs-profiling-masterclass-41413.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $939.58 (Single payment, Installment) |
+| Price | $940.17 (Single payment, Installment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $234.90 |
+| Earnings/sale* | $235.05 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | GRUENDERPILOT |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/41413/adminstore/
+- **Promo link (affiliate):** https://www.profiling.me/masterclass/?aff=adminstore#aff=adminstore
 - Sales page: https://www.profiling.me/masterclass/
 - Vendor affiliate support: https://www.profiling.me/affiliate/#expert
 - Canonical redirect: https://www.digistore24.com/redir/438749/adminstore
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online-Kurs: Profiling Masterclass? — Typ: Member area and video courses, Anbieter: GRUENDERPILOT, gelistet seit 2022-04-13
-- Wie viel kostet es? — 939.5841540000001 USD
+- Wie viel kostet es? — 940.1723920000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Online-Kurs: Profiling Masterclass Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/438749
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/438749/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Online-Kurs%3A%20Profiling%20Masterclass
 
 ## 4. Editorial notes

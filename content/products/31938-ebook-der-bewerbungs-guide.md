@@ -4,7 +4,7 @@ digistore24_product_id: 313274
 title: "eBook: Der Bewerbungs-Guide"
 vendor: "FH360GradBewerbung"
 product_type: "E-books"
-price: 10.34
+price: 10.35
 currency: "USD"
 affiliate_commission_pct: 0
 earnings_per_sale: 5.59
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2020-03-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/product/313274?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/313274"
@@ -22,14 +22,14 @@ language: "de"
 # eBook: Der Bewerbungs-Guide
 
 > Product ID `31938` · Digistore24 productId `313274` · [HTML profile page](../../produkte/ebook-der-bewerbungs-guide-31938.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.34 (Single payment) |
+| Price | $10.35 (Single payment) |
 | Affiliate commission | 0% |
 | Earnings/sale* | $5.59 |
 | Cart conversion* | — |
@@ -69,14 +69,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist eBook: Der Bewerbungs-Guide? — Typ: E-books, Anbieter: FH360GradBewerbung, gelistet seit 2020-03-17
-- Wie viel kostet es? — 10.342425 USD
+- Wie viel kostet es? — 10.3489 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: eBook: Der Bewerbungs-Guide Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/313274
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/313274/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=eBook%3A%20Der%20Bewerbungs-Guide
 
 ## 4. Editorial notes

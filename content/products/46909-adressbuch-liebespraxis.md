@@ -4,32 +4,32 @@ digistore24_product_id: 535521
 title: "Adressbuch Liebespraxis"
 vendor: "FreimutSelbst"
 product_type: "E-books"
-price: 8.36
+price: 8.37
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 0.84
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Dating, Relationships & Romance","Fun & Games","Health & Fitness"]
+categories: ["Health & Fitness","Dating, Relationships & Romance","Fun & Games"]
 listed_since: "2024-01-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/46909/adminstore/"
+promo_link: "https://freimutselbst.com/bookshop.html?aff=adminstore#aff=adminstore"
 sales_page: "https://freimutselbst.com/bookshop.html"
 language: "de"
 ---
 # Adressbuch Liebespraxis
 
 > Product ID `46909` · Digistore24 productId `535521` · [HTML profile page](../../produkte/adressbuch-liebespraxis-46909.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $8.36 (Single payment) |
+| Price | $8.37 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $0.84 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | FreimutSelbst |
 | Listed since | 2024-01-22 |
 | Auto-accept affiliates | yes |
-| Categories | Dating, Relationships & Romance, Fun & Games, Health & Fitness |
+| Categories | Health & Fitness, Dating, Relationships & Romance, Fun & Games |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/46909/adminstore/
+- **Promo link (affiliate):** https://freimutselbst.com/bookshop.html?aff=adminstore#aff=adminstore
 - Sales page: https://freimutselbst.com/bookshop.html
 - Canonical redirect: https://www.digistore24.com/redir/535521/adminstore
 
@@ -66,14 +66,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Adressbuch Liebespraxis? — Typ: E-books, Anbieter: FreimutSelbst, gelistet seit 2024-01-22
-- Wie viel kostet es? — 8.363388 USD
+- Wie viel kostet es? — 8.368624 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Adressbuch Liebespraxis Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/535521
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/535521/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Adressbuch%20Liebespraxis
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 586859
 title: "Done-for-you-Business"
 vendor: "digitalesonlinebusiness"
 product_type: "Remote service provided electronically"
-price: 570.23
+price: 570.59
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 171.07
+earnings_per_sale: 171.18
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2024-12-19"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://altersvorsorgevierzigplus.funnelcockpit.com/done-for-you-business/?aff=adminstore#aff=adminstore"
 sales_page: "https://altersvorsorgevierzigplus.funnelcockpit.com/done-for-you-business/"
@@ -22,16 +22,16 @@ language: "de"
 # Done-for-you-Business
 
 > Product ID `54248` · Digistore24 productId `586859` · [HTML profile page](../../produkte/done-for-you-business-54248.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $570.23 (Single payment, Installment) |
+| Price | $570.59 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $171.07 |
+| Earnings/sale* | $171.18 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | digitalesonlinebusiness |
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Done-for-you-Business? — Typ: Remote service provided electronically, Anbieter: digitalesonlinebusiness, gelistet seit 2024-12-19
-- Wie viel kostet es? — 570.231 USD
+- Wie viel kostet es? — 570.588 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Done-for-you-Business Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/586859
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/586859/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Done-for-you-Business
 
 ## 4. Editorial notes

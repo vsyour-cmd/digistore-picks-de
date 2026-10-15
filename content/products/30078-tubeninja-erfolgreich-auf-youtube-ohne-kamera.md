@@ -4,16 +4,16 @@ digistore24_product_id: 288160
 title: "TubeNinja - Erfolgreich auf YouTube ohne Kamera"
 vendor: "Rules5Hacks"
 product_type: "Member area and video courses"
-price: 546.84
+price: 547.18
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 218.73
+earnings_per_sale: 218.87
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2019-09-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://tubeninja.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://tubeninja.de/"
@@ -22,16 +22,16 @@ language: "de"
 # TubeNinja - Erfolgreich auf YouTube ohne Kamera
 
 > Product ID `30078` · Digistore24 productId `288160` · [HTML profile page](../../produkte/tubeninja-erfolgreich-auf-youtube-ohne-kamera-30078.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $546.84 (Single payment, Installment) |
+| Price | $547.18 (Single payment, Installment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $218.73 |
+| Earnings/sale* | $218.87 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Rules5Hacks |
@@ -80,14 +80,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist TubeNinja - Erfolgreich auf YouTube ohne Kamera? — Typ: Member area and video courses, Anbieter: Rules5Hacks, gelistet seit 2019-09-26
-- Wie viel kostet es? — 546.8403480000001 USD
+- Wie viel kostet es? — 547.182704 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: TubeNinja - Erfolgreich auf YouTube ohne Kamera Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/288160
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/288160/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=TubeNinja%20-%20Erfolgreich%20auf%20YouTube%20ohne%20Kamera
 
 ## 4. Editorial notes

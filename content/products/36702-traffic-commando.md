@@ -4,16 +4,16 @@ digistore24_product_id: 383261
 title: "Traffic Commando"
 vendor: "sattelitevendor"
 product_type: "Member area and video courses"
-price: 25.06
+price: 25.07
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 155
+earnings_per_sale: 155.1
 cart_conversion_pct: 10
 cancel_rate_pct: 2.03
 categories: ["Online Marketing & E-Business"]
 listed_since: "2021-04-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://traffic-commando.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://traffic-commando.com/"
@@ -22,16 +22,16 @@ language: "de"
 # Traffic Commando
 
 > Product ID `36702` · Digistore24 productId `383261` · [HTML profile page](../../produkte/traffic-commando-36702.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $25.06 (Single payment, Installment) |
+| Price | $25.07 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $155.00 |
+| Earnings/sale* | $155.10 |
 | Cart conversion* | 10% |
 | Cancel rate* | 2.03% |
 | Vendor | sattelitevendor |
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Traffic Commando? — Typ: Member area and video courses, Anbieter: sattelitevendor, gelistet seit 2021-04-08
-- Wie viel kostet es? — 25.056621000000003 USD
+- Wie viel kostet es? — 25.072308 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Traffic Commando Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/383261
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/383261/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Traffic%20Commando
 
 ## 4. Editorial notes

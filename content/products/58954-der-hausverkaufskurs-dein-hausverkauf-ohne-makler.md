@@ -4,16 +4,16 @@ digistore24_product_id: 729362
 title: "Der Hausverkaufskurs: Dein Hausverkauf ohne Makler - ..."
 vendor: "hausverkaufskurs"
 product_type: "Member area and video courses"
-price: 684.96
+price: 685.39
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 342.49
+earnings_per_sale: 342.7
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Real Estate","Sales Training"]
 listed_since: "2026-09-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/729362?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/729362"
@@ -22,16 +22,16 @@ language: "de"
 # Der Hausverkaufskurs: Dein Hausverkauf ohne Makler - ...
 
 > Product ID `58954` · Digistore24 productId `729362` · [HTML profile page](../../produkte/der-hausverkaufskurs-dein-hausverkauf-ohne-makler-58954.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $684.96 (Single payment, Installment) |
+| Price | $685.39 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $342.49 |
+| Earnings/sale* | $342.70 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | hausverkaufskurs |
@@ -83,14 +83,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Hausverkaufskurs: Dein Hausverkauf ohne Makler - ...? — Typ: Member area and video courses, Anbieter: hausverkaufskurs, gelistet seit 2026-09-05
-- Wie viel kostet es? — 684.959241 USD
+- Wie viel kostet es? — 685.388068 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Der Hausverkaufskurs: Dein Hausverkauf ohne Makler - ... Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/729362
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/729362/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%20Hausverkaufskurs%3A%20Dein%20Hausverkauf%20ohne%20Makler%20-%20...
 
 ## 4. Editorial notes

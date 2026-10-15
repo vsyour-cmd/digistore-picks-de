@@ -4,7 +4,7 @@ digistore24_product_id: 236650
 title: "Ready for Takeoff - Das Hörbuch für entspanntes Fliegen"
 vendor: "cockpitbuddy"
 product_type: "Downloads"
-price: 25.37
+price: 25.39
 currency: "USD"
 affiliate_commission_pct: 20
 earnings_per_sale: 5.08
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2018-08-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.cockpitbuddy.com/takeoff?aff=adminstore#aff=adminstore"
 sales_page: "https://www.cockpitbuddy.com/takeoff"
@@ -22,14 +22,14 @@ language: "de"
 # Ready for Takeoff - Das Hörbuch für entspanntes Fliegen
 
 > Product ID `26502` · Digistore24 productId `236650` · [HTML profile page](../../produkte/ready-for-takeoff-das-h-rbuch-f-r-entspanntes-fliegen-26502.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $25.37 (Single payment) |
+| Price | $25.39 (Single payment) |
 | Affiliate commission | 20% |
 | Earnings/sale* | $5.08 |
 | Cart conversion* | — |
@@ -74,14 +74,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ready for Takeoff - Das Hörbuch für entspanntes Fliegen? — Typ: Downloads, Anbieter: cockpitbuddy, gelistet seit 2018-08-15
-- Wie viel kostet es? — 25.369689000000005 USD
+- Wie viel kostet es? — 25.385572000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Ready for Takeoff - Das Hörbuch für entspanntes Fliegen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/236650
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/236650/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Ready%20for%20Takeoff%20-%20Das%20H%C3%B6rbuch%20f%C3%BCr%20entspanntes%20Fliegen
 
 ## 4. Editorial notes

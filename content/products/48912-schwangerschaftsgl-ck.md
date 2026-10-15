@@ -4,16 +4,16 @@ digistore24_product_id: 564702
 title: "Schwangerschaftsglück"
 vendor: "MamaAlice"
 product_type: "E-books"
-price: 40.74
+price: 40.77
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 20.37
+earnings_per_sale: 20.38
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Dating, Relationships & Romance","Education","Family & Children"]
+categories: ["Dating, Relationships & Romance","Family & Children","Education"]
 listed_since: "2024-08-10"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/564702?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/564702"
@@ -22,22 +22,22 @@ language: "de"
 # Schwangerschaftsglück
 
 > Product ID `48912` · Digistore24 productId `564702` · [HTML profile page](../../produkte/schwangerschaftsgl-ck-48912.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $40.74 (Single payment) |
+| Price | $40.77 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $20.37 |
+| Earnings/sale* | $20.38 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MamaAlice |
 | Listed since | 2024-08-10 |
 | Auto-accept affiliates | yes |
-| Categories | Dating, Relationships & Romance, Education, Family & Children |
+| Categories | Dating, Relationships & Romance, Family & Children, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Schwangerschaftsglück? — Typ: E-books, Anbieter: MamaAlice, gelistet seit 2024-08-10
-- Wie viel kostet es? — 40.743564 USD
+- Wie viel kostet es? — 40.769072 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Schwangerschaftsglück Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/564702
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/564702/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Schwangerschaftsgl%C3%BCck
 
 ## 4. Editorial notes

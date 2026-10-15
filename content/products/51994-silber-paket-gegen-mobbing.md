@@ -4,16 +4,16 @@ digistore24_product_id: 563850
 title: "Silber-Paket gegen Mobbing!"
 vendor: "walk-around-the-world"
 product_type: "Member area and video courses"
-price: 648.31
+price: 648.71
 currency: "USD"
 affiliate_commission_pct: 33
-earnings_per_sale: 213.94
+earnings_per_sale: 214.07
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Family & Children","Profession & Job"]
+categories: ["Family & Children","Profession & Job","Education"]
 listed_since: "2024-08-03"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://rinaldo-inabnit-5.mstrpages.com?aff=adminstore#aff=adminstore"
 sales_page: "https://rinaldo-inabnit-5.mstrpages.com"
@@ -22,22 +22,22 @@ language: "de"
 # Silber-Paket gegen Mobbing!
 
 > Product ID `51994` · Digistore24 productId `563850` · [HTML profile page](../../produkte/silber-paket-gegen-mobbing-51994.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $648.31 (Subscription) |
+| Price | $648.71 (Subscription) |
 | Affiliate commission | 33% |
-| Earnings/sale* | $213.94 |
+| Earnings/sale* | $214.07 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | walk-around-the-world |
 | Listed since | 2024-08-03 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Family & Children, Profession & Job |
+| Categories | Family & Children, Profession & Job, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -80,14 +80,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Silber-Paket gegen Mobbing!? — Typ: Member area and video courses, Anbieter: walk-around-the-world, gelistet seit 2024-08-03
-- Wie viel kostet es? — 648.3079230000001 USD
+- Wie viel kostet es? — 648.7138040000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Silber-Paket gegen Mobbing! Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/563850
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/563850/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Silber-Paket%20gegen%20Mobbing!
 
 ## 4. Editorial notes

@@ -4,34 +4,34 @@ digistore24_product_id: 315825
 title: "Von der ANGST zur SICHERHEIT"
 vendor: "Mariposa75"
 product_type: "Downloads"
-price: 230.19
+price: 230.34
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 69.05
+earnings_per_sale: 69.1
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2020-03-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/34001/adminstore/"
+promo_link: "https://katja-amberg-shop.de/angst?aff=adminstore#aff=adminstore"
 sales_page: "https://katja-amberg-shop.de/angst"
 language: "de"
 ---
 # Von der ANGST zur SICHERHEIT
 
 > Product ID `34001` · Digistore24 productId `315825` · [HTML profile page](../../produkte/von-der-angst-zur-sicherheit-34001.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $230.19 (Single payment, Installment) |
+| Price | $230.34 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $69.05 |
+| Earnings/sale* | $69.10 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Mariposa75 |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/34001/adminstore/
+- **Promo link (affiliate):** https://katja-amberg-shop.de/angst?aff=adminstore#aff=adminstore
 - Sales page: https://katja-amberg-shop.de/angst
 - Canonical redirect: https://www.digistore24.com/redir/315825/adminstore
 
@@ -90,14 +90,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Von der ANGST zur SICHERHEIT? — Typ: Downloads, Anbieter: Mariposa75, gelistet seit 2020-03-26
-- Wie viel kostet es? — 230.19442800000002 USD
+- Wie viel kostet es? — 230.33854399999998 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Von der ANGST zur SICHERHEIT Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/315825
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/315825/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Von%20der%20ANGST%20zur%20SICHERHEIT
 
 ## 4. Editorial notes

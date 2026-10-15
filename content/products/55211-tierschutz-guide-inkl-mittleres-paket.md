@@ -4,34 +4,34 @@ digistore24_product_id: 616650
 title: "Tierschutz-Guide – inkl. Mittleres Paket"
 vendor: "Tierheimsponsoring"
 product_type: "Downloads"
-price: 236.77
+price: 236.92
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 59.19
+earnings_per_sale: 59.23
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2025-06-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/55211/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/616650?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/616650"
 language: "de"
 ---
 # Tierschutz-Guide – inkl. Mittleres Paket
 
 > Product ID `55211` · Digistore24 productId `616650` · [HTML profile page](../../produkte/tierschutz-guide-inkl-mittleres-paket-55211.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $236.77 (Subscription) |
+| Price | $236.92 (Subscription) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $59.19 |
+| Earnings/sale* | $59.23 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Tierheimsponsoring |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55211/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/616650?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/616650
 - Canonical redirect: https://www.digistore24.com/redir/616650/adminstore
 
@@ -86,14 +86,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Tierschutz-Guide – inkl. Mittleres Paket? — Typ: Downloads, Anbieter: Tierheimsponsoring, gelistet seit 2025-06-04
-- Wie viel kostet es? — 236.768856 USD
+- Wie viel kostet es? — 236.917088 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Tierschutz-Guide – inkl. Mittleres Paket Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/616650
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/616650/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Tierschutz-Guide%20%E2%80%93%20inkl.%20Mittleres%20Paket
 
 ## 4. Editorial notes

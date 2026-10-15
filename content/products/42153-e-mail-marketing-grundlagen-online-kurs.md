@@ -12,17 +12,17 @@ cart_conversion_pct: 21
 cancel_rate_pct: 0.64
 categories: ["Email Marketing"]
 listed_since: "2022-12-14"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/42153/adminstore/"
+promo_link: "https://www.webpirat.de/webpirat-membership/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.webpirat.de/webpirat-membership/"
 language: "de"
 ---
 # E-Mail Marketing Grundlagen Online Kurs
 
 > Product ID `42153` · Digistore24 productId `474841` · [HTML profile page](../../produkte/e-mail-marketing-grundlagen-online-kurs-42153.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/42153/adminstore/
+- **Promo link (affiliate):** https://www.webpirat.de/webpirat-membership/?aff=adminstore#aff=adminstore
 - Sales page: https://www.webpirat.de/webpirat-membership/
 - Vendor affiliate support: https://www.webpirat.de/werde-affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/474841/adminstore
@@ -73,14 +73,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist E-Mail Marketing Grundlagen Online Kurs? — Typ: Member area and video courses, Anbieter: webpirat, gelistet seit 2022-12-14
-- Wie viel kostet es? — 0.40251600000000004 USD
+- Wie viel kostet es? — 0.402768 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: E-Mail Marketing Grundlagen Online Kurs Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/474841
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/474841/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=E-Mail%20Marketing%20Grundlagen%20Online%20Kurs
 
 ## 4. Editorial notes

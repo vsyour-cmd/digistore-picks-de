@@ -4,16 +4,16 @@ digistore24_product_id: 488356
 title: "Microsoft Excel Grundlagen Intensivkurs"
 vendor: "Trainstitute"
 product_type: "Member area and video courses"
-price: 23.26
+price: 23.27
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 33.63
+earnings_per_sale: 33.65
 cart_conversion_pct: 12
 cancel_rate_pct: 0
 categories: ["Computer & Internet"]
 listed_since: "2023-03-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://video-schulungen.de/courses/excel-grundlagen/?aff=adminstore#aff=adminstore"
 sales_page: "https://video-schulungen.de/courses/excel-grundlagen/"
@@ -22,16 +22,16 @@ language: "de"
 # Microsoft Excel Grundlagen Intensivkurs
 
 > Product ID `44158` · Digistore24 productId `488356` · [HTML profile page](../../produkte/microsoft-excel-grundlagen-intensivkurs-44158.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $23.26 (Single payment, Installment) |
+| Price | $23.27 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $33.63 |
+| Earnings/sale* | $33.65 |
 | Cart conversion* | 12% |
 | Cancel rate* | 0% |
 | Vendor | Trainstitute |
@@ -83,14 +83,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Microsoft Excel Grundlagen Intensivkurs? — Typ: Member area and video courses, Anbieter: Trainstitute, gelistet seit 2023-03-09
-- Wie viel kostet es? — 23.256480000000003 USD
+- Wie viel kostet es? — 23.271040000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Microsoft Excel Grundlagen Intensivkurs Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/488356
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/488356/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Microsoft%20Excel%20Grundlagen%20Intensivkurs
 
 ## 4. Editorial notes

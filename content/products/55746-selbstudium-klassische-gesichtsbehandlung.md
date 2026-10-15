@@ -4,7 +4,7 @@ digistore24_product_id: 671942
 title: "Selbstudium  Klassische Gesichtsbehandlung"
 vendor: "xxbeautyliciousbysun8aec"
 product_type: "Downloads"
-price: 37.58
+price: 37.6
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 3.76
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2026-02-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/671942?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/671942"
@@ -22,14 +22,14 @@ language: "de"
 # Selbstudium  Klassische Gesichtsbehandlung
 
 > Product ID `55746` · Digistore24 productId `671942` · [HTML profile page](../../produkte/selbstudium-klassische-gesichtsbehandlung-55746.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $37.58 (Single payment) |
+| Price | $37.60 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $3.76 |
 | Cart conversion* | — |
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Selbstudium  Klassische Gesichtsbehandlung? — Typ: Downloads, Anbieter: xxbeautyliciousbysun8aec, gelistet seit 2026-02-26
-- Wie viel kostet es? — 37.579341 USD
+- Wie viel kostet es? — 37.602868 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Selbstudium  Klassische Gesichtsbehandlung Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/671942
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/671942/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Selbstudium%20%20Klassische%20Gesichtsbehandlung
 
 ## 4. Editorial notes

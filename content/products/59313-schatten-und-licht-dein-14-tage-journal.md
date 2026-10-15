@@ -4,7 +4,7 @@ digistore24_product_id: 732563
 title: "Schatten und Licht – Dein 14-Tage-Journal"
 vendor: "entdeckerei"
 product_type: "Downloads"
-price: 12.21
+price: 12.22
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 1.22
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-09-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/59313/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/732563?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/732563"
 language: "de"
 ---
 # Schatten und Licht – Dein 14-Tage-Journal
 
 > Product ID `59313` · Digistore24 productId `732563` · [HTML profile page](../../produkte/schatten-und-licht-dein-14-tage-journal-59313.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $12.21 (Single payment) |
+| Price | $12.22 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $1.22 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59313/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/732563?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/732563
 - Canonical redirect: https://www.digistore24.com/redir/732563/adminstore
 
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Schatten und Licht – Dein 14-Tage-Journal? — Typ: Downloads, Anbieter: entdeckerei, gelistet seit 2026-09-17
-- Wie viel kostet es? — 12.209652 USD
+- Wie viel kostet es? — 12.217296 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Schatten und Licht – Dein 14-Tage-Journal Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/732563
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/732563/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Schatten%20und%20Licht%20%E2%80%93%20Dein%2014-Tage-Journal
 
 ## 4. Editorial notes

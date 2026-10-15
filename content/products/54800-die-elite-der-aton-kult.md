@@ -4,16 +4,16 @@ digistore24_product_id: 651840
 title: "Die „Elite“ Der Aton-Kult"
 vendor: "Axel-Schoenfelder"
 product_type: "E-books"
-price: 58.92
+price: 58.96
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 20.96
+earnings_per_sale: 20.98
 cart_conversion_pct: 2
 cancel_rate_pct: 0
-categories: ["Education","Personal Development","Politics & Economy"]
+categories: ["Personal Development","Education","Politics & Economy"]
 listed_since: "2025-11-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/651840?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/651840"
@@ -22,22 +22,22 @@ language: "de"
 # Die „Elite“ Der Aton-Kult
 
 > Product ID `54800` · Digistore24 productId `651840` · [HTML profile page](../../produkte/die-elite-der-aton-kult-54800.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $58.92 (Single payment) |
+| Price | $58.96 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $20.96 |
+| Earnings/sale* | $20.98 |
 | Cart conversion* | 2% |
 | Cancel rate* | 0% |
 | Vendor | Axel-Schoenfelder |
 | Listed since | 2025-11-29 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Personal Development, Politics & Economy |
+| Categories | Personal Development, Education, Politics & Economy |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die „Elite“ Der Aton-Kult? — Typ: E-books, Anbieter: Axel-Schoenfelder, gelistet seit 2025-11-29
-- Wie viel kostet es? — 58.92387000000001 USD
+- Wie viel kostet es? — 58.96076000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Die „Elite“ Der Aton-Kult Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/651840
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/651840/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Die%20%E2%80%9EElite%E2%80%9C%20Der%20Aton-Kult
 
 ## 4. Editorial notes

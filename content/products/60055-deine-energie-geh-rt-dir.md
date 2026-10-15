@@ -4,7 +4,7 @@ digistore24_product_id: 738771
 title: "Deine Energie gehört dir"
 vendor: "entdeckerei"
 product_type: "Downloads"
-price: 17.86
+price: 17.87
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 1.79
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-09-30"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/60055/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/738771?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/738771"
 language: "de"
 ---
 # Deine Energie gehört dir
 
 > Product ID `60055` · Digistore24 productId `738771` · [HTML profile page](../../produkte/deine-energie-geh-rt-dir-60055.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $17.86 (Single payment) |
+| Price | $17.87 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $1.79 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/60055/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/738771?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/738771
 - Canonical redirect: https://www.digistore24.com/redir/738771/adminstore
 
@@ -76,14 +76,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Deine Energie gehört dir? — Typ: Downloads, Anbieter: entdeckerei, gelistet seit 2026-09-30
-- Wie viel kostet es? — 17.856057000000003 USD
+- Wie viel kostet es? — 17.867236000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Deine Energie gehört dir Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/738771
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/738771/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Deine%20Energie%20geh%C3%B6rt%20dir
 
 ## 4. Editorial notes

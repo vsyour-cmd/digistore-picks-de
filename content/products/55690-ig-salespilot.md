@@ -4,16 +4,16 @@ digistore24_product_id: 595193
 title: "IG SalesPilot"
 vendor: "seotech"
 product_type: "Member area and video courses"
-price: 310.04
+price: 310.23
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 111.16
+earnings_per_sale: 111.23
 cart_conversion_pct: 10
 cancel_rate_pct: 0.77
 categories: ["Computer & Internet","Online Marketing & E-Business","Social Media"]
 listed_since: "2025-02-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://go.eugen-grinschuk.de/ig-salespilot/?aff=adminstore#aff=adminstore"
 sales_page: "https://go.eugen-grinschuk.de/ig-salespilot/"
@@ -22,16 +22,16 @@ language: "de"
 # IG SalesPilot
 
 > Product ID `55690` · Digistore24 productId `595193` · [HTML profile page](../../produkte/ig-salespilot-55690.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $310.04 (Single payment, Installment) |
+| Price | $310.23 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $111.16 |
+| Earnings/sale* | $111.23 |
 | Cart conversion* | 10% |
 | Cancel rate* | 0.77% |
 | Vendor | seotech |
@@ -66,14 +66,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist IG SalesPilot? — Typ: Member area and video courses, Anbieter: seotech, gelistet seit 2025-02-09
-- Wie viel kostet es? — 310.037949 USD
+- Wie viel kostet es? — 310.232052 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: IG SalesPilot Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/595193
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/595193/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=IG%20SalesPilot
 
 ## 4. Editorial notes

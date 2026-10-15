@@ -4,16 +4,16 @@ digistore24_product_id: 663881
 title: "Katzenhumor - Minka und Leos verrückter Alltag"
 vendor: "werni1"
 product_type: "Audio book (download)"
-price: 30.3
+price: 30.32
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 15.15
+earnings_per_sale: 15.16
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-01-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://page.funnelcockpit.com/8apLDLGBxyW7oHBWa?aff=adminstore#aff=adminstore"
 sales_page: "https://page.funnelcockpit.com/8apLDLGBxyW7oHBWa"
@@ -22,16 +22,16 @@ language: "de"
 # Katzenhumor - Minka und Leos verrückter Alltag
 
 > Product ID `55396` · Digistore24 productId `663881` · [HTML profile page](../../produkte/katzenhumor-minka-und-leos-verr-ckter-alltag-55396.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Audio book (download) |
-| Price | $30.30 (Single payment) |
+| Price | $30.32 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $15.15 |
+| Earnings/sale* | $15.16 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | werni1 |
@@ -66,14 +66,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Katzenhumor - Minka und Leos verrückter Alltag? — Typ: Audio book (download), Anbieter: werni1, gelistet seit 2026-01-24
-- Wie viel kostet es? — 30.300510000000003 USD
+- Wie viel kostet es? — 30.319480000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Katzenhumor - Minka und Leos verrückter Alltag Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/663881
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/663881/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Katzenhumor%20-%20Minka%20und%20Leos%20verr%C3%BCckter%20Alltag
 
 ## 4. Editorial notes

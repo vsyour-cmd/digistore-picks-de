@@ -4,16 +4,16 @@ digistore24_product_id: 741706
 title: "Mit KI Gedl verdienen in 2026"
 vendor: "VeloxForge"
 product_type: "E-books"
-price: 103.45
+price: 103.51
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 51.72
+earnings_per_sale: 51.76
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-10-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://auranit.de/mit-ki-geld-verdienen/?aff=adminstore#aff=adminstore"
 sales_page: "https://auranit.de/mit-ki-geld-verdienen/"
@@ -22,16 +22,16 @@ language: "de"
 # Mit KI Gedl verdienen in 2026
 
 > Product ID `60250` · Digistore24 productId `741706` · [HTML profile page](../../produkte/mit-ki-gedl-verdienen-in-2026-60250.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $103.45 (Single payment) |
+| Price | $103.51 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $51.72 |
+| Earnings/sale* | $51.76 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | VeloxForge |
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mit KI Gedl verdienen in 2026? — Typ: E-books, Anbieter: VeloxForge, gelistet seit 2026-10-06
-- Wie viel kostet es? — 103.446612 USD
+- Wie viel kostet es? — 103.511376 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Mit KI Gedl verdienen in 2026 Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/741706
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/741706/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Mit%20KI%20Gedl%20verdienen%20in%202026
 
 ## 4. Editorial notes

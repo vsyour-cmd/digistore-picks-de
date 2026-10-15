@@ -4,7 +4,7 @@ digistore24_product_id: 305512
 title: "Durchstarter Programm - Rein in die Selbstständigkeit"
 vendor: "coach-felix"
 product_type: "Member area and video courses"
-price: 32.42
+price: 32.45
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 3.24
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2020-01-28"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/41763/adminstore/"
+promo_link: "https://felix.team/gruenderpaket?aff=adminstore#aff=adminstore"
 sales_page: "https://felix.team/gruenderpaket"
 language: "de"
 ---
 # Durchstarter Programm - Rein in die Selbstständigkeit
 
 > Product ID `41763` · Digistore24 productId `305512` · [HTML profile page](../../produkte/durchstarter-programm-rein-in-die-selbstst-ndigkeit-41763.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $32.42 (Single payment) |
+| Price | $32.45 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $3.24 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/41763/adminstore/
+- **Promo link (affiliate):** https://felix.team/gruenderpaket?aff=adminstore#aff=adminstore
 - Sales page: https://felix.team/gruenderpaket
 - Canonical redirect: https://www.digistore24.com/redir/305512/adminstore
 
@@ -87,14 +87,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Durchstarter Programm - Rein in die Selbstständigkeit? — Typ: Member area and video courses, Anbieter: coach-felix, gelistet seit 2020-01-28
-- Wie viel kostet es? — 32.4249 USD
+- Wie viel kostet es? — 32.4452 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Durchstarter Programm - Rein in die Selbstständigkeit Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/305512
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/305512/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Durchstarter%20Programm%20-%20Rein%20in%20die%20Selbstst%C3%A4ndigkeit
 
 ## 4. Editorial notes

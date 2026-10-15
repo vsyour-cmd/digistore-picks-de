@@ -4,7 +4,7 @@ digistore24_product_id: 466269
 title: "Energiekosten um bis zu 53,7% senken - ABO Provision!"
 vendor: "monetenwissen"
 product_type: "E-books"
-price: 22.19
+price: 22.21
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 3.47
@@ -12,8 +12,8 @@ cart_conversion_pct: 19
 cancel_rate_pct: 2.66
 categories: ["Family & Children"]
 listed_since: "2022-10-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://moneten-wissen.de/geld-sparen-inflation/?aff=adminstore#aff=adminstore"
 sales_page: "https://moneten-wissen.de/geld-sparen-inflation/"
@@ -22,14 +22,14 @@ language: "de"
 # Energiekosten um bis zu 53,7% senken - ABO Provision!
 
 > Product ID `41720` · Digistore24 productId `466269` · [HTML profile page](../../produkte/energiekosten-um-bis-zu-53-7-senken-abo-provision-41720.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $22.19 (Single payment) |
+| Price | $22.21 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $3.47 |
 | Cart conversion* | 19% |
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Energiekosten um bis zu 53,7% senken - ABO Provision!? — Typ: E-books, Anbieter: monetenwissen, gelistet seit 2022-10-24
-- Wie viel kostet es? — 22.194285000000004 USD
+- Wie viel kostet es? — 22.208180000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Energiekosten um bis zu 53,7% senken - ABO Provision! Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/466269
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/466269/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Energiekosten%20um%20bis%20zu%2053%2C7%25%20senken%20-%20ABO%20Provision!
 
 ## 4. Editorial notes

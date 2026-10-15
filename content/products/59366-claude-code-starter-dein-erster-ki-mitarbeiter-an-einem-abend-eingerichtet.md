@@ -4,16 +4,16 @@ digistore24_product_id: 729885
 title: "Claude Code Starter: Dein erster KI-Mitarbeiter, an einem Abend eingerichtet"
 vendor: "Mawarth"
 product_type: "Member area and video courses"
-price: 46.04
+price: 46.07
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 23.02
+earnings_per_sale: 23.04
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Profession & Job"]
 listed_since: "2026-09-19"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://mr-online-marketing.de/claude-starter?aff=adminstore#aff=adminstore"
 sales_page: "https://mr-online-marketing.de/claude-starter"
@@ -22,16 +22,16 @@ language: "de"
 # Claude Code Starter: Dein erster KI-Mitarbeiter, an einem Abend eingerichtet
 
 > Product ID `59366` · Digistore24 productId `729885` · [HTML profile page](../../produkte/claude-code-starter-dein-erster-ki-mitarbeiter-an-einem-abend-eingerichtet-59366.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $46.04 (Single payment) |
+| Price | $46.07 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $23.02 |
+| Earnings/sale* | $23.04 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Mawarth |
@@ -96,14 +96,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Claude Code Starter: Dein erster KI-Mitarbeiter, an einem Abend eingerichtet? — Typ: Member area and video courses, Anbieter: Mawarth, gelistet seit 2026-09-19
-- Wie viel kostet es? — 46.043358000000005 USD
+- Wie viel kostet es? — 46.072184 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Claude Code Starter: Dein erster KI-Mitarbeiter, an einem Abend eingerichtet Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/729885
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/729885/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Claude%20Code%20Starter%3A%20Dein%20erster%20KI-Mitarbeiter%2C%20an%20einem%20Abend%20eingerichtet
 
 ## 4. Editorial notes

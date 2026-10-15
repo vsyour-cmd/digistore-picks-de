@@ -4,7 +4,7 @@ digistore24_product_id: 694511
 title: "Krebs und Stoffwechsel. Wie ketogene Ernährung Perspektiven"
 vendor: "PERSOFIT"
 product_type: "E-books"
-price: 9.39
+price: 9.4
 currency: "USD"
 affiliate_commission_pct: 40
 earnings_per_sale: 3.76
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2026-05-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/694511?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/694511"
@@ -22,14 +22,14 @@ language: "de"
 # Krebs und Stoffwechsel. Wie ketogene Ernährung Perspektiven
 
 > Product ID `56650` · Digistore24 productId `694511` · [HTML profile page](../../produkte/krebs-und-stoffwechsel-wie-ketogene-ern-hrung-perspektiven-56650.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $9.39 (Single payment) |
+| Price | $9.40 (Single payment) |
 | Affiliate commission | 40% |
 | Earnings/sale* | $3.76 |
 | Cart conversion* | — |
@@ -77,14 +77,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Krebs und Stoffwechsel. Wie ketogene Ernährung Perspektiven? — Typ: E-books, Anbieter: PERSOFIT, gelistet seit 2026-05-22
-- Wie viel kostet es? — 9.392040000000001 USD
+- Wie viel kostet es? — 9.397920000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Krebs und Stoffwechsel. Wie ketogene Ernährung Perspektiven Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/694511
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/694511/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Krebs%20und%20Stoffwechsel.%20Wie%20ketogene%20Ern%C3%A4hrung%20Perspektiven
 
 ## 4. Editorial notes

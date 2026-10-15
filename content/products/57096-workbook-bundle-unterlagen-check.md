@@ -4,16 +4,16 @@ digistore24_product_id: 676905
 title: "Workbook-Bundle „Unterlagen-Check\""
 vendor: "Diveco"
 product_type: "E-books"
-price: 78.05
+price: 78.1
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 39.03
+earnings_per_sale: 39.06
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2026-06-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://heinzbader.com/workbook-bewerbrhandbuch-unterlagen-check-landingpage/?aff=adminstore#aff=adminstore"
 sales_page: "https://heinzbader.com/workbook-bewerbrhandbuch-unterlagen-check-landingpage/"
@@ -22,16 +22,16 @@ language: "de"
 # Workbook-Bundle „Unterlagen-Check"
 
 > Product ID `57096` · Digistore24 productId `676905` · [HTML profile page](../../produkte/workbook-bundle-unterlagen-check-57096.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $78.05 (Single payment) |
+| Price | $78.10 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $39.03 |
+| Earnings/sale* | $39.06 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Diveco |
@@ -92,14 +92,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Workbook-Bundle „Unterlagen-Check"? — Typ: E-books, Anbieter: Diveco, gelistet seit 2026-06-22
-- Wie viel kostet es? — 78.054561 USD
+- Wie viel kostet es? — 78.10342800000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Workbook-Bundle „Unterlagen-Check" Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/676905
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/676905/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Workbook-Bundle%20%E2%80%9EUnterlagen-Check%22
 
 ## 4. Editorial notes

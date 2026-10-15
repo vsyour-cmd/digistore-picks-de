@@ -4,7 +4,7 @@ digistore24_product_id: 567423
 title: "Online-Ukulelekurs für Anfänger"
 vendor: "AvaMusik"
 product_type: "Member area and video courses"
-price: 42.29
+price: 42.31
 currency: "USD"
 affiliate_commission_pct: 25
 earnings_per_sale: 10.58
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dancing & Music","Education"]
 listed_since: "2024-08-28"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/50479/adminstore/"
+promo_link: "https://ava-kirschstein.de/verkaufsseite/?aff=adminstore#aff=adminstore"
 sales_page: "https://ava-kirschstein.de/verkaufsseite/"
 language: "de"
 ---
 # Online-Ukulelekurs für Anfänger
 
 > Product ID `50479` · Digistore24 productId `567423` · [HTML profile page](../../produkte/online-ukulelekurs-f-r-anf-nger-50479.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $42.29 (Single payment) |
+| Price | $42.31 (Single payment) |
 | Affiliate commission | 25% |
 | Earnings/sale* | $10.58 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/50479/adminstore/
+- **Promo link (affiliate):** https://ava-kirschstein.de/verkaufsseite/?aff=adminstore#aff=adminstore
 - Sales page: https://ava-kirschstein.de/verkaufsseite/
 - Canonical redirect: https://www.digistore24.com/redir/567423/adminstore
 
@@ -74,14 +74,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online-Ukulelekurs für Anfänger? — Typ: Member area and video courses, Anbieter: AvaMusik, gelistet seit 2024-08-28
-- Wie viel kostet es? — 42.286542000000004 USD
+- Wie viel kostet es? — 42.313016 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Online-Ukulelekurs für Anfänger Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/567423
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/567423/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Online-Ukulelekurs%20f%C3%BCr%20Anf%C3%A4nger
 
 ## 4. Editorial notes

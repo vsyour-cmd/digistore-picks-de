@@ -12,8 +12,8 @@ cart_conversion_pct: 16
 cancel_rate_pct: 2.86
 categories: ["Business & Investment","Online Marketing & E-Business","Online Marketing"]
 listed_since: "2023-10-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
 promo_link: "https://www.kb-om.com/traffic-guide-ds24?aff=adminstore#aff=adminstore"
 sales_page: "https://www.kb-om.com/traffic-guide-ds24"
@@ -22,7 +22,7 @@ language: "de"
 # Affiliate Traffic-Guide (Freebie)
 
 > Product ID `45674` · Digistore24 productId `521235` · [HTML profile page](../../produkte/affiliate-traffic-guide-freebie-45674.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -65,14 +65,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Affiliate Traffic-Guide (Freebie)? — Typ: Member area and video courses, Anbieter: Plebvin, gelistet seit 2023-10-18
-- Wie viel kostet es? — 0.6261360000000001 USD
+- Wie viel kostet es? — 0.6265280000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Affiliate Traffic-Guide (Freebie) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/521235
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/521235/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Affiliate%20Traffic-Guide%20(Freebie)
 
 ## 4. Editorial notes

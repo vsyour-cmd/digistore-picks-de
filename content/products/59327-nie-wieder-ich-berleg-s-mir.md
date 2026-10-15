@@ -4,34 +4,34 @@ digistore24_product_id: 733257
 title: "Nie wieder \"Ich überleg's mir\""
 vendor: "ManfredKloos"
 product_type: "Downloads"
-price: 53.56
+price: 53.59
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 21.42
+earnings_per_sale: 21.44
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Marketing Services"]
 listed_since: "2026-09-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/59327/adminstore/"
+promo_link: "https://manfredkloos.de/call-scripte-fuer-coaches?aff=adminstore#aff=adminstore"
 sales_page: "https://manfredkloos.de/call-scripte-fuer-coaches"
 language: "de"
 ---
 # Nie wieder "Ich überleg's mir"
 
 > Product ID `59327` · Digistore24 productId `733257` · [HTML profile page](../../produkte/nie-wieder-ich-berleg-s-mir-59327.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $53.56 (Single payment) |
+| Price | $53.59 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $21.42 |
+| Earnings/sale* | $21.44 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ManfredKloos |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59327/adminstore/
+- **Promo link (affiliate):** https://manfredkloos.de/call-scripte-fuer-coaches?aff=adminstore#aff=adminstore
 - Sales page: https://manfredkloos.de/call-scripte-fuer-coaches
 - Canonical redirect: https://www.digistore24.com/redir/733257/adminstore
 
@@ -86,14 +86,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Nie wieder "Ich überleg's mir"? — Typ: Downloads, Anbieter: ManfredKloos, gelistet seit 2026-09-17
-- Wie viel kostet es? — 53.556990000000006 USD
+- Wie viel kostet es? — 53.59052 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Nie wieder "Ich überleg's mir" Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/733257
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/733257/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Nie%20wieder%20%22Ich%20%C3%BCberleg's%20mir%22
 
 ## 4. Editorial notes

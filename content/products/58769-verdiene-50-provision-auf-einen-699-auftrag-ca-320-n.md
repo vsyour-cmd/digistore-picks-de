@@ -4,34 +4,34 @@ digistore24_product_id: 726205
 title: "Verdiene 50 % Provision auf einen 699 €-Auftrag (ca. 320 € n"
 vendor: "info71bc"
 product_type: "Remote service provided electronically"
-price: 781.55
+price: 782.04
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 390.78
+earnings_per_sale: 391.02
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Online Marketing & E-Business","Services"]
 listed_since: "2026-08-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/58769/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/726205?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/726205"
 language: "de"
 ---
 # Verdiene 50 % Provision auf einen 699 €-Auftrag (ca. 320 € n
 
 > Product ID `58769` · Digistore24 productId `726205` · [HTML profile page](../../produkte/verdiene-50-provision-auf-einen-699-auftrag-ca-320-n-58769.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $781.55 (Subscription) |
+| Price | $782.04 (Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $390.78 |
+| Earnings/sale* | $391.02 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | info71bc |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58769/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/726205?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/726205
 - Vendor affiliate support: http://www.pm-hannover.de/affiliate
 - Canonical redirect: https://www.digistore24.com/redir/726205/adminstore
@@ -80,14 +80,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Verdiene 50 % Provision auf einen 699 €-Auftrag (ca. 320 € n? — Typ: Remote service provided electronically, Anbieter: info71bc, gelistet seit 2026-08-29
-- Wie viel kostet es? — 781.5519 USD
+- Wie viel kostet es? — 782.0412 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Verdiene 50 % Provision auf einen 699 €-Auftrag (ca. 320 € n Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/726205
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/726205/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Verdiene%2050%20%25%20Provision%20auf%20einen%20699%20%E2%82%AC-Auftrag%20(ca.%20320%20%E2%82%AC%20n
 
 ## 4. Editorial notes

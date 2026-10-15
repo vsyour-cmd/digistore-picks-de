@@ -4,16 +4,16 @@ digistore24_product_id: 656123
 title: "KI Prompt Generator"
 vendor: "DaveCrypto"
 product_type: "Downloads"
-price: 8.45
+price: 8.46
 currency: "USD"
 affiliate_commission_pct: 25
 earnings_per_sale: 2.11
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Computer & Internet","Online Marketing & E-Business","Software"]
+categories: ["Software","Computer & Internet","Online Marketing & E-Business"]
 listed_since: "2025-12-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/656123?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/656123"
@@ -22,14 +22,14 @@ language: "de"
 # KI Prompt Generator
 
 > Product ID `54950` · Digistore24 productId `656123` · [HTML profile page](../../produkte/ki-prompt-generator-54950.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $8.45 (Single payment) |
+| Price | $8.46 (Single payment) |
 | Affiliate commission | 25% |
 | Earnings/sale* | $2.11 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | DaveCrypto |
 | Listed since | 2025-12-17 |
 | Auto-accept affiliates | yes |
-| Categories | Computer & Internet, Online Marketing & E-Business, Software |
+| Categories | Software, Computer & Internet, Online Marketing & E-Business |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI Prompt Generator? — Typ: Downloads, Anbieter: DaveCrypto, gelistet seit 2025-12-17
-- Wie viel kostet es? — 8.452836 USD
+- Wie viel kostet es? — 8.458128 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: KI Prompt Generator Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/656123
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/656123/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=KI%20Prompt%20Generator
 
 ## 4. Editorial notes

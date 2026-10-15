@@ -4,7 +4,7 @@ digistore24_product_id: 681456
 title: "Verdiene 100% Provision auf Funnel Einstieg"
 vendor: "MSFS_2218"
 product_type: "Member area and video courses"
-price: 10.32
+price: 10.33
 currency: "USD"
 affiliate_commission_pct: 100
 earnings_per_sale: 1.45
@@ -12,8 +12,8 @@ cart_conversion_pct: 35
 cancel_rate_pct: 4.82
 categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2026-04-02"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://byebyehamsterrad.de/easy-membership-kickstart/?aff=adminstore#aff=adminstore"
 sales_page: "https://byebyehamsterrad.de/easy-membership-kickstart/"
@@ -22,14 +22,14 @@ language: "de"
 # Verdiene 100% Provision auf Funnel Einstieg
 
 > Product ID `56150` · Digistore24 productId `681456` · [HTML profile page](../../produkte/verdiene-100-provision-auf-funnel-einstieg-56150.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $10.32 (Single payment) |
+| Price | $10.33 (Single payment) |
 | Affiliate commission | 100% |
 | Earnings/sale* | $1.45 |
 | Cart conversion* | 35% |
@@ -80,14 +80,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Verdiene 100% Provision auf Funnel Einstieg? — Typ: Member area and video courses, Anbieter: MSFS_2218, gelistet seit 2026-04-02
-- Wie viel kostet es? — 10.320063000000001 USD
+- Wie viel kostet es? — 10.326524000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Verdiene 100% Provision auf Funnel Einstieg Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/681456
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/681456/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Verdiene%20100%25%20Provision%20auf%20Funnel%20Einstieg
 
 ## 4. Editorial notes

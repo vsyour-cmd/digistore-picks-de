@@ -4,16 +4,16 @@ digistore24_product_id: 718193
 title: "Vereinswesen in Österreich – Praxis-Handbuch für Gründer und"
 vendor: "affiliateds"
 product_type: "E-books"
-price: 51.2
+price: 51.23
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 17.92
+earnings_per_sale: 17.93
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Education"]
 listed_since: "2026-08-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/product/718193?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/718193"
@@ -22,16 +22,16 @@ language: "de"
 # Vereinswesen in Österreich – Praxis-Handbuch für Gründer und
 
 > Product ID `58126` · Digistore24 productId `718193` · [HTML profile page](../../produkte/vereinswesen-in-sterreich-praxis-handbuch-f-r-gr-nder-und-58126.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $51.20 (Single payment) |
+| Price | $51.23 (Single payment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $17.92 |
+| Earnings/sale* | $17.93 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | affiliateds |
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Vereinswesen in Österreich – Praxis-Handbuch für Gründer und? — Typ: E-books, Anbieter: affiliateds, gelistet seit 2026-08-04
-- Wie viel kostet es? — 51.197799 USD
+- Wie viel kostet es? — 51.229852 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Vereinswesen in Österreich – Praxis-Handbuch für Gründer und Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/718193
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/718193/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Vereinswesen%20in%20%C3%96sterreich%20%E2%80%93%20Praxis-Handbuch%20f%C3%BCr%20Gr%C3%BCnder%20und
 
 ## 4. Editorial notes

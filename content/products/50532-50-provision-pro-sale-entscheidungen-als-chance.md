@@ -4,7 +4,7 @@ digistore24_product_id: 568261
 title: "50 % Provision pro Sale – Entscheidungen als Chance"
 vendor: "Angelika-Traumerfuellerin"
 product_type: "Downloads"
-price: 11.74
+price: 11.75
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 5.87
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2024-09-03"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/568261?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/568261"
@@ -22,14 +22,14 @@ language: "de"
 # 50 % Provision pro Sale – Entscheidungen als Chance
 
 > Product ID `50532` · Digistore24 productId `568261` · [HTML profile page](../../produkte/50-provision-pro-sale-entscheidungen-als-chance-50532.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $11.74 (Single payment) |
+| Price | $11.75 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $5.87 |
 | Cart conversion* | — |
@@ -73,14 +73,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 50 % Provision pro Sale – Entscheidungen als Chance? — Typ: Downloads, Anbieter: Angelika-Traumerfuellerin, gelistet seit 2024-09-03
-- Wie viel kostet es? — 11.74005 USD
+- Wie viel kostet es? — 11.7474 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 50 % Provision pro Sale – Entscheidungen als Chance Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/568261
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/568261/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=50%20%25%20Provision%20pro%20Sale%20%E2%80%93%20Entscheidungen%20als%20Chance
 
 ## 4. Editorial notes

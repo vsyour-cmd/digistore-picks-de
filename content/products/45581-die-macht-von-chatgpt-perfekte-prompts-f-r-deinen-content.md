@@ -4,34 +4,34 @@ digistore24_product_id: 519840
 title: "Die Macht von ChatGPT - Perfekte Prompts für deinen Content"
 vendor: "sattelitevendor"
 product_type: "Member area and video courses"
-price: 115.91
+price: 115.99
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 44.11
+earnings_per_sale: 44.14
 cart_conversion_pct: 12
 cancel_rate_pct: 3.53
 categories: ["Online Marketing & E-Business","Social Media"]
 listed_since: "2023-10-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/45581/adminstore/"
+promo_link: "https://ki-ideenfabrik.com/start?aff=adminstore#aff=adminstore"
 sales_page: "https://ki-ideenfabrik.com/start"
 language: "de"
 ---
 # Die Macht von ChatGPT - Perfekte Prompts für deinen Content
 
 > Product ID `45581` · Digistore24 productId `519840` · [HTML profile page](../../produkte/die-macht-von-chatgpt-perfekte-prompts-f-r-deinen-content-45581.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $115.91 (Single payment) |
+| Price | $115.99 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $44.11 |
+| Earnings/sale* | $44.14 |
 | Cart conversion* | 12% |
 | Cancel rate* | 3.53% |
 | Vendor | sattelitevendor |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/45581/adminstore/
+- **Promo link (affiliate):** https://ki-ideenfabrik.com/start?aff=adminstore#aff=adminstore
 - Sales page: https://ki-ideenfabrik.com/start
 - Vendor affiliate support: https://www.ki-ideenfabrik.com/partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/519840/adminstore
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die Macht von ChatGPT - Perfekte Prompts für deinen Content? — Typ: Member area and video courses, Anbieter: sattelitevendor, gelistet seit 2023-10-08
-- Wie viel kostet es? — 115.91342700000001 USD
+- Wie viel kostet es? — 115.985996 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Die Macht von ChatGPT - Perfekte Prompts für deinen Content Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/519840
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/519840/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Die%20Macht%20von%20ChatGPT%20-%20Perfekte%20Prompts%20f%C3%BCr%20deinen%20Content
 
 ## 4. Editorial notes

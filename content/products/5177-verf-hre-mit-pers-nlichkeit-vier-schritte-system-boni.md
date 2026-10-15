@@ -4,16 +4,16 @@ digistore24_product_id: 31479
 title: "Verführe Mit Persönlichkeit (Vier-Schritte-System) + Boni"
 vendor: "MarkLambert"
 product_type: "E-books"
-price: 61.75
+price: 61.79
 currency: "USD"
 affiliate_commission_pct: 55
-earnings_per_sale: 26.49
+earnings_per_sale: 26.5
 cart_conversion_pct: 28
 cancel_rate_pct: 4.89
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2014-08-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
 promo_link: "https://www.verfuehre-mit-persoenlichkeit.de/das-spiegelgeheimnis/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.verfuehre-mit-persoenlichkeit.de/das-spiegelgeheimnis/"
@@ -22,16 +22,16 @@ language: "de"
 # Verführe Mit Persönlichkeit (Vier-Schritte-System) + Boni
 
 > Product ID `5177` · Digistore24 productId `31479` · [HTML profile page](../../produkte/verf-hre-mit-pers-nlichkeit-vier-schritte-system-boni-5177.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $61.75 (Single payment) |
+| Price | $61.79 (Single payment) |
 | Affiliate commission | 55% |
-| Earnings/sale* | $26.49 |
+| Earnings/sale* | $26.50 |
 | Cart conversion* | 28% |
 | Cancel rate* | 4.89% |
 | Vendor | MarkLambert |
@@ -85,14 +85,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Verführe Mit Persönlichkeit (Vier-Schritte-System) + Boni? — Typ: E-books, Anbieter: MarkLambert, gelistet seit 2014-08-24
-- Wie viel kostet es? — 61.752663 USD
+- Wie viel kostet es? — 61.791323999999996 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Verführe Mit Persönlichkeit (Vier-Schritte-System) + Boni Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/31479
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/31479/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Verf%C3%BChre%20Mit%20Pers%C3%B6nlichkeit%20(Vier-Schritte-System)%20%2B%20Boni
 
 ## 4. Editorial notes

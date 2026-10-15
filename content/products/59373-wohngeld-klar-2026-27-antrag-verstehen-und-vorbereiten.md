@@ -4,34 +4,34 @@ digistore24_product_id: 733172
 title: "Wohngeld-klar 2026/27 – Antrag verstehen und vorbereiten"
 vendor: "lvlBoZzlvl"
 product_type: "E-books"
-price: 41.75
+price: 41.78
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 20.87
+earnings_per_sale: 20.89
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2026-09-19"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/59373/adminstore/"
+promo_link: "https://wohngeld-klar.pages.dev/?aff=adminstore#aff=adminstore"
 sales_page: "https://wohngeld-klar.pages.dev/"
 language: "de"
 ---
 # Wohngeld-klar 2026/27 – Antrag verstehen und vorbereiten
 
 > Product ID `59373` · Digistore24 productId `733172` · [HTML profile page](../../produkte/wohngeld-klar-2026-27-antrag-verstehen-und-vorbereiten-59373.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $41.75 (Single payment) |
+| Price | $41.78 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $20.87 |
+| Earnings/sale* | $20.89 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | lvlBoZzlvl |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59373/adminstore/
+- **Promo link (affiliate):** https://wohngeld-klar.pages.dev/?aff=adminstore#aff=adminstore
 - Sales page: https://wohngeld-klar.pages.dev/
 - Vendor affiliate support: https://wohngeld-klar.pages.dev/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/733172/adminstore
@@ -93,14 +93,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Wohngeld-klar 2026/27 – Antrag verstehen und vorbereiten? — Typ: E-books, Anbieter: lvlBoZzlvl, gelistet seit 2026-09-19
-- Wie viel kostet es? — 41.749854000000006 USD
+- Wie viel kostet es? — 41.775992 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Wohngeld-klar 2026/27 – Antrag verstehen und vorbereiten Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/733172
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/733172/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Wohngeld-klar%202026%2F27%20%E2%80%93%20Antrag%20verstehen%20und%20vorbereiten
 
 ## 4. Editorial notes

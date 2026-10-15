@@ -4,34 +4,34 @@ digistore24_product_id: 322407
 title: "SWOT-Analyse Excel-Vorlage Premium"
 vendor: "meckseo"
 product_type: "Downloads"
-price: 18.78
+price: 18.8
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 7.51
+earnings_per_sale: 7.52
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2020-04-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/32521/adminstore/"
+promo_link: "http://swot-analyse.net/swot-analyse-excel-vorlage-download/?aff=adminstore#aff=adminstore"
 sales_page: "http://swot-analyse.net/swot-analyse-excel-vorlage-download/"
 language: "de"
 ---
 # SWOT-Analyse Excel-Vorlage Premium
 
 > Product ID `32521` · Digistore24 productId `322407` · [HTML profile page](../../produkte/swot-analyse-excel-vorlage-premium-32521.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $18.78 (Single payment) |
+| Price | $18.80 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $7.51 |
+| Earnings/sale* | $7.52 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | meckseo |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/32521/adminstore/
+- **Promo link (affiliate):** http://swot-analyse.net/swot-analyse-excel-vorlage-download/?aff=adminstore#aff=adminstore
 - Sales page: http://swot-analyse.net/swot-analyse-excel-vorlage-download/
 - Vendor affiliate support: http://swot-analyse.net/affiliate-partner-werden/
 - Canonical redirect: https://www.digistore24.com/redir/322407/adminstore
@@ -84,14 +84,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist SWOT-Analyse Excel-Vorlage Premium? — Typ: Downloads, Anbieter: meckseo, gelistet seit 2020-04-22
-- Wie viel kostet es? — 18.784080000000003 USD
+- Wie viel kostet es? — 18.795840000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: SWOT-Analyse Excel-Vorlage Premium Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/322407
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/322407/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=SWOT-Analyse%20Excel-Vorlage%20Premium
 
 ## 4. Editorial notes

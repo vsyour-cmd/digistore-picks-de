@@ -4,34 +4,34 @@ digistore24_product_id: 686266
 title: "Spardosen GmbH selbstgemacht Video-Blueprint"
 vendor: "PecuniamConcepts"
 product_type: "Member area and video courses"
-price: 1114.75
+price: 1115.44
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 278.69
+earnings_per_sale: 278.86
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Education"]
 listed_since: "2026-04-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/56377/adminstore/"
+promo_link: "https://spardosen-blueprint.tilda.ws/digistore24?aff=adminstore#aff=adminstore"
 sales_page: "https://spardosen-blueprint.tilda.ws/digistore24"
 language: "de"
 ---
 # Spardosen GmbH selbstgemacht Video-Blueprint
 
 > Product ID `56377` · Digistore24 productId `686266` · [HTML profile page](../../produkte/spardosen-gmbh-selbstgemacht-video-blueprint-56377.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1114.75 (Single payment) |
+| Price | $1115.44 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $278.69 |
+| Earnings/sale* | $278.86 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | PecuniamConcepts |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56377/adminstore/
+- **Promo link (affiliate):** https://spardosen-blueprint.tilda.ws/digistore24?aff=adminstore#aff=adminstore
 - Sales page: https://spardosen-blueprint.tilda.ws/digistore24
 - Canonical redirect: https://www.digistore24.com/redir/686266/adminstore
 
@@ -81,14 +81,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Spardosen GmbH selbstgemacht Video-Blueprint? — Typ: Member area and video courses, Anbieter: PecuniamConcepts, gelistet seit 2026-04-21
-- Wie viel kostet es? — 1114.7457000000002 USD
+- Wie viel kostet es? — 1115.4436 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Spardosen GmbH selbstgemacht Video-Blueprint Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/686266
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/686266/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Spardosen%20GmbH%20selbstgemacht%20Video-Blueprint
 
 ## 4. Editorial notes

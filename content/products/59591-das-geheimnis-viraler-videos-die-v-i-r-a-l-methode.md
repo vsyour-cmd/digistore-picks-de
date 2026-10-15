@@ -4,7 +4,7 @@ digistore24_product_id: 736441
 title: "Das Geheimnis viraler Videos – Die V.I.R.A.L.-Methode"
 vendor: "webtrafficde"
 product_type: "E-books"
-price: 17.77
+price: 17.78
 currency: "USD"
 affiliate_commission_pct: 60
 earnings_per_sale: 10.66
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Social Media","Marketing Services"]
 listed_since: "2026-09-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/59591/adminstore/"
+promo_link: "https://affilinative.de/ebooks/viral-videos/?aff=adminstore#aff=adminstore"
 sales_page: "https://affilinative.de/ebooks/viral-videos/"
 language: "de"
 ---
 # Das Geheimnis viraler Videos – Die V.I.R.A.L.-Methode
 
 > Product ID `59591` · Digistore24 productId `736441` · [HTML profile page](../../produkte/das-geheimnis-viraler-videos-die-v-i-r-a-l-methode-59591.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $17.77 (Single payment) |
+| Price | $17.78 (Single payment) |
 | Affiliate commission | 60% |
 | Earnings/sale* | $10.66 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59591/adminstore/
+- **Promo link (affiliate):** https://affilinative.de/ebooks/viral-videos/?aff=adminstore#aff=adminstore
 - Sales page: https://affilinative.de/ebooks/viral-videos/
 - Vendor affiliate support: https://affilinative.de/ebooks/viral-videos/affiliate-support.html
 - Canonical redirect: https://www.digistore24.com/redir/736441/adminstore
@@ -85,14 +85,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Geheimnis viraler Videos – Die V.I.R.A.L.-Methode? — Typ: E-books, Anbieter: webtrafficde, gelistet seit 2026-09-23
-- Wie viel kostet es? — 17.766609000000003 USD
+- Wie viel kostet es? — 17.777732 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Das Geheimnis viraler Videos – Die V.I.R.A.L.-Methode Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/736441
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/736441/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Das%20Geheimnis%20viraler%20Videos%20%E2%80%93%20Die%20V.I.R.A.L.-Methode
 
 ## 4. Editorial notes

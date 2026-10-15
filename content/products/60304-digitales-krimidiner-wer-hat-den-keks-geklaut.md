@@ -4,16 +4,16 @@ digistore24_product_id: 742141
 title: "Digitales Krimidiner - Wer hat den Keks geklaut?"
 vendor: "krimery"
 product_type: "Software"
-price: 9.38
+price: 9.39
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 7.03
+earnings_per_sale: 7.04
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children","Fun & Games"]
 listed_since: "2026-10-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
 promo_link: "https://www.digistore24.com/redir/742141/adminstore"
 sales_page: "https://krimery.de/angebot/wer-hat-den-keks-geklaut?aff=[AFFILIATE]&cam=[CAMPAIGNKEY]&ds24tr=[TRACKINGKEY]"
@@ -22,16 +22,16 @@ language: "de"
 # Digitales Krimidiner - Wer hat den Keks geklaut?
 
 > Product ID `60304` · Digistore24 productId `742141` · [HTML profile page](../../produkte/digitales-krimidiner-wer-hat-den-keks-geklaut-60304.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $9.38 (Single payment) |
+| Price | $9.39 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $7.03 |
+| Earnings/sale* | $7.04 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | krimery |
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Digitales Krimidiner - Wer hat den Keks geklaut?? — Typ: Software, Anbieter: krimery, gelistet seit 2026-10-07
-- Wie viel kostet es? — 9.380859000000001 USD
+- Wie viel kostet es? — 9.386732 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Digitales Krimidiner - Wer hat den Keks geklaut? Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/742141
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/742141/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Digitales%20Krimidiner%20-%20Wer%20hat%20den%20Keks%20geklaut%3F
 
 ## 4. Editorial notes

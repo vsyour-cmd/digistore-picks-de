@@ -4,16 +4,16 @@ digistore24_product_id: 727681
 title: "Dehnübungen Ganzkörper für Anfänger"
 vendor: "Book2Book"
 product_type: "E-books"
-price: 20.11
+price: 20.13
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 12.06
+earnings_per_sale: 12.07
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-08-30"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/727681?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/727681"
@@ -22,16 +22,16 @@ language: "de"
 # Dehnübungen Ganzkörper für Anfänger
 
 > Product ID `58780` · Digistore24 productId `727681` · [HTML profile page](../../produkte/dehn-bungen-ganzk-rper-f-r-anf-nger-58780.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.11 (Single payment) |
+| Price | $20.13 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $12.06 |
+| Earnings/sale* | $12.07 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Book2Book |
@@ -88,14 +88,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Dehnübungen Ganzkörper für Anfänger? — Typ: E-books, Anbieter: Book2Book, gelistet seit 2026-08-30
-- Wie viel kostet es? — 20.114619 USD
+- Wie viel kostet es? — 20.127212 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Dehnübungen Ganzkörper für Anfänger Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/727681
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/727681/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Dehn%C3%BCbungen%20Ganzk%C3%B6rper%20f%C3%BCr%20Anf%C3%A4nger
 
 ## 4. Editorial notes

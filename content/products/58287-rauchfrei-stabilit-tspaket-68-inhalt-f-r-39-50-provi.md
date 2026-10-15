@@ -4,16 +4,16 @@ digistore24_product_id: 717833
 title: "Rauchfrei-Stabilitätspaket – 68€ Inhalt für 39€ + 50% Provi"
 vendor: "HeikoBoos"
 product_type: "E-books"
-price: 71.06
+price: 71.1
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 35.53
+earnings_per_sale: 35.56
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2026-08-11"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://nichtraucherzone.de/das-rauchfrei-stabilitaetspaket?aff=adminstore#aff=adminstore"
 sales_page: "https://nichtraucherzone.de/das-rauchfrei-stabilitaetspaket"
@@ -22,16 +22,16 @@ language: "de"
 # Rauchfrei-Stabilitätspaket – 68€ Inhalt für 39€ + 50% Provi
 
 > Product ID `58287` · Digistore24 productId `717833` · [HTML profile page](../../produkte/rauchfrei-stabilit-tspaket-68-inhalt-f-r-39-50-provi-58287.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $71.06 (Single payment) |
+| Price | $71.10 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $35.53 |
+| Earnings/sale* | $35.56 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | HeikoBoos |
@@ -105,14 +105,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Rauchfrei-Stabilitätspaket – 68€ Inhalt für 39€ + 50% Provi? — Typ: E-books, Anbieter: HeikoBoos, gelistet seit 2026-08-11
-- Wie viel kostet es? — 71.055255 USD
+- Wie viel kostet es? — 71.09974 USD
 - Garantie? — 14
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Rauchfrei-Stabilitätspaket – 68€ Inhalt für 39€ + 50% Provi Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/717833
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/717833/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Rauchfrei-Stabilit%C3%A4tspaket%20%E2%80%93%2068%E2%82%AC%20Inhalt%20f%C3%BCr%2039%E2%82%AC%20%2B%2050%25%20Provi
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 509254
 title: "Das Lifetime-Partnerprogramm von Coaching24"
 vendor: "zielgruppe"
 product_type: "Remote service provided electronically"
-price: 2795.25
+price: 2797
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 279.53
+earnings_per_sale: 279.7
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Computer & Internet","Online Marketing & E-Business"]
 listed_since: "2023-07-28"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://go.zielgruppe.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://go.zielgruppe.de/"
@@ -22,16 +22,16 @@ language: "de"
 # Das Lifetime-Partnerprogramm von Coaching24
 
 > Product ID `44854` · Digistore24 productId `509254` · [HTML profile page](../../produkte/das-lifetime-partnerprogramm-von-coaching24-44854.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $2795.25 (Single payment) |
+| Price | $2797.00 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $279.53 |
+| Earnings/sale* | $279.70 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | zielgruppe |
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Lifetime-Partnerprogramm von Coaching24? — Typ: Remote service provided electronically, Anbieter: zielgruppe, gelistet seit 2023-07-28
-- Wie viel kostet es? — 2795.2500000000005 USD
+- Wie viel kostet es? — 2797 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Das Lifetime-Partnerprogramm von Coaching24 Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/509254
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/509254/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Das%20Lifetime-Partnerprogramm%20von%20Coaching24
 
 ## 4. Editorial notes

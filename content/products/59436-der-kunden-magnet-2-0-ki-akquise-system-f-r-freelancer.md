@@ -4,7 +4,7 @@ digistore24_product_id: 735162
 title: "Der Kunden-Magnet 2.0 – KI-Akquise-System für Freelancer"
 vendor: "freelancerkitools"
 product_type: "E-books"
-price: 9.4
+price: 9.41
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 4.71
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2026-09-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://freelancer-ki-tools.de/kunden-magnet-2-0?aff=adminstore#aff=adminstore"
 sales_page: "https://freelancer-ki-tools.de/kunden-magnet-2-0"
@@ -22,14 +22,14 @@ language: "de"
 # Der Kunden-Magnet 2.0 – KI-Akquise-System für Freelancer
 
 > Product ID `59436` · Digistore24 productId `735162` · [HTML profile page](../../produkte/der-kunden-magnet-2-0-ki-akquise-system-f-r-freelancer-59436.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $9.40 (Single payment) |
+| Price | $9.41 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $4.71 |
 | Cart conversion* | — |
@@ -84,14 +84,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Kunden-Magnet 2.0 – KI-Akquise-System für Freelancer? — Typ: E-books, Anbieter: freelancerkitools, gelistet seit 2026-09-20
-- Wie viel kostet es? — 9.403221 USD
+- Wie viel kostet es? — 9.409108 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Der Kunden-Magnet 2.0 – KI-Akquise-System für Freelancer Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/735162
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/735162/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%20Kunden-Magnet%202.0%20%E2%80%93%20KI-Akquise-System%20f%C3%BCr%20Freelancer
 
 ## 4. Editorial notes

@@ -4,7 +4,7 @@ digistore24_product_id: 609416
 title: "Mit -KI- Buchhaltung in Rekordzeit!"
 vendor: "BackOff"
 product_type: "E-books"
-price: 26.02
+price: 26.03
 currency: "USD"
 affiliate_commission_pct: 0
 earnings_per_sale: 5.59
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Education","Services"]
 listed_since: "2025-04-25"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/52209/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/609416?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/609416"
 language: "de"
 ---
 # Mit -KI- Buchhaltung in Rekordzeit!
 
 > Product ID `52209` · Digistore24 productId `609416` · [HTML profile page](../../produkte/mit-ki-buchhaltung-in-rekordzeit-52209.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $26.02 (Single payment) |
+| Price | $26.03 (Single payment) |
 | Affiliate commission | 0% |
 | Earnings/sale* | $5.59 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/52209/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/609416?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/609416
 - Canonical redirect: https://www.digistore24.com/redir/609416/adminstore
 
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mit -KI- Buchhaltung in Rekordzeit!? — Typ: E-books, Anbieter: BackOff, gelistet seit 2025-04-25
-- Wie viel kostet es? — 26.018187 USD
+- Wie viel kostet es? — 26.034476 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Mit -KI- Buchhaltung in Rekordzeit! Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/609416
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/609416/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Mit%20-KI-%20Buchhaltung%20in%20Rekordzeit!
 
 ## 4. Editorial notes

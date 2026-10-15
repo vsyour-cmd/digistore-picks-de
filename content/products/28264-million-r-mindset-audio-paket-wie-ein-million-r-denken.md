@@ -4,16 +4,16 @@ digistore24_product_id: 250856
 title: "Millionär Mindset Audio Paket – Wie ein Millionär denken!"
 vendor: "EnergeticTernity"
 product_type: "Downloads"
-price: 266.51
+price: 266.68
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 98.5
+earnings_per_sale: 98.57
 cart_conversion_pct: 8
 cancel_rate_pct: 3.18
 categories: ["Business & Investment"]
 listed_since: "2018-12-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://energetic-eternity.de/millionaer-mindset-tripwire/?aff=adminstore#aff=adminstore"
 sales_page: "https://energetic-eternity.de/millionaer-mindset-tripwire/"
@@ -22,16 +22,16 @@ language: "de"
 # Millionär Mindset Audio Paket – Wie ein Millionär denken!
 
 > Product ID `28264` · Digistore24 productId `250856` · [HTML profile page](../../produkte/million-r-mindset-audio-paket-wie-ein-million-r-denken-28264.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $266.51 (Single payment) |
+| Price | $266.68 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $98.50 |
+| Earnings/sale* | $98.57 |
 | Cart conversion* | 8% |
 | Cancel rate* | 3.18% |
 | Vendor | EnergeticTernity |
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Millionär Mindset Audio Paket – Wie ein Millionär denken!? — Typ: Downloads, Anbieter: EnergeticTernity, gelistet seit 2018-12-01
-- Wie viel kostet es? — 266.51031600000005 USD
+- Wie viel kostet es? — 266.677168 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Millionär Mindset Audio Paket – Wie ein Millionär denken! Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/250856
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/250856/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Million%C3%A4r%20Mindset%20Audio%20Paket%20%E2%80%93%20Wie%20ein%20Million%C3%A4r%20denken!
 
 ## 4. Editorial notes

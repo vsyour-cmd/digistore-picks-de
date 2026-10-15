@@ -4,16 +4,16 @@ digistore24_product_id: 737081
 title: "\"Meine Eltern go to Kita\"-Eingewöhnung"
 vendor: "shirakitaratgeber"
 product_type: "E-books"
-price: 18.81
+price: 18.82
 currency: "USD"
 affiliate_commission_pct: 30
 earnings_per_sale: 5.65
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Family & Children"]
+categories: ["Family & Children","Education"]
 listed_since: "2026-09-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "http://kita-ratgeber-online.de?aff=adminstore#aff=adminstore"
 sales_page: "http://kita-ratgeber-online.de"
@@ -22,14 +22,14 @@ language: "de"
 # "Meine Eltern go to Kita"-Eingewöhnung
 
 > Product ID `59792` · Digistore24 productId `737081` · [HTML profile page](../../produkte/meine-eltern-go-to-kita-eingew-hnung-59792.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $18.81 (Single payment) |
+| Price | $18.82 (Single payment) |
 | Affiliate commission | 30% |
 | Earnings/sale* | $5.65 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | shirakitaratgeber |
 | Listed since | 2026-09-26 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Family & Children |
+| Categories | Family & Children, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -74,14 +74,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist "Meine Eltern go to Kita"-Eingewöhnung? — Typ: E-books, Anbieter: shirakitaratgeber, gelistet seit 2026-09-26
-- Wie viel kostet es? — 18.806442 USD
+- Wie viel kostet es? — 18.818216 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: "Meine Eltern go to Kita"-Eingewöhnung Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/737081
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/737081/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=%22Meine%20Eltern%20go%20to%20Kita%22-Eingew%C3%B6hnung
 
 ## 4. Editorial notes

@@ -4,34 +4,34 @@ digistore24_product_id: 697887
 title: "Profitable Salespages mit Claude"
 vendor: "Ararembe"
 product_type: "Member area and video courses"
-price: 93.01
+price: 93.07
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 55.8
+earnings_per_sale: 55.84
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2026-06-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/56821/adminstore/"
+promo_link: "https://onlinekurse-von-experten.com/salespages-mit-claude-influ04/?aff=adminstore#aff=adminstore"
 sales_page: "https://onlinekurse-von-experten.com/salespages-mit-claude-influ04/"
 language: "de"
 ---
 # Profitable Salespages mit Claude
 
 > Product ID `56821` · Digistore24 productId `697887` · [HTML profile page](../../produkte/profitable-salespages-mit-claude-56821.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $93.01 (Single payment) |
+| Price | $93.07 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $55.80 |
+| Earnings/sale* | $55.84 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Ararembe |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56821/adminstore/
+- **Promo link (affiliate):** https://onlinekurse-von-experten.com/salespages-mit-claude-influ04/?aff=adminstore#aff=adminstore
 - Sales page: https://onlinekurse-von-experten.com/salespages-mit-claude-influ04/
 - Vendor affiliate support: https://www.ararembe.com/serviceportal/online-einkommen/
 - Canonical redirect: https://www.digistore24.com/redir/697887/adminstore
@@ -93,14 +93,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Profitable Salespages mit Claude? — Typ: Member area and video courses, Anbieter: Ararembe, gelistet seit 2026-06-06
-- Wie viel kostet es? — 93.014739 USD
+- Wie viel kostet es? — 93.072972 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Profitable Salespages mit Claude Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/697887
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/697887/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Profitable%20Salespages%20mit%20Claude
 
 ## 4. Editorial notes

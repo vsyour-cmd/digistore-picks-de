@@ -4,16 +4,16 @@ digistore24_product_id: 634205
 title: "KI-Flatrate"
 vendor: "MibeneUG"
 product_type: "Online coaching"
-price: 1059.96
+price: 1060.62
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 211.99
+earnings_per_sale: 212.12
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Computer & Internet","Education","Personal Development"]
+categories: ["Personal Development","Computer & Internet","Education"]
 listed_since: "2025-09-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/634205?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/634205"
@@ -22,22 +22,22 @@ language: "de"
 # KI-Flatrate
 
 > Product ID `54120` · Digistore24 productId `634205` · [HTML profile page](../../produkte/ki-flatrate-54120.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $1059.96 (Subscription) |
+| Price | $1060.62 (Subscription) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $211.99 |
+| Earnings/sale* | $212.12 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MibeneUG |
 | Listed since | 2025-09-07 |
 | Auto-accept affiliates | yes |
-| Categories | Computer & Internet, Education, Personal Development |
+| Categories | Personal Development, Computer & Internet, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI-Flatrate? — Typ: Online coaching, Anbieter: MibeneUG, gelistet seit 2025-09-07
-- Wie viel kostet es? — 1059.9588 USD
+- Wie viel kostet es? — 1060.6224 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: KI-Flatrate Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/634205
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/634205/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=KI-Flatrate
 
 ## 4. Editorial notes

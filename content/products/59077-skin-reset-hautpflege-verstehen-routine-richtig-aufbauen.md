@@ -4,34 +4,34 @@ digistore24_product_id: 730924
 title: "SKIN RESET Hautpflege verstehen Routine richtig aufbauen"
 vendor: "sinamir"
 product_type: "E-books"
-price: 26.02
+price: 26.03
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 10.41
+earnings_per_sale: 10.42
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-09-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/59077/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/730924?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/730924"
 language: "de"
 ---
 # SKIN RESET Hautpflege verstehen Routine richtig aufbauen
 
 > Product ID `59077` · Digistore24 productId `730924` · [HTML profile page](../../produkte/skin-reset-hautpflege-verstehen-routine-richtig-aufbauen-59077.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $26.02 (Single payment) |
+| Price | $26.03 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $10.41 |
+| Earnings/sale* | $10.42 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | sinamir |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59077/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/730924?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/730924
 - Canonical redirect: https://www.digistore24.com/redir/730924/adminstore
 
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist SKIN RESET Hautpflege verstehen Routine richtig aufbauen? — Typ: E-books, Anbieter: sinamir, gelistet seit 2026-09-09
-- Wie viel kostet es? — 26.018187 USD
+- Wie viel kostet es? — 26.034476 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: SKIN RESET Hautpflege verstehen Routine richtig aufbauen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/730924
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/730924/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=SKIN%20RESET%20Hautpflege%20verstehen%20Routine%20richtig%20aufbauen
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 579927
 title: "Biz Builder Bootcamp"
 vendor: "weinand1986"
 product_type: "Member area and video courses"
-price: 1112.51
+price: 1113.21
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 556.25
+earnings_per_sale: 556.6
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Online Marketing & E-Business","Online Marketing"]
+categories: ["Online Marketing & E-Business","Education","Online Marketing"]
 listed_since: "2024-11-11"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://michelweinand.systeme.io/bb-bootcamp?aff=adminstore#aff=adminstore"
 sales_page: "https://michelweinand.systeme.io/bb-bootcamp"
@@ -22,22 +22,22 @@ language: "de"
 # Biz Builder Bootcamp
 
 > Product ID `50836` · Digistore24 productId `579927` · [HTML profile page](../../produkte/biz-builder-bootcamp-50836.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1112.51 (Single payment) |
+| Price | $1113.21 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $556.25 |
+| Earnings/sale* | $556.60 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | weinand1986 |
 | Listed since | 2024-11-11 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Online Marketing & E-Business, Online Marketing |
+| Categories | Online Marketing & E-Business, Education, Online Marketing |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -81,14 +81,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Biz Builder Bootcamp? — Typ: Member area and video courses, Anbieter: weinand1986, gelistet seit 2024-11-11
-- Wie viel kostet es? — 1112.5095000000001 USD
+- Wie viel kostet es? — 1113.206 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Biz Builder Bootcamp Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/579927
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/579927/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Biz%20Builder%20Bootcamp
 
 ## 4. Editorial notes

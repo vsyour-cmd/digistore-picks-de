@@ -4,16 +4,16 @@ digistore24_product_id: 58215
 title: "Digistore Connect für Joomla!"
 vendor: "RolandSM"
 product_type: "Downloads"
-price: 55.57
+price: 55.6
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 11.11
+earnings_per_sale: 11.12
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2015-09-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://medialekt.de/de/webdesign-entwicklung/joomla-erweiterungen/digistore-connect?aff=adminstore#aff=adminstore"
 sales_page: "https://medialekt.de/de/webdesign-entwicklung/joomla-erweiterungen/digistore-connect"
@@ -22,16 +22,16 @@ language: "de"
 # Digistore Connect für Joomla!
 
 > Product ID `8547` · Digistore24 productId `58215` · [HTML profile page](../../produkte/digistore-connect-f-r-joomla-8547.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $55.57 (Single payment, Subscription) |
+| Price | $55.60 (Single payment, Subscription) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $11.11 |
+| Earnings/sale* | $11.12 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | RolandSM |
@@ -83,14 +83,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Digistore Connect für Joomla!? — Typ: Downloads, Anbieter: RolandSM, gelistet seit 2015-09-06
-- Wie viel kostet es? — 55.569570000000006 USD
+- Wie viel kostet es? — 55.60436000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Digistore Connect für Joomla! Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/58215
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/58215/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Digistore%20Connect%20f%C3%BCr%20Joomla!
 
 ## 4. Editorial notes

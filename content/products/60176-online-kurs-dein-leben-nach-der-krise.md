@@ -4,16 +4,16 @@ digistore24_product_id: 610810
 title: "Online-Kurs \"Dein Leben nach der Krise\""
 vendor: "BLLcode25"
 product_type: "Member area and video courses"
-price: 332.08
+price: 332.28
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 33.21
+earnings_per_sale: 33.23
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-10-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/610810?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/610810"
@@ -22,16 +22,16 @@ language: "de"
 # Online-Kurs "Dein Leben nach der Krise"
 
 > Product ID `60176` · Digistore24 productId `610810` · [HTML profile page](../../produkte/online-kurs-dein-leben-nach-der-krise-60176.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $332.08 (Single payment) |
+| Price | $332.28 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $33.21 |
+| Earnings/sale* | $33.23 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | BLLcode25 |
@@ -81,14 +81,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online-Kurs "Dein Leben nach der Krise"? — Typ: Member area and video courses, Anbieter: BLLcode25, gelistet seit 2026-10-04
-- Wie viel kostet es? — 332.07570000000004 USD
+- Wie viel kostet es? — 332.2836 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Online-Kurs "Dein Leben nach der Krise" Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/610810
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/610810/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Online-Kurs%20%22Dein%20Leben%20nach%20der%20Krise%22
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 394006
 title: "Baglama lernen mit Cemil Aydemir"
 vendor: "meineMusikschule"
 product_type: "Member area and video courses"
-price: 111.06
+price: 111.13
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 144.59
+earnings_per_sale: 144.68
 cart_conversion_pct: 20
 cancel_rate_pct: 9.92
 categories: ["Dancing & Music"]
 listed_since: "2021-06-11"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://meinemusikschule.net/kurse/baglama/?aff=adminstore#aff=adminstore"
 sales_page: "https://meinemusikschule.net/kurse/baglama/"
@@ -22,16 +22,16 @@ language: "de"
 # Baglama lernen mit Cemil Aydemir
 
 > Product ID `27841` · Digistore24 productId `394006` · [HTML profile page](../../produkte/baglama-lernen-mit-cemil-aydemir-27841.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $111.06 (Single payment, Installment) |
+| Price | $111.13 (Single payment, Installment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $144.59 |
+| Earnings/sale* | $144.68 |
 | Cart conversion* | 20% |
 | Cancel rate* | 9.92% |
 | Vendor | meineMusikschule |
@@ -106,14 +106,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Baglama lernen mit Cemil Aydemir? — Typ: Member area and video courses, Anbieter: meineMusikschule, gelistet seit 2021-06-11
-- Wie viel kostet es? — 111.060873 USD
+- Wie viel kostet es? — 111.130404 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Baglama lernen mit Cemil Aydemir Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/394006
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/394006/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Baglama%20lernen%20mit%20Cemil%20Aydemir
 
 ## 4. Editorial notes

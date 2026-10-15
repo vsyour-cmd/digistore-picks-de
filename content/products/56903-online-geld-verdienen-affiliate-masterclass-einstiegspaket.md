@@ -4,34 +4,34 @@ digistore24_product_id: 696728
 title: "Online Geld verdienen - Affiliate Masterclass Einstiegspaket"
 vendor: "Profi10"
 product_type: "Downloads"
-price: 27.25
+price: 27.27
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 10.9
+earnings_per_sale: 10.91
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media"]
 listed_since: "2026-06-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/56903/adminstore/"
+promo_link: "https://www.digistore24.com/product/696728?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/696728"
 language: "de"
 ---
 # Online Geld verdienen - Affiliate Masterclass Einstiegspaket
 
 > Product ID `56903` · Digistore24 productId `696728` · [HTML profile page](../../produkte/online-geld-verdienen-affiliate-masterclass-einstiegspaket-56903.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $27.25 (Single payment) |
+| Price | $27.27 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $10.90 |
+| Earnings/sale* | $10.91 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Profi10 |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56903/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/696728?aff=adminstore
 - Sales page: https://www.digistore24.com/product/696728
 - Canonical redirect: https://www.digistore24.com/redir/696728/adminstore
 
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online Geld verdienen - Affiliate Masterclass Einstiegspaket? — Typ: Downloads, Anbieter: Profi10, gelistet seit 2026-06-15
-- Wie viel kostet es? — 27.248097000000005 USD
+- Wie viel kostet es? — 27.265156 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Online Geld verdienen - Affiliate Masterclass Einstiegspaket Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/696728
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/696728/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Online%20Geld%20verdienen%20-%20Affiliate%20Masterclass%20Einstiegspaket
 
 ## 4. Editorial notes

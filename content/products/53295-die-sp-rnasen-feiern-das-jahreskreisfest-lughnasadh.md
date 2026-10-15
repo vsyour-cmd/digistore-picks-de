@@ -4,40 +4,40 @@ digistore24_product_id: 620786
 title: "Die Spürnasen feiern das Jahreskreisfest Lughnasadh"
 vendor: "IsabellFa"
 product_type: "Member area and video courses"
-price: 19.73
+price: 19.75
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 11.18
+earnings_per_sale: 11.19
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Family & Children","Hobby & Craft","Spiri­tua­lity & Esotericism"]
+categories: ["Spiri­tua­lity & Esotericism","Family & Children","Hobby & Craft"]
 listed_since: "2025-06-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/53295/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/620786?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/620786"
 language: "de"
 ---
 # Die Spürnasen feiern das Jahreskreisfest Lughnasadh
 
 > Product ID `53295` · Digistore24 productId `620786` · [HTML profile page](../../produkte/die-sp-rnasen-feiern-das-jahreskreisfest-lughnasadh-53295.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $19.73 (Single payment, Installment) |
+| Price | $19.75 (Single payment, Installment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $11.18 |
+| Earnings/sale* | $11.19 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | IsabellFa |
 | Listed since | 2025-06-26 |
 | Auto-accept affiliates | yes |
-| Categories | Family & Children, Hobby & Craft, Spiri­tua­lity & Esotericism |
+| Categories | Spiri­tua­lity & Esotericism, Family & Children, Hobby & Craft |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/53295/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/620786?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/620786
 - Canonical redirect: https://www.digistore24.com/redir/620786/adminstore
 
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die Spürnasen feiern das Jahreskreisfest Lughnasadh? — Typ: Member area and video courses, Anbieter: IsabellFa, gelistet seit 2025-06-26
-- Wie viel kostet es? — 19.734465 USD
+- Wie viel kostet es? — 19.74682 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Die Spürnasen feiern das Jahreskreisfest Lughnasadh Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/620786
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/620786/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Die%20Sp%C3%BCrnasen%20feiern%20das%20Jahreskreisfest%20Lughnasadh
 
 ## 4. Editorial notes

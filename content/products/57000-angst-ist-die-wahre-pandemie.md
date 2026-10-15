@@ -4,16 +4,16 @@ digistore24_product_id: 702939
 title: "Angst ist die wahre Pandemie"
 vendor: "Seelendank"
 product_type: "Downloads"
-price: 10.44
+price: 10.45
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 5.22
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Health & Fitness","Politics & Economy","Personal Development"]
+categories: ["Health & Fitness","Personal Development","Politics & Economy"]
 listed_since: "2026-06-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://angstfrei.shop/produkt/bundle-angst-ist-die-wahre-pandemie/?aff=adminstore#aff=adminstore"
 sales_page: "https://angstfrei.shop/produkt/bundle-angst-ist-die-wahre-pandemie/"
@@ -22,14 +22,14 @@ language: "de"
 # Angst ist die wahre Pandemie
 
 > Product ID `57000` · Digistore24 productId `702939` · [HTML profile page](../../produkte/angst-ist-die-wahre-pandemie-57000.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $10.44 (Single payment) |
+| Price | $10.45 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $5.22 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | Seelendank |
 | Listed since | 2026-06-16 |
 | Auto-accept affiliates | yes |
-| Categories | Health & Fitness, Politics & Economy, Personal Development |
+| Categories | Health & Fitness, Personal Development, Politics & Economy |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -82,14 +82,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Angst ist die wahre Pandemie? — Typ: Downloads, Anbieter: Seelendank, gelistet seit 2026-06-16
-- Wie viel kostet es? — 10.443054 USD
+- Wie viel kostet es? — 10.449592 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Angst ist die wahre Pandemie Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/702939
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/702939/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Angst%20ist%20die%20wahre%20Pandemie
 
 ## 4. Editorial notes

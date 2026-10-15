@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Marketing Services"]
 listed_since: "2025-09-11"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/53911/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/633705?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/633705"
 language: "de"
 ---
 # Nähre deine Seele - Raus aus der Essstörung
 
 > Product ID `53911` · Digistore24 productId `633705` · [HTML profile page](../../produkte/n-hre-deine-seele-raus-aus-der-essst-rung-53911.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/53911/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/633705?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/633705
 - Canonical redirect: https://www.digistore24.com/redir/633705/adminstore
 
@@ -78,7 +78,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Nähre deine Seele - Raus aus der Essstörung Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/633705
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/633705/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=N%C3%A4hre%20deine%20Seele%20-%20Raus%20aus%20der%20Essst%C3%B6rung
 
 ## 4. Editorial notes

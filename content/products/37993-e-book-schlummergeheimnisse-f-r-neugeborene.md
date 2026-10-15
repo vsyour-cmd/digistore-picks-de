@@ -4,34 +4,34 @@ digistore24_product_id: 301611
 title: "E-Book: Schlummergeheimnisse für Neugeborene"
 vendor: "babyschlummerland"
 product_type: "E-books"
-price: 26.21
+price: 26.22
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 7.4
+earnings_per_sale: 7.41
 cart_conversion_pct: 3
 cancel_rate_pct: 1.67
 categories: ["Family & Children"]
 listed_since: "2020-01-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/37993/adminstore/"
+promo_link: "https://www.babyschlummerland.de/ebook-schlummergeheimnisse-fuer-neugeborene/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.babyschlummerland.de/ebook-schlummergeheimnisse-fuer-neugeborene/"
 language: "de"
 ---
 # E-Book: Schlummergeheimnisse für Neugeborene
 
 > Product ID `37993` · Digistore24 productId `301611` · [HTML profile page](../../produkte/e-book-schlummergeheimnisse-f-r-neugeborene-37993.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $26.21 (Single payment) |
+| Price | $26.22 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $7.40 |
+| Earnings/sale* | $7.41 |
 | Cart conversion* | 3% |
 | Cancel rate* | 1.67% |
 | Vendor | babyschlummerland |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/37993/adminstore/
+- **Promo link (affiliate):** https://www.babyschlummerland.de/ebook-schlummergeheimnisse-fuer-neugeborene/?aff=adminstore#aff=adminstore
 - Sales page: https://www.babyschlummerland.de/ebook-schlummergeheimnisse-fuer-neugeborene/
 - Vendor affiliate support: https://www.babyschlummerland.de/partnerprogramm-im-babyschlummerland/
 - Canonical redirect: https://www.digistore24.com/redir/301611/adminstore
@@ -86,14 +86,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist E-Book: Schlummergeheimnisse für Neugeborene? — Typ: E-books, Anbieter: babyschlummerland, gelistet seit 2020-01-01
-- Wie viel kostet es? — 26.208264000000003 USD
+- Wie viel kostet es? — 26.224672 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: E-Book: Schlummergeheimnisse für Neugeborene Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/301611
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/301611/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=E-Book%3A%20Schlummergeheimnisse%20f%C3%BCr%20Neugeborene
 
 ## 4. Editorial notes

@@ -4,40 +4,40 @@ digistore24_product_id: 719444
 title: "Artist Business Kit – 70 Seiten für Kreative"
 vendor: "madisson856cd5"
 product_type: "Downloads"
-price: 62.95
+price: 62.99
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 25.18
+earnings_per_sale: 25.2
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Business & Investment","Email Marketing","Online Marketing & E-Business"]
+categories: ["Business & Investment","Online Marketing & E-Business","Email Marketing"]
 listed_since: "2026-08-11"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/58273/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/719444?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/719444"
 language: "de"
 ---
 # Artist Business Kit – 70 Seiten für Kreative
 
 > Product ID `58273` · Digistore24 productId `719444` · [HTML profile page](../../produkte/artist-business-kit-70-seiten-f-r-kreative-58273.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $62.95 (Single payment) |
+| Price | $62.99 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $25.18 |
+| Earnings/sale* | $25.20 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | madisson856cd5 |
 | Listed since | 2026-08-11 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Email Marketing, Online Marketing & E-Business |
+| Categories | Business & Investment, Online Marketing & E-Business, Email Marketing |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58273/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/719444?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/719444
 - Canonical redirect: https://www.digistore24.com/redir/719444/adminstore
 
@@ -81,14 +81,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Artist Business Kit – 70 Seiten für Kreative? — Typ: Downloads, Anbieter: madisson856cd5, gelistet seit 2026-08-11
-- Wie viel kostet es? — 62.94903 USD
+- Wie viel kostet es? — 62.98844 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Artist Business Kit – 70 Seiten für Kreative Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/719444
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/719444/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Artist%20Business%20Kit%20%E2%80%93%2070%20Seiten%20f%C3%BCr%20Kreative
 
 ## 4. Editorial notes

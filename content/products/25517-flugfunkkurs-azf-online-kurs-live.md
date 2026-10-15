@@ -4,7 +4,7 @@ digistore24_product_id: 230747
 title: "Flugfunkkurs AZF Online-Kurs (Live)"
 vendor: "Fluglehrer"
 product_type: "Online coaching"
-price: 240.67
+price: 240.82
 currency: "USD"
 affiliate_commission_pct: 0
 earnings_per_sale: 0
@@ -12,24 +12,24 @@ cart_conversion_pct: 16
 cancel_rate_pct: 0.97
 categories: ["Education"]
 listed_since: "2018-06-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/25517/adminstore/"
+promo_link: "https://fluglehrerteam.com/de/onlinekurse/online-flugfunkkurs-azf-e?aff=adminstore#aff=adminstore"
 sales_page: "https://fluglehrerteam.com/de/onlinekurse/online-flugfunkkurs-azf-e"
 language: "de"
 ---
 # Flugfunkkurs AZF Online-Kurs (Live)
 
 > Product ID `25517` · Digistore24 productId `230747` · [HTML profile page](../../produkte/flugfunkkurs-azf-online-kurs-live-25517.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $240.67 (Single payment) |
+| Price | $240.82 (Single payment) |
 | Affiliate commission | 0% |
 | Earnings/sale* | $0.00 |
 | Cart conversion* | 16% |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/25517/adminstore/
+- **Promo link (affiliate):** https://fluglehrerteam.com/de/onlinekurse/online-flugfunkkurs-azf-e?aff=adminstore#aff=adminstore
 - Sales page: https://fluglehrerteam.com/de/onlinekurse/online-flugfunkkurs-azf-e
 - Canonical redirect: https://www.digistore24.com/redir/230747/adminstore
 
@@ -75,14 +75,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Flugfunkkurs AZF Online-Kurs (Live)? — Typ: Online coaching, Anbieter: Fluglehrer, gelistet seit 2018-06-27
-- Wie viel kostet es? — 240.67102500000001 USD
+- Wie viel kostet es? — 240.8217 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Flugfunkkurs AZF Online-Kurs (Live) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/230747
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/230747/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Flugfunkkurs%20AZF%20Online-Kurs%20(Live)
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 697436
 title: "Italiano Pro (Web-App / App)"
 vendor: "worldxpb"
 product_type: "Software"
-price: 14.09
+price: 14.1
 currency: "USD"
 affiliate_commission_pct: 30
 earnings_per_sale: 4.23
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Languages","Travel & Culture"]
+categories: ["Travel & Culture","Education","Languages"]
 listed_since: "2026-06-30"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/697436?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/697436"
@@ -22,14 +22,14 @@ language: "de"
 # Italiano Pro (Web-App / App)
 
 > Product ID `57308` · Digistore24 productId `697436` · [HTML profile page](../../produkte/italiano-pro-web-app-app-57308.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $14.09 (Single payment) |
+| Price | $14.10 (Single payment) |
 | Affiliate commission | 30% |
 | Earnings/sale* | $4.23 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | worldxpb |
 | Listed since | 2026-06-30 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Languages, Travel & Culture |
+| Categories | Travel & Culture, Education, Languages |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Italiano Pro (Web-App / App)? — Typ: Software, Anbieter: worldxpb, gelistet seit 2026-06-30
-- Wie viel kostet es? — 14.08806 USD
+- Wie viel kostet es? — 14.09688 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Italiano Pro (Web-App / App) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/697436
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/697436/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Italiano%20Pro%20(Web-App%20%2F%20App)
 
 ## 4. Editorial notes

@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Travel & Culture"]
 listed_since: "2026-02-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/55519/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/667281?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/667281"
 language: "de"
 ---
 # Leben im Wohnmobil E-Book
 
 > Product ID `55519` · Digistore24 productId `667281` · [HTML profile page](../../produkte/leben-im-wohnmobil-e-book-55519.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55519/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/667281?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/667281
 - Vendor affiliate support: https://travel-writer.life/wohnmobil-affiliate-programm-50-provision/
 - Canonical redirect: https://www.digistore24.com/redir/667281/adminstore
@@ -72,14 +72,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Leben im Wohnmobil E-Book? — Typ: E-books, Anbieter: travel-writer, gelistet seit 2026-02-07
-- Wie viel kostet es? — 10.398330000000001 USD
+- Wie viel kostet es? — 10.40484 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Leben im Wohnmobil E-Book Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/667281
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/667281/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Leben%20im%20Wohnmobil%20E-Book
 
 ## 4. Editorial notes

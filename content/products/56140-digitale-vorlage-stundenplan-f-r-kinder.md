@@ -4,16 +4,16 @@ digistore24_product_id: 680026
 title: "Digitale Vorlage Stundenplan für Kinder"
 vendor: "martinakocyigit2025"
 product_type: "Downloads"
-price: 6.57
+price: 6.58
 currency: "USD"
 affiliate_commission_pct: 20
 earnings_per_sale: 1.32
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Family & Children"]
+categories: ["Family & Children","Education"]
 listed_since: "2026-03-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/680026?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/680026"
@@ -22,14 +22,14 @@ language: "de"
 # Digitale Vorlage Stundenplan für Kinder
 
 > Product ID `56140` · Digistore24 productId `680026` · [HTML profile page](../../produkte/digitale-vorlage-stundenplan-f-r-kinder-56140.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $6.57 (Single payment) |
+| Price | $6.58 (Single payment) |
 | Affiliate commission | 20% |
 | Earnings/sale* | $1.32 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | martinakocyigit2025 |
 | Listed since | 2026-03-27 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Family & Children |
+| Categories | Family & Children, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Digitale Vorlage Stundenplan für Kinder? — Typ: Downloads, Anbieter: martinakocyigit2025, gelistet seit 2026-03-27
-- Wie viel kostet es? — 6.574428 USD
+- Wie viel kostet es? — 6.578544 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Digitale Vorlage Stundenplan für Kinder Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/680026
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/680026/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Digitale%20Vorlage%20Stundenplan%20f%C3%BCr%20Kinder
 
 ## 4. Editorial notes

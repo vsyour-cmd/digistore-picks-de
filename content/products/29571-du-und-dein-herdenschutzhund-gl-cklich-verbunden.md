@@ -4,16 +4,16 @@ digistore24_product_id: 276887
 title: "Du und Dein Herdenschutzhund - glücklich verbunden"
 vendor: "ZappZapp"
 product_type: "Webinar"
-price: 541.19
+price: 541.53
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 162.36
+earnings_per_sale: 162.46
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2019-06-25"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.mirjamcordt.com/hundeschule-verhaltenstraining/online-schulungen/du-und-dein-herdenschutzhund?aff=adminstore#aff=adminstore"
 sales_page: "https://www.mirjamcordt.com/hundeschule-verhaltenstraining/online-schulungen/du-und-dein-herdenschutzhund"
@@ -22,16 +22,16 @@ language: "de"
 # Du und Dein Herdenschutzhund - glücklich verbunden
 
 > Product ID `29571` · Digistore24 productId `276887` · [HTML profile page](../../produkte/du-und-dein-herdenschutzhund-gl-cklich-verbunden-29571.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Webinar |
-| Price | $541.19 (Single payment, Installment) |
+| Price | $541.53 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $162.36 |
+| Earnings/sale* | $162.46 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ZappZapp |
@@ -89,14 +89,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Du und Dein Herdenschutzhund - glücklich verbunden? — Typ: Webinar, Anbieter: ZappZapp, gelistet seit 2019-06-25
-- Wie viel kostet es? — 541.193943 USD
+- Wie viel kostet es? — 541.5327639999999 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Du und Dein Herdenschutzhund - glücklich verbunden Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/276887
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/276887/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Du%20und%20Dein%20Herdenschutzhund%20-%20gl%C3%BCcklich%20verbunden
 
 ## 4. Editorial notes

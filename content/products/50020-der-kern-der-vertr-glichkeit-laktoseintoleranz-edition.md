@@ -4,16 +4,16 @@ digistore24_product_id: 722695
 title: "Der Kern der Verträglichkeit - Laktoseintoleranz Edition"
 vendor: "AndreasLang"
 product_type: "Member area and video courses"
-price: 301.61
+price: 301.8
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 94.56
+earnings_per_sale: 94.62
 cart_conversion_pct: 5
 cancel_rate_pct: 5.63
-categories: ["Food & Drink","Health & Fitness"]
+categories: ["Health & Fitness","Food & Drink"]
 listed_since: "2024-09-25"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/722695?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/722695"
@@ -22,22 +22,22 @@ language: "de"
 # Der Kern der Verträglichkeit - Laktoseintoleranz Edition
 
 > Product ID `50020` · Digistore24 productId `722695` · [HTML profile page](../../produkte/der-kern-der-vertr-glichkeit-laktoseintoleranz-edition-50020.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $301.61 (Single payment, Installment) |
+| Price | $301.80 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $94.56 |
+| Earnings/sale* | $94.62 |
 | Cart conversion* | 5% |
 | Cancel rate* | 5.63% |
 | Vendor | AndreasLang |
 | Listed since | 2024-09-25 |
 | Auto-accept affiliates | yes |
-| Categories | Food & Drink, Health & Fitness |
+| Categories | Health & Fitness, Food & Drink |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -89,14 +89,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Kern der Verträglichkeit - Laktoseintoleranz Edition? — Typ: Member area and video courses, Anbieter: AndreasLang, gelistet seit 2024-09-25
-- Wie viel kostet es? — 301.607475 USD
+- Wie viel kostet es? — 301.79630000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Der Kern der Verträglichkeit - Laktoseintoleranz Edition Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/722695
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/722695/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%20Kern%20der%20Vertr%C3%A4glichkeit%20-%20Laktoseintoleranz%20Edition
 
 ## 4. Editorial notes

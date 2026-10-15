@@ -4,16 +4,16 @@ digistore24_product_id: 356369
 title: "Dein Superfan-Funnel"
 vendor: "Jyotima"
 product_type: "Member area and video courses"
-price: 69.32
+price: 69.37
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 20.8
+earnings_per_sale: 20.81
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2020-11-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://jyotimaflak.com/superfan-funnel/?aff=adminstore#aff=adminstore"
 sales_page: "https://jyotimaflak.com/superfan-funnel/"
@@ -22,16 +22,16 @@ language: "de"
 # Dein Superfan-Funnel
 
 > Product ID `35950` · Digistore24 productId `356369` · [HTML profile page](../../produkte/dein-superfan-funnel-35950.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $69.32 (Single payment, Installment) |
+| Price | $69.37 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $20.80 |
+| Earnings/sale* | $20.81 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Jyotima |
@@ -83,14 +83,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Dein Superfan-Funnel? — Typ: Member area and video courses, Anbieter: Jyotima, gelistet seit 2020-11-08
-- Wie viel kostet es? — 69.32220000000001 USD
+- Wie viel kostet es? — 69.3656 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Dein Superfan-Funnel Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/356369
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/356369/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Dein%20Superfan-Funnel
 
 ## 4. Editorial notes

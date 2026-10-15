@@ -10,10 +10,10 @@ affiliate_commission_pct: 10
 earnings_per_sale: 0.67
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Food & Drink","Health & Fitness"]
+categories: ["Health & Fitness","Food & Drink"]
 listed_since: "2024-10-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/577855?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/577855"
@@ -22,7 +22,7 @@ language: "de"
 # Familienglück-Wie Sie morgens in 15 Minuten die Welt retten!
 
 > Product ID `50338` · Digistore24 productId `577855` · [HTML profile page](../../produkte/familiengl-ck-wie-sie-morgens-in-15-minuten-die-welt-retten-50338.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | AndreaHeinemannDigital |
 | Listed since | 2024-10-29 |
 | Auto-accept affiliates | no (approval required) |
-| Categories | Food & Drink, Health & Fitness |
+| Categories | Health & Fitness, Food & Drink |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Familienglück-Wie Sie morgens in 15 Minuten die Welt retten!? — Typ: E-books, Anbieter: AndreaHeinemannDigital, gelistet seit 2024-10-29
-- Wie viel kostet es? — 6.697419000000001 USD
+- Wie viel kostet es? — 6.701612 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Familienglück-Wie Sie morgens in 15 Minuten die Welt retten! Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/577855
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/577855/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Familiengl%C3%BCck-Wie%20Sie%20morgens%20in%2015%20Minuten%20die%20Welt%20retten!
 
 ## 4. Editorial notes

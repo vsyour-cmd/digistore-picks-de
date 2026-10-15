@@ -4,16 +4,16 @@ digistore24_product_id: 723430
 title: "Websites & SEO für KMU weltweit: 30 % Provision"
 vendor: "astraios"
 product_type: "Remote service provided electronically"
-price: 1218.73
+price: 1219.49
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 365.62
+earnings_per_sale: 365.85
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-08-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://grodt.ch/ds24/?aff=adminstore#aff=adminstore"
 sales_page: "https://grodt.ch/ds24/"
@@ -22,16 +22,16 @@ language: "de"
 # Websites & SEO für KMU weltweit: 30 % Provision
 
 > Product ID `58550` · Digistore24 productId `723430` · [HTML profile page](../../produkte/websites-seo-f-r-kmu-weltweit-30-provision-58550.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $1218.73 (Single payment) |
+| Price | $1219.49 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $365.62 |
+| Earnings/sale* | $365.85 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | astraios |
@@ -92,14 +92,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Websites & SEO für KMU weltweit: 30 % Provision? — Typ: Remote service provided electronically, Anbieter: astraios, gelistet seit 2026-08-24
-- Wie viel kostet es? — 1218.729 USD
+- Wie viel kostet es? — 1219.492 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Websites & SEO für KMU weltweit: 30 % Provision Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/723430
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/723430/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Websites%20%26%20SEO%20f%C3%BCr%20KMU%20weltweit%3A%2030%20%25%20Provision
 
 ## 4. Editorial notes

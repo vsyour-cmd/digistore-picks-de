@@ -4,40 +4,40 @@ digistore24_product_id: 642256
 title: "NEU: Arbeiten in Deutschland – Insider Guide 2026"
 vendor: "ErichWartenberg"
 product_type: "Downloads"
-price: 25.37
+price: 25.39
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 12.69
+earnings_per_sale: 12.7
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Languages","Profession & Job"]
+categories: ["Profession & Job","Education","Languages"]
 listed_since: "2025-10-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/54463/adminstore/"
+promo_link: "https://www.digistore24.com/product/642256?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/642256"
 language: "de"
 ---
 # NEU: Arbeiten in Deutschland – Insider Guide 2026
 
 > Product ID `54463` · Digistore24 productId `642256` · [HTML profile page](../../produkte/neu-arbeiten-in-deutschland-insider-guide-2026-54463.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $25.37 (Single payment) |
+| Price | $25.39 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $12.69 |
+| Earnings/sale* | $12.70 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ErichWartenberg |
 | Listed since | 2025-10-18 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Languages, Profession & Job |
+| Categories | Profession & Job, Education, Languages |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/54463/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/642256?aff=adminstore
 - Sales page: https://www.digistore24.com/product/642256
 - Canonical redirect: https://www.digistore24.com/redir/642256/adminstore
 
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist NEU: Arbeiten in Deutschland – Insider Guide 2026? — Typ: Downloads, Anbieter: ErichWartenberg, gelistet seit 2025-10-18
-- Wie viel kostet es? — 25.369689000000005 USD
+- Wie viel kostet es? — 25.385572000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: NEU: Arbeiten in Deutschland – Insider Guide 2026 Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/642256
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/642256/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=NEU%3A%20Arbeiten%20in%20Deutschland%20%E2%80%93%20Insider%20Guide%202026
 
 ## 4. Editorial notes

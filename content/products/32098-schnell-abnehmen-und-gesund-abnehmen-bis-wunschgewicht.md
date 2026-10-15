@@ -4,16 +4,16 @@ digistore24_product_id: 310994
 title: "Schnell Abnehmen und gesund abnehmen bis Wunschgewicht"
 vendor: "FreedomBusinessSH3"
 product_type: "E-books"
-price: 43.61
+price: 43.63
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 21.8
+earnings_per_sale: 21.82
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2020-03-03"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://abnehmen-bis-wunschgewicht.de?aff=adminstore#aff=adminstore"
 sales_page: "https://abnehmen-bis-wunschgewicht.de"
@@ -22,16 +22,16 @@ language: "de"
 # Schnell Abnehmen und gesund abnehmen bis Wunschgewicht
 
 > Product ID `32098` · Digistore24 productId `310994` · [HTML profile page](../../produkte/schnell-abnehmen-und-gesund-abnehmen-bis-wunschgewicht-32098.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $43.61 (Single payment) |
+| Price | $43.63 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $21.80 |
+| Earnings/sale* | $21.82 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | FreedomBusinessSH3 |
@@ -66,14 +66,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Schnell Abnehmen und gesund abnehmen bis Wunschgewicht? — Typ: E-books, Anbieter: FreedomBusinessSH3, gelistet seit 2020-03-03
-- Wie viel kostet es? — 43.605900000000005 USD
+- Wie viel kostet es? — 43.6332 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Schnell Abnehmen und gesund abnehmen bis Wunschgewicht Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/310994
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/310994/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Schnell%20Abnehmen%20und%20gesund%20abnehmen%20bis%20Wunschgewicht
 
 ## 4. Editorial notes

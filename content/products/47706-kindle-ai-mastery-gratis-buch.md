@@ -7,13 +7,13 @@ product_type: "E-books"
 price: 1.07
 currency: "USD"
 affiliate_commission_pct: 100
-earnings_per_sale: 0.42
+earnings_per_sale: 0.43
 cart_conversion_pct: 37
 cancel_rate_pct: 2.7
 categories: ["Computer & Internet","Online Marketing & E-Business"]
 listed_since: "2024-04-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.webpirat.de/kindle-ai-mastery/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.webpirat.de/kindle-ai-mastery/"
@@ -22,7 +22,7 @@ language: "de"
 # Kindle AI Mastery - Gratis Buch
 
 > Product ID `47706` · Digistore24 productId `546701` · [HTML profile page](../../produkte/kindle-ai-mastery-gratis-buch-47706.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,7 @@ language: "de"
 | Product type | E-books |
 | Price | $1.07 (Single payment) |
 | Affiliate commission | 100% |
-| Earnings/sale* | $0.42 |
+| Earnings/sale* | $0.43 |
 | Cart conversion* | 37% |
 | Cancel rate* | 2.7% |
 | Vendor | webpirat |
@@ -73,14 +73,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Kindle AI Mastery - Gratis Buch? — Typ: E-books, Anbieter: webpirat, gelistet seit 2024-04-04
-- Wie viel kostet es? — 1.073376 USD
+- Wie viel kostet es? — 1.074048 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Kindle AI Mastery - Gratis Buch Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/546701
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/546701/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Kindle%20AI%20Mastery%20-%20Gratis%20Buch
 
 ## 4. Editorial notes

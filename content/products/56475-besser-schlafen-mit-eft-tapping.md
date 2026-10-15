@@ -4,34 +4,34 @@ digistore24_product_id: 664052
 title: "Besser schlafen mit EFT Tapping"
 vendor: "AdrianaLichtenstein"
 product_type: "Member area and video courses"
-price: 279.06
+price: 279.23
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 111.62
+earnings_per_sale: 111.69
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2026-01-25"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/56475/adminstore/"
+promo_link: "https://webinar.instituteofcalm.com/besser-schlafen-eft-tapping?aff=adminstore#aff=adminstore"
 sales_page: "https://webinar.instituteofcalm.com/besser-schlafen-eft-tapping"
 language: "de"
 ---
 # Besser schlafen mit EFT Tapping
 
 > Product ID `56475` · Digistore24 productId `664052` · [HTML profile page](../../produkte/besser-schlafen-mit-eft-tapping-56475.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $279.06 (Single payment) |
+| Price | $279.23 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $111.62 |
+| Earnings/sale* | $111.69 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | AdrianaLichtenstein |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56475/adminstore/
+- **Promo link (affiliate):** https://webinar.instituteofcalm.com/besser-schlafen-eft-tapping?aff=adminstore#aff=adminstore
 - Sales page: https://webinar.instituteofcalm.com/besser-schlafen-eft-tapping
 - Vendor affiliate support: https://webinar.instituteofcalm.com/besser-schlafen-eft-tapping-affiliate
 - Canonical redirect: https://www.digistore24.com/redir/664052/adminstore
@@ -83,14 +83,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Besser schlafen mit EFT Tapping? — Typ: Member area and video courses, Anbieter: AdrianaLichtenstein, gelistet seit 2026-01-25
-- Wie viel kostet es? — 279.055398 USD
+- Wie viel kostet es? — 279.23010400000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Besser schlafen mit EFT Tapping Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/664052
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/664052/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Besser%20schlafen%20mit%20EFT%20Tapping
 
 ## 4. Editorial notes

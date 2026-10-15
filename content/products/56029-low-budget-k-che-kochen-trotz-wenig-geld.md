@@ -4,40 +4,40 @@ digistore24_product_id: 679284
 title: "Low Budget Küche - Kochen trotz wenig Geld"
 vendor: "Freifone"
 product_type: "E-books"
-price: 26.07
+price: 26.09
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 13.04
+earnings_per_sale: 13.05
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Family & Children","Food & Drink","Health & Fitness"]
+categories: ["Health & Fitness","Family & Children","Food & Drink"]
 listed_since: "2026-03-25"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/56029/adminstore/"
+promo_link: "https://designs-nf.com/ebooks/low-budget-kuche?aff=adminstore#aff=adminstore"
 sales_page: "https://designs-nf.com/ebooks/low-budget-kuche"
 language: "de"
 ---
 # Low Budget Küche - Kochen trotz wenig Geld
 
 > Product ID `56029` · Digistore24 productId `679284` · [HTML profile page](../../produkte/low-budget-k-che-kochen-trotz-wenig-geld-56029.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $26.07 (Single payment) |
+| Price | $26.09 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $13.04 |
+| Earnings/sale* | $13.05 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Freifone |
 | Listed since | 2026-03-25 |
 | Auto-accept affiliates | yes |
-| Categories | Family & Children, Food & Drink, Health & Fitness |
+| Categories | Health & Fitness, Family & Children, Food & Drink |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56029/adminstore/
+- **Promo link (affiliate):** https://designs-nf.com/ebooks/low-budget-kuche?aff=adminstore#aff=adminstore
 - Sales page: https://designs-nf.com/ebooks/low-budget-kuche
 - Vendor affiliate support: https://designs-nf.com/affiliate/links
 - Canonical redirect: https://www.digistore24.com/redir/679284/adminstore
@@ -80,14 +80,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Low Budget Küche - Kochen trotz wenig Geld? — Typ: E-books, Anbieter: Freifone, gelistet seit 2026-03-25
-- Wie viel kostet es? — 26.074092000000004 USD
+- Wie viel kostet es? — 26.090416 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Low Budget Küche - Kochen trotz wenig Geld Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/679284
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/679284/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Low%20Budget%20K%C3%BCche%20-%20Kochen%20trotz%20wenig%20Geld
 
 ## 4. Editorial notes

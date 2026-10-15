@@ -4,7 +4,7 @@ digistore24_product_id: 607895
 title: "Karriere mit System von Bodo Schäfer Buch (gedruckt)"
 vendor: "BodoSchaefer"
 product_type: "Book (printed)"
-price: 6.28
+price: 6.29
 currency: "USD"
 affiliate_commission_pct: 0
 earnings_per_sale: 5.58
@@ -12,8 +12,8 @@ cart_conversion_pct: 13
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2025-04-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://buch.bodoschaefer.de/karriere-mit-system-aff/?aff=adminstore#aff=adminstore"
 sales_page: "https://buch.bodoschaefer.de/karriere-mit-system-aff/"
@@ -22,14 +22,14 @@ language: "de"
 # Karriere mit System von Bodo Schäfer Buch (gedruckt)
 
 > Product ID `52156` · Digistore24 productId `607895` · [HTML profile page](../../produkte/karriere-mit-system-von-bodo-sch-fer-buch-gedruckt-52156.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $6.28 (Single payment) |
+| Price | $6.29 (Single payment) |
 | Affiliate commission | 0% |
 | Earnings/sale* | $5.58 |
 | Cart conversion* | 13% |
@@ -78,14 +78,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Karriere mit System von Bodo Schäfer Buch (gedruckt)? — Typ: Book (printed), Anbieter: BodoSchaefer, gelistet seit 2025-04-17
-- Wie viel kostet es? — 6.283722000000001 USD
+- Wie viel kostet es? — 6.287656 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Karriere mit System von Bodo Schäfer Buch (gedruckt) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/607895
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/607895/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Karriere%20mit%20System%20von%20Bodo%20Sch%C3%A4fer%20Buch%20(gedruckt)
 
 ## 4. Editorial notes

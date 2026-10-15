@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2024-10-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://page.funnelcockpit.com/j5FKvmR6pyKNd9nKz?aff=adminstore#aff=adminstore"
 sales_page: "https://page.funnelcockpit.com/j5FKvmR6pyKNd9nKz"
@@ -22,7 +22,7 @@ language: "de"
 # Die 5-Schritte-Formel für ein erfolgreiches Online-Business
 
 > Product ID `49970` · Digistore24 productId `573766` · [HTML profile page](../../produkte/die-5-schritte-formel-f-r-ein-erfolgreiches-online-business-49970.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -66,7 +66,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Die 5-Schritte-Formel für ein erfolgreiches Online-Business Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/573766
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/573766/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Die%205-Schritte-Formel%20f%C3%BCr%20ein%20erfolgreiches%20Online-Business
 
 ## 4. Editorial notes

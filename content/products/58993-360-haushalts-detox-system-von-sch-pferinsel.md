@@ -4,40 +4,40 @@ digistore24_product_id: 724764
 title: "360° Haushalts-Detox-System (von Schöpferinsel)"
 vendor: "liebe-leben"
 product_type: "E-books"
-price: 101.36
+price: 101.42
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 40.54
+earnings_per_sale: 40.57
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Green Products & Environmental Protection","Health & Fitness","Spiri­tua­lity & Esotericism"]
+categories: ["Health & Fitness","Spiri­tua­lity & Esotericism","Green Products & Environmental Protection"]
 listed_since: "2026-09-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/58993/adminstore/"
+promo_link: "https://schoepferinsel.com/360-haushalts-detox-system/?aff=adminstore#aff=adminstore"
 sales_page: "https://schoepferinsel.com/360-haushalts-detox-system/"
 language: "de"
 ---
 # 360° Haushalts-Detox-System (von Schöpferinsel)
 
 > Product ID `58993` · Digistore24 productId `724764` · [HTML profile page](../../produkte/360-haushalts-detox-system-von-sch-pferinsel-58993.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $101.36 (Single payment) |
+| Price | $101.42 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $40.54 |
+| Earnings/sale* | $40.57 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | liebe-leben |
 | Listed since | 2026-09-07 |
 | Auto-accept affiliates | no (approval required) |
-| Categories | Green Products & Environmental Protection, Health & Fitness, Spiri­tua­lity & Esotericism |
+| Categories | Health & Fitness, Spiri­tua­lity & Esotericism, Green Products & Environmental Protection |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58993/adminstore/
+- **Promo link (affiliate):** https://schoepferinsel.com/360-haushalts-detox-system/?aff=adminstore#aff=adminstore
 - Sales page: https://schoepferinsel.com/360-haushalts-detox-system/
 - Vendor affiliate support: https://schoepferinsel.com/support/haushalts-detox-system/
 - Canonical redirect: https://www.digistore24.com/redir/724764/adminstore
@@ -91,14 +91,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 360° Haushalts-Detox-System (von Schöpferinsel)? — Typ: E-books, Anbieter: liebe-leben, gelistet seit 2026-09-07
-- Wie viel kostet es? — 101.35576500000002 USD
+- Wie viel kostet es? — 101.41922000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 360° Haushalts-Detox-System (von Schöpferinsel) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/724764
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/724764/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=360%C2%B0%20Haushalts-Detox-System%20(von%20Sch%C3%B6pferinsel)
 
 ## 4. Editorial notes

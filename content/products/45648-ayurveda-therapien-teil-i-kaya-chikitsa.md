@@ -4,16 +4,16 @@ digistore24_product_id: 519048
 title: "Ayurveda Therapien Teil I / Kaya Chikitsa"
 vendor: "HarshaGramminger"
 product_type: "Member area and video courses"
-price: 2818.74
+price: 2820.51
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 422.81
+earnings_per_sale: 423.07
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Profession & Job"]
 listed_since: "2023-10-03"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/519048?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/519048"
@@ -22,16 +22,16 @@ language: "de"
 # Ayurveda Therapien Teil I / Kaya Chikitsa
 
 > Product ID `45648` · Digistore24 productId `519048` · [HTML profile page](../../produkte/ayurveda-therapien-teil-i-kaya-chikitsa-45648.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $2818.74 (Installment) |
+| Price | $2820.51 (Installment) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $422.81 |
+| Earnings/sale* | $423.07 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | HarshaGramminger |
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ayurveda Therapien Teil I / Kaya Chikitsa? — Typ: Member area and video courses, Anbieter: HarshaGramminger, gelistet seit 2023-10-03
-- Wie viel kostet es? — 2818.7412810000005 USD
+- Wie viel kostet es? — 2820.5059880000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Ayurveda Therapien Teil I / Kaya Chikitsa Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/519048
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/519048/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Ayurveda%20Therapien%20Teil%20I%20%2F%20Kaya%20Chikitsa
 
 ## 4. Editorial notes

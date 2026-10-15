@@ -10,10 +10,10 @@ affiliate_commission_pct: 40
 earnings_per_sale: 6.23
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: []
+categories: ["Computer & Internet","Online Marketing & E-Business"]
 listed_since: "2025-12-10"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.affyro.com/chatgptmaster.html?aff=adminstore#aff=adminstore"
 sales_page: "https://www.affyro.com/chatgptmaster.html"
@@ -22,7 +22,7 @@ language: "de"
 # CHATGPT MASTER-HANDBUCH 2026
 
 > Product ID `54874` · Digistore24 productId `654439` · [HTML profile page](../../produkte/chatgpt-master-handbuch-2026-54874.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | MichaMH |
 | Listed since | 2025-12-10 |
 | Auto-accept affiliates | yes |
-| Categories | Uncategorized |
+| Categories | Computer & Internet, Online Marketing & E-Business |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -77,14 +77,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist CHATGPT MASTER-HANDBUCH 2026? — Typ: E-books, Anbieter: MichaMH, gelistet seit 2025-12-10
-- Wie viel kostet es? — 15.575133000000001 USD
+- Wie viel kostet es? — 15.584884 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: CHATGPT MASTER-HANDBUCH 2026 Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/654439
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/654439/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=CHATGPT%20MASTER-HANDBUCH%202026
 
 ## 4. Editorial notes

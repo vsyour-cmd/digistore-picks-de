@@ -7,13 +7,13 @@ product_type: "E-books"
 price: 5.12
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 3.07
+earnings_per_sale: 3.08
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2020-06-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://trafficstrategien.funnelcockpit.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://trafficstrategien.funnelcockpit.com/"
@@ -22,7 +22,7 @@ language: "de"
 # 70 Aloe Vera Cocktailrezepte
 
 > Product ID `55102` · Digistore24 productId `330482` · [HTML profile page](../../produkte/70-aloe-vera-cocktailrezepte-55102.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,7 @@ language: "de"
 | Product type | E-books |
 | Price | $5.12 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $3.07 |
+| Earnings/sale* | $3.08 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | chef63 |
@@ -58,14 +58,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 70 Aloe Vera Cocktailrezepte? — Typ: E-books, Anbieter: chef63, gelistet seit 2020-06-07
-- Wie viel kostet es? — 5.120898 USD
+- Wie viel kostet es? — 5.124104 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 70 Aloe Vera Cocktailrezepte Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/330482
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/330482/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=70%20Aloe%20Vera%20Cocktailrezepte
 
 ## 4. Editorial notes

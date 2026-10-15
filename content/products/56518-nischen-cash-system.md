@@ -4,7 +4,7 @@ digistore24_product_id: 687990
 title: "Nischen Cash System"
 vendor: "privat16850fc2"
 product_type: "Member area and video courses"
-price: 22.25
+price: 22.26
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 11.13
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2026-04-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://www.onlinebusiness-wissen.de/nischencashsystem/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.onlinebusiness-wissen.de/nischencashsystem/"
@@ -22,14 +22,14 @@ language: "de"
 # Nischen Cash System
 
 > Product ID `56518` · Digistore24 productId `687990` · [HTML profile page](../../produkte/nischen-cash-system-56518.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $22.25 (Single payment) |
+| Price | $22.26 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $11.13 |
 | Cart conversion* | — |
@@ -59,14 +59,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Nischen Cash System? — Typ: Member area and video courses, Anbieter: privat16850fc2, gelistet seit 2026-04-27
-- Wie viel kostet es? — 22.25019 USD
+- Wie viel kostet es? — 22.26412 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Nischen Cash System Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/687990
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/687990/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Nischen%20Cash%20System
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 692792
 title: "50 % Provision: Prioritäten-Playbook für Führung"
 vendor: "ralph70eb"
 product_type: "Downloads"
-price: 215.17
+price: 215.3
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 107.58
+earnings_per_sale: 107.65
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Leadership & Management","Project Management"]
 listed_since: "2026-08-31"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/692792?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/692792"
@@ -22,16 +22,16 @@ language: "de"
 # 50 % Provision: Prioritäten-Playbook für Führung
 
 > Product ID `58790` · Digistore24 productId `692792` · [HTML profile page](../../produkte/50-provision-priorit-ten-playbook-f-r-f-hrung-58790.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $215.17 (Single payment) |
+| Price | $215.30 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $107.58 |
+| Earnings/sale* | $107.65 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ralph70eb |
@@ -91,14 +91,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 50 % Provision: Prioritäten-Playbook für Führung? — Typ: Downloads, Anbieter: ralph70eb, gelistet seit 2026-08-31
-- Wie viel kostet es? — 215.167164 USD
+- Wie viel kostet es? — 215.301872 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 50 % Provision: Prioritäten-Playbook für Führung Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/692792
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/692792/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=50%20%25%20Provision%3A%20Priorit%C3%A4ten-Playbook%20f%C3%BCr%20F%C3%BChrung
 
 ## 4. Editorial notes

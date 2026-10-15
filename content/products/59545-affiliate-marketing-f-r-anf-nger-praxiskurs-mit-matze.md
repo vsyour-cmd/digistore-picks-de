@@ -4,34 +4,34 @@ digistore24_product_id: 736121
 title: "Affiliate Marketing für Anfänger – Praxiskurs mit Matze"
 vendor: "einfachmitmatze"
 product_type: "Downloads"
-price: 93.01
+price: 93.07
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 46.51
+earnings_per_sale: 46.54
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-09-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/59545/adminstore/"
+promo_link: "https://www.digistore24.com/product/736121?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/736121"
 language: "de"
 ---
 # Affiliate Marketing für Anfänger – Praxiskurs mit Matze
 
 > Product ID `59545` · Digistore24 productId `736121` · [HTML profile page](../../produkte/affiliate-marketing-f-r-anf-nger-praxiskurs-mit-matze-59545.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $93.01 (Single payment) |
+| Price | $93.07 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $46.51 |
+| Earnings/sale* | $46.54 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | einfachmitmatze |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59545/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/736121?aff=adminstore
 - Sales page: https://www.digistore24.com/product/736121
 - Vendor affiliate support: https://einfachmitmatze.de/partner-736121/
 - Canonical redirect: https://www.digistore24.com/redir/736121/adminstore
@@ -88,14 +88,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Affiliate Marketing für Anfänger – Praxiskurs mit Matze? — Typ: Downloads, Anbieter: einfachmitmatze, gelistet seit 2026-09-22
-- Wie viel kostet es? — 93.014739 USD
+- Wie viel kostet es? — 93.072972 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Affiliate Marketing für Anfänger – Praxiskurs mit Matze Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/736121
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/736121/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Affiliate%20Marketing%20f%C3%BCr%20Anf%C3%A4nger%20%E2%80%93%20Praxiskurs%20mit%20Matze
 
 ## 4. Editorial notes

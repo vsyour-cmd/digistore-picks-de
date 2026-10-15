@@ -4,16 +4,16 @@ digistore24_product_id: 721184
 title: "Küchen Planungshilfe | Gutsmann Küchen-Checkliste"
 vendor: "kuechegutallesgut"
 product_type: "Downloads"
-price: 28.1
+price: 28.12
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 8.43
+earnings_per_sale: 8.44
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Home & Garden","Services"]
 listed_since: "2026-09-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://www.gutsmann-kuechen.de/kuechenstudio/checkliste?aff=adminstore#aff=adminstore"
 sales_page: "https://www.gutsmann-kuechen.de/kuechenstudio/checkliste"
@@ -22,16 +22,16 @@ language: "de"
 # Küchen Planungshilfe | Gutsmann Küchen-Checkliste
 
 > Product ID `58912` · Digistore24 productId `721184` · [HTML profile page](../../produkte/k-chen-planungshilfe-gutsmann-k-chen-checkliste-58912.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $28.10 (Single payment) |
+| Price | $28.12 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $8.43 |
+| Earnings/sale* | $8.44 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | kuechegutallesgut |
@@ -59,14 +59,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Küchen Planungshilfe | Gutsmann Küchen-Checkliste? — Typ: Downloads, Anbieter: kuechegutallesgut, gelistet seit 2026-09-04
-- Wie viel kostet es? — 28.097853 USD
+- Wie viel kostet es? — 28.115444 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Küchen Planungshilfe | Gutsmann Küchen-Checkliste Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/721184
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/721184/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=K%C3%BCchen%20Planungshilfe%20%7C%20Gutsmann%20K%C3%BCchen-Checkliste
 
 ## 4. Editorial notes

@@ -4,34 +4,34 @@ digistore24_product_id: 488370
 title: "Microsoft Excel für Auswertung, Präsentation, Pivot"
 vendor: "Trainstitute"
 product_type: "Member area and video courses"
-price: 23.26
+price: 23.27
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 33.63
+earnings_per_sale: 33.65
 cart_conversion_pct: 12
 cancel_rate_pct: 0
 categories: ["Computer & Internet"]
 listed_since: "2023-03-10"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/44155/adminstore/"
+promo_link: "https://video-schulungen.de/courses/excel-im-bueroalltag-kurs-3/?aff=adminstore#aff=adminstore"
 sales_page: "https://video-schulungen.de/courses/excel-im-bueroalltag-kurs-3/"
 language: "de"
 ---
 # Microsoft Excel für Auswertung, Präsentation, Pivot
 
 > Product ID `44155` · Digistore24 productId `488370` · [HTML profile page](../../produkte/microsoft-excel-f-r-auswertung-pr-sentation-pivot-44155.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $23.26 (Single payment, Installment) |
+| Price | $23.27 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $33.63 |
+| Earnings/sale* | $33.65 |
 | Cart conversion* | 12% |
 | Cancel rate* | 0% |
 | Vendor | Trainstitute |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/44155/adminstore/
+- **Promo link (affiliate):** https://video-schulungen.de/courses/excel-im-bueroalltag-kurs-3/?aff=adminstore#aff=adminstore
 - Sales page: https://video-schulungen.de/courses/excel-im-bueroalltag-kurs-3/
 - Vendor affiliate support: https://video-schulungen.de/affiliates
 - Canonical redirect: https://www.digistore24.com/redir/488370/adminstore
@@ -83,14 +83,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Microsoft Excel für Auswertung, Präsentation, Pivot? — Typ: Member area and video courses, Anbieter: Trainstitute, gelistet seit 2023-03-10
-- Wie viel kostet es? — 23.256480000000003 USD
+- Wie viel kostet es? — 23.271040000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Microsoft Excel für Auswertung, Präsentation, Pivot Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/488370
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/488370/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Microsoft%20Excel%20f%C3%BCr%20Auswertung%2C%20Pr%C3%A4sentation%2C%20Pivot
 
 ## 4. Editorial notes

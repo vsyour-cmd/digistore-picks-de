@@ -4,7 +4,7 @@ digistore24_product_id: 649926
 title: "PDF Profit Sprint: Erste Auszahlung in 21 Tagen"
 vendor: "Salessystem"
 product_type: "E-books"
-price: 15.68
+price: 15.69
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 7.84
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2025-11-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/54701/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/649926?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/649926"
 language: "de"
 ---
 # PDF Profit Sprint: Erste Auszahlung in 21 Tagen
 
 > Product ID `54701` · Digistore24 productId `649926` · [HTML profile page](../../produkte/pdf-profit-sprint-erste-auszahlung-in-21-tagen-54701.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $15.68 (Single payment) |
+| Price | $15.69 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $7.84 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/54701/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/649926?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/649926
 - Canonical redirect: https://www.digistore24.com/redir/649926/adminstore
 
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist PDF Profit Sprint: Erste Auszahlung in 21 Tagen? — Typ: E-books, Anbieter: Salessystem, gelistet seit 2025-11-20
-- Wie viel kostet es? — 15.675762 USD
+- Wie viel kostet es? — 15.685576 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: PDF Profit Sprint: Erste Auszahlung in 21 Tagen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/649926
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/649926/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=PDF%20Profit%20Sprint%3A%20Erste%20Auszahlung%20in%2021%20Tagen
 
 ## 4. Editorial notes

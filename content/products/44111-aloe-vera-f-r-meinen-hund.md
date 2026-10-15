@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2023-05-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/44111/adminstore/"
+promo_link: "https://aloe-vera.funnelcockpit.com/hund/?aff=adminstore#aff=adminstore"
 sales_page: "https://aloe-vera.funnelcockpit.com/hund/"
 language: "de"
 ---
 # ALOE-VERA für meinen Hund
 
 > Product ID `44111` · Digistore24 productId `500332` · [HTML profile page](../../produkte/aloe-vera-f-r-meinen-hund-44111.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/44111/adminstore/
+- **Promo link (affiliate):** https://aloe-vera.funnelcockpit.com/hund/?aff=adminstore#aff=adminstore
 - Sales page: https://aloe-vera.funnelcockpit.com/hund/
 - Canonical redirect: https://www.digistore24.com/redir/500332/adminstore
 
@@ -58,14 +58,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist ALOE-VERA für meinen Hund? — Typ: E-books, Anbieter: chef63, gelistet seit 2023-05-24
-- Wie viel kostet es? — 6.786867000000001 USD
+- Wie viel kostet es? — 6.791116000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: ALOE-VERA für meinen Hund Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/500332
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/500332/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=ALOE-VERA%20f%C3%BCr%20meinen%20Hund
 
 ## 4. Editorial notes

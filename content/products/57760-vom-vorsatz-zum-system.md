@@ -4,7 +4,7 @@ digistore24_product_id: 714312
 title: "Vom Vorsatz zum System"
 vendor: "mathiaswalecki190574dc"
 product_type: "E-books"
-price: 20.8
+price: 20.81
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 10.4
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Marketing Services"]
 listed_since: "2026-07-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://reflektierende-welten.de/affiliate/produkte/vom-vorsatz-zum-system?aff=adminstore#aff=adminstore"
 sales_page: "https://reflektierende-welten.de/affiliate/produkte/vom-vorsatz-zum-system"
@@ -22,14 +22,14 @@ language: "de"
 # Vom Vorsatz zum System
 
 > Product ID `57760` · Digistore24 productId `714312` · [HTML profile page](../../produkte/vom-vorsatz-zum-system-57760.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.80 (Single payment) |
+| Price | $20.81 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $10.40 |
 | Cart conversion* | — |
@@ -78,14 +78,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Vom Vorsatz zum System? — Typ: E-books, Anbieter: mathiaswalecki190574dc, gelistet seit 2026-07-27
-- Wie viel kostet es? — 20.796660000000003 USD
+- Wie viel kostet es? — 20.80968 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Vom Vorsatz zum System Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/714312
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/714312/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Vom%20Vorsatz%20zum%20System
 
 ## 4. Editorial notes

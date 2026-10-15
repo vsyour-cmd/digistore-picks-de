@@ -12,17 +12,17 @@ cart_conversion_pct: 39
 cancel_rate_pct: 0.19
 categories: ["Business & Investment","Online Marketing & E-Business"]
 listed_since: "2026-01-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/55645/adminstore/"
+promo_link: "https://byebyehamsterrad.de/easy-sales-page-kickstart/?aff=adminstore#aff=adminstore"
 sales_page: "https://byebyehamsterrad.de/easy-sales-page-kickstart/"
 language: "de"
 ---
 # 100% AFFILIATE PROVISION – 7€ EINSTIEGSPRODUKT
 
 > Product ID `55645` · Digistore24 productId `659820` · [HTML profile page](../../produkte/100-affiliate-provision-7-einstiegsprodukt-55645.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55645/adminstore/
+- **Promo link (affiliate):** https://byebyehamsterrad.de/easy-sales-page-kickstart/?aff=adminstore#aff=adminstore
 - Sales page: https://byebyehamsterrad.de/easy-sales-page-kickstart/
 - Vendor affiliate support: https://byebyehamsterrad.de/partnerprogramm/easy-sales-page-kickstart/
 - Canonical redirect: https://www.digistore24.com/redir/659820/adminstore
@@ -80,14 +80,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 100% AFFILIATE PROVISION – 7€ EINSTIEGSPRODUKT? — Typ: Member area and video courses, Anbieter: MSFS_2218, gelistet seit 2026-01-08
-- Wie viel kostet es? — 5.489871000000001 USD
+- Wie viel kostet es? — 5.493308 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 100% AFFILIATE PROVISION – 7€ EINSTIEGSPRODUKT Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/659820
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/659820/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=100%25%20AFFILIATE%20PROVISION%20%E2%80%93%207%E2%82%AC%20EINSTIEGSPRODUKT
 
 ## 4. Editorial notes

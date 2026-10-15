@@ -4,16 +4,16 @@ digistore24_product_id: 670438
 title: "10K-Management – 24h Implementierung"
 vendor: "AT-Media"
 product_type: "E-books"
-price: 51.2
+price: 51.23
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 17.92
+earnings_per_sale: 17.93
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Computer & Internet","Education","Profession & Job"]
+categories: ["Computer & Internet","Profession & Job","Education"]
 listed_since: "2026-02-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://at-teamtools.de/10k-management/?aff=adminstore#aff=adminstore"
 sales_page: "https://at-teamtools.de/10k-management/"
@@ -22,22 +22,22 @@ language: "de"
 # 10K-Management – 24h Implementierung
 
 > Product ID `56154` · Digistore24 productId `670438` · [HTML profile page](../../produkte/10k-management-24h-implementierung-56154.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $51.20 (Single payment) |
+| Price | $51.23 (Single payment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $17.92 |
+| Earnings/sale* | $17.93 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | AT-Media |
 | Listed since | 2026-02-20 |
 | Auto-accept affiliates | yes |
-| Categories | Computer & Internet, Education, Profession & Job |
+| Categories | Computer & Internet, Profession & Job, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -83,14 +83,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 10K-Management – 24h Implementierung? — Typ: E-books, Anbieter: AT-Media, gelistet seit 2026-02-20
-- Wie viel kostet es? — 51.197799 USD
+- Wie viel kostet es? — 51.229852 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 10K-Management – 24h Implementierung Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/670438
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/670438/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=10K-Management%20%E2%80%93%2024h%20Implementierung
 
 ## 4. Editorial notes

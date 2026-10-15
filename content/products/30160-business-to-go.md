@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2019-10-14"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://b-to-go.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://b-to-go.com/"
@@ -22,7 +22,7 @@ language: "de"
 # Business to-go
 
 > Product ID `30160` · Digistore24 productId `290630` · [HTML profile page](../../produkte/business-to-go-30160.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -66,7 +66,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Business to-go Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/290630
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/290630/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Business%20to-go
 
 ## 4. Editorial notes

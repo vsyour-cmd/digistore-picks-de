@@ -4,34 +4,34 @@ digistore24_product_id: 496251
 title: "Practitioner EnergieHypnose Modular"
 vendor: "hh-akademie"
 product_type: "Seminar for business customers"
-price: 5556.03
+price: 5559.51
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 555.61
+earnings_per_sale: 555.95
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2023-04-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/56181/adminstore/"
+promo_link: "https://www.digistore24.com/product/496251?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/496251"
 language: "de"
 ---
 # Practitioner EnergieHypnose Modular
 
 > Product ID `56181` · Digistore24 productId `496251` · [HTML profile page](../../produkte/practitioner-energiehypnose-modular-56181.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Seminar for business customers |
-| Price | $5556.03 (Single payment, Installment) |
+| Price | $5559.51 (Single payment, Installment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $555.61 |
+| Earnings/sale* | $555.95 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | hh-akademie |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56181/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/496251?aff=adminstore
 - Sales page: https://www.digistore24.com/product/496251
 - Vendor affiliate support: https://hh-akademie.at/digistore24-support-affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/496251/adminstore
@@ -88,14 +88,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Practitioner EnergieHypnose Modular? — Typ: Seminar for business customers, Anbieter: hh-akademie, gelistet seit 2023-04-26
-- Wie viel kostet es? — 5556.028977000001 USD
+- Wie viel kostet es? — 5559.507396 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Practitioner EnergieHypnose Modular Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/496251
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/496251/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Practitioner%20EnergieHypnose%20Modular
 
 ## 4. Editorial notes

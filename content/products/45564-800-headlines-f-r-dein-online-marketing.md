@@ -10,10 +10,10 @@ affiliate_commission_pct: 50
 earnings_per_sale: 0
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Email Marketing","Online Marketing & E-Business","Social Media"]
+categories: ["Online Marketing & E-Business","Social Media","Email Marketing"]
 listed_since: "2023-10-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.ilias-marketing.de/800-headlines-fuer-dein-online-marketing/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.ilias-marketing.de/800-headlines-fuer-dein-online-marketing/"
@@ -22,7 +22,7 @@ language: "de"
 # 800 Headlines für dein Online Marketing
 
 > Product ID `45564` · Digistore24 productId `519679` · [HTML profile page](../../produkte/800-headlines-f-r-dein-online-marketing-45564.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | iliasmak |
 | Listed since | 2023-10-07 |
 | Auto-accept affiliates | yes |
-| Categories | Email Marketing, Online Marketing & E-Business, Social Media |
+| Categories | Online Marketing & E-Business, Social Media, Email Marketing |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -88,7 +88,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 800 Headlines für dein Online Marketing Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/519679
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/519679/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=800%20Headlines%20f%C3%BCr%20dein%20Online%20Marketing
 
 ## 4. Editorial notes

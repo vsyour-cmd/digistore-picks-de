@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing"]
 listed_since: "2018-07-25"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/26019/adminstore/"
+promo_link: "https://los.larspilawski.de/buch-bedingungslose-finanzielle-freiheit/?aff=adminstore#aff=adminstore"
 sales_page: "https://los.larspilawski.de/buch-bedingungslose-finanzielle-freiheit/"
 language: "de"
 ---
 # Buch Bedingungslose Finanzielle Freiheit
 
 > Product ID `26019` · Digistore24 productId `234476` · [HTML profile page](../../produkte/buch-bedingungslose-finanzielle-freiheit-26019.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/26019/adminstore/
+- **Promo link (affiliate):** https://los.larspilawski.de/buch-bedingungslose-finanzielle-freiheit/?aff=adminstore#aff=adminstore
 - Sales page: https://los.larspilawski.de/buch-bedingungslose-finanzielle-freiheit/
 - Vendor affiliate support: https://vip.larspilawski.de/affiliate-partnerprogramm/index.php?id=342
 - Canonical redirect: https://www.digistore24.com/redir/234476/adminstore
@@ -84,14 +84,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Buch Bedingungslose Finanzielle Freiheit? — Typ: Book (printed), Anbieter: Cleriker, gelistet seit 2018-07-25
-- Wie viel kostet es? — 5.210346 USD
+- Wie viel kostet es? — 5.213608 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Buch Bedingungslose Finanzielle Freiheit Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/234476
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/234476/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Buch%20Bedingungslose%20Finanzielle%20Freiheit
 
 ## 4. Editorial notes

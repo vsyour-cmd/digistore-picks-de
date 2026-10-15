@@ -4,34 +4,34 @@ digistore24_product_id: 490908
 title: "Sprecher werden - In 1 Jahr zum Profisprecher - Medium"
 vendor: "isidde"
 product_type: "Online coaching"
-price: 898.95
+price: 899.52
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 179.79
+earnings_per_sale: 179.9
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2023-03-25"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/43265/adminstore/"
+promo_link: "https://www.isid.de/sprecher-ausbildung-sprecher-werden-in-1-jahr-zum-profisprecher/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.isid.de/sprecher-ausbildung-sprecher-werden-in-1-jahr-zum-profisprecher/"
 language: "de"
 ---
 # Sprecher werden - In 1 Jahr zum Profisprecher - Medium
 
 > Product ID `43265` · Digistore24 productId `490908` · [HTML profile page](../../produkte/sprecher-werden-in-1-jahr-zum-profisprecher-medium-43265.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $898.95 (Single payment, Installment) |
+| Price | $899.52 (Single payment, Installment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $179.79 |
+| Earnings/sale* | $179.90 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | isidde |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/43265/adminstore/
+- **Promo link (affiliate):** https://www.isid.de/sprecher-ausbildung-sprecher-werden-in-1-jahr-zum-profisprecher/?aff=adminstore#aff=adminstore
 - Sales page: https://www.isid.de/sprecher-ausbildung-sprecher-werden-in-1-jahr-zum-profisprecher/
 - Vendor affiliate support: https://www.isid.de/sprecher-werden-in-1-jahr-zum-profisprecher-affiliate-support-seite/
 - Canonical redirect: https://www.digistore24.com/redir/490908/adminstore
@@ -84,14 +84,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Sprecher werden - In 1 Jahr zum Profisprecher - Medium? — Typ: Online coaching, Anbieter: isidde, gelistet seit 2023-03-25
-- Wie viel kostet es? — 898.9524000000001 USD
+- Wie viel kostet es? — 899.5152 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Sprecher werden - In 1 Jahr zum Profisprecher - Medium Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/490908
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/490908/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Sprecher%20werden%20-%20In%201%20Jahr%20zum%20Profisprecher%20-%20Medium
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 665513
 title: "Werde Digitaler Assistent: Starte dein Home-Office Business"
 vendor: "iloveit24"
 product_type: "Member area and video courses"
-price: 279.06
+price: 279.23
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 139.53
+earnings_per_sale: 139.62
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Profession & Job","Marketing Services"]
 listed_since: "2026-01-31"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
 promo_link: "https://www.digitaler-assistent-werden.com/start?aff=adminstore#aff=adminstore"
 sales_page: "https://www.digitaler-assistent-werden.com/start"
@@ -22,16 +22,16 @@ language: "de"
 # Werde Digitaler Assistent: Starte dein Home-Office Business
 
 > Product ID `55416` · Digistore24 productId `665513` · [HTML profile page](../../produkte/werde-digitaler-assistent-starte-dein-home-office-business-55416.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $279.06 (Single payment) |
+| Price | $279.23 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $139.53 |
+| Earnings/sale* | $139.62 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | iloveit24 |
@@ -72,14 +72,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Werde Digitaler Assistent: Starte dein Home-Office Business? — Typ: Member area and video courses, Anbieter: iloveit24, gelistet seit 2026-01-31
-- Wie viel kostet es? — 279.055398 USD
+- Wie viel kostet es? — 279.23010400000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Werde Digitaler Assistent: Starte dein Home-Office Business Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/665513
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/665513/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Werde%20Digitaler%20Assistent%3A%20Starte%20dein%20Home-Office%20Business
 
 ## 4. Editorial notes

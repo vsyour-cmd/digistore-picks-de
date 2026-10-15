@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Home & Garden","Hotels & Gastronomy"]
 listed_since: "2026-07-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://0cn.de/ferienimmobilien?aff=adminstore#aff=adminstore"
 sales_page: "https://0cn.de/ferienimmobilien"
@@ -22,7 +22,7 @@ language: "de"
 # Gratis Zugang - Ferienimmobilien vermieten, immer ausgebucht
 
 > Product ID `57698` · Digistore24 productId `714393` · [HTML profile page](../../produkte/gratis-zugang-ferienimmobilien-vermieten-immer-ausgebucht-57698.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -65,7 +65,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Gratis Zugang - Ferienimmobilien vermieten, immer ausgebucht Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/714393
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/714393/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Gratis%20Zugang%20-%20Ferienimmobilien%20vermieten%2C%20immer%20ausgebucht
 
 ## 4. Editorial notes

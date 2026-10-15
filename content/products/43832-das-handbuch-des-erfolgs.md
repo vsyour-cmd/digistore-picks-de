@@ -4,16 +4,16 @@ digistore24_product_id: 487962
 title: "Das Handbuch des Erfolgs"
 vendor: "kohnlesoft"
 product_type: "E-books"
-price: 486.35
+price: 486.66
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 49.8
+earnings_per_sale: 49.83
 cart_conversion_pct: 21
 cancel_rate_pct: 2.03
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2023-03-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/redir/487962/adminstore"
 sales_page: "https://meine-radionik.de/landing-20.html?pk_campaign=dgs-[AFFILIATE]&pk_kwd=[CAMPAIGNKEY]"
@@ -22,16 +22,16 @@ language: "de"
 # Das Handbuch des Erfolgs
 
 > Product ID `43832` · Digistore24 productId `487962` · [HTML profile page](../../produkte/das-handbuch-des-erfolgs-43832.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $486.35 (Single payment) |
+| Price | $486.66 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $49.80 |
+| Earnings/sale* | $49.83 |
 | Cart conversion* | 21% |
 | Cancel rate* | 2.03% |
 | Vendor | kohnlesoft |
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Handbuch des Erfolgs? — Typ: E-books, Anbieter: kohnlesoft, gelistet seit 2023-03-08
-- Wie viel kostet es? — 486.35113800000005 USD
+- Wie viel kostet es? — 486.65562400000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Das Handbuch des Erfolgs Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/487962
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/487962/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Das%20Handbuch%20des%20Erfolgs
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 576777
 title: "Brainwashed Movie - von Gunnar Kessler"
 vendor: "GTK-littlefreilich"
 product_type: "Member area and video courses"
-price: 56.35
+price: 56.39
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 35.19
+earnings_per_sale: 35.21
 cart_conversion_pct: 29
 cancel_rate_pct: 8.41
-categories: ["Education","Personal Development","Spiri­tua­lity & Esotericism"]
+categories: ["Personal Development","Spiri­tua­lity & Esotericism","Education"]
 listed_since: "2024-10-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://brainwashed.de/bwm-7500/?aff=adminstore#aff=adminstore"
 sales_page: "https://brainwashed.de/bwm-7500/"
@@ -22,22 +22,22 @@ language: "de"
 # Brainwashed Movie - von Gunnar Kessler
 
 > Product ID `54220` · Digistore24 productId `576777` · [HTML profile page](../../produkte/brainwashed-movie-von-gunnar-kessler-54220.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $56.35 (Single payment) |
+| Price | $56.39 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $35.19 |
+| Earnings/sale* | $35.21 |
 | Cart conversion* | 29% |
 | Cancel rate* | 8.41% |
 | Vendor | GTK-littlefreilich |
 | Listed since | 2024-10-23 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Personal Development, Spiri­tua­lity & Esotericism |
+| Categories | Personal Development, Spiri­tua­lity & Esotericism, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -86,14 +86,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Brainwashed Movie - von Gunnar Kessler? — Typ: Member area and video courses, Anbieter: GTK-littlefreilich, gelistet seit 2024-10-23
-- Wie viel kostet es? — 56.35224 USD
+- Wie viel kostet es? — 56.38752 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Brainwashed Movie - von Gunnar Kessler Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/576777
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/576777/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Brainwashed%20Movie%20-%20von%20Gunnar%20Kessler
 
 ## 4. Editorial notes

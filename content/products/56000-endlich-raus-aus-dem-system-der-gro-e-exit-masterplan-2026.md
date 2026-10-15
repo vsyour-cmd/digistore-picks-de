@@ -4,16 +4,16 @@ digistore24_product_id: 651384
 title: "Endlich raus aus dem System: Der große Exit Masterplan 2026"
 vendor: "alohalearndigital"
 product_type: "Member area and video courses"
-price: 2343.86
+price: 2345.33
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 653.85
+earnings_per_sale: 654.26
 cart_conversion_pct: 7
 cancel_rate_pct: 7.15
 categories: ["Business & Investment","Online Marketing & E-Business"]
 listed_since: "2025-11-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://nomadmaster.de/exit-masterplan?aff=adminstore#aff=adminstore"
 sales_page: "https://nomadmaster.de/exit-masterplan"
@@ -22,16 +22,16 @@ language: "de"
 # Endlich raus aus dem System: Der große Exit Masterplan 2026
 
 > Product ID `56000` · Digistore24 productId `651384` · [HTML profile page](../../produkte/endlich-raus-aus-dem-system-der-gro-e-exit-masterplan-2026-56000.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich (browser-rendered)**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $2343.86 (Single payment, Installment) |
+| Price | $2345.33 (Single payment, Installment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $653.85 |
+| Earnings/sale* | $654.26 |
 | Cart conversion* | 7% |
 | Cancel rate* | 7.15% |
 | Vendor | alohalearndigital |
@@ -73,14 +73,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Endlich raus aus dem System: Der große Exit Masterplan 2026? — Typ: Member area and video courses, Anbieter: alohalearndigital, gelistet seit 2025-11-27
-- Wie viel kostet es? — 2343.8618490000003 USD
+- Wie viel kostet es? — 2345.329252 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Endlich raus aus dem System: Der große Exit Masterplan 2026 Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/651384
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/651384/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Endlich%20raus%20aus%20dem%20System%3A%20Der%20gro%C3%9Fe%20Exit%20Masterplan%202026
 
 ## 4. Editorial notes

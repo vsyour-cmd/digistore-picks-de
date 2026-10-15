@@ -4,16 +4,16 @@ digistore24_product_id: 612767
 title: "Hunde Gesundheit - Alltags Guide"
 vendor: "Loverie"
 product_type: "E-books"
-price: 19.86
+price: 19.87
 currency: "USD"
 affiliate_commission_pct: 40
 earnings_per_sale: 7.94
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Animals & Pets","Health & Fitness"]
+categories: ["Health & Fitness","Animals & Pets"]
 listed_since: "2025-05-14"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://hundegesundheit.little-lovin.de/82073a18-0309-4f34-96b6-6d9768dcc7c6/?aff=adminstore#aff=adminstore"
 sales_page: "https://hundegesundheit.little-lovin.de/82073a18-0309-4f34-96b6-6d9768dcc7c6/"
@@ -22,14 +22,14 @@ language: "de"
 # Hunde Gesundheit - Alltags Guide
 
 > Product ID `52526` · Digistore24 productId `612767` · [HTML profile page](../../produkte/hunde-gesundheit-alltags-guide-52526.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $19.86 (Single payment, Installment) |
+| Price | $19.87 (Single payment, Installment) |
 | Affiliate commission | 40% |
 | Earnings/sale* | $7.94 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | Loverie |
 | Listed since | 2025-05-14 |
 | Auto-accept affiliates | yes |
-| Categories | Animals & Pets, Health & Fitness |
+| Categories | Health & Fitness, Animals & Pets |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -66,14 +66,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Hunde Gesundheit - Alltags Guide? — Typ: E-books, Anbieter: Loverie, gelistet seit 2025-05-14
-- Wie viel kostet es? — 19.857456000000003 USD
+- Wie viel kostet es? — 19.869888000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Hunde Gesundheit - Alltags Guide Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/612767
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/612767/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Hunde%20Gesundheit%20-%20Alltags%20Guide
 
 ## 4. Editorial notes

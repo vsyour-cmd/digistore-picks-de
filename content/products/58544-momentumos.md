@@ -4,16 +4,16 @@ digistore24_product_id: 701097
 title: "MomentumOS"
 vendor: "momentumOS"
 product_type: "E-books"
-price: 51.2
+price: 51.23
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 25.6
+earnings_per_sale: 25.62
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Business & Investment","Trading Products"]
+categories: ["Trading Products","Business & Investment"]
 listed_since: "2026-08-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "http://signals.risserd.com/momentumos/?aff=adminstore#aff=adminstore"
 sales_page: "http://signals.risserd.com/momentumos/"
@@ -22,22 +22,22 @@ language: "de"
 # MomentumOS
 
 > Product ID `58544` · Digistore24 productId `701097` · [HTML profile page](../../produkte/momentumos-58544.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $51.20 (Single payment) |
+| Price | $51.23 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $25.60 |
+| Earnings/sale* | $25.62 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | momentumOS |
 | Listed since | 2026-08-23 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Trading Products |
+| Categories | Trading Products, Business & Investment |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -91,14 +91,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist MomentumOS? — Typ: E-books, Anbieter: momentumOS, gelistet seit 2026-08-23
-- Wie viel kostet es? — 51.197799 USD
+- Wie viel kostet es? — 51.229852 USD
 - Garantie? — 14
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: MomentumOS Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/701097
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/701097/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=MomentumOS
 
 ## 4. Editorial notes

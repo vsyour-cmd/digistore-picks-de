@@ -4,7 +4,7 @@ digistore24_product_id: 384285
 title: "Handbuch für Investoren Free plus Shipping - Florian Günther"
 vendor: "einfachgeldanlegen"
 product_type: "Book (printed)"
-price: 6.46
+price: 6.47
 currency: "USD"
 affiliate_commission_pct: 0
 earnings_per_sale: 2.25
@@ -12,24 +12,24 @@ cart_conversion_pct: 45
 cancel_rate_pct: 0.59
 categories: ["Business & Investment"]
 listed_since: "2021-04-13"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/43017/adminstore/"
+promo_link: "https://investorenausbildung.de/finanzbuch-500/?aff=adminstore#aff=adminstore"
 sales_page: "https://investorenausbildung.de/finanzbuch-500/"
 language: "de"
 ---
 # Handbuch für Investoren Free plus Shipping - Florian Günther
 
 > Product ID `43017` · Digistore24 productId `384285` · [HTML profile page](../../produkte/handbuch-f-r-investoren-free-plus-shipping-florian-g-nther-43017.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $6.46 (Single payment) |
+| Price | $6.47 (Single payment) |
 | Affiliate commission | 0% |
 | Earnings/sale* | $2.25 |
 | Cart conversion* | 45% |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/43017/adminstore/
+- **Promo link (affiliate):** https://investorenausbildung.de/finanzbuch-500/?aff=adminstore#aff=adminstore
 - Sales page: https://investorenausbildung.de/finanzbuch-500/
 - Canonical redirect: https://www.digistore24.com/redir/384285/adminstore
 
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Handbuch für Investoren Free plus Shipping - Florian Günther? — Typ: Book (printed), Anbieter: einfachgeldanlegen, gelistet seit 2021-04-13
-- Wie viel kostet es? — 6.462618000000001 USD
+- Wie viel kostet es? — 6.466664000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Handbuch für Investoren Free plus Shipping - Florian Günther Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/384285
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/384285/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Handbuch%20f%C3%BCr%20Investoren%20Free%20plus%20Shipping%20-%20Florian%20G%C3%BCnther
 
 ## 4. Editorial notes

@@ -4,7 +4,7 @@ digistore24_product_id: 710082
 title: "Der 5-Stunden-Nebenjob"
 vendor: "Caffiliate"
 product_type: "E-books"
-price: 40.75
+price: 40.78
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 4.08
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Profession & Job"]
 listed_since: "2026-07-10"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/57481/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/710082?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/710082"
 language: "de"
 ---
 # Der 5-Stunden-Nebenjob
 
 > Product ID `57481` · Digistore24 productId `710082` · [HTML profile page](../../produkte/der-5-stunden-nebenjob-57481.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $40.75 (Single payment) |
+| Price | $40.78 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $4.08 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/57481/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/710082?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/710082
 - Canonical redirect: https://www.digistore24.com/redir/710082/adminstore
 
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der 5-Stunden-Nebenjob? — Typ: E-books, Anbieter: Caffiliate, gelistet seit 2026-07-10
-- Wie viel kostet es? — 40.75474500000001 USD
+- Wie viel kostet es? — 40.780260000000006 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Der 5-Stunden-Nebenjob Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/710082
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/710082/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%205-Stunden-Nebenjob
 
 ## 4. Editorial notes

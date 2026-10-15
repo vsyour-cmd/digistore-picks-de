@@ -10,10 +10,10 @@ affiliate_commission_pct: 50
 earnings_per_sale: 0.94
 cart_conversion_pct: 18
 cancel_rate_pct: 2.71
-categories: ["Email Marketing","Online Marketing & E-Business","Profession & Job"]
+categories: ["Online Marketing & E-Business","Profession & Job","Email Marketing"]
 listed_since: "2025-03-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://affiliforge.net/E-Mail-Marketing-ABC?aff=adminstore#aff=adminstore"
 sales_page: "https://affiliforge.net/E-Mail-Marketing-ABC"
@@ -22,7 +22,7 @@ language: "de"
 # E-Mail-Marketing ABC mit KI Unterstützung
 
 > Product ID `51828` · Digistore24 productId `603238` · [HTML profile page](../../produkte/e-mail-marketing-abc-mit-ki-unterst-tzung-51828.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | AffiliForge |
 | Listed since | 2025-03-23 |
 | Auto-accept affiliates | yes |
-| Categories | Email Marketing, Online Marketing & E-Business, Profession & Job |
+| Categories | Online Marketing & E-Business, Profession & Job, Email Marketing |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -78,14 +78,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist E-Mail-Marketing ABC mit KI Unterstützung? — Typ: Member area and video courses, Anbieter: AffiliForge, gelistet seit 2025-03-23
-- Wie viel kostet es? — 2.448639 USD
+- Wie viel kostet es? — 2.450172 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: E-Mail-Marketing ABC mit KI Unterstützung Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/603238
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/603238/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=E-Mail-Marketing%20ABC%20mit%20KI%20Unterst%C3%BCtzung
 
 ## 4. Editorial notes

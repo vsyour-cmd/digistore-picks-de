@@ -4,7 +4,7 @@ digistore24_product_id: 314238
 title: "Online Pole Dance lernen"
 vendor: "AerialAcademy"
 product_type: "Member area and video courses"
-price: 18.74
+price: 18.75
 currency: "USD"
 affiliate_commission_pct: 20
 earnings_per_sale: 3.75
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2020-03-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/32369/adminstore/"
+promo_link: "https://aerialacademy.de/polesport-poledance/?aff=adminstore#aff=adminstore"
 sales_page: "https://aerialacademy.de/polesport-poledance/"
 language: "de"
 ---
 # Online Pole Dance lernen
 
 > Product ID `32369` · Digistore24 productId `314238` · [HTML profile page](../../produkte/online-pole-dance-lernen-32369.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $18.74 (Subscription) |
+| Price | $18.75 (Subscription) |
 | Affiliate commission | 20% |
 | Earnings/sale* | $3.75 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/32369/adminstore/
+- **Promo link (affiliate):** https://aerialacademy.de/polesport-poledance/?aff=adminstore#aff=adminstore
 - Sales page: https://aerialacademy.de/polesport-poledance/
 - Vendor affiliate support: https://aerialacademy.de/affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/314238/adminstore
@@ -75,14 +75,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online Pole Dance lernen? — Typ: Member area and video courses, Anbieter: AerialAcademy, gelistet seit 2020-03-20
-- Wie viel kostet es? — 18.739356000000004 USD
+- Wie viel kostet es? — 18.751088000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Online Pole Dance lernen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/314238
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/314238/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Online%20Pole%20Dance%20lernen
 
 ## 4. Editorial notes

@@ -4,34 +4,34 @@ digistore24_product_id: 601112
 title: "Witwenrente und Steuern verständlich erklärt"
 vendor: "verwitwet-leben"
 product_type: "Downloads"
-price: 74.23
+price: 74.28
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 22.27
+earnings_per_sale: 22.29
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Education"]
 listed_since: "2026-06-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/56801/adminstore/"
+promo_link: "https://verwitwet-leben.de/berechnungshilfe/?aff=adminstore#aff=adminstore"
 sales_page: "https://verwitwet-leben.de/berechnungshilfe/"
 language: "de"
 ---
 # Witwenrente und Steuern verständlich erklärt
 
 > Product ID `56801` · Digistore24 productId `601112` · [HTML profile page](../../produkte/witwenrente-und-steuern-verst-ndlich-erkl-rt-56801.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $74.23 (Single payment) |
+| Price | $74.28 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $22.27 |
+| Earnings/sale* | $22.29 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | verwitwet-leben |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56801/adminstore/
+- **Promo link (affiliate):** https://verwitwet-leben.de/berechnungshilfe/?aff=adminstore#aff=adminstore
 - Sales page: https://verwitwet-leben.de/berechnungshilfe/
 - Canonical redirect: https://www.digistore24.com/redir/601112/adminstore
 
@@ -80,14 +80,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Witwenrente und Steuern verständlich erklärt? — Typ: Downloads, Anbieter: verwitwet-leben, gelistet seit 2026-06-04
-- Wie viel kostet es? — 74.230659 USD
+- Wie viel kostet es? — 74.27713200000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Witwenrente und Steuern verständlich erklärt Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/601112
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/601112/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Witwenrente%20und%20Steuern%20verst%C3%A4ndlich%20erkl%C3%A4rt
 
 ## 4. Editorial notes

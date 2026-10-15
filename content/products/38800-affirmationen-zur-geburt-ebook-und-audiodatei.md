@@ -4,16 +4,16 @@ digistore24_product_id: 405502
 title: "Affirmationen zur Geburt - Ebook und Audiodatei"
 vendor: "KTolle"
 product_type: "Downloads"
-price: 36.64
+price: 36.66
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 10.99
+earnings_per_sale: 11
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2021-09-02"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://ichgebaere.com/affirmationen-e-book-audio-meditation/?aff=adminstore#aff=adminstore"
 sales_page: "https://ichgebaere.com/affirmationen-e-book-audio-meditation/"
@@ -22,16 +22,16 @@ language: "de"
 # Affirmationen zur Geburt - Ebook und Audiodatei
 
 > Product ID `38800` · Digistore24 productId `405502` · [HTML profile page](../../produkte/affirmationen-zur-geburt-ebook-und-audiodatei-38800.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $36.64 (Single payment) |
+| Price | $36.66 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $10.99 |
+| Earnings/sale* | $11.00 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | KTolle |
@@ -82,14 +82,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Affirmationen zur Geburt - Ebook und Audiodatei? — Typ: Downloads, Anbieter: KTolle, gelistet seit 2021-09-02
-- Wie viel kostet es? — 36.64013700000001 USD
+- Wie viel kostet es? — 36.663076000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Affirmationen zur Geburt - Ebook und Audiodatei Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/405502
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/405502/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Affirmationen%20zur%20Geburt%20-%20Ebook%20und%20Audiodatei
 
 ## 4. Editorial notes

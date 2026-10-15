@@ -10,10 +10,10 @@ affiliate_commission_pct: 50
 earnings_per_sale: 0
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: []
+categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-10-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://byebyehamsterrad.de/masterclass-digital-income/?aff=adminstore#aff=adminstore"
 sales_page: "https://byebyehamsterrad.de/masterclass-digital-income/"
@@ -22,7 +22,7 @@ language: "de"
 # Kostenfreie Masterclass – bis 150 € wiederkehrend
 
 > Product ID `60426` · Digistore24 productId `731646` · [HTML profile page](../../produkte/kostenfreie-masterclass-bis-150-wiederkehrend-60426.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | MSFS_2218 |
 | Listed since | 2026-10-08 |
 | Auto-accept affiliates | yes |
-| Categories | Uncategorized |
+| Categories | Business & Investment, Online Marketing & E-Business, Social Media |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -86,7 +86,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Kostenfreie Masterclass – bis 150 € wiederkehrend Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/731646
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/731646/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Kostenfreie%20Masterclass%20%E2%80%93%20bis%20150%20%E2%82%AC%20wiederkehrend
 
 ## 4. Editorial notes

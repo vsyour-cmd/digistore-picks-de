@@ -12,8 +12,8 @@ cart_conversion_pct: 34
 cancel_rate_pct: 5.53
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2025-06-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
 promo_link: "https://vierstelligimmonat.de/reel-videos?aff=adminstore#aff=adminstore"
 sales_page: "https://vierstelligimmonat.de/reel-videos"
@@ -22,7 +22,7 @@ language: "de"
 # 1000+ Luxus Reels (Freebie)
 
 > Product ID `52812` · Digistore24 productId `616958` · [HTML profile page](../../produkte/1000-luxus-reels-freebie-52812.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -61,14 +61,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 1000+ Luxus Reels (Freebie)? — Typ: Downloads, Anbieter: MoneyCreators, gelistet seit 2025-06-05
-- Wie viel kostet es? — 1.106919 USD
+- Wie viel kostet es? — 1.107612 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 1000+ Luxus Reels (Freebie) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/616958
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/616958/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=1000%2B%20Luxus%20Reels%20(Freebie)
 
 ## 4. Editorial notes

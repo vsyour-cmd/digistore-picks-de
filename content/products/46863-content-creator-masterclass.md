@@ -12,17 +12,17 @@ cart_conversion_pct: 28
 cancel_rate_pct: 2.33
 categories: ["Online Marketing & E-Business","Profession & Job","Social Media"]
 listed_since: "2024-01-19"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/46863/adminstore/"
+promo_link: "https://michael-schlinder.com/Content-Creator-Masterclass?aff=adminstore#aff=adminstore"
 sales_page: "https://michael-schlinder.com/Content-Creator-Masterclass"
 language: "de"
 ---
 # Content Creator Masterclass
 
 > Product ID `46863` · Digistore24 productId `535044` · [HTML profile page](../../produkte/content-creator-masterclass-46863.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/46863/adminstore/
+- **Promo link (affiliate):** https://michael-schlinder.com/Content-Creator-Masterclass?aff=adminstore#aff=adminstore
 - Sales page: https://michael-schlinder.com/Content-Creator-Masterclass
 - Vendor affiliate support: https://affiliforge.net/AffiliForge-Partnerportal
 - Canonical redirect: https://www.digistore24.com/redir/535044/adminstore
@@ -73,14 +73,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Content Creator Masterclass? — Typ: Member area and video courses, Anbieter: MSchlinder, gelistet seit 2024-01-19
-- Wie viel kostet es? — 0.268344 USD
+- Wie viel kostet es? — 0.268512 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Content Creator Masterclass Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/535044
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/535044/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Content%20Creator%20Masterclass
 
 ## 4. Editorial notes

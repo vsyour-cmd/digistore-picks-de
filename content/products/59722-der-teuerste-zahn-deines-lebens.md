@@ -4,16 +4,16 @@ digistore24_product_id: 719976
 title: "Der teuerste Zahn deines Lebens"
 vendor: "SocratesDentalAcademy"
 product_type: "Member area and video courses"
-price: 176.64
+price: 176.75
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 88.32
+earnings_per_sale: 88.37
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-09-25"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://socratesdentalacademy.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://socratesdentalacademy.de/"
@@ -22,16 +22,16 @@ language: "de"
 # Der teuerste Zahn deines Lebens
 
 > Product ID `59722` · Digistore24 productId `719976` · [HTML profile page](../../produkte/der-teuerste-zahn-deines-lebens-59722.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $176.64 (Single payment, Installment) |
+| Price | $176.75 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $88.32 |
+| Earnings/sale* | $88.37 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SocratesDentalAcademy |
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der teuerste Zahn deines Lebens? — Typ: Member area and video courses, Anbieter: SocratesDentalAcademy, gelistet seit 2026-09-25
-- Wie viel kostet es? — 176.637438 USD
+- Wie viel kostet es? — 176.748024 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Der teuerste Zahn deines Lebens Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/719976
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/719976/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%20teuerste%20Zahn%20deines%20Lebens
 
 ## 4. Editorial notes

@@ -4,7 +4,7 @@ digistore24_product_id: 683333
 title: "Fit ohne Gym - Einfache Übungen für Zuhause"
 vendor: "Freifone"
 product_type: "E-books"
-price: 15.62
+price: 15.63
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 7.82
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Sport"]
 listed_since: "2026-04-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/56199/adminstore/"
+promo_link: "https://designs-nf.com/ebooks/fit-ohne-gym?aff=adminstore#aff=adminstore"
 sales_page: "https://designs-nf.com/ebooks/fit-ohne-gym"
 language: "de"
 ---
 # Fit ohne Gym - Einfache Übungen für Zuhause
 
 > Product ID `56199` · Digistore24 productId `683333` · [HTML profile page](../../produkte/fit-ohne-gym-einfache-bungen-f-r-zuhause-56199.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $15.62 (Single payment) |
+| Price | $15.63 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $7.82 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56199/adminstore/
+- **Promo link (affiliate):** https://designs-nf.com/ebooks/fit-ohne-gym?aff=adminstore#aff=adminstore
 - Sales page: https://designs-nf.com/ebooks/fit-ohne-gym
 - Vendor affiliate support: https://designs-nf.com/affiliate/links
 - Canonical redirect: https://www.digistore24.com/redir/683333/adminstore
@@ -82,14 +82,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Fit ohne Gym - Einfache Übungen für Zuhause? — Typ: E-books, Anbieter: Freifone, gelistet seit 2026-04-08
-- Wie viel kostet es? — 15.619857000000001 USD
+- Wie viel kostet es? — 15.629636000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Fit ohne Gym - Einfache Übungen für Zuhause Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/683333
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/683333/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Fit%20ohne%20Gym%20-%20Einfache%20%C3%9Cbungen%20f%C3%BCr%20Zuhause
 
 ## 4. Editorial notes

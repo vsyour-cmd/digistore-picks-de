@@ -4,40 +4,40 @@ digistore24_product_id: 511532
 title: "Quantenheilung - umfangreiches Video Kompendium"
 vendor: "bjheede"
 product_type: "Member area and video courses"
-price: 1054.21
+price: 1054.87
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 316.27
+earnings_per_sale: 316.46
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Personal Development","Spiri­tua­lity & Esotericism"]
+categories: ["Personal Development","Spiri­tua­lity & Esotericism","Education"]
 listed_since: "2023-08-11"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/45429/adminstore/"
+promo_link: "https://matrix-inform.com/seminare/themenseminare/das-grosse-matrix-inform-video-kompendium/?aff=adminstore#aff=adminstore"
 sales_page: "https://matrix-inform.com/seminare/themenseminare/das-grosse-matrix-inform-video-kompendium/"
 language: "de"
 ---
 # Quantenheilung - umfangreiches Video Kompendium
 
 > Product ID `45429` · Digistore24 productId `511532` · [HTML profile page](../../produkte/quantenheilung-umfangreiches-video-kompendium-45429.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1054.21 (Single payment, Installment) |
+| Price | $1054.87 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $316.27 |
+| Earnings/sale* | $316.46 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | bjheede |
 | Listed since | 2023-08-11 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Personal Development, Spiri­tua­lity & Esotericism |
+| Categories | Personal Development, Spiri­tua­lity & Esotericism, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/45429/adminstore/
+- **Promo link (affiliate):** https://matrix-inform.com/seminare/themenseminare/das-grosse-matrix-inform-video-kompendium/?aff=adminstore#aff=adminstore
 - Sales page: https://matrix-inform.com/seminare/themenseminare/das-grosse-matrix-inform-video-kompendium/
 - Canonical redirect: https://www.digistore24.com/redir/511532/adminstore
 
@@ -95,14 +95,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Quantenheilung - umfangreiches Video Kompendium? — Typ: Member area and video courses, Anbieter: bjheede, gelistet seit 2023-08-11
-- Wie viel kostet es? — 1054.2117660000001 USD
+- Wie viel kostet es? — 1054.871768 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Quantenheilung - umfangreiches Video Kompendium Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/511532
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/511532/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Quantenheilung%20-%20umfangreiches%20Video%20Kompendium
 
 ## 4. Editorial notes

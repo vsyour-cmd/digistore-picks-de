@@ -10,10 +10,10 @@ affiliate_commission_pct: 50
 earnings_per_sale: 5.2
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Business & Investment","Food & Drink","Online Marketing & E-Business"]
+categories: ["Business & Investment","Online Marketing & E-Business","Food & Drink"]
 listed_since: "2025-12-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://cobyspartnerebook.netlify.app?aff=adminstore#aff=adminstore"
 sales_page: "https://cobyspartnerebook.netlify.app"
@@ -22,7 +22,7 @@ language: "de"
 # Das „No-Budget“ Business für jeden Kaffeeliebhaber.
 
 > Product ID `55066` · Digistore24 productId `657831` · [HTML profile page](../../produkte/das-no-budget-business-f-r-jeden-kaffeeliebhaber-55066.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | Rosi47 |
 | Listed since | 2025-12-29 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Food & Drink, Online Marketing & E-Business |
+| Categories | Business & Investment, Online Marketing & E-Business, Food & Drink |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -73,14 +73,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das „No-Budget“ Business für jeden Kaffeeliebhaber.? — Typ: E-books, Anbieter: Rosi47, gelistet seit 2025-12-29
-- Wie viel kostet es? — 10.398330000000001 USD
+- Wie viel kostet es? — 10.40484 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Das „No-Budget“ Business für jeden Kaffeeliebhaber. Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/657831
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/657831/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Das%20%E2%80%9ENo-Budget%E2%80%9C%20Business%20f%C3%BCr%20jeden%20Kaffeeliebhaber.
 
 ## 4. Editorial notes

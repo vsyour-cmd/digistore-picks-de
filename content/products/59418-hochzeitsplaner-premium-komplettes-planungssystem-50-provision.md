@@ -4,16 +4,16 @@ digistore24_product_id: 735217
 title: "Hochzeitsplaner Premium – komplettes Planungssystem | 50 % Provision"
 vendor: "DerPate"
 product_type: "Downloads"
-price: 37.49
+price: 37.51
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 18.75
+earnings_per_sale: 18.76
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Family & Children"]
 listed_since: "2026-09-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://meinevorlagenkiste.de/hochzeitsplaner/?aff=adminstore#aff=adminstore"
 sales_page: "https://meinevorlagenkiste.de/hochzeitsplaner/"
@@ -22,16 +22,16 @@ language: "de"
 # Hochzeitsplaner Premium – komplettes Planungssystem | 50 % Provision
 
 > Product ID `59418` · Digistore24 productId `735217` · [HTML profile page](../../produkte/hochzeitsplaner-premium-komplettes-planungssystem-50-provision-59418.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $37.49 (Single payment) |
+| Price | $37.51 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $18.75 |
+| Earnings/sale* | $18.76 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DerPate |
@@ -85,14 +85,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Hochzeitsplaner Premium – komplettes Planungssystem | 50 % Provision? — Typ: Downloads, Anbieter: DerPate, gelistet seit 2026-09-20
-- Wie viel kostet es? — 37.489893 USD
+- Wie viel kostet es? — 37.513364 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Hochzeitsplaner Premium – komplettes Planungssystem | 50 % Provision Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/735217
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/735217/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Hochzeitsplaner%20Premium%20%E2%80%93%20komplettes%20Planungssystem%20%7C%2050%20%25%20Provision
 
 ## 4. Editorial notes

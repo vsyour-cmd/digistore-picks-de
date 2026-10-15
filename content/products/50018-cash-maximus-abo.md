@@ -4,16 +4,16 @@ digistore24_product_id: 632200
 title: "Cash Maximus Abo"
 vendor: "AndreasLang"
 product_type: "Member area and video courses"
-price: 141.88
+price: 141.96
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 86.81
+earnings_per_sale: 86.86
 cart_conversion_pct: 5
 cancel_rate_pct: 5.86
 categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2025-08-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://www.cashmaximus.de/dergoldenebutton/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.cashmaximus.de/dergoldenebutton/"
@@ -22,16 +22,16 @@ language: "de"
 # Cash Maximus Abo
 
 > Product ID `50018` · Digistore24 productId `632200` · [HTML profile page](../../produkte/cash-maximus-abo-50018.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $141.88 (Subscription) |
+| Price | $141.96 (Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $86.81 |
+| Earnings/sale* | $86.86 |
 | Cart conversion* | 5% |
 | Cancel rate* | 5.86% |
 | Vendor | AndreasLang |
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Cash Maximus Abo? — Typ: Member area and video courses, Anbieter: AndreasLang, gelistet seit 2025-08-27
-- Wie viel kostet es? — 141.875709 USD
+- Wie viel kostet es? — 141.964532 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Cash Maximus Abo Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/632200
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/632200/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Cash%20Maximus%20Abo
 
 ## 4. Editorial notes

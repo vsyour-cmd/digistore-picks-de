@@ -4,7 +4,7 @@ digistore24_product_id: 676517
 title: "Praxisleitfaden: Bewerbungen im Marketing"
 vendor: "Impulsklar"
 product_type: "E-books"
-price: 10.34
+price: 10.35
 currency: "USD"
 affiliate_commission_pct: 60
 earnings_per_sale: 6.21
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2026-07-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/57687/adminstore/"
+promo_link: "https://www.impulsklar.de/marketing-bewerbungen?aff=adminstore#aff=adminstore"
 sales_page: "https://www.impulsklar.de/marketing-bewerbungen"
 language: "de"
 ---
 # Praxisleitfaden: Bewerbungen im Marketing
 
 > Product ID `57687` · Digistore24 productId `676517` · [HTML profile page](../../produkte/praxisleitfaden-bewerbungen-im-marketing-57687.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.34 (Single payment) |
+| Price | $10.35 (Single payment) |
 | Affiliate commission | 60% |
 | Earnings/sale* | $6.21 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/57687/adminstore/
+- **Promo link (affiliate):** https://www.impulsklar.de/marketing-bewerbungen?aff=adminstore#aff=adminstore
 - Sales page: https://www.impulsklar.de/marketing-bewerbungen
 - Canonical redirect: https://www.digistore24.com/redir/676517/adminstore
 
@@ -65,14 +65,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Praxisleitfaden: Bewerbungen im Marketing? — Typ: E-books, Anbieter: Impulsklar, gelistet seit 2026-07-22
-- Wie viel kostet es? — 10.342425 USD
+- Wie viel kostet es? — 10.3489 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Praxisleitfaden: Bewerbungen im Marketing Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/676517
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/676517/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Praxisleitfaden%3A%20Bewerbungen%20im%20Marketing
 
 ## 4. Editorial notes

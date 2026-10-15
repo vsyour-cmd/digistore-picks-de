@@ -4,34 +4,34 @@ digistore24_product_id: 289048
 title: "Einjährige Onlineausbildung MET-Therapeut/in und MET-Coach"
 vendor: "franke2met"
 product_type: "Online coaching"
-price: 2419.64
+price: 2421.15
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 8.53
+earnings_per_sale: 8.54
 cart_conversion_pct: 6
 cancel_rate_pct: 2.71
 categories: ["Education"]
 listed_since: "2019-10-02"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/30905/adminstore/"
+promo_link: "https://franke-akademie.de/ausbildung-zum-met-therapeutin/?aff=adminstore#aff=adminstore"
 sales_page: "https://franke-akademie.de/ausbildung-zum-met-therapeutin/"
 language: "de"
 ---
 # Einjährige Onlineausbildung MET-Therapeut/in und MET-Coach
 
 > Product ID `30905` · Digistore24 productId `289048` · [HTML profile page](../../produkte/einj-hrige-onlineausbildung-met-therapeut-in-und-met-coach-30905.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $2419.64 (Single payment, Installment) |
+| Price | $2421.15 (Single payment, Installment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $8.53 |
+| Earnings/sale* | $8.54 |
 | Cart conversion* | 6% |
 | Cancel rate* | 2.71% |
 | Vendor | franke2met |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/30905/adminstore/
+- **Promo link (affiliate):** https://franke-akademie.de/ausbildung-zum-met-therapeutin/?aff=adminstore#aff=adminstore
 - Sales page: https://franke-akademie.de/ausbildung-zum-met-therapeutin/
 - Vendor affiliate support: https://franke-akademie.de/ausbildung-zum-met-therapeutin-fuer-therapeuten/partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/289048/adminstore
@@ -81,14 +81,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Einjährige Onlineausbildung MET-Therapeut/in und MET-Coach? — Typ: Online coaching, Anbieter: franke2met, gelistet seit 2019-10-02
-- Wie viel kostet es? — 2419.635486 USD
+- Wie viel kostet es? — 2421.150328 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Einjährige Onlineausbildung MET-Therapeut/in und MET-Coach Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/289048
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/289048/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Einj%C3%A4hrige%20Onlineausbildung%20MET-Therapeut%2Fin%20und%20MET-Coach
 
 ## 4. Editorial notes

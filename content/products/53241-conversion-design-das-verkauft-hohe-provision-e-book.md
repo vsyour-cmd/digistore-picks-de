@@ -4,40 +4,40 @@ digistore24_product_id: 625059
 title: "Conversion Design, das verkauft – Hohe Provision (E-Book)"
 vendor: "JumbMedia-Store"
 product_type: "E-books"
-price: 167.7
+price: 167.81
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 67.09
+earnings_per_sale: 67.13
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Business & Investment","Education","Online Marketing & E-Business"]
+categories: ["Business & Investment","Online Marketing & E-Business","Education"]
 listed_since: "2025-07-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/53241/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/625059?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/625059"
 language: "de"
 ---
 # Conversion Design, das verkauft – Hohe Provision (E-Book)
 
 > Product ID `53241` · Digistore24 productId `625059` · [HTML profile page](../../produkte/conversion-design-das-verkauft-hohe-provision-e-book-53241.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $167.70 (Single payment) |
+| Price | $167.81 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $67.09 |
+| Earnings/sale* | $67.13 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | JumbMedia-Store |
 | Listed since | 2025-07-21 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Education, Online Marketing & E-Business |
+| Categories | Business & Investment, Online Marketing & E-Business, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/53241/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/625059?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/625059
 - Canonical redirect: https://www.digistore24.com/redir/625059/adminstore
 
@@ -88,14 +88,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Conversion Design, das verkauft – Hohe Provision (E-Book)? — Typ: E-books, Anbieter: JumbMedia-Store, gelistet seit 2025-07-21
-- Wie viel kostet es? — 167.70381900000004 USD
+- Wie viel kostet es? — 167.80881200000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Conversion Design, das verkauft – Hohe Provision (E-Book) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/625059
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/625059/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Conversion%20Design%2C%20das%20verkauft%20%E2%80%93%20Hohe%20Provision%20(E-Book)
 
 ## 4. Editorial notes

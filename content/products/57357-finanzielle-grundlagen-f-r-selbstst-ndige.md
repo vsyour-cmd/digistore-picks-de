@@ -4,7 +4,7 @@ digistore24_product_id: 707219
 title: "Finanzielle Grundlagen für Selbstständige"
 vendor: "buergelconsulting"
 product_type: "E-books"
-price: 39.66
+price: 39.68
 currency: "USD"
 affiliate_commission_pct: 30
 earnings_per_sale: 11.9
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Finances"]
 listed_since: "2026-07-02"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/57357/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/707219?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/707219"
 language: "de"
 ---
 # Finanzielle Grundlagen für Selbstständige
 
 > Product ID `57357` · Digistore24 productId `707219` · [HTML profile page](../../produkte/finanzielle-grundlagen-f-r-selbstst-ndige-57357.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $39.66 (Single payment) |
+| Price | $39.68 (Single payment) |
 | Affiliate commission | 30% |
 | Earnings/sale* | $11.90 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/57357/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/707219?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/707219
 - Canonical redirect: https://www.digistore24.com/redir/707219/adminstore
 
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Finanzielle Grundlagen für Selbstständige? — Typ: E-books, Anbieter: buergelconsulting, gelistet seit 2026-07-02
-- Wie viel kostet es? — 39.659007 USD
+- Wie viel kostet es? — 39.683836 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Finanzielle Grundlagen für Selbstständige Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/707219
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/707219/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Finanzielle%20Grundlagen%20f%C3%BCr%20Selbstst%C3%A4ndige
 
 ## 4. Editorial notes

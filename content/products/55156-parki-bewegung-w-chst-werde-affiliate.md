@@ -4,7 +4,7 @@ digistore24_product_id: 658975
 title: "Parki-Bewegung wächst – werde Affiliate."
 vendor: "Erfolg2026"
 product_type: "E-books"
-price: 52.15
+price: 52.18
 currency: "USD"
 affiliate_commission_pct: 15
 earnings_per_sale: 7.83
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-01-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/658975?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/658975"
@@ -22,14 +22,14 @@ language: "de"
 # Parki-Bewegung wächst – werde Affiliate.
 
 > Product ID `55156` · Digistore24 productId `658975` · [HTML profile page](../../produkte/parki-bewegung-w-chst-werde-affiliate-55156.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $52.15 (Single payment) |
+| Price | $52.18 (Single payment) |
 | Affiliate commission | 15% |
 | Earnings/sale* | $7.83 |
 | Cart conversion* | — |
@@ -78,14 +78,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Parki-Bewegung wächst – werde Affiliate.? — Typ: E-books, Anbieter: Erfolg2026, gelistet seit 2026-01-05
-- Wie viel kostet es? — 52.14818400000001 USD
+- Wie viel kostet es? — 52.180832 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Parki-Bewegung wächst – werde Affiliate. Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/658975
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/658975/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Parki-Bewegung%20w%C3%A4chst%20%E2%80%93%20werde%20Affiliate.
 
 ## 4. Editorial notes

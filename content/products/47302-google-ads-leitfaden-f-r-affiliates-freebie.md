@@ -10,10 +10,10 @@ affiliate_commission_pct: 50
 earnings_per_sale: 4.51
 cart_conversion_pct: 16
 cancel_rate_pct: 2.86
-categories: ["Business & Investment","Education","Online Marketing & E-Business"]
+categories: ["Business & Investment","Online Marketing & E-Business","Education"]
 listed_since: "2024-05-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
 promo_link: "https://kb-om.com/google-ads-leitfaden-deal/?aff=adminstore#aff=adminstore"
 sales_page: "https://kb-om.com/google-ads-leitfaden-deal/"
@@ -22,7 +22,7 @@ language: "de"
 # Google Ads Leitfaden für Affiliates | Freebie
 
 > Product ID `47302` · Digistore24 productId `551034` · [HTML profile page](../../produkte/google-ads-leitfaden-f-r-affiliates-freebie-47302.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | Plebvin |
 | Listed since | 2024-05-04 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Education, Online Marketing & E-Business |
+| Categories | Business & Investment, Online Marketing & E-Business, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -64,14 +64,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Google Ads Leitfaden für Affiliates | Freebie? — Typ: Member area and video courses, Anbieter: Plebvin, gelistet seit 2024-05-04
-- Wie viel kostet es? — 0.6261360000000001 USD
+- Wie viel kostet es? — 0.6265280000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Google Ads Leitfaden für Affiliates | Freebie Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/551034
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/551034/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Google%20Ads%20Leitfaden%20f%C3%BCr%20Affiliates%20%7C%20Freebie
 
 ## 4. Editorial notes

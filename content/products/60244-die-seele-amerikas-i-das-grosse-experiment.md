@@ -4,16 +4,16 @@ digistore24_product_id: 725874
 title: "DIE SEELE AMERIKAS I Das Grosse Experiment"
 vendor: "ThomasYoung"
 product_type: "Member area and video courses"
-price: 279.06
+price: 279.23
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 83.71
+earnings_per_sale: 83.76
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-10-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.thomasyoung.online/masterclass-dsa?aff=adminstore#aff=adminstore"
 sales_page: "https://www.thomasyoung.online/masterclass-dsa"
@@ -22,16 +22,16 @@ language: "de"
 # DIE SEELE AMERIKAS I Das Grosse Experiment
 
 > Product ID `60244` · Digistore24 productId `725874` · [HTML profile page](../../produkte/die-seele-amerikas-i-das-grosse-experiment-60244.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $279.06 (Single payment, Installment) |
+| Price | $279.23 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $83.71 |
+| Earnings/sale* | $83.76 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ThomasYoung |
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist DIE SEELE AMERIKAS I Das Grosse Experiment? — Typ: Member area and video courses, Anbieter: ThomasYoung, gelistet seit 2026-10-06
-- Wie viel kostet es? — 279.055398 USD
+- Wie viel kostet es? — 279.23010400000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: DIE SEELE AMERIKAS I Das Grosse Experiment Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/725874
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/725874/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=DIE%20SEELE%20AMERIKAS%20I%20Das%20Grosse%20Experiment
 
 ## 4. Editorial notes

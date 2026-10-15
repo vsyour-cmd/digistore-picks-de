@@ -4,7 +4,7 @@ digistore24_product_id: 708665
 title: "KI für Senioren leicht gemacht – Ratgeber für Einsteiger"
 vendor: "ratgeberleichtgemacht"
 product_type: "E-books"
-price: 13.48
+price: 13.49
 currency: "USD"
 affiliate_commission_pct: 40
 earnings_per_sale: 5.39
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet"]
 listed_since: "2026-10-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/60313/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/708665?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/708665"
 language: "de"
 ---
 # KI für Senioren leicht gemacht – Ratgeber für Einsteiger
 
 > Product ID `60313` · Digistore24 productId `708665` · [HTML profile page](../../produkte/ki-f-r-senioren-leicht-gemacht-ratgeber-f-r-einsteiger-60313.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $13.48 (Single payment) |
+| Price | $13.49 (Single payment) |
 | Affiliate commission | 40% |
 | Earnings/sale* | $5.39 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/60313/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/708665?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/708665
 - Canonical redirect: https://www.digistore24.com/redir/708665/adminstore
 
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI für Senioren leicht gemacht – Ratgeber für Einsteiger? — Typ: E-books, Anbieter: ratgeberleichtgemacht, gelistet seit 2026-10-07
-- Wie viel kostet es? — 13.484286 USD
+- Wie viel kostet es? — 13.492728000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: KI für Senioren leicht gemacht – Ratgeber für Einsteiger Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/708665
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/708665/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=KI%20f%C3%BCr%20Senioren%20leicht%20gemacht%20%E2%80%93%20Ratgeber%20f%C3%BCr%20Einsteiger
 
 ## 4. Editorial notes

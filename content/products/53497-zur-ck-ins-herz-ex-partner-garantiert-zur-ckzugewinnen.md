@@ -4,40 +4,40 @@ digistore24_product_id: 629200
 title: "Zurück ins Herz: Ex-Partner garantiert zurückzugewinnen"
 vendor: "Freifone"
 product_type: "E-books"
-price: 34.43
+price: 34.45
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 17.22
+earnings_per_sale: 17.23
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Dating, Relationships & Romance","Family & Children","Personal Development"]
+categories: ["Personal Development","Dating, Relationships & Romance","Family & Children"]
 listed_since: "2025-08-12"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/53497/adminstore/"
+promo_link: "https://designs-nf.com/ebooks/zurueck-ins-herz?aff=adminstore#aff=adminstore"
 sales_page: "https://designs-nf.com/ebooks/zurueck-ins-herz"
 language: "de"
 ---
 # Zurück ins Herz: Ex-Partner garantiert zurückzugewinnen
 
 > Product ID `53497` · Digistore24 productId `629200` · [HTML profile page](../../produkte/zur-ck-ins-herz-ex-partner-garantiert-zur-ckzugewinnen-53497.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $34.43 (Single payment) |
+| Price | $34.45 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $17.22 |
+| Earnings/sale* | $17.23 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Freifone |
 | Listed since | 2025-08-12 |
 | Auto-accept affiliates | yes |
-| Categories | Dating, Relationships & Romance, Family & Children, Personal Development |
+| Categories | Personal Development, Dating, Relationships & Romance, Family & Children |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/53497/adminstore/
+- **Promo link (affiliate):** https://designs-nf.com/ebooks/zurueck-ins-herz?aff=adminstore#aff=adminstore
 - Sales page: https://designs-nf.com/ebooks/zurueck-ins-herz
 - Vendor affiliate support: https://designs-nf.com/affiliate/links
 - Canonical redirect: https://www.digistore24.com/redir/629200/adminstore
@@ -90,14 +90,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Zurück ins Herz: Ex-Partner garantiert zurückzugewinnen? — Typ: E-books, Anbieter: Freifone, gelistet seit 2025-08-12
-- Wie viel kostet es? — 34.426299 USD
+- Wie viel kostet es? — 34.447852 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Zurück ins Herz: Ex-Partner garantiert zurückzugewinnen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/629200
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/629200/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Zur%C3%BCck%20ins%20Herz%3A%20Ex-Partner%20garantiert%20zur%C3%BCckzugewinnen
 
 ## 4. Editorial notes

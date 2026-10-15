@@ -4,16 +4,16 @@ digistore24_product_id: 629098
 title: "Provision Mastery – Affiliate Strategien"
 vendor: "Challenge24ST"
 product_type: "Downloads"
-price: 34.76
+price: 34.78
 currency: "USD"
 affiliate_commission_pct: 80
-earnings_per_sale: 27.81
+earnings_per_sale: 27.82
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Services"]
 listed_since: "2025-08-12"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://stephantiegel.online/provision-mastery/upsell?aff=adminstore#aff=adminstore"
 sales_page: "https://stephantiegel.online/provision-mastery/upsell"
@@ -22,16 +22,16 @@ language: "de"
 # Provision Mastery – Affiliate Strategien
 
 > Product ID `53484` · Digistore24 productId `629098` · [HTML profile page](../../produkte/provision-mastery-affiliate-strategien-53484.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $34.76 (Single payment) |
+| Price | $34.78 (Single payment) |
 | Affiliate commission | 80% |
-| Earnings/sale* | $27.81 |
+| Earnings/sale* | $27.82 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Challenge24ST |
@@ -94,14 +94,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Provision Mastery – Affiliate Strategien? — Typ: Downloads, Anbieter: Challenge24ST, gelistet seit 2025-08-12
-- Wie viel kostet es? — 34.761729 USD
+- Wie viel kostet es? — 34.783492 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Provision Mastery – Affiliate Strategien Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/629098
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/629098/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Provision%20Mastery%20%E2%80%93%20Affiliate%20Strategien
 
 ## 4. Editorial notes

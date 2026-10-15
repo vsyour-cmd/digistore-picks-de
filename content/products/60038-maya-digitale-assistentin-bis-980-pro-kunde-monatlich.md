@@ -4,16 +4,16 @@ digistore24_product_id: 734021
 title: "Maya, digitale Assistentin: bis 980 € pro Kunde + monatlich"
 vendor: "geochatai"
 product_type: "Remote service provided electronically"
-price: 5478.69
+price: 5482.12
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 1095.74
+earnings_per_sale: 1096.42
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Services","Software","Real Estate"]
+categories: ["Software","Services","Real Estate"]
 listed_since: "2026-09-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://geochatai.de/bestellen?aff=adminstore#aff=adminstore"
 sales_page: "https://geochatai.de/bestellen"
@@ -22,22 +22,22 @@ language: "de"
 # Maya, digitale Assistentin: bis 980 € pro Kunde + monatlich
 
 > Product ID `60038` · Digistore24 productId `734021` · [HTML profile page](../../produkte/maya-digitale-assistentin-bis-980-pro-kunde-monatlich-60038.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $5478.69 (Single payment) |
+| Price | $5482.12 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $1095.74 |
+| Earnings/sale* | $1096.42 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | geochatai |
 | Listed since | 2026-09-29 |
 | Auto-accept affiliates | no (approval required) |
-| Categories | Services, Software, Real Estate |
+| Categories | Software, Services, Real Estate |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -82,14 +82,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Maya, digitale Assistentin: bis 980 € pro Kunde + monatlich? — Typ: Remote service provided electronically, Anbieter: geochatai, gelistet seit 2026-09-29
-- Wie viel kostet es? — 5478.6900000000005 USD
+- Wie viel kostet es? — 5482.12 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Maya, digitale Assistentin: bis 980 € pro Kunde + monatlich Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/734021
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/734021/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Maya%2C%20digitale%20Assistentin%3A%20bis%20980%20%E2%82%AC%20pro%20Kunde%20%2B%20monatlich
 
 ## 4. Editorial notes

@@ -4,34 +4,34 @@ digistore24_product_id: 417298
 title: "Glückliche Beziehung Jetzt - Gold!"
 vendor: "PetraSerena"
 product_type: "Webinar"
-price: 3940.6
+price: 3943.07
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 788.12
+earnings_per_sale: 788.61
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2021-11-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/40685/adminstore/"
+promo_link: "https://www.soulmatecoaching.de/gbj_gold_mentoring/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.soulmatecoaching.de/gbj_gold_mentoring/"
 language: "de"
 ---
 # Glückliche Beziehung Jetzt - Gold!
 
 > Product ID `40685` · Digistore24 productId `417298` · [HTML profile page](../../produkte/gl-ckliche-beziehung-jetzt-gold-40685.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Webinar |
-| Price | $3940.60 (Single payment, Installment) |
+| Price | $3943.07 (Single payment, Installment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $788.12 |
+| Earnings/sale* | $788.61 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | PetraSerena |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/40685/adminstore/
+- **Promo link (affiliate):** https://www.soulmatecoaching.de/gbj_gold_mentoring/?aff=adminstore#aff=adminstore
 - Sales page: https://www.soulmatecoaching.de/gbj_gold_mentoring/
 - Vendor affiliate support: https://www.soulmatecoaching.de/partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/417298/adminstore
@@ -102,14 +102,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Glückliche Beziehung Jetzt - Gold!? — Typ: Webinar, Anbieter: PetraSerena, gelistet seit 2021-11-22
-- Wie viel kostet es? — 3940.598097 USD
+- Wie viel kostet es? — 3943.065156 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Glückliche Beziehung Jetzt - Gold! Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/417298
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/417298/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Gl%C3%BCckliche%20Beziehung%20Jetzt%20-%20Gold!
 
 ## 4. Editorial notes

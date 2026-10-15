@@ -4,40 +4,40 @@ digistore24_product_id: 694698
 title: "Wenn dein Hund gehen musste | Audiopaket mit E-Book"
 vendor: "PsycheVital"
 product_type: "Downloads"
-price: 18.74
+price: 18.75
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 9.37
+earnings_per_sale: 9.38
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Animals & Pets","Personal Development"]
+categories: ["Personal Development","Animals & Pets"]
 listed_since: "2026-05-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/56659/adminstore/"
+promo_link: "https://www.loslassenlernen-online.de/wenn-dein-hund-gehen-musste/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.loslassenlernen-online.de/wenn-dein-hund-gehen-musste/"
 language: "de"
 ---
 # Wenn dein Hund gehen musste | Audiopaket mit E-Book
 
 > Product ID `56659` · Digistore24 productId `694698` · [HTML profile page](../../produkte/wenn-dein-hund-gehen-musste-audiopaket-mit-e-book-56659.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $18.74 (Single payment) |
+| Price | $18.75 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $9.37 |
+| Earnings/sale* | $9.38 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | PsycheVital |
 | Listed since | 2026-05-23 |
 | Auto-accept affiliates | yes |
-| Categories | Animals & Pets, Personal Development |
+| Categories | Personal Development, Animals & Pets |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56659/adminstore/
+- **Promo link (affiliate):** https://www.loslassenlernen-online.de/wenn-dein-hund-gehen-musste/?aff=adminstore#aff=adminstore
 - Sales page: https://www.loslassenlernen-online.de/wenn-dein-hund-gehen-musste/
 - Canonical redirect: https://www.digistore24.com/redir/694698/adminstore
 
@@ -74,14 +74,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Wenn dein Hund gehen musste | Audiopaket mit E-Book? — Typ: Downloads, Anbieter: PsycheVital, gelistet seit 2026-05-23
-- Wie viel kostet es? — 18.739356000000004 USD
+- Wie viel kostet es? — 18.751088000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Wenn dein Hund gehen musste | Audiopaket mit E-Book Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/694698
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/694698/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Wenn%20dein%20Hund%20gehen%20musste%20%7C%20Audiopaket%20mit%20E-Book
 
 ## 4. Editorial notes

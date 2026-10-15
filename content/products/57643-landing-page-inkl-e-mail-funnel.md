@@ -4,34 +4,34 @@ digistore24_product_id: 712707
 title: "Landing-Page inkl. E-Mail-Funnel"
 vendor: "worldxpb"
 product_type: "Remote service provided electronically"
-price: 280.93
+price: 281.11
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 42.14
+earnings_per_sale: 42.17
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-07-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/57643/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/712707?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/712707"
 language: "de"
 ---
 # Landing-Page inkl. E-Mail-Funnel
 
 > Product ID `57643` · Digistore24 productId `712707` · [HTML profile page](../../produkte/landing-page-inkl-e-mail-funnel-57643.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $280.93 (Single payment) |
+| Price | $281.11 (Single payment) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $42.14 |
+| Earnings/sale* | $42.17 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | worldxpb |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/57643/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/712707?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/712707
 - Canonical redirect: https://www.digistore24.com/redir/712707/adminstore
 
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Landing-Page inkl. E-Mail-Funnel? — Typ: Remote service provided electronically, Anbieter: worldxpb, gelistet seit 2026-07-21
-- Wie viel kostet es? — 280.933806 USD
+- Wie viel kostet es? — 281.109688 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Landing-Page inkl. E-Mail-Funnel Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/712707
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/712707/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Landing-Page%20inkl.%20E-Mail-Funnel
 
 ## 4. Editorial notes

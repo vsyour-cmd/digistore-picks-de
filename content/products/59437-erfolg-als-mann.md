@@ -4,40 +4,40 @@ digistore24_product_id: 735393
 title: "Erfolg Als Mann"
 vendor: "Book2Book"
 product_type: "E-books"
-price: 20.11
+price: 20.13
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 12.06
+earnings_per_sale: 12.07
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Business & Investment","Education","Personal Development"]
+categories: ["Personal Development","Business & Investment","Education"]
 listed_since: "2026-09-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/59437/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/735393?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/735393"
 language: "de"
 ---
 # Erfolg Als Mann
 
 > Product ID `59437` · Digistore24 productId `735393` · [HTML profile page](../../produkte/erfolg-als-mann-59437.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.11 (Single payment) |
+| Price | $20.13 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $12.06 |
+| Earnings/sale* | $12.07 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Book2Book |
 | Listed since | 2026-09-20 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Education, Personal Development |
+| Categories | Personal Development, Business & Investment, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59437/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/735393?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/735393
 - Vendor affiliate support: https://book2bookaffiliatesupport.blogspot.com/2026/09/erfolg-als-mann.html
 - Canonical redirect: https://www.digistore24.com/redir/735393/adminstore
@@ -88,14 +88,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Erfolg Als Mann? — Typ: E-books, Anbieter: Book2Book, gelistet seit 2026-09-20
-- Wie viel kostet es? — 20.114619 USD
+- Wie viel kostet es? — 20.127212 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Erfolg Als Mann Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/735393
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/735393/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Erfolg%20Als%20Mann
 
 ## 4. Editorial notes

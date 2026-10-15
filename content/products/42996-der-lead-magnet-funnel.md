@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Email Marketing"]
 listed_since: "2023-03-10"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.ilias-marketing.de/der-lead-magnet-funnel/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.ilias-marketing.de/der-lead-magnet-funnel/"
@@ -22,7 +22,7 @@ language: "de"
 # Der Lead Magnet Funnel
 
 > Product ID `42996` · Digistore24 productId `488388` · [HTML profile page](../../produkte/der-lead-magnet-funnel-42996.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -88,7 +88,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Der Lead Magnet Funnel Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/488388
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/488388/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%20Lead%20Magnet%20Funnel
 
 ## 4. Editorial notes

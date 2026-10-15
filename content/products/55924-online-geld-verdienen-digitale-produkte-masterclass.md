@@ -4,16 +4,16 @@ digistore24_product_id: 658891
 title: "Online Geld verdienen - Digitale Produkte Masterclass"
 vendor: "Profi10"
 product_type: "Downloads"
-price: 64.83
+price: 64.87
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 19.44
+earnings_per_sale: 19.46
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media"]
 listed_since: "2026-01-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/658891?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/658891"
@@ -22,16 +22,16 @@ language: "de"
 # Online Geld verdienen - Digitale Produkte Masterclass
 
 > Product ID `55924` · Digistore24 productId `658891` · [HTML profile page](../../produkte/online-geld-verdienen-digitale-produkte-masterclass-55924.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $64.83 (Single payment) |
+| Price | $64.87 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $19.44 |
+| Earnings/sale* | $19.46 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Profi10 |
@@ -84,14 +84,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online Geld verdienen - Digitale Produkte Masterclass? — Typ: Downloads, Anbieter: Profi10, gelistet seit 2026-01-04
-- Wie viel kostet es? — 64.827438 USD
+- Wie viel kostet es? — 64.86802399999999 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Online Geld verdienen - Digitale Produkte Masterclass Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/658891
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/658891/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Online%20Geld%20verdienen%20-%20Digitale%20Produkte%20Masterclass
 
 ## 4. Editorial notes

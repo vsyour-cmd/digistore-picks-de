@@ -7,22 +7,22 @@ product_type: "Downloads"
 price: 0.46
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 46.51
+earnings_per_sale: 46.54
 cart_conversion_pct: 19
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2017-07-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/37521/adminstore/"
+promo_link: "https://silentsubs.com/media/binaural-beats/?aff=adminstore#aff=adminstore"
 sales_page: "https://silentsubs.com/media/binaural-beats/"
 language: "de"
 ---
 # Binaural Beats Gesamtpaket (5,3 GB) - 50% Provision
 
 > Product ID `37521` · Digistore24 productId `152705` · [HTML profile page](../../produkte/binaural-beats-gesamtpaket-5-3-gb-50-provision-37521.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,7 @@ language: "de"
 | Product type | Downloads |
 | Price | $0.46 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $46.51 |
+| Earnings/sale* | $46.54 |
 | Cart conversion* | 19% |
 | Cancel rate* | 0% |
 | Vendor | mldesign |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/37521/adminstore/
+- **Promo link (affiliate):** https://silentsubs.com/media/binaural-beats/?aff=adminstore#aff=adminstore
 - Sales page: https://silentsubs.com/media/binaural-beats/
 - Vendor affiliate support: https://silentsubs.com/media/unser-partnerprogramm-silentsubs-com/
 - Canonical redirect: https://www.digistore24.com/redir/152705/adminstore
@@ -93,14 +93,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Binaural Beats Gesamtpaket (5,3 GB) - 50% Provision? — Typ: Downloads, Anbieter: mldesign, gelistet seit 2017-07-23
-- Wie viel kostet es? — 0.458421 USD
+- Wie viel kostet es? — 0.458708 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Binaural Beats Gesamtpaket (5,3 GB) - 50% Provision Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/152705
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/152705/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Binaural%20Beats%20Gesamtpaket%20(5%2C3%20GB)%20-%2050%25%20Provision
 
 ## 4. Editorial notes

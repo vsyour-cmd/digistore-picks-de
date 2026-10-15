@@ -4,32 +4,32 @@ digistore24_product_id: 549880
 title: "eBook Freilernen - selbstbestimmte Bildung begleiten"
 vendor: "Freiechtwunderbar"
 product_type: "E-books"
-price: 26.12
+price: 26.14
 currency: "USD"
 affiliate_commission_pct: 0
 earnings_per_sale: 5.59
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Family & Children","Personal Development"]
+categories: ["Personal Development","Family & Children","Education"]
 listed_since: "2024-04-25"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/47959/adminstore/"
+promo_link: "https://www.digistore24.com/product/549880?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/549880"
 language: "de"
 ---
 # eBook Freilernen - selbstbestimmte Bildung begleiten
 
 > Product ID `47959` · Digistore24 productId `549880` · [HTML profile page](../../produkte/ebook-freilernen-selbstbestimmte-bildung-begleiten-47959.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $26.12 (Single payment) |
+| Price | $26.14 (Single payment) |
 | Affiliate commission | 0% |
 | Earnings/sale* | $5.59 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | Freiechtwunderbar |
 | Listed since | 2024-04-25 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Family & Children, Personal Development |
+| Categories | Personal Development, Family & Children, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/47959/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/549880?aff=adminstore
 - Sales page: https://www.digistore24.com/product/549880
 - Vendor affiliate support: https://affiliatefreilernen.klicktipp.site/
 - Canonical redirect: https://www.digistore24.com/redir/549880/adminstore
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist eBook Freilernen - selbstbestimmte Bildung begleiten? — Typ: E-books, Anbieter: Freiechtwunderbar, gelistet seit 2024-04-25
-- Wie viel kostet es? — 26.118816000000002 USD
+- Wie viel kostet es? — 26.135168 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: eBook Freilernen - selbstbestimmte Bildung begleiten Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/549880
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/549880/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=eBook%20Freilernen%20-%20selbstbestimmte%20Bildung%20begleiten
 
 ## 4. Editorial notes

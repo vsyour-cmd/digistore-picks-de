@@ -4,34 +4,34 @@ digistore24_product_id: 81713
 title: "Geburtsvorbereitung Onlinekurs"
 vendor: "beermann"
 product_type: "Member area and video courses"
-price: 103.29
+price: 103.35
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 33.8
+earnings_per_sale: 33.82
 cart_conversion_pct: 20
 cancel_rate_pct: 0.42
 categories: ["Health & Fitness"]
 listed_since: "2016-05-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/16133/adminstore/"
+promo_link: "https://www.nadine-beermann.de/onlinekurs-gvb/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.nadine-beermann.de/onlinekurs-gvb/"
 language: "de"
 ---
 # Geburtsvorbereitung Onlinekurs
 
 > Product ID `16133` · Digistore24 productId `81713` · [HTML profile page](../../produkte/geburtsvorbereitung-onlinekurs-16133.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $103.29 (Single payment) |
+| Price | $103.35 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $33.80 |
+| Earnings/sale* | $33.82 |
 | Cart conversion* | 20% |
 | Cancel rate* | 0.42% |
 | Vendor | beermann |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/16133/adminstore/
+- **Promo link (affiliate):** https://www.nadine-beermann.de/onlinekurs-gvb/?aff=adminstore#aff=adminstore
 - Sales page: https://www.nadine-beermann.de/onlinekurs-gvb/
 - Vendor affiliate support: http://www.nadine-beermann.de/affiliate-support/
 - Canonical redirect: https://www.digistore24.com/redir/81713/adminstore
@@ -95,14 +95,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Geburtsvorbereitung Onlinekurs? — Typ: Member area and video courses, Anbieter: beermann, gelistet seit 2016-05-20
-- Wie viel kostet es? — 103.29007800000001 USD
+- Wie viel kostet es? — 103.354744 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Geburtsvorbereitung Onlinekurs Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/81713
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/81713/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Geburtsvorbereitung%20Onlinekurs
 
 ## 4. Editorial notes

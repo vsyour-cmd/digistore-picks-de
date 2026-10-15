@@ -4,16 +4,16 @@ digistore24_product_id: 518672
 title: "Forensic System - Analyse-Tool für Computer und Netzwerk"
 vendor: "engelmann-software"
 product_type: "Software"
-price: 30.99
+price: 31.01
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 9.3
+earnings_per_sale: 9.31
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: []
+categories: ["Software","Computer & Internet","Hobby & Craft"]
 listed_since: "2023-09-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/518672?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/518672"
@@ -22,22 +22,22 @@ language: "de"
 # Forensic System - Analyse-Tool für Computer und Netzwerk
 
 > Product ID `51982` · Digistore24 productId `518672` · [HTML profile page](../../produkte/forensic-system-analyse-tool-f-r-computer-und-netzwerk-51982.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $30.99 (Single payment) |
+| Price | $31.01 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $9.30 |
+| Earnings/sale* | $9.31 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | engelmann-software |
 | Listed since | 2023-09-29 |
 | Auto-accept affiliates | yes |
-| Categories | Uncategorized |
+| Categories | Software, Computer & Internet, Hobby & Craft |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -75,14 +75,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Forensic System - Analyse-Tool für Computer und Netzwerk? — Typ: Software, Anbieter: engelmann-software, gelistet seit 2023-09-29
-- Wie viel kostet es? — 30.993732 USD
+- Wie viel kostet es? — 31.013136 USD
 - Garantie? — 60
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Forensic System - Analyse-Tool für Computer und Netzwerk Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/518672
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/518672/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Forensic%20System%20-%20Analyse-Tool%20f%C3%BCr%20Computer%20und%20Netzwerk
 
 ## 4. Editorial notes

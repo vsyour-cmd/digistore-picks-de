@@ -4,16 +4,16 @@ digistore24_product_id: 695090
 title: "Starter Guide für Schichtarbeiter — Schlaf, Ernährung, Energie"
 vendor: "floriankirch83e8"
 product_type: "E-books"
-price: 30.3
+price: 30.32
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 12.12
+earnings_per_sale: 12.13
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-08-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://dasschichtsystem.de/stufe1.html?aff=adminstore#aff=adminstore"
 sales_page: "https://dasschichtsystem.de/stufe1.html"
@@ -22,16 +22,16 @@ language: "de"
 # Starter Guide für Schichtarbeiter — Schlaf, Ernährung, Energie
 
 > Product ID `58546` · Digistore24 productId `695090` · [HTML profile page](../../produkte/starter-guide-f-r-schichtarbeiter-schlaf-ern-hrung-energie-58546.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $30.30 (Single payment) |
+| Price | $30.32 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $12.12 |
+| Earnings/sale* | $12.13 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | floriankirch83e8 |
@@ -78,14 +78,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Starter Guide für Schichtarbeiter — Schlaf, Ernährung, Energie? — Typ: E-books, Anbieter: floriankirch83e8, gelistet seit 2026-08-23
-- Wie viel kostet es? — 30.300510000000003 USD
+- Wie viel kostet es? — 30.319480000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Starter Guide für Schichtarbeiter — Schlaf, Ernährung, Energie Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/695090
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/695090/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Starter%20Guide%20f%C3%BCr%20Schichtarbeiter%20%E2%80%94%20Schlaf%2C%20Ern%C3%A4hrung%2C%20Energie
 
 ## 4. Editorial notes

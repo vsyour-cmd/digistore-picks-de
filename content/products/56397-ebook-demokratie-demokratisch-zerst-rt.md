@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Law & Justice","Politics & Economy"]
 listed_since: "2026-04-30"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/56397/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/689066?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/689066"
 language: "de"
 ---
 # Ebook - Demokratie - Demokratisch zerstört
 
 > Product ID `56397` · Digistore24 productId `689066` · [HTML profile page](../../produkte/ebook-demokratie-demokratisch-zerst-rt-56397.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56397/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/689066?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/689066
 - Canonical redirect: https://www.digistore24.com/redir/689066/adminstore
 
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ebook - Demokratie - Demokratisch zerstört? — Typ: E-books, Anbieter: joebgesbuchverleger39ac, gelistet seit 2026-04-30
-- Wie viel kostet es? — 6.786867000000001 USD
+- Wie viel kostet es? — 6.791116000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Ebook - Demokratie - Demokratisch zerstört Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/689066
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/689066/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Ebook%20-%20Demokratie%20-%20Demokratisch%20zerst%C3%B6rt
 
 ## 4. Editorial notes

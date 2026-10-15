@@ -4,16 +4,16 @@ digistore24_product_id: 736402
 title: "Amazon KDP für Anfänger – Buch planen und vorbereiten mit Matze"
 vendor: "einfachmitmatze"
 product_type: "Downloads"
-price: 34.76
+price: 34.78
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 13.91
+earnings_per_sale: 13.92
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-09-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/736402?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/736402"
@@ -22,16 +22,16 @@ language: "de"
 # Amazon KDP für Anfänger – Buch planen und vorbereiten mit Matze
 
 > Product ID `59578` · Digistore24 productId `736402` · [HTML profile page](../../produkte/amazon-kdp-f-r-anf-nger-buch-planen-und-vorbereiten-mit-matze-59578.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $34.76 (Single payment) |
+| Price | $34.78 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $13.91 |
+| Earnings/sale* | $13.92 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | einfachmitmatze |
@@ -80,14 +80,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Amazon KDP für Anfänger – Buch planen und vorbereiten mit Matze? — Typ: Downloads, Anbieter: einfachmitmatze, gelistet seit 2026-09-23
-- Wie viel kostet es? — 34.761729 USD
+- Wie viel kostet es? — 34.783492 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Amazon KDP für Anfänger – Buch planen und vorbereiten mit Matze Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/736402
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/736402/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Amazon%20KDP%20f%C3%BCr%20Anf%C3%A4nger%20%E2%80%93%20Buch%20planen%20und%20vorbereiten%20mit%20Matze
 
 ## 4. Editorial notes

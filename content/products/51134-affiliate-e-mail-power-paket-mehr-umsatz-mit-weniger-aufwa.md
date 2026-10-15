@@ -10,10 +10,10 @@ affiliate_commission_pct: 50
 earnings_per_sale: 2.35
 cart_conversion_pct: 18
 cancel_rate_pct: 8.96
-categories: ["Education","Email Marketing","Profession & Job"]
+categories: ["Profession & Job","Education","Email Marketing"]
 listed_since: "2024-11-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://michelweinand.systeme.io/ace9a240?aff=adminstore#aff=adminstore"
 sales_page: "https://michelweinand.systeme.io/ace9a240"
@@ -22,7 +22,7 @@ language: "de"
 # Affiliate E-Mail Power Paket – Mehr Umsatz mit weniger Aufwa
 
 > Product ID `51134` · Digistore24 productId `581050` · [HTML profile page](../../produkte/affiliate-e-mail-power-paket-mehr-umsatz-mit-weniger-aufwa-51134.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | weinand1986 |
 | Listed since | 2024-11-17 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Email Marketing, Profession & Job |
+| Categories | Profession & Job, Education, Email Marketing |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -72,14 +72,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Affiliate E-Mail Power Paket – Mehr Umsatz mit weniger Aufwa? — Typ: Downloads, Anbieter: weinand1986, gelistet seit 2024-11-17
-- Wie viel kostet es? — 0.12299100000000002 USD
+- Wie viel kostet es? — 0.123068 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Affiliate E-Mail Power Paket – Mehr Umsatz mit weniger Aufwa Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/581050
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/581050/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Affiliate%20E-Mail%20Power%20Paket%20%E2%80%93%20Mehr%20Umsatz%20mit%20weniger%20Aufwa
 
 ## 4. Editorial notes

@@ -10,19 +10,19 @@ affiliate_commission_pct: 40
 earnings_per_sale: 6.23
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Family & Children","Profession & Job"]
+categories: ["Family & Children","Profession & Job","Education"]
 listed_since: "2026-10-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/60267/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/741107?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/741107"
 language: "de"
 ---
 # Ausbildung leicht gemacht – Ratgeber + Azubi-Rechner
 
 > Product ID `60267` · Digistore24 productId `741107` · [HTML profile page](../../produkte/ausbildung-leicht-gemacht-ratgeber-azubi-rechner-60267.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | ratgeberleichtgemacht |
 | Listed since | 2026-10-06 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Family & Children, Profession & Job |
+| Categories | Family & Children, Profession & Job, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/60267/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/741107?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/741107
 - Canonical redirect: https://www.digistore24.com/redir/741107/adminstore
 
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ausbildung leicht gemacht – Ratgeber + Azubi-Rechner? — Typ: E-books, Anbieter: ratgeberleichtgemacht, gelistet seit 2026-10-06
-- Wie viel kostet es? — 15.575133000000001 USD
+- Wie viel kostet es? — 15.584884 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Ausbildung leicht gemacht – Ratgeber + Azubi-Rechner Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/741107
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/741107/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Ausbildung%20leicht%20gemacht%20%E2%80%93%20Ratgeber%20%2B%20Azubi-Rechner
 
 ## 4. Editorial notes

@@ -4,7 +4,7 @@ digistore24_product_id: 716175
 title: "Gedanken erschaffen Wirklichkeit"
 vendor: "Novaris_web"
 product_type: "Downloads"
-price: 9.3
+price: 9.31
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 0.93
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2026-08-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://novaris.de.cool/gedanken.php?aff=adminstore#aff=adminstore"
 sales_page: "https://novaris.de.cool/gedanken.php"
@@ -22,14 +22,14 @@ language: "de"
 # Gedanken erschaffen Wirklichkeit
 
 > Product ID `58720` · Digistore24 productId `716175` · [HTML profile page](../../produkte/gedanken-erschaffen-wirklichkeit-58720.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $9.30 (Single payment) |
+| Price | $9.31 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $0.93 |
 | Cart conversion* | — |
@@ -69,14 +69,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Gedanken erschaffen Wirklichkeit? — Typ: Downloads, Anbieter: Novaris_web, gelistet seit 2026-08-27
-- Wie viel kostet es? — 9.302592 USD
+- Wie viel kostet es? — 9.308416000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Gedanken erschaffen Wirklichkeit Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/716175
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/716175/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Gedanken%20erschaffen%20Wirklichkeit
 
 ## 4. Editorial notes

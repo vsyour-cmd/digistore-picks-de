@@ -12,17 +12,17 @@ cart_conversion_pct: 11
 cancel_rate_pct: 1.81
 categories: ["Online Marketing & E-Business"]
 listed_since: "2016-12-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/39181/adminstore/"
+promo_link: "https://torstenjaeger.com/121affiliatehackz?aff=adminstore#aff=adminstore"
 sales_page: "https://torstenjaeger.com/121affiliatehackz"
 language: "de"
 ---
 # 121 Affiliate Marketing HACKZ
 
 > Product ID `39181` · Digistore24 productId `107607` · [HTML profile page](../../produkte/121-affiliate-marketing-hackz-39181.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/39181/adminstore/
+- **Promo link (affiliate):** https://torstenjaeger.com/121affiliatehackz?aff=adminstore#aff=adminstore
 - Sales page: https://torstenjaeger.com/121affiliatehackz
 - Vendor affiliate support: https://docs.google.com/document/d/1h14-9fSqUpQ5dARj2vWWdTH5Zk7YndbV4aHjyGTEgOU/edit?usp=sharing
 - Canonical redirect: https://www.digistore24.com/redir/107607/adminstore
@@ -59,14 +59,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 121 Affiliate Marketing HACKZ? — Typ: E-books, Anbieter: sattelitevendor, gelistet seit 2016-12-06
-- Wie viel kostet es? — 3.365481 USD
+- Wie viel kostet es? — 3.367588 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 121 Affiliate Marketing HACKZ Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/107607
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/107607/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=121%20Affiliate%20Marketing%20HACKZ
 
 ## 4. Editorial notes

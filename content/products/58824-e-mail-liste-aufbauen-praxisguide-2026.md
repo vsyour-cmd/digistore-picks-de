@@ -4,16 +4,16 @@ digistore24_product_id: 479638
 title: "E-Mail-Liste aufbauen – Praxisguide 2026"
 vendor: "HB1976"
 product_type: "E-books"
-price: 17.77
+price: 17.78
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 8.89
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Email Marketing","Online Marketing & E-Business"]
+categories: ["Online Marketing & E-Business","Email Marketing"]
 listed_since: "2026-09-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://affilifuchs.de/e-mail-liste-aufbauen/?aff=adminstore#aff=adminstore"
 sales_page: "https://affilifuchs.de/e-mail-liste-aufbauen/"
@@ -22,14 +22,14 @@ language: "de"
 # E-Mail-Liste aufbauen – Praxisguide 2026
 
 > Product ID `58824` · Digistore24 productId `479638` · [HTML profile page](../../produkte/e-mail-liste-aufbauen-praxisguide-2026-58824.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $17.77 (Single payment) |
+| Price | $17.78 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $8.89 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | HB1976 |
 | Listed since | 2026-09-01 |
 | Auto-accept affiliates | yes |
-| Categories | Email Marketing, Online Marketing & E-Business |
+| Categories | Online Marketing & E-Business, Email Marketing |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -92,14 +92,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist E-Mail-Liste aufbauen – Praxisguide 2026? — Typ: E-books, Anbieter: HB1976, gelistet seit 2026-09-01
-- Wie viel kostet es? — 17.766609000000003 USD
+- Wie viel kostet es? — 17.777732 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: E-Mail-Liste aufbauen – Praxisguide 2026 Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/479638
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/479638/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=E-Mail-Liste%20aufbauen%20%E2%80%93%20Praxisguide%202026
 
 ## 4. Editorial notes

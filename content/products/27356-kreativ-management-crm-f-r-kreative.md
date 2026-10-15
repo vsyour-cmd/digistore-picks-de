@@ -4,16 +4,16 @@ digistore24_product_id: 498058
 title: "Kreativ.Management - CRM für Kreative"
 vendor: "Hochzeitmanagement"
 product_type: "Software"
-price: 825.59
+price: 826.11
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 48.65
+earnings_per_sale: 48.68
 cart_conversion_pct: 33
 cancel_rate_pct: 2.76
-categories: ["Business & Investment","Computer & Internet","Software"]
+categories: ["Business & Investment","Software","Computer & Internet"]
 listed_since: "2023-05-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://kreativ.management?aff=adminstore#aff=adminstore"
 sales_page: "https://kreativ.management"
@@ -22,22 +22,22 @@ language: "de"
 # Kreativ.Management - CRM für Kreative
 
 > Product ID `27356` · Digistore24 productId `498058` · [HTML profile page](../../produkte/kreativ-management-crm-f-r-kreative-27356.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $825.59 (Subscription) |
+| Price | $826.11 (Subscription) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $48.65 |
+| Earnings/sale* | $48.68 |
 | Cart conversion* | 33% |
 | Cancel rate* | 2.76% |
 | Vendor | Hochzeitmanagement |
 | Listed since | 2023-05-09 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Computer & Internet, Software |
+| Categories | Business & Investment, Software, Computer & Internet |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -92,14 +92,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Kreativ.Management - CRM für Kreative? — Typ: Software, Anbieter: Hochzeitmanagement, gelistet seit 2023-05-09
-- Wie viel kostet es? — 825.5938590000001 USD
+- Wie viel kostet es? — 826.110732 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Kreativ.Management - CRM für Kreative Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/498058
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/498058/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Kreativ.Management%20-%20CRM%20f%C3%BCr%20Kreative
 
 ## 4. Editorial notes

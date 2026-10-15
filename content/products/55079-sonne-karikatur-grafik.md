@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Travel & Culture","Marketing Services"]
 listed_since: "2026-01-02"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
-promo_link: "https://www.digistore24.com/redir/55079/adminstore/"
+promo_link: "https://m.karikaturen-service.de/sonne-karikatur-verkaufseite.htm?aff=adminstore#aff=adminstore"
 sales_page: "https://m.karikaturen-service.de/sonne-karikatur-verkaufseite.htm"
 language: "de"
 ---
 # Sonne Karikatur Grafik
 
 > Product ID `55079` · Digistore24 productId `658510` · [HTML profile page](../../produkte/sonne-karikatur-grafik-55079.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55079/adminstore/
+- **Promo link (affiliate):** https://m.karikaturen-service.de/sonne-karikatur-verkaufseite.htm?aff=adminstore#aff=adminstore
 - Sales page: https://m.karikaturen-service.de/sonne-karikatur-verkaufseite.htm
 - Canonical redirect: https://www.digistore24.com/redir/658510/adminstore
 
@@ -62,14 +62,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Sonne Karikatur Grafik? — Typ: Downloads, Anbieter: Karikaturen-Service, gelistet seit 2026-01-02
-- Wie viel kostet es? — 2.8176120000000004 USD
+- Wie viel kostet es? — 2.819376 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Sonne Karikatur Grafik Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/658510
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/658510/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Sonne%20Karikatur%20Grafik
 
 ## 4. Editorial notes

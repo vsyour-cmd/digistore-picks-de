@@ -4,16 +4,16 @@ digistore24_product_id: 735246
 title: "Klarheitscode – 7-Tage-SOS bei Funkstille"
 vendor: "velourabelledigital"
 product_type: "Downloads"
-price: 62.95
+price: 62.99
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 31.47
+earnings_per_sale: 31.49
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Dating, Relationships & Romance","Personal Development"]
+categories: ["Personal Development","Dating, Relationships & Romance"]
 listed_since: "2026-10-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://klarheitscode-sos.netlify.app?aff=adminstore#aff=adminstore"
 sales_page: "https://klarheitscode-sos.netlify.app"
@@ -22,22 +22,22 @@ language: "de"
 # Klarheitscode – 7-Tage-SOS bei Funkstille
 
 > Product ID `60270` · Digistore24 productId `735246` · [HTML profile page](../../produkte/klarheitscode-7-tage-sos-bei-funkstille-60270.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $62.95 (Single payment) |
+| Price | $62.99 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $31.47 |
+| Earnings/sale* | $31.49 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | velourabelledigital |
 | Listed since | 2026-10-07 |
 | Auto-accept affiliates | yes |
-| Categories | Dating, Relationships & Romance, Personal Development |
+| Categories | Personal Development, Dating, Relationships & Romance |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -97,14 +97,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Klarheitscode – 7-Tage-SOS bei Funkstille? — Typ: Downloads, Anbieter: velourabelledigital, gelistet seit 2026-10-07
-- Wie viel kostet es? — 62.94903 USD
+- Wie viel kostet es? — 62.98844 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Klarheitscode – 7-Tage-SOS bei Funkstille Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/735246
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/735246/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Klarheitscode%20%E2%80%93%207-Tage-SOS%20bei%20Funkstille
 
 ## 4. Editorial notes

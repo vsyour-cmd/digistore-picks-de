@@ -4,16 +4,16 @@ digistore24_product_id: 393957
 title: "BLOCKCHAINREBELLEN // Lerne alles zum Thema Krypto"
 vendor: "blockchainrebellen"
 product_type: "Member area and video courses"
-price: 93.86
+price: 93.92
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 46.94
+earnings_per_sale: 46.97
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2021-06-11"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/393957?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/393957"
@@ -22,16 +22,16 @@ language: "de"
 # BLOCKCHAINREBELLEN // Lerne alles zum Thema Krypto
 
 > Product ID `37960` · Digistore24 productId `393957` · [HTML profile page](../../produkte/blockchainrebellen-lerne-alles-zum-thema-krypto-37960.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $93.86 (Subscription) |
+| Price | $93.92 (Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $46.94 |
+| Earnings/sale* | $46.97 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | blockchainrebellen |
@@ -81,14 +81,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist BLOCKCHAINREBELLEN // Lerne alles zum Thema Krypto? — Typ: Member area and video courses, Anbieter: blockchainrebellen, gelistet seit 2021-06-11
-- Wie viel kostet es? — 93.864495 USD
+- Wie viel kostet es? — 93.92326 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: BLOCKCHAINREBELLEN // Lerne alles zum Thema Krypto Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/393957
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/393957/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=BLOCKCHAINREBELLEN%20%2F%2F%20Lerne%20alles%20zum%20Thema%20Krypto
 
 ## 4. Editorial notes

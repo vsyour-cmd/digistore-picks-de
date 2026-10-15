@@ -12,17 +12,17 @@ cart_conversion_pct: 43
 cancel_rate_pct: 3.08
 categories: ["Personal Development"]
 listed_since: "2018-04-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/23893/adminstore/"
+promo_link: "https://buch.bodoschaefer.de/die-gesetze-der-gewinner?aff=adminstore#aff=adminstore"
 sales_page: "https://buch.bodoschaefer.de/die-gesetze-der-gewinner"
 language: "de"
 ---
 # "Die Gesetze Der Gewinner" von Bodo Schäfer
 
 > Product ID `23893` · Digistore24 productId `215489` · [HTML profile page](../../produkte/die-gesetze-der-gewinner-von-bodo-sch-fer-23893.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/23893/adminstore/
+- **Promo link (affiliate):** https://buch.bodoschaefer.de/die-gesetze-der-gewinner?aff=adminstore#aff=adminstore
 - Sales page: https://buch.bodoschaefer.de/die-gesetze-der-gewinner
 - Vendor affiliate support: https://www.bodoschaefer.de/partnerprogramm-werbemittel/
 - Canonical redirect: https://www.digistore24.com/redir/215489/adminstore
@@ -76,14 +76,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist "Die Gesetze Der Gewinner" von Bodo Schäfer? — Typ: Book (printed), Anbieter: BodoSchaefer, gelistet seit 2018-04-16
-- Wie viel kostet es? — 8.106225 USD
+- Wie viel kostet es? — 8.1113 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: "Die Gesetze Der Gewinner" von Bodo Schäfer Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/215489
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/215489/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=%22Die%20Gesetze%20Der%20Gewinner%22%20von%20Bodo%20Sch%C3%A4fer
 
 ## 4. Editorial notes

@@ -4,40 +4,40 @@ digistore24_product_id: 562471
 title: "Adobe Lightroom Presets | Boudoir Secrets Masterclass | DE"
 vendor: "BoudoirSecretsMasterclass"
 product_type: "Downloads"
-price: 70.37
+price: 70.42
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 17.6
+earnings_per_sale: 17.61
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Hobby & Craft","Photography & Film","Software"]
+categories: ["Software","Hobby & Craft","Photography & Film"]
 listed_since: "2024-07-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/51109/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/562471?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/562471"
 language: "de"
 ---
 # Adobe Lightroom Presets | Boudoir Secrets Masterclass | DE
 
 > Product ID `51109` · Digistore24 productId `562471` · [HTML profile page](../../produkte/adobe-lightroom-presets-boudoir-secrets-masterclass-de-51109.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $70.37 (Single payment) |
+| Price | $70.42 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $17.60 |
+| Earnings/sale* | $17.61 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | BoudoirSecretsMasterclass |
 | Listed since | 2024-07-23 |
 | Auto-accept affiliates | yes |
-| Categories | Hobby & Craft, Photography & Film, Software |
+| Categories | Software, Hobby & Craft, Photography & Film |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/51109/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/562471?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/562471
 - Canonical redirect: https://www.digistore24.com/redir/562471/adminstore
 
@@ -86,14 +86,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Adobe Lightroom Presets | Boudoir Secrets Masterclass | DE? — Typ: Downloads, Anbieter: BoudoirSecretsMasterclass, gelistet seit 2024-07-23
-- Wie viel kostet es? — 70.373214 USD
+- Wie viel kostet es? — 70.417272 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Adobe Lightroom Presets | Boudoir Secrets Masterclass | DE Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/562471
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/562471/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Adobe%20Lightroom%20Presets%20%7C%20Boudoir%20Secrets%20Masterclass%20%7C%20DE
 
 ## 4. Editorial notes

@@ -4,40 +4,40 @@ digistore24_product_id: 713274
 title: "Mehr Leben. Mehr Erfolg."
 vendor: "MUTPUNKT"
 product_type: "Member area and video courses"
-price: 185.1
+price: 185.22
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 92.56
+earnings_per_sale: 92.61
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Personal Development","Sales Training"]
+categories: ["Personal Development","Education","Sales Training"]
 listed_since: "2026-07-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/57677/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/713274?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/713274"
 language: "de"
 ---
 # Mehr Leben. Mehr Erfolg.
 
 > Product ID `57677` · Digistore24 productId `713274` · [HTML profile page](../../produkte/mehr-leben-mehr-erfolg-57677.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $185.10 (Single payment) |
+| Price | $185.22 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $92.56 |
+| Earnings/sale* | $92.61 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MUTPUNKT |
 | Listed since | 2026-07-22 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Personal Development, Sales Training |
+| Categories | Personal Development, Education, Sales Training |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/57677/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/713274?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/713274
 - Vendor affiliate support: https://mutpunkt.pro/affiliate-support-werbemittel
 - Canonical redirect: https://www.digistore24.com/redir/713274/adminstore
@@ -92,14 +92,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mehr Leben. Mehr Erfolg.? — Typ: Member area and video courses, Anbieter: MUTPUNKT, gelistet seit 2026-07-22
-- Wie viel kostet es? — 185.10145500000002 USD
+- Wie viel kostet es? — 185.21734 USD
 - Garantie? — 14
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Mehr Leben. Mehr Erfolg. Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/713274
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/713274/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Mehr%20Leben.%20Mehr%20Erfolg.
 
 ## 4. Editorial notes

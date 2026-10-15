@@ -4,16 +4,16 @@ digistore24_product_id: 310527
 title: "ENTSCHEIDUNGSHILFE | Finde Deinen richtigen Weg | Hypnose"
 vendor: "Mariposa75"
 product_type: "Downloads"
-price: 36.64
+price: 36.66
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 3.67
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Dating, Relationships & Romance","Personal Development"]
+categories: ["Personal Development","Dating, Relationships & Romance"]
 listed_since: "2020-02-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "http://katja-amberg-shop.de/entscheidungshilfe?aff=adminstore#aff=adminstore"
 sales_page: "http://katja-amberg-shop.de/entscheidungshilfe"
@@ -22,14 +22,14 @@ language: "de"
 # ENTSCHEIDUNGSHILFE | Finde Deinen richtigen Weg | Hypnose
 
 > Product ID `40076` · Digistore24 productId `310527` · [HTML profile page](../../produkte/entscheidungshilfe-finde-deinen-richtigen-weg-hypnose-40076.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $36.64 (Single payment) |
+| Price | $36.66 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $3.67 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | Mariposa75 |
 | Listed since | 2020-02-29 |
 | Auto-accept affiliates | yes |
-| Categories | Dating, Relationships & Romance, Personal Development |
+| Categories | Personal Development, Dating, Relationships & Romance |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -75,14 +75,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist ENTSCHEIDUNGSHILFE | Finde Deinen richtigen Weg | Hypnose? — Typ: Downloads, Anbieter: Mariposa75, gelistet seit 2020-02-29
-- Wie viel kostet es? — 36.64013700000001 USD
+- Wie viel kostet es? — 36.663076000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: ENTSCHEIDUNGSHILFE | Finde Deinen richtigen Weg | Hypnose Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/310527
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/310527/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=ENTSCHEIDUNGSHILFE%20%7C%20Finde%20Deinen%20richtigen%20Weg%20%7C%20Hypnose
 
 ## 4. Editorial notes

@@ -4,34 +4,34 @@ digistore24_product_id: 674159
 title: "Into The Deep — Atempausen und Retention für Fortgeschrittene"
 vendor: "BeamdreamBreathworks"
 product_type: "Member area and video courses"
-price: 140.94
+price: 141.02
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 14.1
+earnings_per_sale: 14.11
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2026-08-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/58399/adminstore/"
+promo_link: "https://www.beamdream.com/videokurse/into-the-deep-breathretention-kurs?aff=adminstore#aff=adminstore"
 sales_page: "https://www.beamdream.com/videokurse/into-the-deep-breathretention-kurs"
 language: "de"
 ---
 # Into The Deep — Atempausen und Retention für Fortgeschrittene
 
 > Product ID `58399` · Digistore24 productId `674159` · [HTML profile page](../../produkte/into-the-deep-atempausen-und-retention-f-r-fortgeschrittene-58399.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $140.94 (Single payment, Installment) |
+| Price | $141.02 (Single payment, Installment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $14.10 |
+| Earnings/sale* | $14.11 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | BeamdreamBreathworks |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58399/adminstore/
+- **Promo link (affiliate):** https://www.beamdream.com/videokurse/into-the-deep-breathretention-kurs?aff=adminstore#aff=adminstore
 - Sales page: https://www.beamdream.com/videokurse/into-the-deep-breathretention-kurs
 - Canonical redirect: https://www.digistore24.com/redir/674159/adminstore
 
@@ -96,14 +96,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Into The Deep — Atempausen und Retention für Fortgeschrittene? — Typ: Member area and video courses, Anbieter: BeamdreamBreathworks, gelistet seit 2026-08-16
-- Wie viel kostet es? — 140.936505 USD
+- Wie viel kostet es? — 141.02474 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Into The Deep — Atempausen und Retention für Fortgeschrittene Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/674159
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/674159/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Into%20The%20Deep%20%E2%80%94%20Atempausen%20und%20Retention%20f%C3%BCr%20Fortgeschrittene
 
 ## 4. Editorial notes

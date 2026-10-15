@@ -4,34 +4,34 @@ digistore24_product_id: 698004
 title: "Book2Profit – KI-Plattform für digitale E-Books, Leadmagnete"
 vendor: "itsagoodlife365"
 product_type: "Member area and video courses"
-price: 61.03
+price: 61.06
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 45.78
+earnings_per_sale: 45.8
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2026-06-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/56905/adminstore/"
+promo_link: "https://book2profit.affilihub.de?aff=adminstore#aff=adminstore"
 sales_page: "https://book2profit.affilihub.de"
 language: "de"
 ---
 # Book2Profit – KI-Plattform für digitale E-Books, Leadmagnete
 
 > Product ID `56905` · Digistore24 productId `698004` · [HTML profile page](../../produkte/book2profit-ki-plattform-f-r-digitale-e-books-leadmagnete-56905.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $61.03 (Single payment) |
+| Price | $61.06 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $45.78 |
+| Earnings/sale* | $45.80 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | itsagoodlife365 |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56905/adminstore/
+- **Promo link (affiliate):** https://book2profit.affilihub.de?aff=adminstore#aff=adminstore
 - Sales page: https://book2profit.affilihub.de
 - Vendor affiliate support: https://book2profit.affilihub.de/partner
 - Canonical redirect: https://www.digistore24.com/redir/698004/adminstore
@@ -92,14 +92,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Book2Profit – KI-Plattform für digitale E-Books, Leadmagnete? — Typ: Member area and video courses, Anbieter: itsagoodlife365, gelistet seit 2026-06-15
-- Wie viel kostet es? — 61.025898000000005 USD
+- Wie viel kostet es? — 61.064104 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Book2Profit – KI-Plattform für digitale E-Books, Leadmagnete Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/698004
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/698004/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Book2Profit%20%E2%80%93%20KI-Plattform%20f%C3%BCr%20digitale%20E-Books%2C%20Leadmagnete
 
 ## 4. Editorial notes

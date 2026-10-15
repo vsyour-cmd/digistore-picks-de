@@ -4,32 +4,32 @@ digistore24_product_id: 556195
 title: "Mein Traumbuch"
 vendor: "geldhuepfer"
 product_type: "E-books"
-price: 7.3
+price: 7.31
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 3.66
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Family & Children","Personal Development","Spiri­tua­lity & Esotericism"]
+categories: ["Personal Development","Spiri­tua­lity & Esotericism","Family & Children"]
 listed_since: "2024-06-10"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/48337/adminstore/"
+promo_link: "https://www.digistore24.com/product/556195?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/556195"
 language: "de"
 ---
 # Mein Traumbuch
 
 > Product ID `48337` · Digistore24 productId `556195` · [HTML profile page](../../produkte/mein-traumbuch-48337.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $7.30 (Single payment) |
+| Price | $7.31 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $3.66 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | geldhuepfer |
 | Listed since | 2024-06-10 |
 | Auto-accept affiliates | yes |
-| Categories | Family & Children, Personal Development, Spiri­tua­lity & Esotericism |
+| Categories | Personal Development, Spiri­tua­lity & Esotericism, Family & Children |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/48337/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/556195?aff=adminstore
 - Sales page: https://www.digistore24.com/product/556195
 - Vendor affiliate support: https://geldhuepfer.de/affiliate-support-seite-mein-traumbuch-digi
 - Canonical redirect: https://www.digistore24.com/redir/556195/adminstore
@@ -69,14 +69,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mein Traumbuch? — Typ: E-books, Anbieter: geldhuepfer, gelistet seit 2024-06-10
-- Wie viel kostet es? — 7.3011930000000005 USD
+- Wie viel kostet es? — 7.305764000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Mein Traumbuch Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/556195
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/556195/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Mein%20Traumbuch
 
 ## 4. Editorial notes

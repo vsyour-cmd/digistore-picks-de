@@ -4,16 +4,16 @@ digistore24_product_id: 497391
 title: "E-Mail Listen Multiplikator - 5.000er Liste aufbauen"
 vendor: "ss-business"
 product_type: "Member area and video courses"
-price: 32.42
+price: 32.45
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 16.21
+earnings_per_sale: 16.22
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet"]
 listed_since: "2023-05-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/redir/497391/adminstore"
 sales_page: "https://florianschaefer.de/e-mail-listen-multiplikator/?afid=[AFFILIATE]"
@@ -22,16 +22,16 @@ language: "de"
 # E-Mail Listen Multiplikator - 5.000er Liste aufbauen
 
 > Product ID `44006` · Digistore24 productId `497391` · [HTML profile page](../../produkte/e-mail-listen-multiplikator-5-000er-liste-aufbauen-44006.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $32.42 (Single payment) |
+| Price | $32.45 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $16.21 |
+| Earnings/sale* | $16.22 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ss-business |
@@ -66,14 +66,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist E-Mail Listen Multiplikator - 5.000er Liste aufbauen? — Typ: Member area and video courses, Anbieter: ss-business, gelistet seit 2023-05-04
-- Wie viel kostet es? — 32.4249 USD
+- Wie viel kostet es? — 32.4452 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: E-Mail Listen Multiplikator - 5.000er Liste aufbauen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/497391
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/497391/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=E-Mail%20Listen%20Multiplikator%20-%205.000er%20Liste%20aufbauen
 
 ## 4. Editorial notes

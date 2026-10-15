@@ -4,7 +4,7 @@ digistore24_product_id: 717957
 title: "SMART INCOME, Aufbau eines nachhaltigen online Unternehmens"
 vendor: "Simex20"
 product_type: "E-books"
-price: 15.66
+price: 15.67
 currency: "USD"
 affiliate_commission_pct: 0
 earnings_per_sale: 9.36
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Profession & Job","Marketing Services"]
 listed_since: "2026-08-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/717957?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/717957"
@@ -22,14 +22,14 @@ language: "de"
 # SMART INCOME, Aufbau eines nachhaltigen online Unternehmens
 
 > Product ID `58164` · Digistore24 productId `717957` · [HTML profile page](../../produkte/smart-income-aufbau-eines-nachhaltigen-online-unternehmens-58164.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $15.66 (Single payment) |
+| Price | $15.67 (Single payment) |
 | Affiliate commission | 0% |
 | Earnings/sale* | $9.36 |
 | Cart conversion* | — |
@@ -75,14 +75,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist SMART INCOME, Aufbau eines nachhaltigen online Unternehmens? — Typ: E-books, Anbieter: Simex20, gelistet seit 2026-08-05
-- Wie viel kostet es? — 15.664581000000002 USD
+- Wie viel kostet es? — 15.674388 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: SMART INCOME, Aufbau eines nachhaltigen online Unternehmens Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/717957
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/717957/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=SMART%20INCOME%2C%20Aufbau%20eines%20nachhaltigen%20online%20Unternehmens
 
 ## 4. Editorial notes

@@ -12,17 +12,17 @@ cart_conversion_pct: 62
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Online Marketing & E-Business"]
 listed_since: "2026-01-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/55143/adminstore/"
+promo_link: "https://www.meinneuerlifestyle.vip/dein-erster-gpt/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.meinneuerlifestyle.vip/dein-erster-gpt/"
 language: "de"
 ---
 # Dein erster Schritt zur eigenen GPT Army
 
 > Product ID `55143` · Digistore24 productId `660001` · [HTML profile page](../../produkte/dein-erster-schritt-zur-eigenen-gpt-army-55143.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55143/adminstore/
+- **Promo link (affiliate):** https://www.meinneuerlifestyle.vip/dein-erster-gpt/?aff=adminstore#aff=adminstore
 - Sales page: https://www.meinneuerlifestyle.vip/dein-erster-gpt/
 - Canonical redirect: https://www.digistore24.com/redir/660001/adminstore
 
@@ -58,14 +58,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Dein erster Schritt zur eigenen GPT Army? — Typ: E-books, Anbieter: Spekulatius, gelistet seit 2026-01-08
-- Wie viel kostet es? — 0.20125800000000002 USD
+- Wie viel kostet es? — 0.201384 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Dein erster Schritt zur eigenen GPT Army Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/660001
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/660001/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Dein%20erster%20Schritt%20zur%20eigenen%20GPT%20Army
 
 ## 4. Editorial notes

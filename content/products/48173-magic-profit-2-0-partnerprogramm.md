@@ -4,34 +4,34 @@ digistore24_product_id: 551300
 title: "Magic Profit 2.0 - Partnerprogramm"
 vendor: "funnelprofits"
 product_type: "Member area and video courses"
-price: 91.14
+price: 91.19
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 54.69
+earnings_per_sale: 54.72
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Computer & Internet","Online Marketing & E-Business"]
 listed_since: "2024-05-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/48173/adminstore/"
+promo_link: "https://magicprofit.funnelcockpit.com/vsl02/?aff=adminstore#aff=adminstore"
 sales_page: "https://magicprofit.funnelcockpit.com/vsl02/"
 language: "de"
 ---
 # Magic Profit 2.0 - Partnerprogramm
 
 > Product ID `48173` · Digistore24 productId `551300` · [HTML profile page](../../produkte/magic-profit-2-0-partnerprogramm-48173.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $91.14 (Single payment) |
+| Price | $91.19 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $54.69 |
+| Earnings/sale* | $54.72 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | funnelprofits |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/48173/adminstore/
+- **Promo link (affiliate):** https://magicprofit.funnelcockpit.com/vsl02/?aff=adminstore#aff=adminstore
 - Sales page: https://magicprofit.funnelcockpit.com/vsl02/
 - Vendor affiliate support: https://magicprofit.funnelcockpit.com/partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/551300/adminstore
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Magic Profit 2.0 - Partnerprogramm? — Typ: Member area and video courses, Anbieter: funnelprofits, gelistet seit 2024-05-06
-- Wie viel kostet es? — 91.13633100000001 USD
+- Wie viel kostet es? — 91.19338800000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Magic Profit 2.0 - Partnerprogramm Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/551300
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/551300/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Magic%20Profit%202.0%20-%20Partnerprogramm
 
 ## 4. Editorial notes

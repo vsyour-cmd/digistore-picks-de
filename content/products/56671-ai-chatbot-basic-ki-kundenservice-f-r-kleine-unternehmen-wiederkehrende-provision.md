@@ -4,34 +4,34 @@ digistore24_product_id: 691063
 title: "AI ChatBot Basic – KI-Kundenservice für kleine Unternehmen | wiederkehrende Provision"
 vendor: "Dani2002"
 product_type: "Remote service provided electronically"
-price: 559.05
+price: 559.4
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 111.81
+earnings_per_sale: 111.88
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software","Marketing Services"]
 listed_since: "2026-05-25"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/56671/adminstore/"
+promo_link: "https://chatbot-heltaium.com/willkommen?aff=adminstore#aff=adminstore"
 sales_page: "https://chatbot-heltaium.com/willkommen"
 language: "de"
 ---
 # AI ChatBot Basic – KI-Kundenservice für kleine Unternehmen | wiederkehrende Provision
 
 > Product ID `56671` · Digistore24 productId `691063` · [HTML profile page](../../produkte/ai-chatbot-basic-ki-kundenservice-f-r-kleine-unternehmen-wiederkehrende-provision-56671.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $559.05 (Subscription) |
+| Price | $559.40 (Subscription) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $111.81 |
+| Earnings/sale* | $111.88 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Dani2002 |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56671/adminstore/
+- **Promo link (affiliate):** https://chatbot-heltaium.com/willkommen?aff=adminstore#aff=adminstore
 - Sales page: https://chatbot-heltaium.com/willkommen
 - Canonical redirect: https://www.digistore24.com/redir/691063/adminstore
 
@@ -81,14 +81,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist AI ChatBot Basic – KI-Kundenservice für kleine Unternehmen | wiederkehrende Provision? — Typ: Remote service provided electronically, Anbieter: Dani2002, gelistet seit 2026-05-25
-- Wie viel kostet es? — 559.0500000000001 USD
+- Wie viel kostet es? — 559.4 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: AI ChatBot Basic – KI-Kundenservice für kleine Unternehmen | wiederkehrende Provision Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/691063
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/691063/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=AI%20ChatBot%20Basic%20%E2%80%93%20KI-Kundenservice%20f%C3%BCr%20kleine%20Unternehmen%20%7C%20wiederkehrende%20Provision
 
 ## 4. Editorial notes

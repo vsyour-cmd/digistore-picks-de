@@ -4,16 +4,16 @@ digistore24_product_id: 651454
 title: "SlimSana Weight Loss"
 vendor: "DS24-MySana"
 product_type: "Supplements - for slimming"
-price: 176.65
+price: 176.76
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 108.7
+earnings_per_sale: 108.77
 cart_conversion_pct: 12
 cancel_rate_pct: 7.12
 categories: ["Health & Fitness","Food Supplements"]
 listed_since: "2025-11-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://myslimsana.com/slimsana-pdp-fe?aff=adminstore#aff=adminstore"
 sales_page: "https://myslimsana.com/slimsana-pdp-fe"
@@ -22,16 +22,16 @@ language: "de"
 # SlimSana Weight Loss
 
 > Product ID `55000` · Digistore24 productId `651454` · [HTML profile page](../../produkte/slimsana-weight-loss-55000.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - for slimming |
-| Price | $176.65 (Single payment) |
+| Price | $176.76 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $108.70 |
+| Earnings/sale* | $108.77 |
 | Cart conversion* | 12% |
 | Cancel rate* | 7.12% |
 | Vendor | DS24-MySana |
@@ -105,14 +105,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist SlimSana Weight Loss? — Typ: Supplements - for slimming, Anbieter: DS24-MySana, gelistet seit 2025-11-27
-- Wie viel kostet es? — 176.64861900000002 USD
+- Wie viel kostet es? — 176.75921200000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: SlimSana Weight Loss Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/651454
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/651454/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=SlimSana%20Weight%20Loss
 
 ## 4. Editorial notes

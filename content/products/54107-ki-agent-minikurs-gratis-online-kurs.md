@@ -10,19 +10,19 @@ affiliate_commission_pct: 50
 earnings_per_sale: 3.09
 cart_conversion_pct: 17
 cancel_rate_pct: 3.08
-categories: ["Computer & Internet","Online Marketing & E-Business","Software"]
+categories: ["Software","Computer & Internet","Online Marketing & E-Business"]
 listed_since: "2025-09-19"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
-promo_link: "https://www.digistore24.com/redir/54107/adminstore/"
+promo_link: "https://kiagent.webpirat.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://kiagent.webpirat.de/"
 language: "de"
 ---
 # KI Agent Minikurs (Gratis Online Kurs)
 
 > Product ID `54107` · Digistore24 productId `636605` · [HTML profile page](../../produkte/ki-agent-minikurs-gratis-online-kurs-54107.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | webpirat |
 | Listed since | 2025-09-19 |
 | Auto-accept affiliates | yes |
-| Categories | Computer & Internet, Online Marketing & E-Business, Software |
+| Categories | Software, Computer & Internet, Online Marketing & E-Business |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/54107/adminstore/
+- **Promo link (affiliate):** https://kiagent.webpirat.de/?aff=adminstore#aff=adminstore
 - Sales page: https://kiagent.webpirat.de/
 - Vendor affiliate support: https://www.webpirat.de/werde-affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/636605/adminstore
@@ -62,14 +62,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI Agent Minikurs (Gratis Online Kurs)? — Typ: Member area and video courses, Anbieter: webpirat, gelistet seit 2025-09-19
-- Wie viel kostet es? — 5.165622000000001 USD
+- Wie viel kostet es? — 5.168856 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: KI Agent Minikurs (Gratis Online Kurs) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/636605
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/636605/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=KI%20Agent%20Minikurs%20(Gratis%20Online%20Kurs)
 
 ## 4. Editorial notes

@@ -4,34 +4,34 @@ digistore24_product_id: 691085
 title: "AI ChatBot Enterprise – Individuelle KI-Automatisierung für Onlineshops und größere Unternehmen"
 vendor: "Dani2002"
 product_type: "Remote service provided electronically"
-price: 2795.25
+price: 2797
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 559.05
+earnings_per_sale: 559.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-05-25"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/56673/adminstore/"
+promo_link: "https://www.digistore24.com/product/691085?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/691085"
 language: "de"
 ---
 # AI ChatBot Enterprise – Individuelle KI-Automatisierung für Onlineshops und größere Unternehmen
 
 > Product ID `56673` · Digistore24 productId `691085` · [HTML profile page](../../produkte/ai-chatbot-enterprise-individuelle-ki-automatisierung-f-r-onlineshops-und-gr-ere-unternehmen-56673.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $2795.25 (Subscription) |
+| Price | $2797.00 (Subscription) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $559.05 |
+| Earnings/sale* | $559.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Dani2002 |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56673/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/691085?aff=adminstore
 - Sales page: https://www.digistore24.com/product/691085
 - Canonical redirect: https://www.digistore24.com/redir/691085/adminstore
 
@@ -82,14 +82,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist AI ChatBot Enterprise – Individuelle KI-Automatisierung für Onlineshops und größere Unternehmen? — Typ: Remote service provided electronically, Anbieter: Dani2002, gelistet seit 2026-05-25
-- Wie viel kostet es? — 2795.2500000000005 USD
+- Wie viel kostet es? — 2797 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: AI ChatBot Enterprise – Individuelle KI-Automatisierung für Onlineshops und größere Unternehmen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/691085
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/691085/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=AI%20ChatBot%20Enterprise%20%E2%80%93%20Individuelle%20KI-Automatisierung%20f%C3%BCr%20Onlineshops%20und%20gr%C3%B6%C3%9Fere%20Unternehmen
 
 ## 4. Editorial notes

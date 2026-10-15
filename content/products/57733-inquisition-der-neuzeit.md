@@ -4,7 +4,7 @@ digistore24_product_id: 714475
 title: "Inquisition der Neuzeit"
 vendor: "Leene86"
 product_type: "E-books"
-price: 18.8
+price: 18.81
 currency: "USD"
 affiliate_commission_pct: 30
 earnings_per_sale: 5.64
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2026-07-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/57733/adminstore/"
+promo_link: "https://www.mobiletrauerbegleitung.de/b%C3%BCcher?aff=adminstore#aff=adminstore"
 sales_page: "https://www.mobiletrauerbegleitung.de/b%C3%BCcher"
 language: "de"
 ---
 # Inquisition der Neuzeit
 
 > Product ID `57733` · Digistore24 productId `714475` · [HTML profile page](../../produkte/inquisition-der-neuzeit-57733.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $18.80 (Single payment) |
+| Price | $18.81 (Single payment) |
 | Affiliate commission | 30% |
 | Earnings/sale* | $5.64 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/57733/adminstore/
+- **Promo link (affiliate):** https://www.mobiletrauerbegleitung.de/b%C3%BCcher?aff=adminstore#aff=adminstore
 - Sales page: https://www.mobiletrauerbegleitung.de/b%C3%BCcher
 - Canonical redirect: https://www.digistore24.com/redir/714475/adminstore
 
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Inquisition der Neuzeit? — Typ: E-books, Anbieter: Leene86, gelistet seit 2026-07-24
-- Wie viel kostet es? — 18.795261 USD
+- Wie viel kostet es? — 18.807028 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Inquisition der Neuzeit Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/714475
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/714475/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Inquisition%20der%20Neuzeit
 
 ## 4. Editorial notes

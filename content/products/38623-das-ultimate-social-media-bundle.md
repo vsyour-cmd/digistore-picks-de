@@ -4,34 +4,34 @@ digistore24_product_id: 421214
 title: "Das \"Ultimate Social Media Bundle\""
 vendor: "DanielKocks"
 product_type: "Member area and video courses"
-price: 28.18
+price: 28.19
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 16.91
+earnings_per_sale: 16.92
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2021-12-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/38623/adminstore/"
+promo_link: "https://wie-online-geldverdienen.de/ultimate-social-media-bundle/?aff=adminstore#aff=adminstore"
 sales_page: "https://wie-online-geldverdienen.de/ultimate-social-media-bundle/"
 language: "de"
 ---
 # Das "Ultimate Social Media Bundle"
 
 > Product ID `38623` · Digistore24 productId `421214` · [HTML profile page](../../produkte/das-ultimate-social-media-bundle-38623.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $28.18 (Single payment) |
+| Price | $28.19 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $16.91 |
+| Earnings/sale* | $16.92 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DanielKocks |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/38623/adminstore/
+- **Promo link (affiliate):** https://wie-online-geldverdienen.de/ultimate-social-media-bundle/?aff=adminstore#aff=adminstore
 - Sales page: https://wie-online-geldverdienen.de/ultimate-social-media-bundle/
 - Vendor affiliate support: https://wie-online-geldverdienen.de/affiliate-partner/
 - Canonical redirect: https://www.digistore24.com/redir/421214/adminstore
@@ -82,14 +82,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das "Ultimate Social Media Bundle"? — Typ: Member area and video courses, Anbieter: DanielKocks, gelistet seit 2021-12-17
-- Wie viel kostet es? — 28.17612 USD
+- Wie viel kostet es? — 28.19376 USD
 - Garantie? — 14
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Das "Ultimate Social Media Bundle" Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/421214
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/421214/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Das%20%22Ultimate%20Social%20Media%20Bundle%22
 
 ## 4. Editorial notes

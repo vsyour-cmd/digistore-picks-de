@@ -4,34 +4,34 @@ digistore24_product_id: 722548
 title: "Alltag mit einem autistischen Kind"
 vendor: "PflegekommpassAutismusRecht"
 product_type: "E-books"
-price: 38.66
+price: 38.69
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 9.67
+earnings_per_sale: 9.68
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-08-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/58419/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/722548?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/722548"
 language: "de"
 ---
 # Alltag mit einem autistischen Kind
 
 > Product ID `58419` · Digistore24 productId `722548` · [HTML profile page](../../produkte/alltag-mit-einem-autistischen-kind-58419.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $38.66 (Single payment) |
+| Price | $38.69 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $9.67 |
+| Earnings/sale* | $9.68 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | PflegekommpassAutismusRecht |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58419/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/722548?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/722548
 - Canonical redirect: https://www.digistore24.com/redir/722548/adminstore
 
@@ -70,14 +70,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Alltag mit einem autistischen Kind? — Typ: E-books, Anbieter: PflegekommpassAutismusRecht, gelistet seit 2026-08-17
-- Wie viel kostet es? — 38.663898 USD
+- Wie viel kostet es? — 38.688103999999996 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Alltag mit einem autistischen Kind Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/722548
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/722548/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Alltag%20mit%20einem%20autistischen%20Kind
 
 ## 4. Editorial notes

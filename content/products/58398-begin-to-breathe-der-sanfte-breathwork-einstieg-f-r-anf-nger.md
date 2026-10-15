@@ -4,16 +4,16 @@ digistore24_product_id: 664128
 title: "Begin To Breathe — der sanfte Breathwork-Einstieg für Anfänger"
 vendor: "BeamdreamBreathworks"
 product_type: "Member area and video courses"
-price: 140.94
+price: 141.02
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 14.1
+earnings_per_sale: 14.11
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-08-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.beamdream.com/videokurse/breathwork-beginner-kurs?aff=adminstore#aff=adminstore"
 sales_page: "https://www.beamdream.com/videokurse/breathwork-beginner-kurs"
@@ -22,16 +22,16 @@ language: "de"
 # Begin To Breathe — der sanfte Breathwork-Einstieg für Anfänger
 
 > Product ID `58398` · Digistore24 productId `664128` · [HTML profile page](../../produkte/begin-to-breathe-der-sanfte-breathwork-einstieg-f-r-anf-nger-58398.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $140.94 (Single payment, Installment) |
+| Price | $141.02 (Single payment, Installment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $14.10 |
+| Earnings/sale* | $14.11 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | BeamdreamBreathworks |
@@ -102,14 +102,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Begin To Breathe — der sanfte Breathwork-Einstieg für Anfänger? — Typ: Member area and video courses, Anbieter: BeamdreamBreathworks, gelistet seit 2026-08-16
-- Wie viel kostet es? — 140.936505 USD
+- Wie viel kostet es? — 141.02474 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Begin To Breathe — der sanfte Breathwork-Einstieg für Anfänger Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/664128
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/664128/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Begin%20To%20Breathe%20%E2%80%94%20der%20sanfte%20Breathwork-Einstieg%20f%C3%BCr%20Anf%C3%A4nger
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 575389
 title: "Spirituelle Onlineseminare"
 vendor: "JonathanDilas"
 product_type: "Member area and video courses"
-price: 258.38
+price: 258.54
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 90.43
+earnings_per_sale: 90.49
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: []
+categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2024-10-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://matrixxer.com/produkt/raus-aus-der-matrix/?aff=adminstore#aff=adminstore"
 sales_page: "https://matrixxer.com/produkt/raus-aus-der-matrix/"
@@ -22,22 +22,22 @@ language: "de"
 # Spirituelle Onlineseminare
 
 > Product ID `30488` · Digistore24 productId `575389` · [HTML profile page](../../produkte/spirituelle-onlineseminare-30488.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $258.38 (Single payment) |
+| Price | $258.54 (Single payment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $90.43 |
+| Earnings/sale* | $90.49 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | JonathanDilas |
 | Listed since | 2024-10-16 |
 | Auto-accept affiliates | yes |
-| Categories | Uncategorized |
+| Categories | Personal Development, Spiri­tua­lity & Esotericism |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Spirituelle Onlineseminare? — Typ: Member area and video courses, Anbieter: JonathanDilas, gelistet seit 2024-10-16
-- Wie viel kostet es? — 258.381729 USD
+- Wie viel kostet es? — 258.543492 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Spirituelle Onlineseminare Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/575389
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/575389/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Spirituelle%20Onlineseminare
 
 ## 4. Editorial notes

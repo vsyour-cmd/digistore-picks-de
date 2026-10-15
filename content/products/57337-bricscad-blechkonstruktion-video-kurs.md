@@ -4,34 +4,34 @@ digistore24_product_id: 536952
 title: "BricsCAD Blechkonstruktion Video-Kurs"
 vendor: "CADDeutschland"
 product_type: "Member area and video courses"
-price: 423.76
+price: 424.03
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 84.75
+earnings_per_sale: 84.81
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2026-07-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/57337/adminstore/"
+promo_link: "https://cad-video.de/bricscad-blechkonstruktion-channel?aff=adminstore#aff=adminstore"
 sales_page: "https://cad-video.de/bricscad-blechkonstruktion-channel"
 language: "de"
 ---
 # BricsCAD Blechkonstruktion Video-Kurs
 
 > Product ID `57337` · Digistore24 productId `536952` · [HTML profile page](../../produkte/bricscad-blechkonstruktion-video-kurs-57337.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $423.76 (Single payment) |
+| Price | $424.03 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $84.75 |
+| Earnings/sale* | $84.81 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | CADDeutschland |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/57337/adminstore/
+- **Promo link (affiliate):** https://cad-video.de/bricscad-blechkonstruktion-channel?aff=adminstore#aff=adminstore
 - Sales page: https://cad-video.de/bricscad-blechkonstruktion-channel
 - Vendor affiliate support: https://cad-video.de/affiliate
 - Canonical redirect: https://www.digistore24.com/redir/536952/adminstore
@@ -86,14 +86,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist BricsCAD Blechkonstruktion Video-Kurs? — Typ: Member area and video courses, Anbieter: CADDeutschland, gelistet seit 2026-07-01
-- Wie viel kostet es? — 423.7599 USD
+- Wie viel kostet es? — 424.0252 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: BricsCAD Blechkonstruktion Video-Kurs Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/536952
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/536952/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=BricsCAD%20Blechkonstruktion%20Video-Kurs
 
 ## 4. Editorial notes

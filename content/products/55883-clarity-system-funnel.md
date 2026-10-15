@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2026-02-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/55883/adminstore/"
+promo_link: "https://shop.growverse.de/funnels/clarity-system/freebie?aff=adminstore#aff=adminstore"
 sales_page: "https://shop.growverse.de/funnels/clarity-system/freebie"
 language: "de"
 ---
 # Clarity System Funnel
 
 > Product ID `55883` · Digistore24 productId `669477` · [HTML profile page](../../produkte/clarity-system-funnel-55883.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55883/adminstore/
+- **Promo link (affiliate):** https://shop.growverse.de/funnels/clarity-system/freebie?aff=adminstore#aff=adminstore
 - Sales page: https://shop.growverse.de/funnels/clarity-system/freebie
 - Canonical redirect: https://www.digistore24.com/redir/669477/adminstore
 
@@ -82,7 +82,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Clarity System Funnel Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/669477
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/669477/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Clarity%20System%20Funnel
 
 ## 4. Editorial notes

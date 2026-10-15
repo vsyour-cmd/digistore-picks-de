@@ -4,7 +4,7 @@ digistore24_product_id: 501509
 title: "Zweitwohnsitz - Werde deine Reizblase endlich los!"
 vendor: "LisaKellner"
 product_type: "Book (printed)"
-price: 7.27
+price: 13.54
 currency: "USD"
 affiliate_commission_pct: 20
 earnings_per_sale: 1.1
@@ -12,24 +12,24 @@ cart_conversion_pct: 21
 cancel_rate_pct: 0.98
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2023-06-02"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/45193/adminstore/"
+promo_link: "https://www.lisa-kellner.de/buch-bestellen?aff=adminstore#aff=adminstore"
 sales_page: "https://www.lisa-kellner.de/buch-bestellen"
 language: "de"
 ---
 # Zweitwohnsitz - Werde deine Reizblase endlich los!
 
 > Product ID `45193` · Digistore24 productId `501509` · [HTML profile page](../../produkte/zweitwohnsitz-werde-deine-reizblase-endlich-los-45193.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $7.27 (Single payment) |
+| Price | $13.54 (Single payment) |
 | Affiliate commission | 20% |
 | Earnings/sale* | $1.10 |
 | Cart conversion* | 21% |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/45193/adminstore/
+- **Promo link (affiliate):** https://www.lisa-kellner.de/buch-bestellen?aff=adminstore#aff=adminstore
 - Sales page: https://www.lisa-kellner.de/buch-bestellen
 - Canonical redirect: https://www.digistore24.com/redir/501509/adminstore
 
@@ -89,14 +89,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Zweitwohnsitz - Werde deine Reizblase endlich los!? — Typ: Book (printed), Anbieter: LisaKellner, gelistet seit 2023-06-02
-- Wie viel kostet es? — 7.267650000000001 USD
+- Wie viel kostet es? — 13.53748 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Zweitwohnsitz - Werde deine Reizblase endlich los! Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/501509
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/501509/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Zweitwohnsitz%20-%20Werde%20deine%20Reizblase%20endlich%20los!
 
 ## 4. Editorial notes

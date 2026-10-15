@@ -4,34 +4,34 @@ digistore24_product_id: 381027
 title: "AZAV Online-Akademie"
 vendor: "UrsulaWienken"
 product_type: "Webinar"
-price: 186.98
+price: 187.1
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 56.1
+earnings_per_sale: 56.13
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2021-03-25"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/36335/adminstore/"
+promo_link: "https://mq-gesellschaft-koeln.coachy.net/lp/azav-online-akademie-grundlagen-und-bestandsaufnahme/?aff=adminstore#aff=adminstore"
 sales_page: "https://mq-gesellschaft-koeln.coachy.net/lp/azav-online-akademie-grundlagen-und-bestandsaufnahme/"
 language: "de"
 ---
 # AZAV Online-Akademie
 
 > Product ID `36335` · Digistore24 productId `381027` · [HTML profile page](../../produkte/azav-online-akademie-36335.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Webinar |
-| Price | $186.98 (Single payment) |
+| Price | $187.10 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $56.10 |
+| Earnings/sale* | $56.13 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | UrsulaWienken |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/36335/adminstore/
+- **Promo link (affiliate):** https://mq-gesellschaft-koeln.coachy.net/lp/azav-online-akademie-grundlagen-und-bestandsaufnahme/?aff=adminstore#aff=adminstore
 - Sales page: https://mq-gesellschaft-koeln.coachy.net/lp/azav-online-akademie-grundlagen-und-bestandsaufnahme/
 - Canonical redirect: https://www.digistore24.com/redir/381027/adminstore
 
@@ -88,14 +88,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist AZAV Online-Akademie? — Typ: Webinar, Anbieter: UrsulaWienken, gelistet seit 2021-03-25
-- Wie viel kostet es? — 186.979863 USD
+- Wie viel kostet es? — 187.096924 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: AZAV Online-Akademie Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/381027
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/381027/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=AZAV%20Online-Akademie
 
 ## 4. Editorial notes

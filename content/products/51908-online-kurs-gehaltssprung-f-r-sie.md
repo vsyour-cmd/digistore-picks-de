@@ -4,16 +4,16 @@ digistore24_product_id: 553772
 title: "Online-Kurs: GEHALTSSPRUNG für \"SIE\"!"
 vendor: "KarinSchwaer"
 product_type: "Member area and video courses"
-price: 279.06
+price: 279.23
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 139.53
+earnings_per_sale: 139.62
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2024-05-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://www.piazzaformel.com/onlinekurs-gehaltsverhandlung/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.piazzaformel.com/onlinekurs-gehaltsverhandlung/"
@@ -22,16 +22,16 @@ language: "de"
 # Online-Kurs: GEHALTSSPRUNG für "SIE"!
 
 > Product ID `51908` · Digistore24 productId `553772` · [HTML profile page](../../produkte/online-kurs-gehaltssprung-f-r-sie-51908.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $279.06 (Single payment) |
+| Price | $279.23 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $139.53 |
+| Earnings/sale* | $139.62 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | KarinSchwaer |
@@ -66,14 +66,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online-Kurs: GEHALTSSPRUNG für "SIE"!? — Typ: Member area and video courses, Anbieter: KarinSchwaer, gelistet seit 2024-05-23
-- Wie viel kostet es? — 279.055398 USD
+- Wie viel kostet es? — 279.23010400000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Online-Kurs: GEHALTSSPRUNG für "SIE"! Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/553772
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/553772/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Online-Kurs%3A%20GEHALTSSPRUNG%20f%C3%BCr%20%22SIE%22!
 
 ## 4. Editorial notes

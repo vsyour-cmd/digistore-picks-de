@@ -4,16 +4,16 @@ digistore24_product_id: 741326
 title: "Darmtagebuch – 8 Wochen Klarheit im Alltag"
 vendor: "linalind1"
 product_type: "Downloads"
-price: 12.16
+price: 12.17
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 1.22
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Food & Drink","Health & Fitness","Personal Development"]
+categories: ["Health & Fitness","Personal Development","Food & Drink"]
 listed_since: "2026-10-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/741326?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/741326"
@@ -22,14 +22,14 @@ language: "de"
 # Darmtagebuch – 8 Wochen Klarheit im Alltag
 
 > Product ID `60172` · Digistore24 productId `741326` · [HTML profile page](../../produkte/darmtagebuch-8-wochen-klarheit-im-alltag-60172.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $12.16 (Single payment) |
+| Price | $12.17 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $1.22 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | linalind1 |
 | Listed since | 2026-10-04 |
 | Auto-accept affiliates | no (approval required) |
-| Categories | Food & Drink, Health & Fitness, Personal Development |
+| Categories | Health & Fitness, Personal Development, Food & Drink |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -73,14 +73,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Darmtagebuch – 8 Wochen Klarheit im Alltag? — Typ: Downloads, Anbieter: linalind1, gelistet seit 2026-10-04
-- Wie viel kostet es? — 12.164928000000002 USD
+- Wie viel kostet es? — 12.172544 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Darmtagebuch – 8 Wochen Klarheit im Alltag Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/741326
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/741326/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Darmtagebuch%20%E2%80%93%208%20Wochen%20Klarheit%20im%20Alltag
 
 ## 4. Editorial notes

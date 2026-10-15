@@ -4,16 +4,16 @@ digistore24_product_id: 735324
 title: "Umzugklar: Umzugsplan, Kistenregister und Drucketiketten"
 vendor: "kiagent007"
 product_type: "Software"
-price: 14
+price: 14.01
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 4.2
+earnings_per_sale: 4.21
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Home & Garden","Software"]
+categories: ["Software","Home & Garden"]
 listed_since: "2026-09-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/735324?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/735324"
@@ -22,22 +22,22 @@ language: "de"
 # Umzugklar: Umzugsplan, Kistenregister und Drucketiketten
 
 > Product ID `59428` · Digistore24 productId `735324` · [HTML profile page](../../produkte/umzugklar-umzugsplan-kistenregister-und-drucketiketten-59428.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $14.00 (Single payment) |
+| Price | $14.01 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $4.20 |
+| Earnings/sale* | $4.21 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | kiagent007 |
 | Listed since | 2026-09-20 |
 | Auto-accept affiliates | yes |
-| Categories | Home & Garden, Software |
+| Categories | Software, Home & Garden |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -72,14 +72,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Umzugklar: Umzugsplan, Kistenregister und Drucketiketten? — Typ: Software, Anbieter: kiagent007, gelistet seit 2026-09-20
-- Wie viel kostet es? — 13.998612000000001 USD
+- Wie viel kostet es? — 14.007375999999999 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Umzugklar: Umzugsplan, Kistenregister und Drucketiketten Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/735324
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/735324/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Umzugklar%3A%20Umzugsplan%2C%20Kistenregister%20und%20Drucketiketten
 
 ## 4. Editorial notes

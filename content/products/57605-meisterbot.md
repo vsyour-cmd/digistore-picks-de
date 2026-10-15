@@ -4,40 +4,40 @@ digistore24_product_id: 711958
 title: "Meisterbot"
 vendor: "Bazi24"
 product_type: "Software"
-price: 1785.2
+price: 1786.32
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 535.56
+earnings_per_sale: 535.89
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Hotels & Gastronomy","Software","Office Organization"]
+categories: ["Software","Hotels & Gastronomy","Office Organization"]
 listed_since: "2026-07-19"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/57605/adminstore/"
+promo_link: "https://shoplife24.de?aff=adminstore#aff=adminstore"
 sales_page: "https://shoplife24.de"
 language: "de"
 ---
 # Meisterbot
 
 > Product ID `57605` · Digistore24 productId `711958` · [HTML profile page](../../produkte/meisterbot-57605.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $1785.20 (Subscription) |
+| Price | $1786.32 (Subscription) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $535.56 |
+| Earnings/sale* | $535.89 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Bazi24 |
 | Listed since | 2026-07-19 |
 | Auto-accept affiliates | yes |
-| Categories | Hotels & Gastronomy, Software, Office Organization |
+| Categories | Software, Hotels & Gastronomy, Office Organization |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/57605/adminstore/
+- **Promo link (affiliate):** https://shoplife24.de?aff=adminstore#aff=adminstore
 - Sales page: https://shoplife24.de
 - Vendor affiliate support: https://shoplife24.de/meisterbot/
 - Canonical redirect: https://www.digistore24.com/redir/711958/adminstore
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Meisterbot? — Typ: Software, Anbieter: Bazi24, gelistet seit 2026-07-19
-- Wie viel kostet es? — 1785.2031840000002 USD
+- Wie viel kostet es? — 1786.320832 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Meisterbot Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/711958
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/711958/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Meisterbot
 
 ## 4. Editorial notes

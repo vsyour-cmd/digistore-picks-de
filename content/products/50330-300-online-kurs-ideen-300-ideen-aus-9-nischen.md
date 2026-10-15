@@ -12,8 +12,8 @@ cart_conversion_pct: 18
 cancel_rate_pct: 2.71
 categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2024-11-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://affiliforge.net/300-kurs-ideen?aff=adminstore#aff=adminstore"
 sales_page: "https://affiliforge.net/300-kurs-ideen"
@@ -22,7 +22,7 @@ language: "de"
 # 300 Online-Kurs Ideen - 300 Ideen aus 9 Nischen
 
 > Product ID `50330` · Digistore24 productId `579061` · [HTML profile page](../../produkte/300-online-kurs-ideen-300-ideen-aus-9-nischen-50330.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -77,14 +77,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 300 Online-Kurs Ideen - 300 Ideen aus 9 Nischen? — Typ: Member area and video courses, Anbieter: AffiliForge, gelistet seit 2024-11-06
-- Wie viel kostet es? — 2.448639 USD
+- Wie viel kostet es? — 2.450172 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 300 Online-Kurs Ideen - 300 Ideen aus 9 Nischen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/579061
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/579061/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=300%20Online-Kurs%20Ideen%20-%20300%20Ideen%20aus%209%20Nischen
 
 ## 4. Editorial notes

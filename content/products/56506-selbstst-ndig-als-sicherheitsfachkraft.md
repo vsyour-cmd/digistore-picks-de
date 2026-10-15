@@ -4,16 +4,16 @@ digistore24_product_id: 682122
 title: "Selbstständig als Sicherheitsfachkraft"
 vendor: "Ullertec"
 product_type: "E-books"
-price: 73.13
+price: 73.18
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 36.57
+earnings_per_sale: 36.6
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Marketing Services"]
 listed_since: "2026-04-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/682122?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/682122"
@@ -22,16 +22,16 @@ language: "de"
 # Selbstständig als Sicherheitsfachkraft
 
 > Product ID `56506` · Digistore24 productId `682122` · [HTML profile page](../../produkte/selbstst-ndig-als-sicherheitsfachkraft-56506.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $73.13 (Single payment) |
+| Price | $73.18 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $36.57 |
+| Earnings/sale* | $36.60 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Ullertec |
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Selbstständig als Sicherheitsfachkraft? — Typ: E-books, Anbieter: Ullertec, gelistet seit 2026-04-04
-- Wie viel kostet es? — 73.134921 USD
+- Wie viel kostet es? — 73.180708 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Selbstständig als Sicherheitsfachkraft Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/682122
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/682122/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Selbstst%C3%A4ndig%20als%20Sicherheitsfachkraft
 
 ## 4. Editorial notes

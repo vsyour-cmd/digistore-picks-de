@@ -4,16 +4,16 @@ digistore24_product_id: 735273
 title: "Pflegeorganisator Premium – komplettes Organisationssystem | 50 % Provision"
 vendor: "DerPate"
 product_type: "Downloads"
-price: 28.1
+price: 28.12
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 14.05
+earnings_per_sale: 14.06
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Family & Children","Health & Fitness","Office Organization"]
+categories: ["Health & Fitness","Family & Children","Office Organization"]
 listed_since: "2026-09-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://meinevorlagenkiste.de/pflegeorganisator/?aff=adminstore#aff=adminstore"
 sales_page: "https://meinevorlagenkiste.de/pflegeorganisator/"
@@ -22,22 +22,22 @@ language: "de"
 # Pflegeorganisator Premium – komplettes Organisationssystem | 50 % Provision
 
 > Product ID `59424` · Digistore24 productId `735273` · [HTML profile page](../../produkte/pflegeorganisator-premium-komplettes-organisationssystem-50-provision-59424.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $28.10 (Single payment) |
+| Price | $28.12 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $14.05 |
+| Earnings/sale* | $14.06 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DerPate |
 | Listed since | 2026-09-20 |
 | Auto-accept affiliates | yes |
-| Categories | Family & Children, Health & Fitness, Office Organization |
+| Categories | Health & Fitness, Family & Children, Office Organization |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -88,14 +88,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Pflegeorganisator Premium – komplettes Organisationssystem | 50 % Provision? — Typ: Downloads, Anbieter: DerPate, gelistet seit 2026-09-20
-- Wie viel kostet es? — 28.097853 USD
+- Wie viel kostet es? — 28.115444 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Pflegeorganisator Premium – komplettes Organisationssystem | 50 % Provision Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/735273
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/735273/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Pflegeorganisator%20Premium%20%E2%80%93%20komplettes%20Organisationssystem%20%7C%2050%20%25%20Provision
 
 ## 4. Editorial notes

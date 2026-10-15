@@ -4,34 +4,34 @@ digistore24_product_id: 399782
 title: "Videokurs Chimpify 360° – Lerne alles zum Marketing-Tool"
 vendor: "janschulzesiebert"
 product_type: "Member area and video courses"
-price: 278.41
+price: 278.58
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 27.84
+earnings_per_sale: 27.86
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet"]
 listed_since: "2021-07-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/39573/adminstore/"
+promo_link: "https://www.inboundly.de/kurs-chimpify-360/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.inboundly.de/kurs-chimpify-360/"
 language: "de"
 ---
 # Videokurs Chimpify 360° – Lerne alles zum Marketing-Tool
 
 > Product ID `39573` · Digistore24 productId `399782` · [HTML profile page](../../produkte/videokurs-chimpify-360-lerne-alles-zum-marketing-tool-39573.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $278.41 (Single payment) |
+| Price | $278.58 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $27.84 |
+| Earnings/sale* | $27.86 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | janschulzesiebert |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/39573/adminstore/
+- **Promo link (affiliate):** https://www.inboundly.de/kurs-chimpify-360/?aff=adminstore#aff=adminstore
 - Sales page: https://www.inboundly.de/kurs-chimpify-360/
 - Vendor affiliate support: https://www.inboundly.de/partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/399782/adminstore
@@ -108,14 +108,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Videokurs Chimpify 360° – Lerne alles zum Marketing-Tool? — Typ: Member area and video courses, Anbieter: janschulzesiebert, gelistet seit 2021-07-27
-- Wie viel kostet es? — 278.4069 USD
+- Wie viel kostet es? — 278.5812 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Videokurs Chimpify 360° – Lerne alles zum Marketing-Tool Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/399782
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/399782/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Videokurs%20Chimpify%20360%C2%B0%20%E2%80%93%20Lerne%20alles%20zum%20Marketing-Tool
 
 ## 4. Editorial notes

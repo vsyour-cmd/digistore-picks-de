@@ -4,7 +4,7 @@ digistore24_product_id: 662706
 title: "Auftragsverwaltung für Goldschmiede, Juweliere und Handwerke"
 vendor: "Kaiwgt"
 product_type: "Downloads"
-price: 37.53
+price: 37.56
 currency: "USD"
 affiliate_commission_pct: 15
 earnings_per_sale: 5.64
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft","Marketing Services"]
 listed_since: "2026-01-19"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/662706?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/662706"
@@ -22,14 +22,14 @@ language: "de"
 # Auftragsverwaltung für Goldschmiede, Juweliere und Handwerke
 
 > Product ID `55524` · Digistore24 productId `662706` · [HTML profile page](../../produkte/auftragsverwaltung-f-r-goldschmiede-juweliere-und-handwerke-55524.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $37.53 (Single payment) |
+| Price | $37.56 (Single payment) |
 | Affiliate commission | 15% |
 | Earnings/sale* | $5.64 |
 | Cart conversion* | — |
@@ -70,14 +70,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Auftragsverwaltung für Goldschmiede, Juweliere und Handwerke? — Typ: Downloads, Anbieter: Kaiwgt, gelistet seit 2026-01-19
-- Wie viel kostet es? — 37.534617000000004 USD
+- Wie viel kostet es? — 37.558116 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Auftragsverwaltung für Goldschmiede, Juweliere und Handwerke Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/662706
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/662706/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Auftragsverwaltung%20f%C3%BCr%20Goldschmiede%2C%20Juweliere%20und%20Handwerke
 
 ## 4. Editorial notes

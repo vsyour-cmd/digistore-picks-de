@@ -10,10 +10,10 @@ affiliate_commission_pct: 5
 earnings_per_sale: 0.26
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Business & Investment","Education","Profession & Job"]
+categories: ["Business & Investment","Profession & Job","Education"]
 listed_since: "2026-07-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/715297?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/715297"
@@ -22,7 +22,7 @@ language: "de"
 # Finanz-Kompass für Selbstständige – 40 % Affiliate-Provision
 
 > Product ID `57768` · Digistore24 productId `715297` · [HTML profile page](../../produkte/finanz-kompass-f-r-selbstst-ndige-40-affiliate-provision-57768.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | thomasidziak3843 |
 | Listed since | 2026-07-27 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Education, Profession & Job |
+| Categories | Business & Investment, Profession & Job, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -70,14 +70,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Finanz-Kompass für Selbstständige – 40 % Affiliate-Provision? — Typ: E-books, Anbieter: thomasidziak3843, gelistet seit 2026-07-27
-- Wie viel kostet es? — 5.210346 USD
+- Wie viel kostet es? — 5.213608 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Finanz-Kompass für Selbstständige – 40 % Affiliate-Provision Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/715297
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/715297/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Finanz-Kompass%20f%C3%BCr%20Selbstst%C3%A4ndige%20%E2%80%93%2040%20%25%20Affiliate-Provision
 
 ## 4. Editorial notes

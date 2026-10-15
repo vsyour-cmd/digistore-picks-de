@@ -10,19 +10,19 @@ affiliate_commission_pct: 60
 earnings_per_sale: 0.94
 cart_conversion_pct: 18
 cancel_rate_pct: 2.71
-categories: ["Business & Investment","Email Marketing","Online Marketing & E-Business"]
+categories: ["Business & Investment","Online Marketing & E-Business","Email Marketing"]
 listed_since: "2024-07-11"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/48625/adminstore/"
+promo_link: "https://affiliforge.net/150-freebie-ideen?aff=adminstore#aff=adminstore"
 sales_page: "https://affiliforge.net/150-freebie-ideen"
 language: "de"
 ---
 # 150 Freebie Ideen + KI Prompt
 
 > Product ID `48625` · Digistore24 productId `560802` · [HTML profile page](../../produkte/150-freebie-ideen-ki-prompt-48625.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | AffiliForge |
 | Listed since | 2024-07-11 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Email Marketing, Online Marketing & E-Business |
+| Categories | Business & Investment, Online Marketing & E-Business, Email Marketing |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/48625/adminstore/
+- **Promo link (affiliate):** https://affiliforge.net/150-freebie-ideen?aff=adminstore#aff=adminstore
 - Sales page: https://affiliforge.net/150-freebie-ideen
 - Vendor affiliate support: https://affiliforge.net/AffiliForge-Partnerportal
 - Canonical redirect: https://www.digistore24.com/redir/560802/adminstore
@@ -77,14 +77,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 150 Freebie Ideen + KI Prompt? — Typ: Member area and video courses, Anbieter: AffiliForge, gelistet seit 2024-07-11
-- Wie viel kostet es? — 2.448639 USD
+- Wie viel kostet es? — 2.450172 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 150 Freebie Ideen + KI Prompt Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/560802
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/560802/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=150%20Freebie%20Ideen%20%2B%20KI%20Prompt
 
 ## 4. Editorial notes

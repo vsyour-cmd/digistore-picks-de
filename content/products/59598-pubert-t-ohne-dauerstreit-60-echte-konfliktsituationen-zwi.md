@@ -4,16 +4,16 @@ digistore24_product_id: 736508
 title: "Pubertät ohne Dauerstreit – 60 echte Konfliktsituationen zwi"
 vendor: "MarkusGerbig"
 product_type: "E-books"
-price: 31.34
+price: 31.36
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 12.53
+earnings_per_sale: 12.54
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Family & Children","Services"]
+categories: ["Family & Children","Education","Services"]
 listed_since: "2026-09-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.mg-wissen.de/pubertaet-ohne-dauerstreit/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.mg-wissen.de/pubertaet-ohne-dauerstreit/"
@@ -22,22 +22,22 @@ language: "de"
 # Pubertät ohne Dauerstreit – 60 echte Konfliktsituationen zwi
 
 > Product ID `59598` · Digistore24 productId `736508` · [HTML profile page](../../produkte/pubert-t-ohne-dauerstreit-60-echte-konfliktsituationen-zwi-59598.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $31.34 (Single payment) |
+| Price | $31.36 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $12.53 |
+| Earnings/sale* | $12.54 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MarkusGerbig |
 | Listed since | 2026-09-23 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Family & Children, Services |
+| Categories | Family & Children, Education, Services |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -68,14 +68,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Pubertät ohne Dauerstreit – 60 echte Konfliktsituationen zwi? — Typ: E-books, Anbieter: MarkusGerbig, gelistet seit 2026-09-23
-- Wie viel kostet es? — 31.340343000000004 USD
+- Wie viel kostet es? — 31.359964 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Pubertät ohne Dauerstreit – 60 echte Konfliktsituationen zwi Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/736508
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/736508/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Pubert%C3%A4t%20ohne%20Dauerstreit%20%E2%80%93%2060%20echte%20Konfliktsituationen%20zwi
 
 ## 4. Editorial notes

@@ -4,34 +4,34 @@ digistore24_product_id: 133323
 title: "Motivation Bundle – Erwecke dein inneres Feuer"
 vendor: "EnergeticTernity"
 product_type: "Downloads"
-price: 266.51
+price: 266.68
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 98.5
+earnings_per_sale: 98.57
 cart_conversion_pct: 8
 cancel_rate_pct: 3.18
 categories: ["Personal Development"]
 listed_since: "2017-04-19"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/16215/adminstore/"
+promo_link: "http://energetic-eternity.de/produkt/motivation-bundle/?aff=adminstore#aff=adminstore"
 sales_page: "http://energetic-eternity.de/produkt/motivation-bundle/"
 language: "de"
 ---
 # Motivation Bundle – Erwecke dein inneres Feuer
 
 > Product ID `16215` · Digistore24 productId `133323` · [HTML profile page](../../produkte/motivation-bundle-erwecke-dein-inneres-feuer-16215.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $266.51 (Single payment) |
+| Price | $266.68 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $98.50 |
+| Earnings/sale* | $98.57 |
 | Cart conversion* | 8% |
 | Cancel rate* | 3.18% |
 | Vendor | EnergeticTernity |
@@ -41,11 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Empfehle unsere Hör-Programme weiter und verdiene mit an über 30 Upsells/Cross-Sells! Deine Vorteile: --> Hohe Provisionen von 30% für alle Produkte im Bereich zwischen 25-150 Euro und 25% Provision für Produkte ab 199 Euro --> Garantiert etwas für deine Kunden dabei: In über 20 Nischen aktiv (z.B Gesundheit, Wohlstand, Liebe & Beziehungen, Bewusstsein, Fitness etc.) --> Getestet und optimiert: Bereits über 10.000 verkaufte Produkte --> Hohe Conversions und hoher Kundenwert: Profitiere mit an unseren hochoptimierten Segmentierungs-Verkaufsfunneln --> Schneller und professioneller Support durch unseren Affiliate-Manager Nach dem Verkauf über dich wird der Kunde systematisch durch zahlreiche Upsell- und Cross-Sell-Kampagnen geführt. Du erhältst Provisionen für jeden weiteren Verkauf! Melde dich jetzt als Affiliate an und baue dir ein passives Einkommen auf. Auf eine erfolgreiche Aktion! Beste Grüße, Marvin Alberg
+**Vendor's marketplace description:** Empfehle unsere Hör-Programme weiter und verdiene mit an über 30 Upsells/Cross-Sells! Deine Vorteile: --> Hohe Provisionen von 30% für alle Produkte im Bereich zwischen 25-150 Euro und 25% Provision für Produkte ab 199 Euro --> Garantiert etwas für deine Kunden dabei: In über 20 Nischen ��aktiv (z.B Gesundheit, Wohlstand, Liebe & Beziehungen, Bewusstsein, Fitness etc.) --> Getestet und optimiert: Bereits über 10.000 verkaufte Produkte --> Hohe Conversions und hoher Kundenwert: Profitiere mit an unseren hochoptimierten Segmentierungs-Verkaufsfunneln --> Schneller und professioneller Support durch unseren Affiliate-Manager Nach dem Verkauf über dich wird der Kunde systematisch durch zahlreiche Upsell- und Cross-Sell-Kampagnen geführt. Du erhältst Provisionen für jeden weiteren Verkauf! Melde dich jetzt als Affiliate an und baue dir ein passives Einkommen auf. Auf eine erfolgreiche Aktion! Beste Grüße, Marvin Alberg
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/16215/adminstore/
+- **Promo link (affiliate):** http://energetic-eternity.de/produkt/motivation-bundle/?aff=adminstore#aff=adminstore
 - Sales page: http://energetic-eternity.de/produkt/motivation-bundle/
 - Vendor affiliate support: https://energetic-eternity.de/affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/133323/adminstore
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Motivation Bundle – Erwecke dein inneres Feuer? — Typ: Downloads, Anbieter: EnergeticTernity, gelistet seit 2017-04-19
-- Wie viel kostet es? — 266.51031600000005 USD
+- Wie viel kostet es? — 266.677168 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Motivation Bundle – Erwecke dein inneres Feuer Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/133323
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/133323/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Motivation%20Bundle%20%E2%80%93%20Erwecke%20dein%20inneres%20Feuer
 
 ## 4. Editorial notes

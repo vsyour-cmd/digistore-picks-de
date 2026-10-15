@@ -4,40 +4,40 @@ digistore24_product_id: 610495
 title: "Frühling online entdecken und offline erleben (4 - 6 Jahre)"
 vendor: "IsabellFa"
 product_type: "Member area and video courses"
-price: 44.16
+price: 44.19
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 11.18
+earnings_per_sale: 11.19
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Family & Children","Fun & Games","Hobby & Craft"]
+categories: ["Family & Children","Hobby & Craft","Fun & Games"]
 listed_since: "2025-05-02"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/52631/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/616678?voucher=Herbstfreude&aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/616678?voucher=Herbstfreude"
 language: "de"
 ---
 # Frühling online entdecken und offline erleben (4 - 6 Jahre)
 
 > Product ID `52631` · Digistore24 productId `610495` · [HTML profile page](../../produkte/fr-hling-online-entdecken-und-offline-erleben-4-6-jahre-52631.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $44.16 (Single payment, Installment) |
+| Price | $44.19 (Single payment, Installment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $11.18 |
+| Earnings/sale* | $11.19 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | IsabellFa |
 | Listed since | 2025-05-02 |
 | Auto-accept affiliates | yes |
-| Categories | Family & Children, Fun & Games, Hobby & Craft |
+| Categories | Family & Children, Hobby & Craft, Fun & Games |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/52631/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/616678?voucher=Herbstfreude&aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/616678?voucher=Herbstfreude
 - Canonical redirect: https://www.digistore24.com/redir/610495/adminstore
 
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Frühling online entdecken und offline erleben (4 - 6 Jahre)? — Typ: Member area and video courses, Anbieter: IsabellFa, gelistet seit 2025-05-02
-- Wie viel kostet es? — 44.164950000000005 USD
+- Wie viel kostet es? — 44.1926 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Frühling online entdecken und offline erleben (4 - 6 Jahre) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/610495
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/610495/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Fr%C3%BChling%20online%20entdecken%20und%20offline%20erleben%20(4%20-%206%20Jahre)
 
 ## 4. Editorial notes

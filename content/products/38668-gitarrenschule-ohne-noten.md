@@ -4,7 +4,7 @@ digistore24_product_id: 372820
 title: "Gitarrenschule ohne Noten"
 vendor: "Re19Ma"
 product_type: "Downloads"
-price: 11.63
+price: 11.64
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 5.66
@@ -12,8 +12,8 @@ cart_conversion_pct: 18
 cancel_rate_pct: 1.55
 categories: ["Education"]
 listed_since: "2021-02-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "http://www.guitar-tv.de/Produkte3/?aff=adminstore#aff=adminstore"
 sales_page: "http://www.guitar-tv.de/Produkte3/"
@@ -22,14 +22,14 @@ language: "de"
 # Gitarrenschule ohne Noten
 
 > Product ID `38668` · Digistore24 productId `372820` · [HTML profile page](../../produkte/gitarrenschule-ohne-noten-38668.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $11.63 (Single payment) |
+| Price | $11.64 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $5.66 |
 | Cart conversion* | 18% |
@@ -72,14 +72,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Gitarrenschule ohne Noten? — Typ: Downloads, Anbieter: Re19Ma, gelistet seit 2021-02-09
-- Wie viel kostet es? — 11.628240000000002 USD
+- Wie viel kostet es? — 11.635520000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Gitarrenschule ohne Noten Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/372820
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/372820/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Gitarrenschule%20ohne%20Noten
 
 ## 4. Editorial notes

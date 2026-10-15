@@ -12,17 +12,17 @@ cart_conversion_pct: 32
 cancel_rate_pct: 0.46
 categories: ["Online Marketing & E-Business"]
 listed_since: "2021-01-25"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/36315/adminstore/"
+promo_link: "https://buch.der-bayerische-vertriebsfreak.de/77vertriebstipps?aff=adminstore#aff=adminstore"
 sales_page: "https://buch.der-bayerische-vertriebsfreak.de/77vertriebstipps"
 language: "de"
 ---
 # Die feurigen 77 Vertriebstipps - Uwe Rieder
 
 > Product ID `36315` · Digistore24 productId `369918` · [HTML profile page](../../produkte/die-feurigen-77-vertriebstipps-uwe-rieder-36315.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/36315/adminstore/
+- **Promo link (affiliate):** https://buch.der-bayerische-vertriebsfreak.de/77vertriebstipps?aff=adminstore#aff=adminstore
 - Sales page: https://buch.der-bayerische-vertriebsfreak.de/77vertriebstipps
 - Vendor affiliate support: https://affiliate.der-bayerische-vertriebsfreak.de/ubersicht
 - Canonical redirect: https://www.digistore24.com/redir/369918/adminstore
@@ -59,14 +59,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die feurigen 77 Vertriebstipps - Uwe Rieder? — Typ: E-books, Anbieter: UweRieder, gelistet seit 2021-01-25
-- Wie viel kostet es? — 4.338228 USD
+- Wie viel kostet es? — 4.340944 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Die feurigen 77 Vertriebstipps - Uwe Rieder Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/369918
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/369918/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Die%20feurigen%2077%20Vertriebstipps%20-%20Uwe%20Rieder
 
 ## 4. Editorial notes

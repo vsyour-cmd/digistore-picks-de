@@ -4,16 +4,16 @@ digistore24_product_id: 300338
 title: "Der Social Media Erfolgsplan"
 vendor: "onlineratgeber24"
 product_type: "Member area and video courses"
-price: 446.12
+price: 446.4
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 223.06
+earnings_per_sale: 223.2
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media"]
 listed_since: "2019-12-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.startimpulse.online/social-media-erfolgsplan?aff=adminstore#aff=adminstore"
 sales_page: "https://www.startimpulse.online/social-media-erfolgsplan"
@@ -22,16 +22,16 @@ language: "de"
 # Der Social Media Erfolgsplan
 
 > Product ID `51852` · Digistore24 productId `300338` · [HTML profile page](../../produkte/der-social-media-erfolgsplan-51852.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $446.12 (Single payment) |
+| Price | $446.40 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $223.06 |
+| Earnings/sale* | $223.20 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | onlineratgeber24 |
@@ -92,14 +92,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Social Media Erfolgsplan? — Typ: Member area and video courses, Anbieter: onlineratgeber24, gelistet seit 2019-12-18
-- Wie viel kostet es? — 446.12190000000004 USD
+- Wie viel kostet es? — 446.4012 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Der Social Media Erfolgsplan Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/300338
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/300338/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%20Social%20Media%20Erfolgsplan
 
 ## 4. Editorial notes

@@ -4,40 +4,40 @@ digistore24_product_id: 327046
 title: "Dein Nichtraucher Training - Schluss mit Rauchen"
 vendor: "Deinechance"
 product_type: "Member area and video courses"
-price: 197.9
+price: 198.03
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 98.95
+earnings_per_sale: 99.01
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Health & Fitness","Sport"]
+categories: ["Health & Fitness","Education","Sport"]
 listed_since: "2020-05-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/44685/adminstore/"
+promo_link: "https://past-smoking.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://past-smoking.com/"
 language: "de"
 ---
 # Dein Nichtraucher Training - Schluss mit Rauchen
 
 > Product ID `44685` · Digistore24 productId `327046` · [HTML profile page](../../produkte/dein-nichtraucher-training-schluss-mit-rauchen-44685.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $197.90 (Single payment, Installment) |
+| Price | $198.03 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $98.95 |
+| Earnings/sale* | $99.01 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Deinechance |
 | Listed since | 2020-05-16 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Health & Fitness, Sport |
+| Categories | Health & Fitness, Education, Sport |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/44685/adminstore/
+- **Promo link (affiliate):** https://past-smoking.com/?aff=adminstore#aff=adminstore
 - Sales page: https://past-smoking.com/
 - Vendor affiliate support: https://dejan-sekulic.com/partnerprogramm
 - Canonical redirect: https://www.digistore24.com/redir/327046/adminstore
@@ -105,14 +105,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Dein Nichtraucher Training - Schluss mit Rauchen? — Typ: Member area and video courses, Anbieter: Deinechance, gelistet seit 2020-05-16
-- Wie viel kostet es? — 197.90370000000001 USD
+- Wie viel kostet es? — 198.0276 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Dein Nichtraucher Training - Schluss mit Rauchen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/327046
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/327046/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Dein%20Nichtraucher%20Training%20-%20Schluss%20mit%20Rauchen
 
 ## 4. Editorial notes

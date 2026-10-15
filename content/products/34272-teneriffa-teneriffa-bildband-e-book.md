@@ -10,10 +10,10 @@ affiliate_commission_pct: 35
 earnings_per_sale: 2.95
 cart_conversion_pct: 31
 cancel_rate_pct: 0.7
-categories: ["Hobby & Craft","Photography & Film","Travel & Culture"]
+categories: ["Travel & Culture","Hobby & Craft","Photography & Film"]
 listed_since: "2020-09-30"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.unaufschiebbar.de/teneriffa-bildband/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.unaufschiebbar.de/teneriffa-bildband/"
@@ -22,7 +22,7 @@ language: "de"
 # TENERIFFA: Teneriffa Bildband [E-Book]
 
 > Product ID `34272` · Digistore24 productId `350433` · [HTML profile page](../../produkte/teneriffa-teneriffa-bildband-e-book-34272.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | rheinrost |
 | Listed since | 2020-09-30 |
 | Auto-accept affiliates | yes |
-| Categories | Hobby & Craft, Photography & Film, Travel & Culture |
+| Categories | Travel & Culture, Hobby & Craft, Photography & Film |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -80,14 +80,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist TENERIFFA: Teneriffa Bildband [E-Book]? — Typ: E-books, Anbieter: rheinrost, gelistet seit 2020-09-30
-- Wie viel kostet es? — 14.535300000000001 USD
+- Wie viel kostet es? — 14.5444 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: TENERIFFA: Teneriffa Bildband [E-Book] Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/350433
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/350433/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=TENERIFFA%3A%20Teneriffa%20Bildband%20%5BE-Book%5D
 
 ## 4. Editorial notes

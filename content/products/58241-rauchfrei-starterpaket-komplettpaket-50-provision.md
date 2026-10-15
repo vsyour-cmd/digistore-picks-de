@@ -4,7 +4,7 @@ digistore24_product_id: 717831
 title: "Rauchfrei-Starterpaket – Komplettpaket + 50 % Provision"
 vendor: "HeikoBoos"
 product_type: "E-books"
-price: 19.86
+price: 19.87
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 9.93
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2026-08-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/58241/adminstore/"
+promo_link: "https://nichtraucherzone.de/das-rauchfrei-starterpaket?aff=adminstore#aff=adminstore"
 sales_page: "https://nichtraucherzone.de/das-rauchfrei-starterpaket"
 language: "de"
 ---
 # Rauchfrei-Starterpaket – Komplettpaket + 50 % Provision
 
 > Product ID `58241` · Digistore24 productId `717831` · [HTML profile page](../../produkte/rauchfrei-starterpaket-komplettpaket-50-provision-58241.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $19.86 (Single payment) |
+| Price | $19.87 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $9.93 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58241/adminstore/
+- **Promo link (affiliate):** https://nichtraucherzone.de/das-rauchfrei-starterpaket?aff=adminstore#aff=adminstore
 - Sales page: https://nichtraucherzone.de/das-rauchfrei-starterpaket
 - Vendor affiliate support: https://nichtraucherzone.de/partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/717831/adminstore
@@ -83,14 +83,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Rauchfrei-Starterpaket – Komplettpaket + 50 % Provision? — Typ: E-books, Anbieter: HeikoBoos, gelistet seit 2026-08-09
-- Wie viel kostet es? — 19.857456000000003 USD
+- Wie viel kostet es? — 19.869888000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Rauchfrei-Starterpaket – Komplettpaket + 50 % Provision Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/717831
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/717831/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Rauchfrei-Starterpaket%20%E2%80%93%20Komplettpaket%20%2B%2050%20%25%20Provision
 
 ## 4. Editorial notes

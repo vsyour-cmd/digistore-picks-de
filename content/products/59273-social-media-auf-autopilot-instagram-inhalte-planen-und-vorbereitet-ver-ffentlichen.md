@@ -4,34 +4,34 @@ digistore24_product_id: 733940
 title: "Social Media auf Autopilot: Instagram-Inhalte planen und vorbereitet veröffentlichen"
 vendor: "einfachmitmatze"
 product_type: "Downloads"
-price: 121.2
+price: 121.28
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 60.6
+earnings_per_sale: 60.64
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-09-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/59273/adminstore/"
+promo_link: "https://einfachmitmatze.de/social-media-autopilot/?aff=adminstore#aff=adminstore"
 sales_page: "https://einfachmitmatze.de/social-media-autopilot/"
 language: "de"
 ---
 # Social Media auf Autopilot: Instagram-Inhalte planen und vorbereitet veröffentlichen
 
 > Product ID `59273` · Digistore24 productId `733940` · [HTML profile page](../../produkte/social-media-auf-autopilot-instagram-inhalte-planen-und-vorbereitet-ver-ffentlichen-59273.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $121.20 (Single payment) |
+| Price | $121.28 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $60.60 |
+| Earnings/sale* | $60.64 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | einfachmitmatze |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59273/adminstore/
+- **Promo link (affiliate):** https://einfachmitmatze.de/social-media-autopilot/?aff=adminstore#aff=adminstore
 - Sales page: https://einfachmitmatze.de/social-media-autopilot/
 - Vendor affiliate support: https://einfachmitmatze.de/partner-733940/
 - Canonical redirect: https://www.digistore24.com/redir/733940/adminstore
@@ -95,14 +95,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Social Media auf Autopilot: Instagram-Inhalte planen und vorbereitet veröffentlichen? — Typ: Downloads, Anbieter: einfachmitmatze, gelistet seit 2026-09-16
-- Wie viel kostet es? — 121.20204000000001 USD
+- Wie viel kostet es? — 121.27792000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Social Media auf Autopilot: Instagram-Inhalte planen und vorbereitet veröffentlichen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/733940
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/733940/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Social%20Media%20auf%20Autopilot%3A%20Instagram-Inhalte%20planen%20und%20vorbereitet%20ver%C3%B6ffentlichen
 
 ## 4. Editorial notes

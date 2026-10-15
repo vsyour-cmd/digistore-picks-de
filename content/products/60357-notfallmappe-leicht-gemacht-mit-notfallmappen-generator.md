@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2026-10-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/60357/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/741780?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/741780"
 language: "de"
 ---
 # Notfallmappe leicht gemacht – mit Notfallmappen-Generator
 
 > Product ID `60357` · Digistore24 productId `741780` · [HTML profile page](../../produkte/notfallmappe-leicht-gemacht-mit-notfallmappen-generator-60357.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/60357/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/741780?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/741780
 - Canonical redirect: https://www.digistore24.com/redir/741780/adminstore
 
@@ -81,14 +81,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Notfallmappe leicht gemacht – mit Notfallmappen-Generator? — Typ: E-books, Anbieter: ratgeberleichtgemacht, gelistet seit 2026-10-07
-- Wie viel kostet es? — 15.575133000000001 USD
+- Wie viel kostet es? — 15.584884 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Notfallmappe leicht gemacht – mit Notfallmappen-Generator Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/741780
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/741780/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Notfallmappe%20leicht%20gemacht%20%E2%80%93%20mit%20Notfallmappen-Generator
 
 ## 4. Editorial notes

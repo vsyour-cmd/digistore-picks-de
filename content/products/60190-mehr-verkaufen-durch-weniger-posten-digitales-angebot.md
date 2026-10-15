@@ -4,7 +4,7 @@ digistore24_product_id: 731830
 title: "MEHR VERKAUFEN DURCH WENIGER POSTEN. | Digitales Angebot"
 vendor: "smartboostAI"
 product_type: "Member area and video courses"
-price: 25.37
+price: 25.39
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 2.54
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Marketing Services"]
 listed_since: "2026-10-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
 promo_link: "https://robertschumacher.io/app?aff=adminstore#aff=adminstore"
 sales_page: "https://robertschumacher.io/app"
@@ -22,14 +22,14 @@ language: "de"
 # MEHR VERKAUFEN DURCH WENIGER POSTEN. | Digitales Angebot
 
 > Product ID `60190` · Digistore24 productId `731830` · [HTML profile page](../../produkte/mehr-verkaufen-durch-weniger-posten-digitales-angebot-60190.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $25.37 (Single payment) |
+| Price | $25.39 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $2.54 |
 | Cart conversion* | — |
@@ -62,14 +62,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist MEHR VERKAUFEN DURCH WENIGER POSTEN. | Digitales Angebot? — Typ: Member area and video courses, Anbieter: smartboostAI, gelistet seit 2026-10-05
-- Wie viel kostet es? — 25.369689000000005 USD
+- Wie viel kostet es? — 25.385572000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: MEHR VERKAUFEN DURCH WENIGER POSTEN. | Digitales Angebot Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/731830
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/731830/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=MEHR%20VERKAUFEN%20DURCH%20WENIGER%20POSTEN.%20%7C%20Digitales%20Angebot
 
 ## 4. Editorial notes

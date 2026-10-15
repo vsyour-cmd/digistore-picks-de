@@ -4,16 +4,16 @@ digistore24_product_id: 643769
 title: "Lexosleep plus"
 vendor: "KerstinSchimkus"
 product_type: "Member area and video courses"
-price: 754.72
+price: 755.19
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 75.47
+earnings_per_sale: 75.52
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2026-07-02"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://lexosophie.mydigibiz24.com/lexosleep-plus-2?aff=adminstore#aff=adminstore"
 sales_page: "https://lexosophie.mydigibiz24.com/lexosleep-plus-2"
@@ -22,16 +22,16 @@ language: "de"
 # Lexosleep plus
 
 > Product ID `57370` · Digistore24 productId `643769` · [HTML profile page](../../produkte/lexosleep-plus-57370.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $754.72 (Single payment, Installment) |
+| Price | $755.19 (Single payment, Installment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $75.47 |
+| Earnings/sale* | $75.52 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | KerstinSchimkus |
@@ -90,14 +90,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Lexosleep plus? — Typ: Member area and video courses, Anbieter: KerstinSchimkus, gelistet seit 2026-07-02
-- Wie viel kostet es? — 754.7175000000001 USD
+- Wie viel kostet es? — 755.19 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Lexosleep plus Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/643769
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/643769/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Lexosleep%20plus
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 733799
 title: "Die 7 Säulen des Erfolgs"
 vendor: "AndreasLang"
 product_type: "Member area and video courses"
-price: 878.5
+price: 879.05
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 439.26
+earnings_per_sale: 439.53
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Online Marketing & E-Business","Personal Development"]
+categories: ["Personal Development","Online Marketing & E-Business"]
 listed_since: "2024-09-25"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/product/733799?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/733799"
@@ -22,22 +22,22 @@ language: "de"
 # Die 7 Säulen des Erfolgs
 
 > Product ID `50230` · Digistore24 productId `733799` · [HTML profile page](../../produkte/die-7-s-ulen-des-erfolgs-50230.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $878.50 (Single payment) |
+| Price | $879.05 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $439.26 |
+| Earnings/sale* | $439.53 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | AndreasLang |
 | Listed since | 2024-09-25 |
 | Auto-accept affiliates | yes |
-| Categories | Online Marketing & E-Business, Personal Development |
+| Categories | Personal Development, Online Marketing & E-Business |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -85,14 +85,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die 7 Säulen des Erfolgs? — Typ: Member area and video courses, Anbieter: AndreasLang, gelistet seit 2024-09-25
-- Wie viel kostet es? — 878.5023510000001 USD
+- Wie viel kostet es? — 879.052348 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Die 7 Säulen des Erfolgs Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/733799
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/733799/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Die%207%20S%C3%A4ulen%20des%20Erfolgs
 
 ## 4. Editorial notes

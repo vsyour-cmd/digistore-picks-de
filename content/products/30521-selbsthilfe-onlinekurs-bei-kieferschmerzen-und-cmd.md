@@ -4,34 +4,34 @@ digistore24_product_id: 284857
 title: "Selbsthilfe: Onlinekurs bei Kieferschmerzen und CMD"
 vendor: "bodyLIFE"
 product_type: "Member area and video courses"
-price: 74.23
+price: 74.28
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 37.12
+earnings_per_sale: 37.14
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2019-08-30"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/30521/adminstore/"
+promo_link: "https://cmd-kiefer.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://cmd-kiefer.de/"
 language: "de"
 ---
 # Selbsthilfe: Onlinekurs bei Kieferschmerzen und CMD
 
 > Product ID `30521` · Digistore24 productId `284857` · [HTML profile page](../../produkte/selbsthilfe-onlinekurs-bei-kieferschmerzen-und-cmd-30521.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $74.23 (Single payment) |
+| Price | $74.28 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $37.12 |
+| Earnings/sale* | $37.14 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | bodyLIFE |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/30521/adminstore/
+- **Promo link (affiliate):** https://cmd-kiefer.de/?aff=adminstore#aff=adminstore
 - Sales page: https://cmd-kiefer.de/
 - Vendor affiliate support: https://cmd-kiefer.de/affiliateprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/284857/adminstore
@@ -93,14 +93,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Selbsthilfe: Onlinekurs bei Kieferschmerzen und CMD? — Typ: Member area and video courses, Anbieter: bodyLIFE, gelistet seit 2019-08-30
-- Wie viel kostet es? — 74.230659 USD
+- Wie viel kostet es? — 74.27713200000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Selbsthilfe: Onlinekurs bei Kieferschmerzen und CMD Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/284857
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/284857/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Selbsthilfe%3A%20Onlinekurs%20bei%20Kieferschmerzen%20und%20CMD
 
 ## 4. Editorial notes

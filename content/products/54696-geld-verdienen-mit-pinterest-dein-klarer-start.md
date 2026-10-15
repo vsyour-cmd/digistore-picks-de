@@ -12,8 +12,8 @@ cart_conversion_pct: 26
 cancel_rate_pct: 11.11
 categories: ["Online Marketing & E-Business","Social Media"]
 listed_since: "2025-11-19"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.nebeneinkommenideen.de/geld-verdienen-mit-pinterest?aff=adminstore#aff=adminstore"
 sales_page: "https://www.nebeneinkommenideen.de/geld-verdienen-mit-pinterest"
@@ -22,7 +22,7 @@ language: "de"
 # Geld verdienen mit Pinterest – Dein klarer Start
 
 > Product ID `54696` · Digistore24 productId `649735` · [HTML profile page](../../produkte/geld-verdienen-mit-pinterest-dein-klarer-start-54696.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -76,14 +76,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Geld verdienen mit Pinterest – Dein klarer Start? — Typ: E-books, Anbieter: digitag, gelistet seit 2025-11-19
-- Wie viel kostet es? — 0.41369700000000004 USD
+- Wie viel kostet es? — 0.413956 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Geld verdienen mit Pinterest – Dein klarer Start Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/649735
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/649735/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Geld%20verdienen%20mit%20Pinterest%20%E2%80%93%20Dein%20klarer%20Start
 
 ## 4. Editorial notes

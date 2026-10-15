@@ -4,16 +4,16 @@ digistore24_product_id: 618265
 title: "Story-Sells-System"
 vendor: "LauraTeresaG"
 product_type: "Member area and video courses"
-price: 34.76
+price: 34.78
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 17.39
+earnings_per_sale: 17.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2025-06-12"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/618265?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/618265"
@@ -22,16 +22,16 @@ language: "de"
 # Story-Sells-System
 
 > Product ID `52984` · Digistore24 productId `618265` · [HTML profile page](../../produkte/story-sells-system-52984.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $34.76 (Single payment) |
+| Price | $34.78 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $17.39 |
+| Earnings/sale* | $17.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | LauraTeresaG |
@@ -91,14 +91,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Story-Sells-System? — Typ: Member area and video courses, Anbieter: LauraTeresaG, gelistet seit 2025-06-12
-- Wie viel kostet es? — 34.761729 USD
+- Wie viel kostet es? — 34.783492 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Story-Sells-System Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/618265
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/618265/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Story-Sells-System
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 588998
 title: "Neurostreams™ KLASSIKER (Sammlung)"
 vendor: "newdimension"
 product_type: "Downloads"
-price: 97.71
+price: 97.77
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 48.86
+earnings_per_sale: 48.89
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2025-01-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.neurostreams.de/produkte/klassiker/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.neurostreams.de/produkte/klassiker/"
@@ -22,16 +22,16 @@ language: "de"
 # Neurostreams™ KLASSIKER (Sammlung)
 
 > Product ID `47012` · Digistore24 productId `588998` · [HTML profile page](../../produkte/neurostreams-klassiker-sammlung-47012.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $97.71 (Single payment, Installment) |
+| Price | $97.77 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $48.86 |
+| Earnings/sale* | $48.89 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | newdimension |
@@ -94,14 +94,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Neurostreams™ KLASSIKER (Sammlung)? — Typ: Downloads, Anbieter: newdimension, gelistet seit 2025-01-06
-- Wie viel kostet es? — 97.71075900000001 USD
+- Wie viel kostet es? — 97.771932 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Neurostreams™ KLASSIKER (Sammlung) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/588998
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/588998/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Neurostreams%E2%84%A2%20KLASSIKER%20(Sammlung)
 
 ## 4. Editorial notes

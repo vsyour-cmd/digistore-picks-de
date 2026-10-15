@@ -4,16 +4,16 @@ digistore24_product_id: 424136
 title: "Selbstliebe - Online Kurs mit Pavlina Klemm"
 vendor: "ChannelingKongress"
 product_type: "Member area and video courses"
-price: 196.9
+price: 197.02
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 40.6
+earnings_per_sale: 40.62
 cart_conversion_pct: 9
 cancel_rate_pct: 1.6
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2022-01-11"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://selbstliebe-onlinekurs.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://selbstliebe-onlinekurs.de/"
@@ -22,16 +22,16 @@ language: "de"
 # Selbstliebe - Online Kurs mit Pavlina Klemm
 
 > Product ID `39979` · Digistore24 productId `424136` · [HTML profile page](../../produkte/selbstliebe-online-kurs-mit-pavlina-klemm-39979.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $196.90 (Single payment, Installment) |
+| Price | $197.02 (Single payment, Installment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $40.60 |
+| Earnings/sale* | $40.62 |
 | Cart conversion* | 9% |
 | Cancel rate* | 1.6% |
 | Vendor | ChannelingKongress |
@@ -88,14 +88,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Selbstliebe - Online Kurs mit Pavlina Klemm? — Typ: Member area and video courses, Anbieter: ChannelingKongress, gelistet seit 2022-01-11
-- Wie viel kostet es? — 196.89741 USD
+- Wie viel kostet es? — 197.02068 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Selbstliebe - Online Kurs mit Pavlina Klemm Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/424136
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/424136/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Selbstliebe%20-%20Online%20Kurs%20mit%20Pavlina%20Klemm
 
 ## 4. Editorial notes

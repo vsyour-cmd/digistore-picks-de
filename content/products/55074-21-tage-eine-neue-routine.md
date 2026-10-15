@@ -4,16 +4,16 @@ digistore24_product_id: 658216
 title: "21 Tage Eine neue Routine"
 vendor: "Niux489"
 product_type: "Downloads"
-price: 26.31
+price: 26.33
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 13.16
+earnings_per_sale: 13.17
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2025-12-31"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
 promo_link: "https://niux.my.canva.site/21-tage-eine-neue-routine?aff=adminstore#aff=adminstore"
 sales_page: "https://niux.my.canva.site/21-tage-eine-neue-routine"
@@ -22,16 +22,16 @@ language: "de"
 # 21 Tage Eine neue Routine
 
 > Product ID `55074` · Digistore24 productId `658216` · [HTML profile page](../../produkte/21-tage-eine-neue-routine-55074.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $26.31 (Single payment) |
+| Price | $26.33 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $13.16 |
+| Earnings/sale* | $13.17 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Niux489 |
@@ -60,14 +60,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 21 Tage Eine neue Routine? — Typ: Downloads, Anbieter: Niux489, gelistet seit 2025-12-31
-- Wie viel kostet es? — 26.308893000000005 USD
+- Wie viel kostet es? — 26.325364 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 21 Tage Eine neue Routine Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/658216
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/658216/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=21%20Tage%20Eine%20neue%20Routine
 
 ## 4. Editorial notes

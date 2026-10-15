@@ -4,34 +4,34 @@ digistore24_product_id: 626900
 title: "THE POWER OF LOVE I Der Heilige Pfad der 13 Clanmütter"
 vendor: "ThomasYoung"
 product_type: "Member area and video courses"
-price: 657.85
+price: 658.26
 currency: "USD"
 affiliate_commission_pct: 18
-earnings_per_sale: 260.88
+earnings_per_sale: 261.04
 cart_conversion_pct: 25
 cancel_rate_pct: 4.57
 categories: ["Spiri­tua­lity & Esotericism","Marketing Services"]
 listed_since: "2025-07-30"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/53873/adminstore/"
+promo_link: "https://www.thomasyoung.online/love?aff=adminstore#aff=adminstore"
 sales_page: "https://www.thomasyoung.online/love"
 language: "de"
 ---
 # THE POWER OF LOVE I Der Heilige Pfad der 13 Clanmütter
 
 > Product ID `53873` · Digistore24 productId `626900` · [HTML profile page](../../produkte/the-power-of-love-i-der-heilige-pfad-der-13-clanm-tter-53873.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $657.85 (Single payment, Installment) |
+| Price | $658.26 (Single payment, Installment) |
 | Affiliate commission | 18% |
-| Earnings/sale* | $260.88 |
+| Earnings/sale* | $261.04 |
 | Cart conversion* | 25% |
 | Cancel rate* | 4.57% |
 | Vendor | ThomasYoung |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/53873/adminstore/
+- **Promo link (affiliate):** https://www.thomasyoung.online/love?aff=adminstore#aff=adminstore
 - Sales page: https://www.thomasyoung.online/love
 - Vendor affiliate support: http://www.thomasyoung.online/partner-page-love
 - Canonical redirect: https://www.digistore24.com/redir/626900/adminstore
@@ -78,14 +78,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist THE POWER OF LOVE I Der Heilige Pfad der 13 Clanmütter? — Typ: Member area and video courses, Anbieter: ThomasYoung, gelistet seit 2025-07-30
-- Wie viel kostet es? — 657.845316 USD
+- Wie viel kostet es? — 658.257168 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: THE POWER OF LOVE I Der Heilige Pfad der 13 Clanmütter Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/626900
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/626900/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=THE%20POWER%20OF%20LOVE%20I%20Der%20Heilige%20Pfad%20der%2013%20Clanm%C3%BCtter
 
 ## 4. Editorial notes

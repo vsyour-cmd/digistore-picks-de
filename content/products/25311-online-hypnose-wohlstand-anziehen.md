@@ -4,34 +4,34 @@ digistore24_product_id: 211711
 title: "Online Hypnose Wohlstand anziehen"
 vendor: "manjushri"
 product_type: "Downloads"
-price: 42.29
+price: 42.31
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 25.37
+earnings_per_sale: 25.39
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2018-03-30"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/25311/adminstore/"
+promo_link: "https://online-hypnose.eu/kurs-005-wohlstand-anziehen-und-reich-werden/?aff=adminstore#aff=adminstore"
 sales_page: "https://online-hypnose.eu/kurs-005-wohlstand-anziehen-und-reich-werden/"
 language: "de"
 ---
 # Online Hypnose Wohlstand anziehen
 
 > Product ID `25311` · Digistore24 productId `211711` · [HTML profile page](../../produkte/online-hypnose-wohlstand-anziehen-25311.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $42.29 (Single payment) |
+| Price | $42.31 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $25.37 |
+| Earnings/sale* | $25.39 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | manjushri |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/25311/adminstore/
+- **Promo link (affiliate):** https://online-hypnose.eu/kurs-005-wohlstand-anziehen-und-reich-werden/?aff=adminstore#aff=adminstore
 - Sales page: https://online-hypnose.eu/kurs-005-wohlstand-anziehen-und-reich-werden/
 - Canonical redirect: https://www.digistore24.com/redir/211711/adminstore
 
@@ -82,14 +82,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online Hypnose Wohlstand anziehen? — Typ: Downloads, Anbieter: manjushri, gelistet seit 2018-03-30
-- Wie viel kostet es? — 42.286542000000004 USD
+- Wie viel kostet es? — 42.313016 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Online Hypnose Wohlstand anziehen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/211711
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/211711/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Online%20Hypnose%20Wohlstand%20anziehen
 
 ## 4. Editorial notes

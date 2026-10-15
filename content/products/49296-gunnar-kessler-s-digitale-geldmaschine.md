@@ -4,16 +4,16 @@ digistore24_product_id: 714148
 title: "Gunnar Kessler's \"Digitale Geldmaschine\""
 vendor: "GTK-littlefreilich"
 product_type: "Member area and video courses"
-price: 185.1
+price: 185.22
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 175.59
+earnings_per_sale: 175.7
 cart_conversion_pct: 10
 cancel_rate_pct: 16.58
 categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2024-08-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://byebyeschufterei.de/dgm-7512/?aff=adminstore#aff=adminstore"
 sales_page: "https://byebyeschufterei.de/dgm-7512/"
@@ -22,16 +22,16 @@ language: "de"
 # Gunnar Kessler's "Digitale Geldmaschine"
 
 > Product ID `49296` · Digistore24 productId `714148` · [HTML profile page](../../produkte/gunnar-kessler-s-digitale-geldmaschine-49296.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $185.10 (Single payment) |
+| Price | $185.22 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $175.59 |
+| Earnings/sale* | $175.70 |
 | Cart conversion* | 10% |
 | Cancel rate* | 16.58% |
 | Vendor | GTK-littlefreilich |
@@ -92,14 +92,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Gunnar Kessler's "Digitale Geldmaschine"? — Typ: Member area and video courses, Anbieter: GTK-littlefreilich, gelistet seit 2024-08-06
-- Wie viel kostet es? — 185.10145500000002 USD
+- Wie viel kostet es? — 185.21734 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Gunnar Kessler's "Digitale Geldmaschine" Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/714148
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/714148/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Gunnar%20Kessler's%20%22Digitale%20Geldmaschine%22
 
 ## 4. Editorial notes

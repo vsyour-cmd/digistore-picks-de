@@ -4,16 +4,16 @@ digistore24_product_id: 607630
 title: "Profistarter Kurs: Fahrzeug-Beauty Consultant"
 vendor: "jan133"
 product_type: "Member area and video courses"
-price: 183.22
+price: 183.34
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 64.12
+earnings_per_sale: 64.16
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2025-04-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.profistarter.de?aff=adminstore#aff=adminstore"
 sales_page: "https://www.profistarter.de"
@@ -22,16 +22,16 @@ language: "de"
 # Profistarter Kurs: Fahrzeug-Beauty Consultant
 
 > Product ID `52112` · Digistore24 productId `607630` · [HTML profile page](../../produkte/profistarter-kurs-fahrzeug-beauty-consultant-52112.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $183.22 (Single payment, Installment) |
+| Price | $183.34 (Single payment, Installment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $64.12 |
+| Earnings/sale* | $64.16 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | jan133 |
@@ -92,14 +92,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Profistarter Kurs: Fahrzeug-Beauty Consultant? — Typ: Member area and video courses, Anbieter: jan133, gelistet seit 2025-04-15
-- Wie viel kostet es? — 183.223047 USD
+- Wie viel kostet es? — 183.337756 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Profistarter Kurs: Fahrzeug-Beauty Consultant Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/607630
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/607630/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Profistarter%20Kurs%3A%20Fahrzeug-Beauty%20Consultant
 
 ## 4. Editorial notes

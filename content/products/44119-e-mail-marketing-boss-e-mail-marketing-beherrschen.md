@@ -4,40 +4,40 @@ digistore24_product_id: 482128
 title: "E-Mail-Marketing Boss - E-Mail-Marketing beherrschen"
 vendor: "seotech"
 product_type: "Member area and video courses"
-price: 47.25
+price: 47.28
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 17.29
+earnings_per_sale: 17.3
 cart_conversion_pct: 7
 cancel_rate_pct: 0.22
-categories: ["Business & Investment","Email Marketing","Online Marketing & E-Business"]
+categories: ["Business & Investment","Online Marketing & E-Business","Email Marketing"]
 listed_since: "2023-01-31"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/44119/adminstore/"
+promo_link: "https://www.provi-magnet.de/emmb-vkslp/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.provi-magnet.de/emmb-vkslp/"
 language: "de"
 ---
 # E-Mail-Marketing Boss - E-Mail-Marketing beherrschen
 
 > Product ID `44119` · Digistore24 productId `482128` · [HTML profile page](../../produkte/e-mail-marketing-boss-e-mail-marketing-beherrschen-44119.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $47.25 (Single payment, Installment) |
+| Price | $47.28 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $17.29 |
+| Earnings/sale* | $17.30 |
 | Cart conversion* | 7% |
 | Cancel rate* | 0.22% |
 | Vendor | seotech |
 | Listed since | 2023-01-31 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Email Marketing, Online Marketing & E-Business |
+| Categories | Business & Investment, Online Marketing & E-Business, Email Marketing |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/44119/adminstore/
+- **Promo link (affiliate):** https://www.provi-magnet.de/emmb-vkslp/?aff=adminstore#aff=adminstore
 - Sales page: https://www.provi-magnet.de/emmb-vkslp/
 - Vendor affiliate support: https://www.incomebutler.com/e-mail-marketing-boss-supportseite/
 - Canonical redirect: https://www.digistore24.com/redir/482128/adminstore
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist E-Mail-Marketing Boss - E-Mail-Marketing beherrschen? — Typ: Member area and video courses, Anbieter: seotech, gelistet seit 2023-01-31
-- Wie viel kostet es? — 47.250906 USD
+- Wie viel kostet es? — 47.280488 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: E-Mail-Marketing Boss - E-Mail-Marketing beherrschen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/482128
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/482128/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=E-Mail-Marketing%20Boss%20-%20E-Mail-Marketing%20beherrschen
 
 ## 4. Editorial notes

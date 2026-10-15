@@ -4,40 +4,40 @@ digistore24_product_id: 392911
 title: "Bindungsangst / Beziehungsunfähigkeit - Onlinekurs"
 vendor: "wielandstolzenburg"
 product_type: "Member area and video courses"
-price: 507.37
+price: 507.69
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 202.95
+earnings_per_sale: 203.07
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Dating, Relationships & Romance","Personal Development"]
+categories: ["Personal Development","Dating, Relationships & Romance"]
 listed_since: "2021-06-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/36983/adminstore/"
+promo_link: "https://kurse.wielandstolzenburg.de/lp/bindungsangst-ueberwinden?aff=adminstore#aff=adminstore"
 sales_page: "https://kurse.wielandstolzenburg.de/lp/bindungsangst-ueberwinden"
 language: "de"
 ---
 # Bindungsangst / Beziehungsunfähigkeit - Onlinekurs
 
 > Product ID `36983` · Digistore24 productId `392911` · [HTML profile page](../../produkte/bindungsangst-beziehungsunf-higkeit-onlinekurs-36983.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $507.37 (Single payment, Installment) |
+| Price | $507.69 (Single payment, Installment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $202.95 |
+| Earnings/sale* | $203.07 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | wielandstolzenburg |
 | Listed since | 2021-06-04 |
 | Auto-accept affiliates | no (approval required) |
-| Categories | Dating, Relationships & Romance, Personal Development |
+| Categories | Personal Development, Dating, Relationships & Romance |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/36983/adminstore/
+- **Promo link (affiliate):** https://kurse.wielandstolzenburg.de/lp/bindungsangst-ueberwinden?aff=adminstore#aff=adminstore
 - Sales page: https://kurse.wielandstolzenburg.de/lp/bindungsangst-ueberwinden
 - Vendor affiliate support: https://www.wielandstolzenburg.de/partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/392911/adminstore
@@ -95,14 +95,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Bindungsangst / Beziehungsunfähigkeit - Onlinekurs? — Typ: Member area and video courses, Anbieter: wielandstolzenburg, gelistet seit 2021-06-04
-- Wie viel kostet es? — 507.371418 USD
+- Wie viel kostet es? — 507.689064 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Bindungsangst / Beziehungsunfähigkeit - Onlinekurs Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/392911
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/392911/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Bindungsangst%20%2F%20Beziehungsunf%C3%A4higkeit%20-%20Onlinekurs
 
 ## 4. Editorial notes

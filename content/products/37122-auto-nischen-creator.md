@@ -4,16 +4,16 @@ digistore24_product_id: 78503
 title: "Auto-Nischen-Creator"
 vendor: "Cleriker"
 product_type: "Downloads"
-price: 93.01
+price: 93.07
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 46.51
+earnings_per_sale: 46.54
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2016-04-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://lp.larspilawski.de/auto-nischen-creator/?aff=adminstore#aff=adminstore"
 sales_page: "https://lp.larspilawski.de/auto-nischen-creator/"
@@ -22,16 +22,16 @@ language: "de"
 # Auto-Nischen-Creator
 
 > Product ID `37122` · Digistore24 productId `78503` · [HTML profile page](../../produkte/auto-nischen-creator-37122.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $93.01 (Subscription) |
+| Price | $93.07 (Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $46.51 |
+| Earnings/sale* | $46.54 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Cleriker |
@@ -82,14 +82,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Auto-Nischen-Creator? — Typ: Downloads, Anbieter: Cleriker, gelistet seit 2016-04-20
-- Wie viel kostet es? — 93.014739 USD
+- Wie viel kostet es? — 93.072972 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Auto-Nischen-Creator Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/78503
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/78503/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Auto-Nischen-Creator
 
 ## 4. Editorial notes

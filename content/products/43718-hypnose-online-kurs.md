@@ -4,16 +4,16 @@ digistore24_product_id: 493770
 title: "Hypnose Online Kurs"
 vendor: "Happiness4Senses"
 product_type: "Member area and video courses"
-price: 253.69
+price: 253.84
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 63.42
+earnings_per_sale: 63.46
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2023-04-12"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.happiness-for-senses.com/mentaltrainer-landingpage-v3/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.happiness-for-senses.com/mentaltrainer-landingpage-v3/"
@@ -22,16 +22,16 @@ language: "de"
 # Hypnose Online Kurs
 
 > Product ID `43718` · Digistore24 productId `493770` · [HTML profile page](../../produkte/hypnose-online-kurs-43718.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $253.69 (Subscription) |
+| Price | $253.84 (Subscription) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $63.42 |
+| Earnings/sale* | $63.46 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Happiness4Senses |
@@ -90,14 +90,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Hypnose Online Kurs? — Typ: Member area and video courses, Anbieter: Happiness4Senses, gelistet seit 2023-04-12
-- Wie viel kostet es? — 253.685709 USD
+- Wie viel kostet es? — 253.844532 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Hypnose Online Kurs Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/493770
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/493770/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Hypnose%20Online%20Kurs
 
 ## 4. Editorial notes

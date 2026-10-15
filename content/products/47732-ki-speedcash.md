@@ -4,16 +4,16 @@ digistore24_product_id: 540894
 title: "KI SpeedCash"
 vendor: "seotech"
 product_type: "Member area and video courses"
-price: 321.9
+price: 322.1
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 124.72
+earnings_per_sale: 124.8
 cart_conversion_pct: 10
 cancel_rate_pct: 0.92
 categories: ["Business & Investment","Online Marketing & E-Business"]
 listed_since: "2024-02-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://www.kimate.de/moca2vkslp/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.kimate.de/moca2vkslp/"
@@ -22,16 +22,16 @@ language: "de"
 # KI SpeedCash
 
 > Product ID `47732` · Digistore24 productId `540894` · [HTML profile page](../../produkte/ki-speedcash-47732.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $321.90 (Single payment, Installment) |
+| Price | $322.10 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $124.72 |
+| Earnings/sale* | $124.80 |
 | Cart conversion* | 10% |
 | Cancel rate* | 0.92% |
 | Vendor | seotech |
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI SpeedCash? — Typ: Member area and video courses, Anbieter: seotech, gelistet seit 2024-02-26
-- Wie viel kostet es? — 321.90099 USD
+- Wie viel kostet es? — 322.10251999999997 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: KI SpeedCash Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/540894
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/540894/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=KI%20SpeedCash
 
 ## 4. Editorial notes

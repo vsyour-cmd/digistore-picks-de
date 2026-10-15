@@ -4,34 +4,34 @@ digistore24_product_id: 741550
 title: "Website mit 5 bis 7 Seiten für italienischsprachige Betriebe: 999 €, ca. 180 € Provision"
 vendor: "massarocalogero19976adc"
 product_type: "Remote service provided electronically"
-price: 1116.98
+price: 1117.68
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 223.4
+earnings_per_sale: 223.54
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2026-10-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/60291/adminstore/"
+promo_link: "https://www.direzionex.com/offerta/sito-web?aff=adminstore#aff=adminstore"
 sales_page: "https://www.direzionex.com/offerta/sito-web"
 language: "de"
 ---
 # Website mit 5 bis 7 Seiten für italienischsprachige Betriebe: 999 €, ca. 180 € Provision
 
 > Product ID `60291` · Digistore24 productId `741550` · [HTML profile page](../../produkte/website-mit-5-bis-7-seiten-f-r-italienischsprachige-betriebe-999-ca-180-provision-60291.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $1116.98 (Single payment) |
+| Price | $1117.68 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $223.40 |
+| Earnings/sale* | $223.54 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | massarocalogero19976adc |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/60291/adminstore/
+- **Promo link (affiliate):** https://www.direzionex.com/offerta/sito-web?aff=adminstore#aff=adminstore
 - Sales page: https://www.direzionex.com/offerta/sito-web
 - Canonical redirect: https://www.digistore24.com/redir/741550/adminstore
 
@@ -81,14 +81,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Website mit 5 bis 7 Seiten für italienischsprachige Betriebe: 999 €, ca. 180 € Provision? — Typ: Remote service provided electronically, Anbieter: massarocalogero19976adc, gelistet seit 2026-10-07
-- Wie viel kostet es? — 1116.9819 USD
+- Wie viel kostet es? — 1117.6812 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Website mit 5 bis 7 Seiten für italienischsprachige Betriebe: 999 €, ca. 180 € Provision Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/741550
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/741550/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Website%20mit%205%20bis%207%20Seiten%20f%C3%BCr%20italienischsprachige%20Betriebe%3A%20999%20%E2%82%AC%2C%20ca.%20180%20%E2%82%AC%20Provision
 
 ## 4. Editorial notes

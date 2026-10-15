@@ -4,34 +4,34 @@ digistore24_product_id: 662995
 title: "Vorsorgekompass - Duales Vorsorgesystem mit Notfallkarte"
 vendor: "Erinnerungsbotschafter"
 product_type: "Member area and video courses"
-price: 36.64
+price: 36.66
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 14.66
+earnings_per_sale: 14.67
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-01-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/55457/adminstore/"
+promo_link: "https://erinnerungswerk.com/index.php?page_id=3581&aff=adminstore#aff=adminstore"
 sales_page: "https://erinnerungswerk.com/index.php?page_id=3581"
 language: "de"
 ---
 # Vorsorgekompass - Duales Vorsorgesystem mit Notfallkarte
 
 > Product ID `55457` · Digistore24 productId `662995` · [HTML profile page](../../produkte/vorsorgekompass-duales-vorsorgesystem-mit-notfallkarte-55457.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $36.64 (Single payment) |
+| Price | $36.66 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $14.66 |
+| Earnings/sale* | $14.67 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Erinnerungsbotschafter |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55457/adminstore/
+- **Promo link (affiliate):** https://erinnerungswerk.com/index.php?page_id=3581&aff=adminstore#aff=adminstore
 - Sales page: https://erinnerungswerk.com/index.php?page_id=3581
 - Canonical redirect: https://www.digistore24.com/redir/662995/adminstore
 
@@ -80,14 +80,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Vorsorgekompass - Duales Vorsorgesystem mit Notfallkarte? — Typ: Member area and video courses, Anbieter: Erinnerungsbotschafter, gelistet seit 2026-01-21
-- Wie viel kostet es? — 36.64013700000001 USD
+- Wie viel kostet es? — 36.663076000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Vorsorgekompass - Duales Vorsorgesystem mit Notfallkarte Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/662995
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/662995/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Vorsorgekompass%20-%20Duales%20Vorsorgesystem%20mit%20Notfallkarte
 
 ## 4. Editorial notes

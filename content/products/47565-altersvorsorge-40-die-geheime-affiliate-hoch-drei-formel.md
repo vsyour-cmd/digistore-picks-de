@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2024-03-13"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/47565/adminstore/"
+promo_link: "https://altersvorsorgevierzigplus.funnelcockpit.com/affiliate-hoch-drei/?aff=adminstore#aff=adminstore"
 sales_page: "https://altersvorsorgevierzigplus.funnelcockpit.com/affiliate-hoch-drei/"
 language: "de"
 ---
 # Altersvorsorge 40+: Die geheime Affiliate Hoch Drei Formel
 
 > Product ID `47565` · Digistore24 productId `543528` · [HTML profile page](../../produkte/altersvorsorge-40-die-geheime-affiliate-hoch-drei-formel-47565.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/47565/adminstore/
+- **Promo link (affiliate):** https://altersvorsorgevierzigplus.funnelcockpit.com/affiliate-hoch-drei/?aff=adminstore#aff=adminstore
 - Sales page: https://altersvorsorgevierzigplus.funnelcockpit.com/affiliate-hoch-drei/
 - Vendor affiliate support: https://altersvorsorgevierzigplus.funnelcockpit.com/ahd-werbemittel/
 - Canonical redirect: https://www.digistore24.com/redir/543528/adminstore
@@ -66,7 +66,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Altersvorsorge 40+: Die geheime Affiliate Hoch Drei Formel Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/543528
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/543528/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Altersvorsorge%2040%2B%3A%20Die%20geheime%20Affiliate%20Hoch%20Drei%20Formel
 
 ## 4. Editorial notes

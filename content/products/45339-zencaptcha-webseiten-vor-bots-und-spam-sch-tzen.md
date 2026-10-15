@@ -4,40 +4,40 @@ digistore24_product_id: 504248
 title: "Zencaptcha - Webseiten vor Bots und Spam schützen"
 vendor: "reflix"
 product_type: "Member area and video courses"
-price: 2245.59
+price: 2247
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 561.4
+earnings_per_sale: 561.75
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Computer & Internet","Email Marketing","Software"]
+categories: ["Software","Computer & Internet","Email Marketing"]
 listed_since: "2023-06-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
-promo_link: "https://werde-schauspieler.de/video-kurs/#aff=adminstore"
+promo_link: "https://www.zencaptcha.com/products?id=Enterprise&aff=adminstore#aff=adminstore"
 sales_page: "https://www.zencaptcha.com/products?id=Enterprise"
 language: "de"
 ---
 # Zencaptcha - Webseiten vor Bots und Spam schützen
 
 > Product ID `45339` · Digistore24 productId `504248` · [HTML profile page](../../produkte/zencaptcha-webseiten-vor-bots-und-spam-sch-tzen-45339.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin (browser-rendered)**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $2245.59 (Subscription) |
+| Price | $2247.00 (Subscription) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $561.40 |
+| Earnings/sale* | $561.75 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | reflix |
 | Listed since | 2023-06-22 |
 | Auto-accept affiliates | yes |
-| Categories | Computer & Internet, Email Marketing, Software |
+| Categories | Software, Computer & Internet, Email Marketing |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://werde-schauspieler.de/video-kurs/#aff=adminstore
+- **Promo link (affiliate):** https://www.zencaptcha.com/products?id=Enterprise&aff=adminstore#aff=adminstore
 - Sales page: https://www.zencaptcha.com/products?id=Enterprise
 - Vendor affiliate support: https://www.zencaptcha.com/affiliate
 - Canonical redirect: https://www.digistore24.com/redir/504248/adminstore
@@ -88,14 +88,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Zencaptcha - Webseiten vor Bots und Spam schützen? — Typ: Member area and video courses, Anbieter: reflix, gelistet seit 2023-06-22
-- Wie viel kostet es? — 2245.5920400000005 USD
+- Wie viel kostet es? — 2246.9979200000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Zencaptcha - Webseiten vor Bots und Spam schützen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/504248
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/504248/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Zencaptcha%20-%20Webseiten%20vor%20Bots%20und%20Spam%20sch%C3%BCtzen
 
 ## 4. Editorial notes

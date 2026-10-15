@@ -10,19 +10,19 @@ affiliate_commission_pct: 80
 earnings_per_sale: 0
 cart_conversion_pct: 44
 cancel_rate_pct: 0
-categories: ["Email Marketing","Online Marketing & E-Business"]
+categories: ["Online Marketing & E-Business","Email Marketing"]
 listed_since: "2020-02-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/47319/adminstore/"
+promo_link: "https://emailmarketinghackz.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://emailmarketinghackz.com/"
 language: "de"
 ---
 # 7 Brillante E-Mail Marketing Hackz von Ralf Schmitz
 
 > Product ID `47319` · Digistore24 productId `310034` · [HTML profile page](../../produkte/7-brillante-e-mail-marketing-hackz-von-ralf-schmitz-47319.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | RalfSchmitz |
 | Listed since | 2020-02-26 |
 | Auto-accept affiliates | yes |
-| Categories | Email Marketing, Online Marketing & E-Business |
+| Categories | Online Marketing & E-Business, Email Marketing |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/47319/adminstore/
+- **Promo link (affiliate):** https://emailmarketinghackz.com/?aff=adminstore#aff=adminstore
 - Sales page: https://emailmarketinghackz.com/
 - Vendor affiliate support: https://ralfschmitzpartner.com/
 - Canonical redirect: https://www.digistore24.com/redir/310034/adminstore
@@ -59,14 +59,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 7 Brillante E-Mail Marketing Hackz von Ralf Schmitz? — Typ: Downloads, Anbieter: RalfSchmitz, gelistet seit 2020-02-26
-- Wie viel kostet es? — 0.011181000000000002 USD
+- Wie viel kostet es? — 0.011188 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 7 Brillante E-Mail Marketing Hackz von Ralf Schmitz Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/310034
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/310034/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=7%20Brillante%20E-Mail%20Marketing%20Hackz%20von%20Ralf%20Schmitz
 
 ## 4. Editorial notes

@@ -4,7 +4,7 @@ digistore24_product_id: 35629
 title: "Beziehungsratgeber - Der Rettungsplan für Ihre Beziehung"
 vendor: "uepselon"
 product_type: "Downloads"
-price: 18.5
+price: 18.52
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 9.26
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2014-11-03"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "http://www.beziehungs-retter.de/der-aktuelle-beziehungsratgeber/?aff=adminstore#aff=adminstore"
 sales_page: "http://www.beziehungs-retter.de/der-aktuelle-beziehungsratgeber/"
@@ -22,14 +22,14 @@ language: "de"
 # Beziehungsratgeber - Der Rettungsplan für Ihre Beziehung
 
 > Product ID `5213` · Digistore24 productId `35629` · [HTML profile page](../../produkte/beziehungsratgeber-der-rettungsplan-f-r-ihre-beziehung-5213.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $18.50 (Subscription) |
+| Price | $18.52 (Subscription) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $9.26 |
 | Cart conversion* | — |
@@ -92,14 +92,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Beziehungsratgeber - Der Rettungsplan für Ihre Beziehung? — Typ: Downloads, Anbieter: uepselon, gelistet seit 2014-11-03
-- Wie viel kostet es? — 18.504555000000003 USD
+- Wie viel kostet es? — 18.51614 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Beziehungsratgeber - Der Rettungsplan für Ihre Beziehung Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/35629
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/35629/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Beziehungsratgeber%20-%20Der%20Rettungsplan%20f%C3%BCr%20Ihre%20Beziehung
 
 ## 4. Editorial notes

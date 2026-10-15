@@ -4,34 +4,34 @@ digistore24_product_id: 250030
 title: "Neurostreams™ Das innere Kind [THETA]"
 vendor: "newdimension"
 product_type: "Downloads"
-price: 15.98
+price: 15.99
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 7.99
+earnings_per_sale: 8
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2018-11-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/47039/adminstore/"
+promo_link: "https://www.neurostreams.de/portfolio/das-innere-kind/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.neurostreams.de/portfolio/das-innere-kind/"
 language: "de"
 ---
 # Neurostreams™ Das innere Kind [THETA]
 
 > Product ID `47039` · Digistore24 productId `250030` · [HTML profile page](../../produkte/neurostreams-das-innere-kind-theta-47039.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $15.98 (Single payment) |
+| Price | $15.99 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $7.99 |
+| Earnings/sale* | $8.00 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | newdimension |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/47039/adminstore/
+- **Promo link (affiliate):** https://www.neurostreams.de/portfolio/das-innere-kind/?aff=adminstore#aff=adminstore
 - Sales page: https://www.neurostreams.de/portfolio/das-innere-kind/
 - Vendor affiliate support: https://www.timdaugs.com/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/250030/adminstore
@@ -76,14 +76,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Neurostreams™ Das innere Kind [THETA]? — Typ: Downloads, Anbieter: newdimension, gelistet seit 2018-11-27
-- Wie viel kostet es? — 15.977649 USD
+- Wie viel kostet es? — 15.987651999999999 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Neurostreams™ Das innere Kind [THETA] Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/250030
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/250030/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Neurostreams%E2%84%A2%20Das%20innere%20Kind%20%5BTHETA%5D
 
 ## 4. Editorial notes

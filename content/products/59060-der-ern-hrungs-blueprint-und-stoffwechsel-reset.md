@@ -4,16 +4,16 @@ digistore24_product_id: 727614
 title: "Der Ernährungs-Blueprint und Stoffwechsel-Reset"
 vendor: "VeloxForge"
 product_type: "E-books"
-price: 93
+price: 93.06
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 46.5
+earnings_per_sale: 46.53
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2026-09-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://auranit.de/ernaehrungs-blueprint/?aff=adminstore#aff=adminstore"
 sales_page: "https://auranit.de/ernaehrungs-blueprint/"
@@ -22,16 +22,16 @@ language: "de"
 # Der Ernährungs-Blueprint und Stoffwechsel-Reset
 
 > Product ID `59060` · Digistore24 productId `727614` · [HTML profile page](../../produkte/der-ern-hrungs-blueprint-und-stoffwechsel-reset-59060.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $93.00 (Single payment) |
+| Price | $93.06 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $46.50 |
+| Earnings/sale* | $46.53 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | VeloxForge |
@@ -87,14 +87,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Ernährungs-Blueprint und Stoffwechsel-Reset? — Typ: E-books, Anbieter: VeloxForge, gelistet seit 2026-09-09
-- Wie viel kostet es? — 93.00355800000001 USD
+- Wie viel kostet es? — 93.061784 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Der Ernährungs-Blueprint und Stoffwechsel-Reset Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/727614
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/727614/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%20Ern%C3%A4hrungs-Blueprint%20und%20Stoffwechsel-Reset
 
 ## 4. Editorial notes

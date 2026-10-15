@@ -4,32 +4,32 @@ digistore24_product_id: 309271
 title: "Binaurale Beats und Meditationsmusik"
 vendor: "JonathanDilas"
 product_type: "Downloads"
-price: 23.39
+price: 23.41
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 11.7
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: []
+categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2019-04-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/30135/adminstore/"
+promo_link: "https://www.gehirnkicker.de/ausserkoerperliche-erfahrung-mit-8d-audio?aff=adminstore#aff=adminstore"
 sales_page: "https://www.gehirnkicker.de/ausserkoerperliche-erfahrung-mit-8d-audio"
 language: "de"
 ---
 # Binaurale Beats und Meditationsmusik
 
 > Product ID `30135` · Digistore24 productId `309271` · [HTML profile page](../../produkte/binaurale-beats-und-meditationsmusik-30135.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $23.39 (Single payment) |
+| Price | $23.41 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $11.70 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | JonathanDilas |
 | Listed since | 2019-04-06 |
 | Auto-accept affiliates | yes |
-| Categories | Uncategorized |
+| Categories | Personal Development, Spiri­tua­lity & Esotericism |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/30135/adminstore/
+- **Promo link (affiliate):** https://www.gehirnkicker.de/ausserkoerperliche-erfahrung-mit-8d-audio?aff=adminstore#aff=adminstore
 - Sales page: https://www.gehirnkicker.de/ausserkoerperliche-erfahrung-mit-8d-audio
 - Vendor affiliate support: https://www.gehirnkicker.de/digistore24-partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/309271/adminstore
@@ -87,14 +87,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Binaurale Beats und Meditationsmusik? — Typ: Downloads, Anbieter: JonathanDilas, gelistet seit 2019-04-06
-- Wie viel kostet es? — 23.390652000000003 USD
+- Wie viel kostet es? — 23.405296000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Binaurale Beats und Meditationsmusik Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/309271
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/309271/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Binaurale%20Beats%20und%20Meditationsmusik
 
 ## 4. Editorial notes

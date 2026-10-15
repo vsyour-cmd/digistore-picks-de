@@ -4,16 +4,16 @@ digistore24_product_id: 693722
 title: "Claude AI, Dein persönlicher KI-Assistent"
 vendor: "Ronin1960"
 product_type: "E-books"
-price: 20.84
+price: 20.85
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 8.34
+earnings_per_sale: 8.35
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Business & Investment","Education","Software"]
+categories: ["Business & Investment","Software","Education"]
 listed_since: "2026-05-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/693722?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/693722"
@@ -22,22 +22,22 @@ language: "de"
 # Claude AI, Dein persönlicher KI-Assistent
 
 > Product ID `56634` · Digistore24 productId `693722` · [HTML profile page](../../produkte/claude-ai-dein-pers-nlicher-ki-assistent-56634.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.84 (Single payment) |
+| Price | $20.85 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $8.34 |
+| Earnings/sale* | $8.35 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Ronin1960 |
 | Listed since | 2026-05-20 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Education, Software |
+| Categories | Business & Investment, Software, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Claude AI, Dein persönlicher KI-Assistent? — Typ: E-books, Anbieter: Ronin1960, gelistet seit 2026-05-20
-- Wie viel kostet es? — 20.841384 USD
+- Wie viel kostet es? — 20.854432 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Claude AI, Dein persönlicher KI-Assistent Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/693722
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/693722/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Claude%20AI%2C%20Dein%20pers%C3%B6nlicher%20KI-Assistent
 
 ## 4. Editorial notes

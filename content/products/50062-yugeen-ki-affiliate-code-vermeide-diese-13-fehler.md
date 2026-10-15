@@ -10,10 +10,10 @@ affiliate_commission_pct: 50
 earnings_per_sale: 0.16
 cart_conversion_pct: 14
 cancel_rate_pct: 0.9
-categories: ["Email Marketing","Online Marketing & E-Business","Social Media"]
+categories: ["Online Marketing & E-Business","Social Media","Email Marketing"]
 listed_since: "2024-09-30"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
 promo_link: "https://eintrag.ygn-onlinemarketing.de/ebook?aff=adminstore#aff=adminstore"
 sales_page: "https://eintrag.ygn-onlinemarketing.de/ebook"
@@ -22,7 +22,7 @@ language: "de"
 # Yugeen KI Affiliate Code - Vermeide diese 13 Fehler
 
 > Product ID `50062` · Digistore24 productId `572915` · [HTML profile page](../../produkte/yugeen-ki-affiliate-code-vermeide-diese-13-fehler-50062.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | yugeen77 |
 | Listed since | 2024-09-30 |
 | Auto-accept affiliates | yes |
-| Categories | Email Marketing, Online Marketing & E-Business, Social Media |
+| Categories | Online Marketing & E-Business, Social Media, Email Marketing |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -61,14 +61,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Yugeen KI Affiliate Code - Vermeide diese 13 Fehler? — Typ: E-books, Anbieter: yugeen77, gelistet seit 2024-09-30
-- Wie viel kostet es? — 0.480783 USD
+- Wie viel kostet es? — 0.481084 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Yugeen KI Affiliate Code - Vermeide diese 13 Fehler Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/572915
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/572915/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Yugeen%20KI%20Affiliate%20Code%20-%20Vermeide%20diese%2013%20Fehler
 
 ## 4. Editorial notes

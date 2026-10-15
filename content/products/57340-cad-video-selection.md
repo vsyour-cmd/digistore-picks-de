@@ -4,16 +4,16 @@ digistore24_product_id: 538322
 title: "CAD-Video Selection"
 vendor: "CADDeutschland"
 product_type: "Member area and video courses"
-price: 1322.15
+price: 1322.98
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 264.43
+earnings_per_sale: 264.6
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2026-07-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/538322?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/538322"
@@ -22,16 +22,16 @@ language: "de"
 # CAD-Video Selection
 
 > Product ID `57340` · Digistore24 productId `538322` · [HTML profile page](../../produkte/cad-video-selection-57340.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1322.15 (Single payment) |
+| Price | $1322.98 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $264.43 |
+| Earnings/sale* | $264.60 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | CADDeutschland |
@@ -80,14 +80,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist CAD-Video Selection? — Typ: Member area and video courses, Anbieter: CADDeutschland, gelistet seit 2026-07-01
-- Wie viel kostet es? — 1322.15325 USD
+- Wie viel kostet es? — 1322.981 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: CAD-Video Selection Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/538322
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/538322/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=CAD-Video%20Selection
 
 ## 4. Editorial notes

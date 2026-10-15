@@ -4,7 +4,7 @@ digistore24_product_id: 725050
 title: "Der Longevity-Guide: Fünf Säulen, ein Plan – 14,90 €"
 vendor: "emmadmrss"
 product_type: "E-books"
-price: 15.66
+price: 15.67
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 7.84
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-08-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/58739/adminstore/"
+promo_link: "http://mindfulhealth.de/longevity-guide/?aff=adminstore#aff=adminstore"
 sales_page: "http://mindfulhealth.de/longevity-guide/"
 language: "de"
 ---
 # Der Longevity-Guide: Fünf Säulen, ein Plan – 14,90 €
 
 > Product ID `58739` · Digistore24 productId `725050` · [HTML profile page](../../produkte/der-longevity-guide-f-nf-s-ulen-ein-plan-14-90-58739.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $15.66 (Single payment) |
+| Price | $15.67 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $7.84 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58739/adminstore/
+- **Promo link (affiliate):** http://mindfulhealth.de/longevity-guide/?aff=adminstore#aff=adminstore
 - Sales page: http://mindfulhealth.de/longevity-guide/
 - Canonical redirect: https://www.digistore24.com/redir/725050/adminstore
 
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Longevity-Guide: Fünf Säulen, ein Plan – 14,90 €? — Typ: E-books, Anbieter: emmadmrss, gelistet seit 2026-08-27
-- Wie viel kostet es? — 15.664581000000002 USD
+- Wie viel kostet es? — 15.674388 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Der Longevity-Guide: Fünf Säulen, ein Plan – 14,90 € Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/725050
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/725050/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%20Longevity-Guide%3A%20F%C3%BCnf%20S%C3%A4ulen%2C%20ein%20Plan%20%E2%80%93%2014%2C90%20%E2%82%AC
 
 ## 4. Editorial notes

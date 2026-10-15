@@ -4,34 +4,34 @@ digistore24_product_id: 669017
 title: "Das Buch: Erfolg ist leicht"
 vendor: "BettinaPfeffer"
 product_type: "Book (printed)"
-price: 18.94
+price: 18.95
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 6.57
+earnings_per_sale: 6.58
 cart_conversion_pct: 39
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2026-02-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/56191/adminstore/"
+promo_link: "https://erfolgistleicht.de?aff=adminstore#aff=adminstore"
 sales_page: "https://erfolgistleicht.de"
 language: "de"
 ---
 # Das Buch: Erfolg ist leicht
 
 > Product ID `56191` · Digistore24 productId `669017` · [HTML profile page](../../produkte/das-buch-erfolg-ist-leicht-56191.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $18.94 (Single payment) |
+| Price | $18.95 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $6.57 |
+| Earnings/sale* | $6.58 |
 | Cart conversion* | 39% |
 | Cancel rate* | 0% |
 | Vendor | BettinaPfeffer |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56191/adminstore/
+- **Promo link (affiliate):** https://erfolgistleicht.de?aff=adminstore#aff=adminstore
 - Sales page: https://erfolgistleicht.de
 - Vendor affiliate support: https://erfolgistleicht.de/affiliate
 - Canonical redirect: https://www.digistore24.com/redir/669017/adminstore
@@ -78,14 +78,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Buch: Erfolg ist leicht? — Typ: Book (printed), Anbieter: BettinaPfeffer, gelistet seit 2026-02-16
-- Wie viel kostet es? — 18.940614000000004 USD
+- Wie viel kostet es? — 18.952472 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Das Buch: Erfolg ist leicht Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/669017
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/669017/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Das%20Buch%3A%20Erfolg%20ist%20leicht
 
 ## 4. Editorial notes

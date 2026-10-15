@@ -4,16 +4,16 @@ digistore24_product_id: 688214
 title: "Modul 2 – Entscheidungsfähigkeit im Unternehmen"
 vendor: "weipert-consulting-gmbh"
 product_type: "Downloads"
-price: 327.92
+price: 328.12
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 65.59
+earnings_per_sale: 65.63
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Politics & Economy","Leadership & Management"]
 listed_since: "2026-05-31"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://weipert-consulting.de/entscheidungsfaehigkeit-im-unternehmen/?aff=adminstore#aff=adminstore"
 sales_page: "https://weipert-consulting.de/entscheidungsfaehigkeit-im-unternehmen/"
@@ -22,16 +22,16 @@ language: "de"
 # Modul 2 – Entscheidungsfähigkeit im Unternehmen
 
 > Product ID `56756` · Digistore24 productId `688214` · [HTML profile page](../../produkte/modul-2-entscheidungsf-higkeit-im-unternehmen-56756.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $327.92 (Single payment) |
+| Price | $328.12 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $65.59 |
+| Earnings/sale* | $65.63 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | weipert-consulting-gmbh |
@@ -81,14 +81,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Modul 2 – Entscheidungsfähigkeit im Unternehmen? — Typ: Downloads, Anbieter: weipert-consulting-gmbh, gelistet seit 2026-05-31
-- Wie viel kostet es? — 327.916368 USD
+- Wie viel kostet es? — 328.12166399999995 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Modul 2 – Entscheidungsfähigkeit im Unternehmen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/688214
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/688214/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Modul%202%20%E2%80%93%20Entscheidungsf%C3%A4higkeit%20im%20Unternehmen
 
 ## 4. Editorial notes

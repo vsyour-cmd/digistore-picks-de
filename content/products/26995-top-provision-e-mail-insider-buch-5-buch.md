@@ -4,34 +4,34 @@ digistore24_product_id: 250950
 title: "TOP Provision! E-Mail Insider BUCH - 5€/BUCH"
 vendor: "renerink"
 product_type: "Book (printed)"
-price: 22.31
+price: 22.32
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 11.16
+earnings_per_sale: 11.17
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing"]
 listed_since: "2018-12-03"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
-promo_link: "https://www.digistore24.com/redir/26995/adminstore/"
+promo_link: "https://rene-rink.com/E-Mail-Insider?aff=adminstore#aff=adminstore"
 sales_page: "https://rene-rink.com/E-Mail-Insider"
 language: "de"
 ---
 # TOP Provision! E-Mail Insider BUCH - 5€/BUCH
 
 > Product ID `26995` · Digistore24 productId `250950` · [HTML profile page](../../produkte/top-provision-e-mail-insider-buch-5-buch-26995.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $22.31 (Single payment) |
+| Price | $22.32 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $11.16 |
+| Earnings/sale* | $11.17 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | renerink |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/26995/adminstore/
+- **Promo link (affiliate):** https://rene-rink.com/E-Mail-Insider?aff=adminstore#aff=adminstore
 - Sales page: https://rene-rink.com/E-Mail-Insider
 - Vendor affiliate support: https://rene-rink.com/partnerprogramm
 - Canonical redirect: https://www.digistore24.com/redir/250950/adminstore
@@ -68,14 +68,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist TOP Provision! E-Mail Insider BUCH - 5€/BUCH? — Typ: Book (printed), Anbieter: renerink, gelistet seit 2018-12-03
-- Wie viel kostet es? — 22.306095000000003 USD
+- Wie viel kostet es? — 22.320059999999998 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: TOP Provision! E-Mail Insider BUCH - 5€/BUCH Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/250950
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/250950/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=TOP%20Provision!%20E-Mail%20Insider%20BUCH%20-%205%E2%82%AC%2FBUCH
 
 ## 4. Editorial notes

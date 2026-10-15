@@ -4,16 +4,16 @@ digistore24_product_id: 450636
 title: "„Zurück zum Ursprung - Magen Darm Edition“"
 vendor: "phoenix999"
 product_type: "Member area and video courses"
-price: 428.98
+price: 429.25
 currency: "USD"
 affiliate_commission_pct: 33
-earnings_per_sale: 126.94
+earnings_per_sale: 127.02
 cart_conversion_pct: 17
 cancel_rate_pct: 2.38
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2022-07-11"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://andreas-goldemann.mykajabi.com/magen-darm-edition-e?aff=adminstore#aff=adminstore"
 sales_page: "https://andreas-goldemann.mykajabi.com/magen-darm-edition-e"
@@ -22,16 +22,16 @@ language: "de"
 # „Zurück zum Ursprung - Magen Darm Edition“
 
 > Product ID `42630` · Digistore24 productId `450636` · [HTML profile page](../../produkte/zur-ck-zum-ursprung-magen-darm-edition-42630.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $428.98 (Single payment, Installment) |
+| Price | $429.25 (Single payment, Installment) |
 | Affiliate commission | 33% |
-| Earnings/sale* | $126.94 |
+| Earnings/sale* | $127.02 |
 | Cart conversion* | 17% |
 | Cancel rate* | 2.38% |
 | Vendor | phoenix999 |
@@ -83,14 +83,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist „Zurück zum Ursprung - Magen Darm Edition“? — Typ: Member area and video courses, Anbieter: phoenix999, gelistet seit 2022-07-11
-- Wie viel kostet es? — 428.98142700000005 USD
+- Wie viel kostet es? — 429.249996 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: „Zurück zum Ursprung - Magen Darm Edition“ Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/450636
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/450636/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=%E2%80%9EZur%C3%BCck%20zum%20Ursprung%20-%20Magen%20Darm%20Edition%E2%80%9C
 
 ## 4. Editorial notes

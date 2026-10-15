@@ -4,16 +4,16 @@ digistore24_product_id: 603664
 title: "SlimPower – High Carb Low Fat für max. Abnehmerfolg!"
 vendor: "Bettina_Loeper"
 product_type: "E-books"
-price: 153.6
+price: 153.7
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 46.08
+earnings_per_sale: 46.11
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Food & Drink","Health & Fitness"]
+categories: ["Health & Fitness","Food & Drink"]
 listed_since: "2025-03-25"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/product/603664?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/603664"
@@ -22,22 +22,22 @@ language: "de"
 # SlimPower – High Carb Low Fat für max. Abnehmerfolg!
 
 > Product ID `53132` · Digistore24 productId `603664` · [HTML profile page](../../produkte/slimpower-high-carb-low-fat-f-r-max-abnehmerfolg-53132.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $153.60 (Single payment) |
+| Price | $153.70 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $46.08 |
+| Earnings/sale* | $46.11 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Bettina_Loeper |
 | Listed since | 2025-03-25 |
 | Auto-accept affiliates | yes |
-| Categories | Food & Drink, Health & Fitness |
+| Categories | Health & Fitness, Food & Drink |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -83,14 +83,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist SlimPower – High Carb Low Fat für max. Abnehmerfolg!? — Typ: E-books, Anbieter: Bettina_Loeper, gelistet seit 2025-03-25
-- Wie viel kostet es? — 153.604578 USD
+- Wie viel kostet es? — 153.700744 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: SlimPower – High Carb Low Fat für max. Abnehmerfolg! Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/603664
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/603664/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=SlimPower%20%E2%80%93%20High%20Carb%20Low%20Fat%20f%C3%BCr%20max.%20Abnehmerfolg!
 
 ## 4. Editorial notes

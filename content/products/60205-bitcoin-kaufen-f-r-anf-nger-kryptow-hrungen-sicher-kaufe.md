@@ -4,7 +4,7 @@ digistore24_product_id: 703267
 title: "Bitcoin kaufen für Anfänger - Kryptowährungen sicher kaufe"
 vendor: "smartfuchs"
 product_type: "E-books"
-price: 15.66
+price: 15.67
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 7.84
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Education"]
 listed_since: "2026-10-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/60205/adminstore/"
+promo_link: "https://smartfuchs.eu/bitcoin-kaufen-fuer-anfaenger-digistore24/?aff=adminstore#aff=adminstore"
 sales_page: "https://smartfuchs.eu/bitcoin-kaufen-fuer-anfaenger-digistore24/"
 language: "de"
 ---
 # Bitcoin kaufen für Anfänger - Kryptowährungen sicher kaufe
 
 > Product ID `60205` · Digistore24 productId `703267` · [HTML profile page](../../produkte/bitcoin-kaufen-f-r-anf-nger-kryptow-hrungen-sicher-kaufe-60205.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $15.66 (Single payment) |
+| Price | $15.67 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $7.84 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/60205/adminstore/
+- **Promo link (affiliate):** https://smartfuchs.eu/bitcoin-kaufen-fuer-anfaenger-digistore24/?aff=adminstore#aff=adminstore
 - Sales page: https://smartfuchs.eu/bitcoin-kaufen-fuer-anfaenger-digistore24/
 - Canonical redirect: https://www.digistore24.com/redir/703267/adminstore
 
@@ -76,14 +76,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Bitcoin kaufen für Anfänger - Kryptowährungen sicher kaufe? — Typ: E-books, Anbieter: smartfuchs, gelistet seit 2026-10-05
-- Wie viel kostet es? — 15.664581000000002 USD
+- Wie viel kostet es? — 15.674388 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Bitcoin kaufen für Anfänger - Kryptowährungen sicher kaufe Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/703267
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/703267/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Bitcoin%20kaufen%20f%C3%BCr%20Anf%C3%A4nger%20-%20Kryptow%C3%A4hrungen%20sicher%20kaufe
 
 ## 4. Editorial notes

@@ -7,22 +7,22 @@ product_type: "Member area and video courses"
 price: 3.77
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 1090.46
+earnings_per_sale: 1091.14
 cart_conversion_pct: 16
 cancel_rate_pct: 7.05
-categories: ["Dating, Relationships & Romance","Personal Development","Spiri­tua­lity & Esotericism"]
+categories: ["Personal Development","Dating, Relationships & Romance","Spiri­tua­lity & Esotericism"]
 listed_since: "2024-05-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
-promo_link: "https://www.digistore24.com/redir/49813/adminstore/"
+promo_link: "https://jennifersubke.de/wolkenweich?aff=adminstore#aff=adminstore"
 sales_page: "https://jennifersubke.de/wolkenweich"
 language: "de"
 ---
 # Wolkenweich Online-Begleitung
 
 > Product ID `49813` · Digistore24 productId `552961` · [HTML profile page](../../produkte/wolkenweich-online-begleitung-49813.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin (browser-rendered)**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,13 +31,13 @@ language: "de"
 | Product type | Member area and video courses |
 | Price | $3.77 (Single payment, Installment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $1090.46 |
+| Earnings/sale* | $1091.14 |
 | Cart conversion* | 16% |
 | Cancel rate* | 7.05% |
 | Vendor | jennifersubke |
 | Listed since | 2024-05-18 |
 | Auto-accept affiliates | yes |
-| Categories | Dating, Relationships & Romance, Personal Development, Spiri­tua­lity & Esotericism |
+| Categories | Personal Development, Dating, Relationships & Romance, Spiri­tua­lity & Esotericism |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/49813/adminstore/
+- **Promo link (affiliate):** https://jennifersubke.de/wolkenweich?aff=adminstore#aff=adminstore
 - Sales page: https://jennifersubke.de/wolkenweich
 - Canonical redirect: https://www.digistore24.com/redir/552961/adminstore
 
@@ -68,14 +68,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Wolkenweich Online-Begleitung? — Typ: Member area and video courses, Anbieter: jennifersubke, gelistet seit 2024-05-18
-- Wie viel kostet es? — 3.7679970000000003 USD
+- Wie viel kostet es? — 3.770356 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Wolkenweich Online-Begleitung Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/552961
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/552961/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Wolkenweich%20Online-Begleitung
 
 ## 4. Editorial notes

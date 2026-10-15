@@ -4,34 +4,34 @@ digistore24_product_id: 150669
 title: "Nageldesign Online Ausbildung Basic-Paket (Voll-Paket)"
 vendor: "lighthouse"
 product_type: "Downloads"
-price: 85.87
+price: 85.92
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 39.96
+earnings_per_sale: 39.99
 cart_conversion_pct: 12
 cancel_rate_pct: 3.49
 categories: ["Education"]
 listed_since: "2017-07-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/18241/adminstore/"
+promo_link: "http://nageldesign-online-ausbildung.de?aff=adminstore#aff=adminstore"
 sales_page: "http://nageldesign-online-ausbildung.de"
 language: "de"
 ---
 # Nageldesign Online Ausbildung Basic-Paket (Voll-Paket)
 
 > Product ID `18241` · Digistore24 productId `150669` · [HTML profile page](../../produkte/nageldesign-online-ausbildung-basic-paket-voll-paket-18241.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $85.87 (Single payment) |
+| Price | $85.92 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $39.96 |
+| Earnings/sale* | $39.99 |
 | Cart conversion* | 12% |
 | Cancel rate* | 3.49% |
 | Vendor | lighthouse |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/18241/adminstore/
+- **Promo link (affiliate):** http://nageldesign-online-ausbildung.de?aff=adminstore#aff=adminstore
 - Sales page: http://nageldesign-online-ausbildung.de
 - Vendor affiliate support: http://nageldesign-online-ausbildung.de/affiliate-support-seite/
 - Canonical redirect: https://www.digistore24.com/redir/150669/adminstore
@@ -103,14 +103,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Nageldesign Online Ausbildung Basic-Paket (Voll-Paket)? — Typ: Downloads, Anbieter: lighthouse, gelistet seit 2017-07-15
-- Wie viel kostet es? — 85.87008 USD
+- Wie viel kostet es? — 85.92384 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Nageldesign Online Ausbildung Basic-Paket (Voll-Paket) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/150669
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/150669/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Nageldesign%20Online%20Ausbildung%20Basic-Paket%20(Voll-Paket)
 
 ## 4. Editorial notes

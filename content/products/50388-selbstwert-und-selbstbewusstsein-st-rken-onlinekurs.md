@@ -4,16 +4,16 @@ digistore24_product_id: 567377
 title: "Selbstwert und Selbstbewusstsein stärken - Onlinekurs"
 vendor: "wielandstolzenburg"
 product_type: "Member area and video courses"
-price: 270.6
+price: 270.77
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 94.71
+earnings_per_sale: 94.77
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Dating, Relationships & Romance","Personal Development"]
+categories: ["Personal Development","Dating, Relationships & Romance"]
 listed_since: "2024-08-28"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://kurse.wielandstolzenburg.de/lp/selbstwert-staerken?aff=adminstore#aff=adminstore"
 sales_page: "https://kurse.wielandstolzenburg.de/lp/selbstwert-staerken"
@@ -22,22 +22,22 @@ language: "de"
 # Selbstwert und Selbstbewusstsein stärken - Onlinekurs
 
 > Product ID `50388` · Digistore24 productId `567377` · [HTML profile page](../../produkte/selbstwert-und-selbstbewusstsein-st-rken-onlinekurs-50388.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $270.60 (Single payment, Installment) |
+| Price | $270.77 (Single payment, Installment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $94.71 |
+| Earnings/sale* | $94.77 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | wielandstolzenburg |
 | Listed since | 2024-08-28 |
 | Auto-accept affiliates | no (approval required) |
-| Categories | Dating, Relationships & Romance, Personal Development |
+| Categories | Personal Development, Dating, Relationships & Romance |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -108,14 +108,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Selbstwert und Selbstbewusstsein stärken - Onlinekurs? — Typ: Member area and video courses, Anbieter: wielandstolzenburg, gelistet seit 2024-08-28
-- Wie viel kostet es? — 270.60256200000003 USD
+- Wie viel kostet es? — 270.771976 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Selbstwert und Selbstbewusstsein stärken - Onlinekurs Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/567377
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/567377/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Selbstwert%20und%20Selbstbewusstsein%20st%C3%A4rken%20-%20Onlinekurs
 
 ## 4. Editorial notes

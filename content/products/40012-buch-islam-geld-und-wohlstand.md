@@ -4,7 +4,7 @@ digistore24_product_id: 439162
 title: "Buch: Islam, Geld und Wohlstand"
 vendor: "IslamGeldWohlstand"
 product_type: "Book (printed)"
-price: 31.14
+price: 31.16
 currency: "USD"
 affiliate_commission_pct: 20
 earnings_per_sale: 6.23
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2022-04-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/439162?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/439162"
@@ -22,14 +22,14 @@ language: "de"
 # Buch: Islam, Geld und Wohlstand
 
 > Product ID `40012` · Digistore24 productId `439162` · [HTML profile page](../../produkte/buch-islam-geld-und-wohlstand-40012.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $31.14 (Single payment) |
+| Price | $31.16 (Single payment) |
 | Affiliate commission | 20% |
 | Earnings/sale* | $6.23 |
 | Cart conversion* | — |
@@ -70,14 +70,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Buch: Islam, Geld und Wohlstand? — Typ: Book (printed), Anbieter: IslamGeldWohlstand, gelistet seit 2022-04-16
-- Wie viel kostet es? — 31.139085000000005 USD
+- Wie viel kostet es? — 31.15858 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Buch: Islam, Geld und Wohlstand Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/439162
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/439162/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Buch%3A%20Islam%2C%20Geld%20und%20Wohlstand
 
 ## 4. Editorial notes

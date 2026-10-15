@@ -4,7 +4,7 @@ digistore24_product_id: 736361
 title: "Der große Golf-Guide Spanien"
 vendor: "blockchainmediagroupes"
 product_type: "E-books"
-price: 20.8
+price: 20.81
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 10.4
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Travel & Culture","Marketing Services"]
 listed_since: "2026-09-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/59569/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/736361?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/736361"
 language: "de"
 ---
 # Der große Golf-Guide Spanien
 
 > Product ID `59569` · Digistore24 productId `736361` · [HTML profile page](../../produkte/der-gro-e-golf-guide-spanien-59569.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.80 (Single payment) |
+| Price | $20.81 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $10.40 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59569/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/736361?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/736361
 - Vendor affiliate support: https://nachrichten.es/creator-influencer-partner-von-nachrichten-es/
 - Canonical redirect: https://www.digistore24.com/redir/736361/adminstore
@@ -72,14 +72,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der große Golf-Guide Spanien? — Typ: E-books, Anbieter: blockchainmediagroupes, gelistet seit 2026-09-23
-- Wie viel kostet es? — 20.796660000000003 USD
+- Wie viel kostet es? — 20.80968 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Der große Golf-Guide Spanien Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/736361
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/736361/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%20gro%C3%9Fe%20Golf-Guide%20Spanien
 
 ## 4. Editorial notes

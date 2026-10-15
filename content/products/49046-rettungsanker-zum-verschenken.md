@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2024-08-19"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/566045?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/566045"
@@ -22,7 +22,7 @@ language: "de"
 # Rettungsanker zum Verschenken
 
 > Product ID `49046` · Digistore24 productId `566045` · [HTML profile page](../../produkte/rettungsanker-zum-verschenken-49046.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -80,7 +80,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Rettungsanker zum Verschenken Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/566045
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/566045/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Rettungsanker%20zum%20Verschenken
 
 ## 4. Editorial notes

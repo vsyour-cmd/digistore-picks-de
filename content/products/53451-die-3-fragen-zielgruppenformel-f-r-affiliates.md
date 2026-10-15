@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Social Media"]
 listed_since: "2025-08-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/53451/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/628538?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/628538"
 language: "de"
 ---
 # Die 3-Fragen-Zielgruppenformel für Affiliates!
 
 > Product ID `53451` · Digistore24 productId `628538` · [HTML profile page](../../produkte/die-3-fragen-zielgruppenformel-f-r-affiliates-53451.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/53451/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/628538?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/628538
 - Canonical redirect: https://www.digistore24.com/redir/628538/adminstore
 
@@ -80,7 +80,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Die 3-Fragen-Zielgruppenformel für Affiliates! Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/628538
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/628538/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Die%203-Fragen-Zielgruppenformel%20f%C3%BCr%20Affiliates!
 
 ## 4. Editorial notes

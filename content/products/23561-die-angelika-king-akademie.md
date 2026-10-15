@@ -4,34 +4,34 @@ digistore24_product_id: 209737
 title: "Die Angelika King Akademie"
 vendor: "AngelKing"
 product_type: "Member area and video courses"
-price: 466.97
+price: 467.27
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 140.1
+earnings_per_sale: 140.19
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2018-03-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/23561/adminstore/"
+promo_link: "https://www.digistore24.com/product/209737?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/209737"
 language: "de"
 ---
 # Die Angelika King Akademie
 
 > Product ID `23561` · Digistore24 productId `209737` · [HTML profile page](../../produkte/die-angelika-king-akademie-23561.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $466.97 (Single payment) |
+| Price | $467.27 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $140.10 |
+| Earnings/sale* | $140.19 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | AngelKing |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/23561/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/209737?aff=adminstore
 - Sales page: https://www.digistore24.com/product/209737
 - Vendor affiliate support: https://angelika-king-akademie.de/partner/
 - Canonical redirect: https://www.digistore24.com/redir/209737/adminstore
@@ -83,14 +83,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die Angelika King Akademie? — Typ: Member area and video courses, Anbieter: AngelKing, gelistet seit 2018-03-21
-- Wie viel kostet es? — 466.974465 USD
+- Wie viel kostet es? — 467.26682 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Die Angelika King Akademie Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/209737
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/209737/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Die%20Angelika%20King%20Akademie
 
 ## 4. Editorial notes

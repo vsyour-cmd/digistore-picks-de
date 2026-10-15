@@ -10,10 +10,10 @@ affiliate_commission_pct: 60
 earnings_per_sale: 10.79
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Hobby & Craft","Sport"]
+categories: ["Sport","Hobby & Craft"]
 listed_since: "2026-09-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/731192?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/731192"
@@ -22,7 +22,7 @@ language: "de"
 # 30 Tage Fußballtraining für Kinder
 
 > Product ID `59024` · Digistore24 productId `731192` · [HTML profile page](../../produkte/30-tage-fu-balltraining-f-r-kinder-59024.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | Book2Book |
 | Listed since | 2026-09-08 |
 | Auto-accept affiliates | yes |
-| Categories | Hobby & Craft, Sport |
+| Categories | Sport, Hobby & Craft |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -89,7 +89,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 30 Tage Fußballtraining für Kinder Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/731192
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/731192/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=30%20Tage%20Fu%C3%9Fballtraining%20f%C3%BCr%20Kinder
 
 ## 4. Editorial notes

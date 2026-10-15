@@ -4,40 +4,40 @@ digistore24_product_id: 689617
 title: "eWorkbook für Frauen bei Trennung / 50% Provision"
 vendor: "office1376"
 product_type: "E-books"
-price: 19.75
+price: 19.76
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 9.87
+earnings_per_sale: 9.88
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Dating, Relationships & Romance","Education","Personal Development"]
+categories: ["Personal Development","Dating, Relationships & Romance","Education"]
 listed_since: "2026-09-30"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/60059/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/689617?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/689617"
 language: "de"
 ---
 # eWorkbook für Frauen bei Trennung / 50% Provision
 
 > Product ID `60059` · Digistore24 productId `689617` · [HTML profile page](../../produkte/eworkbook-f-r-frauen-bei-trennung-50-provision-60059.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $19.75 (Single payment) |
+| Price | $19.76 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $9.87 |
+| Earnings/sale* | $9.88 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | office1376 |
 | Listed since | 2026-09-30 |
 | Auto-accept affiliates | yes |
-| Categories | Dating, Relationships & Romance, Education, Personal Development |
+| Categories | Personal Development, Dating, Relationships & Romance, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/60059/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/689617?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/689617
 - Canonical redirect: https://www.digistore24.com/redir/689617/adminstore
 
@@ -70,14 +70,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist eWorkbook für Frauen bei Trennung / 50% Provision? — Typ: E-books, Anbieter: office1376, gelistet seit 2026-09-30
-- Wie viel kostet es? — 19.745646 USD
+- Wie viel kostet es? — 19.758008 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: eWorkbook für Frauen bei Trennung / 50% Provision Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/689617
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/689617/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=eWorkbook%20f%C3%BCr%20Frauen%20bei%20Trennung%20%2F%2050%25%20Provision
 
 ## 4. Editorial notes

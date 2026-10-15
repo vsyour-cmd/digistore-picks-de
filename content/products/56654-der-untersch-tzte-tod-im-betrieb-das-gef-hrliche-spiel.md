@@ -4,16 +4,16 @@ digistore24_product_id: 694493
 title: "Der unterschätzte Tod im Betrieb Das gefährliche Spiel"
 vendor: "PERSOFIT"
 product_type: "E-books"
-price: 10.05
+price: 10.06
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 5.03
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Business & Investment","Health & Fitness","Law & Justice"]
+categories: ["Health & Fitness","Business & Investment","Law & Justice"]
 listed_since: "2026-05-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/694493?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/694493"
@@ -22,14 +22,14 @@ language: "de"
 # Der unterschätzte Tod im Betrieb Das gefährliche Spiel
 
 > Product ID `56654` · Digistore24 productId `694493` · [HTML profile page](../../produkte/der-untersch-tzte-tod-im-betrieb-das-gef-hrliche-spiel-56654.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.05 (Single payment) |
+| Price | $10.06 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $5.03 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | PERSOFIT |
 | Listed since | 2026-05-22 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Health & Fitness, Law & Justice |
+| Categories | Health & Fitness, Business & Investment, Law & Justice |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -75,14 +75,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der unterschätzte Tod im Betrieb Das gefährliche Spiel? — Typ: E-books, Anbieter: PERSOFIT, gelistet seit 2026-05-22
-- Wie viel kostet es? — 10.051719 USD
+- Wie viel kostet es? — 10.058012 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Der unterschätzte Tod im Betrieb Das gefährliche Spiel Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/694493
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/694493/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%20untersch%C3%A4tzte%20Tod%20im%20Betrieb%20Das%20gef%C3%A4hrliche%20Spiel
 
 ## 4. Editorial notes

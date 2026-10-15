@@ -10,19 +10,19 @@ affiliate_commission_pct: 60
 earnings_per_sale: 2.49
 cart_conversion_pct: 16
 cancel_rate_pct: 0.49
-categories: ["Computer & Internet","Software"]
+categories: ["Software","Computer & Internet"]
 listed_since: "2025-05-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/52447/adminstore/"
+promo_link: "https://www.webpirat.de/ki-musik-geld-maschine/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.webpirat.de/ki-musik-geld-maschine/"
 language: "de"
 ---
 # KI Musik Geld Maschine (2025)
 
 > Product ID `52447` · Digistore24 productId `613120` · [HTML profile page](../../produkte/ki-musik-geld-maschine-2025-52447.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | webpirat |
 | Listed since | 2025-05-16 |
 | Auto-accept affiliates | yes |
-| Categories | Computer & Internet, Software |
+| Categories | Software, Computer & Internet |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/52447/adminstore/
+- **Promo link (affiliate):** https://www.webpirat.de/ki-musik-geld-maschine/?aff=adminstore#aff=adminstore
 - Sales page: https://www.webpirat.de/ki-musik-geld-maschine/
 - Vendor affiliate support: https://www.webpirat.de/werde-affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/613120/adminstore
@@ -75,14 +75,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI Musik Geld Maschine (2025)? — Typ: E-books, Anbieter: webpirat, gelistet seit 2025-05-16
-- Wie viel kostet es? — 2.325648 USD
+- Wie viel kostet es? — 2.3271040000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: KI Musik Geld Maschine (2025) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/613120
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/613120/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=KI%20Musik%20Geld%20Maschine%20(2025)
 
 ## 4. Editorial notes

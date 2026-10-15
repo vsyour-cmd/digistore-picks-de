@@ -4,34 +4,34 @@ digistore24_product_id: 305284
 title: "Silent Subliminals ULTRA Paket"
 vendor: "newdimension"
 product_type: "Software"
-price: 112.64
+price: 112.71
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 32.1
+earnings_per_sale: 32.12
 cart_conversion_pct: 5
 cancel_rate_pct: 4.19
 categories: ["Personal Development"]
 listed_since: "2020-01-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/46819/adminstore/"
+promo_link: "https://silent-subliminals.de?aff=adminstore#aff=adminstore"
 sales_page: "https://silent-subliminals.de"
 language: "de"
 ---
 # Silent Subliminals ULTRA Paket
 
 > Product ID `46819` · Digistore24 productId `305284` · [HTML profile page](../../produkte/silent-subliminals-ultra-paket-46819.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $112.64 (Single payment) |
+| Price | $112.71 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $32.10 |
+| Earnings/sale* | $32.12 |
 | Cart conversion* | 5% |
 | Cancel rate* | 4.19% |
 | Vendor | newdimension |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/46819/adminstore/
+- **Promo link (affiliate):** https://silent-subliminals.de?aff=adminstore#aff=adminstore
 - Sales page: https://silent-subliminals.de
 - Vendor affiliate support: https://www.timdaugs.com/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/305284/adminstore
@@ -93,14 +93,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Silent Subliminals ULTRA Paket? — Typ: Software, Anbieter: newdimension, gelistet seit 2020-01-26
-- Wie viel kostet es? — 112.637394 USD
+- Wie viel kostet es? — 112.707912 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Silent Subliminals ULTRA Paket Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/305284
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/305284/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Silent%20Subliminals%20ULTRA%20Paket
 
 ## 4. Editorial notes

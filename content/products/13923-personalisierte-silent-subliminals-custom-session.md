@@ -7,22 +7,22 @@ product_type: "Downloads"
 price: 0.46
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 20.7
+earnings_per_sale: 20.71
 cart_conversion_pct: 19
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Services"]
 listed_since: "2019-11-14"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/13923/adminstore/"
+promo_link: "https://silentsubs.com/media/erstelle-deine-eigene-silent-subliminals-session/?aff=adminstore#aff=adminstore"
 sales_page: "https://silentsubs.com/media/erstelle-deine-eigene-silent-subliminals-session/"
 language: "de"
 ---
 # Personalisierte Silent Subliminals (Custom Session)
 
 > Product ID `13923` · Digistore24 productId `295162` · [HTML profile page](../../produkte/personalisierte-silent-subliminals-custom-session-13923.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,7 @@ language: "de"
 | Product type | Downloads |
 | Price | $0.46 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $20.70 |
+| Earnings/sale* | $20.71 |
 | Cart conversion* | 19% |
 | Cancel rate* | 0% |
 | Vendor | mldesign |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/13923/adminstore/
+- **Promo link (affiliate):** https://silentsubs.com/media/erstelle-deine-eigene-silent-subliminals-session/?aff=adminstore#aff=adminstore
 - Sales page: https://silentsubs.com/media/erstelle-deine-eigene-silent-subliminals-session/
 - Vendor affiliate support: https://silentsubs.com/media/unser-partnerprogramm-silentsubs-com/
 - Canonical redirect: https://www.digistore24.com/redir/295162/adminstore
@@ -90,14 +90,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Personalisierte Silent Subliminals (Custom Session)? — Typ: Downloads, Anbieter: mldesign, gelistet seit 2019-11-14
-- Wie viel kostet es? — 0.458421 USD
+- Wie viel kostet es? — 0.458708 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Personalisierte Silent Subliminals (Custom Session) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/295162
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/295162/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Personalisierte%20Silent%20Subliminals%20(Custom%20Session)
 
 ## 4. Editorial notes

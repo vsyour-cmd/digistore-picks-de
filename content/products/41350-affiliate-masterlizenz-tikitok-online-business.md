@@ -4,16 +4,16 @@ digistore24_product_id: 462015
 title: "Affiliate Masterlizenz \"TikiTok Online Business\""
 vendor: "Ararembe"
 product_type: "Member area and video courses"
-price: 71.23
+price: 71.28
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 13.56
+earnings_per_sale: 13.57
 cart_conversion_pct: 6
 cancel_rate_pct: 4.08
 categories: ["Online Marketing & E-Business"]
 listed_since: "2022-09-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://onlinekurse-von-experten.com/masterlizenz-tikitok/?aff=adminstore#aff=adminstore"
 sales_page: "https://onlinekurse-von-experten.com/masterlizenz-tikitok/"
@@ -22,16 +22,16 @@ language: "de"
 # Affiliate Masterlizenz "TikiTok Online Business"
 
 > Product ID `41350` · Digistore24 productId `462015` · [HTML profile page](../../produkte/affiliate-masterlizenz-tikitok-online-business-41350.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $71.23 (Subscription) |
+| Price | $71.28 (Subscription) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $13.56 |
+| Earnings/sale* | $13.57 |
 | Cart conversion* | 6% |
 | Cancel rate* | 4.08% |
 | Vendor | Ararembe |
@@ -80,14 +80,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Affiliate Masterlizenz "TikiTok Online Business"? — Typ: Member area and video courses, Anbieter: Ararembe, gelistet seit 2022-09-26
-- Wie viel kostet es? — 71.23415100000001 USD
+- Wie viel kostet es? — 71.27874800000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Affiliate Masterlizenz "TikiTok Online Business" Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/462015
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/462015/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Affiliate%20Masterlizenz%20%22TikiTok%20Online%20Business%22
 
 ## 4. Editorial notes

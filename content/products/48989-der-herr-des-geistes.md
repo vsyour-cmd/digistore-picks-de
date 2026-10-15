@@ -4,34 +4,34 @@ digistore24_product_id: 659362
 title: "Der Herr des Geistes"
 vendor: "AndreasLang"
 product_type: "E-books"
-price: 141.6
+price: 141.68
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 86.69
+earnings_per_sale: 86.74
 cart_conversion_pct: 5
 cancel_rate_pct: 5.85
 categories: ["Health & Fitness","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-01-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/48989/adminstore/"
+promo_link: "https://www.zielgesundheit.de/derherrdesgeistes/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.zielgesundheit.de/derherrdesgeistes/"
 language: "de"
 ---
 # Der Herr des Geistes
 
 > Product ID `48989` · Digistore24 productId `659362` · [HTML profile page](../../produkte/der-herr-des-geistes-48989.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $141.60 (Single payment) |
+| Price | $141.68 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $86.69 |
+| Earnings/sale* | $86.74 |
 | Cart conversion* | 5% |
 | Cancel rate* | 5.85% |
 | Vendor | AndreasLang |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/48989/adminstore/
+- **Promo link (affiliate):** https://www.zielgesundheit.de/derherrdesgeistes/?aff=adminstore#aff=adminstore
 - Sales page: https://www.zielgesundheit.de/derherrdesgeistes/
 - Vendor affiliate support: https://affiliateking.net/
 - Canonical redirect: https://www.digistore24.com/redir/659362/adminstore
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Herr des Geistes? — Typ: E-books, Anbieter: AndreasLang, gelistet seit 2026-01-06
-- Wie viel kostet es? — 141.59618400000002 USD
+- Wie viel kostet es? — 141.684832 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Der Herr des Geistes Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/659362
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/659362/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%20Herr%20des%20Geistes
 
 ## 4. Editorial notes

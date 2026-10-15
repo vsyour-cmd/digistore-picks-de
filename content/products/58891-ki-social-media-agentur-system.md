@@ -4,34 +4,34 @@ digistore24_product_id: 728897
 title: "KI Social Media Agentur System"
 vendor: "gowxsese"
 product_type: "E-books"
-price: 51.2
+price: 51.23
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 30.71
+earnings_per_sale: 30.73
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-09-03"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/58891/adminstore/"
+promo_link: "https://www.digistore24.com/product/728897?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/728897"
 language: "de"
 ---
 # KI Social Media Agentur System
 
 > Product ID `58891` · Digistore24 productId `728897` · [HTML profile page](../../produkte/ki-social-media-agentur-system-58891.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $51.20 (Single payment) |
+| Price | $51.23 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $30.71 |
+| Earnings/sale* | $30.73 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | gowxsese |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58891/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/728897?aff=adminstore
 - Sales page: https://www.digistore24.com/product/728897
 - Canonical redirect: https://www.digistore24.com/redir/728897/adminstore
 
@@ -87,14 +87,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI Social Media Agentur System? — Typ: E-books, Anbieter: gowxsese, gelistet seit 2026-09-03
-- Wie viel kostet es? — 51.197799 USD
+- Wie viel kostet es? — 51.229852 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: KI Social Media Agentur System Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/728897
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/728897/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=KI%20Social%20Media%20Agentur%20System
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 650717
 title: "Das Betriebs-System:Persönlichkeits+Unternehmens-Entwicklung"
 vendor: "improv34"
 product_type: "Member area and video courses"
-price: 2232.85
+price: 2234.24
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 446.57
+earnings_per_sale: 446.85
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2025-11-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://impruvement.com/challenge?aff=adminstore#aff=adminstore"
 sales_page: "https://impruvement.com/challenge"
@@ -22,16 +22,16 @@ language: "de"
 # Das Betriebs-System:Persönlichkeits+Unternehmens-Entwicklung
 
 > Product ID `56172` · Digistore24 productId `650717` · [HTML profile page](../../produkte/das-betriebs-system-pers-nlichkeits-unternehmens-entwicklung-56172.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $2232.85 (Single payment) |
+| Price | $2234.24 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $446.57 |
+| Earnings/sale* | $446.85 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | improv34 |
@@ -93,14 +93,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Betriebs-System:Persönlichkeits+Unternehmens-Entwicklung? — Typ: Member area and video courses, Anbieter: improv34, gelistet seit 2025-11-24
-- Wie viel kostet es? — 2232.8457000000003 USD
+- Wie viel kostet es? — 2234.2436000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Das Betriebs-System:Persönlichkeits+Unternehmens-Entwicklung Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/650717
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/650717/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Das%20Betriebs-System%3APers%C3%B6nlichkeits%2BUnternehmens-Entwicklung
 
 ## 4. Editorial notes

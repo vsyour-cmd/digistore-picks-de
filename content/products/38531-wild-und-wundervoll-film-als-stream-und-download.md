@@ -4,34 +4,34 @@ digistore24_product_id: 417092
 title: "Wild und Wundervoll (Film als Stream und Download)"
 vendor: "wildundwundervoll"
 product_type: "Downloads"
-price: 21.24
+price: 21.26
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 10.62
+earnings_per_sale: 10.63
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Travel & Culture"]
 listed_since: "2021-11-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/38531/adminstore/"
+promo_link: "https://www.onlinefilmschool.de/wildundwundervollfilm/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.onlinefilmschool.de/wildundwundervollfilm/"
 language: "de"
 ---
 # Wild und Wundervoll (Film als Stream und Download)
 
 > Product ID `38531` · Digistore24 productId `417092` · [HTML profile page](../../produkte/wild-und-wundervoll-film-als-stream-und-download-38531.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $21.24 (Single payment) |
+| Price | $21.26 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $10.62 |
+| Earnings/sale* | $10.63 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | wildundwundervoll |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/38531/adminstore/
+- **Promo link (affiliate):** https://www.onlinefilmschool.de/wildundwundervollfilm/?aff=adminstore#aff=adminstore
 - Sales page: https://www.onlinefilmschool.de/wildundwundervollfilm/
 - Canonical redirect: https://www.digistore24.com/redir/417092/adminstore
 
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Wild und Wundervoll (Film als Stream und Download)? — Typ: Downloads, Anbieter: wildundwundervoll, gelistet seit 2021-11-20
-- Wie viel kostet es? — 21.243900000000004 USD
+- Wie viel kostet es? — 21.2572 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Wild und Wundervoll (Film als Stream und Download) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/417092
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/417092/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Wild%20und%20Wundervoll%20(Film%20als%20Stream%20und%20Download)
 
 ## 4. Editorial notes

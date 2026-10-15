@@ -4,16 +4,16 @@ digistore24_product_id: 356633
 title: "Onlinekongress • Die große Masterclass"
 vendor: "gdorsch"
 product_type: "Online coaching"
-price: 4472.4
+price: 4475.2
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 335.43
+earnings_per_sale: 335.64
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2020-11-10"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/356633?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/356633"
@@ -22,16 +22,16 @@ language: "de"
 # Onlinekongress • Die große Masterclass
 
 > Product ID `37208` · Digistore24 productId `356633` · [HTML profile page](../../produkte/onlinekongress-die-gro-e-masterclass-37208.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $4472.40 (Installment) |
+| Price | $4475.20 (Installment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $335.43 |
+| Earnings/sale* | $335.64 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | gdorsch |
@@ -84,14 +84,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Onlinekongress • Die große Masterclass? — Typ: Online coaching, Anbieter: gdorsch, gelistet seit 2020-11-10
-- Wie viel kostet es? — 4472.400000000001 USD
+- Wie viel kostet es? — 4475.2 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Onlinekongress • Die große Masterclass Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/356633
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/356633/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Onlinekongress%20%E2%80%A2%20Die%20gro%C3%9Fe%20Masterclass
 
 ## 4. Editorial notes

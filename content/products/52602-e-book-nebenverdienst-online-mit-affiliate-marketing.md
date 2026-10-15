@@ -12,8 +12,8 @@ cart_conversion_pct: 18
 cancel_rate_pct: 2.71
 categories: ["Computer & Internet","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2025-05-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://affiliforge.net/Nebenverdienst-Online?aff=adminstore#aff=adminstore"
 sales_page: "https://affiliforge.net/Nebenverdienst-Online"
@@ -22,7 +22,7 @@ language: "de"
 # E-Book - Nebenverdienst Online mit Affiliate-Marketing
 
 > Product ID `52602` · Digistore24 productId `614461` · [HTML profile page](../../produkte/e-book-nebenverdienst-online-mit-affiliate-marketing-52602.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -77,14 +77,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist E-Book - Nebenverdienst Online mit Affiliate-Marketing? — Typ: Member area and video courses, Anbieter: AffiliForge, gelistet seit 2025-05-23
-- Wie viel kostet es? — 2.448639 USD
+- Wie viel kostet es? — 2.450172 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: E-Book - Nebenverdienst Online mit Affiliate-Marketing Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/614461
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/614461/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=E-Book%20-%20Nebenverdienst%20Online%20mit%20Affiliate-Marketing
 
 ## 4. Editorial notes

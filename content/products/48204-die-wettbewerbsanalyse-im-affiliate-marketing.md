@@ -12,8 +12,8 @@ cart_conversion_pct: 28
 cancel_rate_pct: 2.33
 categories: ["Online Marketing & E-Business","Profession & Job","Social Media"]
 listed_since: "2024-05-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://michael-schlinder.com/Wettbewerb-Analyse?aff=adminstore#aff=adminstore"
 sales_page: "https://michael-schlinder.com/Wettbewerb-Analyse"
@@ -22,7 +22,7 @@ language: "de"
 # Die Wettbewerbsanalyse im Affiliate-Marketing
 
 > Product ID `48204` · Digistore24 productId `554048` · [HTML profile page](../../produkte/die-wettbewerbsanalyse-im-affiliate-marketing-48204.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -76,14 +76,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die Wettbewerbsanalyse im Affiliate-Marketing? — Typ: Member area and video courses, Anbieter: MSchlinder, gelistet seit 2024-05-26
-- Wie viel kostet es? — 0.268344 USD
+- Wie viel kostet es? — 0.268512 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Die Wettbewerbsanalyse im Affiliate-Marketing Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/554048
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/554048/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Die%20Wettbewerbsanalyse%20im%20Affiliate-Marketing
 
 ## 4. Editorial notes

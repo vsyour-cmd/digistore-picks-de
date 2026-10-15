@@ -4,34 +4,34 @@ digistore24_product_id: 116113
 title: "Mit Spaß Englisch Lernen"
 vendor: "FlyCoach"
 product_type: "Downloads"
-price: 22.55
+price: 22.57
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 11.28
+earnings_per_sale: 11.29
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2017-01-28"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/15063/adminstore/"
+promo_link: "https://englisch-nachhilfe-pforzheim.de/digi-premium-verkauf/?aff=adminstore#aff=adminstore"
 sales_page: "https://englisch-nachhilfe-pforzheim.de/digi-premium-verkauf/"
 language: "de"
 ---
 # Mit Spaß Englisch Lernen
 
 > Product ID `15063` · Digistore24 productId `116113` · [HTML profile page](../../produkte/mit-spa-englisch-lernen-15063.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $22.55 (Single payment) |
+| Price | $22.57 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $11.28 |
+| Earnings/sale* | $11.29 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | FlyCoach |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/15063/adminstore/
+- **Promo link (affiliate):** https://englisch-nachhilfe-pforzheim.de/digi-premium-verkauf/?aff=adminstore#aff=adminstore
 - Sales page: https://englisch-nachhilfe-pforzheim.de/digi-premium-verkauf/
 - Canonical redirect: https://www.digistore24.com/redir/116113/adminstore
 
@@ -73,14 +73,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mit Spaß Englisch Lernen? — Typ: Downloads, Anbieter: FlyCoach, gelistet seit 2017-01-28
-- Wie viel kostet es? — 22.552077000000004 USD
+- Wie viel kostet es? — 22.566196 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Mit Spaß Englisch Lernen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/116113
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/116113/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Mit%20Spa%C3%9F%20Englisch%20Lernen
 
 ## 4. Editorial notes

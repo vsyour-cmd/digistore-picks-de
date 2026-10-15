@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2022-03-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.cashflowwheel.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.cashflowwheel.de/"
@@ -22,7 +22,7 @@ language: "de"
 # Cashflow Wheel
 
 > Product ID `40154` · Digistore24 productId `435409` · [HTML profile page](../../produkte/cashflow-wheel-40154.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -74,14 +74,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Cashflow Wheel? — Typ: Member area and video courses, Anbieter: seotech, gelistet seit 2022-03-22
-- Wie viel kostet es? — 0.939204 USD
+- Wie viel kostet es? — 0.939792 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Cashflow Wheel Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/435409
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/435409/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Cashflow%20Wheel
 
 ## 4. Editorial notes

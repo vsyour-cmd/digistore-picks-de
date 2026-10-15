@@ -4,34 +4,34 @@ digistore24_product_id: 697092
 title: "Der Ratgeber für PV und Wärmepumpe"
 vendor: "michaeljentkiewicz8e7c"
 product_type: "E-books"
-price: 28.21
+price: 28.23
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 11.28
+earnings_per_sale: 11.29
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Home & Garden","Real Estate"]
 listed_since: "2026-06-03"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/56791/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/697092?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/697092"
 language: "de"
 ---
 # Der Ratgeber für PV und Wärmepumpe
 
 > Product ID `56791` · Digistore24 productId `697092` · [HTML profile page](../../produkte/der-ratgeber-f-r-pv-und-w-rmepumpe-56791.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $28.21 (Single payment) |
+| Price | $28.23 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $11.28 |
+| Earnings/sale* | $11.29 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | michaeljentkiewicz8e7c |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56791/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/697092?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/697092
 - Canonical redirect: https://www.digistore24.com/redir/697092/adminstore
 
@@ -73,14 +73,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Ratgeber für PV und Wärmepumpe? — Typ: E-books, Anbieter: michaeljentkiewicz8e7c, gelistet seit 2026-06-03
-- Wie viel kostet es? — 28.209663000000003 USD
+- Wie viel kostet es? — 28.227324 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Der Ratgeber für PV und Wärmepumpe Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/697092
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/697092/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%20Ratgeber%20f%C3%BCr%20PV%20und%20W%C3%A4rmepumpe
 
 ## 4. Editorial notes

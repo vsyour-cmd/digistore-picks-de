@@ -4,7 +4,7 @@ digistore24_product_id: 23861
 title: "Video-Seminar \"Nichtraucher in 5 Stunden\""
 vendor: "bbGmbH"
 product_type: "Downloads"
-price: 34.76
+price: 34.78
 currency: "USD"
 affiliate_commission_pct: 25
 earnings_per_sale: 8.69
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2014-04-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://nichtraucher-in-5-stunden.at/?aff=adminstore#aff=adminstore"
 sales_page: "https://nichtraucher-in-5-stunden.at/"
@@ -22,14 +22,14 @@ language: "de"
 # Video-Seminar "Nichtraucher in 5 Stunden"
 
 > Product ID `3247` · Digistore24 productId `23861` · [HTML profile page](../../produkte/video-seminar-nichtraucher-in-5-stunden-3247.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $34.76 (Single payment) |
+| Price | $34.78 (Single payment) |
 | Affiliate commission | 25% |
 | Earnings/sale* | $8.69 |
 | Cart conversion* | — |
@@ -68,14 +68,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Video-Seminar "Nichtraucher in 5 Stunden"? — Typ: Downloads, Anbieter: bbGmbH, gelistet seit 2014-04-08
-- Wie viel kostet es? — 34.761729 USD
+- Wie viel kostet es? — 34.783492 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Video-Seminar "Nichtraucher in 5 Stunden" Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/23861
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/23861/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Video-Seminar%20%22Nichtraucher%20in%205%20Stunden%22
 
 ## 4. Editorial notes

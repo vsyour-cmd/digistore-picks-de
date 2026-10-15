@@ -4,16 +4,16 @@ digistore24_product_id: 439451
 title: "Digital Zeichnen Lernen Online-Kurs"
 vendor: "DrawTut"
 product_type: "Member area and video courses"
-price: 64.83
+price: 64.87
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 28.94
+earnings_per_sale: 28.95
 cart_conversion_pct: 6
 cancel_rate_pct: 1.03
 categories: ["Hobby & Craft"]
 listed_since: "2022-04-19"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://drawtut.com/de/kurse/digitales-zeichnen/?aff=adminstore#aff=adminstore"
 sales_page: "https://drawtut.com/de/kurse/digitales-zeichnen/"
@@ -22,16 +22,16 @@ language: "de"
 # Digital Zeichnen Lernen Online-Kurs
 
 > Product ID `39914` · Digistore24 productId `439451` · [HTML profile page](../../produkte/digital-zeichnen-lernen-online-kurs-39914.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $64.83 (Single payment) |
+| Price | $64.87 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $28.94 |
+| Earnings/sale* | $28.95 |
 | Cart conversion* | 6% |
 | Cancel rate* | 1.03% |
 | Vendor | DrawTut |
@@ -92,14 +92,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Digital Zeichnen Lernen Online-Kurs? — Typ: Member area and video courses, Anbieter: DrawTut, gelistet seit 2022-04-19
-- Wie viel kostet es? — 64.827438 USD
+- Wie viel kostet es? — 64.86802399999999 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Digital Zeichnen Lernen Online-Kurs Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/439451
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/439451/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Digital%20Zeichnen%20Lernen%20Online-Kurs
 
 ## 4. Editorial notes

@@ -12,8 +12,8 @@ cart_conversion_pct: 55
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2026-01-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://page.funnelcockpit.com/WpPySR7YhhvSGLECR?aff=adminstore#aff=adminstore"
 sales_page: "https://page.funnelcockpit.com/WpPySR7YhhvSGLECR"
@@ -22,7 +22,7 @@ language: "de"
 # 400€ mit Vinted
 
 > Product ID `55352` · Digistore24 productId `664228` · [HTML profile page](../../produkte/400-mit-vinted-55352.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -66,7 +66,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 400€ mit Vinted Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/664228
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/664228/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=400%E2%82%AC%20mit%20Vinted
 
 ## 4. Editorial notes

@@ -12,8 +12,8 @@ cart_conversion_pct: 29
 cancel_rate_pct: 2.04
 categories: ["Computer & Internet","Online Marketing & E-Business"]
 listed_since: "2024-04-30"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.webpirat.de/ai-money-automation-mastery?aff=adminstore#aff=adminstore"
 sales_page: "https://www.webpirat.de/ai-money-automation-mastery"
@@ -22,7 +22,7 @@ language: "de"
 # Geld verdienen mit KI Automation (Gratis Geschenk Buch)
 
 > Product ID `48006` · Digistore24 productId `550527` · [HTML profile page](../../produkte/geld-verdienen-mit-ki-automation-gratis-geschenk-buch-48006.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -69,14 +69,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Geld verdienen mit KI Automation (Gratis Geschenk Buch)? — Typ: E-books, Anbieter: webpirat, gelistet seit 2024-04-30
-- Wie viel kostet es? — 1.7330550000000002 USD
+- Wie viel kostet es? — 1.73414 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Geld verdienen mit KI Automation (Gratis Geschenk Buch) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/550527
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/550527/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Geld%20verdienen%20mit%20KI%20Automation%20(Gratis%20Geschenk%20Buch)
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 668995
 title: "STARTKLAR – Dein erster Mini-Funnel. Dein erstes digitales P"
 vendor: "DEKAYLLC"
 product_type: "Member area and video courses"
-price: 44.16
+price: 44.19
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 22.08
+earnings_per_sale: 22.1
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-05-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://startklar.idsystem.net/Startklar/?aff=adminstore#aff=adminstore"
 sales_page: "https://startklar.idsystem.net/Startklar/"
@@ -22,16 +22,16 @@ language: "de"
 # STARTKLAR – Dein erster Mini-Funnel. Dein erstes digitales P
 
 > Product ID `56542` · Digistore24 productId `668995` · [HTML profile page](../../produkte/startklar-dein-erster-mini-funnel-dein-erstes-digitales-p-56542.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $44.16 (Single payment) |
+| Price | $44.19 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $22.08 |
+| Earnings/sale* | $22.10 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DEKAYLLC |
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist STARTKLAR – Dein erster Mini-Funnel. Dein erstes digitales P? — Typ: Member area and video courses, Anbieter: DEKAYLLC, gelistet seit 2026-05-16
-- Wie viel kostet es? — 44.164950000000005 USD
+- Wie viel kostet es? — 44.1926 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: STARTKLAR – Dein erster Mini-Funnel. Dein erstes digitales P Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/668995
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/668995/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=STARTKLAR%20%E2%80%93%20Dein%20erster%20Mini-Funnel.%20Dein%20erstes%20digitales%20P
 
 ## 4. Editorial notes

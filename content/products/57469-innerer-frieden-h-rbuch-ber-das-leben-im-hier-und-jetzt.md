@@ -4,40 +4,40 @@ digistore24_product_id: 429285
 title: "Innerer Frieden Hörbuch über das Leben im Hier und Jetzt"
 vendor: "gesundergeist"
 product_type: "Downloads"
-price: 15.66
+price: 15.67
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 4.47
+earnings_per_sale: 4.48
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Spiri­tua­lity & Esotericism","Personal Development"]
+categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-07-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/57469/adminstore/"
+promo_link: "https://michaelrepkowsky.grweb.site/dein-neues-leben-im-jetzt-horbuch-518?aff=adminstore#aff=adminstore"
 sales_page: "https://michaelrepkowsky.grweb.site/dein-neues-leben-im-jetzt-horbuch-518"
 language: "de"
 ---
 # Innerer Frieden Hörbuch über das Leben im Hier und Jetzt
 
 > Product ID `57469` · Digistore24 productId `429285` · [HTML profile page](../../produkte/innerer-frieden-h-rbuch-ber-das-leben-im-hier-und-jetzt-57469.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $15.66 (Single payment) |
+| Price | $15.67 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $4.47 |
+| Earnings/sale* | $4.48 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | gesundergeist |
 | Listed since | 2026-07-09 |
 | Auto-accept affiliates | yes |
-| Categories | Spiri­tua­lity & Esotericism, Personal Development |
+| Categories | Personal Development, Spiri­tua­lity & Esotericism |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/57469/adminstore/
+- **Promo link (affiliate):** https://michaelrepkowsky.grweb.site/dein-neues-leben-im-jetzt-horbuch-518?aff=adminstore#aff=adminstore
 - Sales page: https://michaelrepkowsky.grweb.site/dein-neues-leben-im-jetzt-horbuch-518
 - Canonical redirect: https://www.digistore24.com/redir/429285/adminstore
 
@@ -72,14 +72,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Innerer Frieden Hörbuch über das Leben im Hier und Jetzt? — Typ: Downloads, Anbieter: gesundergeist, gelistet seit 2026-07-09
-- Wie viel kostet es? — 15.664581000000002 USD
+- Wie viel kostet es? — 15.674388 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Innerer Frieden Hörbuch über das Leben im Hier und Jetzt Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/429285
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/429285/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Innerer%20Frieden%20H%C3%B6rbuch%20%C3%BCber%20das%20Leben%20im%20Hier%20und%20Jetzt
 
 ## 4. Editorial notes

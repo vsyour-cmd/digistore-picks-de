@@ -4,16 +4,16 @@ digistore24_product_id: 309532
 title: "[NEU] 24 Stunden Startup von Thomas Klußmann / Gründer.de"
 vendor: "digitalbeat"
 product_type: "Book (printed)"
-price: 908.89
+price: 909.46
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 31.82
+earnings_per_sale: 31.84
 cart_conversion_pct: 9
 cancel_rate_pct: 6.98
 categories: ["Business & Investment"]
 listed_since: "2020-02-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/redir/309532/adminstore"
 sales_page: "https://start.gruender.de/24-stunden-startup/?utm_source=Digistore24&utm_medium=Affiliate&utm_campaign=Aff%3A%20[AFFILIATE]&utm_content=Cam%3A%20[CAMPAIGNKEY]&dbtr=aff_[AFFILIATE]"
@@ -22,16 +22,16 @@ language: "de"
 # [NEU] 24 Stunden Startup von Thomas Klußmann / Gründer.de
 
 > Product ID `32174` · Digistore24 productId `309532` · [HTML profile page](../../produkte/neu-24-stunden-startup-von-thomas-klu-mann-gr-nder-de-32174.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $908.89 (Single payment) |
+| Price | $909.46 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $31.82 |
+| Earnings/sale* | $31.84 |
 | Cart conversion* | 9% |
 | Cancel rate* | 6.98% |
 | Vendor | digitalbeat |
@@ -72,14 +72,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist [NEU] 24 Stunden Startup von Thomas Klußmann / Gründer.de? — Typ: Book (printed), Anbieter: digitalbeat, gelistet seit 2020-02-24
-- Wie viel kostet es? — 908.8923090000001 USD
+- Wie viel kostet es? — 909.461332 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: [NEU] 24 Stunden Startup von Thomas Klußmann / Gründer.de Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/309532
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/309532/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=%5BNEU%5D%2024%20Stunden%20Startup%20von%20Thomas%20Klu%C3%9Fmann%20%2F%20Gr%C3%BCnder.de
 
 ## 4. Editorial notes

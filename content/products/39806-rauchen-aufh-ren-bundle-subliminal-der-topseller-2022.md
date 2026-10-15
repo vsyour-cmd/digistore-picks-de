@@ -4,16 +4,16 @@ digistore24_product_id: 363373
 title: "Rauchen aufhören-Bundle (Subliminal) der Topseller 2022"
 vendor: "seiwunderbar"
 product_type: "Downloads"
-price: 37.58
+price: 37.6
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 7.51
+earnings_per_sale: 7.52
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2020-12-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://earnetic.de/produkt/hoere-auf-zu-rauchen-entwoehne-dich-vom-rauchen-und-atme-neues-leben-silent-subliminal/?aff=adminstore#aff=adminstore"
 sales_page: "https://earnetic.de/produkt/hoere-auf-zu-rauchen-entwoehne-dich-vom-rauchen-und-atme-neues-leben-silent-subliminal/"
@@ -22,16 +22,16 @@ language: "de"
 # Rauchen aufhören-Bundle (Subliminal) der Topseller 2022
 
 > Product ID `39806` · Digistore24 productId `363373` · [HTML profile page](../../produkte/rauchen-aufh-ren-bundle-subliminal-der-topseller-2022-39806.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $37.58 (Single payment) |
+| Price | $37.60 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $7.51 |
+| Earnings/sale* | $7.52 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | seiwunderbar |
@@ -77,14 +77,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Rauchen aufhören-Bundle (Subliminal) der Topseller 2022? — Typ: Downloads, Anbieter: seiwunderbar, gelistet seit 2020-12-17
-- Wie viel kostet es? — 37.579341 USD
+- Wie viel kostet es? — 37.602868 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Rauchen aufhören-Bundle (Subliminal) der Topseller 2022 Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/363373
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/363373/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Rauchen%20aufh%C3%B6ren-Bundle%20(Subliminal)%20der%20Topseller%202022
 
 ## 4. Editorial notes

@@ -4,34 +4,34 @@ digistore24_product_id: 532424
 title: "Rock dein absolutes Wohlbefinden - 50% Provision"
 vendor: "user2946083"
 product_type: "Webinar"
-price: 709.38
+price: 709.82
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 354.69
+earnings_per_sale: 354.92
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Marketing Services"]
 listed_since: "2026-09-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/59331/adminstore/"
+promo_link: "https://dagmar-braaksma.de/rockdeinabsoluteswohlbefinden/?aff=adminstore#aff=adminstore"
 sales_page: "https://dagmar-braaksma.de/rockdeinabsoluteswohlbefinden/"
 language: "de"
 ---
 # Rock dein absolutes Wohlbefinden - 50% Provision
 
 > Product ID `59331` · Digistore24 productId `532424` · [HTML profile page](../../produkte/rock-dein-absolutes-wohlbefinden-50-provision-59331.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Webinar |
-| Price | $709.38 (Single payment) |
+| Price | $709.82 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $354.69 |
+| Earnings/sale* | $354.92 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | user2946083 |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59331/adminstore/
+- **Promo link (affiliate):** https://dagmar-braaksma.de/rockdeinabsoluteswohlbefinden/?aff=adminstore#aff=adminstore
 - Sales page: https://dagmar-braaksma.de/rockdeinabsoluteswohlbefinden/
 - Canonical redirect: https://www.digistore24.com/redir/532424/adminstore
 
@@ -81,14 +81,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Rock dein absolutes Wohlbefinden - 50% Provision? — Typ: Webinar, Anbieter: user2946083, gelistet seit 2026-09-17
-- Wie viel kostet es? — 709.3785450000001 USD
+- Wie viel kostet es? — 709.82266 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Rock dein absolutes Wohlbefinden - 50% Provision Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/532424
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/532424/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Rock%20dein%20absolutes%20Wohlbefinden%20-%2050%25%20Provision
 
 ## 4. Editorial notes

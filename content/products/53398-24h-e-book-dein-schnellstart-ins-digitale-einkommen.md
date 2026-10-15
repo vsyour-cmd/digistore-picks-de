@@ -4,7 +4,7 @@ digistore24_product_id: 627668
 title: "24h E-Book: Dein Schnellstart ins digitale Einkommen"
 vendor: "Hermas"
 product_type: "E-books"
-price: 19.89
+price: 19.9
 currency: "USD"
 affiliate_commission_pct: 40
 earnings_per_sale: 5.84
@@ -12,8 +12,8 @@ cart_conversion_pct: 9
 cancel_rate_pct: 10.51
 categories: ["Computer & Internet","Online Marketing & E-Business"]
 listed_since: "2025-08-03"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://hermas-marketing.de/24h-ebook/?aff=adminstore#aff=adminstore"
 sales_page: "https://hermas-marketing.de/24h-ebook/"
@@ -22,14 +22,14 @@ language: "de"
 # 24h E-Book: Dein Schnellstart ins digitale Einkommen
 
 > Product ID `53398` · Digistore24 productId `627668` · [HTML profile page](../../produkte/24h-e-book-dein-schnellstart-ins-digitale-einkommen-53398.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $19.89 (Single payment) |
+| Price | $19.90 (Single payment) |
 | Affiliate commission | 40% |
 | Earnings/sale* | $5.84 |
 | Cart conversion* | 9% |
@@ -77,14 +77,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 24h E-Book: Dein Schnellstart ins digitale Einkommen? — Typ: E-books, Anbieter: Hermas, gelistet seit 2025-08-03
-- Wie viel kostet es? — 19.890999 USD
+- Wie viel kostet es? — 19.903451999999998 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 24h E-Book: Dein Schnellstart ins digitale Einkommen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/627668
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/627668/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=24h%20E-Book%3A%20Dein%20Schnellstart%20ins%20digitale%20Einkommen
 
 ## 4. Editorial notes

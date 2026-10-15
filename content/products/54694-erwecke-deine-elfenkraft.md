@@ -4,16 +4,16 @@ digistore24_product_id: 643414
 title: "Erwecke deine Elfenkraft"
 vendor: "DreamElfe"
 product_type: "E-books"
-price: 29.26
+price: 29.28
 currency: "USD"
 affiliate_commission_pct: 20
 earnings_per_sale: 5.85
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Online Marketing & E-Business","Personal Development","Spiri­tua­lity & Esotericism"]
+categories: ["Personal Development","Spiri­tua­lity & Esotericism","Online Marketing & E-Business"]
 listed_since: "2025-10-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://dreamelfes-buisness.systeme.io/erwecke-deine-elfenkraft-ds?aff=adminstore#aff=adminstore"
 sales_page: "https://dreamelfes-buisness.systeme.io/erwecke-deine-elfenkraft-ds"
@@ -22,14 +22,14 @@ language: "de"
 # Erwecke deine Elfenkraft
 
 > Product ID `54694` · Digistore24 productId `643414` · [HTML profile page](../../produkte/erwecke-deine-elfenkraft-54694.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $29.26 (Single payment) |
+| Price | $29.28 (Single payment) |
 | Affiliate commission | 20% |
 | Earnings/sale* | $5.85 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | DreamElfe |
 | Listed since | 2025-10-23 |
 | Auto-accept affiliates | yes |
-| Categories | Online Marketing & E-Business, Personal Development, Spiri­tua­lity & Esotericism |
+| Categories | Personal Development, Spiri­tua­lity & Esotericism, Online Marketing & E-Business |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -66,14 +66,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Erwecke deine Elfenkraft? — Typ: E-books, Anbieter: DreamElfe, gelistet seit 2025-10-23
-- Wie viel kostet es? — 29.260677000000005 USD
+- Wie viel kostet es? — 29.278996000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Erwecke deine Elfenkraft Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/643414
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/643414/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Erwecke%20deine%20Elfenkraft
 
 ## 4. Editorial notes

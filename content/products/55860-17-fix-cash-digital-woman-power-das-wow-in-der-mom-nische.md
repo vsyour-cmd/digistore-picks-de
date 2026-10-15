@@ -4,16 +4,16 @@ digistore24_product_id: 673888
 title: "17€ FIX-CASH - Digital.Woman.Power Das Wow in der Mom Nische"
 vendor: "DWPCaro"
 product_type: "E-books"
-price: 51.2
+price: 51.23
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 19.01
+earnings_per_sale: 19.02
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children","Online Marketing & E-Business","Marketing Services"]
 listed_since: "2026-03-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.digitalwomanpower.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.digitalwomanpower.de/"
@@ -22,16 +22,16 @@ language: "de"
 # 17€ FIX-CASH - Digital.Woman.Power Das Wow in der Mom Nische
 
 > Product ID `55860` · Digistore24 productId `673888` · [HTML profile page](../../produkte/17-fix-cash-digital-woman-power-das-wow-in-der-mom-nische-55860.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $51.20 (Single payment) |
+| Price | $51.23 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $19.01 |
+| Earnings/sale* | $19.02 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DWPCaro |
@@ -90,14 +90,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 17€ FIX-CASH - Digital.Woman.Power Das Wow in der Mom Nische? — Typ: E-books, Anbieter: DWPCaro, gelistet seit 2026-03-05
-- Wie viel kostet es? — 51.197799 USD
+- Wie viel kostet es? — 51.229852 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 17€ FIX-CASH - Digital.Woman.Power Das Wow in der Mom Nische Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/673888
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/673888/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=17%E2%82%AC%20FIX-CASH%20-%20Digital.Woman.Power%20Das%20Wow%20in%20der%20Mom%20Nische
 
 ## 4. Editorial notes

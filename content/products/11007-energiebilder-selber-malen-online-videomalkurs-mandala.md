@@ -4,34 +4,34 @@ digistore24_product_id: 74631
 title: "\"Energiebilder selber malen\" Online Videomalkurs \"Mandala\""
 vendor: "RaulFalco"
 product_type: "Member area and video courses"
-price: 74.23
+price: 74.28
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 22.27
+earnings_per_sale: 22.29
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2016-03-10"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/11007/adminstore/"
+promo_link: "http://energiebilder-selber-malen.de/index.php?page_id=639&aff=adminstore#aff=adminstore"
 sales_page: "http://energiebilder-selber-malen.de/index.php?page_id=639"
 language: "de"
 ---
 # "Energiebilder selber malen" Online Videomalkurs "Mandala"
 
 > Product ID `11007` · Digistore24 productId `74631` · [HTML profile page](../../produkte/energiebilder-selber-malen-online-videomalkurs-mandala-11007.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $74.23 (Single payment) |
+| Price | $74.28 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $22.27 |
+| Earnings/sale* | $22.29 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | RaulFalco |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/11007/adminstore/
+- **Promo link (affiliate):** http://energiebilder-selber-malen.de/index.php?page_id=639&aff=adminstore#aff=adminstore
 - Sales page: http://energiebilder-selber-malen.de/index.php?page_id=639
 - Vendor affiliate support: https://energiebilder-selber-malen.de/affiliate-info/
 - Canonical redirect: https://www.digistore24.com/redir/74631/adminstore
@@ -100,14 +100,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist "Energiebilder selber malen" Online Videomalkurs "Mandala"? — Typ: Member area and video courses, Anbieter: RaulFalco, gelistet seit 2016-03-10
-- Wie viel kostet es? — 74.230659 USD
+- Wie viel kostet es? — 74.27713200000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: "Energiebilder selber malen" Online Videomalkurs "Mandala" Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/74631
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/74631/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=%22Energiebilder%20selber%20malen%22%20Online%20Videomalkurs%20%22Mandala%22
 
 ## 4. Editorial notes

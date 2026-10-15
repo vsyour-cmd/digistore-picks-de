@@ -4,7 +4,7 @@ digistore24_product_id: 740720
 title: "Kredit und Schufa leicht gemacht – Ratgeber + Kredit-Rechner"
 vendor: "ratgeberleichtgemacht"
 product_type: "E-books"
-price: 20.8
+price: 20.81
 currency: "USD"
 affiliate_commission_pct: 40
 earnings_per_sale: 8.32
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Law & Justice","Finances"]
 listed_since: "2026-10-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/60381/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/740720?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/740720"
 language: "de"
 ---
 # Kredit und Schufa leicht gemacht – Ratgeber + Kredit-Rechner
 
 > Product ID `60381` · Digistore24 productId `740720` · [HTML profile page](../../produkte/kredit-und-schufa-leicht-gemacht-ratgeber-kredit-rechner-60381.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.80 (Single payment) |
+| Price | $20.81 (Single payment) |
 | Affiliate commission | 40% |
 | Earnings/sale* | $8.32 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/60381/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/740720?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/740720
 - Canonical redirect: https://www.digistore24.com/redir/740720/adminstore
 
@@ -80,14 +80,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Kredit und Schufa leicht gemacht – Ratgeber + Kredit-Rechner? — Typ: E-books, Anbieter: ratgeberleichtgemacht, gelistet seit 2026-10-07
-- Wie viel kostet es? — 20.796660000000003 USD
+- Wie viel kostet es? — 20.80968 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Kredit und Schufa leicht gemacht – Ratgeber + Kredit-Rechner Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/740720
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/740720/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Kredit%20und%20Schufa%20leicht%20gemacht%20%E2%80%93%20Ratgeber%20%2B%20Kredit-Rechner
 
 ## 4. Editorial notes

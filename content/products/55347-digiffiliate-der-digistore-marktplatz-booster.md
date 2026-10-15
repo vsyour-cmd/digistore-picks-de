@@ -12,17 +12,17 @@ cart_conversion_pct: 39
 cancel_rate_pct: 0
 categories: ["Software","Marketing Services"]
 listed_since: "2026-01-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
-promo_link: "https://lowcarbcamp.de/exklusive-voranmeldung-challenge/#aff=adminstore"
+promo_link: "https://digiffiliate.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://digiffiliate.com/"
 language: "de"
 ---
 # Digiffiliate – Der Digistore Marktplatz-Booster
 
 > Product ID `55347` · Digistore24 productId `659704` · [HTML profile page](../../produkte/digiffiliate-der-digistore-marktplatz-booster-55347.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://lowcarbcamp.de/exklusive-voranmeldung-challenge/#aff=adminstore
+- **Promo link (affiliate):** https://digiffiliate.com/?aff=adminstore#aff=adminstore
 - Sales page: https://digiffiliate.com/
 - Vendor affiliate support: https://digiffiliate.com/partner
 - Canonical redirect: https://www.digistore24.com/redir/659704/adminstore
@@ -61,14 +61,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Digiffiliate – Der Digistore Marktplatz-Booster? — Typ: Software, Anbieter: digiffiliateapp, gelistet seit 2026-01-07
-- Wie viel kostet es? — 1.90077 USD
+- Wie viel kostet es? — 1.9019599999999999 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Digiffiliate – Der Digistore Marktplatz-Booster Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/659704
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/659704/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Digiffiliate%20%E2%80%93%20Der%20Digistore%20Marktplatz-Booster
 
 ## 4. Editorial notes

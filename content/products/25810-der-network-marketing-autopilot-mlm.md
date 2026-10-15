@@ -4,16 +4,16 @@ digistore24_product_id: 445879
 title: "Der Network Marketing Autopilot - MLM"
 vendor: "teamlifebydesign"
 product_type: "Member area and video courses"
-price: 77.15
+price: 77.2
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 19.29
+earnings_per_sale: 19.3
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2022-06-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://go.wirbauendeinedownlineauf.de/inziders-ds-1?aff=adminstore#aff=adminstore"
 sales_page: "https://go.wirbauendeinedownlineauf.de/inziders-ds-1"
@@ -22,16 +22,16 @@ language: "de"
 # Der Network Marketing Autopilot - MLM
 
 > Product ID `25810` · Digistore24 productId `445879` · [HTML profile page](../../produkte/der-network-marketing-autopilot-mlm-25810.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $77.15 (Subscription) |
+| Price | $77.20 (Subscription) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $19.29 |
+| Earnings/sale* | $19.30 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | teamlifebydesign |
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Network Marketing Autopilot - MLM? — Typ: Member area and video courses, Anbieter: teamlifebydesign, gelistet seit 2022-06-07
-- Wie viel kostet es? — 77.14890000000001 USD
+- Wie viel kostet es? — 77.1972 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Der Network Marketing Autopilot - MLM Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/445879
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/445879/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%20Network%20Marketing%20Autopilot%20-%20MLM
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 408648
 title: "Das Super-Affiliate-Partnerprogramm der Finest Audience"
 vendor: "FinestAudience"
 product_type: "Member area and video courses"
-price: 669.74
+price: 670.16
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 334.87
+earnings_per_sale: 335.08
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2021-09-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://www.digistore24.com/redir/408648/adminstore"
 sales_page: "https://finest-audience.de/partnerprogramm/?fp=[fp]&aff=[AFFILIATE]"
@@ -22,16 +22,16 @@ language: "de"
 # Das Super-Affiliate-Partnerprogramm der Finest Audience
 
 > Product ID `37820` · Digistore24 productId `408648` · [HTML profile page](../../produkte/das-super-affiliate-partnerprogramm-der-finest-audience-37820.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $669.74 (Single payment) |
+| Price | $670.16 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $334.87 |
+| Earnings/sale* | $335.08 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | FinestAudience |
@@ -59,14 +59,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Super-Affiliate-Partnerprogramm der Finest Audience? — Typ: Member area and video courses, Anbieter: FinestAudience, gelistet seit 2021-09-22
-- Wie viel kostet es? — 669.7419000000001 USD
+- Wie viel kostet es? — 670.1612 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Das Super-Affiliate-Partnerprogramm der Finest Audience Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/408648
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/408648/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Das%20Super-Affiliate-Partnerprogramm%20der%20Finest%20Audience
 
 ## 4. Editorial notes

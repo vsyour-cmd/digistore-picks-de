@@ -12,17 +12,17 @@ cart_conversion_pct: 18
 cancel_rate_pct: 2.71
 categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2025-09-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/54069/adminstore/"
+promo_link: "https://affiliforge.net/Affiliate-Code?aff=adminstore#aff=adminstore"
 sales_page: "https://affiliforge.net/Affiliate-Code"
 language: "de"
 ---
 # Affiliate Code 2.0 - Kostenlose Masterclass
 
 > Product ID `54069` · Digistore24 productId `635690` · [HTML profile page](../../produkte/affiliate-code-2-0-kostenlose-masterclass-54069.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/54069/adminstore/
+- **Promo link (affiliate):** https://affiliforge.net/Affiliate-Code?aff=adminstore#aff=adminstore
 - Sales page: https://affiliforge.net/Affiliate-Code
 - Vendor affiliate support: https://affiliforge.net/AffiliForge-Partnerportal
 - Canonical redirect: https://www.digistore24.com/redir/635690/adminstore
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Affiliate Code 2.0 - Kostenlose Masterclass? — Typ: Member area and video courses, Anbieter: AffiliForge, gelistet seit 2025-09-15
-- Wie viel kostet es? — 2.448639 USD
+- Wie viel kostet es? — 2.450172 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Affiliate Code 2.0 - Kostenlose Masterclass Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/635690
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/635690/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Affiliate%20Code%202.0%20-%20Kostenlose%20Masterclass
 
 ## 4. Editorial notes

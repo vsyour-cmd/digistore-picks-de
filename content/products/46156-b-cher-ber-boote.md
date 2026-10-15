@@ -4,16 +4,16 @@ digistore24_product_id: 468129
 title: "Bücher über Boote"
 vendor: "Yachtinside"
 product_type: "Book (printed)"
-price: 55.48
+price: 55.51
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 10.61
+earnings_per_sale: 10.62
 cart_conversion_pct: 11
 cancel_rate_pct: 0.68
-categories: ["Education","Hobby & Craft","Travel & Culture"]
+categories: ["Travel & Culture","Education","Hobby & Craft"]
 listed_since: "2022-11-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://yachtinside.de/eundprint/?aff=adminstore#aff=adminstore"
 sales_page: "https://yachtinside.de/eundprint/"
@@ -22,22 +22,22 @@ language: "de"
 # Bücher über Boote
 
 > Product ID `46156` · Digistore24 productId `468129` · [HTML profile page](../../produkte/b-cher-ber-boote-46156.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $55.48 (Single payment) |
+| Price | $55.51 (Single payment) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $10.61 |
+| Earnings/sale* | $10.62 |
 | Cart conversion* | 11% |
 | Cancel rate* | 0.68% |
 | Vendor | Yachtinside |
 | Listed since | 2022-11-04 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Hobby & Craft, Travel & Culture |
+| Categories | Travel & Culture, Education, Hobby & Craft |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Bücher über Boote? — Typ: Book (printed), Anbieter: Yachtinside, gelistet seit 2022-11-04
-- Wie viel kostet es? — 55.480122 USD
+- Wie viel kostet es? — 55.514855999999995 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Bücher über Boote Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/468129
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/468129/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=B%C3%BCcher%20%C3%BCber%20Boote
 
 ## 4. Editorial notes

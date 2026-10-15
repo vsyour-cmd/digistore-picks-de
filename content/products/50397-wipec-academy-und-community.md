@@ -4,32 +4,32 @@ digistore24_product_id: 23837
 title: "WiPeC-Academy und Community"
 vendor: "wipec100"
 product_type: "Downloads"
-price: 18.69
+price: 18.71
 currency: "USD"
 affiliate_commission_pct: 45
 earnings_per_sale: 8.41
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Personal Development","Profession & Job"]
+categories: ["Personal Development","Profession & Job","Education"]
 listed_since: "2014-04-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/50397/adminstore/"
+promo_link: "https://wipec.de/academy/?aff=adminstore#aff=adminstore"
 sales_page: "https://wipec.de/academy/"
 language: "de"
 ---
 # WiPeC-Academy und Community
 
 > Product ID `50397` · Digistore24 productId `23837` · [HTML profile page](../../produkte/wipec-academy-und-community-50397.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $18.69 (Subscription) |
+| Price | $18.71 (Subscription) |
 | Affiliate commission | 45% |
 | Earnings/sale* | $8.41 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | wipec100 |
 | Listed since | 2014-04-07 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Personal Development, Profession & Job |
+| Categories | Personal Development, Profession & Job, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/50397/adminstore/
+- **Promo link (affiliate):** https://wipec.de/academy/?aff=adminstore#aff=adminstore
 - Sales page: https://wipec.de/academy/
 - Canonical redirect: https://www.digistore24.com/redir/23837/adminstore
 
@@ -78,14 +78,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist WiPeC-Academy und Community? — Typ: Downloads, Anbieter: wipec100, gelistet seit 2014-04-07
-- Wie viel kostet es? — 18.694632 USD
+- Wie viel kostet es? — 18.706336 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: WiPeC-Academy und Community Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/23837
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/23837/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=WiPeC-Academy%20und%20Community
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 609765
 title: "4-Wochen-Money-Reset"
 vendor: "Glareena"
 product_type: "Member area and video courses"
-price: 30.19
+price: 30.21
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 15.09
+earnings_per_sale: 15.1
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2025-04-28"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://gluecksmomente-jeden-tag.com/money-reset?aff=adminstore#aff=adminstore"
 sales_page: "https://gluecksmomente-jeden-tag.com/money-reset"
@@ -22,16 +22,16 @@ language: "de"
 # 4-Wochen-Money-Reset
 
 > Product ID `54454` · Digistore24 productId `609765` · [HTML profile page](../../produkte/4-wochen-money-reset-54454.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $30.19 (Single payment) |
+| Price | $30.21 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $15.09 |
+| Earnings/sale* | $15.10 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Glareena |
@@ -84,14 +84,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 4-Wochen-Money-Reset? — Typ: Member area and video courses, Anbieter: Glareena, gelistet seit 2025-04-28
-- Wie viel kostet es? — 30.188700000000004 USD
+- Wie viel kostet es? — 30.2076 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 4-Wochen-Money-Reset Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/609765
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/609765/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=4-Wochen-Money-Reset
 
 ## 4. Editorial notes

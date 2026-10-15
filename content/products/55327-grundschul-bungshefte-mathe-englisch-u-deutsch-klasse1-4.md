@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2026-01-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/55327/adminstore/"
+promo_link: "https://page.funnelcockpit.com/8mtH2TP6uyAJ3XAvQ?aff=adminstore#aff=adminstore"
 sales_page: "https://page.funnelcockpit.com/8mtH2TP6uyAJ3XAvQ"
 language: "de"
 ---
 # Grundschul-Übungshefte: Mathe, Englisch u. Deutsch Klasse1-4
 
 > Product ID `55327` · Digistore24 productId `663677` · [HTML profile page](../../produkte/grundschul-bungshefte-mathe-englisch-u-deutsch-klasse1-4-55327.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55327/adminstore/
+- **Promo link (affiliate):** https://page.funnelcockpit.com/8mtH2TP6uyAJ3XAvQ?aff=adminstore#aff=adminstore
 - Sales page: https://page.funnelcockpit.com/8mtH2TP6uyAJ3XAvQ
 - Vendor affiliate support: https://page.funnelcockpit.com/4vj52wFP75RPFHMvq
 - Canonical redirect: https://www.digistore24.com/redir/663677/adminstore
@@ -66,7 +66,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Grundschul-Übungshefte: Mathe, Englisch u. Deutsch Klasse1-4 Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/663677
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/663677/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Grundschul-%C3%9Cbungshefte%3A%20Mathe%2C%20Englisch%20u.%20Deutsch%20Klasse1-4
 
 ## 4. Editorial notes

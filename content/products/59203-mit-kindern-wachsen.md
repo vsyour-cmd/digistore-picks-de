@@ -7,22 +7,22 @@ product_type: "E-books"
 price: 5.18
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 2.59
+earnings_per_sale: 2.6
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children","Marketing Services"]
 listed_since: "2026-09-13"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
-promo_link: "https://www.digistore24.com/redir/59203/adminstore/"
+promo_link: "https://mit-kinder-wachsen.my.canva.site/?aff=adminstore#aff=adminstore"
 sales_page: "https://mit-kinder-wachsen.my.canva.site/"
 language: "de"
 ---
 # Mit Kindern wachsen
 
 > Product ID `59203` · Digistore24 productId `728038` · [HTML profile page](../../produkte/mit-kindern-wachsen-59203.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,7 @@ language: "de"
 | Product type | E-books |
 | Price | $5.18 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $2.59 |
+| Earnings/sale* | $2.60 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | wissenskind |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59203/adminstore/
+- **Promo link (affiliate):** https://mit-kinder-wachsen.my.canva.site/?aff=adminstore#aff=adminstore
 - Sales page: https://mit-kinder-wachsen.my.canva.site/
 - Canonical redirect: https://www.digistore24.com/redir/728038/adminstore
 
@@ -59,14 +59,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mit Kindern wachsen? — Typ: E-books, Anbieter: wissenskind, gelistet seit 2026-09-13
-- Wie viel kostet es? — 5.1768030000000005 USD
+- Wie viel kostet es? — 5.180044 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Mit Kindern wachsen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/728038
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/728038/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Mit%20Kindern%20wachsen
 
 ## 4. Editorial notes

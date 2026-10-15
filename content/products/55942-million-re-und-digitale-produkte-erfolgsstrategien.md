@@ -4,16 +4,16 @@ digistore24_product_id: 674269
 title: "Millionäre und digitale Produkte – Erfolgsstrategien"
 vendor: "Tradeventures"
 product_type: "E-books"
-price: 110.69
+price: 110.76
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 55.35
+earnings_per_sale: 55.38
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Profession & Job","Online Marketing"]
 listed_since: "2026-03-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "http://www.tradeventures.de?aff=adminstore#aff=adminstore"
 sales_page: "http://www.tradeventures.de"
@@ -22,16 +22,16 @@ language: "de"
 # Millionäre und digitale Produkte – Erfolgsstrategien
 
 > Product ID `55942` · Digistore24 productId `674269` · [HTML profile page](../../produkte/million-re-und-digitale-produkte-erfolgsstrategien-55942.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $110.69 (Single payment) |
+| Price | $110.76 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $55.35 |
+| Earnings/sale* | $55.38 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Tradeventures |
@@ -66,14 +66,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Millionäre und digitale Produkte – Erfolgsstrategien? — Typ: E-books, Anbieter: Tradeventures, gelistet seit 2026-03-06
-- Wie viel kostet es? — 110.6919 USD
+- Wie viel kostet es? — 110.7612 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Millionäre und digitale Produkte – Erfolgsstrategien Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/674269
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/674269/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Million%C3%A4re%20und%20digitale%20Produkte%20%E2%80%93%20Erfolgsstrategien
 
 ## 4. Editorial notes

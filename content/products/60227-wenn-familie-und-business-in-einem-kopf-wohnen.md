@@ -4,40 +4,40 @@ digistore24_product_id: 734333
 title: "Wenn Familie und Business in einem Kopf wohnen"
 vendor: "businessdesignrocks"
 product_type: "Member area and video courses"
-price: 32.42
+price: 32.45
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 16.21
+earnings_per_sale: 16.22
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Business & Investment","Family & Children","Personal Development"]
+categories: ["Personal Development","Business & Investment","Family & Children"]
 listed_since: "2026-10-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/redir/60227/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/734333?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/734333"
 language: "de"
 ---
 # Wenn Familie und Business in einem Kopf wohnen
 
 > Product ID `60227` · Digistore24 productId `734333` · [HTML profile page](../../produkte/wenn-familie-und-business-in-einem-kopf-wohnen-60227.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $32.42 (Single payment) |
+| Price | $32.45 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $16.21 |
+| Earnings/sale* | $16.22 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | businessdesignrocks |
 | Listed since | 2026-10-06 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Family & Children, Personal Development |
+| Categories | Personal Development, Business & Investment, Family & Children |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/redir/60227/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/734333?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/734333
 - Canonical redirect: https://www.digistore24.com/redir/734333/adminstore
 
@@ -82,14 +82,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Wenn Familie und Business in einem Kopf wohnen? — Typ: Member area and video courses, Anbieter: businessdesignrocks, gelistet seit 2026-10-06
-- Wie viel kostet es? — 32.4249 USD
+- Wie viel kostet es? — 32.4452 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Wenn Familie und Business in einem Kopf wohnen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/734333
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/734333/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Wenn%20Familie%20und%20Business%20in%20einem%20Kopf%20wohnen
 
 ## 4. Editorial notes

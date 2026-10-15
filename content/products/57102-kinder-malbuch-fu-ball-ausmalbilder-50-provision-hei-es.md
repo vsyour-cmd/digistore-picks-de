@@ -4,16 +4,16 @@ digistore24_product_id: 703474
 title: "Kinder Malbuch Fußball Ausmalbilder – 50% Provision | Heißes"
 vendor: "manuelcosta"
 product_type: "Downloads"
-price: 9.38
+price: 9.39
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 4.7
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Family & Children","Sport"]
+categories: ["Family & Children","Education","Sport"]
 listed_since: "2026-06-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://fussballcoloring.netlify.app/?aff=adminstore#aff=adminstore"
 sales_page: "https://fussballcoloring.netlify.app/"
@@ -22,14 +22,14 @@ language: "de"
 # Kinder Malbuch Fußball Ausmalbilder – 50% Provision | Heißes
 
 > Product ID `57102` · Digistore24 productId `703474` · [HTML profile page](../../produkte/kinder-malbuch-fu-ball-ausmalbilder-50-provision-hei-es-57102.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $9.38 (Single payment) |
+| Price | $9.39 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $4.70 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | manuelcosta |
 | Listed since | 2026-06-22 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Family & Children, Sport |
+| Categories | Family & Children, Education, Sport |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -83,14 +83,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Kinder Malbuch Fußball Ausmalbilder – 50% Provision | Heißes? — Typ: Downloads, Anbieter: manuelcosta, gelistet seit 2026-06-22
-- Wie viel kostet es? — 9.380859000000001 USD
+- Wie viel kostet es? — 9.386732 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Kinder Malbuch Fußball Ausmalbilder – 50% Provision | Heißes Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/703474
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/703474/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Kinder%20Malbuch%20Fu%C3%9Fball%20Ausmalbilder%20%E2%80%93%2050%25%20Provision%20%7C%20Hei%C3%9Fes
 
 ## 4. Editorial notes

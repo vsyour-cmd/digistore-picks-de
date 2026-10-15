@@ -4,34 +4,34 @@ digistore24_product_id: 387680
 title: "ARMLÄNGENTEST (Kinesiologie)"
 vendor: "PLUCINSKYS"
 product_type: "Webinar"
-price: 70.47
+price: 70.52
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 17.62
+earnings_per_sale: 17.63
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2021-05-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/36647/adminstore/"
+promo_link: "https://plucinskys-onlinekurse.coachy.net/lp/armlangentest-kurs-online/?aff=adminstore#aff=adminstore"
 sales_page: "https://plucinskys-onlinekurse.coachy.net/lp/armlangentest-kurs-online/"
 language: "de"
 ---
 # ARMLÄNGENTEST (Kinesiologie)
 
 > Product ID `36647` · Digistore24 productId `387680` · [HTML profile page](../../produkte/arml-ngentest-kinesiologie-36647.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Webinar |
-| Price | $70.47 (Single payment) |
+| Price | $70.52 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $17.62 |
+| Earnings/sale* | $17.63 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | PLUCINSKYS |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/36647/adminstore/
+- **Promo link (affiliate):** https://plucinskys-onlinekurse.coachy.net/lp/armlangentest-kurs-online/?aff=adminstore#aff=adminstore
 - Sales page: https://plucinskys-onlinekurse.coachy.net/lp/armlangentest-kurs-online/
 - Canonical redirect: https://www.digistore24.com/redir/387680/adminstore
 
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist ARMLÄNGENTEST (Kinesiologie)? — Typ: Webinar, Anbieter: PLUCINSKYS, gelistet seit 2021-05-01
-- Wie viel kostet es? — 70.473843 USD
+- Wie viel kostet es? — 70.517964 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: ARMLÄNGENTEST (Kinesiologie) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/387680
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/387680/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=ARML%C3%84NGENTEST%20(Kinesiologie)
 
 ## 4. Editorial notes

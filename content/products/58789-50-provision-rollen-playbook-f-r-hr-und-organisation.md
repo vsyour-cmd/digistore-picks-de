@@ -4,34 +4,34 @@ digistore24_product_id: 692789
 title: "50 % Provision: Rollen-Playbook für HR und Organisation"
 vendor: "ralph70eb"
 product_type: "Downloads"
-price: 215.17
+price: 215.3
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 107.58
+earnings_per_sale: 107.65
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Leadership & Management","Project Management"]
 listed_since: "2026-08-31"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/58789/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/692789?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/692789"
 language: "de"
 ---
 # 50 % Provision: Rollen-Playbook für HR und Organisation
 
 > Product ID `58789` · Digistore24 productId `692789` · [HTML profile page](../../produkte/50-provision-rollen-playbook-f-r-hr-und-organisation-58789.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $215.17 (Single payment) |
+| Price | $215.30 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $107.58 |
+| Earnings/sale* | $107.65 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ralph70eb |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58789/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/692789?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/692789
 - Vendor affiliate support: https://navok.org/navok-partner-werden/
 - Canonical redirect: https://www.digistore24.com/redir/692789/adminstore
@@ -91,14 +91,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 50 % Provision: Rollen-Playbook für HR und Organisation? — Typ: Downloads, Anbieter: ralph70eb, gelistet seit 2026-08-31
-- Wie viel kostet es? — 215.167164 USD
+- Wie viel kostet es? — 215.301872 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 50 % Provision: Rollen-Playbook für HR und Organisation Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/692789
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/692789/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=50%20%25%20Provision%3A%20Rollen-Playbook%20f%C3%BCr%20HR%20und%20Organisation
 
 ## 4. Editorial notes

@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2026-09-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://markus-neff.app.mentortools.com/selbsthypnose-und-meditationen-verkauf?aff=adminstore#aff=adminstore"
 sales_page: "https://markus-neff.app.mentortools.com/selbsthypnose-und-meditationen-verkauf"
@@ -22,7 +22,7 @@ language: "de"
 # Angstfrei mit Hypnobreath® – Bestseller-Audio
 
 > Product ID `58964` · Digistore24 productId `692857` · [HTML profile page](../../produkte/angstfrei-mit-hypnobreath-bestseller-audio-58964.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -95,7 +95,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Angstfrei mit Hypnobreath® – Bestseller-Audio Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/692857
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/692857/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Angstfrei%20mit%20Hypnobreath%C2%AE%20%E2%80%93%20Bestseller-Audio
 
 ## 4. Editorial notes

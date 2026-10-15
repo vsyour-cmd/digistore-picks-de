@@ -4,40 +4,40 @@ digistore24_product_id: 720380
 title: "Rechenreise Band 2 – Rechen-Malbuch für die 2. Klasse (PDF)"
 vendor: "silviodante"
 product_type: "E-books"
-price: 28.21
+price: 28.23
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 14.11
+earnings_per_sale: 14.12
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Family & Children"]
+categories: ["Family & Children","Education"]
 listed_since: "2026-08-12"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/58298/adminstore/"
+promo_link: "https://www.digistore24.com/product/720380?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/720380"
 language: "de"
 ---
 # Rechenreise Band 2 – Rechen-Malbuch für die 2. Klasse (PDF)
 
 > Product ID `58298` · Digistore24 productId `720380` · [HTML profile page](../../produkte/rechenreise-band-2-rechen-malbuch-f-r-die-2-klasse-pdf-58298.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $28.21 (Single payment) |
+| Price | $28.23 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $14.11 |
+| Earnings/sale* | $14.12 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | silviodante |
 | Listed since | 2026-08-12 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Family & Children |
+| Categories | Family & Children, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58298/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/720380?aff=adminstore
 - Sales page: https://www.digistore24.com/product/720380
 - Canonical redirect: https://www.digistore24.com/redir/720380/adminstore
 
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Rechenreise Band 2 – Rechen-Malbuch für die 2. Klasse (PDF)? — Typ: E-books, Anbieter: silviodante, gelistet seit 2026-08-12
-- Wie viel kostet es? — 28.209663000000003 USD
+- Wie viel kostet es? — 28.227324 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Rechenreise Band 2 – Rechen-Malbuch für die 2. Klasse (PDF) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/720380
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/720380/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Rechenreise%20Band%202%20%E2%80%93%20Rechen-Malbuch%20f%C3%BCr%20die%202.%20Klasse%20(PDF)
 
 ## 4. Editorial notes

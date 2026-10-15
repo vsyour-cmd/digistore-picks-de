@@ -4,16 +4,16 @@ digistore24_product_id: 26423
 title: "WeinSelberMachen.net"
 vendor: "serfanoo"
 product_type: "Downloads"
-price: 34.76
+price: 34.78
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 13.91
+earnings_per_sale: 13.92
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft"]
 listed_since: "2014-05-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "http://www.weinselbermachen.net?aff=adminstore#aff=adminstore"
 sales_page: "http://www.weinselbermachen.net"
@@ -22,16 +22,16 @@ language: "de"
 # WeinSelberMachen.net
 
 > Product ID `3701` · Digistore24 productId `26423` · [HTML profile page](../../produkte/weinselbermachen-net-3701.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $34.76 (Single payment) |
+| Price | $34.78 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $13.91 |
+| Earnings/sale* | $13.92 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | serfanoo |
@@ -88,14 +88,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist WeinSelberMachen.net? — Typ: Downloads, Anbieter: serfanoo, gelistet seit 2014-05-29
-- Wie viel kostet es? — 34.761729 USD
+- Wie viel kostet es? — 34.783492 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: WeinSelberMachen.net Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/26423
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/26423/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=WeinSelberMachen.net
 
 ## 4. Editorial notes

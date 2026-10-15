@@ -4,16 +4,16 @@ digistore24_product_id: 395441
 title: "Verlustangst überwinden / Eifersucht besiegen (Onlinekurs)"
 vendor: "wielandstolzenburg"
 product_type: "Member area and video courses"
-price: 507.37
+price: 507.69
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 171.32
+earnings_per_sale: 171.42
 cart_conversion_pct: 4
 cancel_rate_pct: 7.55
-categories: ["Dating, Relationships & Romance","Personal Development"]
+categories: ["Personal Development","Dating, Relationships & Romance"]
 listed_since: "2021-06-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://kurse.wielandstolzenburg.de/lp/verlustangst-ueberwinden?aff=adminstore#aff=adminstore"
 sales_page: "https://kurse.wielandstolzenburg.de/lp/verlustangst-ueberwinden"
@@ -22,22 +22,22 @@ language: "de"
 # Verlustangst überwinden / Eifersucht besiegen (Onlinekurs)
 
 > Product ID `37344` · Digistore24 productId `395441` · [HTML profile page](../../produkte/verlustangst-berwinden-eifersucht-besiegen-onlinekurs-37344.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $507.37 (Single payment, Installment) |
+| Price | $507.69 (Single payment, Installment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $171.32 |
+| Earnings/sale* | $171.42 |
 | Cart conversion* | 4% |
 | Cancel rate* | 7.55% |
 | Vendor | wielandstolzenburg |
 | Listed since | 2021-06-23 |
 | Auto-accept affiliates | no (approval required) |
-| Categories | Dating, Relationships & Romance, Personal Development |
+| Categories | Personal Development, Dating, Relationships & Romance |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -97,14 +97,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Verlustangst überwinden / Eifersucht besiegen (Onlinekurs)? — Typ: Member area and video courses, Anbieter: wielandstolzenburg, gelistet seit 2021-06-23
-- Wie viel kostet es? — 507.371418 USD
+- Wie viel kostet es? — 507.689064 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Verlustangst überwinden / Eifersucht besiegen (Onlinekurs) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/395441
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/395441/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Verlustangst%20%C3%BCberwinden%20%2F%20Eifersucht%20besiegen%20(Onlinekurs)
 
 ## 4. Editorial notes

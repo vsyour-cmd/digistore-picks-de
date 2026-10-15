@@ -4,16 +4,16 @@ digistore24_product_id: 384784
 title: "AZAV Online-Akademie - Prozesse in der AZAV"
 vendor: "UrsulaWienken"
 product_type: "Webinar"
-price: 149.39
+price: 149.48
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 44.81
+earnings_per_sale: 44.84
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Leadership & Management"]
 listed_since: "2021-04-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://mq-gesellschaft-koeln.coachy.net/lp/azav-konforme-prozesse-definieren?aff=adminstore#aff=adminstore"
 sales_page: "https://mq-gesellschaft-koeln.coachy.net/lp/azav-konforme-prozesse-definieren"
@@ -22,16 +22,16 @@ language: "de"
 # AZAV Online-Akademie - Prozesse in der AZAV
 
 > Product ID `36522` · Digistore24 productId `384784` · [HTML profile page](../../produkte/azav-online-akademie-prozesse-in-der-azav-36522.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Webinar |
-| Price | $149.39 (Single payment) |
+| Price | $149.48 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $44.81 |
+| Earnings/sale* | $44.84 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | UrsulaWienken |
@@ -80,14 +80,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist AZAV Online-Akademie - Prozesse in der AZAV? — Typ: Webinar, Anbieter: UrsulaWienken, gelistet seit 2021-04-15
-- Wie viel kostet es? — 149.38934100000003 USD
+- Wie viel kostet es? — 149.48286800000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: AZAV Online-Akademie - Prozesse in der AZAV Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/384784
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/384784/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=AZAV%20Online-Akademie%20-%20Prozesse%20in%20der%20AZAV
 
 ## 4. Editorial notes

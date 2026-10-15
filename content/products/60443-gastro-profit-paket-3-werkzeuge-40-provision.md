@@ -4,40 +4,40 @@ digistore24_product_id: 744084
 title: "Gastro-Profit-Paket: 3 Werkzeuge, 40 % Provision"
 vendor: "precoria"
 product_type: "Downloads"
-price: 232.07
+price: 232.22
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 92.82
+earnings_per_sale: 92.88
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: []
+categories: ["Business & Investment","Hotels & Gastronomy","Finances"]
 listed_since: "2026-10-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/60443/adminstore/"
+promo_link: "https://precoria.de/vorlagen/gastro-profit-paket?aff=adminstore#aff=adminstore"
 sales_page: "https://precoria.de/vorlagen/gastro-profit-paket"
 language: "de"
 ---
 # Gastro-Profit-Paket: 3 Werkzeuge, 40 % Provision
 
 > Product ID `60443` · Digistore24 productId `744084` · [HTML profile page](../../produkte/gastro-profit-paket-3-werkzeuge-40-provision-60443.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $232.07 (Single payment) |
+| Price | $232.22 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $92.82 |
+| Earnings/sale* | $92.88 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | precoria |
 | Listed since | 2026-10-09 |
 | Auto-accept affiliates | yes |
-| Categories | Uncategorized |
+| Categories | Business & Investment, Hotels & Gastronomy, Finances |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/60443/adminstore/
+- **Promo link (affiliate):** https://precoria.de/vorlagen/gastro-profit-paket?aff=adminstore#aff=adminstore
 - Sales page: https://precoria.de/vorlagen/gastro-profit-paket
 - Vendor affiliate support: https://precoria.de/partner/affiliate
 - Canonical redirect: https://www.digistore24.com/redir/744084/adminstore
@@ -84,14 +84,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Gastro-Profit-Paket: 3 Werkzeuge, 40 % Provision? — Typ: Downloads, Anbieter: precoria, gelistet seit 2026-10-09
-- Wie viel kostet es? — 232.07283600000002 USD
+- Wie viel kostet es? — 232.218128 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Gastro-Profit-Paket: 3 Werkzeuge, 40 % Provision Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/744084
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/744084/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Gastro-Profit-Paket%3A%203%20Werkzeuge%2C%2040%20%25%20Provision
 
 ## 4. Editorial notes

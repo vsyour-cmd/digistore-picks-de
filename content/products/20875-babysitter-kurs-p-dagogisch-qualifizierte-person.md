@@ -4,34 +4,34 @@ digistore24_product_id: 116929
 title: "Babysitter-Kurs: \"Pädagogisch qualifizierte Person\""
 vendor: "IT-Projekte"
 product_type: "Downloads"
-price: 184.49
+price: 184.6
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 92.24
+earnings_per_sale: 92.3
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2017-02-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "http://start.norbert-kloiber.at/xibutler-sp/#aff=adminstore"
+promo_link: "https://www.abc-kinderbetreuung.at/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.abc-kinderbetreuung.at/"
 language: "de"
 ---
 # Babysitter-Kurs: "Pädagogisch qualifizierte Person"
 
 > Product ID `20875` · Digistore24 productId `116929` · [HTML profile page](../../produkte/babysitter-kurs-p-dagogisch-qualifizierte-person-20875.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $184.49 (Single payment, Installment) |
+| Price | $184.60 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $92.24 |
+| Earnings/sale* | $92.30 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | IT-Projekte |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://start.norbert-kloiber.at/xibutler-sp/#aff=adminstore
+- **Promo link (affiliate):** https://www.abc-kinderbetreuung.at/?aff=adminstore#aff=adminstore
 - Sales page: https://www.abc-kinderbetreuung.at/
 - Vendor affiliate support: https://www.abc-kinderbetreuung.at/partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/116929/adminstore
@@ -97,14 +97,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Babysitter-Kurs: "Pädagogisch qualifizierte Person"? — Typ: Downloads, Anbieter: IT-Projekte, gelistet seit 2017-02-01
-- Wie viel kostet es? — 184.4865 USD
+- Wie viel kostet es? — 184.602 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Babysitter-Kurs: "Pädagogisch qualifizierte Person" Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/116929
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/116929/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Babysitter-Kurs%3A%20%22P%C3%A4dagogisch%20qualifizierte%20Person%22
 
 ## 4. Editorial notes

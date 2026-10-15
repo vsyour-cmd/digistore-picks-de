@@ -4,16 +4,16 @@ digistore24_product_id: 733894
 title: "UGC Creator werden lernen: Vom ersten Clip zum eigenen Angebot"
 vendor: "einfachmitmatze"
 product_type: "Downloads"
-price: 121.2
+price: 121.28
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 60.6
+earnings_per_sale: 60.64
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-09-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://einfachmitmatze.de/ugc/?aff=adminstore#aff=adminstore"
 sales_page: "https://einfachmitmatze.de/ugc/"
@@ -22,16 +22,16 @@ language: "de"
 # UGC Creator werden lernen: Vom ersten Clip zum eigenen Angebot
 
 > Product ID `59266` · Digistore24 productId `733894` · [HTML profile page](../../produkte/ugc-creator-werden-lernen-vom-ersten-clip-zum-eigenen-angebot-59266.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $121.20 (Single payment) |
+| Price | $121.28 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $60.60 |
+| Earnings/sale* | $60.64 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | einfachmitmatze |
@@ -98,14 +98,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist UGC Creator werden lernen: Vom ersten Clip zum eigenen Angebot? — Typ: Downloads, Anbieter: einfachmitmatze, gelistet seit 2026-09-16
-- Wie viel kostet es? — 121.20204000000001 USD
+- Wie viel kostet es? — 121.27792000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: UGC Creator werden lernen: Vom ersten Clip zum eigenen Angebot Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/733894
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/733894/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=UGC%20Creator%20werden%20lernen%3A%20Vom%20ersten%20Clip%20zum%20eigenen%20Angebot
 
 ## 4. Editorial notes

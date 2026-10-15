@@ -4,34 +4,34 @@ digistore24_product_id: 528446
 title: "Horse Agility Grundkurs"
 vendor: "Horse-Balance"
 product_type: "Member area and video courses"
-price: 140.94
+price: 141.02
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 14.1
+earnings_per_sale: 14.11
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets","Animals & Pets"]
 listed_since: "2023-12-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/52703/adminstore/"
+promo_link: "https://www.digistore24.com/product/528446?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/528446"
 language: "de"
 ---
 # Horse Agility Grundkurs
 
 > Product ID `52703` · Digistore24 productId `528446` · [HTML profile page](../../produkte/horse-agility-grundkurs-52703.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $140.94 (Single payment) |
+| Price | $141.02 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $14.10 |
+| Earnings/sale* | $14.11 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Horse-Balance |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/52703/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/528446?aff=adminstore
 - Sales page: https://www.digistore24.com/product/528446
 - Canonical redirect: https://www.digistore24.com/redir/528446/adminstore
 
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Horse Agility Grundkurs? — Typ: Member area and video courses, Anbieter: Horse-Balance, gelistet seit 2023-12-05
-- Wie viel kostet es? — 140.936505 USD
+- Wie viel kostet es? — 141.02474 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Horse Agility Grundkurs Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/528446
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/528446/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Horse%20Agility%20Grundkurs
 
 ## 4. Editorial notes

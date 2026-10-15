@@ -4,16 +4,16 @@ digistore24_product_id: 348600
 title: "Vermisste Tiere Spezial Online Kurs"
 vendor: "Andrea1A"
 product_type: "Member area and video courses"
-price: 111.81
+price: 111.88
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 27.95
+earnings_per_sale: 27.97
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2020-09-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://tierakademie.andrea-schaedel.de/lp/vermisste-tiere-online/?aff=adminstore#aff=adminstore"
 sales_page: "https://tierakademie.andrea-schaedel.de/lp/vermisste-tiere-online/"
@@ -22,16 +22,16 @@ language: "de"
 # Vermisste Tiere Spezial Online Kurs
 
 > Product ID `37406` · Digistore24 productId `348600` · [HTML profile page](../../produkte/vermisste-tiere-spezial-online-kurs-37406.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $111.81 (Single payment) |
+| Price | $111.88 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $27.95 |
+| Earnings/sale* | $27.97 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Andrea1A |
@@ -100,14 +100,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Vermisste Tiere Spezial Online Kurs? — Typ: Member area and video courses, Anbieter: Andrea1A, gelistet seit 2020-09-18
-- Wie viel kostet es? — 111.81 USD
+- Wie viel kostet es? — 111.88 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Vermisste Tiere Spezial Online Kurs Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/348600
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/348600/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Vermisste%20Tiere%20Spezial%20Online%20Kurs
 
 ## 4. Editorial notes

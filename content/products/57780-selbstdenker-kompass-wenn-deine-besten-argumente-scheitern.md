@@ -4,16 +4,16 @@ digistore24_product_id: 712070
 title: "Selbstdenker-Kompass — Wenn deine besten Argumente scheitern"
 vendor: "Klartextkompass"
 product_type: "E-books"
-price: 39.18
+price: 39.2
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 11.75
+earnings_per_sale: 11.76
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2026-07-28"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.klartext-kompass.de/selbstdenkerkompass/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.klartext-kompass.de/selbstdenkerkompass/"
@@ -22,16 +22,16 @@ language: "de"
 # Selbstdenker-Kompass — Wenn deine besten Argumente scheitern
 
 > Product ID `57780` · Digistore24 productId `712070` · [HTML profile page](../../produkte/selbstdenker-kompass-wenn-deine-besten-argumente-scheitern-57780.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $39.18 (Single payment, Installment) |
+| Price | $39.20 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $11.75 |
+| Earnings/sale* | $11.76 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Klartextkompass |
@@ -86,14 +86,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Selbstdenker-Kompass — Wenn deine besten Argumente scheitern? — Typ: E-books, Anbieter: Klartextkompass, gelistet seit 2026-07-28
-- Wie viel kostet es? — 39.178224 USD
+- Wie viel kostet es? — 39.202752 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Selbstdenker-Kompass — Wenn deine besten Argumente scheitern Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/712070
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/712070/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Selbstdenker-Kompass%20%E2%80%94%20Wenn%20deine%20besten%20Argumente%20scheitern
 
 ## 4. Editorial notes

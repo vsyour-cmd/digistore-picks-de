@@ -7,13 +7,13 @@ product_type: "Downloads"
 price: 0.46
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 62.27
+earnings_per_sale: 62.31
 cart_conversion_pct: 19
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2017-05-14"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://silentsubs.com/media/rife-frequencies-frequenztherapie/?aff=adminstore#aff=adminstore"
 sales_page: "https://silentsubs.com/media/rife-frequencies-frequenztherapie/"
@@ -22,7 +22,7 @@ language: "de"
 # Rife Frequenzen Komplettpaket (5,5 GB) – 50% Provision
 
 > Product ID `37520` · Digistore24 productId `138033` · [HTML profile page](../../produkte/rife-frequenzen-komplettpaket-5-5-gb-50-provision-37520.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,7 @@ language: "de"
 | Product type | Downloads |
 | Price | $0.46 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $62.27 |
+| Earnings/sale* | $62.31 |
 | Cart conversion* | 19% |
 | Cancel rate* | 0% |
 | Vendor | mldesign |
@@ -98,14 +98,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Rife Frequenzen Komplettpaket (5,5 GB) – 50% Provision? — Typ: Downloads, Anbieter: mldesign, gelistet seit 2017-05-14
-- Wie viel kostet es? — 0.458421 USD
+- Wie viel kostet es? — 0.458708 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Rife Frequenzen Komplettpaket (5,5 GB) – 50% Provision Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/138033
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/138033/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Rife%20Frequenzen%20Komplettpaket%20(5%2C5%20GB)%20%E2%80%93%2050%25%20Provision
 
 ## 4. Editorial notes

@@ -4,34 +4,34 @@ digistore24_product_id: 171853
 title: "Online-Video-Kurs+Coaching \"Sprache professionell aufnehmen\""
 vendor: "isidde"
 product_type: "Remote service provided electronically"
-price: 279.06
+price: 279.23
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 55.82
+earnings_per_sale: 55.85
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2017-10-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/20125/adminstore/"
+promo_link: "https://www.isid.de/sprachaufnahme/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.isid.de/sprachaufnahme/"
 language: "de"
 ---
 # Online-Video-Kurs+Coaching "Sprache professionell aufnehmen"
 
 > Product ID `20125` · Digistore24 productId `171853` · [HTML profile page](../../produkte/online-video-kurs-coaching-sprache-professionell-aufnehmen-20125.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $279.06 (Single payment) |
+| Price | $279.23 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $55.82 |
+| Earnings/sale* | $55.85 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | isidde |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/20125/adminstore/
+- **Promo link (affiliate):** https://www.isid.de/sprachaufnahme/?aff=adminstore#aff=adminstore
 - Sales page: https://www.isid.de/sprachaufnahme/
 - Canonical redirect: https://www.digistore24.com/redir/171853/adminstore
 
@@ -92,14 +92,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online-Video-Kurs+Coaching "Sprache professionell aufnehmen"? — Typ: Remote service provided electronically, Anbieter: isidde, gelistet seit 2017-10-20
-- Wie viel kostet es? — 279.055398 USD
+- Wie viel kostet es? — 279.23010400000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Online-Video-Kurs+Coaching "Sprache professionell aufnehmen" Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/171853
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/171853/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Online-Video-Kurs%2BCoaching%20%22Sprache%20professionell%20aufnehmen%22
 
 ## 4. Editorial notes

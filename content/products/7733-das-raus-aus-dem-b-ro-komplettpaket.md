@@ -4,16 +4,16 @@ digistore24_product_id: 45775
 title: "Das \"Raus aus dem Büro\" Komplettpaket"
 vendor: "freedomacademy"
 product_type: "Downloads"
-price: 28.1
+price: 28.12
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 9.84
+earnings_per_sale: 9.85
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Travel & Culture"]
 listed_since: "2015-03-25"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "http://digitalernomade.de/start?aff=adminstore#aff=adminstore"
 sales_page: "http://digitalernomade.de/start"
@@ -22,16 +22,16 @@ language: "de"
 # Das "Raus aus dem Büro" Komplettpaket
 
 > Product ID `7733` · Digistore24 productId `45775` · [HTML profile page](../../produkte/das-raus-aus-dem-b-ro-komplettpaket-7733.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $28.10 (Subscription) |
+| Price | $28.12 (Subscription) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $9.84 |
+| Earnings/sale* | $9.85 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | freedomacademy |
@@ -59,14 +59,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das "Raus aus dem Büro" Komplettpaket? — Typ: Downloads, Anbieter: freedomacademy, gelistet seit 2015-03-25
-- Wie viel kostet es? — 28.097853 USD
+- Wie viel kostet es? — 28.115444 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Das "Raus aus dem Büro" Komplettpaket Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/45775
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/45775/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Das%20%22Raus%20aus%20dem%20B%C3%BCro%22%20Komplettpaket
 
 ## 4. Editorial notes

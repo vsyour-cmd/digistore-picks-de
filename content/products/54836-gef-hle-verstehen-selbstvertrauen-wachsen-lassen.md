@@ -4,16 +4,16 @@ digistore24_product_id: 652844
 title: "Gefühle verstehen &  Selbstvertrauen wachsen lassen"
 vendor: "veganundfrei"
 product_type: "E-books"
-price: 30.3
+price: 30.32
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 15.15
+earnings_per_sale: 15.16
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2025-12-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://zeitzumfeiern.de/gefuehle-verstehen-selbstvertrauen-wachsen-lassen/?aff=adminstore#aff=adminstore"
 sales_page: "https://zeitzumfeiern.de/gefuehle-verstehen-selbstvertrauen-wachsen-lassen/"
@@ -22,16 +22,16 @@ language: "de"
 # Gefühle verstehen &  Selbstvertrauen wachsen lassen
 
 > Product ID `54836` · Digistore24 productId `652844` · [HTML profile page](../../produkte/gef-hle-verstehen-selbstvertrauen-wachsen-lassen-54836.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $30.30 (Single payment) |
+| Price | $30.32 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $15.15 |
+| Earnings/sale* | $15.16 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | veganundfrei |
@@ -82,14 +82,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Gefühle verstehen &  Selbstvertrauen wachsen lassen? — Typ: E-books, Anbieter: veganundfrei, gelistet seit 2025-12-04
-- Wie viel kostet es? — 30.300510000000003 USD
+- Wie viel kostet es? — 30.319480000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Gefühle verstehen &  Selbstvertrauen wachsen lassen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/652844
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/652844/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Gef%C3%BChle%20verstehen%20%26%20%20Selbstvertrauen%20wachsen%20lassen
 
 ## 4. Editorial notes

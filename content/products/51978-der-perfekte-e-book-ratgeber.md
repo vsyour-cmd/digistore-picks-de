@@ -4,16 +4,16 @@ digistore24_product_id: 604477
 title: "Der perfekte E-Book Ratgeber"
 vendor: "gehtanders"
 product_type: "Member area and video courses"
-price: 27.52
+price: 27.53
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 4
+earnings_per_sale: 4.01
 cart_conversion_pct: 25
 cancel_rate_pct: 46.54
-categories: ["Education","Online Marketing & E-Business","Online Marketing"]
+categories: ["Online Marketing & E-Business","Education","Online Marketing"]
 listed_since: "2025-03-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://passive-online-rente.de/ebook-ratgeber/?aff=adminstore#aff=adminstore"
 sales_page: "https://passive-online-rente.de/ebook-ratgeber/"
@@ -22,22 +22,22 @@ language: "de"
 # Der perfekte E-Book Ratgeber
 
 > Product ID `51978` · Digistore24 productId `604477` · [HTML profile page](../../produkte/der-perfekte-e-book-ratgeber-51978.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $27.52 (Single payment) |
+| Price | $27.53 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $4.00 |
+| Earnings/sale* | $4.01 |
 | Cart conversion* | 25% |
 | Cancel rate* | 46.54% |
 | Vendor | gehtanders |
 | Listed since | 2025-03-29 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Online Marketing & E-Business, Online Marketing |
+| Categories | Online Marketing & E-Business, Education, Online Marketing |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -72,14 +72,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der perfekte E-Book Ratgeber? — Typ: Member area and video courses, Anbieter: gehtanders, gelistet seit 2025-03-29
-- Wie viel kostet es? — 27.516441 USD
+- Wie viel kostet es? — 27.533668 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Der perfekte E-Book Ratgeber Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/604477
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/604477/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%20perfekte%20E-Book%20Ratgeber
 
 ## 4. Editorial notes

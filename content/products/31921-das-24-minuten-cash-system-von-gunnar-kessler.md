@@ -4,34 +4,34 @@ digistore24_product_id: 295882
 title: "Das 24 Minuten Cash System - von Gunnar Kessler"
 vendor: "GTK-littlefreilich"
 product_type: "Member area and video courses"
-price: 101.9
+price: 101.97
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 114.85
+earnings_per_sale: 114.92
 cart_conversion_pct: 21
 cancel_rate_pct: 18.86
 categories: ["Profession & Job"]
 listed_since: "2019-11-19"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/31921/adminstore/"
+promo_link: "https://klick.gunnarkessler.info/api/split/1mqmz48rz1fzkz5fdf?aff=adminstore#aff=adminstore"
 sales_page: "https://klick.gunnarkessler.info/api/split/1mqmz48rz1fzkz5fdf"
 language: "de"
 ---
 # Das 24 Minuten Cash System - von Gunnar Kessler
 
 > Product ID `31921` · Digistore24 productId `295882` · [HTML profile page](../../produkte/das-24-minuten-cash-system-von-gunnar-kessler-31921.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $101.90 (Subscription) |
+| Price | $101.97 (Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $114.85 |
+| Earnings/sale* | $114.92 |
 | Cart conversion* | 21% |
 | Cancel rate* | 18.86% |
 | Vendor | GTK-littlefreilich |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/31921/adminstore/
+- **Promo link (affiliate):** https://klick.gunnarkessler.info/api/split/1mqmz48rz1fzkz5fdf?aff=adminstore#aff=adminstore
 - Sales page: https://klick.gunnarkessler.info/api/split/1mqmz48rz1fzkz5fdf
 - Canonical redirect: https://www.digistore24.com/redir/295882/adminstore
 
@@ -66,14 +66,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das 24 Minuten Cash System - von Gunnar Kessler? — Typ: Member area and video courses, Anbieter: GTK-littlefreilich, gelistet seit 2019-11-19
-- Wie viel kostet es? — 101.90363400000001 USD
+- Wie viel kostet es? — 101.967432 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Das 24 Minuten Cash System - von Gunnar Kessler Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/295882
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/295882/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Das%2024%20Minuten%20Cash%20System%20-%20von%20Gunnar%20Kessler
 
 ## 4. Editorial notes

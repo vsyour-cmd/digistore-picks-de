@@ -4,16 +4,16 @@ digistore24_product_id: 553895
 title: "Premium Videokurs: 8 Zyklen Qigong (Spitzenprodukt)"
 vendor: "SabineQigong"
 product_type: "Member area and video courses"
-price: 553.46
+price: 553.81
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 276.73
+earnings_per_sale: 276.9
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2026-04-10"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://sabine-tukovits-fischer.app.mentortools.com/8-zyklen-qigong-und-xi-atmung-2?aff=adminstore#aff=adminstore"
 sales_page: "https://sabine-tukovits-fischer.app.mentortools.com/8-zyklen-qigong-und-xi-atmung-2"
@@ -22,16 +22,16 @@ language: "de"
 # Premium Videokurs: 8 Zyklen Qigong (Spitzenprodukt)
 
 > Product ID `56216` · Digistore24 productId `553895` · [HTML profile page](../../produkte/premium-videokurs-8-zyklen-qigong-spitzenprodukt-56216.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $553.46 (Single payment) |
+| Price | $553.81 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $276.73 |
+| Earnings/sale* | $276.90 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SabineQigong |
@@ -86,14 +86,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Premium Videokurs: 8 Zyklen Qigong (Spitzenprodukt)? — Typ: Member area and video courses, Anbieter: SabineQigong, gelistet seit 2026-04-10
-- Wie viel kostet es? — 553.4595 USD
+- Wie viel kostet es? — 553.806 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Premium Videokurs: 8 Zyklen Qigong (Spitzenprodukt) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/553895
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/553895/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Premium%20Videokurs%3A%208%20Zyklen%20Qigong%20(Spitzenprodukt)
 
 ## 4. Editorial notes

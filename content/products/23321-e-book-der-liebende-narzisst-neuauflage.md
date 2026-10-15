@@ -4,40 +4,40 @@ digistore24_product_id: 201545
 title: "E-Book: \"Der liebende Narzisst\" - Neuauflage"
 vendor: "Morpheus"
 product_type: "Downloads"
-price: 23.45
+price: 23.46
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 9.38
+earnings_per_sale: 9.39
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Dating, Relationships & Romance","Personal Development"]
+categories: ["Personal Development","Dating, Relationships & Romance"]
 listed_since: "2018-02-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/redir/23321/adminstore/"
+promo_link: "https://www.der-liebende-narzisst.de/de/komplettpaket?aff=adminstore#aff=adminstore"
 sales_page: "https://www.der-liebende-narzisst.de/de/komplettpaket"
 language: "de"
 ---
 # E-Book: "Der liebende Narzisst" - Neuauflage
 
 > Product ID `23321` · Digistore24 productId `201545` · [HTML profile page](../../produkte/e-book-der-liebende-narzisst-neuauflage-23321.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $23.45 (Single payment) |
+| Price | $23.46 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $9.38 |
+| Earnings/sale* | $9.39 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Morpheus |
 | Listed since | 2018-02-15 |
 | Auto-accept affiliates | yes |
-| Categories | Dating, Relationships & Romance, Personal Development |
+| Categories | Personal Development, Dating, Relationships & Romance |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/redir/23321/adminstore/
+- **Promo link (affiliate):** https://www.der-liebende-narzisst.de/de/komplettpaket?aff=adminstore#aff=adminstore
 - Sales page: https://www.der-liebende-narzisst.de/de/komplettpaket
 - Vendor affiliate support: https://www.der-liebende-narzisst.de/de/affiliate
 - Canonical redirect: https://www.digistore24.com/redir/201545/adminstore
@@ -91,14 +91,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist E-Book: "Der liebende Narzisst" - Neuauflage? — Typ: Downloads, Anbieter: Morpheus, gelistet seit 2018-02-15
-- Wie viel kostet es? — 23.446557000000002 USD
+- Wie viel kostet es? — 23.461236 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: E-Book: "Der liebende Narzisst" - Neuauflage Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/201545
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/201545/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=E-Book%3A%20%22Der%20liebende%20Narzisst%22%20-%20Neuauflage
 
 ## 4. Editorial notes

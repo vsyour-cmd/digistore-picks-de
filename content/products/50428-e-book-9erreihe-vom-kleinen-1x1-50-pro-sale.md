@@ -10,10 +10,10 @@ affiliate_commission_pct: 50
 earnings_per_sale: 0
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Family & Children"]
+categories: ["Family & Children","Education"]
 listed_since: "2024-11-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://genialeinfachlernen.com/9erReihe?aff=adminstore#aff=adminstore"
 sales_page: "https://genialeinfachlernen.com/9erReihe"
@@ -22,7 +22,7 @@ language: "de"
 # E-Book 9erReihe vom kleinen 1x1 - 50% pro Sale
 
 > Product ID `50428` · Digistore24 productId `579741` · [HTML profile page](../../produkte/e-book-9erreihe-vom-kleinen-1x1-50-pro-sale-50428.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | sussiebe92 |
 | Listed since | 2024-11-09 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Family & Children |
+| Categories | Family & Children, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -88,7 +88,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: E-Book 9erReihe vom kleinen 1x1 - 50% pro Sale Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/579741
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/579741/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=E-Book%209erReihe%20vom%20kleinen%201x1%20-%2050%25%20pro%20Sale
 
 ## 4. Editorial notes

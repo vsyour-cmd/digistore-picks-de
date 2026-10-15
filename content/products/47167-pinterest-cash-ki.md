@@ -4,34 +4,34 @@ digistore24_product_id: 539434
 title: "Pinterest - Cash KI"
 vendor: "Spekulatius"
 product_type: "Member area and video courses"
-price: 34.76
+price: 34.78
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 17.39
+earnings_per_sale: 17.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media"]
 listed_since: "2024-02-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/47167/adminstore/"
+promo_link: "https://www.meinneuerlifestyle.vip/pinterest-ki/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.meinneuerlifestyle.vip/pinterest-ki/"
 language: "de"
 ---
 # Pinterest - Cash KI
 
 > Product ID `47167` · Digistore24 productId `539434` · [HTML profile page](../../produkte/pinterest-cash-ki-47167.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $34.76 (Single payment) |
+| Price | $34.78 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $17.39 |
+| Earnings/sale* | $17.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Spekulatius |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/47167/adminstore/
+- **Promo link (affiliate):** https://www.meinneuerlifestyle.vip/pinterest-ki/?aff=adminstore#aff=adminstore
 - Sales page: https://www.meinneuerlifestyle.vip/pinterest-ki/
 - Canonical redirect: https://www.digistore24.com/redir/539434/adminstore
 
@@ -66,14 +66,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Pinterest - Cash KI? — Typ: Member area and video courses, Anbieter: Spekulatius, gelistet seit 2024-02-16
-- Wie viel kostet es? — 34.761729 USD
+- Wie viel kostet es? — 34.783492 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Pinterest - Cash KI Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/539434
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/539434/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Pinterest%20-%20Cash%20KI
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 11330
 title: "Energetisches Selbstmanagement"
 vendor: "AngelKing"
 product_type: "Member area and video courses"
-price: 62.95
+price: 62.99
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 31.47
+earnings_per_sale: 31.49
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2013-03-14"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://angelika-king.app.mentortools.com/energetisches-selbstmanagement?aff=adminstore#aff=adminstore"
 sales_page: "https://angelika-king.app.mentortools.com/energetisches-selbstmanagement"
@@ -22,16 +22,16 @@ language: "de"
 # Energetisches Selbstmanagement
 
 > Product ID `503` · Digistore24 productId `11330` · [HTML profile page](../../produkte/energetisches-selbstmanagement-503.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $62.95 (Single payment) |
+| Price | $62.99 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $31.47 |
+| Earnings/sale* | $31.49 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | AngelKing |
@@ -83,14 +83,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Energetisches Selbstmanagement? — Typ: Member area and video courses, Anbieter: AngelKing, gelistet seit 2013-03-14
-- Wie viel kostet es? — 62.94903 USD
+- Wie viel kostet es? — 62.98844 USD
 - Garantie? — 14
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Energetisches Selbstmanagement Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/11330
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/11330/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Energetisches%20Selbstmanagement
 
 ## 4. Editorial notes

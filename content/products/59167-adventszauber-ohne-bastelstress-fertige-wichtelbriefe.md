@@ -4,7 +4,7 @@ digistore24_product_id: 718880
 title: "Adventszauber ohne Bastelstress – fertige Wichtelbriefe"
 vendor: "Anha13"
 product_type: "E-books"
-price: 13.48
+price: 13.49
 currency: "USD"
 affiliate_commission_pct: 40
 earnings_per_sale: 5.39
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2026-09-13"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/59167/adminstore/"
+promo_link: "https://ahliving.de/wichteltuer-alternative/?aff=adminstore#aff=adminstore"
 sales_page: "https://ahliving.de/wichteltuer-alternative/"
 language: "de"
 ---
 # Adventszauber ohne Bastelstress – fertige Wichtelbriefe
 
 > Product ID `59167` · Digistore24 productId `718880` · [HTML profile page](../../produkte/adventszauber-ohne-bastelstress-fertige-wichtelbriefe-59167.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $13.48 (Single payment) |
+| Price | $13.49 (Single payment) |
 | Affiliate commission | 40% |
 | Earnings/sale* | $5.39 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59167/adminstore/
+- **Promo link (affiliate):** https://ahliving.de/wichteltuer-alternative/?aff=adminstore#aff=adminstore
 - Sales page: https://ahliving.de/wichteltuer-alternative/
 - Canonical redirect: https://www.digistore24.com/redir/718880/adminstore
 
@@ -83,14 +83,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Adventszauber ohne Bastelstress – fertige Wichtelbriefe? — Typ: E-books, Anbieter: Anha13, gelistet seit 2026-09-13
-- Wie viel kostet es? — 13.484286 USD
+- Wie viel kostet es? — 13.492728000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Adventszauber ohne Bastelstress – fertige Wichtelbriefe Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/718880
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/718880/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Adventszauber%20ohne%20Bastelstress%20%E2%80%93%20fertige%20Wichtelbriefe
 
 ## 4. Editorial notes

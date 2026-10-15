@@ -4,7 +4,7 @@ digistore24_product_id: 574526
 title: "Erfolgreich mit Affiliate Marketing"
 vendor: "werni1"
 product_type: "Member area and video courses"
-price: 14
+price: 14.01
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 7
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2024-10-10"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/50027/adminstore/"
+promo_link: "https://page.funnelcockpit.com/kxo5n5dhp6mkZDiuS?aff=adminstore#aff=adminstore"
 sales_page: "https://page.funnelcockpit.com/kxo5n5dhp6mkZDiuS"
 language: "de"
 ---
 # Erfolgreich mit Affiliate Marketing
 
 > Product ID `50027` · Digistore24 productId `574526` · [HTML profile page](../../produkte/erfolgreich-mit-affiliate-marketing-50027.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $14.00 (Single payment) |
+| Price | $14.01 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $7.00 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/50027/adminstore/
+- **Promo link (affiliate):** https://page.funnelcockpit.com/kxo5n5dhp6mkZDiuS?aff=adminstore#aff=adminstore
 - Sales page: https://page.funnelcockpit.com/kxo5n5dhp6mkZDiuS
 - Vendor affiliate support: https://page.funnelcockpit.com/MWjM4GC2zDri47Pr8
 - Canonical redirect: https://www.digistore24.com/redir/574526/adminstore
@@ -59,14 +59,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Erfolgreich mit Affiliate Marketing? — Typ: Member area and video courses, Anbieter: werni1, gelistet seit 2024-10-10
-- Wie viel kostet es? — 13.998612000000001 USD
+- Wie viel kostet es? — 14.007375999999999 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Erfolgreich mit Affiliate Marketing Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/574526
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/574526/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Erfolgreich%20mit%20Affiliate%20Marketing
 
 ## 4. Editorial notes

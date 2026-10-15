@@ -4,40 +4,40 @@ digistore24_product_id: 649309
 title: "Dein Land-Idylle Bundle 4 Acryl-Malkurse zum Mitmalen"
 vendor: "liebezumleben"
 product_type: "Downloads"
-price: 79.87
+price: 79.92
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 39.94
+earnings_per_sale: 39.96
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Hobby & Craft","Home & Garden"]
+categories: ["Home & Garden","Hobby & Craft"]
 listed_since: "2026-05-13"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/56531/adminstore/"
+promo_link: "https://malenmitanke.de/acrylmalkurs-landschaft-bundle/?aff=adminstore#aff=adminstore"
 sales_page: "https://malenmitanke.de/acrylmalkurs-landschaft-bundle/"
 language: "de"
 ---
 # Dein Land-Idylle Bundle 4 Acryl-Malkurse zum Mitmalen
 
 > Product ID `56531` · Digistore24 productId `649309` · [HTML profile page](../../produkte/dein-land-idylle-bundle-4-acryl-malkurse-zum-mitmalen-56531.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $79.87 (Single payment) |
+| Price | $79.92 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $39.94 |
+| Earnings/sale* | $39.96 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | liebezumleben |
 | Listed since | 2026-05-13 |
 | Auto-accept affiliates | yes |
-| Categories | Hobby & Craft, Home & Garden |
+| Categories | Home & Garden, Hobby & Craft |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56531/adminstore/
+- **Promo link (affiliate):** https://malenmitanke.de/acrylmalkurs-landschaft-bundle/?aff=adminstore#aff=adminstore
 - Sales page: https://malenmitanke.de/acrylmalkurs-landschaft-bundle/
 - Canonical redirect: https://www.digistore24.com/redir/649309/adminstore
 
@@ -87,14 +87,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Dein Land-Idylle Bundle 4 Acryl-Malkurse zum Mitmalen? — Typ: Downloads, Anbieter: liebezumleben, gelistet seit 2026-05-13
-- Wie viel kostet es? — 79.86588300000001 USD
+- Wie viel kostet es? — 79.915884 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Dein Land-Idylle Bundle 4 Acryl-Malkurse zum Mitmalen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/649309
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/649309/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Dein%20Land-Idylle%20Bundle%204%20Acryl-Malkurse%20zum%20Mitmalen
 
 ## 4. Editorial notes

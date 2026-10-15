@@ -4,7 +4,7 @@ digistore24_product_id: 720489
 title: "Die Botschaft der Zukunft"
 vendor: "Novaris_web"
 product_type: "Downloads"
-price: 18.69
+price: 18.71
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 1.87
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-08-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://novaris.de.cool/botschaft.php?aff=adminstore#aff=adminstore"
 sales_page: "https://novaris.de.cool/botschaft.php"
@@ -22,14 +22,14 @@ language: "de"
 # Die Botschaft der Zukunft
 
 > Product ID `58722` · Digistore24 productId `720489` · [HTML profile page](../../produkte/die-botschaft-der-zukunft-58722.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $18.69 (Single payment) |
+| Price | $18.71 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $1.87 |
 | Cart conversion* | — |
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die Botschaft der Zukunft? — Typ: Downloads, Anbieter: Novaris_web, gelistet seit 2026-08-27
-- Wie viel kostet es? — 18.694632 USD
+- Wie viel kostet es? — 18.706336 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Die Botschaft der Zukunft Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/720489
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/720489/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Die%20Botschaft%20der%20Zukunft
 
 ## 4. Editorial notes

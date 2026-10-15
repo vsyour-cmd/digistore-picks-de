@@ -4,16 +4,16 @@ digistore24_product_id: 361553
 title: "Bewusst-wirken mit mehr Präsenz und Ausstrahlungskraft"
 vendor: "AlexandraLohr"
 product_type: "Online coaching"
-price: 28.1
+price: 28.12
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 8.43
+earnings_per_sale: 8.44
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2020-12-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.bewusst-wirken.de/akademie/online-akademie/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.bewusst-wirken.de/akademie/online-akademie/"
@@ -22,16 +22,16 @@ language: "de"
 # Bewusst-wirken mit mehr Präsenz und Ausstrahlungskraft
 
 > Product ID `34984` · Digistore24 productId `361553` · [HTML profile page](../../produkte/bewusst-wirken-mit-mehr-pr-senz-und-ausstrahlungskraft-34984.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $28.10 (Single payment) |
+| Price | $28.12 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $8.43 |
+| Earnings/sale* | $8.44 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | AlexandraLohr |
@@ -81,14 +81,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Bewusst-wirken mit mehr Präsenz und Ausstrahlungskraft? — Typ: Online coaching, Anbieter: AlexandraLohr, gelistet seit 2020-12-07
-- Wie viel kostet es? — 28.097853 USD
+- Wie viel kostet es? — 28.115444 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Bewusst-wirken mit mehr Präsenz und Ausstrahlungskraft Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/361553
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/361553/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Bewusst-wirken%20mit%20mehr%20Pr%C3%A4senz%20und%20Ausstrahlungskraft
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 474623
 title: "ALBUM CLASS für Fotografen"
 vendor: "juliaundgil"
 product_type: "Member area and video courses"
-price: 334.31
+price: 334.52
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 16.77
+earnings_per_sale: 16.78
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2022-12-13"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://juliaandgil.education/album-class/?aff=adminstore#aff=adminstore"
 sales_page: "https://juliaandgil.education/album-class/"
@@ -22,16 +22,16 @@ language: "de"
 # ALBUM CLASS für Fotografen
 
 > Product ID `43530` · Digistore24 productId `474623` · [HTML profile page](../../produkte/album-class-f-r-fotografen-43530.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $334.31 (Single payment, Installment) |
+| Price | $334.52 (Single payment, Installment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $16.77 |
+| Earnings/sale* | $16.78 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | juliaundgil |
@@ -92,14 +92,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist ALBUM CLASS für Fotografen? — Typ: Member area and video courses, Anbieter: juliaundgil, gelistet seit 2022-12-13
-- Wie viel kostet es? — 334.31190000000004 USD
+- Wie viel kostet es? — 334.5212 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: ALBUM CLASS für Fotografen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/474623
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/474623/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=ALBUM%20CLASS%20f%C3%BCr%20Fotografen
 
 ## 4. Editorial notes

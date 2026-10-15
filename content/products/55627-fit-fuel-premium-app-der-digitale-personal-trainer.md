@@ -4,34 +4,34 @@ digistore24_product_id: 665463
 title: "Fit Fuel Premium App – Der digitale Personal Trainer"
 vendor: "Vali_572"
 product_type: "E-books"
-price: 15.15
+price: 15.16
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 7.58
+earnings_per_sale: 7.59
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2026-01-30"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
-promo_link: "https://www.digistore24.com/redir/55627/adminstore/"
+promo_link: "https://daily-balance.at?aff=adminstore#aff=adminstore"
 sales_page: "https://daily-balance.at"
 language: "de"
 ---
 # Fit Fuel Premium App – Der digitale Personal Trainer
 
 > Product ID `55627` · Digistore24 productId `665463` · [HTML profile page](../../produkte/fit-fuel-premium-app-der-digitale-personal-trainer-55627.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $15.15 (Single payment) |
+| Price | $15.16 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $7.58 |
+| Earnings/sale* | $7.59 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Vali_572 |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55627/adminstore/
+- **Promo link (affiliate):** https://daily-balance.at?aff=adminstore#aff=adminstore
 - Sales page: https://daily-balance.at
 - Canonical redirect: https://www.digistore24.com/redir/665463/adminstore
 
@@ -62,14 +62,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Fit Fuel Premium App – Der digitale Personal Trainer? — Typ: E-books, Anbieter: Vali_572, gelistet seit 2026-01-30
-- Wie viel kostet es? — 15.150255000000001 USD
+- Wie viel kostet es? — 15.159740000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Fit Fuel Premium App – Der digitale Personal Trainer Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/665463
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/665463/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Fit%20Fuel%20Premium%20App%20%E2%80%93%20Der%20digitale%20Personal%20Trainer
 
 ## 4. Editorial notes

@@ -4,7 +4,7 @@ digistore24_product_id: 725280
 title: "Körpersprache verstehen"
 vendor: "Novaris_web"
 product_type: "Downloads"
-price: 16.86
+price: 16.87
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 1.69
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-08-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/58717/adminstore/"
+promo_link: "https://novaris.de.cool/koerpersprache.php?aff=adminstore#aff=adminstore"
 sales_page: "https://novaris.de.cool/koerpersprache.php"
 language: "de"
 ---
 # Körpersprache verstehen
 
 > Product ID `58717` · Digistore24 productId `725280` · [HTML profile page](../../produkte/k-rpersprache-verstehen-58717.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $16.86 (Single payment) |
+| Price | $16.87 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $1.69 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58717/adminstore/
+- **Promo link (affiliate):** https://novaris.de.cool/koerpersprache.php?aff=adminstore#aff=adminstore
 - Sales page: https://novaris.de.cool/koerpersprache.php
 - Canonical redirect: https://www.digistore24.com/redir/725280/adminstore
 
@@ -68,14 +68,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Körpersprache verstehen? — Typ: Downloads, Anbieter: Novaris_web, gelistet seit 2026-08-27
-- Wie viel kostet es? — 16.860948 USD
+- Wie viel kostet es? — 16.871504 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Körpersprache verstehen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/725280
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/725280/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=K%C3%B6rpersprache%20verstehen
 
 ## 4. Editorial notes

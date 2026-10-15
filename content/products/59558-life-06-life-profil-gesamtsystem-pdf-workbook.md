@@ -4,16 +4,16 @@ digistore24_product_id: 736264
 title: "LIFE 06 — LIFE-Profil & Gesamtsystem (PDF-Workbook)"
 vendor: "lvlBoZzlvl"
 product_type: "E-books"
-price: 52.04
+price: 52.07
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 26.02
+earnings_per_sale: 26.03
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2026-09-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://life-06-ege.pages.dev/?aff=adminstore#aff=adminstore"
 sales_page: "https://life-06-ege.pages.dev/"
@@ -22,16 +22,16 @@ language: "de"
 # LIFE 06 — LIFE-Profil & Gesamtsystem (PDF-Workbook)
 
 > Product ID `59558` · Digistore24 productId `736264` · [HTML profile page](../../produkte/life-06-life-profil-gesamtsystem-pdf-workbook-59558.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $52.04 (Single payment) |
+| Price | $52.07 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $26.02 |
+| Earnings/sale* | $26.03 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | lvlBoZzlvl |
@@ -96,14 +96,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist LIFE 06 — LIFE-Profil & Gesamtsystem (PDF-Workbook)? — Typ: E-books, Anbieter: lvlBoZzlvl, gelistet seit 2026-09-22
-- Wie viel kostet es? — 52.036374 USD
+- Wie viel kostet es? — 52.068952 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: LIFE 06 — LIFE-Profil & Gesamtsystem (PDF-Workbook) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/736264
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/736264/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=LIFE%2006%20%E2%80%94%20LIFE-Profil%20%26%20Gesamtsystem%20(PDF-Workbook)
 
 ## 4. Editorial notes

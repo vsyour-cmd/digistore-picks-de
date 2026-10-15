@@ -4,16 +4,16 @@ digistore24_product_id: 421917
 title: "So geht Affiliate Marketing E-Book"
 vendor: "Spekulatius"
 product_type: "E-books"
-price: 26.12
+price: 26.14
 currency: "USD"
 affiliate_commission_pct: 85
-earnings_per_sale: 22.21
+earnings_per_sale: 22.22
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2021-12-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://page.funnelcockpit.com/fnY9qz75uA5hJaxwc?aff=adminstore#aff=adminstore"
 sales_page: "https://page.funnelcockpit.com/fnY9qz75uA5hJaxwc"
@@ -22,16 +22,16 @@ language: "de"
 # So geht Affiliate Marketing E-Book
 
 > Product ID `38648` · Digistore24 productId `421917` · [HTML profile page](../../produkte/so-geht-affiliate-marketing-e-book-38648.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $26.12 (Single payment) |
+| Price | $26.14 (Single payment) |
 | Affiliate commission | 85% |
-| Earnings/sale* | $22.21 |
+| Earnings/sale* | $22.22 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Spekulatius |
@@ -66,14 +66,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist So geht Affiliate Marketing E-Book? — Typ: E-books, Anbieter: Spekulatius, gelistet seit 2021-12-24
-- Wie viel kostet es? — 26.118816000000002 USD
+- Wie viel kostet es? — 26.135168 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: So geht Affiliate Marketing E-Book Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/421917
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/421917/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=So%20geht%20Affiliate%20Marketing%20E-Book
 
 ## 4. Editorial notes

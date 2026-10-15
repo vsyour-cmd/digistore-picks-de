@@ -12,8 +12,8 @@ cart_conversion_pct: 26
 cancel_rate_pct: 11.9
 categories: ["Online Marketing & E-Business","Services","Marketing Services"]
 listed_since: "2024-10-28"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/577631?voucher=sondernachlass&aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/577631?voucher=sondernachlass"
@@ -22,7 +22,7 @@ language: "de"
 # Dein eigenes Online Business
 
 > Product ID `50426` · Digistore24 productId `577631` · [HTML profile page](../../produkte/dein-eigenes-online-business-50426.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Dein eigenes Online Business? — Typ: E-books, Anbieter: weinand1986, gelistet seit 2024-10-28
-- Wie viel kostet es? — 0.12299100000000002 USD
+- Wie viel kostet es? — 0.123068 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Dein eigenes Online Business Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/577631
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/577631/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Dein%20eigenes%20Online%20Business
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 554813
 title: "GPT Assist Builder"
 vendor: "MoneyCreators"
 product_type: "Member area and video courses"
-price: 108.46
+price: 108.52
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 43.38
+earnings_per_sale: 43.41
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Email Marketing","Online Marketing & E-Business","Online Marketing"]
+categories: ["Online Marketing & E-Business","Email Marketing","Online Marketing"]
 listed_since: "2024-05-30"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://cash4lead.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://cash4lead.de/"
@@ -22,22 +22,22 @@ language: "de"
 # GPT Assist Builder
 
 > Product ID `55176` · Digistore24 productId `554813` · [HTML profile page](../../produkte/gpt-assist-builder-55176.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $108.46 (Single payment) |
+| Price | $108.52 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $43.38 |
+| Earnings/sale* | $43.41 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MoneyCreators |
 | Listed since | 2024-05-30 |
 | Auto-accept affiliates | yes |
-| Categories | Email Marketing, Online Marketing & E-Business, Online Marketing |
+| Categories | Online Marketing & E-Business, Email Marketing, Online Marketing |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -87,14 +87,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist GPT Assist Builder? — Typ: Member area and video courses, Anbieter: MoneyCreators, gelistet seit 2024-05-30
-- Wie viel kostet es? — 108.45570000000001 USD
+- Wie viel kostet es? — 108.5236 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: GPT Assist Builder Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/554813
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/554813/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=GPT%20Assist%20Builder
 
 ## 4. Editorial notes

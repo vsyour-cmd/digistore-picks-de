@@ -4,7 +4,7 @@ digistore24_product_id: 689586
 title: "Ebook - Bewegung als Medizin"
 vendor: "joebgesbuchverleger39ac"
 product_type: "E-books"
-price: 9.39
+price: 9.4
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 4.7
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2026-05-02"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/56433/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/689586?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/689586"
 language: "de"
 ---
 # Ebook - Bewegung als Medizin
 
 > Product ID `56433` · Digistore24 productId `689586` · [HTML profile page](../../produkte/ebook-bewegung-als-medizin-56433.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $9.39 (Single payment) |
+| Price | $9.40 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $4.70 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56433/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/689586?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/689586
 - Canonical redirect: https://www.digistore24.com/redir/689586/adminstore
 
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ebook - Bewegung als Medizin? — Typ: E-books, Anbieter: joebgesbuchverleger39ac, gelistet seit 2026-05-02
-- Wie viel kostet es? — 9.392040000000001 USD
+- Wie viel kostet es? — 9.397920000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Ebook - Bewegung als Medizin Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/689586
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/689586/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Ebook%20-%20Bewegung%20als%20Medizin
 
 ## 4. Editorial notes

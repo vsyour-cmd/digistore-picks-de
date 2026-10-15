@@ -4,7 +4,7 @@ digistore24_product_id: 525933
 title: "Muster-Vorlage Sponsoren-Anschreiben"
 vendor: "andreaswillcom"
 product_type: "Downloads"
-price: 13.15
+price: 13.16
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 1.32
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Sport","Marketing Services"]
 listed_since: "2023-11-19"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/525933?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/525933"
@@ -22,14 +22,14 @@ language: "de"
 # Muster-Vorlage Sponsoren-Anschreiben
 
 > Product ID `50880` · Digistore24 productId `525933` · [HTML profile page](../../produkte/muster-vorlage-sponsoren-anschreiben-50880.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $13.15 (Single payment) |
+| Price | $13.16 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $1.32 |
 | Cart conversion* | — |
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Muster-Vorlage Sponsoren-Anschreiben? — Typ: Downloads, Anbieter: andreaswillcom, gelistet seit 2023-11-19
-- Wie viel kostet es? — 13.148856 USD
+- Wie viel kostet es? — 13.157088 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Muster-Vorlage Sponsoren-Anschreiben Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/525933
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/525933/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Muster-Vorlage%20Sponsoren-Anschreiben
 
 ## 4. Editorial notes

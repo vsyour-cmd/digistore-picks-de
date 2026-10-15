@@ -4,34 +4,34 @@ digistore24_product_id: 13857
 title: "Menschen seelisch lesen Online-Show"
 vendor: "elisette"
 product_type: "Remote service provided electronically"
-price: 110.69
+price: 110.76
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 22.14
+earnings_per_sale: 22.15
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2013-07-14"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
-promo_link: "https://www.digistore24.com/redir/29379/adminstore/"
+promo_link: "https://www.healing-harmony.com?aff=adminstore#aff=adminstore"
 sales_page: "https://www.healing-harmony.com"
 language: "de"
 ---
 # Menschen seelisch lesen Online-Show
 
 > Product ID `29379` · Digistore24 productId `13857` · [HTML profile page](../../produkte/menschen-seelisch-lesen-online-show-29379.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $110.69 (Single payment) |
+| Price | $110.76 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $22.14 |
+| Earnings/sale* | $22.15 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | elisette |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/29379/adminstore/
+- **Promo link (affiliate):** https://www.healing-harmony.com?aff=adminstore#aff=adminstore
 - Sales page: https://www.healing-harmony.com
 - Vendor affiliate support: https://www.seelen-fluesterin.de/partner
 - Canonical redirect: https://www.digistore24.com/redir/13857/adminstore
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Menschen seelisch lesen Online-Show? — Typ: Remote service provided electronically, Anbieter: elisette, gelistet seit 2013-07-14
-- Wie viel kostet es? — 110.6919 USD
+- Wie viel kostet es? — 110.7612 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Menschen seelisch lesen Online-Show Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/13857
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/13857/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Menschen%20seelisch%20lesen%20Online-Show
 
 ## 4. Editorial notes

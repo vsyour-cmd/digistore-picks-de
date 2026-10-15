@@ -4,40 +4,40 @@ digistore24_product_id: 607228
 title: "KI Speed Business – Werde Partner und profitiere doppelt"
 vendor: "powerupbusiness"
 product_type: "Member area and video courses"
-price: 302.9
+price: 303.09
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 553.58
+earnings_per_sale: 553.93
 cart_conversion_pct: 14
 cancel_rate_pct: 2.08
-categories: ["Email Marketing","Online Marketing & E-Business","Social Media"]
+categories: ["Online Marketing & E-Business","Social Media","Email Marketing"]
 listed_since: "2025-04-14"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
-research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/52597/adminstore/"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
+research_quality: "medium"
+promo_link: "https://www.digistore24.com/redir/607228/adminstore"
 sales_page: "https://kispeedbusiness.com?utm_source=[AFFILIATE]&utm_medium=affiliate"
 language: "de"
 ---
 # KI Speed Business – Werde Partner und profitiere doppelt
 
 > Product ID `52597` · Digistore24 productId `607228` · [HTML profile page](../../produkte/ki-speed-business-werde-partner-und-profitiere-doppelt-52597.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $302.90 (Single payment, Installment) |
+| Price | $303.09 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $553.58 |
+| Earnings/sale* | $553.93 |
 | Cart conversion* | 14% |
 | Cancel rate* | 2.08% |
 | Vendor | powerupbusiness |
 | Listed since | 2025-04-14 |
 | Auto-accept affiliates | yes |
-| Categories | Email Marketing, Online Marketing & E-Business, Social Media |
+| Categories | Online Marketing & E-Business, Social Media, Email Marketing |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,28 +45,45 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/52597/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/redir/607228/adminstore
 - Sales page: https://kispeedbusiness.com?utm_source=[AFFILIATE]&utm_medium=affiliate
 - Vendor affiliate support: https://www.kispeedbusiness.com/partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/607228/adminstore
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** KI Speed Business 2026 - Die ultimative KI-Strategie
+- **Meta description:** Brandneu 2026: Die ultimative KI-Strategie, mit der du dein automatisiertes Online-Business in 60 Minuten startest – ohne Kamera, ohne Tech-Chaos, ohne Hype.
+- **Final URL after redirects:** https://www.kispeedbusiness.com/
+- **Section headlines (H3):**
+  - Geld verdienen
+  - Zu viel Verwirrung
+  - Ohne Kamera starten
+  - Du willst die ultimative KI-Strategie 2026 live sehen?
+  - Sichere dir deinen kostenlosen Platz
+- **Opening copy (first paragraphs):**
+  > Wie du dir mit KI ein automatisiertes Verdienstsystem aufbaust, das dir monatlich 3.475 € einspielen kann
+  > Entdecke im kostenlosen Webinar unsere brandneue Strategie, mit der du ein automatisiertes Online-System 2.0 aufbauen kannst, bei dem die KI bis zu 90% deiner Arbeit vorbereitet und erledigt.
+  > Genau daran scheitern viele. Nicht, weil sie zu dumm sind. Sondern weil sie keinen klaren Weg haben.
+  > Sie sehen Videos, hören von KI, probieren vielleicht ein paar Tools aus und merken schnell: Allein wird es unübersichtlich.
+- **Questions the sales page answers:**
+  - Du willst online Geld verdienen, weißt aber nicht, wie du starten sollst?
+  - Du willst die ultimative KI-Strategie 2026 live sehen?
+- **Page word count:** 492
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI Speed Business – Werde Partner und profitiere doppelt? — Typ: Member area and video courses, Anbieter: powerupbusiness, gelistet seit 2025-04-14
-- Wie viel kostet es? — 302.90447100000006 USD
+- Wie viel kostet es? — 303.094108 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: KI Speed Business – Werde Partner und profitiere doppelt Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/607228
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/607228/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=KI%20Speed%20Business%20%E2%80%93%20Werde%20Partner%20und%20profitiere%20doppelt
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 643902
 title: "VoxelPrint Pro – 3D-Druck-Shop für WooCommerce"
 vendor: "VOUMEDIA"
 product_type: "Software"
-price: 1207.55
+price: 1208.3
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 362.26
+earnings_per_sale: 362.49
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Hobby & Craft","Services","Software"]
+categories: ["Software","Services","Hobby & Craft"]
 listed_since: "2025-10-25"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.voumedia.de/voxelprint-pro/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.voumedia.de/voxelprint-pro/"
@@ -22,22 +22,22 @@ language: "de"
 # VoxelPrint Pro – 3D-Druck-Shop für WooCommerce
 
 > Product ID `55152` · Digistore24 productId `643902` · [HTML profile page](../../produkte/voxelprint-pro-3d-druck-shop-f-r-woocommerce-55152.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $1207.55 (Subscription) |
+| Price | $1208.30 (Subscription) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $362.26 |
+| Earnings/sale* | $362.49 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | VOUMEDIA |
 | Listed since | 2025-10-25 |
 | Auto-accept affiliates | yes |
-| Categories | Hobby & Craft, Services, Software |
+| Categories | Software, Services, Hobby & Craft |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -91,14 +91,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist VoxelPrint Pro – 3D-Druck-Shop für WooCommerce? — Typ: Software, Anbieter: VOUMEDIA, gelistet seit 2025-10-25
-- Wie viel kostet es? — 1207.548 USD
+- Wie viel kostet es? — 1208.304 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: VoxelPrint Pro – 3D-Druck-Shop für WooCommerce Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/643902
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/643902/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=VoxelPrint%20Pro%20%E2%80%93%203D-Druck-Shop%20f%C3%BCr%20WooCommerce
 
 ## 4. Editorial notes

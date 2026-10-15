@@ -4,7 +4,7 @@ digistore24_product_id: 349780
 title: "Rezepte bei Krebs - das eBook für Ernährung bei Chemo"
 vendor: "danachblog"
 product_type: "E-books"
-price: 20.8
+price: 20.81
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 10.4
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink"]
 listed_since: "2020-09-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.danaheidrich.com/start/buecher/rezeptebeikrebs/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.danaheidrich.com/start/buecher/rezeptebeikrebs/"
@@ -22,14 +22,14 @@ language: "de"
 # Rezepte bei Krebs - das eBook für Ernährung bei Chemo
 
 > Product ID `34168` · Digistore24 productId `349780` · [HTML profile page](../../produkte/rezepte-bei-krebs-das-ebook-f-r-ern-hrung-bei-chemo-34168.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.80 (Single payment) |
+| Price | $20.81 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $10.40 |
 | Cart conversion* | — |
@@ -88,14 +88,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Rezepte bei Krebs - das eBook für Ernährung bei Chemo? — Typ: E-books, Anbieter: danachblog, gelistet seit 2020-09-26
-- Wie viel kostet es? — 20.796660000000003 USD
+- Wie viel kostet es? — 20.80968 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Rezepte bei Krebs - das eBook für Ernährung bei Chemo Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/349780
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/349780/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Rezepte%20bei%20Krebs%20-%20das%20eBook%20f%C3%BCr%20Ern%C3%A4hrung%20bei%20Chemo
 
 ## 4. Editorial notes

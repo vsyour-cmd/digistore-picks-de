@@ -4,40 +4,40 @@ digistore24_product_id: 730578
 title: "Neuglut-Plan: Für Männer, wenn in der Beziehung die Nähe fehlt"
 vendor: "neuglut"
 product_type: "E-books"
-price: 40.75
+price: 40.78
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 20.38
+earnings_per_sale: 20.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: []
+categories: ["Personal Development","Dating, Relationships & Romance"]
 listed_since: "2026-10-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/60429/adminstore/"
+promo_link: "https://neuglut.de?aff=adminstore#aff=adminstore"
 sales_page: "https://neuglut.de"
 language: "de"
 ---
 # Neuglut-Plan: Für Männer, wenn in der Beziehung die Nähe fehlt
 
 > Product ID `60429` · Digistore24 productId `730578` · [HTML profile page](../../produkte/neuglut-plan-f-r-m-nner-wenn-in-der-beziehung-die-n-he-fehlt-60429.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $40.75 (Single payment) |
+| Price | $40.78 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $20.38 |
+| Earnings/sale* | $20.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | neuglut |
 | Listed since | 2026-10-08 |
 | Auto-accept affiliates | no (approval required) |
-| Categories | Uncategorized |
+| Categories | Personal Development, Dating, Relationships & Romance |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/60429/adminstore/
+- **Promo link (affiliate):** https://neuglut.de?aff=adminstore#aff=adminstore
 - Sales page: https://neuglut.de
 - Canonical redirect: https://www.digistore24.com/redir/730578/adminstore
 
@@ -73,14 +73,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Neuglut-Plan: Für Männer, wenn in der Beziehung die Nähe fehlt? — Typ: E-books, Anbieter: neuglut, gelistet seit 2026-10-08
-- Wie viel kostet es? — 40.75474500000001 USD
+- Wie viel kostet es? — 40.780260000000006 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Neuglut-Plan: Für Männer, wenn in der Beziehung die Nähe fehlt Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/730578
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/730578/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Neuglut-Plan%3A%20F%C3%BCr%20M%C3%A4nner%2C%20wenn%20in%20der%20Beziehung%20die%20N%C3%A4he%20fehlt
 
 ## 4. Editorial notes

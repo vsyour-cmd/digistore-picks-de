@@ -4,40 +4,40 @@ digistore24_product_id: 738638
 title: "Wandern im Allgäu mit Kindern"
 vendor: "Book2Book"
 product_type: "Downloads"
-price: 14.52
+price: 14.53
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 8.71
+earnings_per_sale: 8.72
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Hobby & Craft","Travel & Culture"]
+categories: ["Travel & Culture","Hobby & Craft"]
 listed_since: "2026-09-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/60017/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/738638?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/738638"
 language: "de"
 ---
 # Wandern im Allgäu mit Kindern
 
 > Product ID `60017` · Digistore24 productId `738638` · [HTML profile page](../../produkte/wandern-im-allg-u-mit-kindern-60017.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $14.52 (Single payment) |
+| Price | $14.53 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $8.71 |
+| Earnings/sale* | $8.72 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Book2Book |
 | Listed since | 2026-09-29 |
 | Auto-accept affiliates | yes |
-| Categories | Hobby & Craft, Travel & Culture |
+| Categories | Travel & Culture, Hobby & Craft |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/60017/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/738638?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/738638
 - Vendor affiliate support: https://book2bookaffiliatesupport.blogspot.com/2026/09/wandern-im-allgau-mit-kindern.html
 - Canonical redirect: https://www.digistore24.com/redir/738638/adminstore
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Wandern im Allgäu mit Kindern? — Typ: Downloads, Anbieter: Book2Book, gelistet seit 2026-09-29
-- Wie viel kostet es? — 14.524119 USD
+- Wie viel kostet es? — 14.533212 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Wandern im Allgäu mit Kindern Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/738638
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/738638/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Wandern%20im%20Allg%C3%A4u%20mit%20Kindern
 
 ## 4. Editorial notes

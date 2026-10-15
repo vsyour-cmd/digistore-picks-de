@@ -4,16 +4,16 @@ digistore24_product_id: 364829
 title: "Instagram online Kurs 3.0"
 vendor: "TanjaV"
 product_type: "Member area and video courses"
-price: 78.27
+price: 78.32
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 43.49
+earnings_per_sale: 43.52
 cart_conversion_pct: 11
 cancel_rate_pct: 0.72
 categories: ["Online Marketing & E-Business"]
 listed_since: "2020-12-28"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://tanjavallee.de/instagramonlinekurs/?aff=adminstore#aff=adminstore"
 sales_page: "https://tanjavallee.de/instagramonlinekurs/"
@@ -22,16 +22,16 @@ language: "de"
 # Instagram online Kurs 3.0
 
 > Product ID `35358` · Digistore24 productId `364829` · [HTML profile page](../../produkte/instagram-online-kurs-3-0-35358.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $78.27 (Single payment, Installment) |
+| Price | $78.32 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $43.49 |
+| Earnings/sale* | $43.52 |
 | Cart conversion* | 11% |
 | Cancel rate* | 0.72% |
 | Vendor | TanjaV |
@@ -66,14 +66,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Instagram online Kurs 3.0? — Typ: Member area and video courses, Anbieter: TanjaV, gelistet seit 2020-12-28
-- Wie viel kostet es? — 78.26700000000001 USD
+- Wie viel kostet es? — 78.316 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Instagram online Kurs 3.0 Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/364829
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/364829/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Instagram%20online%20Kurs%203.0
 
 ## 4. Editorial notes

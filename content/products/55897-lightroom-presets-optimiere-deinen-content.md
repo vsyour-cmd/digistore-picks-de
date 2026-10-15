@@ -4,7 +4,7 @@ digistore24_product_id: 658181
 title: "Lightroom Presets - Optimiere Deinen Content!"
 vendor: "sarahvisita"
 product_type: "Downloads"
-price: 17.86
+price: 17.87
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 1.79
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media","Marketing Services"]
 listed_since: "2025-12-31"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/55897/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/658181?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/658181"
 language: "de"
 ---
 # Lightroom Presets - Optimiere Deinen Content!
 
 > Product ID `55897` · Digistore24 productId `658181` · [HTML profile page](../../produkte/lightroom-presets-optimiere-deinen-content-55897.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $17.86 (Single payment) |
+| Price | $17.87 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $1.79 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55897/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/658181?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/658181
 - Canonical redirect: https://www.digistore24.com/redir/658181/adminstore
 
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Lightroom Presets - Optimiere Deinen Content!? — Typ: Downloads, Anbieter: sarahvisita, gelistet seit 2025-12-31
-- Wie viel kostet es? — 17.856057000000003 USD
+- Wie viel kostet es? — 17.867236000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Lightroom Presets - Optimiere Deinen Content! Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/658181
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/658181/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Lightroom%20Presets%20-%20Optimiere%20Deinen%20Content!
 
 ## 4. Editorial notes

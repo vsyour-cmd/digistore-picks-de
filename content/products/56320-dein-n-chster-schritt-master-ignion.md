@@ -4,16 +4,16 @@ digistore24_product_id: 681091
 title: "DEIN NÄCHSTER SCHRITT - MASTER IGNION"
 vendor: "JEMORIS"
 product_type: "E-books"
-price: 38.66
+price: 38.69
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 19.33
+earnings_per_sale: 19.34
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Health & Fitness","Profession & Job","Spiri­tua­lity & Esotericism"]
+categories: ["Health & Fitness","Spiri­tua­lity & Esotericism","Profession & Job"]
 listed_since: "2026-03-31"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://jemoris.com/Vorverkaufsseite_E-Book.html?aff=adminstore#aff=adminstore"
 sales_page: "https://jemoris.com/Vorverkaufsseite_E-Book.html"
@@ -22,22 +22,22 @@ language: "de"
 # DEIN NÄCHSTER SCHRITT - MASTER IGNION
 
 > Product ID `56320` · Digistore24 productId `681091` · [HTML profile page](../../produkte/dein-n-chster-schritt-master-ignion-56320.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $38.66 (Single payment) |
+| Price | $38.69 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $19.33 |
+| Earnings/sale* | $19.34 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | JEMORIS |
 | Listed since | 2026-03-31 |
 | Auto-accept affiliates | yes |
-| Categories | Health & Fitness, Profession & Job, Spiri­tua­lity & Esotericism |
+| Categories | Health & Fitness, Spiri­tua­lity & Esotericism, Profession & Job |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -87,14 +87,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist DEIN NÄCHSTER SCHRITT - MASTER IGNION? — Typ: E-books, Anbieter: JEMORIS, gelistet seit 2026-03-31
-- Wie viel kostet es? — 38.663898 USD
+- Wie viel kostet es? — 38.688103999999996 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: DEIN NÄCHSTER SCHRITT - MASTER IGNION Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/681091
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/681091/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=DEIN%20N%C3%84CHSTER%20SCHRITT%20-%20MASTER%20IGNION
 
 ## 4. Editorial notes

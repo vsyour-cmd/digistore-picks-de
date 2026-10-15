@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2024-09-03"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/50531/adminstore/"
+promo_link: "https://www.digistore24.com/product/568264?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/568264"
 language: "de"
 ---
 # 50 % Provision pro Sale –„Entscheidungstagebuch“!
 
 > Product ID `50531` · Digistore24 productId `568264` · [HTML profile page](../../produkte/50-provision-pro-sale-entscheidungstagebuch-50531.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/50531/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/568264?aff=adminstore
 - Sales page: https://www.digistore24.com/product/568264
 - Canonical redirect: https://www.digistore24.com/redir/568264/adminstore
 
@@ -74,14 +74,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 50 % Provision pro Sale –„Entscheidungstagebuch“!? — Typ: Downloads, Anbieter: Angelika-Traumerfuellerin, gelistet seit 2024-09-03
-- Wie viel kostet es? — 6.999306000000001 USD
+- Wie viel kostet es? — 7.0036879999999995 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 50 % Provision pro Sale –„Entscheidungstagebuch“! Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/568264
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/568264/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=50%20%25%20Provision%20pro%20Sale%20%E2%80%93%E2%80%9EEntscheidungstagebuch%E2%80%9C!
 
 ## 4. Editorial notes

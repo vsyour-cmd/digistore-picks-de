@@ -4,7 +4,7 @@ digistore24_product_id: 699084
 title: "Google Review Response Kit – Bewertungen souverän beantworten | 50 % Provision"
 vendor: "megareichtum"
 product_type: "Downloads"
-price: 9.3
+price: 9.31
 currency: "USD"
 affiliate_commission_pct: 60
 earnings_per_sale: 5.58
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Services","Marketing Services"]
 listed_since: "2026-07-03"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/product/699084?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/699084"
@@ -22,14 +22,14 @@ language: "de"
 # Google Review Response Kit – Bewertungen souverän beantworten | 50 % Provision
 
 > Product ID `57390` · Digistore24 productId `699084` · [HTML profile page](../../produkte/google-review-response-kit-bewertungen-souver-n-beantworten-50-provision-57390.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $9.30 (Single payment) |
+| Price | $9.31 (Single payment) |
 | Affiliate commission | 60% |
 | Earnings/sale* | $5.58 |
 | Cart conversion* | — |
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Google Review Response Kit – Bewertungen souverän beantworten | 50 % Provision? — Typ: Downloads, Anbieter: megareichtum, gelistet seit 2026-07-03
-- Wie viel kostet es? — 9.302592 USD
+- Wie viel kostet es? — 9.308416000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Google Review Response Kit – Bewertungen souverän beantworten | 50 % Provision Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/699084
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/699084/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Google%20Review%20Response%20Kit%20%E2%80%93%20Bewertungen%20souver%C3%A4n%20beantworten%20%7C%2050%20%25%20Provision
 
 ## 4. Editorial notes

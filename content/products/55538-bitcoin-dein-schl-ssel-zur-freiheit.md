@@ -7,13 +7,13 @@ product_type: "Member area and video courses"
 price: 0
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 2.4
+earnings_per_sale: 2.41
 cart_conversion_pct: 55
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2026-02-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://www.meinneuerlifestyle.vip/schluessel-zur-freiheit/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.meinneuerlifestyle.vip/schluessel-zur-freiheit/"
@@ -22,7 +22,7 @@ language: "de"
 # Bitcoin - Dein Schlüssel zur Freiheit
 
 > Product ID `55538` · Digistore24 productId `667457` · [HTML profile page](../../produkte/bitcoin-dein-schl-ssel-zur-freiheit-55538.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,7 @@ language: "de"
 | Product type | Member area and video courses |
 | Price | $0.00 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $2.40 |
+| Earnings/sale* | $2.41 |
 | Cart conversion* | 55% |
 | Cancel rate* | 0% |
 | Vendor | Spekulatius |
@@ -66,7 +66,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Bitcoin - Dein Schlüssel zur Freiheit Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/667457
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/667457/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Bitcoin%20-%20Dein%20Schl%C3%BCssel%20zur%20Freiheit
 
 ## 4. Editorial notes

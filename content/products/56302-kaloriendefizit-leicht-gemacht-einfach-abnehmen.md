@@ -4,16 +4,16 @@ digistore24_product_id: 684873
 title: "Kaloriendefizit leicht gemacht - Einfach abnehmen"
 vendor: "Freifone"
 product_type: "E-books"
-price: 13.53
+price: 13.54
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 6.76
+earnings_per_sale: 6.77
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Food & Drink","Health & Fitness"]
+categories: ["Health & Fitness","Food & Drink"]
 listed_since: "2026-04-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://designs-nf.com/ebooks/kaloriendefizit?aff=adminstore#aff=adminstore"
 sales_page: "https://designs-nf.com/ebooks/kaloriendefizit"
@@ -22,22 +22,22 @@ language: "de"
 # Kaloriendefizit leicht gemacht - Einfach abnehmen
 
 > Product ID `56302` · Digistore24 productId `684873` · [HTML profile page](../../produkte/kaloriendefizit-leicht-gemacht-einfach-abnehmen-56302.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $13.53 (Single payment) |
+| Price | $13.54 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $6.76 |
+| Earnings/sale* | $6.77 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Freifone |
 | Listed since | 2026-04-15 |
 | Auto-accept affiliates | yes |
-| Categories | Food & Drink, Health & Fitness |
+| Categories | Health & Fitness, Food & Drink |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -84,14 +84,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Kaloriendefizit leicht gemacht - Einfach abnehmen? — Typ: E-books, Anbieter: Freifone, gelistet seit 2026-04-15
-- Wie viel kostet es? — 13.529010000000001 USD
+- Wie viel kostet es? — 13.53748 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Kaloriendefizit leicht gemacht - Einfach abnehmen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/684873
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/684873/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Kaloriendefizit%20leicht%20gemacht%20-%20Einfach%20abnehmen
 
 ## 4. Editorial notes

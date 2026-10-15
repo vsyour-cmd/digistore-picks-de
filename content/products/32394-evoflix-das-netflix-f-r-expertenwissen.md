@@ -4,16 +4,16 @@ digistore24_product_id: 299072
 title: "Evoflix - Das Netflix für Expertenwissen"
 vendor: "EvoflixClubStore"
 product_type: "Member area and video courses"
-price: 18.69
+price: 18.71
 currency: "USD"
 affiliate_commission_pct: 33
-earnings_per_sale: 6.17
+earnings_per_sale: 6.18
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2019-12-10"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.evoflix.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.evoflix.de/"
@@ -22,16 +22,16 @@ language: "de"
 # Evoflix - Das Netflix für Expertenwissen
 
 > Product ID `32394` · Digistore24 productId `299072` · [HTML profile page](../../produkte/evoflix-das-netflix-f-r-expertenwissen-32394.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $18.69 (Subscription) |
+| Price | $18.71 (Subscription) |
 | Affiliate commission | 33% |
-| Earnings/sale* | $6.17 |
+| Earnings/sale* | $6.18 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | EvoflixClubStore |
@@ -80,14 +80,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Evoflix - Das Netflix für Expertenwissen? — Typ: Member area and video courses, Anbieter: EvoflixClubStore, gelistet seit 2019-12-10
-- Wie viel kostet es? — 18.694632 USD
+- Wie viel kostet es? — 18.706336 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Evoflix - Das Netflix für Expertenwissen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/299072
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/299072/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Evoflix%20-%20Das%20Netflix%20f%C3%BCr%20Expertenwissen
 
 ## 4. Editorial notes

@@ -4,34 +4,34 @@ digistore24_product_id: 577219
 title: "Dein Neustart: Finde Dein erfülltes Leben JETZT!"
 vendor: "Glareena"
 product_type: "Member area and video courses"
-price: 334.31
+price: 334.52
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 167.16
+earnings_per_sale: 167.26
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2024-10-25"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/50207/adminstore/"
+promo_link: "https://gluecksmomente-jeden-tag.com/dein-neustart-jetzt?aff=adminstore#aff=adminstore"
 sales_page: "https://gluecksmomente-jeden-tag.com/dein-neustart-jetzt"
 language: "de"
 ---
 # Dein Neustart: Finde Dein erfülltes Leben JETZT!
 
 > Product ID `50207` · Digistore24 productId `577219` · [HTML profile page](../../produkte/dein-neustart-finde-dein-erf-lltes-leben-jetzt-50207.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $334.31 (Single payment) |
+| Price | $334.52 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $167.16 |
+| Earnings/sale* | $167.26 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Glareena |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/50207/adminstore/
+- **Promo link (affiliate):** https://gluecksmomente-jeden-tag.com/dein-neustart-jetzt?aff=adminstore#aff=adminstore
 - Sales page: https://gluecksmomente-jeden-tag.com/dein-neustart-jetzt
 - Vendor affiliate support: https://gluecksmomente-jeden-tag.com/affiliateprogramm
 - Canonical redirect: https://www.digistore24.com/redir/577219/adminstore
@@ -90,14 +90,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Dein Neustart: Finde Dein erfülltes Leben JETZT!? — Typ: Member area and video courses, Anbieter: Glareena, gelistet seit 2024-10-25
-- Wie viel kostet es? — 334.31190000000004 USD
+- Wie viel kostet es? — 334.5212 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Dein Neustart: Finde Dein erfülltes Leben JETZT! Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/577219
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/577219/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Dein%20Neustart%3A%20Finde%20Dein%20erf%C3%BClltes%20Leben%20JETZT!
 
 ## 4. Editorial notes

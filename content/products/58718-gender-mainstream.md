@@ -4,16 +4,16 @@ digistore24_product_id: 716554
 title: "Gender Mainstream"
 vendor: "Novaris_web"
 product_type: "E-books"
-price: 8.25
+price: 8.26
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 0.83
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Dating, Relationships & Romance","Personal Development"]
+categories: ["Personal Development","Dating, Relationships & Romance"]
 listed_since: "2026-08-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://novaris.de.cool/gender.php?aff=adminstore#aff=adminstore"
 sales_page: "https://novaris.de.cool/gender.php"
@@ -22,14 +22,14 @@ language: "de"
 # Gender Mainstream
 
 > Product ID `58718` · Digistore24 productId `716554` · [HTML profile page](../../produkte/gender-mainstream-58718.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $8.25 (Single payment) |
+| Price | $8.26 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $0.83 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | Novaris_web |
 | Listed since | 2026-08-27 |
 | Auto-accept affiliates | yes |
-| Categories | Dating, Relationships & Romance, Personal Development |
+| Categories | Personal Development, Dating, Relationships & Romance |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -75,14 +75,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Gender Mainstream? — Typ: E-books, Anbieter: Novaris_web, gelistet seit 2026-08-27
-- Wie viel kostet es? — 8.251578 USD
+- Wie viel kostet es? — 8.256744 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Gender Mainstream Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/716554
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/716554/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Gender%20Mainstream
 
 ## 4. Editorial notes

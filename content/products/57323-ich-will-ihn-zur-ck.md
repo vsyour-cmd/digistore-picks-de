@@ -4,7 +4,7 @@ digistore24_product_id: 706652
 title: "Ich will ihn zurück"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 20.8
+price: 20.81
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 10.4
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2026-07-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/57323/adminstore/"
+promo_link: "https://ratgeberplatz.de/ratgeber/ich-will-ihn-zurueck?aff=adminstore#aff=adminstore"
 sales_page: "https://ratgeberplatz.de/ratgeber/ich-will-ihn-zurueck"
 language: "de"
 ---
 # Ich will ihn zurück
 
 > Product ID `57323` · Digistore24 productId `706652` · [HTML profile page](../../produkte/ich-will-ihn-zur-ck-57323.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.80 (Single payment) |
+| Price | $20.81 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $10.40 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/57323/adminstore/
+- **Promo link (affiliate):** https://ratgeberplatz.de/ratgeber/ich-will-ihn-zurueck?aff=adminstore#aff=adminstore
 - Sales page: https://ratgeberplatz.de/ratgeber/ich-will-ihn-zurueck
 - Vendor affiliate support: https://www.ratgeberplatz.de/partnerprogramm
 - Canonical redirect: https://www.digistore24.com/redir/706652/adminstore
@@ -85,14 +85,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ich will ihn zurück? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-07-01
-- Wie viel kostet es? — 20.796660000000003 USD
+- Wie viel kostet es? — 20.80968 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Ich will ihn zurück Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/706652
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/706652/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Ich%20will%20ihn%20zur%C3%BCck
 
 ## 4. Editorial notes

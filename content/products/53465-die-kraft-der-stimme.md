@@ -4,40 +4,40 @@ digistore24_product_id: 628698
 title: "Die Kraft der Stimme"
 vendor: "freies-bewusstsein"
 product_type: "Member area and video courses"
-price: 33.82
+price: 33.84
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 16.92
+earnings_per_sale: 16.93
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Dancing & Music","Personal Development","Spiri­tua­lity & Esotericism"]
+categories: ["Personal Development","Spiri­tua­lity & Esotericism","Dancing & Music"]
 listed_since: "2025-08-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/53465/adminstore/"
+promo_link: "https://freies-bewusstsein.de/kraft-der-stimme/?aff=adminstore#aff=adminstore"
 sales_page: "https://freies-bewusstsein.de/kraft-der-stimme/"
 language: "de"
 ---
 # Die Kraft der Stimme
 
 > Product ID `53465` · Digistore24 productId `628698` · [HTML profile page](../../produkte/die-kraft-der-stimme-53465.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $33.82 (Single payment, Installment) |
+| Price | $33.84 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $16.92 |
+| Earnings/sale* | $16.93 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | freies-bewusstsein |
 | Listed since | 2025-08-09 |
 | Auto-accept affiliates | yes |
-| Categories | Dancing & Music, Personal Development, Spiri­tua­lity & Esotericism |
+| Categories | Personal Development, Spiri­tua­lity & Esotericism, Dancing & Music |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/53465/adminstore/
+- **Promo link (affiliate):** https://freies-bewusstsein.de/kraft-der-stimme/?aff=adminstore#aff=adminstore
 - Sales page: https://freies-bewusstsein.de/kraft-der-stimme/
 - Vendor affiliate support: https://force-of-life.de/affiliate-programm/
 - Canonical redirect: https://www.digistore24.com/redir/628698/adminstore
@@ -83,14 +83,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die Kraft der Stimme? — Typ: Member area and video courses, Anbieter: freies-bewusstsein, gelistet seit 2025-08-09
-- Wie viel kostet es? — 33.822525000000006 USD
+- Wie viel kostet es? — 33.8437 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Die Kraft der Stimme Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/628698
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/628698/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Die%20Kraft%20der%20Stimme
 
 ## 4. Editorial notes

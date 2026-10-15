@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2020-09-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/product/346887?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/346887"
@@ -22,7 +22,7 @@ language: "de"
 # 10 Booster Zutaten (E-Book)
 
 > Product ID `34020` · Digistore24 productId `346887` · [HTML profile page](../../produkte/10-booster-zutaten-e-book-34020.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -78,7 +78,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 10 Booster Zutaten (E-Book) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/346887
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/346887/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=10%20Booster%20Zutaten%20(E-Book)
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 385485
 title: "Affiliate Trainingslager 2.0 Chris Boenig: Einfach verdienen"
 vendor: "Chris-B"
 product_type: "Member area and video courses"
-price: 6.57
+price: 6.58
 currency: "USD"
 affiliate_commission_pct: 80
-earnings_per_sale: 27.45
+earnings_per_sale: 27.47
 cart_conversion_pct: 5
 cancel_rate_pct: 0.97
-categories: ["Email Marketing","Online Marketing & E-Business","Social Media"]
+categories: ["Online Marketing & E-Business","Social Media","Email Marketing"]
 listed_since: "2021-04-19"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://chrisboenig.com/training?aff=adminstore#aff=adminstore"
 sales_page: "https://chrisboenig.com/training"
@@ -22,22 +22,22 @@ language: "de"
 # Affiliate Trainingslager 2.0 Chris Boenig: Einfach verdienen
 
 > Product ID `36460` · Digistore24 productId `385485` · [HTML profile page](../../produkte/affiliate-trainingslager-2-0-chris-boenig-einfach-verdienen-36460.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $6.57 (Single payment) |
+| Price | $6.58 (Single payment) |
 | Affiliate commission | 80% |
-| Earnings/sale* | $27.45 |
+| Earnings/sale* | $27.47 |
 | Cart conversion* | 5% |
 | Cancel rate* | 0.97% |
 | Vendor | Chris-B |
 | Listed since | 2021-04-19 |
 | Auto-accept affiliates | yes |
-| Categories | Email Marketing, Online Marketing & E-Business, Social Media |
+| Categories | Online Marketing & E-Business, Social Media, Email Marketing |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Affiliate Trainingslager 2.0 Chris Boenig: Einfach verdienen? — Typ: Member area and video courses, Anbieter: Chris-B, gelistet seit 2021-04-19
-- Wie viel kostet es? — 6.574428 USD
+- Wie viel kostet es? — 6.578544 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Affiliate Trainingslager 2.0 Chris Boenig: Einfach verdienen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/385485
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/385485/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Affiliate%20Trainingslager%202.0%20Chris%20Boenig%3A%20Einfach%20verdienen
 
 ## 4. Editorial notes

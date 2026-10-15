@@ -4,40 +4,40 @@ digistore24_product_id: 701772
 title: "KIP: Mehr Umsatz aus bestehenden KlickTipp-Kontakten"
 vendor: "Mischki"
 product_type: "Software"
-price: 166.6
+price: 166.7
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 33.32
+earnings_per_sale: 33.34
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Email Marketing","Online Marketing & E-Business","Marketing Services"]
+categories: ["Online Marketing & E-Business","Email Marketing","Marketing Services"]
 listed_since: "2026-07-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/57679/adminstore/"
+promo_link: "https://ktr.rocks/?aff=adminstore#aff=adminstore"
 sales_page: "https://ktr.rocks/"
 language: "de"
 ---
 # KIP: Mehr Umsatz aus bestehenden KlickTipp-Kontakten
 
 > Product ID `57679` · Digistore24 productId `701772` · [HTML profile page](../../produkte/kip-mehr-umsatz-aus-bestehenden-klicktipp-kontakten-57679.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $166.60 (Subscription) |
+| Price | $166.70 (Subscription) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $33.32 |
+| Earnings/sale* | $33.34 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Mischki |
 | Listed since | 2026-07-22 |
 | Auto-accept affiliates | yes |
-| Categories | Email Marketing, Online Marketing & E-Business, Marketing Services |
+| Categories | Online Marketing & E-Business, Email Marketing, Marketing Services |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/57679/adminstore/
+- **Promo link (affiliate):** https://ktr.rocks/?aff=adminstore#aff=adminstore
 - Sales page: https://ktr.rocks/
 - Canonical redirect: https://www.digistore24.com/redir/701772/adminstore
 
@@ -88,14 +88,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KIP: Mehr Umsatz aus bestehenden KlickTipp-Kontakten? — Typ: Software, Anbieter: Mischki, gelistet seit 2026-07-22
-- Wie viel kostet es? — 166.5969 USD
+- Wie viel kostet es? — 166.7012 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: KIP: Mehr Umsatz aus bestehenden KlickTipp-Kontakten Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/701772
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/701772/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=KIP%3A%20Mehr%20Umsatz%20aus%20bestehenden%20KlickTipp-Kontakten
 
 ## 4. Editorial notes

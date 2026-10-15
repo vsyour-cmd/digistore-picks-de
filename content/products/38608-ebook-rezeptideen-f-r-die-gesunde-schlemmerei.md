@@ -4,7 +4,7 @@ digistore24_product_id: 421370
 title: "eBook - Rezeptideen für die Gesunde Schlemmerei"
 vendor: "bebrave"
 product_type: "E-books"
-price: 15.68
+price: 15.69
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 1.57
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink"]
 listed_since: "2021-12-19"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/421370?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/421370"
@@ -22,14 +22,14 @@ language: "de"
 # eBook - Rezeptideen für die Gesunde Schlemmerei
 
 > Product ID `38608` · Digistore24 productId `421370` · [HTML profile page](../../produkte/ebook-rezeptideen-f-r-die-gesunde-schlemmerei-38608.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $15.68 (Single payment) |
+| Price | $15.69 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $1.57 |
 | Cart conversion* | — |
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist eBook - Rezeptideen für die Gesunde Schlemmerei? — Typ: E-books, Anbieter: bebrave, gelistet seit 2021-12-19
-- Wie viel kostet es? — 15.675762 USD
+- Wie viel kostet es? — 15.685576 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: eBook - Rezeptideen für die Gesunde Schlemmerei Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/421370
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/421370/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=eBook%20-%20Rezeptideen%20f%C3%BCr%20die%20Gesunde%20Schlemmerei
 
 ## 4. Editorial notes

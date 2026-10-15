@@ -4,7 +4,7 @@ digistore24_product_id: 731028
 title: "E-Book „Deine Basis für ein bewusstes Leben in Balance“"
 vendor: "SylviaMybestprojectisME"
 product_type: "E-books"
-price: 15.68
+price: 15.69
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 7.84
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2026-09-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/731028?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/731028"
@@ -22,14 +22,14 @@ language: "de"
 # E-Book „Deine Basis für ein bewusstes Leben in Balance“
 
 > Product ID `59028` · Digistore24 productId `731028` · [HTML profile page](../../produkte/e-book-deine-basis-f-r-ein-bewusstes-leben-in-balance-59028.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $15.68 (Single payment) |
+| Price | $15.69 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $7.84 |
 | Cart conversion* | — |
@@ -74,14 +74,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist E-Book „Deine Basis für ein bewusstes Leben in Balance“? — Typ: E-books, Anbieter: SylviaMybestprojectisME, gelistet seit 2026-09-08
-- Wie viel kostet es? — 15.675762 USD
+- Wie viel kostet es? — 15.685576 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: E-Book „Deine Basis für ein bewusstes Leben in Balance“ Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/731028
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/731028/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=E-Book%20%E2%80%9EDeine%20Basis%20f%C3%BCr%20ein%20bewusstes%20Leben%20in%20Balance%E2%80%9C
 
 ## 4. Editorial notes

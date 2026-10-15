@@ -4,16 +4,16 @@ digistore24_product_id: 726562
 title: "Connectra Business Navigator"
 vendor: "steffsteffstein"
 product_type: "Member area and video courses"
-price: 88.33
+price: 88.39
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 35.33
+earnings_per_sale: 35.35
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Profession & Job","Project Management"]
 listed_since: "2026-09-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
 promo_link: "http://navigator.connectra.club?aff=adminstore#aff=adminstore"
 sales_page: "http://navigator.connectra.club"
@@ -22,16 +22,16 @@ language: "de"
 # Connectra Business Navigator
 
 > Product ID `59014` · Digistore24 productId `726562` · [HTML profile page](../../produkte/connectra-business-navigator-59014.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $88.33 (Single payment) |
+| Price | $88.39 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $35.33 |
+| Earnings/sale* | $35.35 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | steffsteffstein |
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Connectra Business Navigator? — Typ: Member area and video courses, Anbieter: steffsteffstein, gelistet seit 2026-09-07
-- Wie viel kostet es? — 88.32990000000001 USD
+- Wie viel kostet es? — 88.3852 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Connectra Business Navigator Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/726562
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/726562/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Connectra%20Business%20Navigator
 
 ## 4. Editorial notes

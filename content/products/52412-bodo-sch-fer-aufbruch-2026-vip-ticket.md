@@ -4,16 +4,16 @@ digistore24_product_id: 526403
 title: "Bodo Schäfer AUFBRUCH 2026 VIP-Ticket"
 vendor: "BodoSchaefer"
 product_type: "Online coaching"
-price: 49.13
+price: 49.16
 currency: "USD"
 affiliate_commission_pct: 80
-earnings_per_sale: 32.06
+earnings_per_sale: 32.08
 cart_conversion_pct: 2
 cancel_rate_pct: 2.34
 categories: ["Education"]
 listed_since: "2023-11-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://aufbruch7.de/aff/?aff=adminstore#aff=adminstore"
 sales_page: "https://aufbruch7.de/aff/"
@@ -22,16 +22,16 @@ language: "de"
 # Bodo Schäfer AUFBRUCH 2026 VIP-Ticket
 
 > Product ID `52412` · Digistore24 productId `526403` · [HTML profile page](../../produkte/bodo-sch-fer-aufbruch-2026-vip-ticket-52412.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $49.13 (Single payment) |
+| Price | $49.16 (Single payment) |
 | Affiliate commission | 80% |
-| Earnings/sale* | $32.06 |
+| Earnings/sale* | $32.08 |
 | Cart conversion* | 2% |
 | Cancel rate* | 2.34% |
 | Vendor | BodoSchaefer |
@@ -89,14 +89,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Bodo Schäfer AUFBRUCH 2026 VIP-Ticket? — Typ: Online coaching, Anbieter: BodoSchaefer, gelistet seit 2023-11-22
-- Wie viel kostet es? — 49.129314 USD
+- Wie viel kostet es? — 49.160072 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Bodo Schäfer AUFBRUCH 2026 VIP-Ticket Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/526403
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/526403/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Bodo%20Sch%C3%A4fer%20AUFBRUCH%202026%20VIP-Ticket
 
 ## 4. Editorial notes

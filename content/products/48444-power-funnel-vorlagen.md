@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2024-06-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://www.altersvorsorge-vierzigplus-incomebooster.de/funnelvorlagen/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.altersvorsorge-vierzigplus-incomebooster.de/funnelvorlagen/"
@@ -22,7 +22,7 @@ language: "de"
 # Power Funnel Vorlagen
 
 > Product ID `48444` · Digistore24 productId `557337` · [HTML profile page](../../produkte/power-funnel-vorlagen-48444.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -59,14 +59,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Power Funnel Vorlagen? — Typ: Member area and video courses, Anbieter: digitalesonlinebusiness, gelistet seit 2024-06-18
-- Wie viel kostet es? — 1.1181 USD
+- Wie viel kostet es? — 1.1188 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Power Funnel Vorlagen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/557337
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/557337/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Power%20Funnel%20Vorlagen
 
 ## 4. Editorial notes

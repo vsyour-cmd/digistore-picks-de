@@ -4,16 +4,16 @@ digistore24_product_id: 431985
 title: "TikTok Marketing Insider-Hacks"
 vendor: "sattelitevendor"
 product_type: "Member area and video courses"
-price: 17.45
+price: 17.46
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 16.36
+earnings_per_sale: 16.37
 cart_conversion_pct: 12
 cancel_rate_pct: 1.87
 categories: ["Online Marketing & E-Business"]
 listed_since: "2022-02-28"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://im-erfolgscenter.com/tiktokmarketing-insider-hacks/?aff=adminstore#aff=adminstore"
 sales_page: "https://im-erfolgscenter.com/tiktokmarketing-insider-hacks/"
@@ -22,16 +22,16 @@ language: "de"
 # TikTok Marketing Insider-Hacks
 
 > Product ID `39890` · Digistore24 productId `431985` · [HTML profile page](../../produkte/tiktok-marketing-insider-hacks-39890.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $17.45 (Single payment) |
+| Price | $17.46 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $16.36 |
+| Earnings/sale* | $16.37 |
 | Cart conversion* | 12% |
 | Cancel rate* | 1.87% |
 | Vendor | sattelitevendor |
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist TikTok Marketing Insider-Hacks? — Typ: Member area and video courses, Anbieter: sattelitevendor, gelistet seit 2022-02-28
-- Wie viel kostet es? — 17.453541 USD
+- Wie viel kostet es? — 17.464468 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: TikTok Marketing Insider-Hacks Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/431985
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/431985/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=TikTok%20Marketing%20Insider-Hacks
 
 ## 4. Editorial notes

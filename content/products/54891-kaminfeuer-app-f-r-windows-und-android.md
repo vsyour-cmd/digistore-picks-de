@@ -4,7 +4,7 @@ digistore24_product_id: 571616
 title: "Kaminfeuer-App für Windows und Android"
 vendor: "JMMGComm"
 product_type: "Software"
-price: 14.09
+price: 14.1
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 1.41
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2024-09-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/54891/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/571616?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/571616"
 language: "de"
 ---
 # Kaminfeuer-App für Windows und Android
 
 > Product ID `54891` · Digistore24 productId `571616` · [HTML profile page](../../produkte/kaminfeuer-app-f-r-windows-und-android-54891.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $14.09 (Single payment) |
+| Price | $14.10 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $1.41 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/54891/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/571616?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/571616
 - Canonical redirect: https://www.digistore24.com/redir/571616/adminstore
 
@@ -75,14 +75,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Kaminfeuer-App für Windows und Android? — Typ: Software, Anbieter: JMMGComm, gelistet seit 2024-09-21
-- Wie viel kostet es? — 14.08806 USD
+- Wie viel kostet es? — 14.09688 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Kaminfeuer-App für Windows und Android Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/571616
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/571616/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Kaminfeuer-App%20f%C3%BCr%20Windows%20und%20Android
 
 ## 4. Editorial notes

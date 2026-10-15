@@ -4,7 +4,7 @@ digistore24_product_id: 732901
 title: "Digitale Ordnung für Dateien und E-Mails"
 vendor: "woitaskruederb3c5"
 product_type: "Member area and video courses"
-price: 27.25
+price: 27.27
 currency: "USD"
 affiliate_commission_pct: 0
 earnings_per_sale: 5.59
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Office Organization"]
 listed_since: "2026-10-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/60191/adminstore/"
+promo_link: "https://silke-woitas-krueder.coachy.net/lp/landingpage-digitale-ordnung?aff=adminstore#aff=adminstore"
 sales_page: "https://silke-woitas-krueder.coachy.net/lp/landingpage-digitale-ordnung"
 language: "de"
 ---
 # Digitale Ordnung für Dateien und E-Mails
 
 > Product ID `60191` · Digistore24 productId `732901` · [HTML profile page](../../produkte/digitale-ordnung-f-r-dateien-und-e-mails-60191.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $27.25 (Single payment) |
+| Price | $27.27 (Single payment) |
 | Affiliate commission | 0% |
 | Earnings/sale* | $5.59 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/60191/adminstore/
+- **Promo link (affiliate):** https://silke-woitas-krueder.coachy.net/lp/landingpage-digitale-ordnung?aff=adminstore#aff=adminstore
 - Sales page: https://silke-woitas-krueder.coachy.net/lp/landingpage-digitale-ordnung
 - Canonical redirect: https://www.digistore24.com/redir/732901/adminstore
 
@@ -66,14 +66,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Digitale Ordnung für Dateien und E-Mails? — Typ: Member area and video courses, Anbieter: woitaskruederb3c5, gelistet seit 2026-10-05
-- Wie viel kostet es? — 27.248097000000005 USD
+- Wie viel kostet es? — 27.265156 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Digitale Ordnung für Dateien und E-Mails Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/732901
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/732901/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Digitale%20Ordnung%20f%C3%BCr%20Dateien%20und%20E-Mails
 
 ## 4. Editorial notes

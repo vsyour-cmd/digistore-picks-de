@@ -4,7 +4,7 @@ digistore24_product_id: 421775
 title: "Happy Money Girl Jahresplan - Organisation im Alltag"
 vendor: "NadjaHorlacher"
 product_type: "Member area and video courses"
-price: 9.3
+price: 9.31
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 4.65
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2021-12-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://nadjahorlacher.com/nadjas-jahresplan/?aff=adminstore#aff=adminstore"
 sales_page: "https://nadjahorlacher.com/nadjas-jahresplan/"
@@ -22,14 +22,14 @@ language: "de"
 # Happy Money Girl Jahresplan - Organisation im Alltag
 
 > Product ID `38688` · Digistore24 productId `421775` · [HTML profile page](../../produkte/happy-money-girl-jahresplan-organisation-im-alltag-38688.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $9.30 (Single payment) |
+| Price | $9.31 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $4.65 |
 | Cart conversion* | — |
@@ -59,14 +59,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Happy Money Girl Jahresplan - Organisation im Alltag? — Typ: Member area and video courses, Anbieter: NadjaHorlacher, gelistet seit 2021-12-22
-- Wie viel kostet es? — 9.302592 USD
+- Wie viel kostet es? — 9.308416000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Happy Money Girl Jahresplan - Organisation im Alltag Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/421775
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/421775/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Happy%20Money%20Girl%20Jahresplan%20-%20Organisation%20im%20Alltag
 
 ## 4. Editorial notes

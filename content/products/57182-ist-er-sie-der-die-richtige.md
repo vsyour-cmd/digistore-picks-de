@@ -4,16 +4,16 @@ digistore24_product_id: 701940
 title: "Ist er/sie der/die Richtige?"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 19.75
+price: 19.76
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 9.87
+earnings_per_sale: 9.88
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2026-06-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://ratgeberplatz.de/ratgeber/ist-er-sie-der-richtige?aff=adminstore#aff=adminstore"
 sales_page: "https://ratgeberplatz.de/ratgeber/ist-er-sie-der-richtige"
@@ -22,16 +22,16 @@ language: "de"
 # Ist er/sie der/die Richtige?
 
 > Product ID `57182` · Digistore24 productId `701940` · [HTML profile page](../../produkte/ist-er-sie-der-die-richtige-57182.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $19.75 (Single payment) |
+| Price | $19.76 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $9.87 |
+| Earnings/sale* | $9.88 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pixonmedia |
@@ -85,14 +85,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ist er/sie der/die Richtige?? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-06-29
-- Wie viel kostet es? — 19.745646 USD
+- Wie viel kostet es? — 19.758008 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Ist er/sie der/die Richtige? Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/701940
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/701940/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Ist%20er%2Fsie%20der%2Fdie%20Richtige%3F
 
 ## 4. Editorial notes

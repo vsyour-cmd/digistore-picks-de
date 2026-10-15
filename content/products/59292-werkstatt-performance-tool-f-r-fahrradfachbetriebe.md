@@ -4,16 +4,16 @@ digistore24_product_id: 733334
 title: "Werkstatt-Performance Tool für Fahrradfachbetriebe"
 vendor: "markplenert7400"
 product_type: "Downloads"
-price: 55.44
+price: 55.47
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 22.17
+earnings_per_sale: 22.19
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Software","Finances"]
 listed_since: "2026-09-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.bikeworkshop-performance.de/werkstatt-performance-tool/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.bikeworkshop-performance.de/werkstatt-performance-tool/"
@@ -22,16 +22,16 @@ language: "de"
 # Werkstatt-Performance Tool für Fahrradfachbetriebe
 
 > Product ID `59292` · Digistore24 productId `733334` · [HTML profile page](../../produkte/werkstatt-performance-tool-f-r-fahrradfachbetriebe-59292.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $55.44 (Single payment) |
+| Price | $55.47 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $22.17 |
+| Earnings/sale* | $22.19 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | markplenert7400 |
@@ -91,14 +91,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Werkstatt-Performance Tool für Fahrradfachbetriebe? — Typ: Downloads, Anbieter: markplenert7400, gelistet seit 2026-09-16
-- Wie viel kostet es? — 55.435398 USD
+- Wie viel kostet es? — 55.470104 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Werkstatt-Performance Tool für Fahrradfachbetriebe Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/733334
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/733334/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Werkstatt-Performance%20Tool%20f%C3%BCr%20Fahrradfachbetriebe
 
 ## 4. Editorial notes

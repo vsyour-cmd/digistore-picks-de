@@ -4,16 +4,16 @@ digistore24_product_id: 38851
 title: "Onlinekurs \"Die MET-Glücksformel\"-reduzierter Preis"
 vendor: "franke2met"
 product_type: "Member area and video courses"
-price: 94.07
+price: 94.12
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 25.87
+earnings_per_sale: 25.89
 cart_conversion_pct: 32
 cancel_rate_pct: 3.75
 categories: ["Health & Fitness"]
 listed_since: "2014-12-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://franke-akademie.de/met-gluecksformel-instagram?aff=adminstore#aff=adminstore"
 sales_page: "https://franke-akademie.de/met-gluecksformel-instagram"
@@ -22,16 +22,16 @@ language: "de"
 # Onlinekurs "Die MET-Glücksformel"-reduzierter Preis
 
 > Product ID `55676` · Digistore24 productId `38851` · [HTML profile page](../../produkte/onlinekurs-die-met-gl-cksformel-reduzierter-preis-55676.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $94.07 (Single payment) |
+| Price | $94.12 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $25.87 |
+| Earnings/sale* | $25.89 |
 | Cart conversion* | 32% |
 | Cancel rate* | 3.75% |
 | Vendor | franke2met |
@@ -88,14 +88,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Onlinekurs "Die MET-Glücksformel"-reduzierter Preis? — Typ: Member area and video courses, Anbieter: franke2met, gelistet seit 2014-12-16
-- Wie viel kostet es? — 94.065753 USD
+- Wie viel kostet es? — 94.12464399999999 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Onlinekurs "Die MET-Glücksformel"-reduzierter Preis Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/38851
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/38851/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Onlinekurs%20%22Die%20MET-Gl%C3%BCcksformel%22-reduzierter%20Preis
 
 ## 4. Editorial notes

@@ -4,34 +4,34 @@ digistore24_product_id: 740967
 title: "GewerkFlow – 50 % Affiliate-Provision zum Start"
 vendor: "Gewerkflow"
 product_type: "Software"
-price: 37.49
+price: 37.51
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 18.75
+earnings_per_sale: 18.76
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-10-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/60247/adminstore/"
+promo_link: "http://Gewerkflow.com?aff=adminstore#aff=adminstore"
 sales_page: "http://Gewerkflow.com"
 language: "de"
 ---
 # GewerkFlow – 50 % Affiliate-Provision zum Start
 
 > Product ID `60247` · Digistore24 productId `740967` · [HTML profile page](../../produkte/gewerkflow-50-affiliate-provision-zum-start-60247.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $37.49 (Subscription) |
+| Price | $37.51 (Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $18.75 |
+| Earnings/sale* | $18.76 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Gewerkflow |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/60247/adminstore/
+- **Promo link (affiliate):** http://Gewerkflow.com?aff=adminstore#aff=adminstore
 - Sales page: http://Gewerkflow.com
 - Canonical redirect: https://www.digistore24.com/redir/740967/adminstore
 
@@ -83,14 +83,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist GewerkFlow – 50 % Affiliate-Provision zum Start? — Typ: Software, Anbieter: Gewerkflow, gelistet seit 2026-10-06
-- Wie viel kostet es? — 37.489893 USD
+- Wie viel kostet es? — 37.513364 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: GewerkFlow – 50 % Affiliate-Provision zum Start Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/740967
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/740967/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=GewerkFlow%20%E2%80%93%2050%20%25%20Affiliate-Provision%20zum%20Start
 
 ## 4. Editorial notes

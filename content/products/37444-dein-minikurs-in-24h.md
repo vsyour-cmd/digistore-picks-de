@@ -4,16 +4,16 @@ digistore24_product_id: 402815
 title: "Dein Minikurs in 24h!"
 vendor: "Jyotima"
 product_type: "Member area and video courses"
-price: 46.54
+price: 46.56
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 14.75
+earnings_per_sale: 14.76
 cart_conversion_pct: 4
 cancel_rate_pct: 1.21
 categories: ["Online Marketing & E-Business"]
 listed_since: "2021-08-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://jyotimaflak.com/minikurs-in-24h/?aff=adminstore#aff=adminstore"
 sales_page: "https://jyotimaflak.com/minikurs-in-24h/"
@@ -22,16 +22,16 @@ language: "de"
 # Dein Minikurs in 24h!
 
 > Product ID `37444` · Digistore24 productId `402815` · [HTML profile page](../../produkte/dein-minikurs-in-24h-37444.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $46.54 (Single payment, Installment) |
+| Price | $46.56 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $14.75 |
+| Earnings/sale* | $14.76 |
 | Cart conversion* | 4% |
 | Cancel rate* | 1.21% |
 | Vendor | Jyotima |
@@ -95,14 +95,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Dein Minikurs in 24h!? — Typ: Member area and video courses, Anbieter: Jyotima, gelistet seit 2021-08-16
-- Wie viel kostet es? — 46.535322 USD
+- Wie viel kostet es? — 46.564456 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Dein Minikurs in 24h! Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/402815
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/402815/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Dein%20Minikurs%20in%2024h!
 
 ## 4. Editorial notes

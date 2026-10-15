@@ -10,10 +10,10 @@ affiliate_commission_pct: 50
 earnings_per_sale: 5.2
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Computer & Internet","Education","Online Marketing & E-Business"]
+categories: ["Computer & Internet","Online Marketing & E-Business","Education"]
 listed_since: "2025-06-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.online-marketing-woman.de/59-ki-readiness-checkliste-anmeldung?aff=adminstore#aff=adminstore"
 sales_page: "https://www.online-marketing-woman.de/59-ki-readiness-checkliste-anmeldung"
@@ -22,7 +22,7 @@ language: "de"
 # Bewirb die KI-Readiness-Checkliste. Erhalte 50% Provision.
 
 > Product ID `54372` · Digistore24 productId `620307` · [HTML profile page](../../produkte/bewirb-die-ki-readiness-checkliste-erhalte-50-provision-54372.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | onlinemarketingwoman |
 | Listed since | 2025-06-24 |
 | Auto-accept affiliates | yes |
-| Categories | Computer & Internet, Education, Online Marketing & E-Business |
+| Categories | Computer & Internet, Online Marketing & E-Business, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -84,14 +84,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Bewirb die KI-Readiness-Checkliste. Erhalte 50% Provision.? — Typ: E-books, Anbieter: onlinemarketingwoman, gelistet seit 2025-06-24
-- Wie viel kostet es? — 10.398330000000001 USD
+- Wie viel kostet es? — 10.40484 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Bewirb die KI-Readiness-Checkliste. Erhalte 50% Provision. Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/620307
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/620307/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Bewirb%20die%20KI-Readiness-Checkliste.%20Erhalte%2050%25%20Provision.
 
 ## 4. Editorial notes

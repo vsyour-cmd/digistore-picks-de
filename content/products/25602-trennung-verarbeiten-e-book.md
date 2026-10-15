@@ -4,16 +4,16 @@ digistore24_product_id: 88757
 title: "Trennung verarbeiten [E-Book]"
 vendor: "rheinrost"
 product_type: "E-books"
-price: 10.34
+price: 10.35
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 5.18
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Dating, Relationships & Romance","Family & Children","Personal Development"]
+categories: ["Personal Development","Dating, Relationships & Romance","Family & Children"]
 listed_since: "2016-07-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.beziehungsratgeber.net/shop/trennung-verarbeiten/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.beziehungsratgeber.net/shop/trennung-verarbeiten/"
@@ -22,14 +22,14 @@ language: "de"
 # Trennung verarbeiten [E-Book]
 
 > Product ID `25602` · Digistore24 productId `88757` · [HTML profile page](../../produkte/trennung-verarbeiten-e-book-25602.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.34 (Single payment) |
+| Price | $10.35 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $5.18 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | rheinrost |
 | Listed since | 2016-07-22 |
 | Auto-accept affiliates | yes |
-| Categories | Dating, Relationships & Romance, Family & Children, Personal Development |
+| Categories | Personal Development, Dating, Relationships & Romance, Family & Children |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Trennung verarbeiten [E-Book]? — Typ: E-books, Anbieter: rheinrost, gelistet seit 2016-07-22
-- Wie viel kostet es? — 10.342425 USD
+- Wie viel kostet es? — 10.3489 USD
 - Garantie? — 30
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Trennung verarbeiten [E-Book] Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/88757
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/88757/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Trennung%20verarbeiten%20%5BE-Book%5D
 
 ## 4. Editorial notes

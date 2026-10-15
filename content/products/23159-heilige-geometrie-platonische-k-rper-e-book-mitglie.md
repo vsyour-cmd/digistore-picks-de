@@ -4,7 +4,7 @@ digistore24_product_id: 206741
 title: "Heilige Geometrie - Platonische Körper - E-Book      Mitglie"
 vendor: "AndreasBeutel"
 product_type: "Downloads"
-price: 14.1
+price: 14.11
 currency: "USD"
 affiliate_commission_pct: 40
 earnings_per_sale: 5.64
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2018-03-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.heilyoga.me/herzensfreude-2-herzenergie-im-einsatz/#aff=adminstore"
+promo_link: "https://andreas-beutel.tv/e-book-die-platonischen-koerper-entdecken/?aff=adminstore#aff=adminstore"
 sales_page: "https://andreas-beutel.tv/e-book-die-platonischen-koerper-entdecken/"
 language: "de"
 ---
 # Heilige Geometrie - Platonische Körper - E-Book      Mitglie
 
 > Product ID `23159` · Digistore24 productId `206741` · [HTML profile page](../../produkte/heilige-geometrie-platonische-k-rper-e-book-mitglie-23159.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $14.10 (Single payment) |
+| Price | $14.11 (Single payment) |
 | Affiliate commission | 40% |
 | Earnings/sale* | $5.64 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.heilyoga.me/herzensfreude-2-herzenergie-im-einsatz/#aff=adminstore
+- **Promo link (affiliate):** https://andreas-beutel.tv/e-book-die-platonischen-koerper-entdecken/?aff=adminstore#aff=adminstore
 - Sales page: https://andreas-beutel.tv/e-book-die-platonischen-koerper-entdecken/
 - Vendor affiliate support: https://andreas-beutel.tv/affiliate-info/
 - Canonical redirect: https://www.digistore24.com/redir/206741/adminstore
@@ -76,14 +76,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Heilige Geometrie - Platonische Körper - E-Book      Mitglie? — Typ: Downloads, Anbieter: AndreasBeutel, gelistet seit 2018-03-07
-- Wie viel kostet es? — 14.099241000000001 USD
+- Wie viel kostet es? — 14.108068 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Heilige Geometrie - Platonische Körper - E-Book      Mitglie Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/206741
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/206741/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Heilige%20Geometrie%20-%20Platonische%20K%C3%B6rper%20-%20E-Book%20%20%20%20%20%20Mitglie
 
 ## 4. Editorial notes

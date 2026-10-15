@@ -4,16 +4,16 @@ digistore24_product_id: 311659
 title: "Raus aus TOXISCHEN Beziehungen - Hin zur Liebe | Onlinekurs"
 vendor: "Mariposa75"
 product_type: "Downloads"
-price: 356.1
+price: 356.33
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 106.83
+earnings_per_sale: 106.9
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Dating, Relationships & Romance","Personal Development"]
+categories: ["Personal Development","Dating, Relationships & Romance"]
 listed_since: "2020-03-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "http://katja-amberg-shop.de/rausaustoxischenbeziehungen?aff=adminstore#aff=adminstore"
 sales_page: "http://katja-amberg-shop.de/rausaustoxischenbeziehungen"
@@ -22,22 +22,22 @@ language: "de"
 # Raus aus TOXISCHEN Beziehungen - Hin zur Liebe | Onlinekurs
 
 > Product ID `40072` · Digistore24 productId `311659` · [HTML profile page](../../produkte/raus-aus-toxischen-beziehungen-hin-zur-liebe-onlinekurs-40072.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $356.10 (Single payment, Installment) |
+| Price | $356.33 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $106.83 |
+| Earnings/sale* | $106.90 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Mariposa75 |
 | Listed since | 2020-03-07 |
 | Auto-accept affiliates | yes |
-| Categories | Dating, Relationships & Romance, Personal Development |
+| Categories | Personal Development, Dating, Relationships & Romance |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -92,14 +92,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Raus aus TOXISCHEN Beziehungen - Hin zur Liebe | Onlinekurs? — Typ: Downloads, Anbieter: Mariposa75, gelistet seit 2020-03-07
-- Wie viel kostet es? — 356.103669 USD
+- Wie viel kostet es? — 356.326612 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Raus aus TOXISCHEN Beziehungen - Hin zur Liebe | Onlinekurs Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/311659
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/311659/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Raus%20aus%20TOXISCHEN%20Beziehungen%20-%20Hin%20zur%20Liebe%20%7C%20Onlinekurs
 
 ## 4. Editorial notes

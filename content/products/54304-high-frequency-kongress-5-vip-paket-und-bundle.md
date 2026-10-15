@@ -4,16 +4,16 @@ digistore24_product_id: 631042
 title: "High Frequency Kongress 5 - VIP Paket und Bundle"
 vendor: "kongresshero"
 product_type: "Member area and video courses"
-price: 52.03
+price: 52.06
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 23.95
+earnings_per_sale: 23.96
 cart_conversion_pct: 17
 cancel_rate_pct: 3.68
-categories: ["Profession & Job","Spiri­tua­lity & Esotericism","Personal Development"]
+categories: ["Personal Development","Spiri­tua­lity & Esotericism","Profession & Job"]
 listed_since: "2025-08-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/631042?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/631042"
@@ -22,22 +22,22 @@ language: "de"
 # High Frequency Kongress 5 - VIP Paket und Bundle
 
 > Product ID `54304` · Digistore24 productId `631042` · [HTML profile page](../../produkte/high-frequency-kongress-5-vip-paket-und-bundle-54304.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $52.03 (Single payment, Installment) |
+| Price | $52.06 (Single payment, Installment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $23.95 |
+| Earnings/sale* | $23.96 |
 | Cart conversion* | 17% |
 | Cancel rate* | 3.68% |
 | Vendor | kongresshero |
 | Listed since | 2025-08-21 |
 | Auto-accept affiliates | yes |
-| Categories | Profession & Job, Spiri­tua­lity & Esotericism, Personal Development |
+| Categories | Personal Development, Spiri­tua­lity & Esotericism, Profession & Job |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist High Frequency Kongress 5 - VIP Paket und Bundle? — Typ: Member area and video courses, Anbieter: kongresshero, gelistet seit 2025-08-21
-- Wie viel kostet es? — 52.02519300000001 USD
+- Wie viel kostet es? — 52.057764 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: High Frequency Kongress 5 - VIP Paket und Bundle Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/631042
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/631042/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=High%20Frequency%20Kongress%205%20-%20VIP%20Paket%20und%20Bundle
 
 ## 4. Editorial notes

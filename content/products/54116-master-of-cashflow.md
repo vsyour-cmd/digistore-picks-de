@@ -4,16 +4,16 @@ digistore24_product_id: 621232
 title: "Master Of Cashflow"
 vendor: "Tim_Ecommerce"
 product_type: "Online coaching"
-price: 1409.37
+price: 1410.25
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 352.35
+earnings_per_sale: 352.57
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2025-06-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/621232?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/621232"
@@ -22,16 +22,16 @@ language: "de"
 # Master Of Cashflow
 
 > Product ID `54116` · Digistore24 productId `621232` · [HTML profile page](../../produkte/master-of-cashflow-54116.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $1409.37 (Single payment, Installment) |
+| Price | $1410.25 (Single payment, Installment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $352.35 |
+| Earnings/sale* | $352.57 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Tim_Ecommerce |
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Master Of Cashflow? — Typ: Online coaching, Anbieter: Tim_Ecommerce, gelistet seit 2025-06-29
-- Wie viel kostet es? — 1409.36505 USD
+- Wie viel kostet es? — 1410.2474 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Master Of Cashflow Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/621232
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/621232/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Master%20Of%20Cashflow
 
 ## 4. Editorial notes

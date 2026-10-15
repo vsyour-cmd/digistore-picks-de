@@ -10,19 +10,19 @@ affiliate_commission_pct: 80
 earnings_per_sale: 1.68
 cart_conversion_pct: 19
 cancel_rate_pct: 4.24
-categories: ["Business & Investment","Email Marketing","Online Marketing & E-Business"]
+categories: ["Business & Investment","Online Marketing & E-Business","Email Marketing"]
 listed_since: "2023-02-14"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/42783/adminstore/"
+promo_link: "https://chrisboenig.com/246methode?aff=adminstore#aff=adminstore"
 sales_page: "https://chrisboenig.com/246methode"
 language: "de"
 ---
 # 246€ am Tag Methode 2.0: Verschenken+Verdienen! Chris Boenig
 
 > Product ID `42783` · Digistore24 productId `484335` · [HTML profile page](../../produkte/246-am-tag-methode-2-0-verschenken-verdienen-chris-boenig-42783.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | Chris-B |
 | Listed since | 2023-02-14 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Email Marketing, Online Marketing & E-Business |
+| Categories | Business & Investment, Online Marketing & E-Business, Email Marketing |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/42783/adminstore/
+- **Promo link (affiliate):** https://chrisboenig.com/246methode?aff=adminstore#aff=adminstore
 - Sales page: https://chrisboenig.com/246methode
 - Vendor affiliate support: https://chrisboenig.com/affiliateprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/484335/adminstore
@@ -59,14 +59,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 246€ am Tag Methode 2.0: Verschenken+Verdienen! Chris Boenig? — Typ: Member area and video courses, Anbieter: Chris-B, gelistet seit 2023-02-14
-- Wie viel kostet es? — 2.9406030000000003 USD
+- Wie viel kostet es? — 2.942444 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 246€ am Tag Methode 2.0: Verschenken+Verdienen! Chris Boenig Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/484335
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/484335/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=246%E2%82%AC%20am%20Tag%20Methode%202.0%3A%20Verschenken%2BVerdienen!%20Chris%20Boenig
 
 ## 4. Editorial notes

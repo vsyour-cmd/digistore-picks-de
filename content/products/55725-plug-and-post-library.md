@@ -4,34 +4,34 @@ digistore24_product_id: 616970
 title: "Plug and Post Library"
 vendor: "MoneyCreators"
 product_type: "Member area and video courses"
-price: 23.48
+price: 23.49
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 9.39
+earnings_per_sale: 9.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2025-06-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
-promo_link: "https://www.digistore24.com/redir/55725/adminstore/"
+promo_link: "http://provisions-system.de/libraryhaupt?aff=adminstore#aff=adminstore"
 sales_page: "http://provisions-system.de/libraryhaupt"
 language: "de"
 ---
 # Plug and Post Library
 
 > Product ID `55725` · Digistore24 productId `616970` · [HTML profile page](../../produkte/plug-and-post-library-55725.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $23.48 (Subscription) |
+| Price | $23.49 (Subscription) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $9.39 |
+| Earnings/sale* | $9.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MoneyCreators |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55725/adminstore/
+- **Promo link (affiliate):** http://provisions-system.de/libraryhaupt?aff=adminstore#aff=adminstore
 - Sales page: http://provisions-system.de/libraryhaupt
 - Canonical redirect: https://www.digistore24.com/redir/616970/adminstore
 
@@ -62,14 +62,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Plug and Post Library? — Typ: Member area and video courses, Anbieter: MoneyCreators, gelistet seit 2025-06-05
-- Wie viel kostet es? — 23.4801 USD
+- Wie viel kostet es? — 23.4948 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Plug and Post Library Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/616970
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/616970/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Plug%20and%20Post%20Library
 
 ## 4. Editorial notes

@@ -4,34 +4,34 @@ digistore24_product_id: 603861
 title: "Verschenke Easy Geld Hack + 50% auf Upsells"
 vendor: "MSFS_2218"
 product_type: "Member area and video courses"
-price: 6.93
+price: 6.94
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 0.89
+earnings_per_sale: 0.9
 cart_conversion_pct: 33
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2025-03-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/56005/adminstore/"
+promo_link: "https://byebyehamsterrad.de/easy-money-back/?aff=adminstore#aff=adminstore"
 sales_page: "https://byebyehamsterrad.de/easy-money-back/"
 language: "de"
 ---
 # Verschenke Easy Geld Hack + 50% auf Upsells
 
 > Product ID `56005` · Digistore24 productId `603861` · [HTML profile page](../../produkte/verschenke-easy-geld-hack-50-auf-upsells-56005.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $6.93 (Single payment) |
+| Price | $6.94 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $0.89 |
+| Earnings/sale* | $0.90 |
 | Cart conversion* | 33% |
 | Cancel rate* | 0% |
 | Vendor | MSFS_2218 |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56005/adminstore/
+- **Promo link (affiliate):** https://byebyehamsterrad.de/easy-money-back/?aff=adminstore#aff=adminstore
 - Sales page: https://byebyehamsterrad.de/easy-money-back/
 - Vendor affiliate support: https://byebyehamsterrad.de/partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/603861/adminstore
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Verschenke Easy Geld Hack + 50% auf Upsells? — Typ: Member area and video courses, Anbieter: MSFS_2218, gelistet seit 2025-03-26
-- Wie viel kostet es? — 6.932220000000001 USD
+- Wie viel kostet es? — 6.93656 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Verschenke Easy Geld Hack + 50% auf Upsells Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/603861
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/603861/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Verschenke%20Easy%20Geld%20Hack%20%2B%2050%25%20auf%20Upsells
 
 ## 4. Editorial notes

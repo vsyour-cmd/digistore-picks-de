@@ -12,17 +12,17 @@ cart_conversion_pct: 18
 cancel_rate_pct: 2.71
 categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2025-07-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/53325/adminstore/"
+promo_link: "https://affiliforge.net/Online-Praesenz?aff=adminstore#aff=adminstore"
 sales_page: "https://affiliforge.net/Online-Praesenz"
 language: "de"
 ---
 # Online Präsenz 2.0 - Deine Website und Blog einfach erstellt
 
 > Product ID `53325` · Digistore24 productId `626644` · [HTML profile page](../../produkte/online-pr-senz-2-0-deine-website-und-blog-einfach-erstellt-53325.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/53325/adminstore/
+- **Promo link (affiliate):** https://affiliforge.net/Online-Praesenz?aff=adminstore#aff=adminstore
 - Sales page: https://affiliforge.net/Online-Praesenz
 - Vendor affiliate support: https://affiliforge.net/AffiliForge-Partnerportal
 - Canonical redirect: https://www.digistore24.com/redir/626644/adminstore
@@ -77,14 +77,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online Präsenz 2.0 - Deine Website und Blog einfach erstellt? — Typ: Member area and video courses, Anbieter: AffiliForge, gelistet seit 2025-07-29
-- Wie viel kostet es? — 2.448639 USD
+- Wie viel kostet es? — 2.450172 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Online Präsenz 2.0 - Deine Website und Blog einfach erstellt Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/626644
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/626644/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Online%20Pr%C3%A4senz%202.0%20-%20Deine%20Website%20und%20Blog%20einfach%20erstellt
 
 ## 4. Editorial notes

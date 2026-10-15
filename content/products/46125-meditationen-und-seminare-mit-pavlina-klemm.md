@@ -4,40 +4,40 @@ digistore24_product_id: 406933
 title: "Meditationen und Seminare mit Pavlina Klemm"
 vendor: "user2558797"
 product_type: "Downloads"
-price: 58.6
+price: 58.64
 currency: "USD"
 affiliate_commission_pct: 44.4
-earnings_per_sale: 14.02
+earnings_per_sale: 14.03
 cart_conversion_pct: 9
 cancel_rate_pct: 1.17
-categories: ["Spiri­tua­lity & Esotericism","Personal Development"]
+categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2021-09-11"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/46125/adminstore/"
+promo_link: "https://pavlina-klemm.de/?page_id=4573&aff=adminstore#aff=adminstore"
 sales_page: "https://pavlina-klemm.de/?page_id=4573"
 language: "de"
 ---
 # Meditationen und Seminare mit Pavlina Klemm
 
 > Product ID `46125` · Digistore24 productId `406933` · [HTML profile page](../../produkte/meditationen-und-seminare-mit-pavlina-klemm-46125.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $58.60 (Single payment) |
+| Price | $58.64 (Single payment) |
 | Affiliate commission | 44.4% |
-| Earnings/sale* | $14.02 |
+| Earnings/sale* | $14.03 |
 | Cart conversion* | 9% |
 | Cancel rate* | 1.17% |
 | Vendor | user2558797 |
 | Listed since | 2021-09-11 |
 | Auto-accept affiliates | yes |
-| Categories | Spiri­tua­lity & Esotericism, Personal Development |
+| Categories | Personal Development, Spiri­tua­lity & Esotericism |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/46125/adminstore/
+- **Promo link (affiliate):** https://pavlina-klemm.de/?page_id=4573&aff=adminstore#aff=adminstore
 - Sales page: https://pavlina-klemm.de/?page_id=4573
 - Canonical redirect: https://www.digistore24.com/redir/406933/adminstore
 
@@ -81,14 +81,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Meditationen und Seminare mit Pavlina Klemm? — Typ: Downloads, Anbieter: user2558797, gelistet seit 2021-09-11
-- Wie viel kostet es? — 58.599621 USD
+- Wie viel kostet es? — 58.636308 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Meditationen und Seminare mit Pavlina Klemm Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/406933
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/406933/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Meditationen%20und%20Seminare%20mit%20Pavlina%20Klemm
 
 ## 4. Editorial notes

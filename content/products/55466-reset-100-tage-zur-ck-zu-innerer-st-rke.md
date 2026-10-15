@@ -4,16 +4,16 @@ digistore24_product_id: 666177
 title: "RESET 100 Tage zurück zu innerer Stärke"
 vendor: "Niux489"
 product_type: "Downloads"
-price: 46.97
+price: 47
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 18.78
+earnings_per_sale: 18.8
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Personal Development"]
+categories: ["Personal Development","Education"]
 listed_since: "2026-02-03"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/666177?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/666177"
@@ -22,22 +22,22 @@ language: "de"
 # RESET 100 Tage zurück zu innerer Stärke
 
 > Product ID `55466` · Digistore24 productId `666177` · [HTML profile page](../../produkte/reset-100-tage-zur-ck-zu-innerer-st-rke-55466.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $46.97 (Single payment) |
+| Price | $47.00 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $18.78 |
+| Earnings/sale* | $18.80 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Niux489 |
 | Listed since | 2026-02-03 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Personal Development |
+| Categories | Personal Development, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -90,14 +90,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist RESET 100 Tage zurück zu innerer Stärke? — Typ: Downloads, Anbieter: Niux489, gelistet seit 2026-02-03
-- Wie viel kostet es? — 46.971381 USD
+- Wie viel kostet es? — 47.000788 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: RESET 100 Tage zurück zu innerer Stärke Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/666177
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/666177/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=RESET%20100%20Tage%20zur%C3%BCck%20zu%20innerer%20St%C3%A4rke
 
 ## 4. Editorial notes

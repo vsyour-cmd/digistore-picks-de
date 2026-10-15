@@ -4,7 +4,7 @@ digistore24_product_id: 232026
 title: "Blitzerwarner 2024 (für VW, Seat und Skoda)"
 vendor: "Paisla"
 product_type: "Downloads"
-price: 17.77
+price: 17.78
 currency: "USD"
 affiliate_commission_pct: 28.5
 earnings_per_sale: 5.65
@@ -12,8 +12,8 @@ cart_conversion_pct: 21
 cancel_rate_pct: 4.94
 categories: ["Software"]
 listed_since: "2018-07-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://www.blitzerwarner.autoradio-info.de/go/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.blitzerwarner.autoradio-info.de/go/"
@@ -22,14 +22,14 @@ language: "de"
 # Blitzerwarner 2024 (für VW, Seat und Skoda)
 
 > Product ID `25920` · Digistore24 productId `232026` · [HTML profile page](../../produkte/blitzerwarner-2024-f-r-vw-seat-und-skoda-25920.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $17.77 (Single payment) |
+| Price | $17.78 (Single payment) |
 | Affiliate commission | 28.5% |
 | Earnings/sale* | $5.65 |
 | Cart conversion* | 21% |
@@ -59,14 +59,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Blitzerwarner 2024 (für VW, Seat und Skoda)? — Typ: Downloads, Anbieter: Paisla, gelistet seit 2018-07-05
-- Wie viel kostet es? — 17.766609000000003 USD
+- Wie viel kostet es? — 17.777732 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Blitzerwarner 2024 (für VW, Seat und Skoda) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/232026
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/232026/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Blitzerwarner%202024%20(f%C3%BCr%20VW%2C%20Seat%20und%20Skoda)
 
 ## 4. Editorial notes

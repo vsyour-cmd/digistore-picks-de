@@ -4,7 +4,7 @@ digistore24_product_id: 628584
 title: "KI Influencer Masterclass"
 vendor: "MediaMende"
 product_type: "Member area and video courses"
-price: 5.81
+price: 5.82
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 1.03
@@ -12,8 +12,8 @@ cart_conversion_pct: 12
 cancel_rate_pct: 1.2
 categories: ["Business & Investment","Online Marketing & E-Business","Marketing Services"]
 listed_since: "2025-08-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://www.avatare.io?aff=adminstore#aff=adminstore"
 sales_page: "https://www.avatare.io"
@@ -22,14 +22,14 @@ language: "de"
 # KI Influencer Masterclass
 
 > Product ID `53640` · Digistore24 productId `628584` · [HTML profile page](../../produkte/ki-influencer-masterclass-53640.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $5.81 (Single payment) |
+| Price | $5.82 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $1.03 |
 | Cart conversion* | 12% |
@@ -59,14 +59,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI Influencer Masterclass? — Typ: Member area and video courses, Anbieter: MediaMende, gelistet seit 2025-08-08
-- Wie viel kostet es? — 5.814120000000001 USD
+- Wie viel kostet es? — 5.817760000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: KI Influencer Masterclass Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/628584
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/628584/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=KI%20Influencer%20Masterclass
 
 ## 4. Editorial notes

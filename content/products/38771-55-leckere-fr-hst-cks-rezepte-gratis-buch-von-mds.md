@@ -4,34 +4,34 @@ digistore24_product_id: 422571
 title: "55 leckere Frühstücks-Rezepte Gratis Buch von MDS"
 vendor: "produktmanagerin"
 product_type: "E-books"
-price: 31.74
+price: 31.76
 currency: "USD"
 affiliate_commission_pct: 100
-earnings_per_sale: 27.08
+earnings_per_sale: 27.1
 cart_conversion_pct: 30
 cancel_rate_pct: 12.45
 categories: ["Food & Drink"]
 listed_since: "2021-12-30"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
-promo_link: "https://www.digistore24.com/redir/38771/adminstore/"
+promo_link: "https://machdichschlank.info/55-leckere-fruehstuecksrezepte/?aff=adminstore#aff=adminstore"
 sales_page: "https://machdichschlank.info/55-leckere-fruehstuecksrezepte/"
 language: "de"
 ---
 # 55 leckere Frühstücks-Rezepte Gratis Buch von MDS
 
 > Product ID `38771` · Digistore24 productId `422571` · [HTML profile page](../../produkte/55-leckere-fr-hst-cks-rezepte-gratis-buch-von-mds-38771.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $31.74 (Single payment) |
+| Price | $31.76 (Single payment) |
 | Affiliate commission | 100% |
-| Earnings/sale* | $27.08 |
+| Earnings/sale* | $27.10 |
 | Cart conversion* | 30% |
 | Cancel rate* | 12.45% |
 | Vendor | produktmanagerin |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/38771/adminstore/
+- **Promo link (affiliate):** https://machdichschlank.info/55-leckere-fruehstuecksrezepte/?aff=adminstore#aff=adminstore
 - Sales page: https://machdichschlank.info/55-leckere-fruehstuecksrezepte/
 - Vendor affiliate support: https://machdichschlank.info/55-leckere-fruehstuecksrezepte-partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/422571/adminstore
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 55 leckere Frühstücks-Rezepte Gratis Buch von MDS? — Typ: E-books, Anbieter: produktmanagerin, gelistet seit 2021-12-30
-- Wie viel kostet es? — 31.742859000000003 USD
+- Wie viel kostet es? — 31.762732 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 55 leckere Frühstücks-Rezepte Gratis Buch von MDS Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/422571
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/422571/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=55%20leckere%20Fr%C3%BChst%C3%BCcks-Rezepte%20Gratis%20Buch%20von%20MDS
 
 ## 4. Editorial notes

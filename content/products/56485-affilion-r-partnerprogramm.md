@@ -4,40 +4,40 @@ digistore24_product_id: 652688
 title: "Affilionär | Partnerprogramm"
 vendor: "profitbuddies"
 product_type: "Member area and video courses"
-price: 30.19
+price: 30.21
 currency: "USD"
 affiliate_commission_pct: 80
-earnings_per_sale: 28.32
+earnings_per_sale: 28.34
 cart_conversion_pct: 7
 cancel_rate_pct: 18.73
-categories: ["Business & Investment","Email Marketing","Online Marketing & E-Business"]
+categories: ["Business & Investment","Online Marketing & E-Business","Email Marketing"]
 listed_since: "2025-12-03"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/56485/adminstore/"
+promo_link: "https://www.profitbuddies.de/affilionaer-starter?aff=adminstore#aff=adminstore"
 sales_page: "https://www.profitbuddies.de/affilionaer-starter"
 language: "de"
 ---
 # Affilionär | Partnerprogramm
 
 > Product ID `56485` · Digistore24 productId `652688` · [HTML profile page](../../produkte/affilion-r-partnerprogramm-56485.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $30.19 (Single payment) |
+| Price | $30.21 (Single payment) |
 | Affiliate commission | 80% |
-| Earnings/sale* | $28.32 |
+| Earnings/sale* | $28.34 |
 | Cart conversion* | 7% |
 | Cancel rate* | 18.73% |
 | Vendor | profitbuddies |
 | Listed since | 2025-12-03 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Email Marketing, Online Marketing & E-Business |
+| Categories | Business & Investment, Online Marketing & E-Business, Email Marketing |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56485/adminstore/
+- **Promo link (affiliate):** https://www.profitbuddies.de/affilionaer-starter?aff=adminstore#aff=adminstore
 - Sales page: https://www.profitbuddies.de/affilionaer-starter
 - Vendor affiliate support: https://www.profitbuddies.de/partnerprogramm?utm_source=digistore24&utm_medium=referral&utm_campaign=partnerprogramm-marktplatz
 - Canonical redirect: https://www.digistore24.com/redir/652688/adminstore
@@ -89,14 +89,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Affilionär | Partnerprogramm? — Typ: Member area and video courses, Anbieter: profitbuddies, gelistet seit 2025-12-03
-- Wie viel kostet es? — 30.188700000000004 USD
+- Wie viel kostet es? — 30.2076 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Affilionär | Partnerprogramm Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/652688
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/652688/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Affilion%C3%A4r%20%7C%20Partnerprogramm
 
 ## 4. Editorial notes

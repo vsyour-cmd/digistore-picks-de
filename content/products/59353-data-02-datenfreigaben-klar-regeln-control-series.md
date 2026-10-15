@@ -4,34 +4,34 @@ digistore24_product_id: 734767
 title: "DATA 02 – Datenfreigaben klar regeln (CONTROL SERIES)"
 vendor: "lvlBoZzlvl"
 product_type: "E-books"
-price: 52.04
+price: 52.07
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 26.02
+earnings_per_sale: 26.03
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2026-09-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/59353/adminstore/"
+promo_link: "https://data-02.pages.dev/?aff=adminstore#aff=adminstore"
 sales_page: "https://data-02.pages.dev/"
 language: "de"
 ---
 # DATA 02 – Datenfreigaben klar regeln (CONTROL SERIES)
 
 > Product ID `59353` · Digistore24 productId `734767` · [HTML profile page](../../produkte/data-02-datenfreigaben-klar-regeln-control-series-59353.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $52.04 (Single payment) |
+| Price | $52.07 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $26.02 |
+| Earnings/sale* | $26.03 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | lvlBoZzlvl |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59353/adminstore/
+- **Promo link (affiliate):** https://data-02.pages.dev/?aff=adminstore#aff=adminstore
 - Sales page: https://data-02.pages.dev/
 - Vendor affiliate support: https://data-02.pages.dev/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/734767/adminstore
@@ -96,14 +96,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist DATA 02 – Datenfreigaben klar regeln (CONTROL SERIES)? — Typ: E-books, Anbieter: lvlBoZzlvl, gelistet seit 2026-09-18
-- Wie viel kostet es? — 52.036374 USD
+- Wie viel kostet es? — 52.068952 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: DATA 02 – Datenfreigaben klar regeln (CONTROL SERIES) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/734767
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/734767/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=DATA%2002%20%E2%80%93%20Datenfreigaben%20klar%20regeln%20(CONTROL%20SERIES)
 
 ## 4. Editorial notes

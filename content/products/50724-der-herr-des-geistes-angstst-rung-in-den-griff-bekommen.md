@@ -4,16 +4,16 @@ digistore24_product_id: 722701
 title: "Der Herr des Geistes - Angststörung in den Griff bekommen"
 vendor: "AndreasLang"
 product_type: "Member area and video courses"
-price: 301.61
+price: 301.8
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 94.56
+earnings_per_sale: 94.62
 cart_conversion_pct: 5
 cancel_rate_pct: 5.63
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2024-09-25"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/722701?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/722701"
@@ -22,16 +22,16 @@ language: "de"
 # Der Herr des Geistes - Angststörung in den Griff bekommen
 
 > Product ID `50724` · Digistore24 productId `722701` · [HTML profile page](../../produkte/der-herr-des-geistes-angstst-rung-in-den-griff-bekommen-50724.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $301.61 (Single payment, Installment) |
+| Price | $301.80 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $94.56 |
+| Earnings/sale* | $94.62 |
 | Cart conversion* | 5% |
 | Cancel rate* | 5.63% |
 | Vendor | AndreasLang |
@@ -89,14 +89,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Herr des Geistes - Angststörung in den Griff bekommen? — Typ: Member area and video courses, Anbieter: AndreasLang, gelistet seit 2024-09-25
-- Wie viel kostet es? — 301.607475 USD
+- Wie viel kostet es? — 301.79630000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Der Herr des Geistes - Angststörung in den Griff bekommen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/722701
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/722701/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%20Herr%20des%20Geistes%20-%20Angstst%C3%B6rung%20in%20den%20Griff%20bekommen
 
 ## 4. Editorial notes

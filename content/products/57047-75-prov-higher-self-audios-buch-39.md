@@ -4,40 +4,40 @@ digistore24_product_id: 698923
 title: "75% Prov | Higher Self Audios + Buch (€39)"
 vendor: "Nico1999"
 product_type: "Downloads"
-price: 131.54
+price: 131.63
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 98.66
+earnings_per_sale: 98.72
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Health & Fitness","Spiri­tua­lity & Esotericism","Personal Development"]
+categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-06-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/57047/adminstore/"
+promo_link: "https://de.highersync.com?aff=adminstore#aff=adminstore"
 sales_page: "https://de.highersync.com"
 language: "de"
 ---
 # 75% Prov | Higher Self Audios + Buch (€39)
 
 > Product ID `57047` · Digistore24 productId `698923` · [HTML profile page](../../produkte/75-prov-higher-self-audios-buch-39-57047.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $131.54 (Single payment) |
+| Price | $131.63 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $98.66 |
+| Earnings/sale* | $98.72 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Nico1999 |
 | Listed since | 2026-06-18 |
 | Auto-accept affiliates | yes |
-| Categories | Health & Fitness, Spiri­tua­lity & Esotericism, Personal Development |
+| Categories | Health & Fitness, Personal Development, Spiri­tua­lity & Esotericism |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/57047/adminstore/
+- **Promo link (affiliate):** https://de.highersync.com?aff=adminstore#aff=adminstore
 - Sales page: https://de.highersync.com
 - Vendor affiliate support: https://de.highersync.com/partner.html
 - Canonical redirect: https://www.digistore24.com/redir/698923/adminstore
@@ -95,14 +95,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 75% Prov | Higher Self Audios + Buch (€39)? — Typ: Downloads, Anbieter: Nico1999, gelistet seit 2026-06-18
-- Wie viel kostet es? — 131.54446500000003 USD
+- Wie viel kostet es? — 131.62682 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 75% Prov | Higher Self Audios + Buch (€39) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/698923
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/698923/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=75%25%20Prov%20%7C%20Higher%20Self%20Audios%20%2B%20Buch%20(%E2%82%AC39)
 
 ## 4. Editorial notes

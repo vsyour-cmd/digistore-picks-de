@@ -4,7 +4,7 @@ digistore24_product_id: 407851
 title: "Buch: Was ein Finanzdienstleister Heute wissen muss…"
 vendor: "RobertPeukert"
 product_type: "Book (printed)"
-price: 320.83
+price: 321.03
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 2.25
@@ -12,24 +12,24 @@ cart_conversion_pct: 11
 cancel_rate_pct: 1.83
 categories: ["Education"]
 listed_since: "2021-09-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/38445/adminstore/"
+promo_link: "https://www.robert-peukert.de/autor/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.robert-peukert.de/autor/"
 language: "de"
 ---
 # Buch: Was ein Finanzdienstleister Heute wissen muss…
 
 > Product ID `38445` · Digistore24 productId `407851` · [HTML profile page](../../produkte/buch-was-ein-finanzdienstleister-heute-wissen-muss-38445.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $320.83 (Single payment) |
+| Price | $321.03 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $2.25 |
 | Cart conversion* | 11% |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/38445/adminstore/
+- **Promo link (affiliate):** https://www.robert-peukert.de/autor/?aff=adminstore#aff=adminstore
 - Sales page: https://www.robert-peukert.de/autor/
 - Canonical redirect: https://www.digistore24.com/redir/407851/adminstore
 
@@ -76,14 +76,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Buch: Was ein Finanzdienstleister Heute wissen muss…? — Typ: Book (printed), Anbieter: RobertPeukert, gelistet seit 2021-09-16
-- Wie viel kostet es? — 320.82761400000004 USD
+- Wie viel kostet es? — 321.028472 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Buch: Was ein Finanzdienstleister Heute wissen muss… Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/407851
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/407851/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Buch%3A%20Was%20ein%20Finanzdienstleister%20Heute%20wissen%20muss%E2%80%A6
 
 ## 4. Editorial notes

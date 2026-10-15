@@ -4,16 +4,16 @@ digistore24_product_id: 499575
 title: "Die Manifestation von NeuLand​ + Die NeuLand Welle"
 vendor: "jwalaundkarlgamper"
 product_type: "Downloads"
-price: 920.79
+price: 921.37
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 184.16
+earnings_per_sale: 184.28
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2023-05-19"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/499575?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/499575"
@@ -22,16 +22,16 @@ language: "de"
 # Die Manifestation von NeuLand​ + Die NeuLand Welle
 
 > Product ID `44324` · Digistore24 productId `499575` · [HTML profile page](../../produkte/die-manifestation-von-neuland-die-neuland-welle-44324.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $920.79 (Single payment) |
+| Price | $921.37 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $184.16 |
+| Earnings/sale* | $184.28 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | jwalaundkarlgamper |
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die Manifestation von NeuLand​ + Die NeuLand Welle? — Typ: Downloads, Anbieter: jwalaundkarlgamper, gelistet seit 2023-05-19
-- Wie viel kostet es? — 920.788893 USD
+- Wie viel kostet es? — 921.365364 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Die Manifestation von NeuLand​ + Die NeuLand Welle Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/499575
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/499575/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Die%20Manifestation%20von%20NeuLand%E2%80%8B%20%2B%20Die%20NeuLand%20Welle
 
 ## 4. Editorial notes

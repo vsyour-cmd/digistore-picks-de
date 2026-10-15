@@ -4,7 +4,7 @@ digistore24_product_id: 738768
 title: "30 Reels in 3 Stunden"
 vendor: "AlcaAzar5f7"
 product_type: "Downloads"
-price: 15.98
+price: 15.99
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 1.6
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2026-09-30"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "http://nine-to-never.systeme.io/03642f79?aff=adminstore#aff=adminstore"
 sales_page: "http://nine-to-never.systeme.io/03642f79"
@@ -22,14 +22,14 @@ language: "de"
 # 30 Reels in 3 Stunden
 
 > Product ID `60052` · Digistore24 productId `738768` · [HTML profile page](../../produkte/30-reels-in-3-stunden-60052.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $15.98 (Single payment) |
+| Price | $15.99 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $1.60 |
 | Cart conversion* | — |
@@ -69,14 +69,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 30 Reels in 3 Stunden? — Typ: Downloads, Anbieter: AlcaAzar5f7, gelistet seit 2026-09-30
-- Wie viel kostet es? — 15.977649 USD
+- Wie viel kostet es? — 15.987651999999999 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 30 Reels in 3 Stunden Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/738768
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/738768/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=30%20Reels%20in%203%20Stunden
 
 ## 4. Editorial notes

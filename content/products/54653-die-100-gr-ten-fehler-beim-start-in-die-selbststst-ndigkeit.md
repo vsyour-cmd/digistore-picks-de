@@ -4,7 +4,7 @@ digistore24_product_id: 647949
 title: "Die 100 größten Fehler beim Start in die Selbststständigkeit"
 vendor: "amorty"
 product_type: "E-books"
-price: 19.33
+price: 19.34
 currency: "USD"
 affiliate_commission_pct: 45
 earnings_per_sale: 8.7
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Profession & Job"]
 listed_since: "2025-11-12"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/54653/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/647949?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/647949"
 language: "de"
 ---
 # Die 100 größten Fehler beim Start in die Selbststständigkeit
 
 > Product ID `54653` · Digistore24 productId `647949` · [HTML profile page](../../produkte/die-100-gr-ten-fehler-beim-start-in-die-selbststst-ndigkeit-54653.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $19.33 (Single payment) |
+| Price | $19.34 (Single payment) |
 | Affiliate commission | 45% |
 | Earnings/sale* | $8.70 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/54653/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/647949?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/647949
 - Canonical redirect: https://www.digistore24.com/redir/647949/adminstore
 
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die 100 größten Fehler beim Start in die Selbststständigkeit? — Typ: E-books, Anbieter: amorty, gelistet seit 2025-11-12
-- Wie viel kostet es? — 19.331949 USD
+- Wie viel kostet es? — 19.344051999999998 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Die 100 größten Fehler beim Start in die Selbststständigkeit Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/647949
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/647949/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Die%20100%20gr%C3%B6%C3%9Ften%20Fehler%20beim%20Start%20in%20die%20Selbststst%C3%A4ndigkeit
 
 ## 4. Editorial notes

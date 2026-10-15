@@ -4,34 +4,34 @@ digistore24_product_id: 436041
 title: "Die Grundlagen der Ketogenen Diät"
 vendor: "Spekulatius"
 product_type: "E-books"
-price: 26.12
+price: 26.14
 currency: "USD"
 affiliate_commission_pct: 80
-earnings_per_sale: 20.9
+earnings_per_sale: 20.91
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink"]
 listed_since: "2022-03-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/39569/adminstore/"
+promo_link: "https://page.funnelcockpit.com/DFT9NQ3fBXnsjT3To?aff=adminstore#aff=adminstore"
 sales_page: "https://page.funnelcockpit.com/DFT9NQ3fBXnsjT3To"
 language: "de"
 ---
 # Die Grundlagen der Ketogenen Diät
 
 > Product ID `39569` · Digistore24 productId `436041` · [HTML profile page](../../produkte/die-grundlagen-der-ketogenen-di-t-39569.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $26.12 (Single payment) |
+| Price | $26.14 (Single payment) |
 | Affiliate commission | 80% |
-| Earnings/sale* | $20.90 |
+| Earnings/sale* | $20.91 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Spekulatius |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/39569/adminstore/
+- **Promo link (affiliate):** https://page.funnelcockpit.com/DFT9NQ3fBXnsjT3To?aff=adminstore#aff=adminstore
 - Sales page: https://page.funnelcockpit.com/DFT9NQ3fBXnsjT3To
 - Canonical redirect: https://www.digistore24.com/redir/436041/adminstore
 
@@ -66,14 +66,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die Grundlagen der Ketogenen Diät? — Typ: E-books, Anbieter: Spekulatius, gelistet seit 2022-03-26
-- Wie viel kostet es? — 26.118816000000002 USD
+- Wie viel kostet es? — 26.135168 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Die Grundlagen der Ketogenen Diät Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/436041
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/436041/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Die%20Grundlagen%20der%20Ketogenen%20Di%C3%A4t
 
 ## 4. Editorial notes

@@ -4,34 +4,34 @@ digistore24_product_id: 303609
 title: "Die Rettungsweste für dein Geld - Onlinekurs"
 vendor: "locos2000"
 product_type: "Member area and video courses"
-price: 279.06
+price: 279.23
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 139.53
+earnings_per_sale: 139.62
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2020-01-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/31407/adminstore/"
+promo_link: "https://locos-finanzcoaching.coachy.net/lp/die-rettungsweste-fur-dein-geld/?aff=adminstore#aff=adminstore"
 sales_page: "https://locos-finanzcoaching.coachy.net/lp/die-rettungsweste-fur-dein-geld/"
 language: "de"
 ---
 # Die Rettungsweste für dein Geld - Onlinekurs
 
 > Product ID `31407` · Digistore24 productId `303609` · [HTML profile page](../../produkte/die-rettungsweste-f-r-dein-geld-onlinekurs-31407.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $279.06 (Single payment) |
+| Price | $279.23 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $139.53 |
+| Earnings/sale* | $139.62 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | locos2000 |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/31407/adminstore/
+- **Promo link (affiliate):** https://locos-finanzcoaching.coachy.net/lp/die-rettungsweste-fur-dein-geld/?aff=adminstore#aff=adminstore
 - Sales page: https://locos-finanzcoaching.coachy.net/lp/die-rettungsweste-fur-dein-geld/
 - Canonical redirect: https://www.digistore24.com/redir/303609/adminstore
 
@@ -80,14 +80,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die Rettungsweste für dein Geld - Onlinekurs? — Typ: Member area and video courses, Anbieter: locos2000, gelistet seit 2020-01-16
-- Wie viel kostet es? — 279.055398 USD
+- Wie viel kostet es? — 279.23010400000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Die Rettungsweste für dein Geld - Onlinekurs Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/303609
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/303609/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Die%20Rettungsweste%20f%C3%BCr%20dein%20Geld%20-%20Onlinekurs
 
 ## 4. Editorial notes

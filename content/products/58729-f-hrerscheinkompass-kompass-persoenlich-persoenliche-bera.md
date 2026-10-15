@@ -4,34 +4,34 @@ digistore24_product_id: 720601
 title: "FührerscheinKompass - Kompass Persoenlich: Persoenliche Bera"
 vendor: "thorstenbahrb86a"
 product_type: "Telephone coaching"
-price: 262.14
+price: 262.3
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 52.43
+earnings_per_sale: 52.46
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2026-08-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/58729/adminstore/"
+promo_link: "https://fuehrerschein-kompass.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://fuehrerschein-kompass.de/"
 language: "de"
 ---
 # FührerscheinKompass - Kompass Persoenlich: Persoenliche Bera
 
 > Product ID `58729` · Digistore24 productId `720601` · [HTML profile page](../../produkte/f-hrerscheinkompass-kompass-persoenlich-persoenliche-bera-58729.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Telephone coaching |
-| Price | $262.14 (Single payment) |
+| Price | $262.30 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $52.43 |
+| Earnings/sale* | $52.46 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | thorstenbahrb86a |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58729/adminstore/
+- **Promo link (affiliate):** https://fuehrerschein-kompass.de/?aff=adminstore#aff=adminstore
 - Sales page: https://fuehrerschein-kompass.de/
 - Canonical redirect: https://www.digistore24.com/redir/720601/adminstore
 
@@ -92,14 +92,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist FührerscheinKompass - Kompass Persoenlich: Persoenliche Bera? — Typ: Telephone coaching, Anbieter: thorstenbahrb86a, gelistet seit 2026-08-27
-- Wie viel kostet es? — 262.138545 USD
+- Wie viel kostet es? — 262.30266 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: FührerscheinKompass - Kompass Persoenlich: Persoenliche Bera Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/720601
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/720601/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=F%C3%BChrerscheinKompass%20-%20Kompass%20Persoenlich%3A%20Persoenliche%20Bera
 
 ## 4. Editorial notes

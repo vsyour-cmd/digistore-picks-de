@@ -4,16 +4,16 @@ digistore24_product_id: 672563
 title: "Das große Mentoring Paket für Hinterbliebene"
 vendor: "verwitwet-leben"
 product_type: "Online coaching"
-price: 41.11
+price: 41.14
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 142.69
+earnings_per_sale: 142.78
 cart_conversion_pct: 18
 cancel_rate_pct: 0.45
 categories: ["Business & Investment","Education"]
 listed_since: "2026-03-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/redir/672563/adminstore"
 sales_page: "https://verwitwet-leben.de/individuelles-mentoring/#anker-1"
@@ -22,16 +22,16 @@ language: "de"
 # Das große Mentoring Paket für Hinterbliebene
 
 > Product ID `55964` · Digistore24 productId `672563` · [HTML profile page](../../produkte/das-gro-e-mentoring-paket-f-r-hinterbliebene-55964.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $41.11 (Single payment, Installment) |
+| Price | $41.14 (Single payment, Installment) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $142.69 |
+| Earnings/sale* | $142.78 |
 | Cart conversion* | 18% |
 | Cancel rate* | 0.45% |
 | Vendor | verwitwet-leben |
@@ -95,14 +95,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das große Mentoring Paket für Hinterbliebene? — Typ: Online coaching, Anbieter: verwitwet-leben, gelistet seit 2026-03-01
-- Wie viel kostet es? — 41.11253700000001 USD
+- Wie viel kostet es? — 41.138276000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Das große Mentoring Paket für Hinterbliebene Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/672563
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/672563/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Das%20gro%C3%9Fe%20Mentoring%20Paket%20f%C3%BCr%20Hinterbliebene
 
 ## 4. Editorial notes

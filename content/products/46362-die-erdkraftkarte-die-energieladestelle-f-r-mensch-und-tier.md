@@ -4,16 +4,16 @@ digistore24_product_id: 528400
 title: "Die Erdkraftkarte-Die Energieladestelle für Mensch und Tier"
 vendor: "raiblo"
 product_type: "Deliverable"
-price: 61.07
+price: 61.11
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 18.33
+earnings_per_sale: 18.34
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Spiri­tua­lity & Esotericism"]
 listed_since: "2023-12-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://meine-erdkraftkarte.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://meine-erdkraftkarte.de/"
@@ -22,16 +22,16 @@ language: "de"
 # Die Erdkraftkarte-Die Energieladestelle für Mensch und Tier
 
 > Product ID `46362` · Digistore24 productId `528400` · [HTML profile page](../../produkte/die-erdkraftkarte-die-energieladestelle-f-r-mensch-und-tier-46362.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Deliverable |
-| Price | $61.07 (Single payment) |
+| Price | $61.11 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $18.33 |
+| Earnings/sale* | $18.34 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | raiblo |
@@ -77,14 +77,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die Erdkraftkarte-Die Energieladestelle für Mensch und Tier? — Typ: Deliverable, Anbieter: raiblo, gelistet seit 2023-12-05
-- Wie viel kostet es? — 61.070622 USD
+- Wie viel kostet es? — 61.108855999999996 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Die Erdkraftkarte-Die Energieladestelle für Mensch und Tier Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/528400
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/528400/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Die%20Erdkraftkarte-Die%20Energieladestelle%20f%C3%BCr%20Mensch%20und%20Tier
 
 ## 4. Editorial notes

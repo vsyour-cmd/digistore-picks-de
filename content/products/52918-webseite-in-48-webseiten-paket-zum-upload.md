@@ -4,16 +4,16 @@ digistore24_product_id: 609640
 title: "Webseite in 48 – Webseiten-Paket zum Upload"
 vendor: "Jyotima"
 product_type: "Member area and video courses"
-price: 83.25
+price: 83.31
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 128.93
+earnings_per_sale: 129.01
 cart_conversion_pct: 4
 cancel_rate_pct: 0.81
 categories: ["Computer & Internet","Online Marketing"]
 listed_since: "2025-04-28"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://jyotimaflak.com/webseitein48h?aff=adminstore#aff=adminstore"
 sales_page: "https://jyotimaflak.com/webseitein48h"
@@ -22,16 +22,16 @@ language: "de"
 # Webseite in 48 – Webseiten-Paket zum Upload
 
 > Product ID `52918` · Digistore24 productId `609640` · [HTML profile page](../../produkte/webseite-in-48-webseiten-paket-zum-upload-52918.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $83.25 (Single payment, Installment) |
+| Price | $83.31 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $128.93 |
+| Earnings/sale* | $129.01 |
 | Cart conversion* | 4% |
 | Cancel rate* | 0.81% |
 | Vendor | Jyotima |
@@ -86,14 +86,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Webseite in 48 – Webseiten-Paket zum Upload? — Typ: Member area and video courses, Anbieter: Jyotima, gelistet seit 2025-04-28
-- Wie viel kostet es? — 83.253726 USD
+- Wie viel kostet es? — 83.305848 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Webseite in 48 – Webseiten-Paket zum Upload Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/609640
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/609640/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Webseite%20in%2048%20%E2%80%93%20Webseiten-Paket%20zum%20Upload
 
 ## 4. Editorial notes

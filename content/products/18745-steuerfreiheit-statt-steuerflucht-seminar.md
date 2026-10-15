@@ -4,34 +4,34 @@ digistore24_product_id: 161633
 title: "Steuerfreiheit statt Steuerflucht, Seminar"
 vendor: "SG1503"
 product_type: "Seminar for business customers"
-price: 1408.43
+price: 1409.31
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 234.8
+earnings_per_sale: 234.95
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Finances"]
 listed_since: "2017-09-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/18745/adminstore/"
+promo_link: "https://www.wissenmachtfrei.com/steuerfreiheit.html?aff=adminstore#aff=adminstore"
 sales_page: "https://www.wissenmachtfrei.com/steuerfreiheit.html"
 language: "de"
 ---
 # Steuerfreiheit statt Steuerflucht, Seminar
 
 > Product ID `18745` · Digistore24 productId `161633` · [HTML profile page](../../produkte/steuerfreiheit-statt-steuerflucht-seminar-18745.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Seminar for business customers |
-| Price | $1408.43 (Single payment) |
+| Price | $1409.31 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $234.80 |
+| Earnings/sale* | $234.95 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SG1503 |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/18745/adminstore/
+- **Promo link (affiliate):** https://www.wissenmachtfrei.com/steuerfreiheit.html?aff=adminstore#aff=adminstore
 - Sales page: https://www.wissenmachtfrei.com/steuerfreiheit.html
 - Vendor affiliate support: http://www.wissenmachtfrei.com/affiliate-seite.html
 - Canonical redirect: https://www.digistore24.com/redir/161633/adminstore
@@ -86,14 +86,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Steuerfreiheit statt Steuerflucht, Seminar? — Typ: Seminar for business customers, Anbieter: SG1503, gelistet seit 2017-09-04
-- Wie viel kostet es? — 1408.4258460000003 USD
+- Wie viel kostet es? — 1409.307608 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Steuerfreiheit statt Steuerflucht, Seminar Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/161633
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/161633/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Steuerfreiheit%20statt%20Steuerflucht%2C%20Seminar
 
 ## 4. Editorial notes

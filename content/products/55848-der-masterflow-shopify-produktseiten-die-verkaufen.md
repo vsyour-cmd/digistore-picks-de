@@ -4,16 +4,16 @@ digistore24_product_id: 674258
 title: "Der Masterflow: Shopify-Produktseiten die verkaufen"
 vendor: "herkulez15df"
 product_type: "Downloads"
-price: 46.04
+price: 46.07
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 18.42
+earnings_per_sale: 18.43
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-03-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/674258?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/674258"
@@ -22,16 +22,16 @@ language: "de"
 # Der Masterflow: Shopify-Produktseiten die verkaufen
 
 > Product ID `55848` · Digistore24 productId `674258` · [HTML profile page](../../produkte/der-masterflow-shopify-produktseiten-die-verkaufen-55848.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $46.04 (Single payment) |
+| Price | $46.07 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $18.42 |
+| Earnings/sale* | $18.43 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | herkulez15df |
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Masterflow: Shopify-Produktseiten die verkaufen? — Typ: Downloads, Anbieter: herkulez15df, gelistet seit 2026-03-06
-- Wie viel kostet es? — 46.043358000000005 USD
+- Wie viel kostet es? — 46.072184 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Der Masterflow: Shopify-Produktseiten die verkaufen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/674258
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/674258/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%20Masterflow%3A%20Shopify-Produktseiten%20die%20verkaufen
 
 ## 4. Editorial notes

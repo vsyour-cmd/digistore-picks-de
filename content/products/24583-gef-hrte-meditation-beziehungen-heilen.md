@@ -4,7 +4,7 @@ digistore24_product_id: 222585
 title: "geführte Meditation: Beziehungen heilen"
 vendor: "Ninuschka"
 product_type: "Downloads"
-price: 15.13
+price: 15.14
 currency: "USD"
 affiliate_commission_pct: 30
 earnings_per_sale: 4.54
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2018-05-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/redir/24583/adminstore/"
+promo_link: "https://www.beziehungs-paarberatung-dresden.de/shop/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.beziehungs-paarberatung-dresden.de/shop/"
 language: "de"
 ---
 # geführte Meditation: Beziehungen heilen
 
 > Product ID `24583` · Digistore24 productId `222585` · [HTML profile page](../../produkte/gef-hrte-meditation-beziehungen-heilen-24583.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $15.13 (Single payment) |
+| Price | $15.14 (Single payment) |
 | Affiliate commission | 30% |
 | Earnings/sale* | $4.54 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/redir/24583/adminstore/
+- **Promo link (affiliate):** https://www.beziehungs-paarberatung-dresden.de/shop/?aff=adminstore#aff=adminstore
 - Sales page: https://www.beziehungs-paarberatung-dresden.de/shop/
 - Canonical redirect: https://www.digistore24.com/redir/222585/adminstore
 
@@ -78,14 +78,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist geführte Meditation: Beziehungen heilen? — Typ: Downloads, Anbieter: Ninuschka, gelistet seit 2018-05-20
-- Wie viel kostet es? — 15.127893 USD
+- Wie viel kostet es? — 15.137364 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: geführte Meditation: Beziehungen heilen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/222585
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/222585/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=gef%C3%BChrte%20Meditation%3A%20Beziehungen%20heilen
 
 ## 4. Editorial notes

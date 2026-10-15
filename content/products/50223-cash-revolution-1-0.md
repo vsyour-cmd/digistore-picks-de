@@ -4,34 +4,34 @@ digistore24_product_id: 608357
 title: "Cash Revolution 1.0"
 vendor: "AndreasLang"
 product_type: "Member area and video courses"
-price: 141.88
+price: 141.96
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 86.81
+earnings_per_sale: 86.86
 cart_conversion_pct: 5
 cancel_rate_pct: 5.86
 categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2025-04-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/50223/adminstore/"
+promo_link: "https://www.cashrevolution.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.cashrevolution.de/"
 language: "de"
 ---
 # Cash Revolution 1.0
 
 > Product ID `50223` · Digistore24 productId `608357` · [HTML profile page](../../produkte/cash-revolution-1-0-50223.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $141.88 (Single payment) |
+| Price | $141.96 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $86.81 |
+| Earnings/sale* | $86.86 |
 | Cart conversion* | 5% |
 | Cancel rate* | 5.86% |
 | Vendor | AndreasLang |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/50223/adminstore/
+- **Promo link (affiliate):** https://www.cashrevolution.de/?aff=adminstore#aff=adminstore
 - Sales page: https://www.cashrevolution.de/
 - Vendor affiliate support: https://affiliateking.net/
 - Canonical redirect: https://www.digistore24.com/redir/608357/adminstore
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Cash Revolution 1.0? — Typ: Member area and video courses, Anbieter: AndreasLang, gelistet seit 2025-04-20
-- Wie viel kostet es? — 141.875709 USD
+- Wie viel kostet es? — 141.964532 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Cash Revolution 1.0 Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/608357
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/608357/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Cash%20Revolution%201.0
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 696677
 title: "30-Tage-Plan „Weniger kaufen. Mehr selbst machen.\" — Selbstv"
 vendor: "ds24gug"
 product_type: "E-books"
-price: 28.21
+price: 28.23
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 14.11
+earnings_per_sale: 14.12
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Food & Drink","Health & Fitness","Home & Garden"]
+categories: ["Health & Fitness","Home & Garden","Food & Drink"]
 listed_since: "2026-06-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://gsund-und-guad.com/30-tage-plan-selbstversorger-start?aff=adminstore#aff=adminstore"
 sales_page: "https://gsund-und-guad.com/30-tage-plan-selbstversorger-start"
@@ -22,22 +22,22 @@ language: "de"
 # 30-Tage-Plan „Weniger kaufen. Mehr selbst machen." — Selbstv
 
 > Product ID `56774` · Digistore24 productId `696677` · [HTML profile page](../../produkte/30-tage-plan-weniger-kaufen-mehr-selbst-machen-selbstv-56774.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $28.21 (Single payment) |
+| Price | $28.23 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $14.11 |
+| Earnings/sale* | $14.12 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ds24gug |
 | Listed since | 2026-06-01 |
 | Auto-accept affiliates | yes |
-| Categories | Food & Drink, Health & Fitness, Home & Garden |
+| Categories | Health & Fitness, Home & Garden, Food & Drink |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -98,14 +98,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 30-Tage-Plan „Weniger kaufen. Mehr selbst machen." — Selbstv? — Typ: E-books, Anbieter: ds24gug, gelistet seit 2026-06-01
-- Wie viel kostet es? — 28.209663000000003 USD
+- Wie viel kostet es? — 28.227324 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 30-Tage-Plan „Weniger kaufen. Mehr selbst machen." — Selbstv Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/696677
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/696677/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=30-Tage-Plan%20%E2%80%9EWeniger%20kaufen.%20Mehr%20selbst%20machen.%22%20%E2%80%94%20Selbstv
 
 ## 4. Editorial notes

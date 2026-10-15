@@ -4,40 +4,40 @@ digistore24_product_id: 722837
 title: "Online Selbstlernwebinar: Präsentieren ohne PowerPoint"
 vendor: "mkconsultinghb"
 product_type: "Member area and video courses"
-price: 111.81
+price: 111.88
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 11.18
+earnings_per_sale: 11.19
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Personal Development","Profession & Job","Personal Development"]
+categories: ["Personal Development","Personal Development","Profession & Job"]
 listed_since: "2026-09-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/59005/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/722837?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/722837"
 language: "de"
 ---
 # Online Selbstlernwebinar: Präsentieren ohne PowerPoint
 
 > Product ID `59005` · Digistore24 productId `722837` · [HTML profile page](../../produkte/online-selbstlernwebinar-pr-sentieren-ohne-powerpoint-59005.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $111.81 (Single payment) |
+| Price | $111.88 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $11.18 |
+| Earnings/sale* | $11.19 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | mkconsultinghb |
 | Listed since | 2026-09-07 |
 | Auto-accept affiliates | yes |
-| Categories | Personal Development, Profession & Job, Personal Development |
+| Categories | Personal Development, Personal Development, Profession & Job |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59005/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/722837?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/722837
 - Canonical redirect: https://www.digistore24.com/redir/722837/adminstore
 
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online Selbstlernwebinar: Präsentieren ohne PowerPoint? — Typ: Member area and video courses, Anbieter: mkconsultinghb, gelistet seit 2026-09-07
-- Wie viel kostet es? — 111.81 USD
+- Wie viel kostet es? — 111.88 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Online Selbstlernwebinar: Präsentieren ohne PowerPoint Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/722837
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/722837/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Online%20Selbstlernwebinar%3A%20Pr%C3%A4sentieren%20ohne%20PowerPoint
 
 ## 4. Editorial notes

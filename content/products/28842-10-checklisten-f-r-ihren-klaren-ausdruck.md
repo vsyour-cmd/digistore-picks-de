@@ -4,7 +4,7 @@ digistore24_product_id: 202637
 title: "10 Checklisten für Ihren klaren Ausdruck"
 vendor: "ThiloBaum"
 product_type: "Downloads"
-price: 9.3
+price: 9.31
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 4.65
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2018-02-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
 promo_link: "https://klartextexperte.de/checklisten-fuer-klaren-ausdruck/?aff=adminstore#aff=adminstore"
 sales_page: "https://klartextexperte.de/checklisten-fuer-klaren-ausdruck/"
@@ -22,14 +22,14 @@ language: "de"
 # 10 Checklisten für Ihren klaren Ausdruck
 
 > Product ID `28842` · Digistore24 productId `202637` · [HTML profile page](../../produkte/10-checklisten-f-r-ihren-klaren-ausdruck-28842.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $9.30 (Single payment) |
+| Price | $9.31 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $4.65 |
 | Cart conversion* | — |
@@ -65,14 +65,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 10 Checklisten für Ihren klaren Ausdruck? — Typ: Downloads, Anbieter: ThiloBaum, gelistet seit 2018-02-20
-- Wie viel kostet es? — 9.302592 USD
+- Wie viel kostet es? — 9.308416000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 10 Checklisten für Ihren klaren Ausdruck Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/202637
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/202637/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=10%20Checklisten%20f%C3%BCr%20Ihren%20klaren%20Ausdruck
 
 ## 4. Editorial notes

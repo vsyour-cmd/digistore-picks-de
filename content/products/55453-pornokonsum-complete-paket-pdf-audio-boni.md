@@ -4,40 +4,40 @@ digistore24_product_id: 666027
 title: "Pornokonsum_Complete_Paket_PDF_Audio_Boni"
 vendor: "manuelcosta"
 product_type: "Downloads"
-price: 16.66
+price: 16.67
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 8.33
+earnings_per_sale: 8.34
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Health & Fitness","Personal Development"]
+categories: ["Health & Fitness","Personal Development","Education"]
 listed_since: "2026-02-02"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
-promo_link: "https://www.digistore24.com/redir/55453/adminstore/"
+promo_link: "https://spectacular-ebook-audiobook.netlify.app/?aff=adminstore#aff=adminstore"
 sales_page: "https://spectacular-ebook-audiobook.netlify.app/"
 language: "de"
 ---
 # Pornokonsum_Complete_Paket_PDF_Audio_Boni
 
 > Product ID `55453` · Digistore24 productId `666027` · [HTML profile page](../../produkte/pornokonsum-complete-paket-pdf-audio-boni-55453.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $16.66 (Single payment) |
+| Price | $16.67 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $8.33 |
+| Earnings/sale* | $8.34 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | manuelcosta |
 | Listed since | 2026-02-02 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Health & Fitness, Personal Development |
+| Categories | Health & Fitness, Personal Development, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55453/adminstore/
+- **Promo link (affiliate):** https://spectacular-ebook-audiobook.netlify.app/?aff=adminstore#aff=adminstore
 - Sales page: https://spectacular-ebook-audiobook.netlify.app/
 - Canonical redirect: https://www.digistore24.com/redir/666027/adminstore
 
@@ -61,14 +61,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Pornokonsum_Complete_Paket_PDF_Audio_Boni? — Typ: Downloads, Anbieter: manuelcosta, gelistet seit 2026-02-02
-- Wie viel kostet es? — 16.65969 USD
+- Wie viel kostet es? — 16.67012 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Pornokonsum_Complete_Paket_PDF_Audio_Boni Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/666027
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/666027/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Pornokonsum_Complete_Paket_PDF_Audio_Boni
 
 ## 4. Editorial notes

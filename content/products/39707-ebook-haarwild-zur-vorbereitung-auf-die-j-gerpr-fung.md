@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2022-04-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/39707/adminstore/"
+promo_link: "https://www.digistore24.com/product/438053?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/438053"
 language: "de"
 ---
 # eBook Haarwild zur Vorbereitung auf die Jägerprüfung
 
 > Product ID `39707` · Digistore24 productId `438053` · [HTML profile page](../../produkte/ebook-haarwild-zur-vorbereitung-auf-die-j-gerpr-fung-39707.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/39707/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/438053?aff=adminstore
 - Sales page: https://www.digistore24.com/product/438053
 - Canonical redirect: https://www.digistore24.com/redir/438053/adminstore
 
@@ -72,14 +72,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist eBook Haarwild zur Vorbereitung auf die Jägerprüfung? — Typ: E-books, Anbieter: BenediktAltrogge, gelistet seit 2022-04-08
-- Wie viel kostet es? — 5.210346 USD
+- Wie viel kostet es? — 5.213608 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: eBook Haarwild zur Vorbereitung auf die Jägerprüfung Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/438053
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/438053/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=eBook%20Haarwild%20zur%20Vorbereitung%20auf%20die%20J%C3%A4gerpr%C3%BCfung
 
 ## 4. Editorial notes

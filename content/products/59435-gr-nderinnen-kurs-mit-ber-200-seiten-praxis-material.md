@@ -4,40 +4,40 @@ digistore24_product_id: 735383
 title: "Gründerinnen-Kurs mit über 200 Seiten Praxis-Material"
 vendor: "infoacca0"
 product_type: "E-books"
-price: 82.55
+price: 82.6
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 16.51
+earnings_per_sale: 16.52
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Business & Investment","Education","Personal Development"]
+categories: ["Personal Development","Business & Investment","Education"]
 listed_since: "2026-09-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/59435/adminstore/"
+promo_link: "https://karinschweizer.de/selbststaendig-weiblich-unabhaengig/?aff=adminstore#aff=adminstore"
 sales_page: "https://karinschweizer.de/selbststaendig-weiblich-unabhaengig/"
 language: "de"
 ---
 # Gründerinnen-Kurs mit über 200 Seiten Praxis-Material
 
 > Product ID `59435` · Digistore24 productId `735383` · [HTML profile page](../../produkte/gr-nderinnen-kurs-mit-ber-200-seiten-praxis-material-59435.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $82.55 (Single payment) |
+| Price | $82.60 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $16.51 |
+| Earnings/sale* | $16.52 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | infoacca0 |
 | Listed since | 2026-09-20 |
 | Auto-accept affiliates | no (approval required) |
-| Categories | Business & Investment, Education, Personal Development |
+| Categories | Personal Development, Business & Investment, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59435/adminstore/
+- **Promo link (affiliate):** https://karinschweizer.de/selbststaendig-weiblich-unabhaengig/?aff=adminstore#aff=adminstore
 - Sales page: https://karinschweizer.de/selbststaendig-weiblich-unabhaengig/
 - Canonical redirect: https://www.digistore24.com/redir/735383/adminstore
 
@@ -88,14 +88,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Gründerinnen-Kurs mit über 200 Seiten Praxis-Material? — Typ: E-books, Anbieter: infoacca0, gelistet seit 2026-09-20
-- Wie viel kostet es? — 82.549323 USD
+- Wie viel kostet es? — 82.601004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Gründerinnen-Kurs mit über 200 Seiten Praxis-Material Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/735383
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/735383/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Gr%C3%BCnderinnen-Kurs%20mit%20%C3%BCber%20200%20Seiten%20Praxis-Material
 
 ## 4. Editorial notes

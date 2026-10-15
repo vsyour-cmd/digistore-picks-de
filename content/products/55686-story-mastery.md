@@ -4,16 +4,16 @@ digistore24_product_id: 595164
 title: "Story Mastery"
 vendor: "seotech"
 product_type: "Member area and video courses"
-price: 335.61
+price: 335.82
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 136.74
+earnings_per_sale: 136.83
 cart_conversion_pct: 10
 cancel_rate_pct: 0.83
 categories: ["Computer & Internet","Online Marketing & E-Business","Social Media"]
 listed_since: "2025-02-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://go.eugen-grinschuk.de/story-mastery/?aff=adminstore#aff=adminstore"
 sales_page: "https://go.eugen-grinschuk.de/story-mastery/"
@@ -22,16 +22,16 @@ language: "de"
 # Story Mastery
 
 > Product ID `55686` · Digistore24 productId `595164` · [HTML profile page](../../produkte/story-mastery-55686.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $335.61 (Single payment, Installment) |
+| Price | $335.82 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $136.74 |
+| Earnings/sale* | $136.83 |
 | Cart conversion* | 10% |
 | Cancel rate* | 0.83% |
 | Vendor | seotech |
@@ -66,14 +66,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Story Mastery? — Typ: Member area and video courses, Anbieter: seotech, gelistet seit 2025-02-09
-- Wie viel kostet es? — 335.6088960000001 USD
+- Wie viel kostet es? — 335.81900800000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Story Mastery Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/595164
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/595164/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Story%20Mastery
 
 ## 4. Editorial notes

@@ -4,34 +4,34 @@ digistore24_product_id: 566325
 title: "MET Einsteigerkurs. Gesundheit und Glück in deinem Leben"
 vendor: "franke2met"
 product_type: "Online coaching"
-price: 188.84
+price: 188.95
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 27.56
+earnings_per_sale: 27.58
 cart_conversion_pct: 5
 cancel_rate_pct: 18.09
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2024-08-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/49115/adminstore/"
+promo_link: "https://franke-akademie.de/klopfen-sie-sich-frei/?aff=adminstore#aff=adminstore"
 sales_page: "https://franke-akademie.de/klopfen-sie-sich-frei/"
 language: "de"
 ---
 # MET Einsteigerkurs. Gesundheit und Glück in deinem Leben
 
 > Product ID `49115` · Digistore24 productId `566325` · [HTML profile page](../../produkte/met-einsteigerkurs-gesundheit-und-gl-ck-in-deinem-leben-49115.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $188.84 (Single payment) |
+| Price | $188.95 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $27.56 |
+| Earnings/sale* | $27.58 |
 | Cart conversion* | 5% |
 | Cancel rate* | 18.09% |
 | Vendor | franke2met |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/49115/adminstore/
+- **Promo link (affiliate):** https://franke-akademie.de/klopfen-sie-sich-frei/?aff=adminstore#aff=adminstore
 - Sales page: https://franke-akademie.de/klopfen-sie-sich-frei/
 - Vendor affiliate support: https://franke-akademie.de/klopfen-sie-sich-frei-partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/566325/adminstore
@@ -89,14 +89,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist MET Einsteigerkurs. Gesundheit und Glück in deinem Leben? — Typ: Online coaching, Anbieter: franke2met, gelistet seit 2024-08-21
-- Wie viel kostet es? — 188.835909 USD
+- Wie viel kostet es? — 188.954132 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: MET Einsteigerkurs. Gesundheit und Glück in deinem Leben Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/566325
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/566325/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=MET%20Einsteigerkurs.%20Gesundheit%20und%20Gl%C3%BCck%20in%20deinem%20Leben
 
 ## 4. Editorial notes

@@ -4,34 +4,34 @@ digistore24_product_id: 661228
 title: "Massage Gun beim Pferd richtig anwenden – Schulterbereich"
 vendor: "Faszienloesen"
 product_type: "Member area and video courses"
-price: 33.82
+price: 33.84
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 16.92
+earnings_per_sale: 16.93
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Animals & Pets"]
 listed_since: "2026-01-14"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/55373/adminstore/"
+promo_link: "https://www.equinemassagegun.de/pferd-schulter/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.equinemassagegun.de/pferd-schulter/"
 language: "de"
 ---
 # Massage Gun beim Pferd richtig anwenden – Schulterbereich
 
 > Product ID `55373` · Digistore24 productId `661228` · [HTML profile page](../../produkte/massage-gun-beim-pferd-richtig-anwenden-schulterbereich-55373.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $33.82 (Single payment) |
+| Price | $33.84 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $16.92 |
+| Earnings/sale* | $16.93 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Faszienloesen |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55373/adminstore/
+- **Promo link (affiliate):** https://www.equinemassagegun.de/pferd-schulter/?aff=adminstore#aff=adminstore
 - Sales page: https://www.equinemassagegun.de/pferd-schulter/
 - Vendor affiliate support: https://www.equinemassagegun.de/affiliate-pferd/
 - Canonical redirect: https://www.digistore24.com/redir/661228/adminstore
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Massage Gun beim Pferd richtig anwenden – Schulterbereich? — Typ: Member area and video courses, Anbieter: Faszienloesen, gelistet seit 2026-01-14
-- Wie viel kostet es? — 33.822525000000006 USD
+- Wie viel kostet es? — 33.8437 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Massage Gun beim Pferd richtig anwenden – Schulterbereich Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/661228
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/661228/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Massage%20Gun%20beim%20Pferd%20richtig%20anwenden%20%E2%80%93%20Schulterbereich
 
 ## 4. Editorial notes

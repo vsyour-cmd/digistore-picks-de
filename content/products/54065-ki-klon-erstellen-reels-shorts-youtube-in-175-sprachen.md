@@ -4,34 +4,34 @@ digistore24_product_id: 635001
 title: "Ki-Klon erstellen (Reels, Shorts, YouTube) in 175 Sprachen"
 vendor: "Jyotima"
 product_type: "Member area and video courses"
-price: 201.85
+price: 201.98
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 24.88
+earnings_per_sale: 24.89
 cart_conversion_pct: 6
 cancel_rate_pct: 0.95
 categories: ["Computer & Internet","Social Media"]
 listed_since: "2025-09-10"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/54065/adminstore/"
+promo_link: "http://www.jyotimaflak.com/aivideos?aff=adminstore#aff=adminstore"
 sales_page: "http://www.jyotimaflak.com/aivideos"
 language: "de"
 ---
 # Ki-Klon erstellen (Reels, Shorts, YouTube) in 175 Sprachen
 
 > Product ID `54065` · Digistore24 productId `635001` · [HTML profile page](../../produkte/ki-klon-erstellen-reels-shorts-youtube-in-175-sprachen-54065.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $201.85 (Single payment) |
+| Price | $201.98 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $24.88 |
+| Earnings/sale* | $24.89 |
 | Cart conversion* | 6% |
 | Cancel rate* | 0.95% |
 | Vendor | Jyotima |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/54065/adminstore/
+- **Promo link (affiliate):** http://www.jyotimaflak.com/aivideos?aff=adminstore#aff=adminstore
 - Sales page: http://www.jyotimaflak.com/aivideos
 - Vendor affiliate support: https://jyotimaflak.com/partner-werden/
 - Canonical redirect: https://www.digistore24.com/redir/635001/adminstore
@@ -88,14 +88,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ki-Klon erstellen (Reels, Shorts, YouTube) in 175 Sprachen? — Typ: Member area and video courses, Anbieter: Jyotima, gelistet seit 2025-09-10
-- Wie viel kostet es? — 201.85059300000003 USD
+- Wie viel kostet es? — 201.976964 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Ki-Klon erstellen (Reels, Shorts, YouTube) in 175 Sprachen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/635001
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/635001/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Ki-Klon%20erstellen%20(Reels%2C%20Shorts%2C%20YouTube)%20in%20175%20Sprachen
 
 ## 4. Editorial notes

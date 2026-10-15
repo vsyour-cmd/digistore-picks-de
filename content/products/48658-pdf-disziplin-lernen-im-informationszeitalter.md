@@ -10,10 +10,10 @@ affiliate_commission_pct: 25
 earnings_per_sale: 0.85
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Personal Development"]
+categories: ["Personal Development","Education"]
 listed_since: "2024-07-02"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/559429?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/559429"
@@ -22,7 +22,7 @@ language: "de"
 # PDF - Disziplin lernen im Informationszeitalter
 
 > Product ID `48658` · Digistore24 productId `559429` · [HTML profile page](../../produkte/pdf-disziplin-lernen-im-informationszeitalter-48658.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | kristallmann_philipp |
 | Listed since | 2024-07-02 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Personal Development |
+| Categories | Personal Development, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist PDF - Disziplin lernen im Informationszeitalter? — Typ: E-books, Anbieter: kristallmann_philipp, gelistet seit 2024-07-02
-- Wie viel kostet es? — 3.387843 USD
+- Wie viel kostet es? — 3.389964 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: PDF - Disziplin lernen im Informationszeitalter Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/559429
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/559429/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=PDF%20-%20Disziplin%20lernen%20im%20Informationszeitalter
 
 ## 4. Editorial notes

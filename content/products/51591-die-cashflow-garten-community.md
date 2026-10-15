@@ -4,34 +4,34 @@ digistore24_product_id: 596088
 title: "Die Cashflow Garten Community"
 vendor: "tippsnet"
 product_type: "Member area and video courses"
-price: 74.23
+price: 74.28
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 29.7
+earnings_per_sale: 29.72
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Online Marketing"]
 listed_since: "2025-02-13"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/51591/adminstore/"
+promo_link: "https://www.cashflow-garten.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.cashflow-garten.de/"
 language: "de"
 ---
 # Die Cashflow Garten Community
 
 > Product ID `51591` · Digistore24 productId `596088` · [HTML profile page](../../produkte/die-cashflow-garten-community-51591.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $74.23 (Subscription) |
+| Price | $74.28 (Subscription) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $29.70 |
+| Earnings/sale* | $29.72 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | tippsnet |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/51591/adminstore/
+- **Promo link (affiliate):** https://www.cashflow-garten.de/?aff=adminstore#aff=adminstore
 - Sales page: https://www.cashflow-garten.de/
 - Canonical redirect: https://www.digistore24.com/redir/596088/adminstore
 
@@ -81,14 +81,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die Cashflow Garten Community? — Typ: Member area and video courses, Anbieter: tippsnet, gelistet seit 2025-02-13
-- Wie viel kostet es? — 74.230659 USD
+- Wie viel kostet es? — 74.27713200000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Die Cashflow Garten Community Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/596088
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/596088/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Die%20Cashflow%20Garten%20Community
 
 ## 4. Editorial notes

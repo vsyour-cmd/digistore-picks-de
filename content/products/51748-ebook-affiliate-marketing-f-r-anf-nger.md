@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2025-03-10"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://michael-kotzur.de/affiliate-marketing-fuer-anfaenger/?aff=adminstore#aff=adminstore"
 sales_page: "https://michael-kotzur.de/affiliate-marketing-fuer-anfaenger/"
@@ -22,7 +22,7 @@ language: "de"
 # eBook: Affiliate Marketing für Anfänger
 
 > Product ID `51748` · Digistore24 productId `600768` · [HTML profile page](../../produkte/ebook-affiliate-marketing-f-r-anf-nger-51748.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -81,14 +81,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist eBook: Affiliate Marketing für Anfänger? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2025-03-10
-- Wie viel kostet es? — 10.398330000000001 USD
+- Wie viel kostet es? — 10.40484 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: eBook: Affiliate Marketing für Anfänger Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/600768
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/600768/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=eBook%3A%20Affiliate%20Marketing%20f%C3%BCr%20Anf%C3%A4nger
 
 ## 4. Editorial notes

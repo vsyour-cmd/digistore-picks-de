@@ -4,40 +4,40 @@ digistore24_product_id: 656397
 title: "Fünf Meter zum Paradies | Buch-Funnel + Kurs | Social Proof"
 vendor: "fuenfmeterzumparadies"
 product_type: "Book (printed)"
-price: 28.03
+price: 28.05
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 13.23
+earnings_per_sale: 13.24
 cart_conversion_pct: 15
 cancel_rate_pct: 4.16
-categories: ["Family & Children","Personal Development","Spiri­tua­lity & Esotericism"]
+categories: ["Personal Development","Spiri­tua­lity & Esotericism","Family & Children"]
 listed_since: "2025-12-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/55905/adminstore/"
+promo_link: "https://www.fuenf-meter-zum-paradies.de/bestelluebersicht/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.fuenf-meter-zum-paradies.de/bestelluebersicht/"
 language: "de"
 ---
 # Fünf Meter zum Paradies | Buch-Funnel + Kurs | Social Proof
 
 > Product ID `55905` · Digistore24 productId `656397` · [HTML profile page](../../produkte/f-nf-meter-zum-paradies-buch-funnel-kurs-social-proof-55905.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $28.03 (Single payment) |
+| Price | $28.05 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $13.23 |
+| Earnings/sale* | $13.24 |
 | Cart conversion* | 15% |
 | Cancel rate* | 4.16% |
 | Vendor | fuenfmeterzumparadies |
 | Listed since | 2025-12-18 |
 | Auto-accept affiliates | yes |
-| Categories | Family & Children, Personal Development, Spiri­tua­lity & Esotericism |
+| Categories | Personal Development, Spiri­tua­lity & Esotericism, Family & Children |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55905/adminstore/
+- **Promo link (affiliate):** https://www.fuenf-meter-zum-paradies.de/bestelluebersicht/?aff=adminstore#aff=adminstore
 - Sales page: https://www.fuenf-meter-zum-paradies.de/bestelluebersicht/
 - Vendor affiliate support: https://www.fuenf-meter-zum-paradies.de/affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/656397/adminstore
@@ -59,14 +59,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Fünf Meter zum Paradies | Buch-Funnel + Kurs | Social Proof? — Typ: Book (printed), Anbieter: fuenfmeterzumparadies, gelistet seit 2025-12-18
-- Wie viel kostet es? — 28.030767000000004 USD
+- Wie viel kostet es? — 28.048316 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Fünf Meter zum Paradies | Buch-Funnel + Kurs | Social Proof Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/656397
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/656397/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=F%C3%BCnf%20Meter%20zum%20Paradies%20%7C%20Buch-Funnel%20%2B%20Kurs%20%7C%20Social%20Proof
 
 ## 4. Editorial notes

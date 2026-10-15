@@ -4,34 +4,34 @@ digistore24_product_id: 728857
 title: "PWR-LVL -"
 vendor: "maxbuluc"
 product_type: "Member area and video courses"
-price: 654.88
+price: 655.29
 currency: "USD"
 affiliate_commission_pct: 55
-earnings_per_sale: 360.18
+earnings_per_sale: 360.41
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2026-09-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/59055/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/728857?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/728857"
 language: "de"
 ---
 # PWR-LVL -
 
 > Product ID `59055` · Digistore24 productId `728857` · [HTML profile page](../../produkte/pwr-lvl-59055.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $654.88 (Single payment, Subscription) |
+| Price | $655.29 (Single payment, Subscription) |
 | Affiliate commission | 55% |
-| Earnings/sale* | $360.18 |
+| Earnings/sale* | $360.41 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | maxbuluc |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59055/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/728857?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/728857
 - Canonical redirect: https://www.digistore24.com/redir/728857/adminstore
 
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist PWR-LVL -? — Typ: Member area and video courses, Anbieter: maxbuluc, gelistet seit 2026-09-09
-- Wie viel kostet es? — 654.8823510000001 USD
+- Wie viel kostet es? — 655.2923480000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: PWR-LVL - Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/728857
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/728857/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=PWR-LVL%20-
 
 ## 4. Editorial notes

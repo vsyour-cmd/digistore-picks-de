@@ -4,34 +4,34 @@ digistore24_product_id: 96601
 title: "Divi Plugin für Klick-Tipp"
 vendor: "intellicon"
 product_type: "Downloads"
-price: 74.23
+price: 74.28
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 37.12
+earnings_per_sale: 37.14
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet"]
 listed_since: "2016-09-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/29687/adminstore/"
+promo_link: "https://www.klicksuite.de/bestellung/?product=96601&aff=adminstore#aff=adminstore"
 sales_page: "https://www.klicksuite.de/bestellung/?product=96601"
 language: "de"
 ---
 # Divi Plugin für Klick-Tipp
 
 > Product ID `29687` · Digistore24 productId `96601` · [HTML profile page](../../produkte/divi-plugin-f-r-klick-tipp-29687.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $74.23 (Subscription) |
+| Price | $74.28 (Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $37.12 |
+| Earnings/sale* | $37.14 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | intellicon |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/29687/adminstore/
+- **Promo link (affiliate):** https://www.klicksuite.de/bestellung/?product=96601&aff=adminstore#aff=adminstore
 - Sales page: https://www.klicksuite.de/bestellung/?product=96601
 - Vendor affiliate support: https://www.klick-tipp-tools.de/partner/
 - Canonical redirect: https://www.digistore24.com/redir/96601/adminstore
@@ -77,14 +77,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Divi Plugin für Klick-Tipp? — Typ: Downloads, Anbieter: intellicon, gelistet seit 2016-09-23
-- Wie viel kostet es? — 74.230659 USD
+- Wie viel kostet es? — 74.27713200000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Divi Plugin für Klick-Tipp Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/96601
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/96601/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Divi%20Plugin%20f%C3%BCr%20Klick-Tipp
 
 ## 4. Editorial notes

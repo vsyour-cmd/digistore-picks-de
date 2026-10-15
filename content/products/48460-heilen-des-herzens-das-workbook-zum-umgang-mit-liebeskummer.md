@@ -4,16 +4,16 @@ digistore24_product_id: 553571
 title: "Heilen des Herzens DAS WORKBOOK ZUM UMGANG MIT LIEBESKUMMER"
 vendor: "MeinGedankenzimmer"
 product_type: "E-books"
-price: 22.35
+price: 22.36
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 11.18
+earnings_per_sale: 11.19
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Dating, Relationships & Romance","Family & Children","Personal Development"]
+categories: ["Personal Development","Dating, Relationships & Romance","Family & Children"]
 listed_since: "2024-05-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.meingedankenzimmer.de/heilen-des-herzens-ein-workbook-zum-umgang-mit-liebeskummer?aff=adminstore#aff=adminstore"
 sales_page: "https://www.meingedankenzimmer.de/heilen-des-herzens-ein-workbook-zum-umgang-mit-liebeskummer"
@@ -22,22 +22,22 @@ language: "de"
 # Heilen des Herzens DAS WORKBOOK ZUM UMGANG MIT LIEBESKUMMER
 
 > Product ID `48460` · Digistore24 productId `553571` · [HTML profile page](../../produkte/heilen-des-herzens-das-workbook-zum-umgang-mit-liebeskummer-48460.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $22.35 (Single payment) |
+| Price | $22.36 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $11.18 |
+| Earnings/sale* | $11.19 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MeinGedankenzimmer |
 | Listed since | 2024-05-23 |
 | Auto-accept affiliates | yes |
-| Categories | Dating, Relationships & Romance, Family & Children, Personal Development |
+| Categories | Personal Development, Dating, Relationships & Romance, Family & Children |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -76,14 +76,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Heilen des Herzens DAS WORKBOOK ZUM UMGANG MIT LIEBESKUMMER? — Typ: E-books, Anbieter: MeinGedankenzimmer, gelistet seit 2024-05-23
-- Wie viel kostet es? — 22.350819 USD
+- Wie viel kostet es? — 22.364811999999997 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Heilen des Herzens DAS WORKBOOK ZUM UMGANG MIT LIEBESKUMMER Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/553571
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/553571/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Heilen%20des%20Herzens%20DAS%20WORKBOOK%20ZUM%20UMGANG%20MIT%20LIEBESKUMMER
 
 ## 4. Editorial notes

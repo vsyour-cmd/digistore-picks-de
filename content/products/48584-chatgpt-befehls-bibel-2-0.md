@@ -4,16 +4,16 @@ digistore24_product_id: 553715
 title: "ChatGPT Befehls-Bibel 2.0"
 vendor: "ss-business"
 product_type: "E-books"
-price: 77.15
+price: 77.2
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 38.57
+earnings_per_sale: 38.6
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Computer & Internet","Education","Online Marketing & E-Business"]
+categories: ["Computer & Internet","Online Marketing & E-Business","Education"]
 listed_since: "2024-05-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://florianschaefer.de/chatgpt-befehls-bibel-2-0/?aff=adminstore#aff=adminstore"
 sales_page: "https://florianschaefer.de/chatgpt-befehls-bibel-2-0/"
@@ -22,22 +22,22 @@ language: "de"
 # ChatGPT Befehls-Bibel 2.0
 
 > Product ID `48584` · Digistore24 productId `553715` · [HTML profile page](../../produkte/chatgpt-befehls-bibel-2-0-48584.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $77.15 (Single payment) |
+| Price | $77.20 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $38.57 |
+| Earnings/sale* | $38.60 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ss-business |
 | Listed since | 2024-05-23 |
 | Auto-accept affiliates | yes |
-| Categories | Computer & Internet, Education, Online Marketing & E-Business |
+| Categories | Computer & Internet, Online Marketing & E-Business, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -73,14 +73,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist ChatGPT Befehls-Bibel 2.0? — Typ: E-books, Anbieter: ss-business, gelistet seit 2024-05-23
-- Wie viel kostet es? — 77.14890000000001 USD
+- Wie viel kostet es? — 77.1972 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: ChatGPT Befehls-Bibel 2.0 Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/553715
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/553715/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=ChatGPT%20Befehls-Bibel%202.0
 
 ## 4. Editorial notes

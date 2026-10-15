@@ -4,34 +4,34 @@ digistore24_product_id: 325102
 title: "Bauanleitung - Transporter Doppelbett"
 vendor: "mobilesbett"
 product_type: "E-books"
-price: 30.24
+price: 30.26
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 11.94
+earnings_per_sale: 11.95
 cart_conversion_pct: 1
 cancel_rate_pct: 3.32
 categories: ["Hobby & Craft"]
 listed_since: "2020-05-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/35153/adminstore/"
+promo_link: "https://mobiles-bett.de/transporter?aff=adminstore#aff=adminstore"
 sales_page: "https://mobiles-bett.de/transporter"
 language: "de"
 ---
 # Bauanleitung - Transporter Doppelbett
 
 > Product ID `35153` · Digistore24 productId `325102` · [HTML profile page](../../produkte/bauanleitung-transporter-doppelbett-35153.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $30.24 (Single payment) |
+| Price | $30.26 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $11.94 |
+| Earnings/sale* | $11.95 |
 | Cart conversion* | 1% |
 | Cancel rate* | 3.32% |
 | Vendor | mobilesbett |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/35153/adminstore/
+- **Promo link (affiliate):** https://mobiles-bett.de/transporter?aff=adminstore#aff=adminstore
 - Sales page: https://mobiles-bett.de/transporter
 - Vendor affiliate support: https://mobiles-bett.de/partnerschaft/
 - Canonical redirect: https://www.digistore24.com/redir/325102/adminstore
@@ -81,14 +81,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Bauanleitung - Transporter Doppelbett? — Typ: E-books, Anbieter: mobilesbett, gelistet seit 2020-05-05
-- Wie viel kostet es? — 30.244605000000004 USD
+- Wie viel kostet es? — 30.263540000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Bauanleitung - Transporter Doppelbett Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/325102
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/325102/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Bauanleitung%20-%20Transporter%20Doppelbett
 
 ## 4. Editorial notes

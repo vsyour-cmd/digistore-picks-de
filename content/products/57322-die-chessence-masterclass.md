@@ -4,16 +4,16 @@ digistore24_product_id: 606037
 title: "Die Chessence Masterclass"
 vendor: "Chessence"
 product_type: "Member area and video courses"
-price: 1032.6
+price: 1033.25
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 309.78
+earnings_per_sale: 309.97
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2026-07-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://chessence.de/masterclass/?aff=adminstore#aff=adminstore"
 sales_page: "https://chessence.de/masterclass/"
@@ -22,16 +22,16 @@ language: "de"
 # Die Chessence Masterclass
 
 > Product ID `57322` · Digistore24 productId `606037` · [HTML profile page](../../produkte/die-chessence-masterclass-57322.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1032.60 (Single payment, Subscription) |
+| Price | $1033.25 (Single payment, Subscription) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $309.78 |
+| Earnings/sale* | $309.97 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Chessence |
@@ -104,14 +104,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die Chessence Masterclass? — Typ: Member area and video courses, Anbieter: Chessence, gelistet seit 2026-07-01
-- Wie viel kostet es? — 1032.598893 USD
+- Wie viel kostet es? — 1033.2453639999999 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Die Chessence Masterclass Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/606037
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/606037/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Die%20Chessence%20Masterclass
 
 ## 4. Editorial notes

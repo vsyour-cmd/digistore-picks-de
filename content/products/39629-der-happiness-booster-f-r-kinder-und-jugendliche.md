@@ -4,34 +4,34 @@ digistore24_product_id: 379592
 title: "Der Happiness Booster für Kinder und Jugendliche"
 vendor: "YesOnline"
 product_type: "Member area and video courses"
-price: 86.45
+price: 86.51
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 23.41
+earnings_per_sale: 23.43
 cart_conversion_pct: 24
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2021-03-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/39629/adminstore/"
+promo_link: "https://www.yes-onlinekurs.ch/lp/happiness-booster/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.yes-onlinekurs.ch/lp/happiness-booster/"
 language: "de"
 ---
 # Der Happiness Booster für Kinder und Jugendliche
 
 > Product ID `39629` · Digistore24 productId `379592` · [HTML profile page](../../produkte/der-happiness-booster-f-r-kinder-und-jugendliche-39629.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $86.45 (Single payment) |
+| Price | $86.51 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $23.41 |
+| Earnings/sale* | $23.43 |
 | Cart conversion* | 24% |
 | Cancel rate* | 0% |
 | Vendor | YesOnline |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/39629/adminstore/
+- **Promo link (affiliate):** https://www.yes-onlinekurs.ch/lp/happiness-booster/?aff=adminstore#aff=adminstore
 - Sales page: https://www.yes-onlinekurs.ch/lp/happiness-booster/
 - Vendor affiliate support: https://www.yes-onlinekurs.ch/lp/support-fur-partnerinnen-1/
 - Canonical redirect: https://www.digistore24.com/redir/379592/adminstore
@@ -96,14 +96,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Happiness Booster für Kinder und Jugendliche? — Typ: Member area and video courses, Anbieter: YesOnline, gelistet seit 2021-03-17
-- Wie viel kostet es? — 86.451492 USD
+- Wie viel kostet es? — 86.50561599999999 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Der Happiness Booster für Kinder und Jugendliche Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/379592
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/379592/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%20Happiness%20Booster%20f%C3%BCr%20Kinder%20und%20Jugendliche
 
 ## 4. Editorial notes

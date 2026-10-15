@@ -4,16 +4,16 @@ digistore24_product_id: 697430
 title: "Der perfekte Lebenslauf 2.0"
 vendor: "SPBS-Business"
 product_type: "Downloads"
-price: 46.88
+price: 46.91
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 11.72
+earnings_per_sale: 11.73
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job","Services","Office Organization"]
 listed_since: "2026-06-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/697430?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/697430"
@@ -22,16 +22,16 @@ language: "de"
 # Der perfekte Lebenslauf 2.0
 
 > Product ID `56902` · Digistore24 productId `697430` · [HTML profile page](../../produkte/der-perfekte-lebenslauf-2-0-56902.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $46.88 (Single payment) |
+| Price | $46.91 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $11.72 |
+| Earnings/sale* | $11.73 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SPBS-Business |
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der perfekte Lebenslauf 2.0? — Typ: Downloads, Anbieter: SPBS-Business, gelistet seit 2026-06-15
-- Wie viel kostet es? — 46.881933000000004 USD
+- Wie viel kostet es? — 46.911284 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Der perfekte Lebenslauf 2.0 Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/697430
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/697430/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%20perfekte%20Lebenslauf%202.0
 
 ## 4. Editorial notes

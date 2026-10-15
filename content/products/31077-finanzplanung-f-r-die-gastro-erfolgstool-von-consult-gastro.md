@@ -4,34 +4,34 @@ digistore24_product_id: 192013
 title: "Finanzplanung für die Gastro- Erfolgstool von Consult Gastro"
 vendor: "Energiekur"
 product_type: "Downloads"
-price: 22.35
+price: 22.36
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 11.18
+earnings_per_sale: 11.19
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hotels & Gastronomy"]
 listed_since: "2018-01-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/31077/adminstore/"
+promo_link: "https://www.digistore24.com/product/192013?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/192013"
 language: "de"
 ---
 # Finanzplanung für die Gastro- Erfolgstool von Consult Gastro
 
 > Product ID `31077` · Digistore24 productId `192013` · [HTML profile page](../../produkte/finanzplanung-f-r-die-gastro-erfolgstool-von-consult-gastro-31077.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $22.35 (Single payment) |
+| Price | $22.36 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $11.18 |
+| Earnings/sale* | $11.19 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Energiekur |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/31077/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/192013?aff=adminstore
 - Sales page: https://www.digistore24.com/product/192013
 - Canonical redirect: https://www.digistore24.com/redir/192013/adminstore
 
@@ -78,14 +78,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Finanzplanung für die Gastro- Erfolgstool von Consult Gastro? — Typ: Downloads, Anbieter: Energiekur, gelistet seit 2018-01-07
-- Wie viel kostet es? — 22.350819 USD
+- Wie viel kostet es? — 22.364811999999997 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Finanzplanung für die Gastro- Erfolgstool von Consult Gastro Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/192013
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/192013/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Finanzplanung%20f%C3%BCr%20die%20Gastro-%20Erfolgstool%20von%20Consult%20Gastro
 
 ## 4. Editorial notes

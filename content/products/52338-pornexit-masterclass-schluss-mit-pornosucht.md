@@ -4,16 +4,16 @@ digistore24_product_id: 607924
 title: "PornExit Masterclass: Schluss mit Pornosucht"
 vendor: "NatureHeartAcademy"
 product_type: "Member area and video courses"
-price: 337.31
+price: 337.52
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 67.47
+earnings_per_sale: 67.51
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2025-04-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.fabiankowallikacademy.de/start/pornexit-masterclass/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.fabiankowallikacademy.de/start/pornexit-masterclass/"
@@ -22,16 +22,16 @@ language: "de"
 # PornExit Masterclass: Schluss mit Pornosucht
 
 > Product ID `52338` · Digistore24 productId `607924` · [HTML profile page](../../produkte/pornexit-masterclass-schluss-mit-pornosucht-52338.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $337.31 (Single payment) |
+| Price | $337.52 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $67.47 |
+| Earnings/sale* | $67.51 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | NatureHeartAcademy |
@@ -99,14 +99,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist PornExit Masterclass: Schluss mit Pornosucht? — Typ: Member area and video courses, Anbieter: NatureHeartAcademy, gelistet seit 2025-04-17
-- Wie viel kostet es? — 337.30840800000004 USD
+- Wie viel kostet es? — 337.519584 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: PornExit Masterclass: Schluss mit Pornosucht Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/607924
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/607924/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=PornExit%20Masterclass%3A%20Schluss%20mit%20Pornosucht
 
 ## 4. Editorial notes

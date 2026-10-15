@@ -4,7 +4,7 @@ digistore24_product_id: 15007
 title: "Online Briefmarken Katalog Deutschland Briefmarkensuche Abo"
 vendor: "abartl"
 product_type: "Software"
-price: 6.56
+price: 6.57
 currency: "USD"
 affiliate_commission_pct: 25
 earnings_per_sale: 1.64
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft"]
 listed_since: "2013-08-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://rund-um-briefmarken.de/lp-hp/?aff=adminstore#aff=adminstore"
 sales_page: "https://rund-um-briefmarken.de/lp-hp/"
@@ -22,14 +22,14 @@ language: "de"
 # Online Briefmarken Katalog Deutschland Briefmarkensuche Abo
 
 > Product ID `2949` · Digistore24 productId `15007` · [HTML profile page](../../produkte/online-briefmarken-katalog-deutschland-briefmarkensuche-abo-2949.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $6.56 (Subscription) |
+| Price | $6.57 (Subscription) |
 | Affiliate commission | 25% |
 | Earnings/sale* | $1.64 |
 | Cart conversion* | — |
@@ -73,14 +73,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online Briefmarken Katalog Deutschland Briefmarkensuche Abo? — Typ: Software, Anbieter: abartl, gelistet seit 2013-08-26
-- Wie viel kostet es? — 6.5632470000000005 USD
+- Wie viel kostet es? — 6.567356 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Online Briefmarken Katalog Deutschland Briefmarkensuche Abo Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/15007
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/15007/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Online%20Briefmarken%20Katalog%20Deutschland%20Briefmarkensuche%20Abo
 
 ## 4. Editorial notes

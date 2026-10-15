@@ -12,17 +12,17 @@ cart_conversion_pct: 53
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-02-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/55621/adminstore/"
+promo_link: "https://page.funnelcockpit.com/Dv3857vCp42YKaNT8?aff=adminstore#aff=adminstore"
 sales_page: "https://page.funnelcockpit.com/Dv3857vCp42YKaNT8"
 language: "de"
 ---
 # Social Cashflow – mit System zu wiederkehrenden Einnahmen
 
 > Product ID `55621` · Digistore24 productId `668926` · [HTML profile page](../../produkte/social-cashflow-mit-system-zu-wiederkehrenden-einnahmen-55621.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55621/adminstore/
+- **Promo link (affiliate):** https://page.funnelcockpit.com/Dv3857vCp42YKaNT8?aff=adminstore#aff=adminstore
 - Sales page: https://page.funnelcockpit.com/Dv3857vCp42YKaNT8
 - Vendor affiliate support: https://page.funnelcockpit.com/c64tsu9dGrmKN8Xhe
 - Canonical redirect: https://www.digistore24.com/redir/668926/adminstore
@@ -66,7 +66,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Social Cashflow – mit System zu wiederkehrenden Einnahmen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/668926
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/668926/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Social%20Cashflow%20%E2%80%93%20mit%20System%20zu%20wiederkehrenden%20Einnahmen
 
 ## 4. Editorial notes

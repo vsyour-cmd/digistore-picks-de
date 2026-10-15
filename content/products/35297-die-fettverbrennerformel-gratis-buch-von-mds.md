@@ -4,34 +4,34 @@ digistore24_product_id: 333131
 title: "Die Fettverbrennerformel Gratis Buch von MDS"
 vendor: "produktmanagerin"
 product_type: "E-books"
-price: 31.53
+price: 31.55
 currency: "USD"
 affiliate_commission_pct: 100
-earnings_per_sale: 20.07
+earnings_per_sale: 20.08
 cart_conversion_pct: 27
 cancel_rate_pct: 12.24
 categories: ["Food & Drink"]
 listed_since: "2020-06-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/redir/35297/adminstore/"
+promo_link: "https://machdichschlank.info/die-fettverbrennerformel/?aff=adminstore#aff=adminstore"
 sales_page: "https://machdichschlank.info/die-fettverbrennerformel/"
 language: "de"
 ---
 # Die Fettverbrennerformel Gratis Buch von MDS
 
 > Product ID `35297` · Digistore24 productId `333131` · [HTML profile page](../../produkte/die-fettverbrennerformel-gratis-buch-von-mds-35297.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $31.53 (Single payment) |
+| Price | $31.55 (Single payment) |
 | Affiliate commission | 100% |
-| Earnings/sale* | $20.07 |
+| Earnings/sale* | $20.08 |
 | Cart conversion* | 27% |
 | Cancel rate* | 12.24% |
 | Vendor | produktmanagerin |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/redir/35297/adminstore/
+- **Promo link (affiliate):** https://machdichschlank.info/die-fettverbrennerformel/?aff=adminstore#aff=adminstore
 - Sales page: https://machdichschlank.info/die-fettverbrennerformel/
 - Vendor affiliate support: https://machdichschlank.info/die-fettverbrennerformel-partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/333131/adminstore
@@ -103,14 +103,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die Fettverbrennerformel Gratis Buch von MDS? — Typ: E-books, Anbieter: produktmanagerin, gelistet seit 2020-06-24
-- Wie viel kostet es? — 31.530420000000003 USD
+- Wie viel kostet es? — 31.550159999999998 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Die Fettverbrennerformel Gratis Buch von MDS Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/333131
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/333131/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Die%20Fettverbrennerformel%20Gratis%20Buch%20von%20MDS
 
 ## 4. Editorial notes

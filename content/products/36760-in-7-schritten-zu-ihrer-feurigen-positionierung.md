@@ -12,8 +12,8 @@ cart_conversion_pct: 32
 cancel_rate_pct: 0.46
 categories: ["Online Marketing & E-Business"]
 listed_since: "2021-03-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://buch.der-bayerische-vertriebsfreak.de/in-7-schritten-zur-feurigen-positionierung?aff=adminstore#aff=adminstore"
 sales_page: "https://buch.der-bayerische-vertriebsfreak.de/in-7-schritten-zur-feurigen-positionierung"
@@ -22,7 +22,7 @@ language: "de"
 # In 7 Schritten zu Ihrer feurigen Positionierung
 
 > Product ID `36760` · Digistore24 productId `376616` · [HTML profile page](../../produkte/in-7-schritten-zu-ihrer-feurigen-positionierung-36760.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -59,14 +59,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist In 7 Schritten zu Ihrer feurigen Positionierung? — Typ: E-books, Anbieter: UweRieder, gelistet seit 2021-03-01
-- Wie viel kostet es? — 4.338228 USD
+- Wie viel kostet es? — 4.340944 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: In 7 Schritten zu Ihrer feurigen Positionierung Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/376616
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/376616/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=In%207%20Schritten%20zu%20Ihrer%20feurigen%20Positionierung
 
 ## 4. Editorial notes

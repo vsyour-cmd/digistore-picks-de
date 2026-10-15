@@ -4,16 +4,16 @@ digistore24_product_id: 736582
 title: "Online-Business-Komplettpaket – alle 16 Praxiskurse mit Matze | 40 %"
 vendor: "einfachmitmatze"
 product_type: "Downloads"
-price: 938.64
+price: 939.23
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 375.46
+earnings_per_sale: 375.69
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-09-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/736582?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/736582"
@@ -22,16 +22,16 @@ language: "de"
 # Online-Business-Komplettpaket – alle 16 Praxiskurse mit Matze | 40 %
 
 > Product ID `59606` · Digistore24 productId `736582` · [HTML profile page](../../produkte/online-business-komplettpaket-alle-16-praxiskurse-mit-matze-40-59606.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $938.64 (Single payment) |
+| Price | $939.23 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $375.46 |
+| Earnings/sale* | $375.69 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | einfachmitmatze |
@@ -80,14 +80,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online-Business-Komplettpaket – alle 16 Praxiskurse mit Matze | 40 %? — Typ: Downloads, Anbieter: einfachmitmatze, gelistet seit 2026-09-23
-- Wie viel kostet es? — 938.6449500000001 USD
+- Wie viel kostet es? — 939.2326 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Online-Business-Komplettpaket – alle 16 Praxiskurse mit Matze | 40 % Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/736582
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/736582/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Online-Business-Komplettpaket%20%E2%80%93%20alle%2016%20Praxiskurse%20mit%20Matze%20%7C%2040%20%25
 
 ## 4. Editorial notes

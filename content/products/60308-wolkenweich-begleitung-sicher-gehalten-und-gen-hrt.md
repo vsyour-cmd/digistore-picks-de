@@ -4,16 +4,16 @@ digistore24_product_id: 657115
 title: "WOLKENWEICH Begleitung - sicher, gehalten und genährt"
 vendor: "jennifersubke"
 product_type: "Member area and video courses"
-price: 93.01
+price: 93.07
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 18.61
+earnings_per_sale: 18.62
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Dating, Relationships & Romance","Personal Development","Spiri­tua­lity & Esotericism"]
+categories: ["Personal Development","Dating, Relationships & Romance","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-10-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/657115?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/657115"
@@ -22,22 +22,22 @@ language: "de"
 # WOLKENWEICH Begleitung - sicher, gehalten und genährt
 
 > Product ID `60308` · Digistore24 productId `657115` · [HTML profile page](../../produkte/wolkenweich-begleitung-sicher-gehalten-und-gen-hrt-60308.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $93.01 (Single payment, Installment) |
+| Price | $93.07 (Single payment, Installment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $18.61 |
+| Earnings/sale* | $18.62 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | jennifersubke |
 | Listed since | 2026-10-07 |
 | Auto-accept affiliates | yes |
-| Categories | Dating, Relationships & Romance, Personal Development, Spiri­tua­lity & Esotericism |
+| Categories | Personal Development, Dating, Relationships & Romance, Spiri­tua­lity & Esotericism |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist WOLKENWEICH Begleitung - sicher, gehalten und genährt? — Typ: Member area and video courses, Anbieter: jennifersubke, gelistet seit 2026-10-07
-- Wie viel kostet es? — 93.014739 USD
+- Wie viel kostet es? — 93.072972 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: WOLKENWEICH Begleitung - sicher, gehalten und genährt Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/657115
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/657115/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=WOLKENWEICH%20Begleitung%20-%20sicher%2C%20gehalten%20und%20gen%C3%A4hrt
 
 ## 4. Editorial notes

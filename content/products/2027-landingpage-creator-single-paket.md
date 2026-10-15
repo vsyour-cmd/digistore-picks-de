@@ -4,16 +4,16 @@ digistore24_product_id: 20925
 title: "Landingpage-Creator Single Paket"
 vendor: "VersArzt"
 product_type: "Downloads"
-price: 34.76
+price: 34.78
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 17.39
+earnings_per_sale: 17.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2014-02-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "http://www.dortmund-internetmarketing.de/landingpage-creator/?aff=adminstore#aff=adminstore"
 sales_page: "http://www.dortmund-internetmarketing.de/landingpage-creator/"
@@ -22,16 +22,16 @@ language: "de"
 # Landingpage-Creator Single Paket
 
 > Product ID `2027` · Digistore24 productId `20925` · [HTML profile page](../../produkte/landingpage-creator-single-paket-2027.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $34.76 (Subscription) |
+| Price | $34.78 (Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $17.39 |
+| Earnings/sale* | $17.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | VersArzt |
@@ -105,14 +105,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Landingpage-Creator Single Paket? — Typ: Downloads, Anbieter: VersArzt, gelistet seit 2014-02-06
-- Wie viel kostet es? — 34.761729 USD
+- Wie viel kostet es? — 34.783492 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Landingpage-Creator Single Paket Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/20925
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/20925/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Landingpage-Creator%20Single%20Paket
 
 ## 4. Editorial notes

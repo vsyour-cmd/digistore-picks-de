@@ -4,16 +4,16 @@ digistore24_product_id: 711552
 title: "Weiterbildung zur IT Systemsicherheit (DORA) in Unternehmen"
 vendor: "sachkundeak"
 product_type: "Member area and video courses"
-price: 36.64
+price: 36.66
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 10.99
+earnings_per_sale: 11
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Law & Justice","Profession & Job"]
+categories: ["Law & Justice","Profession & Job","Education"]
 listed_since: "2026-07-14"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://sachkundelehrgaenge.de/digistore24-weiterbildung-zur-it-systemsicherheit-dora/?aff=adminstore#aff=adminstore"
 sales_page: "https://sachkundelehrgaenge.de/digistore24-weiterbildung-zur-it-systemsicherheit-dora/"
@@ -22,22 +22,22 @@ language: "de"
 # Weiterbildung zur IT Systemsicherheit (DORA) in Unternehmen
 
 > Product ID `57522` · Digistore24 productId `711552` · [HTML profile page](../../produkte/weiterbildung-zur-it-systemsicherheit-dora-in-unternehmen-57522.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $36.64 (Single payment) |
+| Price | $36.66 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $10.99 |
+| Earnings/sale* | $11.00 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | sachkundeak |
 | Listed since | 2026-07-14 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Law & Justice, Profession & Job |
+| Categories | Law & Justice, Profession & Job, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Weiterbildung zur IT Systemsicherheit (DORA) in Unternehmen? — Typ: Member area and video courses, Anbieter: sachkundeak, gelistet seit 2026-07-14
-- Wie viel kostet es? — 36.64013700000001 USD
+- Wie viel kostet es? — 36.663076000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Weiterbildung zur IT Systemsicherheit (DORA) in Unternehmen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/711552
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/711552/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Weiterbildung%20zur%20IT%20Systemsicherheit%20(DORA)%20in%20Unternehmen
 
 ## 4. Editorial notes

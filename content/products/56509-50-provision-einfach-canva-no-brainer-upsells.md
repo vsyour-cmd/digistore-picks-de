@@ -7,22 +7,22 @@ product_type: "E-books"
 price: 15.58
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 7.79
+earnings_per_sale: 7.8
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media"]
 listed_since: "2026-04-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/56509/adminstore/"
+promo_link: "http://einfach-canva.dein-socialmedia-erfolg.de?aff=adminstore#aff=adminstore"
 sales_page: "http://einfach-canva.dein-socialmedia-erfolg.de"
 language: "de"
 ---
 # 50% Provision: "Einfach Canva!" (No-Brainer + Upsells)
 
 > Product ID `56509` · Digistore24 productId `687137` · [HTML profile page](../../produkte/50-provision-einfach-canva-no-brainer-upsells-56509.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,7 @@ language: "de"
 | Product type | E-books |
 | Price | $15.58 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $7.79 |
+| Earnings/sale* | $7.80 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SiNagel01 |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56509/adminstore/
+- **Promo link (affiliate):** http://einfach-canva.dein-socialmedia-erfolg.de?aff=adminstore#aff=adminstore
 - Sales page: http://einfach-canva.dein-socialmedia-erfolg.de
 - Vendor affiliate support: http://affiliate.dein-socialmedia-erfolg.de
 - Canonical redirect: https://www.digistore24.com/redir/687137/adminstore
@@ -62,14 +62,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 50% Provision: "Einfach Canva!" (No-Brainer + Upsells)? — Typ: E-books, Anbieter: SiNagel01, gelistet seit 2026-04-23
-- Wie viel kostet es? — 15.575133000000001 USD
+- Wie viel kostet es? — 15.584884 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 50% Provision: "Einfach Canva!" (No-Brainer + Upsells) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/687137
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/687137/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=50%25%20Provision%3A%20%22Einfach%20Canva!%22%20(No-Brainer%20%2B%20Upsells)
 
 ## 4. Editorial notes

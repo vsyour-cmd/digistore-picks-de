@@ -4,40 +4,40 @@ digistore24_product_id: 655486
 title: "AI-Agent-Empire 2.0 KI-Agenten Blueprint zum Wiederverkauf"
 vendor: "smartboostAI"
 product_type: "Member area and video courses"
-price: 936.77
+price: 937.35
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 468.38
+earnings_per_sale: 468.68
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Services","Online Marketing","Marketing Services"]
+categories: ["Services","Marketing Services","Online Marketing"]
 listed_since: "2025-12-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/55397/adminstore/"
+promo_link: "https://www.digistore24.com/product/655486?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/655486"
 language: "de"
 ---
 # AI-Agent-Empire 2.0 KI-Agenten Blueprint zum Wiederverkauf
 
 > Product ID `55397` · Digistore24 productId `655486` · [HTML profile page](../../produkte/ai-agent-empire-2-0-ki-agenten-blueprint-zum-wiederverkauf-55397.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $936.77 (Single payment, Installment) |
+| Price | $937.35 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $468.38 |
+| Earnings/sale* | $468.68 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | smartboostAI |
 | Listed since | 2025-12-15 |
 | Auto-accept affiliates | yes |
-| Categories | Services, Online Marketing, Marketing Services |
+| Categories | Services, Marketing Services, Online Marketing |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55397/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/655486?aff=adminstore
 - Sales page: https://www.digistore24.com/product/655486
 - Vendor affiliate support: https://agentempire.io/affiliate
 - Canonical redirect: https://www.digistore24.com/redir/655486/adminstore
@@ -84,14 +84,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist AI-Agent-Empire 2.0 KI-Agenten Blueprint zum Wiederverkauf? — Typ: Member area and video courses, Anbieter: smartboostAI, gelistet seit 2025-12-15
-- Wie viel kostet es? — 936.7665420000002 USD
+- Wie viel kostet es? — 937.353016 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: AI-Agent-Empire 2.0 KI-Agenten Blueprint zum Wiederverkauf Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/655486
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/655486/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=AI-Agent-Empire%202.0%20KI-Agenten%20Blueprint%20zum%20Wiederverkauf
 
 ## 4. Editorial notes

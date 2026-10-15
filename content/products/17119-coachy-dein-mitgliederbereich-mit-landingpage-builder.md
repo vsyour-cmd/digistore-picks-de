@@ -4,40 +4,40 @@ digistore24_product_id: 288552
 title: "COACHY - Dein Mitgliederbereich mit Landingpage Builder!"
 vendor: "Coachy"
 product_type: "Member area and video courses"
-price: 1177.27
+price: 1178.01
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 80.35
+earnings_per_sale: 80.4
 cart_conversion_pct: 24
 cancel_rate_pct: 1.6
-categories: ["Computer & Internet","Software"]
+categories: ["Software","Computer & Internet"]
 listed_since: "2019-09-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/17119/adminstore/"
+promo_link: "http://www.coachy.net?aff=adminstore#aff=adminstore"
 sales_page: "http://www.coachy.net"
 language: "de"
 ---
 # COACHY - Dein Mitgliederbereich mit Landingpage Builder!
 
 > Product ID `17119` · Digistore24 productId `288552` · [HTML profile page](../../produkte/coachy-dein-mitgliederbereich-mit-landingpage-builder-17119.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1177.27 (Subscription) |
+| Price | $1178.01 (Subscription) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $80.35 |
+| Earnings/sale* | $80.40 |
 | Cart conversion* | 24% |
 | Cancel rate* | 1.6% |
 | Vendor | Coachy |
 | Listed since | 2019-09-29 |
 | Auto-accept affiliates | yes |
-| Categories | Computer & Internet, Software |
+| Categories | Software, Computer & Internet |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/17119/adminstore/
+- **Promo link (affiliate):** http://www.coachy.net?aff=adminstore#aff=adminstore
 - Sales page: http://www.coachy.net
 - Vendor affiliate support: https://www.coachy.net/de/partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/288552/adminstore
@@ -90,14 +90,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist COACHY - Dein Mitgliederbereich mit Landingpage Builder!? — Typ: Member area and video courses, Anbieter: Coachy, gelistet seit 2019-09-29
-- Wie viel kostet es? — 1177.2698520000001 USD
+- Wie viel kostet es? — 1178.006896 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: COACHY - Dein Mitgliederbereich mit Landingpage Builder! Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/288552
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/288552/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=COACHY%20-%20Dein%20Mitgliederbereich%20mit%20Landingpage%20Builder!
 
 ## 4. Editorial notes

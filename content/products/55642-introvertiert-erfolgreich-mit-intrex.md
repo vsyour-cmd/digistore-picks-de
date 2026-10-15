@@ -4,16 +4,16 @@ digistore24_product_id: 634902
 title: "Introvertiert erfolgreich mit INTREX"
 vendor: "AndreasKott"
 product_type: "Online coaching"
-price: 1864.13
+price: 1865.3
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 186.41
+earnings_per_sale: 186.53
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Marketing Services"]
 listed_since: "2025-09-10"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://q90yu0.eu-3.quentn-site.com/intrex-11?aff=adminstore#aff=adminstore"
 sales_page: "https://q90yu0.eu-3.quentn-site.com/intrex-11"
@@ -22,16 +22,16 @@ language: "de"
 # Introvertiert erfolgreich mit INTREX
 
 > Product ID `55642` · Digistore24 productId `634902` · [HTML profile page](../../produkte/introvertiert-erfolgreich-mit-intrex-55642.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $1864.13 (Single payment, Installment) |
+| Price | $1865.30 (Single payment, Installment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $186.41 |
+| Earnings/sale* | $186.53 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | AndreasKott |
@@ -83,14 +83,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Introvertiert erfolgreich mit INTREX? — Typ: Online coaching, Anbieter: AndreasKott, gelistet seit 2025-09-10
-- Wie viel kostet es? — 1864.1298630000001 USD
+- Wie viel kostet es? — 1865.296924 USD
 - Garantie? — 14
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Introvertiert erfolgreich mit INTREX Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/634902
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/634902/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Introvertiert%20erfolgreich%20mit%20INTREX
 
 ## 4. Editorial notes

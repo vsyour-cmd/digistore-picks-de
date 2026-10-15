@@ -4,7 +4,7 @@ digistore24_product_id: 371872
 title: "Die 77 besten Keto Rezepte Gratis Buch von MDS"
 vendor: "produktmanagerin"
 product_type: "E-books"
-price: 18.84
+price: 18.85
 currency: "USD"
 affiliate_commission_pct: 100
 earnings_per_sale: 2.73
@@ -12,24 +12,24 @@ cart_conversion_pct: 40
 cancel_rate_pct: 12.34
 categories: ["Food & Drink"]
 listed_since: "2021-02-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/40687/adminstore/"
+promo_link: "https://machdichschlank.info/77-keto-rezepte/?aff=adminstore#aff=adminstore"
 sales_page: "https://machdichschlank.info/77-keto-rezepte/"
 language: "de"
 ---
 # Die 77 besten Keto Rezepte Gratis Buch von MDS
 
 > Product ID `40687` · Digistore24 productId `371872` · [HTML profile page](../../produkte/die-77-besten-keto-rezepte-gratis-buch-von-mds-40687.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $18.84 (Single payment) |
+| Price | $18.85 (Single payment) |
 | Affiliate commission | 100% |
 | Earnings/sale* | $2.73 |
 | Cart conversion* | 40% |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/40687/adminstore/
+- **Promo link (affiliate):** https://machdichschlank.info/77-keto-rezepte/?aff=adminstore#aff=adminstore
 - Sales page: https://machdichschlank.info/77-keto-rezepte/
 - Canonical redirect: https://www.digistore24.com/redir/371872/adminstore
 
@@ -86,14 +86,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die 77 besten Keto Rezepte Gratis Buch von MDS? — Typ: E-books, Anbieter: produktmanagerin, gelistet seit 2021-02-04
-- Wie viel kostet es? — 18.839985000000002 USD
+- Wie viel kostet es? — 18.85178 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Die 77 besten Keto Rezepte Gratis Buch von MDS Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/371872
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/371872/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Die%2077%20besten%20Keto%20Rezepte%20Gratis%20Buch%20von%20MDS
 
 ## 4. Editorial notes

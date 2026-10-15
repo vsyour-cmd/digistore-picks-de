@@ -4,16 +4,16 @@ digistore24_product_id: 736655
 title: "Social Media auf Autopilot mit Matze – 7 Kurse + 90-Tage-Plan | 40 %"
 vendor: "einfachmitmatze"
 product_type: "Downloads"
-price: 562.81
+price: 563.16
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 225.12
+earnings_per_sale: 225.26
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Social Media","Marketing Services"]
 listed_since: "2026-09-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://einfachmitmatze.de/social-media-megapaket/?aff=adminstore#aff=adminstore"
 sales_page: "https://einfachmitmatze.de/social-media-megapaket/"
@@ -22,16 +22,16 @@ language: "de"
 # Social Media auf Autopilot mit Matze – 7 Kurse + 90-Tage-Plan | 40 %
 
 > Product ID `59612` · Digistore24 productId `736655` · [HTML profile page](../../produkte/social-media-auf-autopilot-mit-matze-7-kurse-90-tage-plan-40-59612.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $562.81 (Single payment) |
+| Price | $563.16 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $225.12 |
+| Earnings/sale* | $225.26 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | einfachmitmatze |
@@ -85,14 +85,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Social Media auf Autopilot mit Matze – 7 Kurse + 90-Tage-Plan | 40 %? — Typ: Downloads, Anbieter: einfachmitmatze, gelistet seit 2026-09-23
-- Wie viel kostet es? — 562.806816 USD
+- Wie viel kostet es? — 563.159168 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Social Media auf Autopilot mit Matze – 7 Kurse + 90-Tage-Plan | 40 % Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/736655
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/736655/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Social%20Media%20auf%20Autopilot%20mit%20Matze%20%E2%80%93%207%20Kurse%20%2B%2090-Tage-Plan%20%7C%2040%20%25
 
 ## 4. Editorial notes

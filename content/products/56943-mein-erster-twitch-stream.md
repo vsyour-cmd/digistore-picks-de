@@ -4,7 +4,7 @@ digistore24_product_id: 701378
 title: "Mein erster Twitch-Stream"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 19.86
+price: 19.87
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 9.93
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2026-06-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/56943/adminstore/"
+promo_link: "https://social-media-planer.de/ebooks/mein-erster-twitch-stream?aff=adminstore#aff=adminstore"
 sales_page: "https://social-media-planer.de/ebooks/mein-erster-twitch-stream"
 language: "de"
 ---
 # Mein erster Twitch-Stream
 
 > Product ID `56943` · Digistore24 productId `701378` · [HTML profile page](../../produkte/mein-erster-twitch-stream-56943.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $19.86 (Single payment) |
+| Price | $19.87 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $9.93 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56943/adminstore/
+- **Promo link (affiliate):** https://social-media-planer.de/ebooks/mein-erster-twitch-stream?aff=adminstore#aff=adminstore
 - Sales page: https://social-media-planer.de/ebooks/mein-erster-twitch-stream
 - Vendor affiliate support: https://social-media-planer.de/partnerprogramm
 - Canonical redirect: https://www.digistore24.com/redir/701378/adminstore
@@ -82,14 +82,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mein erster Twitch-Stream? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-06-15
-- Wie viel kostet es? — 19.857456000000003 USD
+- Wie viel kostet es? — 19.869888000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Mein erster Twitch-Stream Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/701378
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/701378/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Mein%20erster%20Twitch-Stream
 
 ## 4. Editorial notes

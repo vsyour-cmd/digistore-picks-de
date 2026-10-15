@@ -4,16 +4,16 @@ digistore24_product_id: 218775
 title: "KMM2018 Autoimmunerkrankungen - Digitales Kongresspaket"
 vendor: "AMMSpitz"
 product_type: "Member area and video courses"
-price: 136.21
+price: 136.29
 currency: "USD"
 affiliate_commission_pct: 45
-earnings_per_sale: 61.29
+earnings_per_sale: 61.33
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2018-05-02"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://digitalewelt.spitzen-praevention.com/kmm-autoimmun/?aff=adminstore#aff=adminstore"
 sales_page: "https://digitalewelt.spitzen-praevention.com/kmm-autoimmun/"
@@ -22,16 +22,16 @@ language: "de"
 # KMM2018 Autoimmunerkrankungen - Digitales Kongresspaket
 
 > Product ID `27248` · Digistore24 productId `218775` · [HTML profile page](../../produkte/kmm2018-autoimmunerkrankungen-digitales-kongresspaket-27248.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $136.21 (Single payment, Installment) |
+| Price | $136.29 (Single payment, Installment) |
 | Affiliate commission | 45% |
-| Earnings/sale* | $61.29 |
+| Earnings/sale* | $61.33 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | AMMSpitz |
@@ -94,14 +94,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KMM2018 Autoimmunerkrankungen - Digitales Kongresspaket? — Typ: Member area and video courses, Anbieter: AMMSpitz, gelistet seit 2018-05-02
-- Wie viel kostet es? — 136.206942 USD
+- Wie viel kostet es? — 136.292216 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: KMM2018 Autoimmunerkrankungen - Digitales Kongresspaket Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/218775
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/218775/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=KMM2018%20Autoimmunerkrankungen%20-%20Digitales%20Kongresspaket
 
 ## 4. Editorial notes

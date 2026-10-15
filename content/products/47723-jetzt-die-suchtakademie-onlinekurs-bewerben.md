@@ -4,40 +4,40 @@ digistore24_product_id: 399868
 title: "Jetzt die Suchtakademie (Onlinekurs) bewerben"
 vendor: "livswach"
 product_type: "Member area and video courses"
-price: 573.15
+price: 573.51
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 114.63
+earnings_per_sale: 114.7
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Personal Development","Spiri­tua­lity & Esotericism"]
+categories: ["Personal Development","Spiri­tua­lity & Esotericism","Education"]
 listed_since: "2021-07-28"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/47723/adminstore/"
+promo_link: "https://aufge-wacht.de/suchtakademie-online/?aff=adminstore#aff=adminstore"
 sales_page: "https://aufge-wacht.de/suchtakademie-online/"
 language: "de"
 ---
 # Jetzt die Suchtakademie (Onlinekurs) bewerben
 
 > Product ID `47723` · Digistore24 productId `399868` · [HTML profile page](../../produkte/jetzt-die-suchtakademie-onlinekurs-bewerben-47723.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $573.15 (Single payment, Installment) |
+| Price | $573.51 (Single payment, Installment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $114.63 |
+| Earnings/sale* | $114.70 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | livswach |
 | Listed since | 2021-07-28 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Personal Development, Spiri­tua­lity & Esotericism |
+| Categories | Personal Development, Spiri­tua­lity & Esotericism, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/47723/adminstore/
+- **Promo link (affiliate):** https://aufge-wacht.de/suchtakademie-online/?aff=adminstore#aff=adminstore
 - Sales page: https://aufge-wacht.de/suchtakademie-online/
 - Vendor affiliate support: https://aufge-wacht.de/affiliate-support/
 - Canonical redirect: https://www.digistore24.com/redir/399868/adminstore
@@ -96,14 +96,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Jetzt die Suchtakademie (Onlinekurs) bewerben? — Typ: Member area and video courses, Anbieter: livswach, gelistet seit 2021-07-28
-- Wie viel kostet es? — 573.1492410000001 USD
+- Wie viel kostet es? — 573.508068 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Jetzt die Suchtakademie (Onlinekurs) bewerben Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/399868
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/399868/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Jetzt%20die%20Suchtakademie%20(Onlinekurs)%20bewerben
 
 ## 4. Editorial notes

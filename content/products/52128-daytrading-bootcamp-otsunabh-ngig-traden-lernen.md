@@ -4,16 +4,16 @@ digistore24_product_id: 565645
 title: "Daytrading Bootcamp - Otsunabhängig traden lernen"
 vendor: "rheinrost"
 product_type: "Member area and video courses"
-price: 43.16
+price: 43.19
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 11.58
+earnings_per_sale: 11.59
 cart_conversion_pct: 16
 cancel_rate_pct: 1.52
-categories: ["Politics & Economy","Profession & Job","Trading Products"]
+categories: ["Trading Products","Profession & Job","Politics & Economy"]
 listed_since: "2024-08-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.unaufschiebbar.de/daytrading-bootcamp/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.unaufschiebbar.de/daytrading-bootcamp/"
@@ -22,22 +22,22 @@ language: "de"
 # Daytrading Bootcamp - Otsunabhängig traden lernen
 
 > Product ID `52128` · Digistore24 productId `565645` · [HTML profile page](../../produkte/daytrading-bootcamp-otsunabh-ngig-traden-lernen-52128.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $43.16 (Single payment) |
+| Price | $43.19 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $11.58 |
+| Earnings/sale* | $11.59 |
 | Cart conversion* | 16% |
 | Cancel rate* | 1.52% |
 | Vendor | rheinrost |
 | Listed since | 2024-08-16 |
 | Auto-accept affiliates | yes |
-| Categories | Politics & Economy, Profession & Job, Trading Products |
+| Categories | Trading Products, Profession & Job, Politics & Economy |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -83,14 +83,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Daytrading Bootcamp - Otsunabhängig traden lernen? — Typ: Member area and video courses, Anbieter: rheinrost, gelistet seit 2024-08-16
-- Wie viel kostet es? — 43.158660000000005 USD
+- Wie viel kostet es? — 43.185680000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Daytrading Bootcamp - Otsunabhängig traden lernen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/565645
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/565645/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Daytrading%20Bootcamp%20-%20Otsunabh%C3%A4ngig%20traden%20lernen
 
 ## 4. Editorial notes

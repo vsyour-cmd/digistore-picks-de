@@ -4,34 +4,34 @@ digistore24_product_id: 695752
 title: "Wenn Liebe zur Angst wird"
 vendor: "medienversand2014"
 product_type: "E-books"
-price: 28.21
+price: 28.23
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 14.11
+earnings_per_sale: 14.12
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2026-05-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/56745/adminstore/"
+promo_link: "https://noebauerfxj.wixsite.com/verlustangst?aff=adminstore#aff=adminstore"
 sales_page: "https://noebauerfxj.wixsite.com/verlustangst"
 language: "de"
 ---
 # Wenn Liebe zur Angst wird
 
 > Product ID `56745` · Digistore24 productId `695752` · [HTML profile page](../../produkte/wenn-liebe-zur-angst-wird-56745.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $28.21 (Single payment) |
+| Price | $28.23 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $14.11 |
+| Earnings/sale* | $14.12 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | medienversand2014 |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56745/adminstore/
+- **Promo link (affiliate):** https://noebauerfxj.wixsite.com/verlustangst?aff=adminstore#aff=adminstore
 - Sales page: https://noebauerfxj.wixsite.com/verlustangst
 - Vendor affiliate support: https://job-profi.jimdofree.com/verlustangst-affiliate-support/
 - Canonical redirect: https://www.digistore24.com/redir/695752/adminstore
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Wenn Liebe zur Angst wird? — Typ: E-books, Anbieter: medienversand2014, gelistet seit 2026-05-29
-- Wie viel kostet es? — 28.209663000000003 USD
+- Wie viel kostet es? — 28.227324 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Wenn Liebe zur Angst wird Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/695752
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/695752/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Wenn%20Liebe%20zur%20Angst%20wird
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 664061
 title: "SPS Das Copy-Paste Prinzip"
 vendor: "SalesPalsSystems"
 product_type: "Downloads"
-price: 258.38
+price: 258.54
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 129.2
+earnings_per_sale: 129.28
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Social Media","Marketing Services"]
 listed_since: "2026-01-25"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/664061?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/664061"
@@ -22,16 +22,16 @@ language: "de"
 # SPS Das Copy-Paste Prinzip
 
 > Product ID `55326` · Digistore24 productId `664061` · [HTML profile page](../../produkte/sps-das-copy-paste-prinzip-55326.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $258.38 (Single payment) |
+| Price | $258.54 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $129.20 |
+| Earnings/sale* | $129.28 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SalesPalsSystems |
@@ -93,14 +93,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist SPS Das Copy-Paste Prinzip? — Typ: Downloads, Anbieter: SalesPalsSystems, gelistet seit 2026-01-25
-- Wie viel kostet es? — 258.381729 USD
+- Wie viel kostet es? — 258.543492 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: SPS Das Copy-Paste Prinzip Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/664061
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/664061/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=SPS%20Das%20Copy-Paste%20Prinzip
 
 ## 4. Editorial notes

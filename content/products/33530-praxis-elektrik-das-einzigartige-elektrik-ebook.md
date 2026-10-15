@@ -4,16 +4,16 @@ digistore24_product_id: 319140
 title: "Praxis Elektrik - das einzigartige Elektrik eBook"
 vendor: "elektricks"
 product_type: "E-books"
-price: 30.3
+price: 30.32
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 13.58
+earnings_per_sale: 13.59
 cart_conversion_pct: 25
 cancel_rate_pct: 6.15
 categories: ["Education"]
 listed_since: "2020-04-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://elektricks.com/praxis-elektrik-fachbuch/?aff=adminstore#aff=adminstore"
 sales_page: "https://elektricks.com/praxis-elektrik-fachbuch/"
@@ -22,16 +22,16 @@ language: "de"
 # Praxis Elektrik - das einzigartige Elektrik eBook
 
 > Product ID `33530` · Digistore24 productId `319140` · [HTML profile page](../../produkte/praxis-elektrik-das-einzigartige-elektrik-ebook-33530.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $30.30 (Single payment) |
+| Price | $30.32 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $13.58 |
+| Earnings/sale* | $13.59 |
 | Cart conversion* | 25% |
 | Cancel rate* | 6.15% |
 | Vendor | elektricks |
@@ -94,14 +94,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Praxis Elektrik - das einzigartige Elektrik eBook? — Typ: E-books, Anbieter: elektricks, gelistet seit 2020-04-07
-- Wie viel kostet es? — 30.300510000000003 USD
+- Wie viel kostet es? — 30.319480000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Praxis Elektrik - das einzigartige Elektrik eBook Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/319140
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/319140/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Praxis%20Elektrik%20-%20das%20einzigartige%20Elektrik%20eBook
 
 ## 4. Editorial notes

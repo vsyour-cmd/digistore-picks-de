@@ -4,40 +4,40 @@ digistore24_product_id: 707530
 title: "Sicherer Hafen: Co-Regulation im Familienalltag"
 vendor: "leajuliasalvi"
 product_type: "Telephone coaching"
-price: 36.64
+price: 36.66
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 18.33
+earnings_per_sale: 18.34
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Family & Children","Personal Development","Spiri­tua­lity & Esotericism"]
+categories: ["Personal Development","Spiri­tua­lity & Esotericism","Family & Children"]
 listed_since: "2026-07-03"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/57393/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/707530?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/707530"
 language: "de"
 ---
 # Sicherer Hafen: Co-Regulation im Familienalltag
 
 > Product ID `57393` · Digistore24 productId `707530` · [HTML profile page](../../produkte/sicherer-hafen-co-regulation-im-familienalltag-57393.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Telephone coaching |
-| Price | $36.64 (Single payment) |
+| Price | $36.66 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $18.33 |
+| Earnings/sale* | $18.34 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | leajuliasalvi |
 | Listed since | 2026-07-03 |
 | Auto-accept affiliates | yes |
-| Categories | Family & Children, Personal Development, Spiri­tua­lity & Esotericism |
+| Categories | Personal Development, Spiri­tua­lity & Esotericism, Family & Children |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/57393/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/707530?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/707530
 - Canonical redirect: https://www.digistore24.com/redir/707530/adminstore
 
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Sicherer Hafen: Co-Regulation im Familienalltag? — Typ: Telephone coaching, Anbieter: leajuliasalvi, gelistet seit 2026-07-03
-- Wie viel kostet es? — 36.64013700000001 USD
+- Wie viel kostet es? — 36.663076000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Sicherer Hafen: Co-Regulation im Familienalltag Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/707530
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/707530/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Sicherer%20Hafen%3A%20Co-Regulation%20im%20Familienalltag
 
 ## 4. Editorial notes

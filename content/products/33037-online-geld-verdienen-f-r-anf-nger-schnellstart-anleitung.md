@@ -4,34 +4,34 @@ digistore24_product_id: 330108
 title: "Online Geld verdienen für Anfänger - Schnellstart Anleitung"
 vendor: "geldhuepfer"
 product_type: "E-books"
-price: 10.44
+price: 10.45
 currency: "USD"
 affiliate_commission_pct: 90
-earnings_per_sale: 9.4
+earnings_per_sale: 9.41
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2020-06-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/33037/adminstore/"
+promo_link: "https://www.digistore24.com/product/330108?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/330108"
 language: "de"
 ---
 # Online Geld verdienen für Anfänger - Schnellstart Anleitung
 
 > Product ID `33037` · Digistore24 productId `330108` · [HTML profile page](../../produkte/online-geld-verdienen-f-r-anf-nger-schnellstart-anleitung-33037.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.44 (Single payment) |
+| Price | $10.45 (Single payment) |
 | Affiliate commission | 90% |
-| Earnings/sale* | $9.40 |
+| Earnings/sale* | $9.41 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | geldhuepfer |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/33037/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/330108?aff=adminstore
 - Sales page: https://www.digistore24.com/product/330108
 - Vendor affiliate support: https://geldhuepfer.de/affiliate-support-seite-online-geld-verdienen-fuer-anfaenger-digi
 - Canonical redirect: https://www.digistore24.com/redir/330108/adminstore
@@ -69,14 +69,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online Geld verdienen für Anfänger - Schnellstart Anleitung? — Typ: E-books, Anbieter: geldhuepfer, gelistet seit 2020-06-05
-- Wie viel kostet es? — 10.443054 USD
+- Wie viel kostet es? — 10.449592 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Online Geld verdienen für Anfänger - Schnellstart Anleitung Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/330108
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/330108/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Online%20Geld%20verdienen%20f%C3%BCr%20Anf%C3%A4nger%20-%20Schnellstart%20Anleitung
 
 ## 4. Editorial notes

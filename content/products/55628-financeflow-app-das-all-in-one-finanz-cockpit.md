@@ -4,16 +4,16 @@ digistore24_product_id: 665463
 title: "FinanceFlow App – Das All-in-One Finanz-Cockpit"
 vendor: "Vali_572"
 product_type: "E-books"
-price: 15.15
+price: 15.16
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 7.58
+earnings_per_sale: 7.59
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2026-01-30"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
 promo_link: "https://daily-balance.at?aff=adminstore#aff=adminstore"
 sales_page: "https://daily-balance.at"
@@ -22,16 +22,16 @@ language: "de"
 # FinanceFlow App – Das All-in-One Finanz-Cockpit
 
 > Product ID `55628` · Digistore24 productId `665463` · [HTML profile page](../../produkte/financeflow-app-das-all-in-one-finanz-cockpit-55628.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $15.15 (Single payment) |
+| Price | $15.16 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $7.58 |
+| Earnings/sale* | $7.59 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Vali_572 |
@@ -62,14 +62,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist FinanceFlow App – Das All-in-One Finanz-Cockpit? — Typ: E-books, Anbieter: Vali_572, gelistet seit 2026-01-30
-- Wie viel kostet es? — 15.150255000000001 USD
+- Wie viel kostet es? — 15.159740000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: FinanceFlow App – Das All-in-One Finanz-Cockpit Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/665463
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/665463/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=FinanceFlow%20App%20%E2%80%93%20Das%20All-in-One%20Finanz-Cockpit
 
 ## 4. Editorial notes

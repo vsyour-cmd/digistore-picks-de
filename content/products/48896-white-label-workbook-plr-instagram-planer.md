@@ -4,16 +4,16 @@ digistore24_product_id: 561001
 title: "White Label Workbook (PLR) - \"Instagram Planer\""
 vendor: "Institut-Dittrich"
 product_type: "Downloads"
-price: 18.74
+price: 18.75
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 7.49
+earnings_per_sale: 7.5
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2024-07-12"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://whitelabeloase.com/produkte/workbook-instagram-planner/?aff=adminstore#aff=adminstore"
 sales_page: "https://whitelabeloase.com/produkte/workbook-instagram-planner/"
@@ -22,16 +22,16 @@ language: "de"
 # White Label Workbook (PLR) - "Instagram Planer"
 
 > Product ID `48896` · Digistore24 productId `561001` · [HTML profile page](../../produkte/white-label-workbook-plr-instagram-planer-48896.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $18.74 (Single payment) |
+| Price | $18.75 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $7.49 |
+| Earnings/sale* | $7.50 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Institut-Dittrich |
@@ -59,14 +59,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist White Label Workbook (PLR) - "Instagram Planer"? — Typ: Downloads, Anbieter: Institut-Dittrich, gelistet seit 2024-07-12
-- Wie viel kostet es? — 18.739356000000004 USD
+- Wie viel kostet es? — 18.751088000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: White Label Workbook (PLR) - "Instagram Planer" Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/561001
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/561001/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=White%20Label%20Workbook%20(PLR)%20-%20%22Instagram%20Planer%22
 
 ## 4. Editorial notes

@@ -4,34 +4,34 @@ digistore24_product_id: 147033
 title: "Partnerprogramm \"Digital University\""
 vendor: "netdesign2014"
 product_type: "Member area and video courses"
-price: 468.85
+price: 469.15
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 234.43
+earnings_per_sale: 234.58
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet"]
 listed_since: "2017-06-28"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/17491/adminstore/"
+promo_link: "https://online-marketing-site.de/digital-university-business/?aff=adminstore#aff=adminstore"
 sales_page: "https://online-marketing-site.de/digital-university-business/"
 language: "de"
 ---
 # Partnerprogramm "Digital University"
 
 > Product ID `17491` · Digistore24 productId `147033` · [HTML profile page](../../produkte/partnerprogramm-digital-university-17491.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $468.85 (Single payment, Installment) |
+| Price | $469.15 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $234.43 |
+| Earnings/sale* | $234.58 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | netdesign2014 |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/17491/adminstore/
+- **Promo link (affiliate):** https://online-marketing-site.de/digital-university-business/?aff=adminstore#aff=adminstore
 - Sales page: https://online-marketing-site.de/digital-university-business/
 - Vendor affiliate support: https://online-marketing-site.de/partner-werden-online-business-komplettpaket/
 - Canonical redirect: https://www.digistore24.com/redir/147033/adminstore
@@ -95,14 +95,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Partnerprogramm "Digital University"? — Typ: Member area and video courses, Anbieter: netdesign2014, gelistet seit 2017-06-28
-- Wie viel kostet es? — 468.85287300000005 USD
+- Wie viel kostet es? — 469.14640399999996 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Partnerprogramm "Digital University" Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/147033
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/147033/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Partnerprogramm%20%22Digital%20University%22
 
 ## 4. Editorial notes

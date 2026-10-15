@@ -4,40 +4,40 @@ digistore24_product_id: 721582
 title: "Vom Konflikt zu mehr Verbindung"
 vendor: "SinaDieterle"
 product_type: "E-books"
-price: 26.02
+price: 26.03
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 7.8
+earnings_per_sale: 7.81
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Dating, Relationships & Romance","Personal Development"]
+categories: ["Personal Development","Dating, Relationships & Romance"]
 listed_since: "2026-08-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/58425/adminstore/"
+promo_link: "https://beziehungscoach-online.de/e-books/?aff=adminstore#aff=adminstore"
 sales_page: "https://beziehungscoach-online.de/e-books/"
 language: "de"
 ---
 # Vom Konflikt zu mehr Verbindung
 
 > Product ID `58425` · Digistore24 productId `721582` · [HTML profile page](../../produkte/vom-konflikt-zu-mehr-verbindung-58425.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $26.02 (Single payment) |
+| Price | $26.03 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $7.80 |
+| Earnings/sale* | $7.81 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SinaDieterle |
 | Listed since | 2026-08-17 |
 | Auto-accept affiliates | yes |
-| Categories | Dating, Relationships & Romance, Personal Development |
+| Categories | Personal Development, Dating, Relationships & Romance |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58425/adminstore/
+- **Promo link (affiliate):** https://beziehungscoach-online.de/e-books/?aff=adminstore#aff=adminstore
 - Sales page: https://beziehungscoach-online.de/e-books/
 - Canonical redirect: https://www.digistore24.com/redir/721582/adminstore
 
@@ -78,14 +78,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Vom Konflikt zu mehr Verbindung? — Typ: E-books, Anbieter: SinaDieterle, gelistet seit 2026-08-17
-- Wie viel kostet es? — 26.018187 USD
+- Wie viel kostet es? — 26.034476 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Vom Konflikt zu mehr Verbindung Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/721582
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/721582/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Vom%20Konflikt%20zu%20mehr%20Verbindung
 
 ## 4. Editorial notes

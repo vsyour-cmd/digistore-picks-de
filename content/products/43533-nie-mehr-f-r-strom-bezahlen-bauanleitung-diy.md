@@ -4,7 +4,7 @@ digistore24_product_id: 492908
 title: "Nie mehr für Strom bezahlen! - Bauanleitung DIY"
 vendor: "gehtanders"
 product_type: "E-books"
-price: 12.16
+price: 12.17
 currency: "USD"
 affiliate_commission_pct: 25
 earnings_per_sale: 2.33
@@ -12,24 +12,24 @@ cart_conversion_pct: 28
 cancel_rate_pct: 10.03
 categories: ["Green Products & Environmental Protection","Hobby & Craft"]
 listed_since: "2023-04-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "http://www.fitundattraktiv.de/2minuten-traumkoerper-megaangebot#aff=adminstore"
+promo_link: "https://geheimnisfreieenergie.de/magnetpolgenerator/?aff=adminstore#aff=adminstore"
 sales_page: "https://geheimnisfreieenergie.de/magnetpolgenerator/"
 language: "de"
 ---
 # Nie mehr für Strom bezahlen! - Bauanleitung DIY
 
 > Product ID `43533` · Digistore24 productId `492908` · [HTML profile page](../../produkte/nie-mehr-f-r-strom-bezahlen-bauanleitung-diy-43533.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $12.16 (Single payment) |
+| Price | $12.17 (Single payment) |
 | Affiliate commission | 25% |
 | Earnings/sale* | $2.33 |
 | Cart conversion* | 28% |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://www.fitundattraktiv.de/2minuten-traumkoerper-megaangebot#aff=adminstore
+- **Promo link (affiliate):** https://geheimnisfreieenergie.de/magnetpolgenerator/?aff=adminstore#aff=adminstore
 - Sales page: https://geheimnisfreieenergie.de/magnetpolgenerator/
 - Vendor affiliate support: https://geheimnisfreieenergie.de/magnetpolgenerator-partner/
 - Canonical redirect: https://www.digistore24.com/redir/492908/adminstore
@@ -78,14 +78,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Nie mehr für Strom bezahlen! - Bauanleitung DIY? — Typ: E-books, Anbieter: gehtanders, gelistet seit 2023-04-06
-- Wie viel kostet es? — 12.164928000000002 USD
+- Wie viel kostet es? — 12.172544 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Nie mehr für Strom bezahlen! - Bauanleitung DIY Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/492908
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/492908/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Nie%20mehr%20f%C3%BCr%20Strom%20bezahlen!%20-%20Bauanleitung%20DIY
 
 ## 4. Editorial notes

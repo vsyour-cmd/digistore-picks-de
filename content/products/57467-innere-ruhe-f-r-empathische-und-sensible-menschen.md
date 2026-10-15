@@ -4,32 +4,32 @@ digistore24_product_id: 697334
 title: "Innere Ruhe für empathische und sensible Menschen"
 vendor: "gesundergeist"
 product_type: "Member area and video courses"
-price: 28.1
+price: 28.12
 currency: "USD"
 affiliate_commission_pct: 0
 earnings_per_sale: 6.71
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Dating, Relationships & Romance","Spiri­tua­lity & Esotericism","Personal Development"]
+categories: ["Personal Development","Dating, Relationships & Romance","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-07-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/57467/adminstore/"
+promo_link: "https://hochsensibel-und-gluecklich.grweb.site?aff=adminstore#aff=adminstore"
 sales_page: "https://hochsensibel-und-gluecklich.grweb.site"
 language: "de"
 ---
 # Innere Ruhe für empathische und sensible Menschen
 
 > Product ID `57467` · Digistore24 productId `697334` · [HTML profile page](../../produkte/innere-ruhe-f-r-empathische-und-sensible-menschen-57467.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $28.10 (Single payment) |
+| Price | $28.12 (Single payment) |
 | Affiliate commission | 0% |
 | Earnings/sale* | $6.71 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | gesundergeist |
 | Listed since | 2026-07-09 |
 | Auto-accept affiliates | yes |
-| Categories | Dating, Relationships & Romance, Spiri­tua­lity & Esotericism, Personal Development |
+| Categories | Personal Development, Dating, Relationships & Romance, Spiri­tua­lity & Esotericism |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/57467/adminstore/
+- **Promo link (affiliate):** https://hochsensibel-und-gluecklich.grweb.site?aff=adminstore#aff=adminstore
 - Sales page: https://hochsensibel-und-gluecklich.grweb.site
 - Canonical redirect: https://www.digistore24.com/redir/697334/adminstore
 
@@ -84,14 +84,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Innere Ruhe für empathische und sensible Menschen? — Typ: Member area and video courses, Anbieter: gesundergeist, gelistet seit 2026-07-09
-- Wie viel kostet es? — 28.097853 USD
+- Wie viel kostet es? — 28.115444 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Innere Ruhe für empathische und sensible Menschen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/697334
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/697334/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Innere%20Ruhe%20f%C3%BCr%20empathische%20und%20sensible%20Menschen
 
 ## 4. Editorial notes

@@ -10,10 +10,10 @@ affiliate_commission_pct: 10
 earnings_per_sale: 0
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Business & Investment","Trading Products"]
+categories: ["Trading Products","Business & Investment"]
 listed_since: "2025-04-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/product/606477?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/606477"
@@ -22,7 +22,7 @@ language: "de"
 # Erfolg beim Trading
 
 > Product ID `52054` · Digistore24 productId `606477` · [HTML profile page](../../produkte/erfolg-beim-trading-52054.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | NaranNelson |
 | Listed since | 2025-04-09 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Trading Products |
+| Categories | Trading Products, Business & Investment |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -77,7 +77,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Erfolg beim Trading Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/606477
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/606477/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Erfolg%20beim%20Trading
 
 ## 4. Editorial notes

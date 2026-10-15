@@ -4,16 +4,16 @@ digistore24_product_id: 183927
 title: "Wohnmobil Selbstausbauen online Kurs"
 vendor: "MBMweb"
 product_type: "Member area and video courses"
-price: 49.71
+price: 49.74
 currency: "USD"
 affiliate_commission_pct: 33
-earnings_per_sale: 27.1
+earnings_per_sale: 27.12
 cart_conversion_pct: 9
 cancel_rate_pct: 2.18
 categories: ["Hobby & Craft"]
 listed_since: "2017-11-30"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://womoselbstausbauen.com/vk1/?aff=adminstore#aff=adminstore"
 sales_page: "https://womoselbstausbauen.com/vk1/"
@@ -22,16 +22,16 @@ language: "de"
 # Wohnmobil Selbstausbauen online Kurs
 
 > Product ID `44518` · Digistore24 productId `183927` · [HTML profile page](../../produkte/wohnmobil-selbstausbauen-online-kurs-44518.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $49.71 (Single payment) |
+| Price | $49.74 (Single payment) |
 | Affiliate commission | 33% |
-| Earnings/sale* | $27.10 |
+| Earnings/sale* | $27.12 |
 | Cart conversion* | 9% |
 | Cancel rate* | 2.18% |
 | Vendor | MBMweb |
@@ -93,14 +93,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Wohnmobil Selbstausbauen online Kurs? — Typ: Member area and video courses, Anbieter: MBMweb, gelistet seit 2017-11-30
-- Wie viel kostet es? — 49.71072600000001 USD
+- Wie viel kostet es? — 49.741848000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Wohnmobil Selbstausbauen online Kurs Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/183927
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/183927/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Wohnmobil%20Selbstausbauen%20online%20Kurs
 
 ## 4. Editorial notes

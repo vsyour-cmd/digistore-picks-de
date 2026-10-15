@@ -4,34 +4,34 @@ digistore24_product_id: 328707
 title: "Cajon spielen in 2 Monaten wie sonst in 2 Jahren, ohne Noten"
 vendor: "drum-online"
 product_type: "Downloads"
-price: 140
+price: 140.08
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 35
+earnings_per_sale: 35.02
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dancing & Music"]
 listed_since: "2020-05-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/38559/adminstore/"
+promo_link: "https://www.einfach-trommeln-lernen.de/drum-online-shop?aff=adminstore#aff=adminstore"
 sales_page: "https://www.einfach-trommeln-lernen.de/drum-online-shop"
 language: "de"
 ---
 # Cajon spielen in 2 Monaten wie sonst in 2 Jahren, ohne Noten
 
 > Product ID `38559` · Digistore24 productId `328707` · [HTML profile page](../../produkte/cajon-spielen-in-2-monaten-wie-sonst-in-2-jahren-ohne-noten-38559.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $140.00 (Single payment) |
+| Price | $140.08 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $35.00 |
+| Earnings/sale* | $35.02 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | drum-online |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/38559/adminstore/
+- **Promo link (affiliate):** https://www.einfach-trommeln-lernen.de/drum-online-shop?aff=adminstore#aff=adminstore
 - Sales page: https://www.einfach-trommeln-lernen.de/drum-online-shop
 - Canonical redirect: https://www.digistore24.com/redir/328707/adminstore
 
@@ -78,14 +78,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Cajon spielen in 2 Monaten wie sonst in 2 Jahren, ohne Noten? — Typ: Downloads, Anbieter: drum-online, gelistet seit 2020-05-27
-- Wie viel kostet es? — 139.997301 USD
+- Wie viel kostet es? — 140.084948 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Cajon spielen in 2 Monaten wie sonst in 2 Jahren, ohne Noten Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/328707
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/328707/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Cajon%20spielen%20in%202%20Monaten%20wie%20sonst%20in%202%20Jahren%2C%20ohne%20Noten
 
 ## 4. Editorial notes

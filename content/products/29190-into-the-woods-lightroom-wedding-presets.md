@@ -4,16 +4,16 @@ digistore24_product_id: 274342
 title: "Into The Woods Lightroom Wedding Presets"
 vendor: "Creative4life"
 product_type: "Downloads"
-price: 74.23
+price: 74.28
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 29.7
+earnings_per_sale: 29.72
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Photography & Film"]
 listed_since: "2019-06-03"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://stefanundkai.de/verkaufsseite-presets/?aff=adminstore#aff=adminstore"
 sales_page: "https://stefanundkai.de/verkaufsseite-presets/"
@@ -22,16 +22,16 @@ language: "de"
 # Into The Woods Lightroom Wedding Presets
 
 > Product ID `29190` · Digistore24 productId `274342` · [HTML profile page](../../produkte/into-the-woods-lightroom-wedding-presets-29190.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $74.23 (Single payment) |
+| Price | $74.28 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $29.70 |
+| Earnings/sale* | $29.72 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Creative4life |
@@ -89,14 +89,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Into The Woods Lightroom Wedding Presets? — Typ: Downloads, Anbieter: Creative4life, gelistet seit 2019-06-03
-- Wie viel kostet es? — 74.230659 USD
+- Wie viel kostet es? — 74.27713200000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Into The Woods Lightroom Wedding Presets Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/274342
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/274342/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Into%20The%20Woods%20Lightroom%20Wedding%20Presets
 
 ## 4. Editorial notes

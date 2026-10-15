@@ -4,7 +4,7 @@ digistore24_product_id: 449908
 title: "Buch \"DEIN LEBEN - DEINE ENTSCHEIDUNG\""
 vendor: "wipec100"
 product_type: "Book (printed)"
-price: 20.84
+price: 20.85
 currency: "USD"
 affiliate_commission_pct: 25
 earnings_per_sale: 5.21
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2022-07-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/41421/adminstore/"
+promo_link: "https://wipec.de/buch-dein-leben-deine-entscheidung/?aff=adminstore#aff=adminstore"
 sales_page: "https://wipec.de/buch-dein-leben-deine-entscheidung/"
 language: "de"
 ---
 # Buch "DEIN LEBEN - DEINE ENTSCHEIDUNG"
 
 > Product ID `41421` · Digistore24 productId `449908` · [HTML profile page](../../produkte/buch-dein-leben-deine-entscheidung-41421.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $20.84 (Single payment) |
+| Price | $20.85 (Single payment) |
 | Affiliate commission | 25% |
 | Earnings/sale* | $5.21 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/41421/adminstore/
+- **Promo link (affiliate):** https://wipec.de/buch-dein-leben-deine-entscheidung/?aff=adminstore#aff=adminstore
 - Sales page: https://wipec.de/buch-dein-leben-deine-entscheidung/
 - Canonical redirect: https://www.digistore24.com/redir/449908/adminstore
 
@@ -77,14 +77,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Buch "DEIN LEBEN - DEINE ENTSCHEIDUNG"? — Typ: Book (printed), Anbieter: wipec100, gelistet seit 2022-07-05
-- Wie viel kostet es? — 20.841384 USD
+- Wie viel kostet es? — 20.854432 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Buch "DEIN LEBEN - DEINE ENTSCHEIDUNG" Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/449908
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/449908/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Buch%20%22DEIN%20LEBEN%20-%20DEINE%20ENTSCHEIDUNG%22
 
 ## 4. Editorial notes

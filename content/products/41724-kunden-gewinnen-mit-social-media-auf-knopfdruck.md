@@ -4,16 +4,16 @@ digistore24_product_id: 435093
 title: "Kunden gewinnen mit Social Media auf Knopfdruck"
 vendor: "Spekulatius"
 product_type: "E-books"
-price: 12.43
+price: 12.44
 currency: "USD"
 affiliate_commission_pct: 80
-earnings_per_sale: 9.95
+earnings_per_sale: 9.96
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2022-03-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://page.funnelcockpit.com/P2iv5fjx23ja4Z5Ho?aff=adminstore#aff=adminstore"
 sales_page: "https://page.funnelcockpit.com/P2iv5fjx23ja4Z5Ho"
@@ -22,16 +22,16 @@ language: "de"
 # Kunden gewinnen mit Social Media auf Knopfdruck
 
 > Product ID `41724` · Digistore24 productId `435093` · [HTML profile page](../../produkte/kunden-gewinnen-mit-social-media-auf-knopfdruck-41724.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $12.43 (Single payment) |
+| Price | $12.44 (Single payment) |
 | Affiliate commission | 80% |
-| Earnings/sale* | $9.95 |
+| Earnings/sale* | $9.96 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Spekulatius |
@@ -58,14 +58,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Kunden gewinnen mit Social Media auf Knopfdruck? — Typ: E-books, Anbieter: Spekulatius, gelistet seit 2022-03-20
-- Wie viel kostet es? — 12.433272 USD
+- Wie viel kostet es? — 12.441056 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Kunden gewinnen mit Social Media auf Knopfdruck Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/435093
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/435093/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Kunden%20gewinnen%20mit%20Social%20Media%20auf%20Knopfdruck
 
 ## 4. Editorial notes

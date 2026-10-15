@@ -4,16 +4,16 @@ digistore24_product_id: 656649
 title: "500 € nebenbei – realistisch, legal, ohne Online-Bullshit"
 vendor: "MichaMH"
 product_type: "E-books"
-price: 9.3
+price: 9.31
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 3.72
+earnings_per_sale: 3.73
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: []
+categories: ["Business & Investment","Profession & Job"]
 listed_since: "2025-12-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.affyro.com/500nebenbei.html?aff=adminstore#aff=adminstore"
 sales_page: "https://www.affyro.com/500nebenbei.html"
@@ -22,22 +22,22 @@ language: "de"
 # 500 € nebenbei – realistisch, legal, ohne Online-Bullshit
 
 > Product ID `54968` · Digistore24 productId `656649` · [HTML profile page](../../produkte/500-nebenbei-realistisch-legal-ohne-online-bullshit-54968.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $9.30 (Single payment) |
+| Price | $9.31 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $3.72 |
+| Earnings/sale* | $3.73 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MichaMH |
 | Listed since | 2025-12-20 |
 | Auto-accept affiliates | yes |
-| Categories | Uncategorized |
+| Categories | Business & Investment, Profession & Job |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -75,14 +75,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 500 € nebenbei – realistisch, legal, ohne Online-Bullshit? — Typ: E-books, Anbieter: MichaMH, gelistet seit 2025-12-20
-- Wie viel kostet es? — 9.302592 USD
+- Wie viel kostet es? — 9.308416000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 500 € nebenbei – realistisch, legal, ohne Online-Bullshit Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/656649
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/656649/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=500%20%E2%82%AC%20nebenbei%20%E2%80%93%20realistisch%2C%20legal%2C%20ohne%20Online-Bullshit
 
 ## 4. Editorial notes

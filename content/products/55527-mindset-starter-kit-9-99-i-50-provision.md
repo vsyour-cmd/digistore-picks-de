@@ -4,32 +4,32 @@ digistore24_product_id: 666694
 title: "Mindset-Starter-Kit (9,99€) I 50% Provision"
 vendor: "fromtiptotrip"
 product_type: "Downloads"
-price: 9.38
+price: 9.39
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 4.7
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Personal Development"]
+categories: ["Personal Development","Education"]
 listed_since: "2026-02-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
-promo_link: "https://www.digistore24.com/redir/55527/adminstore/"
+promo_link: "https://lukasmahlmindset.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://lukasmahlmindset.com/"
 language: "de"
 ---
 # Mindset-Starter-Kit (9,99€) I 50% Provision
 
 > Product ID `55527` · Digistore24 productId `666694` · [HTML profile page](../../produkte/mindset-starter-kit-9-99-i-50-provision-55527.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $9.38 (Single payment) |
+| Price | $9.39 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $4.70 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | fromtiptotrip |
 | Listed since | 2026-02-05 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Personal Development |
+| Categories | Personal Development, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55527/adminstore/
+- **Promo link (affiliate):** https://lukasmahlmindset.com/?aff=adminstore#aff=adminstore
 - Sales page: https://lukasmahlmindset.com/
 - Canonical redirect: https://www.digistore24.com/redir/666694/adminstore
 
@@ -62,14 +62,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mindset-Starter-Kit (9,99€) I 50% Provision? — Typ: Downloads, Anbieter: fromtiptotrip, gelistet seit 2026-02-05
-- Wie viel kostet es? — 9.380859000000001 USD
+- Wie viel kostet es? — 9.386732 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Mindset-Starter-Kit (9,99€) I 50% Provision Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/666694
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/666694/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Mindset-Starter-Kit%20(9%2C99%E2%82%AC)%20I%2050%25%20Provision
 
 ## 4. Editorial notes

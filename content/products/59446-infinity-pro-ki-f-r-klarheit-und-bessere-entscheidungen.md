@@ -4,16 +4,16 @@ digistore24_product_id: 723849
 title: "INFINITY PRO KI für Klarheit und bessere Entscheidungen"
 vendor: "uweboehle47cf"
 product_type: "Software"
-price: 18.69
+price: 18.71
 currency: "USD"
 affiliate_commission_pct: 40
 earnings_per_sale: 7.48
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Dating, Relationships & Romance","Family & Children","Personal Development"]
+categories: ["Personal Development","Dating, Relationships & Romance","Family & Children"]
 listed_since: "2026-09-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://infinity.business-coach-uwe-boehle.ch/guthaben.php?aff=adminstore#aff=adminstore"
 sales_page: "https://infinity.business-coach-uwe-boehle.ch/guthaben.php"
@@ -22,14 +22,14 @@ language: "de"
 # INFINITY PRO KI für Klarheit und bessere Entscheidungen
 
 > Product ID `59446` · Digistore24 productId `723849` · [HTML profile page](../../produkte/infinity-pro-ki-f-r-klarheit-und-bessere-entscheidungen-59446.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $18.69 (Single payment) |
+| Price | $18.71 (Single payment) |
 | Affiliate commission | 40% |
 | Earnings/sale* | $7.48 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | uweboehle47cf |
 | Listed since | 2026-09-21 |
 | Auto-accept affiliates | yes |
-| Categories | Dating, Relationships & Romance, Family & Children, Personal Development |
+| Categories | Personal Development, Dating, Relationships & Romance, Family & Children |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -78,14 +78,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist INFINITY PRO KI für Klarheit und bessere Entscheidungen? — Typ: Software, Anbieter: uweboehle47cf, gelistet seit 2026-09-21
-- Wie viel kostet es? — 18.694632 USD
+- Wie viel kostet es? — 18.706336 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: INFINITY PRO KI für Klarheit und bessere Entscheidungen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/723849
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/723849/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=INFINITY%20PRO%20KI%20f%C3%BCr%20Klarheit%20und%20bessere%20Entscheidungen
 
 ## 4. Editorial notes

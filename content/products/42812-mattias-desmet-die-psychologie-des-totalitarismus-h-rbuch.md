@@ -4,7 +4,7 @@ digistore24_product_id: 485059
 title: "Mattias Desmet-Die Psychologie des Totalitarismus-Hörbuch"
 vendor: "isidde"
 product_type: "Audio book (download)"
-price: 25.08
+price: 25.09
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 12.55
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2023-02-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.isid.de/mattias-desmet-die-psychologie-des-totalitarismus-hoerbuch-download?aff=adminstore#aff=adminstore"
 sales_page: "https://www.isid.de/mattias-desmet-die-psychologie-des-totalitarismus-hoerbuch-download"
@@ -22,14 +22,14 @@ language: "de"
 # Mattias Desmet-Die Psychologie des Totalitarismus-Hörbuch
 
 > Product ID `42812` · Digistore24 productId `485059` · [HTML profile page](../../produkte/mattias-desmet-die-psychologie-des-totalitarismus-h-rbuch-42812.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Audio book (download) |
-| Price | $25.08 (Single payment) |
+| Price | $25.09 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $12.55 |
 | Cart conversion* | — |
@@ -73,14 +73,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mattias Desmet-Die Psychologie des Totalitarismus-Hörbuch? — Typ: Audio book (download), Anbieter: isidde, gelistet seit 2023-02-18
-- Wie viel kostet es? — 25.078983 USD
+- Wie viel kostet es? — 25.094684 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Mattias Desmet-Die Psychologie des Totalitarismus-Hörbuch Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/485059
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/485059/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Mattias%20Desmet-Die%20Psychologie%20des%20Totalitarismus-H%C3%B6rbuch
 
 ## 4. Editorial notes

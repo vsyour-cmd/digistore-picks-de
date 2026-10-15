@@ -4,40 +4,40 @@ digistore24_product_id: 641950
 title: "Business Builder AI"
 vendor: "Robinfocke"
 product_type: "Software"
-price: 781.55
+price: 782.04
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 234.47
+earnings_per_sale: 234.61
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Online Marketing & E-Business","Social Media","Software"]
+categories: ["Software","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-06-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/56839/adminstore/"
+promo_link: "https://businessbuilderpro.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://businessbuilderpro.de/"
 language: "de"
 ---
 # Business Builder AI
 
 > Product ID `56839` · Digistore24 productId `641950` · [HTML profile page](../../produkte/business-builder-ai-56839.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $781.55 (Single payment, Subscription) |
+| Price | $782.04 (Single payment, Subscription) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $234.47 |
+| Earnings/sale* | $234.61 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Robinfocke |
 | Listed since | 2026-06-08 |
 | Auto-accept affiliates | yes |
-| Categories | Online Marketing & E-Business, Social Media, Software |
+| Categories | Software, Online Marketing & E-Business, Social Media |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56839/adminstore/
+- **Promo link (affiliate):** https://businessbuilderpro.de/?aff=adminstore#aff=adminstore
 - Sales page: https://businessbuilderpro.de/
 - Vendor affiliate support: http://businessbuilderpro.de/affiliate
 - Canonical redirect: https://www.digistore24.com/redir/641950/adminstore
@@ -90,14 +90,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Business Builder AI? — Typ: Software, Anbieter: Robinfocke, gelistet seit 2026-06-08
-- Wie viel kostet es? — 781.5519 USD
+- Wie viel kostet es? — 782.0412 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Business Builder AI Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/641950
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/641950/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Business%20Builder%20AI
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 702019
 title: "AI-Kompetenz-Kit – EU AI Act Artikel 4 Schulung"
 vendor: "svenpetercontacteb58"
 product_type: "Member area and video courses"
-price: 88.33
+price: 88.39
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 35.33
+earnings_per_sale: 35.35
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Law & Justice"]
+categories: ["Law & Justice","Education"]
 listed_since: "2026-06-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://ai-kompetenz-kit.de/kit?aff=adminstore#aff=adminstore"
 sales_page: "https://ai-kompetenz-kit.de/kit"
@@ -22,22 +22,22 @@ language: "de"
 # AI-Kompetenz-Kit – EU AI Act Artikel 4 Schulung
 
 > Product ID `57052` · Digistore24 productId `702019` · [HTML profile page](../../produkte/ai-kompetenz-kit-eu-ai-act-artikel-4-schulung-57052.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $88.33 (Single payment) |
+| Price | $88.39 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $35.33 |
+| Earnings/sale* | $35.35 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | svenpetercontacteb58 |
 | Listed since | 2026-06-18 |
 | Auto-accept affiliates | no (approval required) |
-| Categories | Education, Law & Justice |
+| Categories | Law & Justice, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -87,14 +87,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist AI-Kompetenz-Kit – EU AI Act Artikel 4 Schulung? — Typ: Member area and video courses, Anbieter: svenpetercontacteb58, gelistet seit 2026-06-18
-- Wie viel kostet es? — 88.32990000000001 USD
+- Wie viel kostet es? — 88.3852 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: AI-Kompetenz-Kit – EU AI Act Artikel 4 Schulung Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/702019
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/702019/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=AI-Kompetenz-Kit%20%E2%80%93%20EU%20AI%20Act%20Artikel%204%20Schulung
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 629547
 title: "Loslassen in 4 Stunden – Dein Weg zu innerer Freiheit"
 vendor: "manlex"
 product_type: "Member area and video courses"
-price: 234.89
+price: 235.04
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 82.21
+earnings_per_sale: 82.27
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-06-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/629547?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/629547"
@@ -22,16 +22,16 @@ language: "de"
 # Loslassen in 4 Stunden – Dein Weg zu innerer Freiheit
 
 > Product ID `57092` · Digistore24 productId `629547` · [HTML profile page](../../produkte/loslassen-in-4-stunden-dein-weg-zu-innerer-freiheit-57092.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $234.89 (Single payment) |
+| Price | $235.04 (Single payment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $82.21 |
+| Earnings/sale* | $82.27 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | manlex |
@@ -90,14 +90,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Loslassen in 4 Stunden – Dein Weg zu innerer Freiheit? — Typ: Member area and video courses, Anbieter: manlex, gelistet seit 2026-06-21
-- Wie viel kostet es? — 234.89044800000002 USD
+- Wie viel kostet es? — 235.037504 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Loslassen in 4 Stunden – Dein Weg zu innerer Freiheit Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/629547
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/629547/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Loslassen%20in%204%20Stunden%20%E2%80%93%20Dein%20Weg%20zu%20innerer%20Freiheit
 
 ## 4. Editorial notes

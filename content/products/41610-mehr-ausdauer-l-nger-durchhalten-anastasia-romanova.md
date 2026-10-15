@@ -4,16 +4,16 @@ digistore24_product_id: 342251
 title: "Mehr Ausdauer - länger durchhalten - Anastasia Romanova"
 vendor: "powerline"
 product_type: "Member area and video courses"
-price: 42.11
+price: 42.13
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 45.84
+earnings_per_sale: 45.87
 cart_conversion_pct: 11
 cancel_rate_pct: 3.57
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2020-08-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://powermuskel.com/mehrausdauer/?aff=adminstore#aff=adminstore"
 sales_page: "https://powermuskel.com/mehrausdauer/"
@@ -22,16 +22,16 @@ language: "de"
 # Mehr Ausdauer - länger durchhalten - Anastasia Romanova
 
 > Product ID `41610` · Digistore24 productId `342251` · [HTML profile page](../../produkte/mehr-ausdauer-l-nger-durchhalten-anastasia-romanova-41610.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $42.11 (Single payment) |
+| Price | $42.13 (Single payment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $45.84 |
+| Earnings/sale* | $45.87 |
 | Cart conversion* | 11% |
 | Cancel rate* | 3.57% |
 | Vendor | powerline |
@@ -87,14 +87,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mehr Ausdauer - länger durchhalten - Anastasia Romanova? — Typ: Member area and video courses, Anbieter: powerline, gelistet seit 2020-08-22
-- Wie viel kostet es? — 42.107646 USD
+- Wie viel kostet es? — 42.134007999999994 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Mehr Ausdauer - länger durchhalten - Anastasia Romanova Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/342251
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/342251/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Mehr%20Ausdauer%20-%20l%C3%A4nger%20durchhalten%20-%20Anastasia%20Romanova
 
 ## 4. Editorial notes

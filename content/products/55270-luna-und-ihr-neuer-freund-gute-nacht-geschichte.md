@@ -4,7 +4,7 @@ digistore24_product_id: 642306
 title: "Luna und ihr neuer Freund - Gute-Nacht-Geschichte"
 vendor: "Cleverkopf"
 product_type: "Downloads"
-price: 9.37
+price: 9.38
 currency: "USD"
 affiliate_commission_pct: 40
 earnings_per_sale: 3.75
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2025-10-19"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/product/642306?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/642306"
@@ -22,14 +22,14 @@ language: "de"
 # Luna und ihr neuer Freund - Gute-Nacht-Geschichte
 
 > Product ID `55270` · Digistore24 productId `642306` · [HTML profile page](../../produkte/luna-und-ihr-neuer-freund-gute-nacht-geschichte-55270.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $9.37 (Single payment) |
+| Price | $9.38 (Single payment) |
 | Affiliate commission | 40% |
 | Earnings/sale* | $3.75 |
 | Cart conversion* | — |
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Luna und ihr neuer Freund - Gute-Nacht-Geschichte? — Typ: Downloads, Anbieter: Cleverkopf, gelistet seit 2025-10-19
-- Wie viel kostet es? — 9.369678000000002 USD
+- Wie viel kostet es? — 9.375544000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Luna und ihr neuer Freund - Gute-Nacht-Geschichte Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/642306
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/642306/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Luna%20und%20ihr%20neuer%20Freund%20-%20Gute-Nacht-Geschichte
 
 ## 4. Editorial notes

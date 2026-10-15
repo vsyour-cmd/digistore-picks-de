@@ -4,16 +4,16 @@ digistore24_product_id: 11155
 title: "Geld- und andere Sorgen einfach ent-sorgen"
 vendor: "AngelKing"
 product_type: "Member area and video courses"
-price: 9.37
+price: 9.38
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 4.68
+earnings_per_sale: 4.69
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2013-02-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://king-selbstcoaching-kurse.de/geld-und-andere-sorgen-einfach-ent-sorgen-2/?aff=adminstore#aff=adminstore"
 sales_page: "https://king-selbstcoaching-kurse.de/geld-und-andere-sorgen-einfach-ent-sorgen-2/"
@@ -22,16 +22,16 @@ language: "de"
 # Geld- und andere Sorgen einfach ent-sorgen
 
 > Product ID `491` · Digistore24 productId `11155` · [HTML profile page](../../produkte/geld-und-andere-sorgen-einfach-ent-sorgen-491.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $9.37 (Single payment) |
+| Price | $9.38 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $4.68 |
+| Earnings/sale* | $4.69 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | AngelKing |
@@ -68,14 +68,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Geld- und andere Sorgen einfach ent-sorgen? — Typ: Member area and video courses, Anbieter: AngelKing, gelistet seit 2013-02-27
-- Wie viel kostet es? — 9.369678000000002 USD
+- Wie viel kostet es? — 9.375544000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Geld- und andere Sorgen einfach ent-sorgen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/11155
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/11155/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Geld-%20und%20andere%20Sorgen%20einfach%20ent-sorgen
 
 ## 4. Editorial notes

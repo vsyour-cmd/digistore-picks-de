@@ -7,13 +7,13 @@ product_type: "Member area and video courses"
 price: 0.63
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 16.03
+earnings_per_sale: 16.04
 cart_conversion_pct: 16
 cancel_rate_pct: 2.86
 categories: ["Business & Investment","Online Marketing & E-Business"]
 listed_since: "2023-05-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
 promo_link: "https://kb-om.com/affiliate-marketing-das-mega-bundle/?aff=adminstore#aff=adminstore"
 sales_page: "https://kb-om.com/affiliate-marketing-das-mega-bundle/"
@@ -22,7 +22,7 @@ language: "de"
 # Affiliate Marketing - Mega Bundle
 
 > Product ID `44016` · Digistore24 productId `498008` · [HTML profile page](../../produkte/affiliate-marketing-mega-bundle-44016.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,7 @@ language: "de"
 | Product type | Member area and video courses |
 | Price | $0.63 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $16.03 |
+| Earnings/sale* | $16.04 |
 | Cart conversion* | 16% |
 | Cancel rate* | 2.86% |
 | Vendor | Plebvin |
@@ -72,14 +72,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Affiliate Marketing - Mega Bundle? — Typ: Member area and video courses, Anbieter: Plebvin, gelistet seit 2023-05-08
-- Wie viel kostet es? — 0.6261360000000001 USD
+- Wie viel kostet es? — 0.6265280000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Affiliate Marketing - Mega Bundle Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/498008
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/498008/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Affiliate%20Marketing%20-%20Mega%20Bundle
 
 ## 4. Editorial notes

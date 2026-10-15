@@ -4,16 +4,16 @@ digistore24_product_id: 266849
 title: "Tools von ClearPMO"
 vendor: "UweMerkert"
 product_type: "Software"
-price: 366.43
+price: 366.66
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 109.93
+earnings_per_sale: 110
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2019-04-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.clearpmo.de/tools/online-kaufen-ohne-server/clearpmo-team/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.clearpmo.de/tools/online-kaufen-ohne-server/clearpmo-team/"
@@ -22,16 +22,16 @@ language: "de"
 # Tools von ClearPMO
 
 > Product ID `28586` · Digistore24 productId `266849` · [HTML profile page](../../produkte/tools-von-clearpmo-28586.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $366.43 (Single payment) |
+| Price | $366.66 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $109.93 |
+| Earnings/sale* | $110.00 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | UweMerkert |
@@ -91,14 +91,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Tools von ClearPMO? — Typ: Software, Anbieter: UweMerkert, gelistet seit 2019-04-04
-- Wie viel kostet es? — 366.43491300000005 USD
+- Wie viel kostet es? — 366.664324 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Tools von ClearPMO Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/266849
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/266849/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Tools%20von%20ClearPMO
 
 ## 4. Editorial notes

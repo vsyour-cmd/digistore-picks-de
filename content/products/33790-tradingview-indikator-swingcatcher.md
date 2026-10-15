@@ -4,16 +4,16 @@ digistore24_product_id: 309651
 title: "TradingView Indikator | SwingCatcher"
 vendor: "daxtrading"
 product_type: "Remote service provided electronically"
-price: 328.86
+price: 329.06
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 65.71
+earnings_per_sale: 65.75
 cart_conversion_pct: 2
 cancel_rate_pct: 3.42
 categories: ["Trading Products"]
 listed_since: "2020-02-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.kagels-trading.de/tradingview-directional-swing-catcher/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.kagels-trading.de/tradingview-directional-swing-catcher/"
@@ -22,16 +22,16 @@ language: "de"
 # TradingView Indikator | SwingCatcher
 
 > Product ID `33790` · Digistore24 productId `309651` · [HTML profile page](../../produkte/tradingview-indikator-swingcatcher-33790.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $328.86 (Single payment) |
+| Price | $329.06 (Single payment) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $65.71 |
+| Earnings/sale* | $65.75 |
 | Cart conversion* | 2% |
 | Cancel rate* | 3.42% |
 | Vendor | daxtrading |
@@ -102,14 +102,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist TradingView Indikator | SwingCatcher? — Typ: Remote service provided electronically, Anbieter: daxtrading, gelistet seit 2020-02-24
-- Wie viel kostet es? — 328.85557200000005 USD
+- Wie viel kostet es? — 329.061456 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: TradingView Indikator | SwingCatcher Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/309651
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/309651/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=TradingView%20Indikator%20%7C%20SwingCatcher
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 322151
 title: "TOXISCHE BEZIEHUNGEN - Das Komplettpaket | Katja Amberg"
 vendor: "Mariposa75"
 product_type: "Downloads"
-price: 468.85
+price: 469.15
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 117.21
+earnings_per_sale: 117.28
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Dating, Relationships & Romance","Personal Development"]
+categories: ["Personal Development","Dating, Relationships & Romance"]
 listed_since: "2020-04-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://katja-amberg-shop.de/komplettpakettoxischebeziehungen?aff=adminstore#aff=adminstore"
 sales_page: "https://katja-amberg-shop.de/komplettpakettoxischebeziehungen"
@@ -22,22 +22,22 @@ language: "de"
 # TOXISCHE BEZIEHUNGEN - Das Komplettpaket | Katja Amberg
 
 > Product ID `32998` · Digistore24 productId `322151` · [HTML profile page](../../produkte/toxische-beziehungen-das-komplettpaket-katja-amberg-32998.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $468.85 (Single payment, Installment) |
+| Price | $469.15 (Single payment, Installment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $117.21 |
+| Earnings/sale* | $117.28 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Mariposa75 |
 | Listed since | 2020-04-21 |
 | Auto-accept affiliates | yes |
-| Categories | Dating, Relationships & Romance, Personal Development |
+| Categories | Personal Development, Dating, Relationships & Romance |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -87,14 +87,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist TOXISCHE BEZIEHUNGEN - Das Komplettpaket | Katja Amberg? — Typ: Downloads, Anbieter: Mariposa75, gelistet seit 2020-04-21
-- Wie viel kostet es? — 468.85287300000005 USD
+- Wie viel kostet es? — 469.14640399999996 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: TOXISCHE BEZIEHUNGEN - Das Komplettpaket | Katja Amberg Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/322151
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/322151/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=TOXISCHE%20BEZIEHUNGEN%20-%20Das%20Komplettpaket%20%7C%20Katja%20Amberg
 
 ## 4. Editorial notes

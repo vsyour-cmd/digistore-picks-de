@@ -12,17 +12,17 @@ cart_conversion_pct: 19
 cancel_rate_pct: 0.26
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2023-11-14"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/45965/adminstore/"
+promo_link: "https://silentsubs.com/media/gratis/?aff=adminstore#aff=adminstore"
 sales_page: "https://silentsubs.com/media/gratis/"
 language: "de"
 ---
 # Gratis Silent Subliminals (126 Tracks / 0€ Freebie)
 
 > Product ID `45965` · Digistore24 productId `573555` · [HTML profile page](../../produkte/gratis-silent-subliminals-126-tracks-0-freebie-45965.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/45965/adminstore/
+- **Promo link (affiliate):** https://silentsubs.com/media/gratis/?aff=adminstore#aff=adminstore
 - Sales page: https://silentsubs.com/media/gratis/
 - Vendor affiliate support: https://silentsubs.com/media/unser-partnerprogramm-silentsubs-com/
 - Canonical redirect: https://www.digistore24.com/redir/573555/adminstore
@@ -73,14 +73,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Gratis Silent Subliminals (126 Tracks / 0€ Freebie)? — Typ: Downloads, Anbieter: mldesign, gelistet seit 2023-11-14
-- Wie viel kostet es? — 0.458421 USD
+- Wie viel kostet es? — 0.458708 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Gratis Silent Subliminals (126 Tracks / 0€ Freebie) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/573555
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/573555/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Gratis%20Silent%20Subliminals%20(126%20Tracks%20%2F%200%E2%82%AC%20Freebie)
 
 ## 4. Editorial notes

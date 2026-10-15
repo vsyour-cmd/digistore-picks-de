@@ -4,16 +4,16 @@ digistore24_product_id: 741561
 title: "Online-Buchungen mit Anzahlung für italienischsprachige Betriebe: 1.680 €, ca. 305 € Provision"
 vendor: "massarocalogero19976adc"
 product_type: "Remote service provided electronically"
-price: 1878.41
+price: 1879.58
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 375.68
+earnings_per_sale: 375.92
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2026-10-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.direzionex.com/offerta/prenotazioni-con-caparra?aff=adminstore#aff=adminstore"
 sales_page: "https://www.direzionex.com/offerta/prenotazioni-con-caparra"
@@ -22,16 +22,16 @@ language: "de"
 # Online-Buchungen mit Anzahlung für italienischsprachige Betriebe: 1.680 €, ca. 305 € Provision
 
 > Product ID `60294` · Digistore24 productId `741561` · [HTML profile page](../../produkte/online-buchungen-mit-anzahlung-f-r-italienischsprachige-betriebe-1-680-ca-305-provision-60294.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $1878.41 (Single payment) |
+| Price | $1879.58 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $375.68 |
+| Earnings/sale* | $375.92 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | massarocalogero19976adc |
@@ -86,14 +86,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online-Buchungen mit Anzahlung für italienischsprachige Betriebe: 1.680 €, ca. 305 € Provision? — Typ: Remote service provided electronically, Anbieter: massarocalogero19976adc, gelistet seit 2026-10-07
-- Wie viel kostet es? — 1878.4080000000001 USD
+- Wie viel kostet es? — 1879.584 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Online-Buchungen mit Anzahlung für italienischsprachige Betriebe: 1.680 €, ca. 305 € Provision Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/741561
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/741561/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Online-Buchungen%20mit%20Anzahlung%20f%C3%BCr%20italienischsprachige%20Betriebe%3A%201.680%20%E2%82%AC%2C%20ca.%20305%20%E2%82%AC%20Provision
 
 ## 4. Editorial notes

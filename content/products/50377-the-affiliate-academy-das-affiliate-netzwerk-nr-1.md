@@ -4,34 +4,34 @@ digistore24_product_id: 519122
 title: "The Affiliate Academy - Das Affiliate Netzwerk Nr. 1"
 vendor: "marketingmarko"
 product_type: "Member area and video courses"
-price: 74.52
+price: 74.57
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 36.93
+earnings_per_sale: 36.95
 cart_conversion_pct: 3
 cancel_rate_pct: 9.66
 categories: ["Business & Investment","Services"]
 listed_since: "2023-10-03"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "http://wiebkeschmidt.com/e-mailmarketing-autoresponderkurs/#aff=adminstore"
+promo_link: "https://www.theaffiliateacademy.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.theaffiliateacademy.de/"
 language: "de"
 ---
 # The Affiliate Academy - Das Affiliate Netzwerk Nr. 1
 
 > Product ID `50377` · Digistore24 productId `519122` · [HTML profile page](../../produkte/the-affiliate-academy-das-affiliate-netzwerk-nr-1-50377.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $74.52 (Single payment, Installment) |
+| Price | $74.57 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $36.93 |
+| Earnings/sale* | $36.95 |
 | Cart conversion* | 3% |
 | Cancel rate* | 9.66% |
 | Vendor | marketingmarko |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://wiebkeschmidt.com/e-mailmarketing-autoresponderkurs/#aff=adminstore
+- **Promo link (affiliate):** https://www.theaffiliateacademy.de/?aff=adminstore#aff=adminstore
 - Sales page: https://www.theaffiliateacademy.de/
 - Canonical redirect: https://www.digistore24.com/redir/519122/adminstore
 
@@ -66,14 +66,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist The Affiliate Academy - Das Affiliate Netzwerk Nr. 1? — Typ: Member area and video courses, Anbieter: marketingmarko, gelistet seit 2023-10-03
-- Wie viel kostet es? — 74.52136500000002 USD
+- Wie viel kostet es? — 74.56802 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The Affiliate Academy - Das Affiliate Netzwerk Nr. 1 Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/519122
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/519122/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=The%20Affiliate%20Academy%20-%20Das%20Affiliate%20Netzwerk%20Nr.%201
 
 ## 4. Editorial notes

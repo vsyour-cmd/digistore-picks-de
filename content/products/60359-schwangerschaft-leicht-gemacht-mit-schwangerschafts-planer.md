@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2026-10-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/60359/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/741784?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/741784"
 language: "de"
 ---
 # Schwangerschaft leicht gemacht – mit Schwangerschafts-Planer
 
 > Product ID `60359` · Digistore24 productId `741784` · [HTML profile page](../../produkte/schwangerschaft-leicht-gemacht-mit-schwangerschafts-planer-60359.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/60359/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/741784?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/741784
 - Canonical redirect: https://www.digistore24.com/redir/741784/adminstore
 
@@ -81,14 +81,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Schwangerschaft leicht gemacht – mit Schwangerschafts-Planer? — Typ: E-books, Anbieter: ratgeberleichtgemacht, gelistet seit 2026-10-07
-- Wie viel kostet es? — 15.575133000000001 USD
+- Wie viel kostet es? — 15.584884 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Schwangerschaft leicht gemacht – mit Schwangerschafts-Planer Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/741784
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/741784/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Schwangerschaft%20leicht%20gemacht%20%E2%80%93%20mit%20Schwangerschafts-Planer
 
 ## 4. Editorial notes

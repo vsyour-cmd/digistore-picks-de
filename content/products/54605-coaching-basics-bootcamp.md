@@ -4,34 +4,34 @@ digistore24_product_id: 642110
 title: "Coaching Basics Bootcamp"
 vendor: "downtoearth"
 product_type: "Member area and video courses"
-price: 561.87
+price: 562.22
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 280.93
+earnings_per_sale: 281.11
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job","Leadership & Management"]
 listed_since: "2025-10-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/54605/adminstore/"
+promo_link: "https://www.digistore24.com/product/642110?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/642110"
 language: "de"
 ---
 # Coaching Basics Bootcamp
 
 > Product ID `54605` · Digistore24 productId `642110` · [HTML profile page](../../produkte/coaching-basics-bootcamp-54605.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $561.87 (Single payment) |
+| Price | $562.22 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $280.93 |
+| Earnings/sale* | $281.11 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | downtoearth |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/54605/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/642110?aff=adminstore
 - Sales page: https://www.digistore24.com/product/642110
 - Canonical redirect: https://www.digistore24.com/redir/642110/adminstore
 
@@ -90,14 +90,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Coaching Basics Bootcamp? — Typ: Member area and video courses, Anbieter: downtoearth, gelistet seit 2025-10-17
-- Wie viel kostet es? — 561.867612 USD
+- Wie viel kostet es? — 562.219376 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Coaching Basics Bootcamp Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/642110
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/642110/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Coaching%20Basics%20Bootcamp
 
 ## 4. Editorial notes

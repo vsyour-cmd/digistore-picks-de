@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-02-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://madrigenum.dworak.name/nie-wieder-sprachlos-die-perfekte-hochzeitsrede-fuer-jeden-anlass-in-5-minuten-fertig-individualisiert/?aff=adminstore#aff=adminstore"
 sales_page: "https://madrigenum.dworak.name/nie-wieder-sprachlos-die-perfekte-hochzeitsrede-fuer-jeden-anlass-in-5-minuten-fertig-individualisiert/"
@@ -22,7 +22,7 @@ language: "de"
 # Hochzeitsreden Bundle - 17 Reden + Boni
 
 > Product ID `55650` · Digistore24 productId `669617` · [HTML profile page](../../produkte/hochzeitsreden-bundle-17-reden-boni-55650.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -79,7 +79,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Hochzeitsreden Bundle - 17 Reden + Boni Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/669617
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/669617/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Hochzeitsreden%20Bundle%20-%2017%20Reden%20%2B%20Boni
 
 ## 4. Editorial notes

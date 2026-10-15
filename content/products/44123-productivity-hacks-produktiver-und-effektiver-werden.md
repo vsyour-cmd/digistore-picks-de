@@ -4,34 +4,34 @@ digistore24_product_id: 489323
 title: "Productivity Hacks - Produktiver und effektiver werden"
 vendor: "seotech"
 product_type: "Member area and video courses"
-price: 44.16
+price: 44.19
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 22.08
+earnings_per_sale: 22.1
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2023-03-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/44123/adminstore/"
+promo_link: "https://www.provi-magnet.de/prodhavkslp/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.provi-magnet.de/prodhavkslp/"
 language: "de"
 ---
 # Productivity Hacks - Produktiver und effektiver werden
 
 > Product ID `44123` · Digistore24 productId `489323` · [HTML profile page](../../produkte/productivity-hacks-produktiver-und-effektiver-werden-44123.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $44.16 (Single payment) |
+| Price | $44.19 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $22.08 |
+| Earnings/sale* | $22.10 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | seotech |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/44123/adminstore/
+- **Promo link (affiliate):** https://www.provi-magnet.de/prodhavkslp/?aff=adminstore#aff=adminstore
 - Sales page: https://www.provi-magnet.de/prodhavkslp/
 - Vendor affiliate support: https://www.incomebutler.com/productivity-hacks-supportseite/
 - Canonical redirect: https://www.digistore24.com/redir/489323/adminstore
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Productivity Hacks - Produktiver und effektiver werden? — Typ: Member area and video courses, Anbieter: seotech, gelistet seit 2023-03-15
-- Wie viel kostet es? — 44.164950000000005 USD
+- Wie viel kostet es? — 44.1926 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Productivity Hacks - Produktiver und effektiver werden Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/489323
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/489323/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Productivity%20Hacks%20-%20Produktiver%20und%20effektiver%20werden
 
 ## 4. Editorial notes

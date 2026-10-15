@@ -4,16 +4,16 @@ digistore24_product_id: 701944
 title: "Anziehung verstehen"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 19.75
+price: 19.76
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 9.87
+earnings_per_sale: 9.88
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2026-06-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://ratgeberplatz.de/ratgeber/anziehung-verstehen?aff=adminstore#aff=adminstore"
 sales_page: "https://ratgeberplatz.de/ratgeber/anziehung-verstehen"
@@ -22,16 +22,16 @@ language: "de"
 # Anziehung verstehen
 
 > Product ID `57186` · Digistore24 productId `701944` · [HTML profile page](../../produkte/anziehung-verstehen-57186.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $19.75 (Single payment) |
+| Price | $19.76 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $9.87 |
+| Earnings/sale* | $9.88 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pixonmedia |
@@ -85,14 +85,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Anziehung verstehen? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-06-29
-- Wie viel kostet es? — 19.745646 USD
+- Wie viel kostet es? — 19.758008 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Anziehung verstehen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/701944
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/701944/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Anziehung%20verstehen
 
 ## 4. Editorial notes

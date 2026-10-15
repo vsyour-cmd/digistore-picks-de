@@ -4,16 +4,16 @@ digistore24_product_id: 558070
 title: "Lebe jetzt dein Wunschleben – Nachhaltiger Online-Kurs"
 vendor: "Distel_Pipe"
 product_type: "Member area and video courses"
-price: 1587.89
+price: 1588.89
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 793.95
+earnings_per_sale: 794.45
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2024-06-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "http://www.thebig3.ch/online-kurse/?aff=adminstore#aff=adminstore"
 sales_page: "http://www.thebig3.ch/online-kurse/"
@@ -22,16 +22,16 @@ language: "de"
 # Lebe jetzt dein Wunschleben – Nachhaltiger Online-Kurs
 
 > Product ID `55160` · Digistore24 productId `558070` · [HTML profile page](../../produkte/lebe-jetzt-dein-wunschleben-nachhaltiger-online-kurs-55160.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1587.89 (Single payment) |
+| Price | $1588.89 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $793.95 |
+| Earnings/sale* | $794.45 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Distel_Pipe |
@@ -87,14 +87,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Lebe jetzt dein Wunschleben – Nachhaltiger Online-Kurs? — Typ: Member area and video courses, Anbieter: Distel_Pipe, gelistet seit 2024-06-22
-- Wie viel kostet es? — 1587.8920770000002 USD
+- Wie viel kostet es? — 1588.8861960000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Lebe jetzt dein Wunschleben – Nachhaltiger Online-Kurs Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/558070
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/558070/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Lebe%20jetzt%20dein%20Wunschleben%20%E2%80%93%20Nachhaltiger%20Online-Kurs
 
 ## 4. Editorial notes

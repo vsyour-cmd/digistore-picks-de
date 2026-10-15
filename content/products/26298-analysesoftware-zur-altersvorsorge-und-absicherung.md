@@ -4,16 +4,16 @@ digistore24_product_id: 100331
 title: "Analysesoftware zur Altersvorsorge und Absicherung"
 vendor: "verkaufsbegleiter"
 product_type: "Downloads"
-price: 371.13
+price: 371.36
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 37.11
+earnings_per_sale: 37.13
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2016-10-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
 promo_link: "http://www.igmw.com/shopVI/?aff=adminstore#aff=adminstore"
 sales_page: "http://www.igmw.com/shopVI/"
@@ -22,16 +22,16 @@ language: "de"
 # Analysesoftware zur Altersvorsorge und Absicherung
 
 > Product ID `26298` · Digistore24 productId `100331` · [HTML profile page](../../produkte/analysesoftware-zur-altersvorsorge-und-absicherung-26298.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $371.13 (Subscription) |
+| Price | $371.36 (Subscription) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $37.11 |
+| Earnings/sale* | $37.13 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | verkaufsbegleiter |
@@ -72,14 +72,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Analysesoftware zur Altersvorsorge und Absicherung? — Typ: Downloads, Anbieter: verkaufsbegleiter, gelistet seit 2016-10-18
-- Wie viel kostet es? — 371.130933 USD
+- Wie viel kostet es? — 371.363284 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Analysesoftware zur Altersvorsorge und Absicherung Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/100331
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/100331/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Analysesoftware%20zur%20Altersvorsorge%20und%20Absicherung
 
 ## 4. Editorial notes

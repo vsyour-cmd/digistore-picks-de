@@ -4,16 +4,16 @@ digistore24_product_id: 711316
 title: "Pencil Lettering Kurs"
 vendor: "Timothy90"
 product_type: "Member area and video courses"
-price: 83.62
+price: 83.68
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 41.82
+earnings_per_sale: 41.84
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Hobby & Craft","Travel & Culture"]
+categories: ["Travel & Culture","Hobby & Craft"]
 listed_since: "2026-10-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://manylearn.com/kurse/pencil-lettering?aff=adminstore#aff=adminstore"
 sales_page: "https://manylearn.com/kurse/pencil-lettering"
@@ -22,22 +22,22 @@ language: "de"
 # Pencil Lettering Kurs
 
 > Product ID `60388` · Digistore24 productId `711316` · [HTML profile page](../../produkte/pencil-lettering-kurs-60388.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $83.62 (Single payment) |
+| Price | $83.68 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $41.82 |
+| Earnings/sale* | $41.84 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Timothy90 |
 | Listed since | 2026-10-07 |
 | Auto-accept affiliates | yes |
-| Categories | Hobby & Craft, Travel & Culture |
+| Categories | Travel & Culture, Hobby & Craft |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -89,14 +89,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Pencil Lettering Kurs? — Typ: Member area and video courses, Anbieter: Timothy90, gelistet seit 2026-10-07
-- Wie viel kostet es? — 83.62269900000001 USD
+- Wie viel kostet es? — 83.67505200000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Pencil Lettering Kurs Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/711316
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/711316/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Pencil%20Lettering%20Kurs
 
 ## 4. Editorial notes

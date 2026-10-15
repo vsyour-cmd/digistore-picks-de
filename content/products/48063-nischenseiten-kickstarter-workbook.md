@@ -4,32 +4,32 @@ digistore24_product_id: 431398
 title: "Nischenseiten Kickstarter Workbook"
 vendor: "affiliateschool_de"
 product_type: "E-books"
-price: 26.07
+price: 26.09
 currency: "USD"
 affiliate_commission_pct: 30
 earnings_per_sale: 7.83
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Business & Investment","Education","Online Marketing & E-Business"]
+categories: ["Business & Investment","Online Marketing & E-Business","Education"]
 listed_since: "2022-02-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/48063/adminstore/"
+promo_link: "https://www.affiliateschool.de/nischenseiten-kickstarter-workbook/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.affiliateschool.de/nischenseiten-kickstarter-workbook/"
 language: "de"
 ---
 # Nischenseiten Kickstarter Workbook
 
 > Product ID `48063` · Digistore24 productId `431398` · [HTML profile page](../../produkte/nischenseiten-kickstarter-workbook-48063.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $26.07 (Single payment) |
+| Price | $26.09 (Single payment) |
 | Affiliate commission | 30% |
 | Earnings/sale* | $7.83 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | affiliateschool_de |
 | Listed since | 2022-02-24 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Education, Online Marketing & E-Business |
+| Categories | Business & Investment, Online Marketing & E-Business, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/48063/adminstore/
+- **Promo link (affiliate):** https://www.affiliateschool.de/nischenseiten-kickstarter-workbook/?aff=adminstore#aff=adminstore
 - Sales page: https://www.affiliateschool.de/nischenseiten-kickstarter-workbook/
 - Vendor affiliate support: https://campus.affiliateschool.de/partnerprogramm/partnerprogramm-nischenseiten-kickstarter-workbook/
 - Canonical redirect: https://www.digistore24.com/redir/431398/adminstore
@@ -80,14 +80,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Nischenseiten Kickstarter Workbook? — Typ: E-books, Anbieter: affiliateschool_de, gelistet seit 2022-02-24
-- Wie viel kostet es? — 26.074092000000004 USD
+- Wie viel kostet es? — 26.090416 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Nischenseiten Kickstarter Workbook Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/431398
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/431398/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Nischenseiten%20Kickstarter%20Workbook
 
 ## 4. Editorial notes

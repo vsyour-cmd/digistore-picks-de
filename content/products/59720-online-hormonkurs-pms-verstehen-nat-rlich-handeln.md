@@ -4,16 +4,16 @@ digistore24_product_id: 734498
 title: "Online Hormonkurs: PMS verstehen - natürlich handeln"
 vendor: "natuerlich-hormonisch"
 product_type: "Member area and video courses"
-price: 279.06
+price: 279.23
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 139.53
+earnings_per_sale: 139.62
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-09-25"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
 promo_link: "http://www.natuerlich-hormonisch.de/pms-onlinekurs-digistore?aff=adminstore#aff=adminstore"
 sales_page: "http://www.natuerlich-hormonisch.de/pms-onlinekurs-digistore"
@@ -22,16 +22,16 @@ language: "de"
 # Online Hormonkurs: PMS verstehen - natürlich handeln
 
 > Product ID `59720` · Digistore24 productId `734498` · [HTML profile page](../../produkte/online-hormonkurs-pms-verstehen-nat-rlich-handeln-59720.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $279.06 (Single payment) |
+| Price | $279.23 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $139.53 |
+| Earnings/sale* | $139.62 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | natuerlich-hormonisch |
@@ -80,14 +80,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online Hormonkurs: PMS verstehen - natürlich handeln? — Typ: Member area and video courses, Anbieter: natuerlich-hormonisch, gelistet seit 2026-09-25
-- Wie viel kostet es? — 279.055398 USD
+- Wie viel kostet es? — 279.23010400000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Online Hormonkurs: PMS verstehen - natürlich handeln Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/734498
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/734498/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Online%20Hormonkurs%3A%20PMS%20verstehen%20-%20nat%C3%BCrlich%20handeln
 
 ## 4. Editorial notes

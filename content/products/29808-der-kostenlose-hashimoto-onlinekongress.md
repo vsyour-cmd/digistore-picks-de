@@ -4,16 +4,16 @@ digistore24_product_id: 239771
 title: "DER KOSTENLOSE ​HASHIMOTO ONLINEKONGRESS"
 vendor: "autoimmunportal"
 product_type: "Member area and video courses"
-price: 60.47
+price: 60.5
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 23.42
+earnings_per_sale: 23.44
 cart_conversion_pct: 25
 cancel_rate_pct: 3.29
 categories: ["Profession & Job"]
 listed_since: "2018-09-13"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://akademie.medumio.de/hashimotokongress/premium-zugang/?aff=adminstore#aff=adminstore"
 sales_page: "https://akademie.medumio.de/hashimotokongress/premium-zugang/"
@@ -22,16 +22,16 @@ language: "de"
 # DER KOSTENLOSE ​HASHIMOTO ONLINEKONGRESS
 
 > Product ID `29808` · Digistore24 productId `239771` · [HTML profile page](../../produkte/der-kostenlose-hashimoto-onlinekongress-29808.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $60.47 (Single payment, Installment) |
+| Price | $60.50 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $23.42 |
+| Earnings/sale* | $23.44 |
 | Cart conversion* | 25% |
 | Cancel rate* | 3.29% |
 | Vendor | autoimmunportal |
@@ -100,14 +100,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist DER KOSTENLOSE ​HASHIMOTO ONLINEKONGRESS? — Typ: Member area and video courses, Anbieter: autoimmunportal, gelistet seit 2018-09-13
-- Wie viel kostet es? — 60.466848000000006 USD
+- Wie viel kostet es? — 60.504704 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: DER KOSTENLOSE ​HASHIMOTO ONLINEKONGRESS Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/239771
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/239771/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=DER%20KOSTENLOSE%20%E2%80%8BHASHIMOTO%20ONLINEKONGRESS
 
 ## 4. Editorial notes

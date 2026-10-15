@@ -4,34 +4,34 @@ digistore24_product_id: 704231
 title: "Aktien für Anfänger"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 36.47
+price: 36.5
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 18.24
+earnings_per_sale: 18.25
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Finances"]
 listed_since: "2026-06-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/57253/adminstore/"
+promo_link: "https://ratgeberplatz.de/ratgeber/aktien-fuer-anfaenger?aff=adminstore#aff=adminstore"
 sales_page: "https://ratgeberplatz.de/ratgeber/aktien-fuer-anfaenger"
 language: "de"
 ---
 # Aktien für Anfänger
 
 > Product ID `57253` · Digistore24 productId `704231` · [HTML profile page](../../produkte/aktien-f-r-anf-nger-57253.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $36.47 (Single payment) |
+| Price | $36.50 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $18.24 |
+| Earnings/sale* | $18.25 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pixonmedia |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/57253/adminstore/
+- **Promo link (affiliate):** https://ratgeberplatz.de/ratgeber/aktien-fuer-anfaenger?aff=adminstore#aff=adminstore
 - Sales page: https://ratgeberplatz.de/ratgeber/aktien-fuer-anfaenger
 - Canonical redirect: https://www.digistore24.com/redir/704231/adminstore
 
@@ -93,14 +93,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Aktien für Anfänger? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-06-29
-- Wie viel kostet es? — 36.472422 USD
+- Wie viel kostet es? — 36.495256 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Aktien für Anfänger Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/704231
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/704231/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Aktien%20f%C3%BCr%20Anf%C3%A4nger
 
 ## 4. Editorial notes

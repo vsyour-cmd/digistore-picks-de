@@ -12,8 +12,8 @@ cart_conversion_pct: 28
 cancel_rate_pct: 2.33
 categories: ["Online Marketing & E-Business","Profession & Job","Social Media"]
 listed_since: "2023-08-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://michael-schlinder.com/Roadmap-Socialmedia?aff=adminstore#aff=adminstore"
 sales_page: "https://michael-schlinder.com/Roadmap-Socialmedia"
@@ -22,7 +22,7 @@ language: "de"
 # Roadmap, Schritt für Schritt zum Socialmedia Marketing Profi
 
 > Product ID `45050` · Digistore24 productId `512053` · [HTML profile page](../../produkte/roadmap-schritt-f-r-schritt-zum-socialmedia-marketing-profi-45050.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -76,14 +76,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Roadmap, Schritt für Schritt zum Socialmedia Marketing Profi? — Typ: E-books, Anbieter: MSchlinder, gelistet seit 2023-08-16
-- Wie viel kostet es? — 0.268344 USD
+- Wie viel kostet es? — 0.268512 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Roadmap, Schritt für Schritt zum Socialmedia Marketing Profi Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/512053
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/512053/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Roadmap%2C%20Schritt%20f%C3%BCr%20Schritt%20zum%20Socialmedia%20Marketing%20Profi
 
 ## 4. Editorial notes

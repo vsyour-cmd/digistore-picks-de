@@ -4,7 +4,7 @@ digistore24_product_id: 159259
 title: "Goodbye 9 to 5 - ortsunabhängig Geld verdienen [E-Book]"
 vendor: "rheinrost"
 product_type: "E-books"
-price: 13.48
+price: 13.49
 currency: "USD"
 affiliate_commission_pct: 35
 earnings_per_sale: 4.72
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Travel & Culture"]
 listed_since: "2017-08-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/25507/adminstore/"
+promo_link: "https://www.unaufschiebbar.de/ortsunabhaengig-geld-verdienen/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.unaufschiebbar.de/ortsunabhaengig-geld-verdienen/"
 language: "de"
 ---
 # Goodbye 9 to 5 - ortsunabhängig Geld verdienen [E-Book]
 
 > Product ID `25507` · Digistore24 productId `159259` · [HTML profile page](../../produkte/goodbye-9-to-5-ortsunabh-ngig-geld-verdienen-e-book-25507.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $13.48 (Single payment) |
+| Price | $13.49 (Single payment) |
 | Affiliate commission | 35% |
 | Earnings/sale* | $4.72 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/25507/adminstore/
+- **Promo link (affiliate):** https://www.unaufschiebbar.de/ortsunabhaengig-geld-verdienen/?aff=adminstore#aff=adminstore
 - Sales page: https://www.unaufschiebbar.de/ortsunabhaengig-geld-verdienen/
 - Vendor affiliate support: https://www.unaufschiebbar.de/partner
 - Canonical redirect: https://www.digistore24.com/redir/159259/adminstore
@@ -83,14 +83,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Goodbye 9 to 5 - ortsunabhängig Geld verdienen [E-Book]? — Typ: E-books, Anbieter: rheinrost, gelistet seit 2017-08-24
-- Wie viel kostet es? — 13.484286 USD
+- Wie viel kostet es? — 13.492728000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Goodbye 9 to 5 - ortsunabhängig Geld verdienen [E-Book] Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/159259
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/159259/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Goodbye%209%20to%205%20-%20ortsunabh%C3%A4ngig%20Geld%20verdienen%20%5BE-Book%5D
 
 ## 4. Editorial notes

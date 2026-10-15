@@ -12,8 +12,8 @@ cart_conversion_pct: 58
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2026-01-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://www.meinneuerlifestyle.vip/AI-Funnelbuilder/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.meinneuerlifestyle.vip/AI-Funnelbuilder/"
@@ -22,7 +22,7 @@ language: "de"
 # AI Funnels in 5 Minuten (Freebie)
 
 > Product ID `55234` · Digistore24 productId `661679` · [HTML profile page](../../produkte/ai-funnels-in-5-minuten-freebie-55234.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -59,14 +59,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist AI Funnels in 5 Minuten (Freebie)? — Typ: E-books, Anbieter: Spekulatius, gelistet seit 2026-01-15
-- Wie viel kostet es? — 0.022362000000000003 USD
+- Wie viel kostet es? — 0.022376 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: AI Funnels in 5 Minuten (Freebie) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/661679
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/661679/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=AI%20Funnels%20in%205%20Minuten%20(Freebie)
 
 ## 4. Editorial notes

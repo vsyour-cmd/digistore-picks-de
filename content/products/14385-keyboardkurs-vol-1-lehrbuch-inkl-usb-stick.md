@@ -4,34 +4,34 @@ digistore24_product_id: 95881
 title: "Keyboardkurs Vol. 1, Lehrbuch inkl. USB-Stick"
 vendor: "PeterNeuhof"
 product_type: "Deliverable"
-price: 155.04
+price: 155.13
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 77.52
+earnings_per_sale: 77.57
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dancing & Music"]
 listed_since: "2016-09-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/14385/adminstore/"
+promo_link: "https://www.p-neuhof.de/keyboardkurs-vol/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.p-neuhof.de/keyboardkurs-vol/"
 language: "de"
 ---
 # Keyboardkurs Vol. 1, Lehrbuch inkl. USB-Stick
 
 > Product ID `14385` · Digistore24 productId `95881` · [HTML profile page](../../produkte/keyboardkurs-vol-1-lehrbuch-inkl-usb-stick-14385.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Deliverable |
-| Price | $155.04 (Single payment, Installment) |
+| Price | $155.13 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $77.52 |
+| Earnings/sale* | $77.57 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | PeterNeuhof |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/14385/adminstore/
+- **Promo link (affiliate):** https://www.p-neuhof.de/keyboardkurs-vol/?aff=adminstore#aff=adminstore
 - Sales page: https://www.p-neuhof.de/keyboardkurs-vol/
 - Vendor affiliate support: https://www.p-neuhof.de/affiliate-supportseite-klavier-keyboard/
 - Canonical redirect: https://www.digistore24.com/redir/95881/adminstore
@@ -94,14 +94,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Keyboardkurs Vol. 1, Lehrbuch inkl. USB-Stick? — Typ: Deliverable, Anbieter: PeterNeuhof, gelistet seit 2016-09-18
-- Wie viel kostet es? — 155.03574600000002 USD
+- Wie viel kostet es? — 155.132808 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Keyboardkurs Vol. 1, Lehrbuch inkl. USB-Stick Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/95881
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/95881/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Keyboardkurs%20Vol.%201%2C%20Lehrbuch%20inkl.%20USB-Stick
 
 ## 4. Editorial notes

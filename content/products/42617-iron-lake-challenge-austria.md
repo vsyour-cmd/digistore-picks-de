@@ -4,7 +4,7 @@ digistore24_product_id: 480932
 title: "Iron Lake Challenge Austria"
 vendor: "rockyourgoal"
 product_type: "Deliverable"
-price: 22.61
+price: 22.62
 currency: "USD"
 affiliate_commission_pct: 30
 earnings_per_sale: 5.77
@@ -12,24 +12,24 @@ cart_conversion_pct: 31
 cancel_rate_pct: 0.35
 categories: ["Health & Fitness"]
 listed_since: "2023-01-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/42617/adminstore/"
+promo_link: "https://rockyourgoal.de/iron-lake-challenge/austria?aff=adminstore#aff=adminstore"
 sales_page: "https://rockyourgoal.de/iron-lake-challenge/austria"
 language: "de"
 ---
 # Iron Lake Challenge Austria
 
 > Product ID `42617` · Digistore24 productId `480932` · [HTML profile page](../../produkte/iron-lake-challenge-austria-42617.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Deliverable |
-| Price | $22.61 (Single payment) |
+| Price | $22.62 (Single payment) |
 | Affiliate commission | 30% |
 | Earnings/sale* | $5.77 |
 | Cart conversion* | 31% |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/42617/adminstore/
+- **Promo link (affiliate):** https://rockyourgoal.de/iron-lake-challenge/austria?aff=adminstore#aff=adminstore
 - Sales page: https://rockyourgoal.de/iron-lake-challenge/austria
 - Vendor affiliate support: https://rockyourgoal.de/iron-lake-challenge/austria/#Werde_Partner_der_Iron_Lake_Challenge_Austria
 - Canonical redirect: https://www.digistore24.com/redir/480932/adminstore
@@ -85,14 +85,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Iron Lake Challenge Austria? — Typ: Deliverable, Anbieter: rockyourgoal, gelistet seit 2023-01-24
-- Wie viel kostet es? — 22.607982 USD
+- Wie viel kostet es? — 22.622135999999998 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Iron Lake Challenge Austria Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/480932
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/480932/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Iron%20Lake%20Challenge%20Austria
 
 ## 4. Editorial notes

@@ -4,34 +4,34 @@ digistore24_product_id: 349272
 title: "Der Instant Change Anwendungs-Abend"
 vendor: "Weinstock777"
 product_type: "Webinar"
-price: 52.55
+price: 52.58
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 26.28
+earnings_per_sale: 26.29
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2020-09-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/43059/adminstore/"
+promo_link: "https://www.instant-change.com/de/anwendungsabend/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.instant-change.com/de/anwendungsabend/"
 language: "de"
 ---
 # Der Instant Change Anwendungs-Abend
 
 > Product ID `43059` · Digistore24 productId `349272` · [HTML profile page](../../produkte/der-instant-change-anwendungs-abend-43059.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Webinar |
-| Price | $52.55 (Single payment) |
+| Price | $52.58 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $26.28 |
+| Earnings/sale* | $26.29 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Weinstock777 |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/43059/adminstore/
+- **Promo link (affiliate):** https://www.instant-change.com/de/anwendungsabend/?aff=adminstore#aff=adminstore
 - Sales page: https://www.instant-change.com/de/anwendungsabend/
 - Canonical redirect: https://www.digistore24.com/redir/349272/adminstore
 
@@ -66,14 +66,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Instant Change Anwendungs-Abend? — Typ: Webinar, Anbieter: Weinstock777, gelistet seit 2020-09-23
-- Wie viel kostet es? — 52.550700000000006 USD
+- Wie viel kostet es? — 52.583600000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Der Instant Change Anwendungs-Abend Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/349272
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/349272/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%20Instant%20Change%20Anwendungs-Abend
 
 ## 4. Editorial notes

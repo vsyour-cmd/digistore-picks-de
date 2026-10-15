@@ -12,17 +12,17 @@ cart_conversion_pct: 54
 cancel_rate_pct: 7.46
 categories: ["Computer & Internet","Email Marketing"]
 listed_since: "2024-07-25"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/48737/adminstore/"
+promo_link: "https://www.meinneuerlifestyle.vip/chat-gpt-business-skalieren/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.meinneuerlifestyle.vip/chat-gpt-business-skalieren/"
 language: "de"
 ---
 # Skaliere Dein Business mit Chat GPT
 
 > Product ID `48737` · Digistore24 productId `562679` · [HTML profile page](../../produkte/skaliere-dein-business-mit-chat-gpt-48737.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/48737/adminstore/
+- **Promo link (affiliate):** https://www.meinneuerlifestyle.vip/chat-gpt-business-skalieren/?aff=adminstore#aff=adminstore
 - Sales page: https://www.meinneuerlifestyle.vip/chat-gpt-business-skalieren/
 - Canonical redirect: https://www.digistore24.com/redir/562679/adminstore
 
@@ -58,14 +58,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Skaliere Dein Business mit Chat GPT? — Typ: E-books, Anbieter: Spekulatius, gelistet seit 2024-07-25
-- Wie viel kostet es? — 0.279525 USD
+- Wie viel kostet es? — 0.2797 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Skaliere Dein Business mit Chat GPT Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/562679
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/562679/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Skaliere%20Dein%20Business%20mit%20Chat%20GPT
 
 ## 4. Editorial notes

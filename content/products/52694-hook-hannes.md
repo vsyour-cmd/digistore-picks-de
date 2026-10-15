@@ -4,7 +4,7 @@ digistore24_product_id: 615995
 title: "Hook Hannes"
 vendor: "ReneAktivNetz"
 product_type: "Downloads"
-price: 6.76
+price: 6.77
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 0.55
@@ -12,8 +12,8 @@ cart_conversion_pct: 11
 cancel_rate_pct: 5.03
 categories: ["Business & Investment","Marketing Services"]
 listed_since: "2025-05-31"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://kischmiede.funnelcockpit.com/hook-hannes/?aff=adminstore#aff=adminstore"
 sales_page: "https://kischmiede.funnelcockpit.com/hook-hannes/"
@@ -22,14 +22,14 @@ language: "de"
 # Hook Hannes
 
 > Product ID `52694` · Digistore24 productId `615995` · [HTML profile page](../../produkte/hook-hannes-52694.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $6.76 (Single payment) |
+| Price | $6.77 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $0.55 |
 | Cart conversion* | 11% |
@@ -59,14 +59,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Hook Hannes? — Typ: Downloads, Anbieter: ReneAktivNetz, gelistet seit 2025-05-31
-- Wie viel kostet es? — 6.764505000000001 USD
+- Wie viel kostet es? — 6.76874 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Hook Hannes Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/615995
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/615995/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Hook%20Hannes
 
 ## 4. Editorial notes

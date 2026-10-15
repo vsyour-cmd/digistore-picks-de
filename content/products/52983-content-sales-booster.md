@@ -4,34 +4,34 @@ digistore24_product_id: 599695
 title: "Content Sales Booster"
 vendor: "LauraTeresaG"
 product_type: "Member area and video courses"
-price: 41.37
+price: 41.4
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 20.68
+earnings_per_sale: 20.7
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2025-03-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/52983/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/599695?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/599695"
 language: "de"
 ---
 # Content Sales Booster
 
 > Product ID `52983` · Digistore24 productId `599695` · [HTML profile page](../../produkte/content-sales-booster-52983.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $41.37 (Single payment) |
+| Price | $41.40 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $20.68 |
+| Earnings/sale* | $20.70 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | LauraTeresaG |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/52983/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/599695?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/599695
 - Canonical redirect: https://www.digistore24.com/redir/599695/adminstore
 
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Content Sales Booster? — Typ: Member area and video courses, Anbieter: LauraTeresaG, gelistet seit 2025-03-04
-- Wie viel kostet es? — 41.3697 USD
+- Wie viel kostet es? — 41.3956 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Content Sales Booster Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/599695
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/599695/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Content%20Sales%20Booster
 
 ## 4. Editorial notes

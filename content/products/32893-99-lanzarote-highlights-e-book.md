@@ -4,32 +4,32 @@ digistore24_product_id: 98523
 title: "99 Lanzarote Highlights [E-Book]"
 vendor: "rheinrost"
 product_type: "E-books"
-price: 17.32
+price: 17.33
 currency: "USD"
 affiliate_commission_pct: 35
 earnings_per_sale: 3.89
 cart_conversion_pct: 21
 cancel_rate_pct: 1.58
-categories: ["Languages","Social Media","Travel & Culture"]
+categories: ["Travel & Culture","Languages","Social Media"]
 listed_since: "2016-10-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/32893/adminstore/"
+promo_link: "https://www.unaufschiebbar.de/99-lanzarote-highlights/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.unaufschiebbar.de/99-lanzarote-highlights/"
 language: "de"
 ---
 # 99 Lanzarote Highlights [E-Book]
 
 > Product ID `32893` · Digistore24 productId `98523` · [HTML profile page](../../produkte/99-lanzarote-highlights-e-book-32893.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $17.32 (Single payment) |
+| Price | $17.33 (Single payment) |
 | Affiliate commission | 35% |
 | Earnings/sale* | $3.89 |
 | Cart conversion* | 21% |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | rheinrost |
 | Listed since | 2016-10-06 |
 | Auto-accept affiliates | yes |
-| Categories | Languages, Social Media, Travel & Culture |
+| Categories | Travel & Culture, Languages, Social Media |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/32893/adminstore/
+- **Promo link (affiliate):** https://www.unaufschiebbar.de/99-lanzarote-highlights/?aff=adminstore#aff=adminstore
 - Sales page: https://www.unaufschiebbar.de/99-lanzarote-highlights/
 - Vendor affiliate support: https://www.unaufschiebbar.de/partner
 - Canonical redirect: https://www.digistore24.com/redir/98523/adminstore
@@ -84,14 +84,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 99 Lanzarote Highlights [E-Book]? — Typ: E-books, Anbieter: rheinrost, gelistet seit 2016-10-06
-- Wie viel kostet es? — 17.319369000000002 USD
+- Wie viel kostet es? — 17.330212 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 99 Lanzarote Highlights [E-Book] Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/98523
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/98523/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=99%20Lanzarote%20Highlights%20%5BE-Book%5D
 
 ## 4. Editorial notes

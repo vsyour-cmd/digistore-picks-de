@@ -4,16 +4,16 @@ digistore24_product_id: 666803
 title: "Innere Muster erkennen - lebendige Beziehungen wählen"
 vendor: "HeidiPro"
 product_type: "Member area and video courses"
-price: 25.37
+price: 25.39
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 7.61
+earnings_per_sale: 7.62
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Dating, Relationships & Romance","Personal Development"]
+categories: ["Personal Development","Dating, Relationships & Romance"]
 listed_since: "2026-02-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
 promo_link: "https://hpheidi-hoeck.systeme.io/ad12725c?aff=adminstore#aff=adminstore"
 sales_page: "https://hpheidi-hoeck.systeme.io/ad12725c"
@@ -22,22 +22,22 @@ language: "de"
 # Innere Muster erkennen - lebendige Beziehungen wählen
 
 > Product ID `55732` · Digistore24 productId `666803` · [HTML profile page](../../produkte/innere-muster-erkennen-lebendige-beziehungen-w-hlen-55732.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $25.37 (Single payment) |
+| Price | $25.39 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $7.61 |
+| Earnings/sale* | $7.62 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | HeidiPro |
 | Listed since | 2026-02-05 |
 | Auto-accept affiliates | yes |
-| Categories | Dating, Relationships & Romance, Personal Development |
+| Categories | Personal Development, Dating, Relationships & Romance |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -62,14 +62,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Innere Muster erkennen - lebendige Beziehungen wählen? — Typ: Member area and video courses, Anbieter: HeidiPro, gelistet seit 2026-02-05
-- Wie viel kostet es? — 25.369689000000005 USD
+- Wie viel kostet es? — 25.385572000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Innere Muster erkennen - lebendige Beziehungen wählen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/666803
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/666803/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Innere%20Muster%20erkennen%20-%20lebendige%20Beziehungen%20w%C3%A4hlen
 
 ## 4. Editorial notes

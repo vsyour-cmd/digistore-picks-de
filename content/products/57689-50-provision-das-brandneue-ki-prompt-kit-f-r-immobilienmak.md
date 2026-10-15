@@ -4,40 +4,40 @@ digistore24_product_id: 714395
 title: "50% Provision: Das brandneue KI-Prompt-Kit für Immobilienmak"
 vendor: "Besten"
 product_type: "E-books"
-price: 38.66
+price: 38.69
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 19.33
+earnings_per_sale: 19.34
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Real Estate","Marketing Services"]
+categories: ["Education","Marketing Services","Real Estate"]
 listed_since: "2026-07-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/57689/adminstore/"
+promo_link: "https://www.digistore24.com/product/714395?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/714395"
 language: "de"
 ---
 # 50% Provision: Das brandneue KI-Prompt-Kit für Immobilienmak
 
 > Product ID `57689` · Digistore24 productId `714395` · [HTML profile page](../../produkte/50-provision-das-brandneue-ki-prompt-kit-f-r-immobilienmak-57689.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $38.66 (Single payment) |
+| Price | $38.69 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $19.33 |
+| Earnings/sale* | $19.34 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Besten |
 | Listed since | 2026-07-23 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Real Estate, Marketing Services |
+| Categories | Education, Marketing Services, Real Estate |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/57689/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/714395?aff=adminstore
 - Sales page: https://www.digistore24.com/product/714395
 - Canonical redirect: https://www.digistore24.com/redir/714395/adminstore
 
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 50% Provision: Das brandneue KI-Prompt-Kit für Immobilienmak? — Typ: E-books, Anbieter: Besten, gelistet seit 2026-07-23
-- Wie viel kostet es? — 38.663898 USD
+- Wie viel kostet es? — 38.688103999999996 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 50% Provision: Das brandneue KI-Prompt-Kit für Immobilienmak Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/714395
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/714395/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=50%25%20Provision%3A%20Das%20brandneue%20KI-Prompt-Kit%20f%C3%BCr%20Immobilienmak
 
 ## 4. Editorial notes

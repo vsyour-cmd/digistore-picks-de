@@ -4,34 +4,34 @@ digistore24_product_id: 320544
 title: "Gira Homeserver programmieren - 3h Videokurs Klickanleitung"
 vendor: "smarthomeknx"
 product_type: "Downloads"
-price: 237.97
+price: 238.11
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 78.7
+earnings_per_sale: 78.75
 cart_conversion_pct: 13
 cancel_rate_pct: 4.84
 categories: ["Computer & Internet"]
 listed_since: "2020-04-14"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/52161/adminstore/"
+promo_link: "https://www.smartest-home.com/gira-homeserver-programmieren/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.smartest-home.com/gira-homeserver-programmieren/"
 language: "de"
 ---
 # Gira Homeserver programmieren - 3h Videokurs Klickanleitung
 
 > Product ID `52161` · Digistore24 productId `320544` · [HTML profile page](../../produkte/gira-homeserver-programmieren-3h-videokurs-klickanleitung-52161.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $237.97 (Single payment, Installment) |
+| Price | $238.11 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $78.70 |
+| Earnings/sale* | $78.75 |
 | Cart conversion* | 13% |
 | Cancel rate* | 4.84% |
 | Vendor | smarthomeknx |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/52161/adminstore/
+- **Promo link (affiliate):** https://www.smartest-home.com/gira-homeserver-programmieren/?aff=adminstore#aff=adminstore
 - Sales page: https://www.smartest-home.com/gira-homeserver-programmieren/
 - Vendor affiliate support: https://www.smartest-home.com/affiliateprogramm
 - Canonical redirect: https://www.digistore24.com/redir/320544/adminstore
@@ -96,14 +96,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Gira Homeserver programmieren - 3h Videokurs Klickanleitung? — Typ: Downloads, Anbieter: smarthomeknx, gelistet seit 2020-04-14
-- Wie viel kostet es? — 237.96522300000004 USD
+- Wie viel kostet es? — 238.11420400000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Gira Homeserver programmieren - 3h Videokurs Klickanleitung Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/320544
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/320544/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Gira%20Homeserver%20programmieren%20-%203h%20Videokurs%20Klickanleitung
 
 ## 4. Editorial notes

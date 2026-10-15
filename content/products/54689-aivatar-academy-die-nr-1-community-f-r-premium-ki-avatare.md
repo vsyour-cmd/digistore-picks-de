@@ -4,34 +4,34 @@ digistore24_product_id: 628355
 title: "Aivatar Academy – Die Nr.1-Community für Premium KI-Avatare"
 vendor: "sattelitevendor"
 product_type: "Member area and video courses"
-price: 220.27
+price: 220.4
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 139.83
+earnings_per_sale: 139.92
 cart_conversion_pct: 7
 cancel_rate_pct: 0.74
 categories: ["Online Marketing & E-Business","Social Media","Marketing Services"]
 listed_since: "2025-08-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/54689/adminstore/"
+promo_link: "https://www.aivataracademy.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.aivataracademy.com/"
 language: "de"
 ---
 # Aivatar Academy – Die Nr.1-Community für Premium KI-Avatare
 
 > Product ID `54689` · Digistore24 productId `628355` · [HTML profile page](../../produkte/aivatar-academy-die-nr-1-community-f-r-premium-ki-avatare-54689.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $220.27 (Single payment) |
+| Price | $220.40 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $139.83 |
+| Earnings/sale* | $139.92 |
 | Cart conversion* | 7% |
 | Cancel rate* | 0.74% |
 | Vendor | sattelitevendor |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/54689/adminstore/
+- **Promo link (affiliate):** https://www.aivataracademy.com/?aff=adminstore#aff=adminstore
 - Sales page: https://www.aivataracademy.com/
 - Vendor affiliate support: https://www.aivataracademy.com/partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/628355/adminstore
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Aivatar Academy – Die Nr.1-Community für Premium KI-Avatare? — Typ: Member area and video courses, Anbieter: sattelitevendor, gelistet seit 2025-08-07
-- Wie viel kostet es? — 220.2657 USD
+- Wie viel kostet es? — 220.4036 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Aivatar Academy – Die Nr.1-Community für Premium KI-Avatare Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/628355
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/628355/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Aivatar%20Academy%20%E2%80%93%20Die%20Nr.1-Community%20f%C3%BCr%20Premium%20KI-Avatare
 
 ## 4. Editorial notes

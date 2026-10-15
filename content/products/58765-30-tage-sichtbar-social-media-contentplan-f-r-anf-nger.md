@@ -4,7 +4,7 @@ digistore24_product_id: 726814
 title: "30 Tage sichtbar – Social-Media-Contentplan für Anfänger"
 vendor: "JessiLL81"
 product_type: "E-books"
-price: 20.8
+price: 20.81
 currency: "USD"
 affiliate_commission_pct: 40
 earnings_per_sale: 8.32
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media"]
 listed_since: "2026-08-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/58765/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/726814?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/726814"
 language: "de"
 ---
 # 30 Tage sichtbar – Social-Media-Contentplan für Anfänger
 
 > Product ID `58765` · Digistore24 productId `726814` · [HTML profile page](../../produkte/30-tage-sichtbar-social-media-contentplan-f-r-anf-nger-58765.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.80 (Single payment) |
+| Price | $20.81 (Single payment) |
 | Affiliate commission | 40% |
 | Earnings/sale* | $8.32 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58765/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/726814?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/726814
 - Canonical redirect: https://www.digistore24.com/redir/726814/adminstore
 
@@ -70,14 +70,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 30 Tage sichtbar – Social-Media-Contentplan für Anfänger? — Typ: E-books, Anbieter: JessiLL81, gelistet seit 2026-08-29
-- Wie viel kostet es? — 20.796660000000003 USD
+- Wie viel kostet es? — 20.80968 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 30 Tage sichtbar – Social-Media-Contentplan für Anfänger Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/726814
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/726814/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=30%20Tage%20sichtbar%20%E2%80%93%20Social-Media-Contentplan%20f%C3%BCr%20Anf%C3%A4nger
 
 ## 4. Editorial notes

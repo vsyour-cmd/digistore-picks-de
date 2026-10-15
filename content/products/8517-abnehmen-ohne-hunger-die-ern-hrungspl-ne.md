@@ -4,7 +4,7 @@ digistore24_product_id: 57899
 title: "Abnehmen ohne Hunger - Die Ernährungspläne"
 vendor: "owebsolution"
 product_type: "Downloads"
-price: 23.39
+price: 23.41
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 11.7
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2015-09-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/57899?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/57899"
@@ -22,14 +22,14 @@ language: "de"
 # Abnehmen ohne Hunger - Die Ernährungspläne
 
 > Product ID `8517` · Digistore24 productId `57899` · [HTML profile page](../../produkte/abnehmen-ohne-hunger-die-ern-hrungspl-ne-8517.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $23.39 (Single payment) |
+| Price | $23.41 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $11.70 |
 | Cart conversion* | — |
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Abnehmen ohne Hunger - Die Ernährungspläne? — Typ: Downloads, Anbieter: owebsolution, gelistet seit 2015-09-01
-- Wie viel kostet es? — 23.390652000000003 USD
+- Wie viel kostet es? — 23.405296000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Abnehmen ohne Hunger - Die Ernährungspläne Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/57899
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/57899/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Abnehmen%20ohne%20Hunger%20-%20Die%20Ern%C3%A4hrungspl%C3%A4ne
 
 ## 4. Editorial notes

@@ -7,22 +7,22 @@ product_type: "Book (printed)"
 price: 7.27
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 3.63
+earnings_per_sale: 3.64
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2017-11-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/21177/adminstore/"
+promo_link: "https://buch.sergejheck.de/buch-bestellseite?aff=adminstore#aff=adminstore"
 sales_page: "https://buch.sergejheck.de/buch-bestellseite"
 language: "de"
 ---
 # "Network Marketing Imperium" Gratis Buch von Sergej Heck
 
 > Product ID `21177` · Digistore24 productId `177621` · [HTML profile page](../../produkte/network-marketing-imperium-gratis-buch-von-sergej-heck-21177.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,7 @@ language: "de"
 | Product type | Book (printed) |
 | Price | $7.27 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $3.63 |
+| Earnings/sale* | $3.64 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | sheck88 |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/21177/adminstore/
+- **Promo link (affiliate):** https://buch.sergejheck.de/buch-bestellseite?aff=adminstore#aff=adminstore
 - Sales page: https://buch.sergejheck.de/buch-bestellseite
 - Vendor affiliate support: http://sergejheck.de/partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/177621/adminstore
@@ -59,14 +59,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist "Network Marketing Imperium" Gratis Buch von Sergej Heck? — Typ: Book (printed), Anbieter: sheck88, gelistet seit 2017-11-07
-- Wie viel kostet es? — 7.267650000000001 USD
+- Wie viel kostet es? — 7.2722 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: "Network Marketing Imperium" Gratis Buch von Sergej Heck Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/177621
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/177621/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=%22Network%20Marketing%20Imperium%22%20Gratis%20Buch%20von%20Sergej%20Heck
 
 ## 4. Editorial notes

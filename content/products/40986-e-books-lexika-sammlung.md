@@ -4,16 +4,16 @@ digistore24_product_id: 461920
 title: "E-Books: Lexika Sammlung"
 vendor: "Staatenlos"
 product_type: "E-books"
-price: 123.72
+price: 123.8
 currency: "USD"
 affiliate_commission_pct: 51
-earnings_per_sale: 54.99
+earnings_per_sale: 55.02
 cart_conversion_pct: 19
 cancel_rate_pct: 4.52
 categories: ["Finances"]
 listed_since: "2022-09-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://staatenlos.ch/firma-gruenden/lexika-sammlung/?aff=adminstore#aff=adminstore"
 sales_page: "https://staatenlos.ch/firma-gruenden/lexika-sammlung/"
@@ -22,16 +22,16 @@ language: "de"
 # E-Books: Lexika Sammlung
 
 > Product ID `40986` · Digistore24 productId `461920` · [HTML profile page](../../produkte/e-books-lexika-sammlung-40986.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $123.72 (Single payment) |
+| Price | $123.80 (Single payment) |
 | Affiliate commission | 51% |
-| Earnings/sale* | $54.99 |
+| Earnings/sale* | $55.02 |
 | Cart conversion* | 19% |
 | Cancel rate* | 4.52% |
 | Vendor | Staatenlos |
@@ -93,14 +93,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist E-Books: Lexika Sammlung? — Typ: E-books, Anbieter: Staatenlos, gelistet seit 2022-09-24
-- Wie viel kostet es? — 123.71776500000001 USD
+- Wie viel kostet es? — 123.79522000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: E-Books: Lexika Sammlung Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/461920
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/461920/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=E-Books%3A%20Lexika%20Sammlung
 
 ## 4. Editorial notes

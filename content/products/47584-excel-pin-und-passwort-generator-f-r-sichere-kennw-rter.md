@@ -4,16 +4,16 @@ digistore24_product_id: 488581
 title: "Excel PIN- und Passwort-Generator für sichere Kennwörter"
 vendor: "amexio"
 product_type: "Downloads"
-price: 18.74
+price: 18.75
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 1.88
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Computer & Internet","Software"]
+categories: ["Software","Computer & Internet"]
 listed_since: "2023-03-11"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/488581?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/488581"
@@ -22,14 +22,14 @@ language: "de"
 # Excel PIN- und Passwort-Generator für sichere Kennwörter
 
 > Product ID `47584` · Digistore24 productId `488581` · [HTML profile page](../../produkte/excel-pin-und-passwort-generator-f-r-sichere-kennw-rter-47584.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $18.74 (Single payment) |
+| Price | $18.75 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $1.88 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | amexio |
 | Listed since | 2023-03-11 |
 | Auto-accept affiliates | no (approval required) |
-| Categories | Computer & Internet, Software |
+| Categories | Software, Computer & Internet |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -70,14 +70,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Excel PIN- und Passwort-Generator für sichere Kennwörter? — Typ: Downloads, Anbieter: amexio, gelistet seit 2023-03-11
-- Wie viel kostet es? — 18.739356000000004 USD
+- Wie viel kostet es? — 18.751088000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Excel PIN- und Passwort-Generator für sichere Kennwörter Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/488581
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/488581/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Excel%20PIN-%20und%20Passwort-Generator%20f%C3%BCr%20sichere%20Kennw%C3%B6rter
 
 ## 4. Editorial notes

@@ -4,40 +4,40 @@ digistore24_product_id: 612089
 title: "Ausbilderschein (AEVO): Online-Kurs mit viel Potenzial"
 vendor: "resal-coaching"
 product_type: "Member area and video courses"
-price: 466.97
+price: 467.27
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 93.39
+earnings_per_sale: 93.45
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Profession & Job"]
+categories: ["Profession & Job","Education"]
 listed_since: "2026-08-02"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/58095/adminstore/"
+promo_link: "https://www.digistore24.com/product/612089?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/612089"
 language: "de"
 ---
 # Ausbilderschein (AEVO): Online-Kurs mit viel Potenzial
 
 > Product ID `58095` · Digistore24 productId `612089` · [HTML profile page](../../produkte/ausbilderschein-aevo-online-kurs-mit-viel-potenzial-58095.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $466.97 (Single payment, Installment) |
+| Price | $467.27 (Single payment, Installment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $93.39 |
+| Earnings/sale* | $93.45 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | resal-coaching |
 | Listed since | 2026-08-02 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Profession & Job |
+| Categories | Profession & Job, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58095/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/612089?aff=adminstore
 - Sales page: https://www.digistore24.com/product/612089
 - Canonical redirect: https://www.digistore24.com/redir/612089/adminstore
 
@@ -88,14 +88,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ausbilderschein (AEVO): Online-Kurs mit viel Potenzial? — Typ: Member area and video courses, Anbieter: resal-coaching, gelistet seit 2026-08-02
-- Wie viel kostet es? — 466.974465 USD
+- Wie viel kostet es? — 467.26682 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Ausbilderschein (AEVO): Online-Kurs mit viel Potenzial Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/612089
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/612089/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Ausbilderschein%20(AEVO)%3A%20Online-Kurs%20mit%20viel%20Potenzial
 
 ## 4. Editorial notes

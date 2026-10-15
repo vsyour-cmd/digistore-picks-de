@@ -4,7 +4,7 @@ digistore24_product_id: 649618
 title: "Selbstliebe Journal – 31-seitiges Achtsamkeits-Workbook (PDF"
 vendor: "Melliscolorworld"
 product_type: "Downloads"
-price: 14.61
+price: 14.62
 currency: "USD"
 affiliate_commission_pct: 20
 earnings_per_sale: 2.92
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2025-11-19"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/649618?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/649618"
@@ -22,14 +22,14 @@ language: "de"
 # Selbstliebe Journal – 31-seitiges Achtsamkeits-Workbook (PDF
 
 > Product ID `54690` · Digistore24 productId `649618` · [HTML profile page](../../produkte/selbstliebe-journal-31-seitiges-achtsamkeits-workbook-pdf-54690.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $14.61 (Single payment) |
+| Price | $14.62 (Single payment) |
 | Affiliate commission | 20% |
 | Earnings/sale* | $2.92 |
 | Cart conversion* | — |
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Selbstliebe Journal – 31-seitiges Achtsamkeits-Workbook (PDF? — Typ: Downloads, Anbieter: Melliscolorworld, gelistet seit 2025-11-19
-- Wie viel kostet es? — 14.613567000000002 USD
+- Wie viel kostet es? — 14.622716 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Selbstliebe Journal – 31-seitiges Achtsamkeits-Workbook (PDF Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/649618
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/649618/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Selbstliebe%20Journal%20%E2%80%93%2031-seitiges%20Achtsamkeits-Workbook%20(PDF
 
 ## 4. Editorial notes

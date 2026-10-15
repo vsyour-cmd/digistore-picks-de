@@ -4,34 +4,34 @@ digistore24_product_id: 703358
 title: "Affyro B2B - Premium Webdesign (Visitenkarte bis Onlineshop)"
 vendor: "MichaMH"
 product_type: "Remote service provided electronically"
-price: 374.89
+price: 375.12
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 56.23
+earnings_per_sale: 56.26
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Services","Marketing Services"]
 listed_since: "2026-06-19"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/57053/adminstore/"
+promo_link: "https://affyro.com/b2b-services.html?aff=adminstore#aff=adminstore"
 sales_page: "https://affyro.com/b2b-services.html"
 language: "de"
 ---
 # Affyro B2B - Premium Webdesign (Visitenkarte bis Onlineshop)
 
 > Product ID `57053` · Digistore24 productId `703358` · [HTML profile page](../../produkte/affyro-b2b-premium-webdesign-visitenkarte-bis-onlineshop-57053.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $374.89 (Single payment, Installment) |
+| Price | $375.12 (Single payment, Installment) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $56.23 |
+| Earnings/sale* | $56.26 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MichaMH |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/57053/adminstore/
+- **Promo link (affiliate):** https://affyro.com/b2b-services.html?aff=adminstore#aff=adminstore
 - Sales page: https://affyro.com/b2b-services.html
 - Canonical redirect: https://www.digistore24.com/redir/703358/adminstore
 
@@ -81,14 +81,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Affyro B2B - Premium Webdesign (Visitenkarte bis Onlineshop)? — Typ: Remote service provided electronically, Anbieter: MichaMH, gelistet seit 2026-06-19
-- Wie viel kostet es? — 374.88774900000004 USD
+- Wie viel kostet es? — 375.122452 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Affyro B2B - Premium Webdesign (Visitenkarte bis Onlineshop) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/703358
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/703358/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Affyro%20B2B%20-%20Premium%20Webdesign%20(Visitenkarte%20bis%20Onlineshop)
 
 ## 4. Editorial notes

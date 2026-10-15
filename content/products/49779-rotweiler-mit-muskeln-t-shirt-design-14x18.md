@@ -10,19 +10,19 @@ affiliate_commission_pct: 20
 earnings_per_sale: 0.36
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Fashion","Photography & Film","Survival"]
+categories: ["Photography & Film","Fashion","Survival"]
 listed_since: "2024-09-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/49779/adminstore/"
+promo_link: "https://www.digistore24.com/product/572430?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/572430"
 language: "de"
 ---
 # Rotweiler mit Muskeln - T-Shirt Design 14x18
 
 > Product ID `49779` · Digistore24 productId `572430` · [HTML profile page](../../produkte/rotweiler-mit-muskeln-t-shirt-design-14x18-49779.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | DanGraf |
 | Listed since | 2024-09-26 |
 | Auto-accept affiliates | yes |
-| Categories | Fashion, Photography & Film, Survival |
+| Categories | Photography & Film, Fashion, Survival |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/49779/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/572430?aff=adminstore
 - Sales page: https://www.digistore24.com/product/572430
 - Canonical redirect: https://www.digistore24.com/redir/572430/adminstore
 
@@ -69,14 +69,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Rotweiler mit Muskeln - T-Shirt Design 14x18? — Typ: Downloads, Anbieter: DanGraf, gelistet seit 2024-09-26
-- Wie viel kostet es? — 1.7889600000000003 USD
+- Wie viel kostet es? — 1.7900800000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Rotweiler mit Muskeln - T-Shirt Design 14x18 Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/572430
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/572430/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Rotweiler%20mit%20Muskeln%20-%20T-Shirt%20Design%2014x18
 
 ## 4. Editorial notes

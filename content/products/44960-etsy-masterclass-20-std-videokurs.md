@@ -4,16 +4,16 @@ digistore24_product_id: 510068
 title: "Etsy Masterclass - 20 Std Videokurs"
 vendor: "CharlotteKster"
 product_type: "Member area and video courses"
-price: 322.14
+price: 322.34
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 71.14
+earnings_per_sale: 71.19
 cart_conversion_pct: 14
 cancel_rate_pct: 6.63
 categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2023-08-03"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.lottismasterclass.de?aff=adminstore#aff=adminstore"
 sales_page: "https://www.lottismasterclass.de"
@@ -22,16 +22,16 @@ language: "de"
 # Etsy Masterclass - 20 Std Videokurs
 
 > Product ID `44960` · Digistore24 productId `510068` · [HTML profile page](../../produkte/etsy-masterclass-20-std-videokurs-44960.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $322.14 (Single payment, Installment) |
+| Price | $322.34 (Single payment, Installment) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $71.14 |
+| Earnings/sale* | $71.19 |
 | Cart conversion* | 14% |
 | Cancel rate* | 6.63% |
 | Vendor | CharlotteKster |
@@ -109,14 +109,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Etsy Masterclass - 20 Std Videokurs? — Typ: Member area and video courses, Anbieter: CharlotteKster, gelistet seit 2023-08-03
-- Wie viel kostet es? — 322.13579100000004 USD
+- Wie viel kostet es? — 322.337468 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Etsy Masterclass - 20 Std Videokurs Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/510068
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/510068/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Etsy%20Masterclass%20-%2020%20Std%20Videokurs
 
 ## 4. Editorial notes

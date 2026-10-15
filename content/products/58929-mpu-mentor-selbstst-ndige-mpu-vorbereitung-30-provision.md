@@ -4,40 +4,40 @@ digistore24_product_id: 679080
 title: "MPU Mentor – Selbstständige MPU-Vorbereitung, 30% Provision"
 vendor: "KevinRybak"
 product_type: "Member area and video courses"
-price: 262.14
+price: 262.3
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 78.65
+earnings_per_sale: 78.7
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Personal Development"]
+categories: ["Personal Development","Education"]
 listed_since: "2026-09-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/58929/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/679080?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/679080"
 language: "de"
 ---
 # MPU Mentor – Selbstständige MPU-Vorbereitung, 30% Provision
 
 > Product ID `58929` · Digistore24 productId `679080` · [HTML profile page](../../produkte/mpu-mentor-selbstst-ndige-mpu-vorbereitung-30-provision-58929.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $262.14 (Single payment, Installment) |
+| Price | $262.30 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $78.65 |
+| Earnings/sale* | $78.70 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | KevinRybak |
 | Listed since | 2026-09-05 |
 | Auto-accept affiliates | no (approval required) |
-| Categories | Education, Personal Development |
+| Categories | Personal Development, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58929/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/679080?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/679080
 - Canonical redirect: https://www.digistore24.com/redir/679080/adminstore
 
@@ -86,14 +86,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist MPU Mentor – Selbstständige MPU-Vorbereitung, 30% Provision? — Typ: Member area and video courses, Anbieter: KevinRybak, gelistet seit 2026-09-05
-- Wie viel kostet es? — 262.138545 USD
+- Wie viel kostet es? — 262.30266 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: MPU Mentor – Selbstständige MPU-Vorbereitung, 30% Provision Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/679080
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/679080/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=MPU%20Mentor%20%E2%80%93%20Selbstst%C3%A4ndige%20MPU-Vorbereitung%2C%2030%25%20Provision
 
 ## 4. Editorial notes

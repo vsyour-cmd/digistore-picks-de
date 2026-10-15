@@ -4,16 +4,16 @@ digistore24_product_id: 611742
 title: "KI-Business-Quiz"
 vendor: "ReneAktivNetz"
 product_type: "Member area and video courses"
-price: 2.97
+price: 2.98
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 8.06
+earnings_per_sale: 8.07
 cart_conversion_pct: 18
 cancel_rate_pct: 5.21
 categories: ["Business & Investment","Email Marketing","Marketing Services"]
 listed_since: "2025-05-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://kischmiede.funnelcockpit.com/affiliate-kickstart/?aff=adminstore#aff=adminstore"
 sales_page: "https://kischmiede.funnelcockpit.com/affiliate-kickstart/"
@@ -22,16 +22,16 @@ language: "de"
 # KI-Business-Quiz
 
 > Product ID `52896` · Digistore24 productId `611742` · [HTML profile page](../../produkte/ki-business-quiz-52896.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $2.97 (Single payment) |
+| Price | $2.98 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $8.06 |
+| Earnings/sale* | $8.07 |
 | Cart conversion* | 18% |
 | Cancel rate* | 5.21% |
 | Vendor | ReneAktivNetz |
@@ -59,14 +59,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI-Business-Quiz? — Typ: Member area and video courses, Anbieter: ReneAktivNetz, gelistet seit 2025-05-09
-- Wie viel kostet es? — 2.9741460000000006 USD
+- Wie viel kostet es? — 2.976008 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: KI-Business-Quiz Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/611742
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/611742/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=KI-Business-Quiz
 
 ## 4. Editorial notes

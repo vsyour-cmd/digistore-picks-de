@@ -4,7 +4,7 @@ digistore24_product_id: 701957
 title: "Small Talk meistern"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 18.71
+price: 18.72
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 9.36
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2026-06-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/57199/adminstore/"
+promo_link: "https://ratgeberplatz.de/ratgeber/small-talk-meistern?aff=adminstore#aff=adminstore"
 sales_page: "https://ratgeberplatz.de/ratgeber/small-talk-meistern"
 language: "de"
 ---
 # Small Talk meistern
 
 > Product ID `57199` · Digistore24 productId `701957` · [HTML profile page](../../produkte/small-talk-meistern-57199.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $18.71 (Single payment) |
+| Price | $18.72 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $9.36 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/57199/adminstore/
+- **Promo link (affiliate):** https://ratgeberplatz.de/ratgeber/small-talk-meistern?aff=adminstore#aff=adminstore
 - Sales page: https://ratgeberplatz.de/ratgeber/small-talk-meistern
 - Canonical redirect: https://www.digistore24.com/redir/701957/adminstore
 
@@ -85,14 +85,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Small Talk meistern? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-06-29
-- Wie viel kostet es? — 18.705813000000003 USD
+- Wie viel kostet es? — 18.717524 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Small Talk meistern Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/701957
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/701957/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Small%20Talk%20meistern
 
 ## 4. Editorial notes

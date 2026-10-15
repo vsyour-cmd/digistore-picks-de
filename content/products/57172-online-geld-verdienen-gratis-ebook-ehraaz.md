@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media"]
 listed_since: "2026-06-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/675272?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/675272"
@@ -22,7 +22,7 @@ language: "de"
 # Online Geld verdienen Gratis eBook - Ehraaz
 
 > Product ID `57172` · Digistore24 productId `675272` · [HTML profile page](../../produkte/online-geld-verdienen-gratis-ebook-ehraaz-57172.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -78,7 +78,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Online Geld verdienen Gratis eBook - Ehraaz Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/675272
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/675272/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Online%20Geld%20verdienen%20Gratis%20eBook%20-%20Ehraaz
 
 ## 4. Editorial notes

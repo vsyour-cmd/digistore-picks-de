@@ -4,16 +4,16 @@ digistore24_product_id: 710142
 title: "Fünf Bausteine in deine Körperpräsenz"
 vendor: "ZentAura"
 product_type: "Member area and video courses"
-price: 121.2
+price: 121.28
 currency: "USD"
 affiliate_commission_pct: 44
-earnings_per_sale: 53.33
+earnings_per_sale: 53.37
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Health & Fitness","Personal Development"]
+categories: ["Health & Fitness","Personal Development","Education"]
 listed_since: "2026-09-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.zentaura.de/5-bausteine-in-deine-koerperpraesenz/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.zentaura.de/5-bausteine-in-deine-koerperpraesenz/"
@@ -22,22 +22,22 @@ language: "de"
 # Fünf Bausteine in deine Körperpräsenz
 
 > Product ID `59078` · Digistore24 productId `710142` · [HTML profile page](../../produkte/f-nf-bausteine-in-deine-k-rperpr-senz-59078.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $121.20 (Single payment) |
+| Price | $121.28 (Single payment) |
 | Affiliate commission | 44% |
-| Earnings/sale* | $53.33 |
+| Earnings/sale* | $53.37 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ZentAura |
 | Listed since | 2026-09-09 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Health & Fitness, Personal Development |
+| Categories | Health & Fitness, Personal Development, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Fünf Bausteine in deine Körperpräsenz? — Typ: Member area and video courses, Anbieter: ZentAura, gelistet seit 2026-09-09
-- Wie viel kostet es? — 121.20204000000001 USD
+- Wie viel kostet es? — 121.27792000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Fünf Bausteine in deine Körperpräsenz Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/710142
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/710142/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=F%C3%BCnf%20Bausteine%20in%20deine%20K%C3%B6rperpr%C3%A4senz
 
 ## 4. Editorial notes

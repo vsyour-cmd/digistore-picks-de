@@ -4,16 +4,16 @@ digistore24_product_id: 305369
 title: "FiboCross | TradingView Indikator"
 vendor: "daxtrading"
 product_type: "Remote service provided electronically"
-price: 328.86
+price: 329.06
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 61.65
+earnings_per_sale: 61.69
 cart_conversion_pct: 5
 cancel_rate_pct: 10.59
 categories: ["Trading Products"]
 listed_since: "2020-01-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.kagels-trading.de/fibo-cross-indikator-tradingview/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.kagels-trading.de/fibo-cross-indikator-tradingview/"
@@ -22,16 +22,16 @@ language: "de"
 # FiboCross | TradingView Indikator
 
 > Product ID `33792` · Digistore24 productId `305369` · [HTML profile page](../../produkte/fibocross-tradingview-indikator-33792.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $328.86 (Single payment) |
+| Price | $329.06 (Single payment) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $61.65 |
+| Earnings/sale* | $61.69 |
 | Cart conversion* | 5% |
 | Cancel rate* | 10.59% |
 | Vendor | daxtrading |
@@ -98,14 +98,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist FiboCross | TradingView Indikator? — Typ: Remote service provided electronically, Anbieter: daxtrading, gelistet seit 2020-01-27
-- Wie viel kostet es? — 328.85557200000005 USD
+- Wie viel kostet es? — 329.061456 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: FiboCross | TradingView Indikator Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/305369
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/305369/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=FiboCross%20%7C%20TradingView%20Indikator
 
 ## 4. Editorial notes

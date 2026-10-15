@@ -4,16 +4,16 @@ digistore24_product_id: 656794
 title: "Gesund abnehmen Schritt für schritt"
 vendor: "xeymen"
 product_type: "Downloads"
-price: 9.39
+price: 9.4
 currency: "USD"
 affiliate_commission_pct: 30
 earnings_per_sale: 2.82
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Food & Drink","Health & Fitness","Sport"]
+categories: ["Health & Fitness","Sport","Food & Drink"]
 listed_since: "2025-12-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/656794?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/656794"
@@ -22,14 +22,14 @@ language: "de"
 # Gesund abnehmen Schritt für schritt
 
 > Product ID `54978` · Digistore24 productId `656794` · [HTML profile page](../../produkte/gesund-abnehmen-schritt-f-r-schritt-54978.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $9.39 (Single payment) |
+| Price | $9.40 (Single payment) |
 | Affiliate commission | 30% |
 | Earnings/sale* | $2.82 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | xeymen |
 | Listed since | 2025-12-21 |
 | Auto-accept affiliates | yes |
-| Categories | Food & Drink, Health & Fitness, Sport |
+| Categories | Health & Fitness, Sport, Food & Drink |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Gesund abnehmen Schritt für schritt? — Typ: Downloads, Anbieter: xeymen, gelistet seit 2025-12-21
-- Wie viel kostet es? — 9.392040000000001 USD
+- Wie viel kostet es? — 9.397920000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Gesund abnehmen Schritt für schritt Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/656794
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/656794/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Gesund%20abnehmen%20Schritt%20f%C3%BCr%20schritt
 
 ## 4. Editorial notes

@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2023-07-31"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/44873/adminstore/"
+promo_link: "https://altersvorsorgevierzigplus.funnelcockpit.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://altersvorsorgevierzigplus.funnelcockpit.com/"
 language: "de"
 ---
 # Altersvorsorge 40+: Als Affiliate finanziell unabhängig
 
 > Product ID `44873` · Digistore24 productId `509495` · [HTML profile page](../../produkte/altersvorsorge-40-als-affiliate-finanziell-unabh-ngig-44873.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/44873/adminstore/
+- **Promo link (affiliate):** https://altersvorsorgevierzigplus.funnelcockpit.com/?aff=adminstore#aff=adminstore
 - Sales page: https://altersvorsorgevierzigplus.funnelcockpit.com/
 - Vendor affiliate support: https://altersvorsorgevierzigplus.funnelcockpit.com/werbemittel/
 - Canonical redirect: https://www.digistore24.com/redir/509495/adminstore
@@ -66,7 +66,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Altersvorsorge 40+: Als Affiliate finanziell unabhängig Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/509495
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/509495/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Altersvorsorge%2040%2B%3A%20Als%20Affiliate%20finanziell%20unabh%C3%A4ngig
 
 ## 4. Editorial notes

@@ -4,7 +4,7 @@ digistore24_product_id: 708959
 title: "ManyChat für Einsteiger - Das eBook"
 vendor: "KundenFinder"
 product_type: "E-books"
-price: 17.77
+price: 17.78
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 8.89
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Online Marketing"]
 listed_since: "2026-09-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://manychatebook.dietlmeier.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://manychatebook.dietlmeier.de/"
@@ -22,14 +22,14 @@ language: "de"
 # ManyChat für Einsteiger - Das eBook
 
 > Product ID `58906` · Digistore24 productId `708959` · [HTML profile page](../../produkte/manychat-f-r-einsteiger-das-ebook-58906.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $17.77 (Single payment) |
+| Price | $17.78 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $8.89 |
 | Cart conversion* | — |
@@ -77,14 +77,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist ManyChat für Einsteiger - Das eBook? — Typ: E-books, Anbieter: KundenFinder, gelistet seit 2026-09-04
-- Wie viel kostet es? — 17.766609000000003 USD
+- Wie viel kostet es? — 17.777732 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: ManyChat für Einsteiger - Das eBook Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/708959
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/708959/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=ManyChat%20f%C3%BCr%20Einsteiger%20-%20Das%20eBook
 
 ## 4. Editorial notes

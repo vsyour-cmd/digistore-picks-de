@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Profession & Job","Sales Training"]
 listed_since: "2025-10-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/54287/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/639849?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/639849"
 language: "de"
 ---
 # Automatisieren statt ackern – 77 KI-Workflows
 
 > Product ID `54287` · Digistore24 productId `639849` · [HTML profile page](../../produkte/automatisieren-statt-ackern-77-ki-workflows-54287.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/54287/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/639849?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/639849
 - Canonical redirect: https://www.digistore24.com/redir/639849/adminstore
 
@@ -76,14 +76,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Automatisieren statt ackern – 77 KI-Workflows? — Typ: E-books, Anbieter: VisionaryHub, gelistet seit 2025-10-06
-- Wie viel kostet es? — 6.160731 USD
+- Wie viel kostet es? — 6.164588 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Automatisieren statt ackern – 77 KI-Workflows Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/639849
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/639849/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Automatisieren%20statt%20ackern%20%E2%80%93%2077%20KI-Workflows
 
 ## 4. Editorial notes

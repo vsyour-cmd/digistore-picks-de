@@ -4,32 +4,32 @@ digistore24_product_id: 675451
 title: "Ihre Immobilie als Renditebooster inkl. Potentialanalyse"
 vendor: "info8c24"
 product_type: "E-books"
-price: 20.8
+price: 20.81
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 10.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Business & Investment","Green Products & Environmental Protection","Home & Garden"]
+categories: ["Business & Investment","Home & Garden","Green Products & Environmental Protection"]
 listed_since: "2026-03-11"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.werdemusiker.de/der-rontgenblick-us1/#aff=adminstore"
+promo_link: "https://www.checkout-ds24.com/product/675451?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/675451"
 language: "de"
 ---
 # Ihre Immobilie als Renditebooster inkl. Potentialanalyse
 
 > Product ID `55867` · Digistore24 productId `675451` · [HTML profile page](../../produkte/ihre-immobilie-als-renditebooster-inkl-potentialanalyse-55867.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.80 (Single payment) |
+| Price | $20.81 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $10.40 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | info8c24 |
 | Listed since | 2026-03-11 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Green Products & Environmental Protection, Home & Garden |
+| Categories | Business & Investment, Home & Garden, Green Products & Environmental Protection |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.werdemusiker.de/der-rontgenblick-us1/#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/675451?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/675451
 - Canonical redirect: https://www.digistore24.com/redir/675451/adminstore
 
@@ -74,14 +74,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ihre Immobilie als Renditebooster inkl. Potentialanalyse? — Typ: E-books, Anbieter: info8c24, gelistet seit 2026-03-11
-- Wie viel kostet es? — 20.796660000000003 USD
+- Wie viel kostet es? — 20.80968 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Ihre Immobilie als Renditebooster inkl. Potentialanalyse Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/675451
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/675451/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Ihre%20Immobilie%20als%20Renditebooster%20inkl.%20Potentialanalyse
 
 ## 4. Editorial notes

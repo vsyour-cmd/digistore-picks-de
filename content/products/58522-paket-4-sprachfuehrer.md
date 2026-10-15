@@ -4,7 +4,7 @@ digistore24_product_id: 724901
 title: "paket_4_sprachfuehrer"
 vendor: "mlangbein51cce0"
 product_type: "E-books"
-price: 17.77
+price: 17.78
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 8.89
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Languages","Leadership & Management"]
 listed_since: "2026-08-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/724901?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/724901"
@@ -22,14 +22,14 @@ language: "de"
 # paket_4_sprachfuehrer
 
 > Product ID `58522` · Digistore24 productId `724901` · [HTML profile page](../../produkte/paket-4-sprachfuehrer-58522.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $17.77 (Single payment) |
+| Price | $17.78 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $8.89 |
 | Cart conversion* | — |
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist paket_4_sprachfuehrer? — Typ: E-books, Anbieter: mlangbein51cce0, gelistet seit 2026-08-22
-- Wie viel kostet es? — 17.766609000000003 USD
+- Wie viel kostet es? — 17.777732 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: paket_4_sprachfuehrer Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/724901
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/724901/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=paket_4_sprachfuehrer
 
 ## 4. Editorial notes

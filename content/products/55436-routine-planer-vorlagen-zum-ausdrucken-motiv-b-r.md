@@ -4,7 +4,7 @@ digistore24_product_id: 665654
 title: "Routine Planer Vorlagen zum Ausdrucken Motiv Bär"
 vendor: "JohannaBuegler"
 product_type: "Downloads"
-price: 9.3
+price: 9.31
 currency: "USD"
 affiliate_commission_pct: 30
 earnings_per_sale: 2.8
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children","Social Media"]
 listed_since: "2026-02-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/665654?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/665654"
@@ -22,14 +22,14 @@ language: "de"
 # Routine Planer Vorlagen zum Ausdrucken Motiv Bär
 
 > Product ID `55436` · Digistore24 productId `665654` · [HTML profile page](../../produkte/routine-planer-vorlagen-zum-ausdrucken-motiv-b-r-55436.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $9.30 (Single payment) |
+| Price | $9.31 (Single payment) |
 | Affiliate commission | 30% |
 | Earnings/sale* | $2.80 |
 | Cart conversion* | — |
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Routine Planer Vorlagen zum Ausdrucken Motiv Bär? — Typ: Downloads, Anbieter: JohannaBuegler, gelistet seit 2026-02-01
-- Wie viel kostet es? — 9.302592 USD
+- Wie viel kostet es? — 9.308416000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Routine Planer Vorlagen zum Ausdrucken Motiv Bär Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/665654
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/665654/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Routine%20Planer%20Vorlagen%20zum%20Ausdrucken%20Motiv%20B%C3%A4r
 
 ## 4. Editorial notes

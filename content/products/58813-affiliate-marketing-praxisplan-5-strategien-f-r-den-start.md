@@ -4,34 +4,34 @@ digistore24_product_id: 535366
 title: "Affiliate Marketing Praxisplan – 5 Strategien für den Start"
 vendor: "HB1976"
 product_type: "E-books"
-price: 28.21
+price: 28.23
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 14.11
+earnings_per_sale: 14.12
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Online Marketing & E-Business"]
 listed_since: "2026-09-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/58813/adminstore/"
+promo_link: "https://affilifuchs.de/affiliate-marketing-praxisplan?aff=adminstore#aff=adminstore"
 sales_page: "https://affilifuchs.de/affiliate-marketing-praxisplan"
 language: "de"
 ---
 # Affiliate Marketing Praxisplan – 5 Strategien für den Start
 
 > Product ID `58813` · Digistore24 productId `535366` · [HTML profile page](../../produkte/affiliate-marketing-praxisplan-5-strategien-f-r-den-start-58813.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $28.21 (Single payment) |
+| Price | $28.23 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $14.11 |
+| Earnings/sale* | $14.12 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | HB1976 |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58813/adminstore/
+- **Promo link (affiliate):** https://affilifuchs.de/affiliate-marketing-praxisplan?aff=adminstore#aff=adminstore
 - Sales page: https://affilifuchs.de/affiliate-marketing-praxisplan
 - Vendor affiliate support: https://affilifuchs.de/partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/535366/adminstore
@@ -104,14 +104,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Affiliate Marketing Praxisplan – 5 Strategien für den Start? — Typ: E-books, Anbieter: HB1976, gelistet seit 2026-09-01
-- Wie viel kostet es? — 28.209663000000003 USD
+- Wie viel kostet es? — 28.227324 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Affiliate Marketing Praxisplan – 5 Strategien für den Start Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/535366
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/535366/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Affiliate%20Marketing%20Praxisplan%20%E2%80%93%205%20Strategien%20f%C3%BCr%20den%20Start
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 733557
 title: "reset Leadership Mastery Class"
 vendor: "sperber9a48"
 product_type: "Member area and video courses"
-price: 1315.41
+price: 1316.23
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 263.08
+earnings_per_sale: 263.24
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Leadership & Management"]
 listed_since: "2026-09-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/733557?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/733557"
@@ -22,16 +22,16 @@ language: "de"
 # reset Leadership Mastery Class
 
 > Product ID `59290` · Digistore24 productId `733557` · [HTML profile page](../../produkte/reset-leadership-mastery-class-59290.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1315.41 (Single payment, Installment) |
+| Price | $1316.23 (Single payment, Installment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $263.08 |
+| Earnings/sale* | $263.24 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | sperber9a48 |
@@ -81,14 +81,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist reset Leadership Mastery Class? — Typ: Member area and video courses, Anbieter: sperber9a48, gelistet seit 2026-09-16
-- Wie viel kostet es? — 1315.4111070000001 USD
+- Wie viel kostet es? — 1316.2346360000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: reset Leadership Mastery Class Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/733557
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/733557/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=reset%20Leadership%20Mastery%20Class
 
 ## 4. Editorial notes

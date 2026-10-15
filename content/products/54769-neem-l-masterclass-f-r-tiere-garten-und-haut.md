@@ -4,32 +4,32 @@ digistore24_product_id: 621615
 title: "Neemöl Masterclass – Für Tiere, Garten und Haut"
 vendor: "dd530xd"
 product_type: "Downloads"
-price: 9.38
+price: 9.39
 currency: "USD"
 affiliate_commission_pct: 20
 earnings_per_sale: 1.88
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Animals & Pets","Health & Fitness","Home & Garden"]
+categories: ["Health & Fitness","Animals & Pets","Home & Garden"]
 listed_since: "2025-07-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/54769/adminstore/"
+promo_link: "https://www.digistore24.com/product/621615?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/621615"
 language: "de"
 ---
 # Neemöl Masterclass – Für Tiere, Garten und Haut
 
 > Product ID `54769` · Digistore24 productId `621615` · [HTML profile page](../../produkte/neem-l-masterclass-f-r-tiere-garten-und-haut-54769.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $9.38 (Single payment) |
+| Price | $9.39 (Single payment) |
 | Affiliate commission | 20% |
 | Earnings/sale* | $1.88 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | dd530xd |
 | Listed since | 2025-07-01 |
 | Auto-accept affiliates | yes |
-| Categories | Animals & Pets, Health & Fitness, Home & Garden |
+| Categories | Health & Fitness, Animals & Pets, Home & Garden |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/54769/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/621615?aff=adminstore
 - Sales page: https://www.digistore24.com/product/621615
 - Canonical redirect: https://www.digistore24.com/redir/621615/adminstore
 
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Neemöl Masterclass – Für Tiere, Garten und Haut? — Typ: Downloads, Anbieter: dd530xd, gelistet seit 2025-07-01
-- Wie viel kostet es? — 9.380859000000001 USD
+- Wie viel kostet es? — 9.386732 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Neemöl Masterclass – Für Tiere, Garten und Haut Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/621615
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/621615/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Neem%C3%B6l%20Masterclass%20%E2%80%93%20F%C3%BCr%20Tiere%2C%20Garten%20und%20Haut
 
 ## 4. Editorial notes

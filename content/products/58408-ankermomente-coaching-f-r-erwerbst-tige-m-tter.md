@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Profession & Job"]
 listed_since: "2026-08-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/722910?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/722910"
@@ -22,7 +22,7 @@ language: "de"
 # AnkerMomente – Coaching für erwerbstätige Mütter
 
 > Product ID `58408` · Digistore24 productId `722910` · [HTML profile page](../../produkte/ankermomente-coaching-f-r-erwerbst-tige-m-tter-58408.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -86,7 +86,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: AnkerMomente – Coaching für erwerbstätige Mütter Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/722910
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/722910/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=AnkerMomente%20%E2%80%93%20Coaching%20f%C3%BCr%20erwerbst%C3%A4tige%20M%C3%BCtter
 
 ## 4. Editorial notes

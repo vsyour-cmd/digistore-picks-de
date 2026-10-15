@@ -4,40 +4,40 @@ digistore24_product_id: 665920
 title: "Das 5-Minuten-Ausflugs-Kartendeck (Digitaler Download)"
 vendor: "Freizeitblick"
 product_type: "Downloads"
-price: 15.88
+price: 15.89
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 4.76
+earnings_per_sale: 4.77
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Family & Children","Fun & Games","Spiri­tua­lity & Esotericism"]
+categories: ["Spiri­tua­lity & Esotericism","Family & Children","Fun & Games"]
 listed_since: "2026-02-02"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/55639/adminstore/"
+promo_link: "https://www.freizeitblick.de/digitales-produkt-kartendeck-1/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.freizeitblick.de/digitales-produkt-kartendeck-1/"
 language: "de"
 ---
 # Das 5-Minuten-Ausflugs-Kartendeck (Digitaler Download)
 
 > Product ID `55639` · Digistore24 productId `665920` · [HTML profile page](../../produkte/das-5-minuten-ausflugs-kartendeck-digitaler-download-55639.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $15.88 (Single payment) |
+| Price | $15.89 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $4.76 |
+| Earnings/sale* | $4.77 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Freizeitblick |
 | Listed since | 2026-02-02 |
 | Auto-accept affiliates | yes |
-| Categories | Family & Children, Fun & Games, Spiri­tua­lity & Esotericism |
+| Categories | Spiri­tua­lity & Esotericism, Family & Children, Fun & Games |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55639/adminstore/
+- **Promo link (affiliate):** https://www.freizeitblick.de/digitales-produkt-kartendeck-1/?aff=adminstore#aff=adminstore
 - Sales page: https://www.freizeitblick.de/digitales-produkt-kartendeck-1/
 - Canonical redirect: https://www.digistore24.com/redir/665920/adminstore
 
@@ -58,14 +58,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das 5-Minuten-Ausflugs-Kartendeck (Digitaler Download)? — Typ: Downloads, Anbieter: Freizeitblick, gelistet seit 2026-02-02
-- Wie viel kostet es? — 15.87702 USD
+- Wie viel kostet es? — 15.88696 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Das 5-Minuten-Ausflugs-Kartendeck (Digitaler Download) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/665920
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/665920/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Das%205-Minuten-Ausflugs-Kartendeck%20(Digitaler%20Download)
 
 ## 4. Editorial notes

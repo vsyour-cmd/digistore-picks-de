@@ -4,34 +4,34 @@ digistore24_product_id: 64765
 title: "Superlerner Edukation"
 vendor: "Insider-Media"
 product_type: "Member area and video courses"
-price: 98.66
+price: 98.72
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 49.33
+earnings_per_sale: 49.36
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2015-12-03"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/12659/adminstore/"
+promo_link: "https://www.lerntipp.com/superlerner-edukation?aff=adminstore#aff=adminstore"
 sales_page: "https://www.lerntipp.com/superlerner-edukation"
 language: "de"
 ---
 # Superlerner Edukation
 
 > Product ID `12659` · Digistore24 productId `64765` · [HTML profile page](../../produkte/superlerner-edukation-12659.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $98.66 (Single payment) |
+| Price | $98.72 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $49.33 |
+| Earnings/sale* | $49.36 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Insider-Media |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/12659/adminstore/
+- **Promo link (affiliate):** https://www.lerntipp.com/superlerner-edukation?aff=adminstore#aff=adminstore
 - Sales page: https://www.lerntipp.com/superlerner-edukation
 - Canonical redirect: https://www.digistore24.com/redir/64765/adminstore
 
@@ -66,14 +66,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Superlerner Edukation? — Typ: Member area and video courses, Anbieter: Insider-Media, gelistet seit 2015-12-03
-- Wie viel kostet es? — 98.66114400000001 USD
+- Wie viel kostet es? — 98.722912 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Superlerner Edukation Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/64765
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/64765/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Superlerner%20Edukation
 
 ## 4. Editorial notes

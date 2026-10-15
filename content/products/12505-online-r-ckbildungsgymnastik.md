@@ -4,34 +4,34 @@ digistore24_product_id: 84939
 title: "Online Rückbildungsgymnastik"
 vendor: "marketingpro"
 product_type: "Downloads"
-price: 43.13
+price: 43.15
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 17.93
+earnings_per_sale: 17.95
 cart_conversion_pct: 8
 cancel_rate_pct: 1.22
 categories: ["Health & Fitness"]
 listed_since: "2016-06-19"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/12505/adminstore/"
+promo_link: "https://mami-first.de/lpg/?aff=adminstore#aff=adminstore"
 sales_page: "https://mami-first.de/lpg/"
 language: "de"
 ---
 # Online Rückbildungsgymnastik
 
 > Product ID `12505` · Digistore24 productId `84939` · [HTML profile page](../../produkte/online-r-ckbildungsgymnastik-12505.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $43.13 (Single payment) |
+| Price | $43.15 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $17.93 |
+| Earnings/sale* | $17.95 |
 | Cart conversion* | 8% |
 | Cancel rate* | 1.22% |
 | Vendor | marketingpro |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/12505/adminstore/
+- **Promo link (affiliate):** https://mami-first.de/lpg/?aff=adminstore#aff=adminstore
 - Sales page: https://mami-first.de/lpg/
 - Vendor affiliate support: http://mami-first.de/werde-affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/84939/adminstore
@@ -97,14 +97,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online Rückbildungsgymnastik? — Typ: Downloads, Anbieter: marketingpro, gelistet seit 2016-06-19
-- Wie viel kostet es? — 43.125117 USD
+- Wie viel kostet es? — 43.152116 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Online Rückbildungsgymnastik Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/84939
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/84939/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Online%20R%C3%BCckbildungsgymnastik
 
 ## 4. Editorial notes

@@ -4,7 +4,7 @@ digistore24_product_id: 262572
 title: "Volleyball-E-Book: Block- und Feldverteidigung"
 vendor: "volleyballfreak"
 product_type: "E-books"
-price: 9.39
+price: 9.4
 currency: "USD"
 affiliate_commission_pct: 30
 earnings_per_sale: 2.82
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Sport"]
 listed_since: "2019-03-02"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/28287/adminstore/"
+promo_link: "https://www.volleyballfreak.de/volleyball-e-book-block-und-feldverteidigung?aff=adminstore#aff=adminstore"
 sales_page: "https://www.volleyballfreak.de/volleyball-e-book-block-und-feldverteidigung"
 language: "de"
 ---
 # Volleyball-E-Book: Block- und Feldverteidigung
 
 > Product ID `28287` · Digistore24 productId `262572` · [HTML profile page](../../produkte/volleyball-e-book-block-und-feldverteidigung-28287.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $9.39 (Single payment) |
+| Price | $9.40 (Single payment) |
 | Affiliate commission | 30% |
 | Earnings/sale* | $2.82 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/28287/adminstore/
+- **Promo link (affiliate):** https://www.volleyballfreak.de/volleyball-e-book-block-und-feldverteidigung?aff=adminstore#aff=adminstore
 - Sales page: https://www.volleyballfreak.de/volleyball-e-book-block-und-feldverteidigung
 - Canonical redirect: https://www.digistore24.com/redir/262572/adminstore
 
@@ -76,14 +76,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Volleyball-E-Book: Block- und Feldverteidigung? — Typ: E-books, Anbieter: volleyballfreak, gelistet seit 2019-03-02
-- Wie viel kostet es? — 9.392040000000001 USD
+- Wie viel kostet es? — 9.397920000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Volleyball-E-Book: Block- und Feldverteidigung Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/262572
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/262572/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Volleyball-E-Book%3A%20Block-%20und%20Feldverteidigung
 
 ## 4. Editorial notes

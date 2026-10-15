@@ -4,34 +4,34 @@ digistore24_product_id: 312567
 title: "Deutsch lernen mit der Sprachblock-Methode"
 vendor: "Sprachheld"
 product_type: "Member area and video courses"
-price: 93.01
+price: 93.07
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 27.91
+earnings_per_sale: 27.93
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Languages"]
 listed_since: "2020-03-12"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/41557/adminstore/"
+promo_link: "https://www.sprachheld.de/deutsch-challenge-deu/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.sprachheld.de/deutsch-challenge-deu/"
 language: "de"
 ---
 # Deutsch lernen mit der Sprachblock-Methode
 
 > Product ID `41557` · Digistore24 productId `312567` · [HTML profile page](../../produkte/deutsch-lernen-mit-der-sprachblock-methode-41557.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $93.01 (Single payment) |
+| Price | $93.07 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $27.91 |
+| Earnings/sale* | $27.93 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Sprachheld |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/41557/adminstore/
+- **Promo link (affiliate):** https://www.sprachheld.de/deutsch-challenge-deu/?aff=adminstore#aff=adminstore
 - Sales page: https://www.sprachheld.de/deutsch-challenge-deu/
 - Vendor affiliate support: https://www.sprachheld.de/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/312567/adminstore
@@ -112,14 +112,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Deutsch lernen mit der Sprachblock-Methode? — Typ: Member area and video courses, Anbieter: Sprachheld, gelistet seit 2020-03-12
-- Wie viel kostet es? — 93.014739 USD
+- Wie viel kostet es? — 93.072972 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Deutsch lernen mit der Sprachblock-Methode Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/312567
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/312567/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Deutsch%20lernen%20mit%20der%20Sprachblock-Methode
 
 ## 4. Editorial notes

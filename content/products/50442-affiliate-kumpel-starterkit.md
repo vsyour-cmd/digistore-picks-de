@@ -4,7 +4,7 @@ digistore24_product_id: 555447
 title: "Affiliate Kumpel Starterkit"
 vendor: "digitalesonlinebusiness"
 product_type: "Member area and video courses"
-price: 10.06
+price: 10.07
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 5.03
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2024-06-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://www.altersvorsorge-vierzigplus-incomebooster.de/affiliate-starterkit/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.altersvorsorge-vierzigplus-incomebooster.de/affiliate-starterkit/"
@@ -22,14 +22,14 @@ language: "de"
 # Affiliate Kumpel Starterkit
 
 > Product ID `50442` · Digistore24 productId `555447` · [HTML profile page](../../produkte/affiliate-kumpel-starterkit-50442.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $10.06 (Single payment) |
+| Price | $10.07 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $5.03 |
 | Cart conversion* | — |
@@ -59,14 +59,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Affiliate Kumpel Starterkit? — Typ: Member area and video courses, Anbieter: digitalesonlinebusiness, gelistet seit 2024-06-04
-- Wie viel kostet es? — 10.0629 USD
+- Wie viel kostet es? — 10.0692 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Affiliate Kumpel Starterkit Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/555447
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/555447/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Affiliate%20Kumpel%20Starterkit
 
 ## 4. Editorial notes

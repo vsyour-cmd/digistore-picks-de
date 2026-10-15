@@ -4,16 +4,16 @@ digistore24_product_id: 364920
 title: "TraceFunnels - Das Funnel Tracking Tool 2021"
 vendor: "TraceFunnels"
 product_type: "Member area and video courses"
-price: 186.72
+price: 186.84
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 56.02
+earnings_per_sale: 56.05
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2020-12-28"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://tracefunnels.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://tracefunnels.com/"
@@ -22,16 +22,16 @@ language: "de"
 # TraceFunnels - Das Funnel Tracking Tool 2021
 
 > Product ID `33084` · Digistore24 productId `364920` · [HTML profile page](../../produkte/tracefunnels-das-funnel-tracking-tool-2021-33084.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $186.72 (Subscription) |
+| Price | $186.84 (Subscription) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $56.02 |
+| Earnings/sale* | $56.05 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | TraceFunnels |
@@ -66,14 +66,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist TraceFunnels - Das Funnel Tracking Tool 2021? — Typ: Member area and video courses, Anbieter: TraceFunnels, gelistet seit 2020-12-28
-- Wie viel kostet es? — 186.7227 USD
+- Wie viel kostet es? — 186.8396 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: TraceFunnels - Das Funnel Tracking Tool 2021 Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/364920
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/364920/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=TraceFunnels%20-%20Das%20Funnel%20Tracking%20Tool%202021
 
 ## 4. Editorial notes

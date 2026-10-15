@@ -12,17 +12,17 @@ cart_conversion_pct: 24
 cancel_rate_pct: 1.37
 categories: ["Online Marketing & E-Business"]
 listed_since: "2020-05-03"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/33035/adminstore/"
+promo_link: "https://affiliatesecrets.de?aff=adminstore#aff=adminstore"
 sales_page: "https://affiliatesecrets.de"
 language: "de"
 ---
 # Affiliate Secrets
 
 > Product ID `33035` · Digistore24 productId `324686` · [HTML profile page](../../produkte/affiliate-secrets-33035.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/33035/adminstore/
+- **Promo link (affiliate):** https://affiliatesecrets.de?aff=adminstore#aff=adminstore
 - Sales page: https://affiliatesecrets.de
 - Vendor affiliate support: https://affiliatesecrets.de/partnerprogramm
 - Canonical redirect: https://www.digistore24.com/redir/324686/adminstore
@@ -87,7 +87,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Affiliate Secrets Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/324686
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/324686/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Affiliate%20Secrets
 
 ## 4. Editorial notes

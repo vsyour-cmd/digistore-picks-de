@@ -4,16 +4,16 @@ digistore24_product_id: 416536
 title: "Torsten Jaeger Partnerprogramm"
 vendor: "sattelitevendor"
 product_type: "Member area and video courses"
-price: 70.27
+price: 70.32
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 69.6
+earnings_per_sale: 69.65
 cart_conversion_pct: 8
 cancel_rate_pct: 1.87
 categories: ["Online Marketing & E-Business"]
 listed_since: "2021-11-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://7onliners.com?aff=adminstore#aff=adminstore"
 sales_page: "https://7onliners.com"
@@ -22,16 +22,16 @@ language: "de"
 # Torsten Jaeger Partnerprogramm
 
 > Product ID `34362` · Digistore24 productId `416536` · [HTML profile page](../../produkte/torsten-jaeger-partnerprogramm-34362.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $70.27 (Single payment, Installment) |
+| Price | $70.32 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $69.60 |
+| Earnings/sale* | $69.65 |
 | Cart conversion* | 8% |
 | Cancel rate* | 1.87% |
 | Vendor | sattelitevendor |
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Torsten Jaeger Partnerprogramm? — Typ: Member area and video courses, Anbieter: sattelitevendor, gelistet seit 2021-11-17
-- Wie viel kostet es? — 70.272585 USD
+- Wie viel kostet es? — 70.31658 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Torsten Jaeger Partnerprogramm Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/416536
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/416536/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Torsten%20Jaeger%20Partnerprogramm
 
 ## 4. Editorial notes

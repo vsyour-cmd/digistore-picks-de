@@ -4,16 +4,16 @@ digistore24_product_id: 328416
 title: "Vorlagen für Immobilien Vermieter + Investoren (Stand: 2021)"
 vendor: "grundbuchwissen"
 product_type: "Downloads"
-price: 37.49
+price: 37.51
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 18.75
+earnings_per_sale: 18.76
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2020-05-25"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://grundbuchwissen.de/xxl-vermieter-vorlagenpaket?aff=adminstore#aff=adminstore"
 sales_page: "https://grundbuchwissen.de/xxl-vermieter-vorlagenpaket"
@@ -22,16 +22,16 @@ language: "de"
 # Vorlagen für Immobilien Vermieter + Investoren (Stand: 2021)
 
 > Product ID `34032` · Digistore24 productId `328416` · [HTML profile page](../../produkte/vorlagen-f-r-immobilien-vermieter-investoren-stand-2021-34032.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $37.49 (Single payment) |
+| Price | $37.51 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $18.75 |
+| Earnings/sale* | $18.76 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | grundbuchwissen |
@@ -96,14 +96,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Vorlagen für Immobilien Vermieter + Investoren (Stand: 2021)? — Typ: Downloads, Anbieter: grundbuchwissen, gelistet seit 2020-05-25
-- Wie viel kostet es? — 37.489893 USD
+- Wie viel kostet es? — 37.513364 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Vorlagen für Immobilien Vermieter + Investoren (Stand: 2021) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/328416
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/328416/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Vorlagen%20f%C3%BCr%20Immobilien%20Vermieter%20%2B%20Investoren%20(Stand%3A%202021)
 
 ## 4. Editorial notes

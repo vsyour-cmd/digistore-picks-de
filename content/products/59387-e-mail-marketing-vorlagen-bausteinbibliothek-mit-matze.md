@@ -4,32 +4,32 @@ digistore24_product_id: 733943
 title: "E-Mail-Marketing-Vorlagen – Bausteinbibliothek mit Matze"
 vendor: "einfachmitmatze"
 product_type: "Downloads"
-price: 9.38
+price: 9.39
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 4.7
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Business & Investment","Email Marketing","Online Marketing & E-Business"]
+categories: ["Business & Investment","Online Marketing & E-Business","Email Marketing"]
 listed_since: "2026-09-19"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/59387/adminstore/"
+promo_link: "https://einfachmitmatze.de/email-verkaufsablauf/zusatzpaket/?aff=adminstore#aff=adminstore"
 sales_page: "https://einfachmitmatze.de/email-verkaufsablauf/zusatzpaket/"
 language: "de"
 ---
 # E-Mail-Marketing-Vorlagen – Bausteinbibliothek mit Matze
 
 > Product ID `59387` · Digistore24 productId `733943` · [HTML profile page](../../produkte/e-mail-marketing-vorlagen-bausteinbibliothek-mit-matze-59387.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $9.38 (Single payment) |
+| Price | $9.39 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $4.70 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | einfachmitmatze |
 | Listed since | 2026-09-19 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Email Marketing, Online Marketing & E-Business |
+| Categories | Business & Investment, Online Marketing & E-Business, Email Marketing |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59387/adminstore/
+- **Promo link (affiliate):** https://einfachmitmatze.de/email-verkaufsablauf/zusatzpaket/?aff=adminstore#aff=adminstore
 - Sales page: https://einfachmitmatze.de/email-verkaufsablauf/zusatzpaket/
 - Vendor affiliate support: https://einfachmitmatze.de/partner-733943/
 - Canonical redirect: https://www.digistore24.com/redir/733943/adminstore
@@ -74,14 +74,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist E-Mail-Marketing-Vorlagen – Bausteinbibliothek mit Matze? — Typ: Downloads, Anbieter: einfachmitmatze, gelistet seit 2026-09-19
-- Wie viel kostet es? — 9.380859000000001 USD
+- Wie viel kostet es? — 9.386732 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: E-Mail-Marketing-Vorlagen – Bausteinbibliothek mit Matze Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/733943
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/733943/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=E-Mail-Marketing-Vorlagen%20%E2%80%93%20Bausteinbibliothek%20mit%20Matze
 
 ## 4. Editorial notes

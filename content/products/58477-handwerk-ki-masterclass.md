@@ -4,34 +4,34 @@ digistore24_product_id: 722679
 title: "Handwerk-KI Masterclass"
 vendor: "lietmann49565f245"
 product_type: "Member area and video courses"
-price: 233.95
+price: 234.1
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 23.39
+earnings_per_sale: 23.41
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2026-08-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.checkout-ds24.com/redir/58477/adminstore/"
+promo_link: "https://handwerk-ki.coachy.net/lp/k-i-im-buroalltag-2?aff=adminstore#aff=adminstore"
 sales_page: "https://handwerk-ki.coachy.net/lp/k-i-im-buroalltag-2"
 language: "de"
 ---
 # Handwerk-KI Masterclass
 
 > Product ID `58477` · Digistore24 productId `722679` · [HTML profile page](../../produkte/handwerk-ki-masterclass-58477.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $233.95 (Subscription) |
+| Price | $234.10 (Subscription) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $23.39 |
+| Earnings/sale* | $23.41 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | lietmann49565f245 |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/redir/58477/adminstore/
+- **Promo link (affiliate):** https://handwerk-ki.coachy.net/lp/k-i-im-buroalltag-2?aff=adminstore#aff=adminstore
 - Sales page: https://handwerk-ki.coachy.net/lp/k-i-im-buroalltag-2
 - Canonical redirect: https://www.digistore24.com/redir/722679/adminstore
 
@@ -82,14 +82,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Handwerk-KI Masterclass? — Typ: Member area and video courses, Anbieter: lietmann49565f245, gelistet seit 2026-08-20
-- Wie viel kostet es? — 233.95124400000003 USD
+- Wie viel kostet es? — 234.097712 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Handwerk-KI Masterclass Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/722679
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/722679/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Handwerk-KI%20Masterclass
 
 ## 4. Editorial notes

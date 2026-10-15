@@ -4,7 +4,7 @@ digistore24_product_id: 314832
 title: "Chakra Mandala Malbuch und Praxislehre - eBook"
 vendor: "AnjaZawadzki"
 product_type: "E-books"
-price: 7.31
+price: 7.32
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 3.66
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2020-03-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/35137/adminstore/"
+promo_link: "https://anjazawadzki.com/chakra-mandala-malbuch-und-praxislehre-fuer-erwachsene/?aff=adminstore#aff=adminstore"
 sales_page: "https://anjazawadzki.com/chakra-mandala-malbuch-und-praxislehre-fuer-erwachsene/"
 language: "de"
 ---
 # Chakra Mandala Malbuch und Praxislehre - eBook
 
 > Product ID `35137` · Digistore24 productId `314832` · [HTML profile page](../../produkte/chakra-mandala-malbuch-und-praxislehre-ebook-35137.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $7.31 (Single payment) |
+| Price | $7.32 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $3.66 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/35137/adminstore/
+- **Promo link (affiliate):** https://anjazawadzki.com/chakra-mandala-malbuch-und-praxislehre-fuer-erwachsene/?aff=adminstore#aff=adminstore
 - Sales page: https://anjazawadzki.com/chakra-mandala-malbuch-und-praxislehre-fuer-erwachsene/
 - Canonical redirect: https://www.digistore24.com/redir/314832/adminstore
 
@@ -74,14 +74,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Chakra Mandala Malbuch und Praxislehre - eBook? — Typ: E-books, Anbieter: AnjaZawadzki, gelistet seit 2020-03-23
-- Wie viel kostet es? — 7.312374000000001 USD
+- Wie viel kostet es? — 7.316952000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Chakra Mandala Malbuch und Praxislehre - eBook Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/314832
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/314832/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Chakra%20Mandala%20Malbuch%20und%20Praxislehre%20-%20eBook
 
 ## 4. Editorial notes

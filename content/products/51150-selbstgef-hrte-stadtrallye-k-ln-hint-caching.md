@@ -4,16 +4,16 @@ digistore24_product_id: 461538
 title: "Selbstgeführte Stadtrallye Köln | Hint-Caching"
 vendor: "hintcaching"
 product_type: "Member area and video courses"
-price: 18.56
+price: 18.57
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 8.07
+earnings_per_sale: 8.08
 cart_conversion_pct: 10
 cancel_rate_pct: 0.5
-categories: ["Fun & Games","Travel & Culture"]
+categories: ["Travel & Culture","Fun & Games"]
 listed_since: "2022-09-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://hint-caching.de/stadtrallye-koeln/?aff=adminstore#aff=adminstore"
 sales_page: "https://hint-caching.de/stadtrallye-koeln/"
@@ -22,22 +22,22 @@ language: "de"
 # Selbstgeführte Stadtrallye Köln | Hint-Caching
 
 > Product ID `51150` · Digistore24 productId `461538` · [HTML profile page](../../produkte/selbstgef-hrte-stadtrallye-k-ln-hint-caching-51150.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $18.56 (Single payment) |
+| Price | $18.57 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $8.07 |
+| Earnings/sale* | $8.08 |
 | Cart conversion* | 10% |
 | Cancel rate* | 0.5% |
 | Vendor | hintcaching |
 | Listed since | 2022-09-22 |
 | Auto-accept affiliates | yes |
-| Categories | Fun & Games, Travel & Culture |
+| Categories | Travel & Culture, Fun & Games |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -87,14 +87,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Selbstgeführte Stadtrallye Köln | Hint-Caching? — Typ: Member area and video courses, Anbieter: hintcaching, gelistet seit 2022-09-22
-- Wie viel kostet es? — 18.560460000000003 USD
+- Wie viel kostet es? — 18.572080000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Selbstgeführte Stadtrallye Köln | Hint-Caching Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/461538
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/461538/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Selbstgef%C3%BChrte%20Stadtrallye%20K%C3%B6ln%20%7C%20Hint-Caching
 
 ## 4. Editorial notes

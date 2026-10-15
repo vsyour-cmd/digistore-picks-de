@@ -4,34 +4,34 @@ digistore24_product_id: 558771
 title: "MONEY³ Mentoring von Daniel Weinstock | Akademie"
 vendor: "Weinstock777"
 product_type: "Member area and video courses"
-price: 1321.59
+price: 1322.42
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 264.32
+earnings_per_sale: 264.48
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2024-06-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/48969/adminstore/"
+promo_link: "https://go.weinstockacademy.com/geld?aff=adminstore#aff=adminstore"
 sales_page: "https://go.weinstockacademy.com/geld"
 language: "de"
 ---
 # MONEY³ Mentoring von Daniel Weinstock | Akademie
 
 > Product ID `48969` · Digistore24 productId `558771` · [HTML profile page](../../produkte/money-mentoring-von-daniel-weinstock-akademie-48969.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1321.59 (Single payment, Installment) |
+| Price | $1322.42 (Single payment, Installment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $264.32 |
+| Earnings/sale* | $264.48 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Weinstock777 |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/48969/adminstore/
+- **Promo link (affiliate):** https://go.weinstockacademy.com/geld?aff=adminstore#aff=adminstore
 - Sales page: https://go.weinstockacademy.com/geld
 - Canonical redirect: https://www.digistore24.com/redir/558771/adminstore
 
@@ -77,14 +77,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist MONEY³ Mentoring von Daniel Weinstock | Akademie? — Typ: Member area and video courses, Anbieter: Weinstock777, gelistet seit 2024-06-27
-- Wie viel kostet es? — 1321.5942 USD
+- Wie viel kostet es? — 1322.4216000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: MONEY³ Mentoring von Daniel Weinstock | Akademie Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/558771
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/558771/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=MONEY%C2%B3%20Mentoring%20von%20Daniel%20Weinstock%20%7C%20Akademie
 
 ## 4. Editorial notes

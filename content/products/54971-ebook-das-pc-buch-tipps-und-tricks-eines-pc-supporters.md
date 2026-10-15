@@ -4,34 +4,34 @@ digistore24_product_id: 651698
 title: "EBook \"Das PC-Buch / Tipps und Tricks eines PC-Supporters\""
 vendor: "Gismon"
 product_type: "Downloads"
-price: 28.18
+price: 28.19
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 8.45
+earnings_per_sale: 8.46
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet"]
 listed_since: "2025-11-28"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/54971/adminstore/"
+promo_link: "https://www.code3175.com/daspcbuch?aff=adminstore#aff=adminstore"
 sales_page: "https://www.code3175.com/daspcbuch"
 language: "de"
 ---
 # EBook "Das PC-Buch / Tipps und Tricks eines PC-Supporters"
 
 > Product ID `54971` · Digistore24 productId `651698` · [HTML profile page](../../produkte/ebook-das-pc-buch-tipps-und-tricks-eines-pc-supporters-54971.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $28.18 (Single payment) |
+| Price | $28.19 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $8.45 |
+| Earnings/sale* | $8.46 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Gismon |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/54971/adminstore/
+- **Promo link (affiliate):** https://www.code3175.com/daspcbuch?aff=adminstore#aff=adminstore
 - Sales page: https://www.code3175.com/daspcbuch
 - Canonical redirect: https://www.digistore24.com/redir/651698/adminstore
 
@@ -73,14 +73,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist EBook "Das PC-Buch / Tipps und Tricks eines PC-Supporters"? — Typ: Downloads, Anbieter: Gismon, gelistet seit 2025-11-28
-- Wie viel kostet es? — 28.17612 USD
+- Wie viel kostet es? — 28.19376 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: EBook "Das PC-Buch / Tipps und Tricks eines PC-Supporters" Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/651698
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/651698/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=EBook%20%22Das%20PC-Buch%20%2F%20Tipps%20und%20Tricks%20eines%20PC-Supporters%22
 
 ## 4. Editorial notes

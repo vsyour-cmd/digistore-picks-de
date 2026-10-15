@@ -4,16 +4,16 @@ digistore24_product_id: 77817
 title: "Das große E-Book Beziehungspaket [E-Books]"
 vendor: "rheinrost"
 product_type: "E-books"
-price: 31.24
+price: 31.26
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 15.62
+earnings_per_sale: 15.63
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Dating, Relationships & Romance","Family & Children","Personal Development"]
+categories: ["Personal Development","Dating, Relationships & Romance","Family & Children"]
 listed_since: "2016-04-13"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.beziehungsratgeber.net/shop/e-book-paket/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.beziehungsratgeber.net/shop/e-book-paket/"
@@ -22,22 +22,22 @@ language: "de"
 # Das große E-Book Beziehungspaket [E-Books]
 
 > Product ID `25596` · Digistore24 productId `77817` · [HTML profile page](../../produkte/das-gro-e-e-book-beziehungspaket-e-books-25596.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $31.24 (Single payment) |
+| Price | $31.26 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $15.62 |
+| Earnings/sale* | $15.63 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | rheinrost |
 | Listed since | 2016-04-13 |
 | Auto-accept affiliates | yes |
-| Categories | Dating, Relationships & Romance, Family & Children, Personal Development |
+| Categories | Personal Development, Dating, Relationships & Romance, Family & Children |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -90,14 +90,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das große E-Book Beziehungspaket [E-Books]? — Typ: E-books, Anbieter: rheinrost, gelistet seit 2016-04-13
-- Wie viel kostet es? — 31.239714000000003 USD
+- Wie viel kostet es? — 31.259272000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Das große E-Book Beziehungspaket [E-Books] Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/77817
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/77817/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Das%20gro%C3%9Fe%20E-Book%20Beziehungspaket%20%5BE-Books%5D
 
 ## 4. Editorial notes

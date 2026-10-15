@@ -4,16 +4,16 @@ digistore24_product_id: 735275
 title: "E-Mails, die wirken"
 vendor: "ima806"
 product_type: "Member area and video courses"
-price: 91.14
+price: 91.19
 currency: "USD"
 affiliate_commission_pct: 33
-earnings_per_sale: 30.08
+earnings_per_sale: 30.1
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Email Marketing","Online Marketing & E-Business"]
+categories: ["Online Marketing & E-Business","Email Marketing"]
 listed_since: "2026-09-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://markwart-academy.de/emdiwir/?aff=adminstore#aff=adminstore"
 sales_page: "https://markwart-academy.de/emdiwir/"
@@ -22,22 +22,22 @@ language: "de"
 # E-Mails, die wirken
 
 > Product ID `59786` · Digistore24 productId `735275` · [HTML profile page](../../produkte/e-mails-die-wirken-59786.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $91.14 (Single payment) |
+| Price | $91.19 (Single payment) |
 | Affiliate commission | 33% |
-| Earnings/sale* | $30.08 |
+| Earnings/sale* | $30.10 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ima806 |
 | Listed since | 2026-09-26 |
 | Auto-accept affiliates | yes |
-| Categories | Email Marketing, Online Marketing & E-Business |
+| Categories | Online Marketing & E-Business, Email Marketing |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -66,14 +66,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist E-Mails, die wirken? — Typ: Member area and video courses, Anbieter: ima806, gelistet seit 2026-09-26
-- Wie viel kostet es? — 91.13633100000001 USD
+- Wie viel kostet es? — 91.19338800000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: E-Mails, die wirken Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/735275
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/735275/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=E-Mails%2C%20die%20wirken
 
 ## 4. Editorial notes

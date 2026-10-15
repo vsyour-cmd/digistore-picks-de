@@ -4,32 +4,32 @@ digistore24_product_id: 657496
 title: "Azubi Money Hacks – Premium-Guide + Budget-Excel (sparwerk96"
 vendor: "Sparwerk96"
 product_type: "Downloads"
-price: 9.39
+price: 9.4
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 0.94
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Finances","Personal Development"]
+categories: ["Personal Development","Education","Finances"]
 listed_since: "2025-12-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/55027/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/657496?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/657496"
 language: "de"
 ---
 # Azubi Money Hacks – Premium-Guide + Budget-Excel (sparwerk96
 
 > Product ID `55027` · Digistore24 productId `657496` · [HTML profile page](../../produkte/azubi-money-hacks-premium-guide-budget-excel-sparwerk96-55027.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $9.39 (Single payment) |
+| Price | $9.40 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $0.94 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | Sparwerk96 |
 | Listed since | 2025-12-26 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Finances, Personal Development |
+| Categories | Personal Development, Education, Finances |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55027/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/657496?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/657496
 - Canonical redirect: https://www.digistore24.com/redir/657496/adminstore
 
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Azubi Money Hacks – Premium-Guide + Budget-Excel (sparwerk96? — Typ: Downloads, Anbieter: Sparwerk96, gelistet seit 2025-12-26
-- Wie viel kostet es? — 9.392040000000001 USD
+- Wie viel kostet es? — 9.397920000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Azubi Money Hacks – Premium-Guide + Budget-Excel (sparwerk96 Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/657496
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/657496/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Azubi%20Money%20Hacks%20%E2%80%93%20Premium-Guide%20%2B%20Budget-Excel%20(sparwerk96
 
 ## 4. Editorial notes

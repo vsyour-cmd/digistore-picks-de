@@ -4,16 +4,16 @@ digistore24_product_id: 662904
 title: "Onlinekurs Lektinfreie Ernährung leichtgemacht!"
 vendor: "actrice21"
 product_type: "Member area and video courses"
-price: 128.73
+price: 128.81
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 32.18
+earnings_per_sale: 32.2
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Food & Drink","Health & Fitness"]
+categories: ["Health & Fitness","Food & Drink"]
 listed_since: "2026-01-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://lektin-frei.de/lp/d-lektinfrei-onlinekurs/?aff=adminstore#aff=adminstore"
 sales_page: "https://lektin-frei.de/lp/d-lektinfrei-onlinekurs/"
@@ -22,22 +22,22 @@ language: "de"
 # Onlinekurs Lektinfreie Ernährung leichtgemacht!
 
 > Product ID `56186` · Digistore24 productId `662904` · [HTML profile page](../../produkte/onlinekurs-lektinfreie-ern-hrung-leichtgemacht-56186.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $128.73 (Single payment) |
+| Price | $128.81 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $32.18 |
+| Earnings/sale* | $32.20 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | actrice21 |
 | Listed since | 2026-01-20 |
 | Auto-accept affiliates | yes |
-| Categories | Food & Drink, Health & Fitness |
+| Categories | Health & Fitness, Food & Drink |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -91,14 +91,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Onlinekurs Lektinfreie Ernährung leichtgemacht!? — Typ: Member area and video courses, Anbieter: actrice21, gelistet seit 2026-01-20
-- Wie viel kostet es? — 128.726853 USD
+- Wie viel kostet es? — 128.807444 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Onlinekurs Lektinfreie Ernährung leichtgemacht! Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/662904
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/662904/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Onlinekurs%20Lektinfreie%20Ern%C3%A4hrung%20leichtgemacht!
 
 ## 4. Editorial notes

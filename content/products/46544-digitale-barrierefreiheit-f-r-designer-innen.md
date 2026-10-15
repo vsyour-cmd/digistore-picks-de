@@ -4,16 +4,16 @@ digistore24_product_id: 520506
 title: "Digitale Barrierefreiheit für Designer*innen"
 vendor: "GehirngerechtDigitalGmbH"
 product_type: "Member area and video courses"
-price: 272.48
+price: 272.65
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 68.13
+earnings_per_sale: 68.17
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2023-10-12"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://gehirngerecht.digital/wissen/onlinekurse-digitale-barrierefreiheit/designer/?aff=adminstore#aff=adminstore"
 sales_page: "https://gehirngerecht.digital/wissen/onlinekurse-digitale-barrierefreiheit/designer/"
@@ -22,16 +22,16 @@ language: "de"
 # Digitale Barrierefreiheit für Designer*innen
 
 > Product ID `46544` · Digistore24 productId `520506` · [HTML profile page](../../produkte/digitale-barrierefreiheit-f-r-designer-innen-46544.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $272.48 (Single payment) |
+| Price | $272.65 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $68.13 |
+| Earnings/sale* | $68.17 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | GehirngerechtDigitalGmbH |
@@ -95,14 +95,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Digitale Barrierefreiheit für Designer*innen? — Typ: Member area and video courses, Anbieter: GehirngerechtDigitalGmbH, gelistet seit 2023-10-12
-- Wie viel kostet es? — 272.48097 USD
+- Wie viel kostet es? — 272.65156 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Digitale Barrierefreiheit für Designer*innen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/520506
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/520506/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Digitale%20Barrierefreiheit%20f%C3%BCr%20Designer*innen
 
 ## 4. Editorial notes

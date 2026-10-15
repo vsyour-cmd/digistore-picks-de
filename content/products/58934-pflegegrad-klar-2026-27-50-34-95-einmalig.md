@@ -4,16 +4,16 @@ digistore24_product_id: 729268
 title: "Pflegegrad-klar 2026/27 — 50 %, 34,95 € einmalig"
 vendor: "lvlBoZzlvl"
 product_type: "E-books"
-price: 36.52
+price: 36.54
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 18.26
+earnings_per_sale: 18.27
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2026-09-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://pflegegrad-klar.pages.dev/?aff=adminstore#aff=adminstore"
 sales_page: "https://pflegegrad-klar.pages.dev/"
@@ -22,16 +22,16 @@ language: "de"
 # Pflegegrad-klar 2026/27 — 50 %, 34,95 € einmalig
 
 > Product ID `58934` · Digistore24 productId `729268` · [HTML profile page](../../produkte/pflegegrad-klar-2026-27-50-34-95-einmalig-58934.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $36.52 (Single payment) |
+| Price | $36.54 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $18.26 |
+| Earnings/sale* | $18.27 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | lvlBoZzlvl |
@@ -98,14 +98,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Pflegegrad-klar 2026/27 — 50 %, 34,95 € einmalig? — Typ: E-books, Anbieter: lvlBoZzlvl, gelistet seit 2026-09-05
-- Wie viel kostet es? — 36.517146 USD
+- Wie viel kostet es? — 36.540008 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Pflegegrad-klar 2026/27 — 50 %, 34,95 € einmalig Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/729268
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/729268/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Pflegegrad-klar%202026%2F27%20%E2%80%94%2050%20%25%2C%2034%2C95%20%E2%82%AC%20einmalig
 
 ## 4. Editorial notes

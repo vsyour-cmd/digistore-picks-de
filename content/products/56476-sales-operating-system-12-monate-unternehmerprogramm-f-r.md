@@ -4,16 +4,16 @@ digistore24_product_id: 687033
 title: "Sales Operating System® – 12 Monate Unternehmerprogramm für"
 vendor: "Activent"
 product_type: "Member area and video courses"
-price: 555.7
+price: 556.04
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 222.28
+earnings_per_sale: 222.42
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-04-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.verkaufen-mit-system.com?aff=adminstore#aff=adminstore"
 sales_page: "https://www.verkaufen-mit-system.com"
@@ -22,16 +22,16 @@ language: "de"
 # Sales Operating System® – 12 Monate Unternehmerprogramm für
 
 > Product ID `56476` · Digistore24 productId `687033` · [HTML profile page](../../produkte/sales-operating-system-12-monate-unternehmerprogramm-f-r-56476.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $555.70 (Subscription) |
+| Price | $556.04 (Subscription) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $222.28 |
+| Earnings/sale* | $222.42 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Activent |
@@ -89,14 +89,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Sales Operating System® – 12 Monate Unternehmerprogramm für? — Typ: Member area and video courses, Anbieter: Activent, gelistet seit 2026-04-23
-- Wie viel kostet es? — 555.6957000000001 USD
+- Wie viel kostet es? — 556.0436 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Sales Operating System® – 12 Monate Unternehmerprogramm für Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/687033
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/687033/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Sales%20Operating%20System%C2%AE%20%E2%80%93%2012%20Monate%20Unternehmerprogramm%20f%C3%BCr
 
 ## 4. Editorial notes

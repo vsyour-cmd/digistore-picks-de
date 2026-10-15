@@ -4,16 +4,16 @@ digistore24_product_id: 120183
 title: "Chi statt Botox - die Faltenkiller-Methode"
 vendor: "Zdena75"
 product_type: "Member area and video courses"
-price: 130.81
+price: 130.89
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 31.16
+earnings_per_sale: 31.18
 cart_conversion_pct: 14
 cancel_rate_pct: 0.77
 categories: ["Health & Fitness"]
 listed_since: "2017-02-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://chi-statt-botox.com/online-kurs/?aff=adminstore#aff=adminstore"
 sales_page: "https://chi-statt-botox.com/online-kurs/"
@@ -22,16 +22,16 @@ language: "de"
 # Chi statt Botox - die Faltenkiller-Methode
 
 > Product ID `27118` · Digistore24 productId `120183` · [HTML profile page](../../produkte/chi-statt-botox-die-faltenkiller-methode-27118.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $130.81 (Single payment) |
+| Price | $130.89 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $31.16 |
+| Earnings/sale* | $31.18 |
 | Cart conversion* | 14% |
 | Cancel rate* | 0.77% |
 | Vendor | Zdena75 |
@@ -86,14 +86,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Chi statt Botox - die Faltenkiller-Methode? — Typ: Member area and video courses, Anbieter: Zdena75, gelistet seit 2017-02-16
-- Wie viel kostet es? — 130.806519 USD
+- Wie viel kostet es? — 130.888412 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Chi statt Botox - die Faltenkiller-Methode Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/120183
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/120183/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Chi%20statt%20Botox%20-%20die%20Faltenkiller-Methode
 
 ## 4. Editorial notes

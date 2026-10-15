@@ -4,16 +4,16 @@ digistore24_product_id: 722598
 title: "All in Paket"
 vendor: "SinaDieterle"
 product_type: "E-books"
-price: 240.23
+price: 240.39
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 72.07
+earnings_per_sale: 72.12
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Dating, Relationships & Romance","Personal Development"]
+categories: ["Personal Development","Dating, Relationships & Romance"]
 listed_since: "2026-08-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://beziehungscoach-online.de/e-books/?aff=adminstore#aff=adminstore"
 sales_page: "https://beziehungscoach-online.de/e-books/"
@@ -22,22 +22,22 @@ language: "de"
 # All in Paket
 
 > Product ID `58436` · Digistore24 productId `722598` · [HTML profile page](../../produkte/all-in-paket-58436.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $240.23 (Single payment) |
+| Price | $240.39 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $72.07 |
+| Earnings/sale* | $72.12 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SinaDieterle |
 | Listed since | 2026-08-17 |
 | Auto-accept affiliates | yes |
-| Categories | Dating, Relationships & Romance, Personal Development |
+| Categories | Personal Development, Dating, Relationships & Romance |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -94,14 +94,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist All in Paket? — Typ: E-books, Anbieter: SinaDieterle, gelistet seit 2026-08-17
-- Wie viel kostet es? — 240.23496600000004 USD
+- Wie viel kostet es? — 240.38536800000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: All in Paket Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/722598
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/722598/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=All%20in%20Paket
 
 ## 4. Editorial notes

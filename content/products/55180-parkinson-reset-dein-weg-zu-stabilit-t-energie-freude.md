@@ -4,16 +4,16 @@ digistore24_product_id: 645643
 title: "Parkinson RESET dein Weg zu Stabilität, Energie, Freude"
 vendor: "Erfolg2026"
 product_type: "E-books"
-price: 46.88
+price: 46.91
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 9.38
+earnings_per_sale: 9.39
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2025-11-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/645643?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/645643"
@@ -22,16 +22,16 @@ language: "de"
 # Parkinson RESET dein Weg zu Stabilität, Energie, Freude
 
 > Product ID `55180` · Digistore24 productId `645643` · [HTML profile page](../../produkte/parkinson-reset-dein-weg-zu-stabilit-t-energie-freude-55180.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $46.88 (Single payment) |
+| Price | $46.91 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $9.38 |
+| Earnings/sale* | $9.39 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Erfolg2026 |
@@ -73,14 +73,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Parkinson RESET dein Weg zu Stabilität, Energie, Freude? — Typ: E-books, Anbieter: Erfolg2026, gelistet seit 2025-11-01
-- Wie viel kostet es? — 46.881933000000004 USD
+- Wie viel kostet es? — 46.911284 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Parkinson RESET dein Weg zu Stabilität, Energie, Freude Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/645643
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/645643/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Parkinson%20RESET%20dein%20Weg%20zu%20Stabilit%C3%A4t%2C%20Energie%2C%20Freude
 
 ## 4. Editorial notes

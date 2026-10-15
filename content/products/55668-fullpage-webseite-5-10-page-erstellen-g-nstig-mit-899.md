@@ -4,16 +4,16 @@ digistore24_product_id: 654150
 title: "Fullpage Webseite \" 5-10 Page \" erstellen günstig mit 899"
 vendor: "Skenteridis"
 product_type: "Remote service provided electronically"
-price: 1006.29
+price: 1006.92
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 251.57
+earnings_per_sale: 251.73
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Services","Marketing Services"]
 listed_since: "2025-12-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://robotics-marketing.com/de-landing/webseite-5-10page-erstellen-guenstig-digistore24/?aff=adminstore#aff=adminstore"
 sales_page: "https://robotics-marketing.com/de-landing/webseite-5-10page-erstellen-guenstig-digistore24/"
@@ -22,16 +22,16 @@ language: "de"
 # Fullpage Webseite " 5-10 Page " erstellen günstig mit 899
 
 > Product ID `55668` · Digistore24 productId `654150` · [HTML profile page](../../produkte/fullpage-webseite-5-10-page-erstellen-g-nstig-mit-899-55668.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $1006.29 (Single payment, Installment) |
+| Price | $1006.92 (Single payment, Installment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $251.57 |
+| Earnings/sale* | $251.73 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Skenteridis |
@@ -96,14 +96,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Fullpage Webseite " 5-10 Page " erstellen günstig mit 899? — Typ: Remote service provided electronically, Anbieter: Skenteridis, gelistet seit 2025-12-08
-- Wie viel kostet es? — 1006.2900000000001 USD
+- Wie viel kostet es? — 1006.92 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Fullpage Webseite " 5-10 Page " erstellen günstig mit 899 Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/654150
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/654150/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Fullpage%20Webseite%20%22%205-10%20Page%20%22%20erstellen%20g%C3%BCnstig%20mit%20899
 
 ## 4. Editorial notes

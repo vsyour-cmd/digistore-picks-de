@@ -4,16 +4,16 @@ digistore24_product_id: 739379
 title: "Mehr Umsatz, mehr Freiheit als Verkäufer, Closer, Networker"
 vendor: "Leonard_Probst"
 product_type: "Member area and video courses"
-price: 279.06
+price: 279.23
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 167.44
+earnings_per_sale: 167.54
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Business & Investment","Personal Development","Profession & Job"]
+categories: ["Personal Development","Business & Investment","Profession & Job"]
 listed_since: "2026-10-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://akademie.leonardprobst.com/top-performer-protocol?aff=adminstore#aff=adminstore"
 sales_page: "https://akademie.leonardprobst.com/top-performer-protocol"
@@ -22,22 +22,22 @@ language: "de"
 # Mehr Umsatz, mehr Freiheit als Verkäufer, Closer, Networker
 
 > Product ID `60198` · Digistore24 productId `739379` · [HTML profile page](../../produkte/mehr-umsatz-mehr-freiheit-als-verk-ufer-closer-networker-60198.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $279.06 (Single payment) |
+| Price | $279.23 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $167.44 |
+| Earnings/sale* | $167.54 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Leonard_Probst |
 | Listed since | 2026-10-05 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Personal Development, Profession & Job |
+| Categories | Personal Development, Business & Investment, Profession & Job |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -89,14 +89,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mehr Umsatz, mehr Freiheit als Verkäufer, Closer, Networker? — Typ: Member area and video courses, Anbieter: Leonard_Probst, gelistet seit 2026-10-05
-- Wie viel kostet es? — 279.055398 USD
+- Wie viel kostet es? — 279.23010400000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Mehr Umsatz, mehr Freiheit als Verkäufer, Closer, Networker Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/739379
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/739379/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Mehr%20Umsatz%2C%20mehr%20Freiheit%20als%20Verk%C3%A4ufer%2C%20Closer%2C%20Networker
 
 ## 4. Editorial notes

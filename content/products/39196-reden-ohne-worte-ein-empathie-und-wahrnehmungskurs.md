@@ -4,16 +4,16 @@ digistore24_product_id: 428528
 title: "Reden ohne Worte - Ein Empathie- und Wahrnehmungskurs"
 vendor: "innerwise"
 product_type: "Member area and video courses"
-price: 36.64
+price: 36.66
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 11.18
+earnings_per_sale: 11.19
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2022-02-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://innerwise.science/reden-ohne-worte?aff=adminstore#aff=adminstore"
 sales_page: "https://innerwise.science/reden-ohne-worte"
@@ -22,16 +22,16 @@ language: "de"
 # Reden ohne Worte - Ein Empathie- und Wahrnehmungskurs
 
 > Product ID `39196` · Digistore24 productId `428528` · [HTML profile page](../../produkte/reden-ohne-worte-ein-empathie-und-wahrnehmungskurs-39196.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $36.64 (Single payment) |
+| Price | $36.66 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $11.18 |
+| Earnings/sale* | $11.19 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | innerwise |
@@ -82,14 +82,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Reden ohne Worte - Ein Empathie- und Wahrnehmungskurs? — Typ: Member area and video courses, Anbieter: innerwise, gelistet seit 2022-02-07
-- Wie viel kostet es? — 36.64013700000001 USD
+- Wie viel kostet es? — 36.663076000000004 USD
 - Garantie? — 14
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Reden ohne Worte - Ein Empathie- und Wahrnehmungskurs Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/428528
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/428528/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Reden%20ohne%20Worte%20-%20Ein%20Empathie-%20und%20Wahrnehmungskurs
 
 ## 4. Editorial notes

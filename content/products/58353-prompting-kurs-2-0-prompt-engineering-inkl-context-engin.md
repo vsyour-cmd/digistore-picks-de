@@ -4,40 +4,40 @@ digistore24_product_id: 686091
 title: "Prompting Kurs 2.0 Prompt Engineering inkl. Context Engin."
 vendor: "annette99cf"
 product_type: "Member area and video courses"
-price: 327.92
+price: 328.12
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 131.16
+earnings_per_sale: 131.25
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Computer & Internet","Education","Profession & Job"]
+categories: ["Computer & Internet","Profession & Job","Education"]
 listed_since: "2026-08-14"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/58353/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/686091?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/686091"
 language: "de"
 ---
 # Prompting Kurs 2.0 Prompt Engineering inkl. Context Engin.
 
 > Product ID `58353` · Digistore24 productId `686091` · [HTML profile page](../../produkte/prompting-kurs-2-0-prompt-engineering-inkl-context-engin-58353.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $327.92 (Single payment) |
+| Price | $328.12 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $131.16 |
+| Earnings/sale* | $131.25 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | annette99cf |
 | Listed since | 2026-08-14 |
 | Auto-accept affiliates | no (approval required) |
-| Categories | Computer & Internet, Education, Profession & Job |
+| Categories | Computer & Internet, Profession & Job, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58353/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/686091?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/686091
 - Vendor affiliate support: https://www.ai-marketing-learnagency.de/affiliates/prompting-a7k9/
 - Canonical redirect: https://www.digistore24.com/redir/686091/adminstore
@@ -87,14 +87,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Prompting Kurs 2.0 Prompt Engineering inkl. Context Engin.? — Typ: Member area and video courses, Anbieter: annette99cf, gelistet seit 2026-08-14
-- Wie viel kostet es? — 327.916368 USD
+- Wie viel kostet es? — 328.12166399999995 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Prompting Kurs 2.0 Prompt Engineering inkl. Context Engin. Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/686091
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/686091/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Prompting%20Kurs%202.0%20Prompt%20Engineering%20inkl.%20Context%20Engin.
 
 ## 4. Editorial notes

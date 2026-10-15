@@ -4,34 +4,34 @@ digistore24_product_id: 443717
 title: "Herz und Energie Kongress - VIP Paket und Bundle"
 vendor: "herzengel"
 product_type: "Member area and video courses"
-price: 108.05
+price: 108.12
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 10.8
+earnings_per_sale: 10.81
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2022-05-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/40253/adminstore/"
+promo_link: "https://www.digistore24.com/product/443717?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/443717"
 language: "de"
 ---
 # Herz und Energie Kongress - VIP Paket und Bundle
 
 > Product ID `40253` · Digistore24 productId `443717` · [HTML profile page](../../produkte/herz-und-energie-kongress-vip-paket-und-bundle-40253.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $108.05 (Single payment, Installment) |
+| Price | $108.12 (Single payment, Installment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $10.80 |
+| Earnings/sale* | $10.81 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | herzengel |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/40253/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/443717?aff=adminstore
 - Sales page: https://www.digistore24.com/product/443717
 - Vendor affiliate support: https://www.herzundenergie.de/partnerprogramm
 - Canonical redirect: https://www.digistore24.com/redir/443717/adminstore
@@ -74,14 +74,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Herz und Energie Kongress - VIP Paket und Bundle? — Typ: Member area and video courses, Anbieter: herzengel, gelistet seit 2022-05-22
-- Wie viel kostet es? — 108.05318400000002 USD
+- Wie viel kostet es? — 108.12083200000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Herz und Energie Kongress - VIP Paket und Bundle Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/443717
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/443717/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Herz%20und%20Energie%20Kongress%20-%20VIP%20Paket%20und%20Bundle
 
 ## 4. Editorial notes

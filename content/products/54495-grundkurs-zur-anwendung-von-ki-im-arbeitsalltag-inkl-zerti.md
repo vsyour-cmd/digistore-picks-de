@@ -4,40 +4,40 @@ digistore24_product_id: 643686
 title: "Grundkurs zur Anwendung von KI im Arbeitsalltag (inkl. Zerti"
 vendor: "NEXperts"
 product_type: "Member area and video courses"
-price: 186.04
+price: 186.16
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 55.82
+earnings_per_sale: 55.85
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Computer & Internet","Education","Personal Development"]
+categories: ["Personal Development","Computer & Internet","Education"]
 listed_since: "2025-10-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/54495/adminstore/"
+promo_link: "https://nexperts.ai/academy/ki-grundkurs-online/?bricks_preview=1761747112&aff=adminstore#aff=adminstore"
 sales_page: "https://nexperts.ai/academy/ki-grundkurs-online/?bricks_preview=1761747112"
 language: "de"
 ---
 # Grundkurs zur Anwendung von KI im Arbeitsalltag (inkl. Zerti
 
 > Product ID `54495` · Digistore24 productId `643686` · [HTML profile page](../../produkte/grundkurs-zur-anwendung-von-ki-im-arbeitsalltag-inkl-zerti-54495.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $186.04 (Single payment) |
+| Price | $186.16 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $55.82 |
+| Earnings/sale* | $55.85 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | NEXperts |
 | Listed since | 2025-10-24 |
 | Auto-accept affiliates | no (approval required) |
-| Categories | Computer & Internet, Education, Personal Development |
+| Categories | Personal Development, Computer & Internet, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/54495/adminstore/
+- **Promo link (affiliate):** https://nexperts.ai/academy/ki-grundkurs-online/?bricks_preview=1761747112&aff=adminstore#aff=adminstore
 - Sales page: https://nexperts.ai/academy/ki-grundkurs-online/?bricks_preview=1761747112
 - Canonical redirect: https://www.digistore24.com/redir/643686/adminstore
 
@@ -101,14 +101,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Grundkurs zur Anwendung von KI im Arbeitsalltag (inkl. Zerti? — Typ: Member area and video courses, Anbieter: NEXperts, gelistet seit 2025-10-24
-- Wie viel kostet es? — 186.040659 USD
+- Wie viel kostet es? — 186.157132 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Grundkurs zur Anwendung von KI im Arbeitsalltag (inkl. Zerti Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/643686
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/643686/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Grundkurs%20zur%20Anwendung%20von%20KI%20im%20Arbeitsalltag%20(inkl.%20Zerti
 
 ## 4. Editorial notes

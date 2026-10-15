@@ -4,7 +4,7 @@ digistore24_product_id: 615123
 title: "Mehr erreichen in weniger Zeit – mit PowerShell"
 vendor: "MElsberger"
 product_type: "E-books"
-price: 8.25
+price: 8.26
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 4.13
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Education"]
 listed_since: "2025-05-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/615123?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/615123"
@@ -22,14 +22,14 @@ language: "de"
 # Mehr erreichen in weniger Zeit – mit PowerShell
 
 > Product ID `52700` · Digistore24 productId `615123` · [HTML profile page](../../produkte/mehr-erreichen-in-weniger-zeit-mit-powershell-52700.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $8.25 (Single payment) |
+| Price | $8.26 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $4.13 |
 | Cart conversion* | — |
@@ -81,14 +81,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mehr erreichen in weniger Zeit – mit PowerShell? — Typ: E-books, Anbieter: MElsberger, gelistet seit 2025-05-27
-- Wie viel kostet es? — 8.251578 USD
+- Wie viel kostet es? — 8.256744 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Mehr erreichen in weniger Zeit – mit PowerShell Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/615123
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/615123/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Mehr%20erreichen%20in%20weniger%20Zeit%20%E2%80%93%20mit%20PowerShell
 
 ## 4. Editorial notes

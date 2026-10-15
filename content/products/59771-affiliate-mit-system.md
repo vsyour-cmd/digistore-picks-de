@@ -4,34 +4,34 @@ digistore24_product_id: 735661
 title: "Affiliate mit System"
 vendor: "ima806"
 product_type: "Member area and video courses"
-price: 34.76
+price: 34.78
 currency: "USD"
 affiliate_commission_pct: 33
-earnings_per_sale: 11.47
+earnings_per_sale: 11.48
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2026-09-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/59771/adminstore/"
+promo_link: "https://markwart-academy.de/affiliatemitsystem/?aff=adminstore#aff=adminstore"
 sales_page: "https://markwart-academy.de/affiliatemitsystem/"
 language: "de"
 ---
 # Affiliate mit System
 
 > Product ID `59771` · Digistore24 productId `735661` · [HTML profile page](../../produkte/affiliate-mit-system-59771.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $34.76 (Single payment) |
+| Price | $34.78 (Single payment) |
 | Affiliate commission | 33% |
-| Earnings/sale* | $11.47 |
+| Earnings/sale* | $11.48 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ima806 |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59771/adminstore/
+- **Promo link (affiliate):** https://markwart-academy.de/affiliatemitsystem/?aff=adminstore#aff=adminstore
 - Sales page: https://markwart-academy.de/affiliatemitsystem/
 - Canonical redirect: https://www.digistore24.com/redir/735661/adminstore
 
@@ -58,14 +58,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Affiliate mit System? — Typ: Member area and video courses, Anbieter: ima806, gelistet seit 2026-09-26
-- Wie viel kostet es? — 34.761729 USD
+- Wie viel kostet es? — 34.783492 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Affiliate mit System Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/735661
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/735661/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Affiliate%20mit%20System
 
 ## 4. Editorial notes

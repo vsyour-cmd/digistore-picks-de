@@ -4,40 +4,40 @@ digistore24_product_id: 605870
 title: "MyFormatConverter - Schweizer Taschenmesser f. Mediendateien"
 vendor: "engelmann-software"
 product_type: "Software"
-price: 28.18
+price: 28.19
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 14.09
+earnings_per_sale: 14.1
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Computer & Internet","Photography & Film","Software"]
+categories: ["Software","Computer & Internet","Photography & Film"]
 listed_since: "2025-04-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/51983/adminstore/"
+promo_link: "https://www.digistore24.com/product/605870?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/605870"
 language: "de"
 ---
 # MyFormatConverter - Schweizer Taschenmesser f. Mediendateien
 
 > Product ID `51983` · Digistore24 productId `605870` · [HTML profile page](../../produkte/myformatconverter-schweizer-taschenmesser-f-mediendateien-51983.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $28.18 (Single payment) |
+| Price | $28.19 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $14.09 |
+| Earnings/sale* | $14.10 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | engelmann-software |
 | Listed since | 2025-04-07 |
 | Auto-accept affiliates | yes |
-| Categories | Computer & Internet, Photography & Film, Software |
+| Categories | Software, Computer & Internet, Photography & Film |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/51983/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/605870?aff=adminstore
 - Sales page: https://www.digistore24.com/product/605870
 - Canonical redirect: https://www.digistore24.com/redir/605870/adminstore
 
@@ -83,14 +83,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist MyFormatConverter - Schweizer Taschenmesser f. Mediendateien? — Typ: Software, Anbieter: engelmann-software, gelistet seit 2025-04-07
-- Wie viel kostet es? — 28.17612 USD
+- Wie viel kostet es? — 28.19376 USD
 - Garantie? — 60
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: MyFormatConverter - Schweizer Taschenmesser f. Mediendateien Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/605870
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/605870/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=MyFormatConverter%20-%20Schweizer%20Taschenmesser%20f.%20Mediendateien
 
 ## 4. Editorial notes

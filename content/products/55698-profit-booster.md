@@ -4,16 +4,16 @@ digistore24_product_id: 641366
 title: "Profit Booster"
 vendor: "seotech"
 product_type: "Member area and video courses"
-price: 243.75
+price: 243.9
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 74.43
+earnings_per_sale: 74.48
 cart_conversion_pct: 10
 cancel_rate_pct: 0.75
 categories: ["Business & Investment","Computer & Internet","Online Marketing & E-Business"]
 listed_since: "2025-10-14"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://go.eugen-grinschuk.de/boost/?aff=adminstore#aff=adminstore"
 sales_page: "https://go.eugen-grinschuk.de/boost/"
@@ -22,16 +22,16 @@ language: "de"
 # Profit Booster
 
 > Product ID `55698` · Digistore24 productId `641366` · [HTML profile page](../../produkte/profit-booster-55698.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $243.75 (Single payment, Installment) |
+| Price | $243.90 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $74.43 |
+| Earnings/sale* | $74.48 |
 | Cart conversion* | 10% |
 | Cancel rate* | 0.75% |
 | Vendor | seotech |
@@ -66,14 +66,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Profit Booster? — Typ: Member area and video courses, Anbieter: seotech, gelistet seit 2025-10-14
-- Wie viel kostet es? — 243.74580000000003 USD
+- Wie viel kostet es? — 243.8984 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Profit Booster Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/641366
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/641366/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Profit%20Booster
 
 ## 4. Editorial notes

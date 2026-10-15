@@ -4,7 +4,7 @@ digistore24_product_id: 633650
 title: "Videokurs \"Tipps für die ideale Katzenwohnung\""
 vendor: "MiriamKnischewski"
 product_type: "Member area and video courses"
-price: 20.67
+price: 20.69
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 2.07
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2025-09-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/53881/adminstore/"
+promo_link: "https://shop.katzen-fieber.de/ideale-katzenwohnung?aff=adminstore#aff=adminstore"
 sales_page: "https://shop.katzen-fieber.de/ideale-katzenwohnung"
 language: "de"
 ---
 # Videokurs "Tipps für die ideale Katzenwohnung"
 
 > Product ID `53881` · Digistore24 productId `633650` · [HTML profile page](../../produkte/videokurs-tipps-f-r-die-ideale-katzenwohnung-53881.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $20.67 (Single payment) |
+| Price | $20.69 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $2.07 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/53881/adminstore/
+- **Promo link (affiliate):** https://shop.katzen-fieber.de/ideale-katzenwohnung?aff=adminstore#aff=adminstore
 - Sales page: https://shop.katzen-fieber.de/ideale-katzenwohnung
 - Vendor affiliate support: https://shop.katzen-fieber.de/affiliate-werden/
 - Canonical redirect: https://www.digistore24.com/redir/633650/adminstore
@@ -72,14 +72,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Videokurs "Tipps für die ideale Katzenwohnung"? — Typ: Member area and video courses, Anbieter: MiriamKnischewski, gelistet seit 2025-09-04
-- Wie viel kostet es? — 20.673669 USD
+- Wie viel kostet es? — 20.686612 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Videokurs "Tipps für die ideale Katzenwohnung" Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/633650
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/633650/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Videokurs%20%22Tipps%20f%C3%BCr%20die%20ideale%20Katzenwohnung%22
 
 ## 4. Editorial notes

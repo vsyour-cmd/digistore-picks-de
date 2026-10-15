@@ -4,16 +4,16 @@ digistore24_product_id: 33329
 title: "Gitarre Lernen in 4 Wochen Crashkurs"
 vendor: "norberg"
 product_type: "Member area and video courses"
-price: 187.92
+price: 188.04
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 93.97
+earnings_per_sale: 94.02
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dancing & Music"]
 listed_since: "2014-09-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.gitarrencrashkurs.de/einsteiger/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.gitarrencrashkurs.de/einsteiger/"
@@ -22,16 +22,16 @@ language: "de"
 # Gitarre Lernen in 4 Wochen Crashkurs
 
 > Product ID `4809` · Digistore24 productId `33329` · [HTML profile page](../../produkte/gitarre-lernen-in-4-wochen-crashkurs-4809.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $187.92 (Single payment) |
+| Price | $188.04 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $93.97 |
+| Earnings/sale* | $94.02 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | norberg |
@@ -93,14 +93,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Gitarre Lernen in 4 Wochen Crashkurs? — Typ: Member area and video courses, Anbieter: norberg, gelistet seit 2014-09-22
-- Wie viel kostet es? — 187.919067 USD
+- Wie viel kostet es? — 188.03671599999998 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Gitarre Lernen in 4 Wochen Crashkurs Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/33329
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/33329/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Gitarre%20Lernen%20in%204%20Wochen%20Crashkurs
 
 ## 4. Editorial notes

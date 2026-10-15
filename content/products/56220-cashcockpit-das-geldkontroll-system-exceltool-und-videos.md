@@ -4,16 +4,16 @@ digistore24_product_id: 679666
 title: "CashCockpit - Das GeldKontroll-System | Exceltool und Videos"
 vendor: "NilsWarnecke"
 product_type: "Software"
-price: 55.44
+price: 55.47
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 78.68
+earnings_per_sale: 78.73
 cart_conversion_pct: 5
 cancel_rate_pct: 4.89
-categories: ["Education","Family & Children","Home & Garden"]
+categories: ["Family & Children","Home & Garden","Education"]
 listed_since: "2026-03-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://cashcockpit.de/cashcockpit-das-geldkontroll-system/?aff=adminstore#aff=adminstore"
 sales_page: "https://cashcockpit.de/cashcockpit-das-geldkontroll-system/"
@@ -22,22 +22,22 @@ language: "de"
 # CashCockpit - Das GeldKontroll-System | Exceltool und Videos
 
 > Product ID `56220` · Digistore24 productId `679666` · [HTML profile page](../../produkte/cashcockpit-das-geldkontroll-system-exceltool-und-videos-56220.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $55.44 (Single payment, Installment) |
+| Price | $55.47 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $78.68 |
+| Earnings/sale* | $78.73 |
 | Cart conversion* | 5% |
 | Cancel rate* | 4.89% |
 | Vendor | NilsWarnecke |
 | Listed since | 2026-03-26 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Family & Children, Home & Garden |
+| Categories | Family & Children, Home & Garden, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -90,14 +90,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist CashCockpit - Das GeldKontroll-System | Exceltool und Videos? — Typ: Software, Anbieter: NilsWarnecke, gelistet seit 2026-03-26
-- Wie viel kostet es? — 55.435398 USD
+- Wie viel kostet es? — 55.470104 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: CashCockpit - Das GeldKontroll-System | Exceltool und Videos Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/679666
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/679666/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=CashCockpit%20-%20Das%20GeldKontroll-System%20%7C%20Exceltool%20und%20Videos
 
 ## 4. Editorial notes

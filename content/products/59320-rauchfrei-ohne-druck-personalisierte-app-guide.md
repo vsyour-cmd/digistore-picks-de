@@ -4,16 +4,16 @@ digistore24_product_id: 722376
 title: "Rauchfrei ohne Druck | Personalisierte App + Guide"
 vendor: "daorauchfrei"
 product_type: "Software"
-price: 46.88
+price: 32.81
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 23.45
+earnings_per_sale: 16.41
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-09-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://dao-methode.de?aff=adminstore#aff=adminstore"
 sales_page: "https://dao-methode.de"
@@ -22,16 +22,16 @@ language: "de"
 # Rauchfrei ohne Druck | Personalisierte App + Guide
 
 > Product ID `59320` · Digistore24 productId `722376` · [HTML profile page](../../produkte/rauchfrei-ohne-druck-personalisierte-app-guide-59320.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $46.88 (Single payment) |
+| Price | $32.81 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $23.45 |
+| Earnings/sale* | $16.41 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | daorauchfrei |
@@ -88,14 +88,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Rauchfrei ohne Druck | Personalisierte App + Guide? — Typ: Software, Anbieter: daorauchfrei, gelistet seit 2026-09-17
-- Wie viel kostet es? — 46.881933000000004 USD
+- Wie viel kostet es? — 32.814403999999996 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Rauchfrei ohne Druck | Personalisierte App + Guide Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/722376
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/722376/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Rauchfrei%20ohne%20Druck%20%7C%20Personalisierte%20App%20%2B%20Guide
 
 ## 4. Editorial notes

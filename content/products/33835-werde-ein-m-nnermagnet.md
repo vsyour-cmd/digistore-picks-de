@@ -4,34 +4,34 @@ digistore24_product_id: 341493
 title: "WERDE EIN MÄNNERMAGNET"
 vendor: "florianknoll"
 product_type: "E-books"
-price: 36.52
+price: 36.54
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 27.39
+earnings_per_sale: 27.41
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2020-08-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/33835/adminstore/"
+promo_link: "https://www.werde-ein-maennermagnet.com?aff=adminstore#aff=adminstore"
 sales_page: "https://www.werde-ein-maennermagnet.com"
 language: "de"
 ---
 # WERDE EIN MÄNNERMAGNET
 
 > Product ID `33835` · Digistore24 productId `341493` · [HTML profile page](../../produkte/werde-ein-m-nnermagnet-33835.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $36.52 (Single payment, Installment) |
+| Price | $36.54 (Single payment, Installment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $27.39 |
+| Earnings/sale* | $27.41 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | florianknoll |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/33835/adminstore/
+- **Promo link (affiliate):** https://www.werde-ein-maennermagnet.com?aff=adminstore#aff=adminstore
 - Sales page: https://www.werde-ein-maennermagnet.com
 - Vendor affiliate support: https://werde-ein-maennermagnet.com/affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/341493/adminstore
@@ -98,14 +98,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist WERDE EIN MÄNNERMAGNET? — Typ: E-books, Anbieter: florianknoll, gelistet seit 2020-08-18
-- Wie viel kostet es? — 36.517146 USD
+- Wie viel kostet es? — 36.540008 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: WERDE EIN MÄNNERMAGNET Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/341493
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/341493/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=WERDE%20EIN%20M%C3%84NNERMAGNET
 
 ## 4. Editorial notes

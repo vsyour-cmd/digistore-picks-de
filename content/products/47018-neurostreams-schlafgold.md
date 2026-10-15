@@ -7,13 +7,13 @@ product_type: "Downloads"
 price: 5.97
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 6.56
+earnings_per_sale: 6.57
 cart_conversion_pct: 21
 cancel_rate_pct: 1.76
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2014-04-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "http://www.neurostreams.de/portfolio/schlafhilfe/?aff=adminstore#aff=adminstore"
 sales_page: "http://www.neurostreams.de/portfolio/schlafhilfe/"
@@ -22,7 +22,7 @@ language: "de"
 # Neurostreams™ Schlafgold
 
 > Product ID `47018` · Digistore24 productId `24605` · [HTML profile page](../../produkte/neurostreams-schlafgold-47018.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,7 @@ language: "de"
 | Product type | Downloads |
 | Price | $5.97 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $6.56 |
+| Earnings/sale* | $6.57 |
 | Cart conversion* | 21% |
 | Cancel rate* | 1.76% |
 | Vendor | newdimension |
@@ -81,14 +81,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Neurostreams™ Schlafgold? — Typ: Downloads, Anbieter: newdimension, gelistet seit 2014-04-24
-- Wie viel kostet es? — 5.970654000000001 USD
+- Wie viel kostet es? — 5.974392 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Neurostreams™ Schlafgold Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/24605
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/24605/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Neurostreams%E2%84%A2%20Schlafgold
 
 ## 4. Editorial notes

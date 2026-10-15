@@ -4,16 +4,16 @@ digistore24_product_id: 674108
 title: "KI-Cashflow Lokal 2026"
 vendor: "BD_FACELESSMARKETING"
 product_type: "E-books"
-price: 28.21
+price: 28.23
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 16.93
+earnings_per_sale: 16.94
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Online Marketing"]
 listed_since: "2026-03-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/674108?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/674108"
@@ -22,16 +22,16 @@ language: "de"
 # KI-Cashflow Lokal 2026
 
 > Product ID `55850` · Digistore24 productId `674108` · [HTML profile page](../../produkte/ki-cashflow-lokal-2026-55850.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $28.21 (Single payment) |
+| Price | $28.23 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $16.93 |
+| Earnings/sale* | $16.94 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | BD_FACELESSMARKETING |
@@ -94,14 +94,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI-Cashflow Lokal 2026? — Typ: E-books, Anbieter: BD_FACELESSMARKETING, gelistet seit 2026-03-06
-- Wie viel kostet es? — 28.209663000000003 USD
+- Wie viel kostet es? — 28.227324 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: KI-Cashflow Lokal 2026 Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/674108
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/674108/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=KI-Cashflow%20Lokal%202026
 
 ## 4. Editorial notes

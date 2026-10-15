@@ -4,34 +4,34 @@ digistore24_product_id: 276286
 title: "Nähkurs: Online-Videokurs für Babykleidung und -accessoires"
 vendor: "fadenlauf"
 product_type: "Member area and video courses"
-price: 36.64
+price: 36.66
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 10.99
+earnings_per_sale: 11
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft"]
 listed_since: "2019-06-19"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/30287/adminstore/"
+promo_link: "https://fadenlauf-naehschule.de/landingpage-babykurs//?aff=adminstore#aff=adminstore"
 sales_page: "https://fadenlauf-naehschule.de/landingpage-babykurs//"
 language: "de"
 ---
 # Nähkurs: Online-Videokurs für Babykleidung und -accessoires
 
 > Product ID `30287` · Digistore24 productId `276286` · [HTML profile page](../../produkte/n-hkurs-online-videokurs-f-r-babykleidung-und-accessoires-30287.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $36.64 (Single payment) |
+| Price | $36.66 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $10.99 |
+| Earnings/sale* | $11.00 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | fadenlauf |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/30287/adminstore/
+- **Promo link (affiliate):** https://fadenlauf-naehschule.de/landingpage-babykurs//?aff=adminstore#aff=adminstore
 - Sales page: https://fadenlauf-naehschule.de/landingpage-babykurs//
 - Canonical redirect: https://www.digistore24.com/redir/276286/adminstore
 
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Nähkurs: Online-Videokurs für Babykleidung und -accessoires? — Typ: Member area and video courses, Anbieter: fadenlauf, gelistet seit 2019-06-19
-- Wie viel kostet es? — 36.64013700000001 USD
+- Wie viel kostet es? — 36.663076000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Nähkurs: Online-Videokurs für Babykleidung und -accessoires Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/276286
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/276286/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=N%C3%A4hkurs%3A%20Online-Videokurs%20f%C3%BCr%20Babykleidung%20und%20-accessoires
 
 ## 4. Editorial notes

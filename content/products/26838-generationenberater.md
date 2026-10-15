@@ -4,16 +4,16 @@ digistore24_product_id: 202689
 title: "Generationenberater"
 vendor: "verkaufsbegleiter"
 product_type: "Downloads"
-price: 100.63
+price: 100.69
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 13.42
+earnings_per_sale: 13.43
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2018-02-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/202689?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/202689"
@@ -22,16 +22,16 @@ language: "de"
 # Generationenberater
 
 > Product ID `26838` · Digistore24 productId `202689` · [HTML profile page](../../produkte/generationenberater-26838.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $100.63 (Subscription) |
+| Price | $100.69 (Subscription) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $13.42 |
+| Earnings/sale* | $13.43 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | verkaufsbegleiter |
@@ -74,14 +74,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Generationenberater? — Typ: Downloads, Anbieter: verkaufsbegleiter, gelistet seit 2018-02-20
-- Wie viel kostet es? — 100.629 USD
+- Wie viel kostet es? — 100.69200000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Generationenberater Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/202689
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/202689/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Generationenberater
 
 ## 4. Editorial notes

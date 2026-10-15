@@ -4,40 +4,40 @@ digistore24_product_id: 713986
 title: "Lesen lernen in der 1. Klasse: Tipps, Übungen und Lesespiele"
 vendor: "Grundschulabitur"
 product_type: "E-books"
-price: 17.77
+price: 17.78
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 7.11
+earnings_per_sale: 7.12
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Family & Children"]
+categories: ["Family & Children","Education"]
 listed_since: "2026-08-11"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/58277/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/713986?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/713986"
 language: "de"
 ---
 # Lesen lernen in der 1. Klasse: Tipps, Übungen und Lesespiele
 
 > Product ID `58277` · Digistore24 productId `713986` · [HTML profile page](../../produkte/lesen-lernen-in-der-1-klasse-tipps-bungen-und-lesespiele-58277.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $17.77 (Single payment) |
+| Price | $17.78 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $7.11 |
+| Earnings/sale* | $7.12 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Grundschulabitur |
 | Listed since | 2026-08-11 |
 | Auto-accept affiliates | no (approval required) |
-| Categories | Education, Family & Children |
+| Categories | Family & Children, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58277/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/713986?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/713986
 - Canonical redirect: https://www.digistore24.com/redir/713986/adminstore
 
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Lesen lernen in der 1. Klasse: Tipps, Übungen und Lesespiele? — Typ: E-books, Anbieter: Grundschulabitur, gelistet seit 2026-08-11
-- Wie viel kostet es? — 17.766609000000003 USD
+- Wie viel kostet es? — 17.777732 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Lesen lernen in der 1. Klasse: Tipps, Übungen und Lesespiele Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/713986
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/713986/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Lesen%20lernen%20in%20der%201.%20Klasse%3A%20Tipps%2C%20%C3%9Cbungen%20und%20Lesespiele
 
 ## 4. Editorial notes

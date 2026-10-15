@@ -4,17 +4,17 @@ digistore24_product_id: 482133
 title: "1 Click Business - Einfaches Copy-Paste Business"
 vendor: "seotech"
 product_type: "Member area and video courses"
-price: 322.81
+price: 323.01
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 422.32
+earnings_per_sale: 422.58
 cart_conversion_pct: 4
 cancel_rate_pct: 1.35
 categories: ["Business & Investment"]
 listed_since: "2023-01-31"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
-research_quality: "none"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
+research_quality: "medium"
 promo_link: "https://www.provi-magnet.de/cbwaff/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.provi-magnet.de/cbwaff/"
 language: "de"
@@ -22,16 +22,16 @@ language: "de"
 # 1 Click Business - Einfaches Copy-Paste Business
 
 > Product ID `44118` · Digistore24 productId `482133` · [HTML profile page](../../produkte/1-click-business-einfaches-copy-paste-business-44118.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $322.81 (Single payment, Installment) |
+| Price | $323.01 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $422.32 |
+| Earnings/sale* | $422.58 |
 | Cart conversion* | 4% |
 | Cancel rate* | 1.35% |
 | Vendor | seotech |
@@ -52,7 +52,13 @@ language: "de"
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Ein CB Online Training
+- **Meta description:** Ein CB Online Training
+- **Opening copy (first paragraphs):**
+  > Wie du mein brandneues Goldesel-Prinzip legal kopieren kannst und damit vollkommen seriös 200 - 500 € am Tag online verdienen kannst.
+  > Jetzt einen Platz zum kostenfreien Online-Training sichern und erfahren, wie du mit dem Goldesel-Prinzip 4 bis 5stellig jeden Monat verdienen kannst.
+  > Wir verwenden Cookies, um Ihnen eine bessere Browser-Erfahrung zu bieten, Inhalte und Anzeigen zu personalisieren, Funktionen für soziale Medien bereitzustellen und unseren Traffic zu analysieren. Lesen Sie, wie wir Cookies verwenden und wie Sie sie steuern können, indem Sie auf Cookie-Einstellungen klicken. Cookie Einstellungen
+- **Page word count:** 324
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
@@ -67,14 +73,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 1 Click Business - Einfaches Copy-Paste Business? — Typ: Member area and video courses, Anbieter: seotech, gelistet seit 2023-01-31
-- Wie viel kostet es? — 322.806651 USD
+- Wie viel kostet es? — 323.00874799999997 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 1 Click Business - Einfaches Copy-Paste Business Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/482133
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/482133/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=1%20Click%20Business%20-%20Einfaches%20Copy-Paste%20Business
 
 ## 4. Editorial notes

@@ -4,34 +4,34 @@ digistore24_product_id: 411373
 title: "Rette deinen Rücken®"
 vendor: "australia1011"
 product_type: "Downloads"
-price: 121.2
+price: 121.28
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 60.6
+earnings_per_sale: 60.64
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2021-10-11"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/38589/adminstore/"
+promo_link: "https://pilates4life.lpages.co/r%C3%BCckenretter-salespage/?aff=adminstore#aff=adminstore"
 sales_page: "https://pilates4life.lpages.co/r%C3%BCckenretter-salespage/"
 language: "de"
 ---
 # Rette deinen Rücken®
 
 > Product ID `38589` · Digistore24 productId `411373` · [HTML profile page](../../produkte/rette-deinen-r-cken-38589.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $121.20 (Single payment) |
+| Price | $121.28 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $60.60 |
+| Earnings/sale* | $60.64 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | australia1011 |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/38589/adminstore/
+- **Promo link (affiliate):** https://pilates4life.lpages.co/r%C3%BCckenretter-salespage/?aff=adminstore#aff=adminstore
 - Sales page: https://pilates4life.lpages.co/r%C3%BCckenretter-salespage/
 - Canonical redirect: https://www.digistore24.com/redir/411373/adminstore
 
@@ -88,14 +88,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Rette deinen Rücken®? — Typ: Downloads, Anbieter: australia1011, gelistet seit 2021-10-11
-- Wie viel kostet es? — 121.20204000000001 USD
+- Wie viel kostet es? — 121.27792000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Rette deinen Rücken® Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/411373
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/411373/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Rette%20deinen%20R%C3%BCcken%C2%AE
 
 ## 4. Editorial notes

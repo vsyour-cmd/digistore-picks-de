@@ -4,16 +4,16 @@ digistore24_product_id: 275410
 title: "Smarte Medizin mit Dr. Dahlke und Dr. Hobert"
 vendor: "Ingohobert"
 product_type: "Member area and video courses"
-price: 466.97
+price: 467.27
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 93.39
+earnings_per_sale: 93.45
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2019-06-12"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://ethnomed.de/smarte-medizin/?aff=adminstore#aff=adminstore"
 sales_page: "https://ethnomed.de/smarte-medizin/"
@@ -22,16 +22,16 @@ language: "de"
 # Smarte Medizin mit Dr. Dahlke und Dr. Hobert
 
 > Product ID `33984` · Digistore24 productId `275410` · [HTML profile page](../../produkte/smarte-medizin-mit-dr-dahlke-und-dr-hobert-33984.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $466.97 (Single payment) |
+| Price | $467.27 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $93.39 |
+| Earnings/sale* | $93.45 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Ingohobert |
@@ -91,14 +91,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Smarte Medizin mit Dr. Dahlke und Dr. Hobert? — Typ: Member area and video courses, Anbieter: Ingohobert, gelistet seit 2019-06-12
-- Wie viel kostet es? — 466.974465 USD
+- Wie viel kostet es? — 467.26682 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Smarte Medizin mit Dr. Dahlke und Dr. Hobert Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/275410
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/275410/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Smarte%20Medizin%20mit%20Dr.%20Dahlke%20und%20Dr.%20Hobert
 
 ## 4. Editorial notes

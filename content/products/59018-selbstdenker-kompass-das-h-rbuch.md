@@ -4,16 +4,16 @@ digistore24_product_id: 728238
 title: "Selbstdenker-Kompass — Das Hörbuch"
 vendor: "Klartextkompass"
 product_type: "Audio book (download)"
-price: 39.18
+price: 39.2
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 11.75
+earnings_per_sale: 11.76
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Dating, Relationships & Romance","Education","Personal Development"]
+categories: ["Personal Development","Dating, Relationships & Romance","Education"]
 listed_since: "2026-09-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.klartext-kompass.de/hoerbuch/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.klartext-kompass.de/hoerbuch/"
@@ -22,22 +22,22 @@ language: "de"
 # Selbstdenker-Kompass — Das Hörbuch
 
 > Product ID `59018` · Digistore24 productId `728238` · [HTML profile page](../../produkte/selbstdenker-kompass-das-h-rbuch-59018.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Audio book (download) |
-| Price | $39.18 (Single payment, Installment) |
+| Price | $39.20 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $11.75 |
+| Earnings/sale* | $11.76 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Klartextkompass |
 | Listed since | 2026-09-08 |
 | Auto-accept affiliates | yes |
-| Categories | Dating, Relationships & Romance, Education, Personal Development |
+| Categories | Personal Development, Dating, Relationships & Romance, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -86,14 +86,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Selbstdenker-Kompass — Das Hörbuch? — Typ: Audio book (download), Anbieter: Klartextkompass, gelistet seit 2026-09-08
-- Wie viel kostet es? — 39.178224 USD
+- Wie viel kostet es? — 39.202752 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Selbstdenker-Kompass — Das Hörbuch Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/728238
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/728238/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Selbstdenker-Kompass%20%E2%80%94%20Das%20H%C3%B6rbuch
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 222381
 title: "CFD Daytrading Signale"
 vendor: "daxtrading"
 product_type: "Remote service provided electronically"
-price: 171.19
+price: 171.3
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 42.6
+earnings_per_sale: 42.63
 cart_conversion_pct: 9
 cancel_rate_pct: 14.79
 categories: ["Trading Products"]
 listed_since: "2018-05-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.kagels-trading.de/trading-signale/cfd-daytrading-handelssignale/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.kagels-trading.de/trading-signale/cfd-daytrading-handelssignale/"
@@ -22,16 +22,16 @@ language: "de"
 # CFD Daytrading Signale
 
 > Product ID `27738` · Digistore24 productId `222381` · [HTML profile page](../../produkte/cfd-daytrading-signale-27738.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $171.19 (Subscription) |
+| Price | $171.30 (Subscription) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $42.60 |
+| Earnings/sale* | $42.63 |
 | Cart conversion* | 9% |
 | Cancel rate* | 14.79% |
 | Vendor | daxtrading |
@@ -94,14 +94,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist CFD Daytrading Signale? — Typ: Remote service provided electronically, Anbieter: daxtrading, gelistet seit 2018-05-18
-- Wie viel kostet es? — 171.19229100000004 USD
+- Wie viel kostet es? — 171.29946800000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: CFD Daytrading Signale Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/222381
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/222381/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=CFD%20Daytrading%20Signale
 
 ## 4. Editorial notes

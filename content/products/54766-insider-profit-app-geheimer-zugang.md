@@ -12,8 +12,8 @@ cart_conversion_pct: 54
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Online Marketing & E-Business","Finances"]
 listed_since: "2025-11-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
 promo_link: "https://vierstelligimmonat.de/tanken?aff=adminstore#aff=adminstore"
 sales_page: "https://vierstelligimmonat.de/tanken"
@@ -22,7 +22,7 @@ language: "de"
 # Insider-Profit-App (geheimer Zugang)
 
 > Product ID `54766` · Digistore24 productId `650659` · [HTML profile page](../../produkte/insider-profit-app-geheimer-zugang-54766.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -61,14 +61,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Insider-Profit-App (geheimer Zugang)? — Typ: E-books, Anbieter: MoneyCreators, gelistet seit 2025-11-24
-- Wie viel kostet es? — 0.022362000000000003 USD
+- Wie viel kostet es? — 0.022376 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Insider-Profit-App (geheimer Zugang) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/650659
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/650659/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Insider-Profit-App%20(geheimer%20Zugang)
 
 ## 4. Editorial notes

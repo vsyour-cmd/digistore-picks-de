@@ -4,32 +4,32 @@ digistore24_product_id: 300078
 title: "Privater Finanzplan (Freebie) 0€ | 50% für Folgeprodukte"
 vendor: "NilsWarnecke"
 product_type: "Software"
-price: 10.72
+price: 10.73
 currency: "USD"
 affiliate_commission_pct: 100
 earnings_per_sale: 0
 cart_conversion_pct: 9
 cancel_rate_pct: 4.94
-categories: ["Education","Profession & Job","Finances"]
+categories: ["Profession & Job","Education","Finances"]
 listed_since: "2019-12-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/36759/adminstore/"
+promo_link: "https://cashcockpit.de/6-konten-modell-excelvorlage-2/?aff=adminstore#aff=adminstore"
 sales_page: "https://cashcockpit.de/6-konten-modell-excelvorlage-2/"
 language: "de"
 ---
 # Privater Finanzplan (Freebie) 0€ | 50% für Folgeprodukte
 
 > Product ID `36759` · Digistore24 productId `300078` · [HTML profile page](../../produkte/privater-finanzplan-freebie-0-50-f-r-folgeprodukte-36759.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $10.72 (Single payment) |
+| Price | $10.73 (Single payment) |
 | Affiliate commission | 100% |
 | Earnings/sale* | $0.00 |
 | Cart conversion* | 9% |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | NilsWarnecke |
 | Listed since | 2019-12-17 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Profession & Job, Finances |
+| Categories | Profession & Job, Education, Finances |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/36759/adminstore/
+- **Promo link (affiliate):** https://cashcockpit.de/6-konten-modell-excelvorlage-2/?aff=adminstore#aff=adminstore
 - Sales page: https://cashcockpit.de/6-konten-modell-excelvorlage-2/
 - Vendor affiliate support: https://cashcockpit.de/affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/300078/adminstore
@@ -77,14 +77,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Privater Finanzplan (Freebie) 0€ | 50% für Folgeprodukte? — Typ: Software, Anbieter: NilsWarnecke, gelistet seit 2019-12-17
-- Wie viel kostet es? — 10.722579000000001 USD
+- Wie viel kostet es? — 10.729292 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Privater Finanzplan (Freebie) 0€ | 50% für Folgeprodukte Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/300078
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/300078/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Privater%20Finanzplan%20(Freebie)%200%E2%82%AC%20%7C%2050%25%20f%C3%BCr%20Folgeprodukte
 
 ## 4. Editorial notes

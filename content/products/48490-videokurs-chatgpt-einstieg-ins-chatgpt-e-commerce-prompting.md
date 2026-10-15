@@ -4,7 +4,7 @@ digistore24_product_id: 558253
 title: "Videokurs ChatGPT: Einstieg ins ChatGPT E-Commerce Prompting"
 vendor: "umbrellatodayde"
 product_type: "Downloads"
-price: 17.86
+price: 17.87
 currency: "USD"
 affiliate_commission_pct: 30
 earnings_per_sale: 5.36
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Online Marketing & E-Business","Online Marketing"]
 listed_since: "2024-06-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/558253?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/558253"
@@ -22,14 +22,14 @@ language: "de"
 # Videokurs ChatGPT: Einstieg ins ChatGPT E-Commerce Prompting
 
 > Product ID `48490` · Digistore24 productId `558253` · [HTML profile page](../../produkte/videokurs-chatgpt-einstieg-ins-chatgpt-e-commerce-prompting-48490.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $17.86 (Single payment) |
+| Price | $17.87 (Single payment) |
 | Affiliate commission | 30% |
 | Earnings/sale* | $5.36 |
 | Cart conversion* | — |
@@ -76,14 +76,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Videokurs ChatGPT: Einstieg ins ChatGPT E-Commerce Prompting? — Typ: Downloads, Anbieter: umbrellatodayde, gelistet seit 2024-06-24
-- Wie viel kostet es? — 17.856057000000003 USD
+- Wie viel kostet es? — 17.867236000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Videokurs ChatGPT: Einstieg ins ChatGPT E-Commerce Prompting Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/558253
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/558253/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Videokurs%20ChatGPT%3A%20Einstieg%20ins%20ChatGPT%20E-Commerce%20Prompting
 
 ## 4. Editorial notes

@@ -10,10 +10,10 @@ affiliate_commission_pct: 50
 earnings_per_sale: 0
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Family & Children","Health & Fitness"]
+categories: ["Health & Fitness","Family & Children"]
 listed_since: "2026-08-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://nichtraucherzone.de/die-rauchverlangen-notfallkarte?aff=adminstore#aff=adminstore"
 sales_page: "https://nichtraucherzone.de/die-rauchverlangen-notfallkarte"
@@ -22,7 +22,7 @@ language: "de"
 # Rauchverlangen-Notfallkarte – 0 € Einstieg + 50 % Provision
 
 > Product ID `58234` · Digistore24 productId `717824` · [HTML profile page](../../produkte/rauchverlangen-notfallkarte-0-einstieg-50-provision-58234.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | HeikoBoos |
 | Listed since | 2026-08-09 |
 | Auto-accept affiliates | yes |
-| Categories | Family & Children, Health & Fitness |
+| Categories | Health & Fitness, Family & Children |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -90,7 +90,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Rauchverlangen-Notfallkarte – 0 € Einstieg + 50 % Provision Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/717824
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/717824/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Rauchverlangen-Notfallkarte%20%E2%80%93%200%20%E2%82%AC%20Einstieg%20%2B%2050%20%25%20Provision
 
 ## 4. Editorial notes

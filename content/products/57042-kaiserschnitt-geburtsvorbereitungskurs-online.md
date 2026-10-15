@@ -4,16 +4,16 @@ digistore24_product_id: 697364
 title: "Kaiserschnitt Geburtsvorbereitungskurs online"
 vendor: "bcamp8501"
 product_type: "Member area and video courses"
-price: 328.86
+price: 329.06
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 65.77
+earnings_per_sale: 65.81
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Family & Children","Health & Fitness"]
+categories: ["Health & Fitness","Family & Children"]
 listed_since: "2026-06-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://bauchgeburt.com/kaiserschnitt-geburtsvorbereitung/?aff=adminstore#aff=adminstore"
 sales_page: "https://bauchgeburt.com/kaiserschnitt-geburtsvorbereitung/"
@@ -22,22 +22,22 @@ language: "de"
 # Kaiserschnitt Geburtsvorbereitungskurs online
 
 > Product ID `57042` · Digistore24 productId `697364` · [HTML profile page](../../produkte/kaiserschnitt-geburtsvorbereitungskurs-online-57042.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $328.86 (Single payment) |
+| Price | $329.06 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $65.77 |
+| Earnings/sale* | $65.81 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | bcamp8501 |
 | Listed since | 2026-06-18 |
 | Auto-accept affiliates | yes |
-| Categories | Family & Children, Health & Fitness |
+| Categories | Health & Fitness, Family & Children |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -97,14 +97,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Kaiserschnitt Geburtsvorbereitungskurs online? — Typ: Member area and video courses, Anbieter: bcamp8501, gelistet seit 2026-06-18
-- Wie viel kostet es? — 328.85557200000005 USD
+- Wie viel kostet es? — 329.061456 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Kaiserschnitt Geburtsvorbereitungskurs online Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/697364
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/697364/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Kaiserschnitt%20Geburtsvorbereitungskurs%20online
 
 ## 4. Editorial notes

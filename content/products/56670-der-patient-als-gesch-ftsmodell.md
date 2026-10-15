@@ -4,7 +4,7 @@ digistore24_product_id: 695398
 title: "Der Patient als Geschäftsmodell"
 vendor: "PERSOFIT"
 product_type: "E-books"
-price: 10.44
+price: 10.45
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 5.22
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Politics & Economy"]
 listed_since: "2026-05-25"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/695398?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/695398"
@@ -22,14 +22,14 @@ language: "de"
 # Der Patient als Geschäftsmodell
 
 > Product ID `56670` · Digistore24 productId `695398` · [HTML profile page](../../produkte/der-patient-als-gesch-ftsmodell-56670.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.44 (Single payment) |
+| Price | $10.45 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $5.22 |
 | Cart conversion* | — |
@@ -83,14 +83,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Patient als Geschäftsmodell? — Typ: E-books, Anbieter: PERSOFIT, gelistet seit 2026-05-25
-- Wie viel kostet es? — 10.443054 USD
+- Wie viel kostet es? — 10.449592 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Der Patient als Geschäftsmodell Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/695398
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/695398/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%20Patient%20als%20Gesch%C3%A4ftsmodell
 
 ## 4. Editorial notes

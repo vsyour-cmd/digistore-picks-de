@@ -4,16 +4,16 @@ digistore24_product_id: 420804
 title: "Affiliate Cash Club"
 vendor: "Robinfocke"
 product_type: "Member area and video courses"
-price: 488.61
+price: 488.92
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 146.58
+earnings_per_sale: 146.67
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2021-12-14"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
 promo_link: "https://www.digistore24.com/redir/420804/adminstore"
 sales_page: "https://affiliatecashclub.de?p=[AFFILIATE]"
@@ -22,16 +22,16 @@ language: "de"
 # Affiliate Cash Club
 
 > Product ID `39052` · Digistore24 productId `420804` · [HTML profile page](../../produkte/affiliate-cash-club-39052.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $488.61 (Single payment, Installment) |
+| Price | $488.92 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $146.58 |
+| Earnings/sale* | $146.67 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Robinfocke |
@@ -64,14 +64,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Affiliate Cash Club? — Typ: Member area and video courses, Anbieter: Robinfocke, gelistet seit 2021-12-14
-- Wie viel kostet es? — 488.60970000000003 USD
+- Wie viel kostet es? — 488.9156 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Affiliate Cash Club Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/420804
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/420804/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Affiliate%20Cash%20Club
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 352496
 title: "1x1 Floristik - Mit Basiswissen zum Profi"
 vendor: "Elobana"
 product_type: "Member area and video courses"
-price: 127.24
+price: 127.32
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 18.12
+earnings_per_sale: 18.14
 cart_conversion_pct: 13
 cancel_rate_pct: 0.67
 categories: ["Education"]
 listed_since: "2020-10-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://elobana.de/onlinekurs-1x1-floristik-mit-basiswissen-zum-profi/?aff=adminstore#aff=adminstore"
 sales_page: "https://elobana.de/onlinekurs-1x1-floristik-mit-basiswissen-zum-profi/"
@@ -22,16 +22,16 @@ language: "de"
 # 1x1 Floristik - Mit Basiswissen zum Profi
 
 > Product ID `34968` · Digistore24 productId `352496` · [HTML profile page](../../produkte/1x1-floristik-mit-basiswissen-zum-profi-34968.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $127.24 (Single payment) |
+| Price | $127.32 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $18.12 |
+| Earnings/sale* | $18.14 |
 | Cart conversion* | 13% |
 | Cancel rate* | 0.67% |
 | Vendor | Elobana |
@@ -93,14 +93,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 1x1 Floristik - Mit Basiswissen zum Profi? — Typ: Member area and video courses, Anbieter: Elobana, gelistet seit 2020-10-15
-- Wie viel kostet es? — 127.23978000000001 USD
+- Wie viel kostet es? — 127.31944 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 1x1 Floristik - Mit Basiswissen zum Profi Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/352496
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/352496/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=1x1%20Floristik%20-%20Mit%20Basiswissen%20zum%20Profi
 
 ## 4. Editorial notes

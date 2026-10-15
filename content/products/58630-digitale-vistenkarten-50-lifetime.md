@@ -4,16 +4,16 @@ digistore24_product_id: 723280
 title: "Digitale Vistenkarten - 50% Lifetime"
 vendor: "digital-railways"
 product_type: "Software"
-price: 253.69
+price: 253.84
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 126.85
+earnings_per_sale: 126.93
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Software","Marketing Services"]
 listed_since: "2026-08-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://kontaktkarte.com?aff=adminstore#aff=adminstore"
 sales_page: "https://kontaktkarte.com"
@@ -22,16 +22,16 @@ language: "de"
 # Digitale Vistenkarten - 50% Lifetime
 
 > Product ID `58630` · Digistore24 productId `723280` · [HTML profile page](../../produkte/digitale-vistenkarten-50-lifetime-58630.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $253.69 (Subscription) |
+| Price | $253.84 (Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $126.85 |
+| Earnings/sale* | $126.93 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | digital-railways |
@@ -87,14 +87,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Digitale Vistenkarten - 50% Lifetime? — Typ: Software, Anbieter: digital-railways, gelistet seit 2026-08-24
-- Wie viel kostet es? — 253.685709 USD
+- Wie viel kostet es? — 253.844532 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Digitale Vistenkarten - 50% Lifetime Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/723280
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/723280/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Digitale%20Vistenkarten%20-%2050%25%20Lifetime
 
 ## 4. Editorial notes

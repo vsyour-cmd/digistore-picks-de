@@ -4,16 +4,16 @@ digistore24_product_id: 295916
 title: "Energetisch Geistige Wirbelsäulentherapie"
 vendor: "reichl"
 product_type: "Downloads"
-price: 201.26
+price: 201.38
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 100.63
+earnings_per_sale: 100.69
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2019-11-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://www.energy-healing.bayern/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.energy-healing.bayern/"
@@ -22,16 +22,16 @@ language: "de"
 # Energetisch Geistige Wirbelsäulentherapie
 
 > Product ID `25874` · Digistore24 productId `295916` · [HTML profile page](../../produkte/energetisch-geistige-wirbels-ulentherapie-25874.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $201.26 (Single payment, Installment) |
+| Price | $201.38 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $100.63 |
+| Earnings/sale* | $100.69 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | reichl |
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Energetisch Geistige Wirbelsäulentherapie? — Typ: Downloads, Anbieter: reichl, gelistet seit 2019-11-20
-- Wie viel kostet es? — 201.258 USD
+- Wie viel kostet es? — 201.38400000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Energetisch Geistige Wirbelsäulentherapie Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/295916
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/295916/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Energetisch%20Geistige%20Wirbels%C3%A4ulentherapie
 
 ## 4. Editorial notes

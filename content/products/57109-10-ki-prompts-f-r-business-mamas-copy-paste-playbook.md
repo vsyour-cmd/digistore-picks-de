@@ -4,7 +4,7 @@ digistore24_product_id: 702998
 title: "10 KI-Prompts für Business-Mamas - Copy-Paste Playbook"
 vendor: "carinabauer"
 product_type: "Downloads"
-price: 13.15
+price: 13.16
 currency: "USD"
 affiliate_commission_pct: 25
 earnings_per_sale: 3.29
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children","Profession & Job"]
 listed_since: "2026-06-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/57109/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/702998?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/702998"
 language: "de"
 ---
 # 10 KI-Prompts für Business-Mamas - Copy-Paste Playbook
 
 > Product ID `57109` · Digistore24 productId `702998` · [HTML profile page](../../produkte/10-ki-prompts-f-r-business-mamas-copy-paste-playbook-57109.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $13.15 (Single payment) |
+| Price | $13.16 (Single payment) |
 | Affiliate commission | 25% |
 | Earnings/sale* | $3.29 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/57109/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/702998?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/702998
 - Canonical redirect: https://www.digistore24.com/redir/702998/adminstore
 
@@ -70,14 +70,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 10 KI-Prompts für Business-Mamas - Copy-Paste Playbook? — Typ: Downloads, Anbieter: carinabauer, gelistet seit 2026-06-23
-- Wie viel kostet es? — 13.148856 USD
+- Wie viel kostet es? — 13.157088 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 10 KI-Prompts für Business-Mamas - Copy-Paste Playbook Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/702998
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/702998/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=10%20KI-Prompts%20f%C3%BCr%20Business-Mamas%20-%20Copy-Paste%20Playbook
 
 ## 4. Editorial notes

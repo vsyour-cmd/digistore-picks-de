@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Education","Real Estate"]
 listed_since: "2026-08-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://promm.de/buch?aff=adminstore#aff=adminstore"
 sales_page: "https://promm.de/buch"
@@ -22,7 +22,7 @@ language: "de"
 # 90 % Provision: Gratis Immobilien-Buch + Upsells
 
 > Product ID `58674` · Digistore24 productId `628360` · [HTML profile page](../../produkte/90-provision-gratis-immobilien-buch-upsells-58674.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,12 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 90 % Provision auf den Einstieg – und danach mehrere weitere Verdienstchancen im Funnel. Wenn Du als Affiliate ein Produkt suchst, das sich einfach erklären und niedrigschwellig bewerben lässt, ist dieser Rent2Rent-Funnel besonders spannend. Der Kunde startet für nur 6,95 € Versandkosten mit dem Buch – Du erhältst darauf 90 % Provision . Und damit ist noch nicht Schluss: Buch: 6,95 € → 90 % Provision SofortStart Add-on: 7,97 € → 70 % Provision Upgrade-Paket inkl. Hörbuch: 17,90 € → 50 % Provision BGH-Paket als Downsell: 4,90 € → 50 % Provision Dein Vorteil: Du musst keinen hochpreisigen Kurs verkaufen. Du bewirbst ein einfach verständliches Einstiegsangebot mit sehr niedriger Kaufhürde – und hast anschließend mehrere zusätzliche Möglichkeiten, am gleichen Kunden mitzuverdienen. Ideal für Zielgruppen rund um: Immobilien · zusätzliches Einkommen · Cashflow · Business · Rent2Rent Kurz gesagt: Niedrige Einstiegshürde. 90 % Frontend-Provision. Mehrere Verdienststufen. Ein klarer Immobilien-Funnel. Wenn Du eine immobilien- oder einkommensaffine Zielgruppe hast, solltest Du Dir diesen Funnel genauer ansehen.
+**Vendor's marketplace description:** 90 % Provision auf den Einstieg – und danach mehrere weitere Verdienstchancen im Funnel. Wenn Du als Affiliate ein Produkt suchst, das sich einfach erklären und niedrigschwellig bewerben lässt, ist dieser Rent2Rent-Funnel besonders spannend. Der Kunde startet für nur 6,95 € Versandkosten mit dem Buch – Du erhältst darauf 90 % Provision. Und damit ist noch nicht Schluss: Buch: 6,95 € → 90 % Provision SofortStart Add-on: 7,97 € → 70 % Provision Upgrade-Paket inkl. Hörbuch: 17,90 € → 50 % Provision BGH-Paket als Downsell: 4,90 € → 50 % Provision Dein Vorteil: Du musst keinen hochpreisigen Kurs verkaufen. Du bewirbst ein einfach verständliches Einstiegsangebot mit sehr niedriger Kaufhürde – und hast anschließend mehrere zusätzliche Möglichkeiten, am gleichen Kunden mitzuverdienen. Ideal für Zielgruppen rund um: Immobilien · zusätzliches Einkommen · Cashflow · Business · Rent2Rent Kurz gesagt: Niedrige Einstiegshürde. 90 % Frontend-Provision. Mehrere Verdienststufen. Ein klarer Immobilien-Funnel. Wenn Du eine immobilien- oder einkommensaffine Zielgruppe hast, solltest Du Dir diesen Funnel genauer ansehen. Du kennst weitere passende Affiliates? Über unser Affiliate-Partnerprogramm kannst Du zusätzlich an deren Verkäufen beteiligt werden. Details findest Du auf der Affiliate-Support-Seite.
 
 ## 2. Links
 
 - **Promo link (affiliate):** https://promm.de/buch?aff=adminstore#aff=adminstore
 - Sales page: https://promm.de/buch
+- Vendor affiliate support: https://ericpromm.de/affiliate-buch/
 - Canonical redirect: https://www.digistore24.com/redir/628360/adminstore
 
 ## 3. Sales-page research (vendor claims, not verified by us)
@@ -88,14 +89,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 90 % Provision: Gratis Immobilien-Buch + Upsells? — Typ: Book (printed), Anbieter: ericpromm, gelistet seit 2026-08-26
-- Wie viel kostet es? — 7.267650000000001 USD
+- Wie viel kostet es? — 7.2722 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 90 % Provision: Gratis Immobilien-Buch + Upsells Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/628360
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/628360/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=90%20%25%20Provision%3A%20Gratis%20Immobilien-Buch%20%2B%20Upsells
 
 ## 4. Editorial notes

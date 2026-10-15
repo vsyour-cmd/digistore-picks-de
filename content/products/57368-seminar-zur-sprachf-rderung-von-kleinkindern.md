@@ -4,16 +4,16 @@ digistore24_product_id: 703375
 title: "Seminar zur Sprachförderung von Kleinkindern"
 vendor: "KerstinSchimkus"
 product_type: "Member area and video courses"
-price: 670.86
+price: 671.28
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 67.09
+earnings_per_sale: 67.13
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2026-07-02"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/703375?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/703375"
@@ -22,16 +22,16 @@ language: "de"
 # Seminar zur Sprachförderung von Kleinkindern
 
 > Product ID `57368` · Digistore24 productId `703375` · [HTML profile page](../../produkte/seminar-zur-sprachf-rderung-von-kleinkindern-57368.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $670.86 (Single payment) |
+| Price | $671.28 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $67.09 |
+| Earnings/sale* | $67.13 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | KerstinSchimkus |
@@ -89,14 +89,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Seminar zur Sprachförderung von Kleinkindern? — Typ: Member area and video courses, Anbieter: KerstinSchimkus, gelistet seit 2026-07-02
-- Wie viel kostet es? — 670.86 USD
+- Wie viel kostet es? — 671.28 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Seminar zur Sprachförderung von Kleinkindern Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/703375
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/703375/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Seminar%20zur%20Sprachf%C3%B6rderung%20von%20Kleinkindern
 
 ## 4. Editorial notes

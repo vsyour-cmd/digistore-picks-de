@@ -4,16 +4,16 @@ digistore24_product_id: 518666
 title: "Photomizer 3 Premium - Bildbearbeitungsprogramm"
 vendor: "engelmann-software"
 product_type: "Software"
-price: 37.58
+price: 37.6
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 18.8
+earnings_per_sale: 18.81
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Photography & Film","Social Media","Software"]
+categories: ["Software","Social Media","Photography & Film"]
 listed_since: "2023-09-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/518666?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/518666"
@@ -22,22 +22,22 @@ language: "de"
 # Photomizer 3 Premium - Bildbearbeitungsprogramm
 
 > Product ID `51980` · Digistore24 productId `518666` · [HTML profile page](../../produkte/photomizer-3-premium-bildbearbeitungsprogramm-51980.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $37.58 (Single payment) |
+| Price | $37.60 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $18.80 |
+| Earnings/sale* | $18.81 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | engelmann-software |
 | Listed since | 2023-09-29 |
 | Auto-accept affiliates | yes |
-| Categories | Photography & Film, Social Media, Software |
+| Categories | Software, Social Media, Photography & Film |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -83,14 +83,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Photomizer 3 Premium - Bildbearbeitungsprogramm? — Typ: Software, Anbieter: engelmann-software, gelistet seit 2023-09-29
-- Wie viel kostet es? — 37.579341 USD
+- Wie viel kostet es? — 37.602868 USD
 - Garantie? — 60
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Photomizer 3 Premium - Bildbearbeitungsprogramm Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/518666
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/518666/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Photomizer%203%20Premium%20-%20Bildbearbeitungsprogramm
 
 ## 4. Editorial notes

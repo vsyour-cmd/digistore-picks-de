@@ -4,7 +4,7 @@ digistore24_product_id: 418781
 title: "Bücher vom Verlag für Introvertierte"
 vendor: "RicardaColditz"
 product_type: "Book (printed)"
-price: 20.8
+price: 20.81
 currency: "USD"
 affiliate_commission_pct: 5
 earnings_per_sale: 1.04
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2021-12-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "http://www.verlag-colditz.de?aff=adminstore#aff=adminstore"
 sales_page: "http://www.verlag-colditz.de"
@@ -22,14 +22,14 @@ language: "de"
 # Bücher vom Verlag für Introvertierte
 
 > Product ID `41676` · Digistore24 productId `418781` · [HTML profile page](../../produkte/b-cher-vom-verlag-f-r-introvertierte-41676.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $20.80 (Single payment) |
+| Price | $20.81 (Single payment) |
 | Affiliate commission | 5% |
 | Earnings/sale* | $1.04 |
 | Cart conversion* | — |
@@ -88,14 +88,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Bücher vom Verlag für Introvertierte? — Typ: Book (printed), Anbieter: RicardaColditz, gelistet seit 2021-12-01
-- Wie viel kostet es? — 20.796660000000003 USD
+- Wie viel kostet es? — 20.80968 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Bücher vom Verlag für Introvertierte Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/418781
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/418781/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=B%C3%BCcher%20vom%20Verlag%20f%C3%BCr%20Introvertierte
 
 ## 4. Editorial notes

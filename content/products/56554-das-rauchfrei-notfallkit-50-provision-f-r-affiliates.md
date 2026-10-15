@@ -4,7 +4,7 @@ digistore24_product_id: 693330
 title: "Das Rauchfrei-Notfallkit – 50 % Provision für Affiliates"
 vendor: "HeikoBoos"
 product_type: "E-books"
-price: 7.31
+price: 7.32
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 3.66
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2026-05-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://nichtraucherzone.de/das-rauchfrei-notfallkit/?aff=adminstore#aff=adminstore"
 sales_page: "https://nichtraucherzone.de/das-rauchfrei-notfallkit/"
@@ -22,14 +22,14 @@ language: "de"
 # Das Rauchfrei-Notfallkit – 50 % Provision für Affiliates
 
 > Product ID `56554` · Digistore24 productId `693330` · [HTML profile page](../../produkte/das-rauchfrei-notfallkit-50-provision-f-r-affiliates-56554.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $7.31 (Single payment) |
+| Price | $7.32 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $3.66 |
 | Cart conversion* | — |
@@ -81,14 +81,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Rauchfrei-Notfallkit – 50 % Provision für Affiliates? — Typ: E-books, Anbieter: HeikoBoos, gelistet seit 2026-05-18
-- Wie viel kostet es? — 7.312374000000001 USD
+- Wie viel kostet es? — 7.316952000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Das Rauchfrei-Notfallkit – 50 % Provision für Affiliates Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/693330
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/693330/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Das%20Rauchfrei-Notfallkit%20%E2%80%93%2050%20%25%20Provision%20f%C3%BCr%20Affiliates
 
 ## 4. Editorial notes

@@ -4,34 +4,34 @@ digistore24_product_id: 349290
 title: "Luzides Träumen – Klartraum"
 vendor: "Dreamworld"
 product_type: "Member area and video courses"
-price: 112.75
+price: 112.82
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 22.55
+earnings_per_sale: 22.57
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2020-09-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/34201/adminstore/"
+promo_link: "https://dreamworld.coachy.net/?aff=adminstore#aff=adminstore"
 sales_page: "https://dreamworld.coachy.net/"
 language: "de"
 ---
 # Luzides Träumen – Klartraum
 
 > Product ID `34201` · Digistore24 productId `349290` · [HTML profile page](../../produkte/luzides-tr-umen-klartraum-34201.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $112.75 (Single payment) |
+| Price | $112.82 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $22.55 |
+| Earnings/sale* | $22.57 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Dreamworld |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/34201/adminstore/
+- **Promo link (affiliate):** https://dreamworld.coachy.net/?aff=adminstore#aff=adminstore
 - Sales page: https://dreamworld.coachy.net/
 - Canonical redirect: https://www.digistore24.com/redir/349290/adminstore
 
@@ -82,14 +82,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Luzides Träumen – Klartraum? — Typ: Member area and video courses, Anbieter: Dreamworld, gelistet seit 2020-09-23
-- Wie viel kostet es? — 112.74920400000002 USD
+- Wie viel kostet es? — 112.819792 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Luzides Träumen – Klartraum Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/349290
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/349290/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Luzides%20Tr%C3%A4umen%20%E2%80%93%20Klartraum
 
 ## 4. Editorial notes

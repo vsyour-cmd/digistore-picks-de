@@ -4,32 +4,32 @@ digistore24_product_id: 740880
 title: "Pflege-Notfallplan – für den Ernstfall"
 vendor: "linalind1"
 product_type: "Downloads"
-price: 13.1
+price: 13.11
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 1.31
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Family & Children","Health & Fitness","Personal Development"]
+categories: ["Health & Fitness","Personal Development","Family & Children"]
 listed_since: "2026-10-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/60167/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/740880?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/740880"
 language: "de"
 ---
 # Pflege-Notfallplan – für den Ernstfall
 
 > Product ID `60167` · Digistore24 productId `740880` · [HTML profile page](../../produkte/pflege-notfallplan-f-r-den-ernstfall-60167.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $13.10 (Single payment) |
+| Price | $13.11 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $1.31 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | linalind1 |
 | Listed since | 2026-10-04 |
 | Auto-accept affiliates | no (approval required) |
-| Categories | Family & Children, Health & Fitness, Personal Development |
+| Categories | Health & Fitness, Personal Development, Family & Children |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/60167/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/740880?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/740880
 - Canonical redirect: https://www.digistore24.com/redir/740880/adminstore
 
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Pflege-Notfallplan – für den Ernstfall? — Typ: Downloads, Anbieter: linalind1, gelistet seit 2026-10-04
-- Wie viel kostet es? — 13.104132000000002 USD
+- Wie viel kostet es? — 13.112336 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Pflege-Notfallplan – für den Ernstfall Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/740880
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/740880/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Pflege-Notfallplan%20%E2%80%93%20f%C3%BCr%20den%20Ernstfall
 
 ## 4. Editorial notes

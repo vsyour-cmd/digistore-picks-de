@@ -10,19 +10,19 @@ affiliate_commission_pct: 60
 earnings_per_sale: 6.79
 cart_conversion_pct: 65
 cancel_rate_pct: 0
-categories: ["Business & Investment","Education","Profession & Job"]
+categories: ["Business & Investment","Profession & Job","Education"]
 listed_since: "2026-02-14"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/55643/adminstore/"
+promo_link: "https://www.meinneuerlifestyle.vip/dein-power-mindset-fr/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.meinneuerlifestyle.vip/dein-power-mindset-fr/"
 language: "de"
 ---
 # Power Mindset - Programmiere Dich auf Erfolg
 
 > Product ID `55643` · Digistore24 productId `668819` · [HTML profile page](../../produkte/power-mindset-programmiere-dich-auf-erfolg-55643.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | Spekulatius |
 | Listed since | 2026-02-14 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Education, Profession & Job |
+| Categories | Business & Investment, Profession & Job, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55643/adminstore/
+- **Promo link (affiliate):** https://www.meinneuerlifestyle.vip/dein-power-mindset-fr/?aff=adminstore#aff=adminstore
 - Sales page: https://www.meinneuerlifestyle.vip/dein-power-mindset-fr/
 - Canonical redirect: https://www.digistore24.com/redir/668819/adminstore
 
@@ -65,7 +65,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Power Mindset - Programmiere Dich auf Erfolg Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/668819
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/668819/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Power%20Mindset%20-%20Programmiere%20Dich%20auf%20Erfolg
 
 ## 4. Editorial notes

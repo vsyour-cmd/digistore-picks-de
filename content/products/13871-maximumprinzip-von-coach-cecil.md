@@ -4,40 +4,40 @@ digistore24_product_id: 100729
 title: "MAXIMUMPRINZIP von Coach Cecil"
 vendor: "coachcecil"
 product_type: "Downloads"
-price: 306.91
+price: 307.1
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 153.46
+earnings_per_sale: 153.56
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Health & Fitness","Sport"]
+categories: ["Health & Fitness","Education","Sport"]
 listed_since: "2016-10-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/13871/adminstore/"
+promo_link: "https://www.maximumprinzip.de/maft1?aff=adminstore#aff=adminstore"
 sales_page: "https://www.maximumprinzip.de/maft1"
 language: "de"
 ---
 # MAXIMUMPRINZIP von Coach Cecil
 
 > Product ID `13871` · Digistore24 productId `100729` · [HTML profile page](../../produkte/maximumprinzip-von-coach-cecil-13871.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $306.91 (Single payment, Installment) |
+| Price | $307.10 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $153.46 |
+| Earnings/sale* | $153.56 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | coachcecil |
 | Listed since | 2016-10-20 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Health & Fitness, Sport |
+| Categories | Health & Fitness, Education, Sport |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/13871/adminstore/
+- **Promo link (affiliate):** https://www.maximumprinzip.de/maft1?aff=adminstore#aff=adminstore
 - Sales page: https://www.maximumprinzip.de/maft1
 - Vendor affiliate support: https://matrixprinzip.com/affiliate-marketing
 - Canonical redirect: https://www.digistore24.com/redir/100729/adminstore
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist MAXIMUMPRINZIP von Coach Cecil? — Typ: Downloads, Anbieter: coachcecil, gelistet seit 2016-10-20
-- Wie viel kostet es? — 306.90726900000004 USD
+- Wie viel kostet es? — 307.09941200000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: MAXIMUMPRINZIP von Coach Cecil Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/100729
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/100729/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=MAXIMUMPRINZIP%20von%20Coach%20Cecil
 
 ## 4. Editorial notes

@@ -4,7 +4,7 @@ digistore24_product_id: 333355
 title: "Fachkundige Stellungnahme"
 vendor: "emilio78"
 product_type: "Remote service provided electronically"
-price: 107.85
+price: 107.92
 currency: "USD"
 affiliate_commission_pct: 0
 earnings_per_sale: 0.67
@@ -12,24 +12,24 @@ cart_conversion_pct: 33
 cancel_rate_pct: 5.05
 categories: ["Business & Investment","Profession & Job","Services"]
 listed_since: "2020-06-25"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/35105/adminstore/"
+promo_link: "https://www.existenzgruender-helfer.de/gruenderservice-existenzgruenderberatung/fachkundige-stellungnahme-tragfaehigkeitsbescheinigung-tragfahigkeitspruefung-kostenlos/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.existenzgruender-helfer.de/gruenderservice-existenzgruenderberatung/fachkundige-stellungnahme-tragfaehigkeitsbescheinigung-tragfahigkeitspruefung-kostenlos/"
 language: "de"
 ---
 # Fachkundige Stellungnahme
 
 > Product ID `35105` · Digistore24 productId `333355` · [HTML profile page](../../produkte/fachkundige-stellungnahme-35105.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $107.85 (Single payment) |
+| Price | $107.92 (Single payment) |
 | Affiliate commission | 0% |
 | Earnings/sale* | $0.67 |
 | Cart conversion* | 33% |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/35105/adminstore/
+- **Promo link (affiliate):** https://www.existenzgruender-helfer.de/gruenderservice-existenzgruenderberatung/fachkundige-stellungnahme-tragfaehigkeitsbescheinigung-tragfahigkeitspruefung-kostenlos/?aff=adminstore#aff=adminstore
 - Sales page: https://www.existenzgruender-helfer.de/gruenderservice-existenzgruenderberatung/fachkundige-stellungnahme-tragfaehigkeitsbescheinigung-tragfahigkeitspruefung-kostenlos/
 - Canonical redirect: https://www.digistore24.com/redir/333355/adminstore
 
@@ -76,14 +76,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Fachkundige Stellungnahme? — Typ: Remote service provided electronically, Anbieter: emilio78, gelistet seit 2020-06-25
-- Wie viel kostet es? — 107.851926 USD
+- Wie viel kostet es? — 107.91944799999999 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Fachkundige Stellungnahme Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/333355
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/333355/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Fachkundige%20Stellungnahme
 
 ## 4. Editorial notes

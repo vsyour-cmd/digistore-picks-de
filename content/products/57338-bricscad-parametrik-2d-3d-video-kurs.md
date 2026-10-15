@@ -4,16 +4,16 @@ digistore24_product_id: 537260
 title: "BricsCAD Parametrik 2D/3D Video-Kurs"
 vendor: "CADDeutschland"
 product_type: "Member area and video courses"
-price: 110.69
+price: 110.76
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 22.14
+earnings_per_sale: 22.15
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2026-07-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://cad-video.de/bricscad-parametrik-channel?aff=adminstore#aff=adminstore"
 sales_page: "https://cad-video.de/bricscad-parametrik-channel"
@@ -22,16 +22,16 @@ language: "de"
 # BricsCAD Parametrik 2D/3D Video-Kurs
 
 > Product ID `57338` · Digistore24 productId `537260` · [HTML profile page](../../produkte/bricscad-parametrik-2d-3d-video-kurs-57338.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $110.69 (Single payment) |
+| Price | $110.76 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $22.14 |
+| Earnings/sale* | $22.15 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | CADDeutschland |
@@ -80,14 +80,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist BricsCAD Parametrik 2D/3D Video-Kurs? — Typ: Member area and video courses, Anbieter: CADDeutschland, gelistet seit 2026-07-01
-- Wie viel kostet es? — 110.6919 USD
+- Wie viel kostet es? — 110.7612 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: BricsCAD Parametrik 2D/3D Video-Kurs Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/537260
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/537260/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=BricsCAD%20Parametrik%202D%2F3D%20Video-Kurs
 
 ## 4. Editorial notes

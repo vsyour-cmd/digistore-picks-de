@@ -4,32 +4,32 @@ digistore24_product_id: 456413
 title: "(Neu) 70% Provision pro verkauftem Buch! - Motivation"
 vendor: "Deinechance"
 product_type: "Book (printed)"
-price: 11.17
+price: 11.18
 currency: "USD"
 affiliate_commission_pct: 70
 earnings_per_sale: 7.82
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Fun & Games","Home & Garden","Survival"]
+categories: ["Home & Garden","Fun & Games","Survival"]
 listed_since: "2022-08-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/44265/adminstore/"
+promo_link: "https://dejansekulic.ch/glueck-gedrucktes-buch?aff=adminstore#aff=adminstore"
 sales_page: "https://dejansekulic.ch/glueck-gedrucktes-buch"
 language: "de"
 ---
 # (Neu) 70% Provision pro verkauftem Buch! - Motivation
 
 > Product ID `44265` · Digistore24 productId `456413` · [HTML profile page](../../produkte/neu-70-provision-pro-verkauftem-buch-motivation-44265.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $11.17 (Single payment) |
+| Price | $11.18 (Single payment) |
 | Affiliate commission | 70% |
 | Earnings/sale* | $7.82 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | Deinechance |
 | Listed since | 2022-08-20 |
 | Auto-accept affiliates | yes |
-| Categories | Fun & Games, Home & Garden, Survival |
+| Categories | Home & Garden, Fun & Games, Survival |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/44265/adminstore/
+- **Promo link (affiliate):** https://dejansekulic.ch/glueck-gedrucktes-buch?aff=adminstore#aff=adminstore
 - Sales page: https://dejansekulic.ch/glueck-gedrucktes-buch
 - Vendor affiliate support: https://dejan-sekulic.com/partnerprogramm
 - Canonical redirect: https://www.digistore24.com/redir/456413/adminstore
@@ -72,14 +72,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist (Neu) 70% Provision pro verkauftem Buch! - Motivation? — Typ: Book (printed), Anbieter: Deinechance, gelistet seit 2022-08-20
-- Wie viel kostet es? — 11.169819 USD
+- Wie viel kostet es? — 11.176812 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: (Neu) 70% Provision pro verkauftem Buch! - Motivation Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/456413
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/456413/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=(Neu)%2070%25%20Provision%20pro%20verkauftem%20Buch!%20-%20Motivation
 
 ## 4. Editorial notes

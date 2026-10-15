@@ -4,16 +4,16 @@ digistore24_product_id: 525719
 title: "Dienstplan: Effiziente Schichtplanung mit Excel"
 vendor: "CemisCode"
 product_type: "Downloads"
-price: 46.04
+price: 46.07
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 4.61
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Profession & Job","Software"]
+categories: ["Software","Profession & Job"]
 listed_since: "2023-11-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.cemiscode.com/dienstplan/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.cemiscode.com/dienstplan/"
@@ -22,14 +22,14 @@ language: "de"
 # Dienstplan: Effiziente Schichtplanung mit Excel
 
 > Product ID `46816` · Digistore24 productId `525719` · [HTML profile page](../../produkte/dienstplan-effiziente-schichtplanung-mit-excel-46816.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $46.04 (Single payment) |
+| Price | $46.07 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $4.61 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | CemisCode |
 | Listed since | 2023-11-17 |
 | Auto-accept affiliates | yes |
-| Categories | Profession & Job, Software |
+| Categories | Software, Profession & Job |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -70,14 +70,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Dienstplan: Effiziente Schichtplanung mit Excel? — Typ: Downloads, Anbieter: CemisCode, gelistet seit 2023-11-17
-- Wie viel kostet es? — 46.043358000000005 USD
+- Wie viel kostet es? — 46.072184 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Dienstplan: Effiziente Schichtplanung mit Excel Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/525719
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/525719/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Dienstplan%3A%20Effiziente%20Schichtplanung%20mit%20Excel
 
 ## 4. Editorial notes

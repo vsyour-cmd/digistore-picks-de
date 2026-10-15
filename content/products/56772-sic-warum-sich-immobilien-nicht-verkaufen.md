@@ -10,10 +10,10 @@ affiliate_commission_pct: 60
 earnings_per_sale: 0
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Personal Development","Real Estate","Marketing Services"]
+categories: ["Personal Development","Marketing Services","Real Estate"]
 listed_since: "2026-06-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://academy.e-ducation.cloud/course/sic-warum-sich-immobilien-nicht-verkaufen?aff=adminstore#aff=adminstore"
 sales_page: "https://academy.e-ducation.cloud/course/sic-warum-sich-immobilien-nicht-verkaufen"
@@ -22,7 +22,7 @@ language: "de"
 # SIC - Warum sich Immobilien nicht verkaufen
 
 > Product ID `56772` · Digistore24 productId `692320` · [HTML profile page](../../produkte/sic-warum-sich-immobilien-nicht-verkaufen-56772.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | Immoclear |
 | Listed since | 2026-06-01 |
 | Auto-accept affiliates | no (approval required) |
-| Categories | Personal Development, Real Estate, Marketing Services |
+| Categories | Personal Development, Marketing Services, Real Estate |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -78,7 +78,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: SIC - Warum sich Immobilien nicht verkaufen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/692320
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/692320/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=SIC%20-%20Warum%20sich%20Immobilien%20nicht%20verkaufen
 
 ## 4. Editorial notes

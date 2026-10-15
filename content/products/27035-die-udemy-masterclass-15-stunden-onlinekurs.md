@@ -4,34 +4,34 @@ digistore24_product_id: 184381
 title: "Die Udemy Masterclass (15 Stunden Onlinekurs)"
 vendor: "Abhaker"
 product_type: "Member area and video courses"
-price: 535.56
+price: 535.89
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 267.78
+earnings_per_sale: 267.95
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2017-12-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/27035/adminstore/"
+promo_link: "https://sebastian-gloeckner-bonn.de/die-udemy-masterclass/?aff=adminstore#aff=adminstore"
 sales_page: "https://sebastian-gloeckner-bonn.de/die-udemy-masterclass/"
 language: "de"
 ---
 # Die Udemy Masterclass (15 Stunden Onlinekurs)
 
 > Product ID `27035` · Digistore24 productId `184381` · [HTML profile page](../../produkte/die-udemy-masterclass-15-stunden-onlinekurs-27035.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $535.56 (Single payment, Installment) |
+| Price | $535.89 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $267.78 |
+| Earnings/sale* | $267.95 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Abhaker |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/27035/adminstore/
+- **Promo link (affiliate):** https://sebastian-gloeckner-bonn.de/die-udemy-masterclass/?aff=adminstore#aff=adminstore
 - Sales page: https://sebastian-gloeckner-bonn.de/die-udemy-masterclass/
 - Vendor affiliate support: https://sebastian-gloeckner-bonn.de/partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/184381/adminstore
@@ -80,14 +80,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die Udemy Masterclass (15 Stunden Onlinekurs)? — Typ: Member area and video courses, Anbieter: Abhaker, gelistet seit 2017-12-01
-- Wie viel kostet es? — 535.5587190000001 USD
+- Wie viel kostet es? — 535.894012 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Die Udemy Masterclass (15 Stunden Onlinekurs) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/184381
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/184381/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Die%20Udemy%20Masterclass%20(15%20Stunden%20Onlinekurs)
 
 ## 4. Editorial notes

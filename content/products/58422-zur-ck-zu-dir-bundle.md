@@ -4,16 +4,16 @@ digistore24_product_id: 695517
 title: "Zurück zu dir Bundle"
 vendor: "SinaDieterle"
 product_type: "E-books"
-price: 135.74
+price: 135.82
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 40.72
+earnings_per_sale: 40.75
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Dating, Relationships & Romance","Personal Development"]
+categories: ["Personal Development","Dating, Relationships & Romance"]
 listed_since: "2026-08-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://beziehungscoach-online.de/deine-beduerfnisse/?aff=adminstore#aff=adminstore"
 sales_page: "https://beziehungscoach-online.de/deine-beduerfnisse/"
@@ -22,22 +22,22 @@ language: "de"
 # Zurück zu dir Bundle
 
 > Product ID `58422` · Digistore24 productId `695517` · [HTML profile page](../../produkte/zur-ck-zu-dir-bundle-58422.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $135.74 (Single payment) |
+| Price | $135.82 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $40.72 |
+| Earnings/sale* | $40.75 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SinaDieterle |
 | Listed since | 2026-08-17 |
 | Auto-accept affiliates | yes |
-| Categories | Dating, Relationships & Romance, Personal Development |
+| Categories | Personal Development, Dating, Relationships & Romance |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -91,14 +91,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Zurück zu dir Bundle? — Typ: E-books, Anbieter: SinaDieterle, gelistet seit 2026-08-17
-- Wie viel kostet es? — 135.73734000000002 USD
+- Wie viel kostet es? — 135.82232000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Zurück zu dir Bundle Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/695517
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/695517/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Zur%C3%BCck%20zu%20dir%20Bundle
 
 ## 4. Editorial notes

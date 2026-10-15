@@ -4,40 +4,40 @@ digistore24_product_id: 729864
 title: "Das komplette 10+1 Bonus Bundle – 10 Premium-Ratgeber + 1 Bo"
 vendor: "mlangbein51cce0"
 product_type: "E-books"
-price: 80.46
+price: 80.51
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 40.23
+earnings_per_sale: 40.25
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Leadership & Management","Personal Development"]
+categories: ["Personal Development","Education","Leadership & Management"]
 listed_since: "2026-09-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/58925/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/729864?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/729864"
 language: "de"
 ---
 # Das komplette 10+1 Bonus Bundle – 10 Premium-Ratgeber + 1 Bo
 
 > Product ID `58925` · Digistore24 productId `729864` · [HTML profile page](../../produkte/das-komplette-10-1-bonus-bundle-10-premium-ratgeber-1-bo-58925.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $80.46 (Single payment) |
+| Price | $80.51 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $40.23 |
+| Earnings/sale* | $40.25 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | mlangbein51cce0 |
 | Listed since | 2026-09-04 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Leadership & Management, Personal Development |
+| Categories | Personal Development, Education, Leadership & Management |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58925/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/729864?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/729864
 - Canonical redirect: https://www.digistore24.com/redir/729864/adminstore
 
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das komplette 10+1 Bonus Bundle – 10 Premium-Ratgeber + 1 Bo? — Typ: E-books, Anbieter: mlangbein51cce0, gelistet seit 2026-09-04
-- Wie viel kostet es? — 80.458476 USD
+- Wie viel kostet es? — 80.508848 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Das komplette 10+1 Bonus Bundle – 10 Premium-Ratgeber + 1 Bo Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/729864
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/729864/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Das%20komplette%2010%2B1%20Bonus%20Bundle%20%E2%80%93%2010%20Premium-Ratgeber%20%2B%201%20Bo
 
 ## 4. Editorial notes

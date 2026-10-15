@@ -4,32 +4,32 @@ digistore24_product_id: 615032
 title: "Selbstachtung Neuanfang"
 vendor: "DreamElfe"
 product_type: "E-books"
-price: 19.86
+price: 19.87
 currency: "USD"
 affiliate_commission_pct: 20
 earnings_per_sale: 3.97
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Online Marketing & E-Business","Personal Development","Spiri­tua­lity & Esotericism"]
+categories: ["Personal Development","Spiri­tua­lity & Esotericism","Online Marketing & E-Business"]
 listed_since: "2025-05-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/54693/adminstore/"
+promo_link: "https://dreamelfes-buisness.systeme.io/selbstachtung-neuanfang-ds?aff=adminstore#aff=adminstore"
 sales_page: "https://dreamelfes-buisness.systeme.io/selbstachtung-neuanfang-ds"
 language: "de"
 ---
 # Selbstachtung Neuanfang
 
 > Product ID `54693` · Digistore24 productId `615032` · [HTML profile page](../../produkte/selbstachtung-neuanfang-54693.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $19.86 (Single payment) |
+| Price | $19.87 (Single payment) |
 | Affiliate commission | 20% |
 | Earnings/sale* | $3.97 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | DreamElfe |
 | Listed since | 2025-05-26 |
 | Auto-accept affiliates | yes |
-| Categories | Online Marketing & E-Business, Personal Development, Spiri­tua­lity & Esotericism |
+| Categories | Personal Development, Spiri­tua­lity & Esotericism, Online Marketing & E-Business |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/54693/adminstore/
+- **Promo link (affiliate):** https://dreamelfes-buisness.systeme.io/selbstachtung-neuanfang-ds?aff=adminstore#aff=adminstore
 - Sales page: https://dreamelfes-buisness.systeme.io/selbstachtung-neuanfang-ds
 - Canonical redirect: https://www.digistore24.com/redir/615032/adminstore
 
@@ -66,14 +66,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Selbstachtung Neuanfang? — Typ: E-books, Anbieter: DreamElfe, gelistet seit 2025-05-26
-- Wie viel kostet es? — 19.857456000000003 USD
+- Wie viel kostet es? — 19.869888000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Selbstachtung Neuanfang Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/615032
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/615032/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Selbstachtung%20Neuanfang
 
 ## 4. Editorial notes

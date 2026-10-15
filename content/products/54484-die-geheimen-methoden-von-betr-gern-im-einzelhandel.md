@@ -4,16 +4,16 @@ digistore24_product_id: 643989
 title: "Die geheimen Methoden von Betrügern im Einzelhandel"
 vendor: "ebeconnect"
 product_type: "E-books"
-price: 51.2
+price: 51.23
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 25.6
+earnings_per_sale: 25.62
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Profession & Job","Services"]
 listed_since: "2025-10-25"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "http://checkout-ds24.com/product/643989?aff=adminstore"
 sales_page: "http://checkout-ds24.com/product/643989"
@@ -22,16 +22,16 @@ language: "de"
 # Die geheimen Methoden von Betrügern im Einzelhandel
 
 > Product ID `54484` · Digistore24 productId `643989` · [HTML profile page](../../produkte/die-geheimen-methoden-von-betr-gern-im-einzelhandel-54484.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $51.20 (Single payment) |
+| Price | $51.23 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $25.60 |
+| Earnings/sale* | $25.62 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ebeconnect |
@@ -91,14 +91,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die geheimen Methoden von Betrügern im Einzelhandel? — Typ: E-books, Anbieter: ebeconnect, gelistet seit 2025-10-25
-- Wie viel kostet es? — 51.197799 USD
+- Wie viel kostet es? — 51.229852 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Die geheimen Methoden von Betrügern im Einzelhandel Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/643989
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/643989/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Die%20geheimen%20Methoden%20von%20Betr%C3%BCgern%20im%20Einzelhandel
 
 ## 4. Editorial notes

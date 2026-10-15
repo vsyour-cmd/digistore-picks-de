@@ -4,16 +4,16 @@ digistore24_product_id: 733942
 title: "E-Mail-Verkaufsablauf: Vom Freebie zur geprüften E-Mail-Serie mit Brevo"
 vendor: "einfachmitmatze"
 product_type: "Downloads"
-price: 93.01
+price: 93.07
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 46.51
+earnings_per_sale: 46.54
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Email Marketing","Marketing Services"]
 listed_since: "2026-09-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://einfachmitmatze.de/email-verkaufsablauf/?aff=adminstore#aff=adminstore"
 sales_page: "https://einfachmitmatze.de/email-verkaufsablauf/"
@@ -22,16 +22,16 @@ language: "de"
 # E-Mail-Verkaufsablauf: Vom Freebie zur geprüften E-Mail-Serie mit Brevo
 
 > Product ID `59274` · Digistore24 productId `733942` · [HTML profile page](../../produkte/e-mail-verkaufsablauf-vom-freebie-zur-gepr-ften-e-mail-serie-mit-brevo-59274.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $93.01 (Single payment) |
+| Price | $93.07 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $46.51 |
+| Earnings/sale* | $46.54 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | einfachmitmatze |
@@ -88,14 +88,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist E-Mail-Verkaufsablauf: Vom Freebie zur geprüften E-Mail-Serie mit Brevo? — Typ: Downloads, Anbieter: einfachmitmatze, gelistet seit 2026-09-16
-- Wie viel kostet es? — 93.014739 USD
+- Wie viel kostet es? — 93.072972 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: E-Mail-Verkaufsablauf: Vom Freebie zur geprüften E-Mail-Serie mit Brevo Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/733942
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/733942/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=E-Mail-Verkaufsablauf%3A%20Vom%20Freebie%20zur%20gepr%C3%BCften%20E-Mail-Serie%20mit%20Brevo
 
 ## 4. Editorial notes

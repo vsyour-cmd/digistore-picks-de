@@ -4,16 +4,16 @@ digistore24_product_id: 467915
 title: "Kryptowährungen Komplettpaket"
 vendor: "LebensfrohLLC"
 product_type: "Member area and video courses"
-price: 555.7
+price: 556.04
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 166.71
+earnings_per_sale: 166.81
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Computer & Internet","Online Marketing & E-Business"]
 listed_since: "2022-11-03"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://christophneuwirth.com/lp/die-grosse-kryptowaehrungen-masterclass-das-komplettpaket/?aff=adminstore#aff=adminstore"
 sales_page: "https://christophneuwirth.com/lp/die-grosse-kryptowaehrungen-masterclass-das-komplettpaket/"
@@ -22,16 +22,16 @@ language: "de"
 # Kryptowährungen Komplettpaket
 
 > Product ID `48214` · Digistore24 productId `467915` · [HTML profile page](../../produkte/kryptow-hrungen-komplettpaket-48214.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $555.70 (Single payment) |
+| Price | $556.04 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $166.71 |
+| Earnings/sale* | $166.81 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | LebensfrohLLC |
@@ -93,14 +93,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Kryptowährungen Komplettpaket? — Typ: Member area and video courses, Anbieter: LebensfrohLLC, gelistet seit 2022-11-03
-- Wie viel kostet es? — 555.6957000000001 USD
+- Wie viel kostet es? — 556.0436 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Kryptowährungen Komplettpaket Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/467915
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/467915/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Kryptow%C3%A4hrungen%20Komplettpaket
 
 ## 4. Editorial notes

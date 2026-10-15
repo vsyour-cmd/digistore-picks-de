@@ -4,34 +4,34 @@ digistore24_product_id: 180303
 title: "The 10K Breaker Videokurs"
 vendor: "Cleriker"
 product_type: "Downloads"
-price: 936.77
+price: 937.35
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 468.38
+earnings_per_sale: 468.68
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2017-11-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/26581/adminstore/"
+promo_link: "https://lp.larspilawski.de/10k-breaker-system/?aff=adminstore#aff=adminstore"
 sales_page: "https://lp.larspilawski.de/10k-breaker-system/"
 language: "de"
 ---
 # The 10K Breaker Videokurs
 
 > Product ID `26581` · Digistore24 productId `180303` · [HTML profile page](../../produkte/the-10k-breaker-videokurs-26581.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $936.77 (Single payment, Subscription) |
+| Price | $937.35 (Single payment, Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $468.38 |
+| Earnings/sale* | $468.68 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Cleriker |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/26581/adminstore/
+- **Promo link (affiliate):** https://lp.larspilawski.de/10k-breaker-system/?aff=adminstore#aff=adminstore
 - Sales page: https://lp.larspilawski.de/10k-breaker-system/
 - Vendor affiliate support: https://vip.larspilawski.de/the-10k-breaker/index.php?id=328
 - Canonical redirect: https://www.digistore24.com/redir/180303/adminstore
@@ -82,14 +82,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist The 10K Breaker Videokurs? — Typ: Downloads, Anbieter: Cleriker, gelistet seit 2017-11-17
-- Wie viel kostet es? — 936.7665420000002 USD
+- Wie viel kostet es? — 937.353016 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The 10K Breaker Videokurs Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/180303
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/180303/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=The%2010K%20Breaker%20Videokurs
 
 ## 4. Editorial notes

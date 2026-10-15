@@ -4,16 +4,16 @@ digistore24_product_id: 663277
 title: "Kapitalkongress Kongresspaket (Evergreen Bewerbung)"
 vendor: "einfachgeldanlegen"
 product_type: "Member area and video courses"
-price: 47.32
+price: 47.35
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 32.65
+earnings_per_sale: 32.67
 cart_conversion_pct: 11
 cancel_rate_pct: 0.51
 categories: ["Business & Investment"]
 listed_since: "2026-01-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/content/663277/54465/AFFILIATE/CAMPAIGNKEY?aff=adminstore"
 sales_page: "https://www.digistore24.com/content/663277/54465/AFFILIATE/CAMPAIGNKEY"
@@ -22,16 +22,16 @@ language: "de"
 # Kapitalkongress Kongresspaket (Evergreen Bewerbung)
 
 > Product ID `43162` · Digistore24 productId `663277` · [HTML profile page](../../produkte/kapitalkongress-kongresspaket-evergreen-bewerbung-43162.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $47.32 (Single payment) |
+| Price | $47.35 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $32.65 |
+| Earnings/sale* | $32.67 |
 | Cart conversion* | 11% |
 | Cancel rate* | 0.51% |
 | Vendor | einfachgeldanlegen |
@@ -78,14 +78,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Kapitalkongress Kongresspaket (Evergreen Bewerbung)? — Typ: Member area and video courses, Anbieter: einfachgeldanlegen, gelistet seit 2026-01-22
-- Wie viel kostet es? — 47.317992000000004 USD
+- Wie viel kostet es? — 47.347616 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Kapitalkongress Kongresspaket (Evergreen Bewerbung) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/663277
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/663277/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Kapitalkongress%20Kongresspaket%20(Evergreen%20Bewerbung)
 
 ## 4. Editorial notes

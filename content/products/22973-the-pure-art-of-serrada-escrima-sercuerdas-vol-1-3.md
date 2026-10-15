@@ -4,7 +4,7 @@ digistore24_product_id: 202839
 title: "The Pure Art of Serrada Escrima SerCuerdas Vol 1-3"
 vendor: "Wu-TeAkademie"
 product_type: "Member area and video courses"
-price: 55.44
+price: 55.47
 currency: "USD"
 affiliate_commission_pct: 15
 earnings_per_sale: 8.32
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Sport"]
 listed_since: "2018-02-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/22973/adminstore/"
+promo_link: "https://wute-mitgliedschaften.funnelcockpit.com/serCuerdas/?aff=adminstore#aff=adminstore"
 sales_page: "https://wute-mitgliedschaften.funnelcockpit.com/serCuerdas/"
 language: "de"
 ---
 # The Pure Art of Serrada Escrima SerCuerdas Vol 1-3
 
 > Product ID `22973` · Digistore24 productId `202839` · [HTML profile page](../../produkte/the-pure-art-of-serrada-escrima-sercuerdas-vol-1-3-22973.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $55.44 (Single payment) |
+| Price | $55.47 (Single payment) |
 | Affiliate commission | 15% |
 | Earnings/sale* | $8.32 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/22973/adminstore/
+- **Promo link (affiliate):** https://wute-mitgliedschaften.funnelcockpit.com/serCuerdas/?aff=adminstore#aff=adminstore
 - Sales page: https://wute-mitgliedschaften.funnelcockpit.com/serCuerdas/
 - Vendor affiliate support: https://wute-mitgliedschaften.funnelcockpit.com/affiliate/support/
 - Canonical redirect: https://www.digistore24.com/redir/202839/adminstore
@@ -59,14 +59,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist The Pure Art of Serrada Escrima SerCuerdas Vol 1-3? — Typ: Member area and video courses, Anbieter: Wu-TeAkademie, gelistet seit 2018-02-21
-- Wie viel kostet es? — 55.435398 USD
+- Wie viel kostet es? — 55.470104 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The Pure Art of Serrada Escrima SerCuerdas Vol 1-3 Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/202839
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/202839/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=The%20Pure%20Art%20of%20Serrada%20Escrima%20SerCuerdas%20Vol%201-3
 
 ## 4. Editorial notes

@@ -4,7 +4,7 @@ digistore24_product_id: 718161
 title: "Das 90/10-System – In 7 Schritten zu deinem ersten digitalen"
 vendor: "rs-onlineagentur"
 product_type: "Downloads"
-price: 18.69
+price: 18.71
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 9.35
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2026-08-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/58119/adminstore/"
+promo_link: "https://rita-scheer.de/90-10-system-band1-upsell?aff=adminstore#aff=adminstore"
 sales_page: "https://rita-scheer.de/90-10-system-band1-upsell"
 language: "de"
 ---
 # Das 90/10-System – In 7 Schritten zu deinem ersten digitalen
 
 > Product ID `58119` · Digistore24 productId `718161` · [HTML profile page](../../produkte/das-90-10-system-in-7-schritten-zu-deinem-ersten-digitalen-58119.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $18.69 (Single payment) |
+| Price | $18.71 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $9.35 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58119/adminstore/
+- **Promo link (affiliate):** https://rita-scheer.de/90-10-system-band1-upsell?aff=adminstore#aff=adminstore
 - Sales page: https://rita-scheer.de/90-10-system-band1-upsell
 - Vendor affiliate support: https://rita-scheer.de/affiliate-support/
 - Canonical redirect: https://www.digistore24.com/redir/718161/adminstore
@@ -89,14 +89,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das 90/10-System – In 7 Schritten zu deinem ersten digitalen? — Typ: Downloads, Anbieter: rs-onlineagentur, gelistet seit 2026-08-04
-- Wie viel kostet es? — 18.694632 USD
+- Wie viel kostet es? — 18.706336 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Das 90/10-System – In 7 Schritten zu deinem ersten digitalen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/718161
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/718161/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Das%2090%2F10-System%20%E2%80%93%20In%207%20Schritten%20zu%20deinem%20ersten%20digitalen
 
 ## 4. Editorial notes

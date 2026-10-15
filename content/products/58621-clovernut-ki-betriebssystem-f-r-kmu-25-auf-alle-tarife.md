@@ -4,40 +4,40 @@ digistore24_product_id: 722489
 title: "CloverNut – KI-Betriebssystem für KMU, 25 % auf alle Tarife"
 vendor: "hihdigital"
 product_type: "Software"
-price: 222.5
+price: 222.64
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 55.63
+earnings_per_sale: 55.66
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: []
+categories: ["Software","Computer & Internet","Office Organization"]
 listed_since: "2026-08-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/58621/adminstore/"
+promo_link: "https://clovernut.com/order.html?aff=adminstore#aff=adminstore"
 sales_page: "https://clovernut.com/order.html"
 language: "de"
 ---
 # CloverNut – KI-Betriebssystem für KMU, 25 % auf alle Tarife
 
 > Product ID `58621` · Digistore24 productId `722489` · [HTML profile page](../../produkte/clovernut-ki-betriebssystem-f-r-kmu-25-auf-alle-tarife-58621.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $222.50 (Subscription) |
+| Price | $222.64 (Subscription) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $55.63 |
+| Earnings/sale* | $55.66 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | hihdigital |
 | Listed since | 2026-08-24 |
 | Auto-accept affiliates | yes |
-| Categories | Uncategorized |
+| Categories | Software, Computer & Internet, Office Organization |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58621/adminstore/
+- **Promo link (affiliate):** https://clovernut.com/order.html?aff=adminstore#aff=adminstore
 - Sales page: https://clovernut.com/order.html
 - Vendor affiliate support: https://hih-digital.com/affiliates/clovernut.html
 - Canonical redirect: https://www.digistore24.com/redir/722489/adminstore
@@ -82,14 +82,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist CloverNut – KI-Betriebssystem für KMU, 25 % auf alle Tarife? — Typ: Software, Anbieter: hihdigital, gelistet seit 2026-08-24
-- Wie viel kostet es? — 222.5019 USD
+- Wie viel kostet es? — 222.6412 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: CloverNut – KI-Betriebssystem für KMU, 25 % auf alle Tarife Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/722489
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/722489/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=CloverNut%20%E2%80%93%20KI-Betriebssystem%20f%C3%BCr%20KMU%2C%2025%20%25%20auf%20alle%20Tarife
 
 ## 4. Editorial notes

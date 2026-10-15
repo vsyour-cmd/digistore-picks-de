@@ -4,16 +4,16 @@ digistore24_product_id: 557124
 title: "Geld verdienen als Freelancer - 50 % Provision"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 28.21
+price: 28.23
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 14.11
+earnings_per_sale: 14.12
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Online Marketing & E-Business","Profession & Job"]
+categories: ["Online Marketing & E-Business","Profession & Job","Education"]
 listed_since: "2024-06-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://affiliate-university.de/geld-verdienen-als-freelancer-digi?aff=adminstore#aff=adminstore"
 sales_page: "https://affiliate-university.de/geld-verdienen-als-freelancer-digi"
@@ -22,22 +22,22 @@ language: "de"
 # Geld verdienen als Freelancer - 50 % Provision
 
 > Product ID `48422` · Digistore24 productId `557124` · [HTML profile page](../../produkte/geld-verdienen-als-freelancer-50-provision-48422.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $28.21 (Single payment) |
+| Price | $28.23 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $14.11 |
+| Earnings/sale* | $14.12 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pixonmedia |
 | Listed since | 2024-06-17 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Online Marketing & E-Business, Profession & Job |
+| Categories | Online Marketing & E-Business, Profession & Job, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -85,14 +85,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Geld verdienen als Freelancer - 50 % Provision? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2024-06-17
-- Wie viel kostet es? — 28.209663000000003 USD
+- Wie viel kostet es? — 28.227324 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Geld verdienen als Freelancer - 50 % Provision Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/557124
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/557124/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Geld%20verdienen%20als%20Freelancer%20-%2050%20%25%20Provision
 
 ## 4. Editorial notes

@@ -7,22 +7,22 @@ product_type: "Member area and video courses"
 price: 0.63
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 22.7
+earnings_per_sale: 22.71
 cart_conversion_pct: 16
 cancel_rate_pct: 2.86
 categories: ["Business & Investment","Computer & Internet","Online Marketing & E-Business"]
 listed_since: "2023-10-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
-promo_link: "https://www.digistore24.com/redir/46121/adminstore/"
+promo_link: "https://kb-om.com/level-up-affiliate-vendor-mastery-ds24/?aff=adminstore#aff=adminstore"
 sales_page: "https://kb-om.com/level-up-affiliate-vendor-mastery-ds24/"
 language: "de"
 ---
 # Videokurs: Level Up Affiliate - Vendor Mastery
 
 > Product ID `46121` · Digistore24 productId `521838` · [HTML profile page](../../produkte/videokurs-level-up-affiliate-vendor-mastery-46121.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,7 @@ language: "de"
 | Product type | Member area and video courses |
 | Price | $0.63 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $22.70 |
+| Earnings/sale* | $22.71 |
 | Cart conversion* | 16% |
 | Cancel rate* | 2.86% |
 | Vendor | Plebvin |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/46121/adminstore/
+- **Promo link (affiliate):** https://kb-om.com/level-up-affiliate-vendor-mastery-ds24/?aff=adminstore#aff=adminstore
 - Sales page: https://kb-om.com/level-up-affiliate-vendor-mastery-ds24/
 - Vendor affiliate support: https://kb-om.com/affiliate-support-seite
 - Canonical redirect: https://www.digistore24.com/redir/521838/adminstore
@@ -72,14 +72,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Videokurs: Level Up Affiliate - Vendor Mastery? — Typ: Member area and video courses, Anbieter: Plebvin, gelistet seit 2023-10-20
-- Wie viel kostet es? — 0.6261360000000001 USD
+- Wie viel kostet es? — 0.6265280000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Videokurs: Level Up Affiliate - Vendor Mastery Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/521838
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/521838/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Videokurs%3A%20Level%20Up%20Affiliate%20-%20Vendor%20Mastery
 
 ## 4. Editorial notes

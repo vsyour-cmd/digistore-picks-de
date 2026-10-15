@@ -4,16 +4,16 @@ digistore24_product_id: 659363
 title: "Die Giftigen 10"
 vendor: "AndreasLang"
 product_type: "E-books"
-price: 141.6
+price: 141.68
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 86.69
+earnings_per_sale: 86.74
 cart_conversion_pct: 5
 cancel_rate_pct: 5.85
 categories: ["Health & Fitness"]
 listed_since: "2026-01-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://www.zielgesundheit.de/diegiftigen10/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.zielgesundheit.de/diegiftigen10/"
@@ -22,16 +22,16 @@ language: "de"
 # Die Giftigen 10
 
 > Product ID `50236` · Digistore24 productId `659363` · [HTML profile page](../../produkte/die-giftigen-10-50236.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $141.60 (Single payment) |
+| Price | $141.68 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $86.69 |
+| Earnings/sale* | $86.74 |
 | Cart conversion* | 5% |
 | Cancel rate* | 5.85% |
 | Vendor | AndreasLang |
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die Giftigen 10? — Typ: E-books, Anbieter: AndreasLang, gelistet seit 2026-01-06
-- Wie viel kostet es? — 141.59618400000002 USD
+- Wie viel kostet es? — 141.684832 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Die Giftigen 10 Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/659363
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/659363/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Die%20Giftigen%2010
 
 ## 4. Editorial notes

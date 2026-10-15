@@ -4,16 +4,16 @@ digistore24_product_id: 708552
 title: "Steuererklärung leicht gemacht"
 vendor: "ratgeberleichtgemacht"
 product_type: "E-books"
-price: 26.02
+price: 26.03
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 10.41
+earnings_per_sale: 10.42
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Finances"]
 listed_since: "2026-10-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/708552?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/708552"
@@ -22,16 +22,16 @@ language: "de"
 # Steuererklärung leicht gemacht
 
 > Product ID `60310` · Digistore24 productId `708552` · [HTML profile page](../../produkte/steuererkl-rung-leicht-gemacht-60310.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $26.02 (Single payment) |
+| Price | $26.03 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $10.41 |
+| Earnings/sale* | $10.42 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ratgeberleichtgemacht |
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Steuererklärung leicht gemacht? — Typ: E-books, Anbieter: ratgeberleichtgemacht, gelistet seit 2026-10-07
-- Wie viel kostet es? — 26.018187 USD
+- Wie viel kostet es? — 26.034476 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Steuererklärung leicht gemacht Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/708552
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/708552/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Steuererkl%C3%A4rung%20leicht%20gemacht
 
 ## 4. Editorial notes

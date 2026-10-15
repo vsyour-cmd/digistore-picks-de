@@ -4,34 +4,34 @@ digistore24_product_id: 633202
 title: "Brief an das Licht - ein Raum jenseits des Coachings"
 vendor: "digicube"
 product_type: "Online coaching"
-price: 41.34
+price: 41.36
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 12.4
+earnings_per_sale: 12.41
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2025-09-02"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/53821/adminstore/"
+promo_link: "https://lanaprinzip.com/brief-an-das-licht/?aff=adminstore#aff=adminstore"
 sales_page: "https://lanaprinzip.com/brief-an-das-licht/"
 language: "de"
 ---
 # Brief an das Licht - ein Raum jenseits des Coachings
 
 > Product ID `53821` · Digistore24 productId `633202` · [HTML profile page](../../produkte/brief-an-das-licht-ein-raum-jenseits-des-coachings-53821.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $41.34 (Single payment) |
+| Price | $41.36 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $12.40 |
+| Earnings/sale* | $12.41 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | digicube |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/53821/adminstore/
+- **Promo link (affiliate):** https://lanaprinzip.com/brief-an-das-licht/?aff=adminstore#aff=adminstore
 - Sales page: https://lanaprinzip.com/brief-an-das-licht/
 - Vendor affiliate support: https://lanaprinzip.com/einladung-als-affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/633202/adminstore
@@ -81,14 +81,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Brief an das Licht - ein Raum jenseits des Coachings? — Typ: Online coaching, Anbieter: digicube, gelistet seit 2025-09-02
-- Wie viel kostet es? — 41.336157 USD
+- Wie viel kostet es? — 41.362035999999996 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Brief an das Licht - ein Raum jenseits des Coachings Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/633202
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/633202/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Brief%20an%20das%20Licht%20-%20ein%20Raum%20jenseits%20des%20Coachings
 
 ## 4. Editorial notes

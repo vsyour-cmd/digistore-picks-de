@@ -4,16 +4,16 @@ digistore24_product_id: 375951
 title: "Das Wunder gegen Nierensteine"
 vendor: "Mindtrack"
 product_type: "Downloads"
-price: 18.74
+price: 18.75
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 9.37
+earnings_per_sale: 9.38
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2021-02-25"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://nierenstein-wunder.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://nierenstein-wunder.de/"
@@ -22,16 +22,16 @@ language: "de"
 # Das Wunder gegen Nierensteine
 
 > Product ID `36052` · Digistore24 productId `375951` · [HTML profile page](../../produkte/das-wunder-gegen-nierensteine-36052.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $18.74 (Single payment) |
+| Price | $18.75 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $9.37 |
+| Earnings/sale* | $9.38 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Mindtrack |
@@ -58,14 +58,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Wunder gegen Nierensteine? — Typ: Downloads, Anbieter: Mindtrack, gelistet seit 2021-02-25
-- Wie viel kostet es? — 18.739356000000004 USD
+- Wie viel kostet es? — 18.751088000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Das Wunder gegen Nierensteine Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/375951
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/375951/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Das%20Wunder%20gegen%20Nierensteine
 
 ## 4. Editorial notes

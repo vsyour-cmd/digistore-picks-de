@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2025-11-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/650073?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/650073"
@@ -22,7 +22,7 @@ language: "de"
 # E-Book Rauhnächte / Aztekenkalender 2025
 
 > Product ID `54794` · Digistore24 productId `650073` · [HTML profile page](../../produkte/e-book-rauhn-chte-aztekenkalender-2025-54794.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -78,7 +78,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: E-Book Rauhnächte / Aztekenkalender 2025 Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/650073
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/650073/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=E-Book%20Rauhn%C3%A4chte%20%2F%20Aztekenkalender%202025
 
 ## 4. Editorial notes

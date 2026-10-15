@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2024-10-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/49973/adminstore/"
+promo_link: "https://page.funnelcockpit.com/mieuK4YTYPjppFJp7?aff=adminstore#aff=adminstore"
 sales_page: "https://page.funnelcockpit.com/mieuK4YTYPjppFJp7"
 language: "de"
 ---
 # Der Online-Business-Guide: Die 5 Schlüssel zum Erfolg
 
 > Product ID `49973` · Digistore24 productId `573829` · [HTML profile page](../../produkte/der-online-business-guide-die-5-schl-ssel-zum-erfolg-49973.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/49973/adminstore/
+- **Promo link (affiliate):** https://page.funnelcockpit.com/mieuK4YTYPjppFJp7?aff=adminstore#aff=adminstore
 - Sales page: https://page.funnelcockpit.com/mieuK4YTYPjppFJp7
 - Vendor affiliate support: https://page.funnelcockpit.com/sDy8iWKehtuNFs2ob
 - Canonical redirect: https://www.digistore24.com/redir/573829/adminstore
@@ -66,7 +66,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Der Online-Business-Guide: Die 5 Schlüssel zum Erfolg Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/573829
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/573829/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%20Online-Business-Guide%3A%20Die%205%20Schl%C3%BCssel%20zum%20Erfolg
 
 ## 4. Editorial notes

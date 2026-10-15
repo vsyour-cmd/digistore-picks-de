@@ -4,16 +4,16 @@ digistore24_product_id: 548161
 title: "MentorMail AI: Revolutioniere Dein E-Mail-Marketing mit \"KI\""
 vendor: "sattelitevendor"
 product_type: "Member area and video courses"
-price: 204.75
+price: 204.87
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 58.17
+earnings_per_sale: 58.21
 cart_conversion_pct: 5
 cancel_rate_pct: 2.12
-categories: ["Email Marketing","Online Marketing & E-Business"]
+categories: ["Online Marketing & E-Business","Email Marketing"]
 listed_since: "2024-04-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://www.mentormailai.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.mentormailai.com/"
@@ -22,22 +22,22 @@ language: "de"
 # MentorMail AI: Revolutioniere Dein E-Mail-Marketing mit "KI"
 
 > Product ID `47946` · Digistore24 productId `548161` · [HTML profile page](../../produkte/mentormail-ai-revolutioniere-dein-e-mail-marketing-mit-ki-47946.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $204.75 (Single payment) |
+| Price | $204.87 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $58.17 |
+| Earnings/sale* | $58.21 |
 | Cart conversion* | 5% |
 | Cancel rate* | 2.12% |
 | Vendor | sattelitevendor |
 | Listed since | 2024-04-15 |
 | Auto-accept affiliates | yes |
-| Categories | Email Marketing, Online Marketing & E-Business |
+| Categories | Online Marketing & E-Business, Email Marketing |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist MentorMail AI: Revolutioniere Dein E-Mail-Marketing mit "KI"? — Typ: Member area and video courses, Anbieter: sattelitevendor, gelistet seit 2024-04-15
-- Wie viel kostet es? — 204.746472 USD
+- Wie viel kostet es? — 204.87465600000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: MentorMail AI: Revolutioniere Dein E-Mail-Marketing mit "KI" Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/548161
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/548161/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=MentorMail%20AI%3A%20Revolutioniere%20Dein%20E-Mail-Marketing%20mit%20%22KI%22
 
 ## 4. Editorial notes

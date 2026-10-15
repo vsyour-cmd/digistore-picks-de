@@ -4,34 +4,34 @@ digistore24_product_id: 730665
 title: "Mind Hack Marketing – Marketing verstehen und gezielt einset"
 vendor: "olvixdigok8f53"
 product_type: "Member area and video courses"
-price: 55.44
+price: 55.47
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 22.17
+earnings_per_sale: 22.19
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-09-13"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/59199/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/730665?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/730665"
 language: "de"
 ---
 # Mind Hack Marketing – Marketing verstehen und gezielt einset
 
 > Product ID `59199` · Digistore24 productId `730665` · [HTML profile page](../../produkte/mind-hack-marketing-marketing-verstehen-und-gezielt-einset-59199.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $55.44 (Single payment) |
+| Price | $55.47 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $22.17 |
+| Earnings/sale* | $22.19 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | olvixdigok8f53 |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59199/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/730665?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/730665
 - Canonical redirect: https://www.digistore24.com/redir/730665/adminstore
 
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mind Hack Marketing – Marketing verstehen und gezielt einset? — Typ: Member area and video courses, Anbieter: olvixdigok8f53, gelistet seit 2026-09-13
-- Wie viel kostet es? — 55.435398 USD
+- Wie viel kostet es? — 55.470104 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Mind Hack Marketing – Marketing verstehen und gezielt einset Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/730665
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/730665/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Mind%20Hack%20Marketing%20%E2%80%93%20Marketing%20verstehen%20und%20gezielt%20einset
 
 ## 4. Editorial notes

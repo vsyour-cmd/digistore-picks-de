@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Food Supplements"]
 listed_since: "2024-05-30"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/49611/adminstore/"
+promo_link: "https://optima-gesundheitsberatung.de/shop/?aff=adminstore#aff=adminstore"
 sales_page: "https://optima-gesundheitsberatung.de/shop/"
 language: "de"
 ---
 # Testosteron natürlich steigern
 
 > Product ID `49611` · Digistore24 productId `554727` · [HTML profile page](../../produkte/testosteron-nat-rlich-steigern-49611.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/49611/adminstore/
+- **Promo link (affiliate):** https://optima-gesundheitsberatung.de/shop/?aff=adminstore#aff=adminstore
 - Sales page: https://optima-gesundheitsberatung.de/shop/
 - Canonical redirect: https://www.digistore24.com/redir/554727/adminstore
 
@@ -73,14 +73,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Testosteron natürlich steigern? — Typ: E-books, Anbieter: optima_gesundheitsberatung, gelistet seit 2024-05-30
-- Wie viel kostet es? — 3.9580740000000003 USD
+- Wie viel kostet es? — 3.9605520000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Testosteron natürlich steigern Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/554727
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/554727/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Testosteron%20nat%C3%BCrlich%20steigern
 
 ## 4. Editorial notes

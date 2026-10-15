@@ -4,34 +4,34 @@ digistore24_product_id: 273637
 title: "Verkaufsschlager: Easy Income System - von Gunnar Kessler"
 vendor: "GTK-littlefreilich"
 product_type: "Member area and video courses"
-price: 164.36
+price: 164.46
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 138.87
+earnings_per_sale: 138.95
 cart_conversion_pct: 11
 cancel_rate_pct: 27.12
 categories: ["Profession & Job"]
 listed_since: "2019-05-28"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/16957/adminstore/"
+promo_link: "https://byebyeschufterei.de/eis-7500/?aff=adminstore#aff=adminstore"
 sales_page: "https://byebyeschufterei.de/eis-7500/"
 language: "de"
 ---
 # Verkaufsschlager: Easy Income System - von Gunnar Kessler
 
 > Product ID `16957` · Digistore24 productId `273637` · [HTML profile page](../../produkte/verkaufsschlager-easy-income-system-von-gunnar-kessler-16957.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $164.36 (Single payment) |
+| Price | $164.46 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $138.87 |
+| Earnings/sale* | $138.95 |
 | Cart conversion* | 11% |
 | Cancel rate* | 27.12% |
 | Vendor | GTK-littlefreilich |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/16957/adminstore/
+- **Promo link (affiliate):** https://byebyeschufterei.de/eis-7500/?aff=adminstore#aff=adminstore
 - Sales page: https://byebyeschufterei.de/eis-7500/
 - Vendor affiliate support: https://partner.digitalmoneymaker.de/easy-income-system/
 - Canonical redirect: https://www.digistore24.com/redir/273637/adminstore
@@ -77,14 +77,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Verkaufsschlager: Easy Income System - von Gunnar Kessler? — Typ: Member area and video courses, Anbieter: GTK-littlefreilich, gelistet seit 2019-05-28
-- Wie viel kostet es? — 164.3607 USD
+- Wie viel kostet es? — 164.4636 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Verkaufsschlager: Easy Income System - von Gunnar Kessler Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/273637
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/273637/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Verkaufsschlager%3A%20Easy%20Income%20System%20-%20von%20Gunnar%20Kessler
 
 ## 4. Editorial notes

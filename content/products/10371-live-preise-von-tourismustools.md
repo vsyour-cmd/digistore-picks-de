@@ -4,34 +4,34 @@ digistore24_product_id: 72877
 title: "Live-Preise von TourismusTools"
 vendor: "patrickfederhen"
 product_type: "Downloads"
-price: 278.41
+price: 278.58
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 55.68
+earnings_per_sale: 55.72
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hotels & Gastronomy"]
 listed_since: "2016-02-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.checkout-ds24.com/redir/10371/adminstore/"
+promo_link: "http://tourismustools.de/?aff=adminstore#aff=adminstore"
 sales_page: "http://tourismustools.de/"
 language: "de"
 ---
 # Live-Preise von TourismusTools
 
 > Product ID `10371` · Digistore24 productId `72877` · [HTML profile page](../../produkte/live-preise-von-tourismustools-10371.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $278.41 (Subscription) |
+| Price | $278.58 (Subscription) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $55.68 |
+| Earnings/sale* | $55.72 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | patrickfederhen |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/redir/10371/adminstore/
+- **Promo link (affiliate):** http://tourismustools.de/?aff=adminstore#aff=adminstore
 - Sales page: http://tourismustools.de/
 - Vendor affiliate support: http://lp.tourismustools.de/tourismustools-partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/72877/adminstore
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Live-Preise von TourismusTools? — Typ: Downloads, Anbieter: patrickfederhen, gelistet seit 2016-02-23
-- Wie viel kostet es? — 278.4069 USD
+- Wie viel kostet es? — 278.5812 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Live-Preise von TourismusTools Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/72877
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/72877/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Live-Preise%20von%20TourismusTools
 
 ## 4. Editorial notes

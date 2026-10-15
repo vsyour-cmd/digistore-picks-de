@@ -4,16 +4,16 @@ digistore24_product_id: 594851
 title: "7 Tage SM Strategie (Kostenlos, Gratis, E-Book, Buch)"
 vendor: "plrpirat"
 product_type: "Downloads"
-price: 25.37
+price: 25.39
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 12.69
+earnings_per_sale: 12.7
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Online Marketing & E-Business"]
 listed_since: "2025-02-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.plrpirat.de/7tsms?aff=adminstore#aff=adminstore"
 sales_page: "https://www.plrpirat.de/7tsms"
@@ -22,16 +22,16 @@ language: "de"
 # 7 Tage SM Strategie (Kostenlos, Gratis, E-Book, Buch)
 
 > Product ID `51468` · Digistore24 productId `594851` · [HTML profile page](../../produkte/7-tage-sm-strategie-kostenlos-gratis-e-book-buch-51468.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $25.37 (Single payment) |
+| Price | $25.39 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $12.69 |
+| Earnings/sale* | $12.70 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | plrpirat |
@@ -66,14 +66,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 7 Tage SM Strategie (Kostenlos, Gratis, E-Book, Buch)? — Typ: Downloads, Anbieter: plrpirat, gelistet seit 2025-02-07
-- Wie viel kostet es? — 25.369689000000005 USD
+- Wie viel kostet es? — 25.385572000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 7 Tage SM Strategie (Kostenlos, Gratis, E-Book, Buch) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/594851
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/594851/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=7%20Tage%20SM%20Strategie%20(Kostenlos%2C%20Gratis%2C%20E-Book%2C%20Buch)
 
 ## 4. Editorial notes

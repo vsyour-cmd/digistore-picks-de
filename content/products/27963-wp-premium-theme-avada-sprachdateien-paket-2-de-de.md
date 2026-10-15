@@ -4,34 +4,34 @@ digistore24_product_id: 256064
 title: "WP-Premium Theme - AVADA - Sprachdateien Paket 2 de_DE"
 vendor: "rfinke"
 product_type: "Downloads"
-price: 63.73
+price: 63.77
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 31.87
+earnings_per_sale: 31.89
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing"]
 listed_since: "2019-01-12"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/27963/adminstore/"
+promo_link: "https://optimize-speech.de/wp-theme-avada-in-deutsch/?aff=adminstore#aff=adminstore"
 sales_page: "https://optimize-speech.de/wp-theme-avada-in-deutsch/"
 language: "de"
 ---
 # WP-Premium Theme - AVADA - Sprachdateien Paket 2 de_DE
 
 > Product ID `27963` · Digistore24 productId `256064` · [HTML profile page](../../produkte/wp-premium-theme-avada-sprachdateien-paket-2-de-de-27963.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $63.73 (Subscription) |
+| Price | $63.77 (Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $31.87 |
+| Earnings/sale* | $31.89 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | rfinke |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/27963/adminstore/
+- **Promo link (affiliate):** https://optimize-speech.de/wp-theme-avada-in-deutsch/?aff=adminstore#aff=adminstore
 - Sales page: https://optimize-speech.de/wp-theme-avada-in-deutsch/
 - Vendor affiliate support: https://optimize-speech.de/partnerprogramm-anmeldung/
 - Canonical redirect: https://www.digistore24.com/redir/256064/adminstore
@@ -92,14 +92,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist WP-Premium Theme - AVADA - Sprachdateien Paket 2 de_DE? — Typ: Downloads, Anbieter: rfinke, gelistet seit 2019-01-12
-- Wie viel kostet es? — 63.731700000000004 USD
+- Wie viel kostet es? — 63.7716 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: WP-Premium Theme - AVADA - Sprachdateien Paket 2 de_DE Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/256064
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/256064/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=WP-Premium%20Theme%20-%20AVADA%20-%20Sprachdateien%20Paket%202%20de_DE
 
 ## 4. Editorial notes

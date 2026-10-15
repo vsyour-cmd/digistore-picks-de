@@ -4,16 +4,16 @@ digistore24_product_id: 717895
 title: "Digital reselling Erfolgsystem"
 vendor: "BastianBauer"
 product_type: "E-books"
-price: 15.68
+price: 15.69
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 6.27
+earnings_per_sale: 6.28
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Education"]
 listed_since: "2026-08-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/717895?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/717895"
@@ -22,16 +22,16 @@ language: "de"
 # Digital reselling Erfolgsystem
 
 > Product ID `58112` · Digistore24 productId `717895` · [HTML profile page](../../produkte/digital-reselling-erfolgsystem-58112.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $15.68 (Single payment, Installment) |
+| Price | $15.69 (Single payment, Installment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $6.27 |
+| Earnings/sale* | $6.28 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | BastianBauer |
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Digital reselling Erfolgsystem? — Typ: E-books, Anbieter: BastianBauer, gelistet seit 2026-08-04
-- Wie viel kostet es? — 15.675762 USD
+- Wie viel kostet es? — 15.685576 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Digital reselling Erfolgsystem Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/717895
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/717895/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Digital%20reselling%20Erfolgsystem
 
 ## 4. Editorial notes

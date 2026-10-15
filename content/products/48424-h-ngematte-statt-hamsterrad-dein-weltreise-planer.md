@@ -4,16 +4,16 @@ digistore24_product_id: 425343
 title: "Hängematte statt Hamsterrad - Dein Weltreise-Planer"
 vendor: "flipflopblog"
 product_type: "E-books"
-price: 12.02
+price: 12.03
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 4.47
+earnings_per_sale: 4.48
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Travel & Culture"]
 listed_since: "2022-01-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/425343?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/425343"
@@ -22,16 +22,16 @@ language: "de"
 # Hängematte statt Hamsterrad - Dein Weltreise-Planer
 
 > Product ID `48424` · Digistore24 productId `425343` · [HTML profile page](../../produkte/h-ngematte-statt-hamsterrad-dein-weltreise-planer-48424.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $12.02 (Single payment) |
+| Price | $12.03 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $4.47 |
+| Earnings/sale* | $4.48 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | flipflopblog |
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Hängematte statt Hamsterrad - Dein Weltreise-Planer? — Typ: E-books, Anbieter: flipflopblog, gelistet seit 2022-01-18
-- Wie viel kostet es? — 12.019575000000001 USD
+- Wie viel kostet es? — 12.0271 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Hängematte statt Hamsterrad - Dein Weltreise-Planer Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/425343
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/425343/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=H%C3%A4ngematte%20statt%20Hamsterrad%20-%20Dein%20Weltreise-Planer
 
 ## 4. Editorial notes

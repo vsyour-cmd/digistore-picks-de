@@ -10,10 +10,10 @@ affiliate_commission_pct: 50
 earnings_per_sale: 0.48
 cart_conversion_pct: 30
 cancel_rate_pct: 2.29
-categories: ["Email Marketing","Online Marketing & E-Business"]
+categories: ["Online Marketing & E-Business","Email Marketing"]
 listed_since: "2024-04-13"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.webpirat.de/secret-e-mail-list-booster/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.webpirat.de/secret-e-mail-list-booster/"
@@ -22,7 +22,7 @@ language: "de"
 # Secret E-Mail List Booster (Gratis E-Book)
 
 > Product ID `47768` · Digistore24 productId `547986` · [HTML profile page](../../produkte/secret-e-mail-list-booster-gratis-e-book-47768.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | webpirat |
 | Listed since | 2024-04-13 |
 | Auto-accept affiliates | yes |
-| Categories | Email Marketing, Online Marketing & E-Business |
+| Categories | Online Marketing & E-Business, Email Marketing |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Secret E-Mail List Booster (Gratis E-Book)? — Typ: E-books, Anbieter: webpirat, gelistet seit 2024-04-13
-- Wie viel kostet es? — 1.34172 USD
+- Wie viel kostet es? — 1.34256 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Secret E-Mail List Booster (Gratis E-Book) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/547986
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/547986/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Secret%20E-Mail%20List%20Booster%20(Gratis%20E-Book)
 
 ## 4. Editorial notes

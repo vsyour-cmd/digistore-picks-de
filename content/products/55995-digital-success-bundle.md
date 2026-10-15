@@ -4,40 +4,40 @@ digistore24_product_id: 678291
 title: "Digital Success Bundle"
 vendor: "Freifone"
 product_type: "E-books"
-price: 172.27
+price: 172.37
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 86.14
+earnings_per_sale: 86.19
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Business & Investment","Email Marketing","Online Marketing & E-Business"]
+categories: ["Business & Investment","Online Marketing & E-Business","Email Marketing"]
 listed_since: "2026-03-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/55995/adminstore/"
+promo_link: "https://designs-nf.com/ebooks/digital-success-bundle?aff=adminstore#aff=adminstore"
 sales_page: "https://designs-nf.com/ebooks/digital-success-bundle"
 language: "de"
 ---
 # Digital Success Bundle
 
 > Product ID `55995` · Digistore24 productId `678291` · [HTML profile page](../../produkte/digital-success-bundle-55995.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $172.27 (Single payment) |
+| Price | $172.37 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $86.14 |
+| Earnings/sale* | $86.19 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Freifone |
 | Listed since | 2026-03-22 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Email Marketing, Online Marketing & E-Business |
+| Categories | Business & Investment, Online Marketing & E-Business, Email Marketing |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55995/adminstore/
+- **Promo link (affiliate):** https://designs-nf.com/ebooks/digital-success-bundle?aff=adminstore#aff=adminstore
 - Sales page: https://designs-nf.com/ebooks/digital-success-bundle
 - Vendor affiliate support: https://designs-nf.com/affiliate/links
 - Canonical redirect: https://www.digistore24.com/redir/678291/adminstore
@@ -90,14 +90,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Digital Success Bundle? — Typ: E-books, Anbieter: Freifone, gelistet seit 2026-03-22
-- Wie viel kostet es? — 172.265667 USD
+- Wie viel kostet es? — 172.373516 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Digital Success Bundle Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/678291
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/678291/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Digital%20Success%20Bundle
 
 ## 4. Editorial notes

@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink"]
 listed_since: "2023-03-02"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/42905/adminstore/"
+promo_link: "https://www.steveotto.de/40-keto-rezepte-fuer-eine-optimale-gewichtsreduktion/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.steveotto.de/40-keto-rezepte-fuer-eine-optimale-gewichtsreduktion/"
 language: "de"
 ---
 # 40 Keto Rezepte für eine optimale Gewichtsreduktion
 
 > Product ID `42905` · Digistore24 productId `487074` · [HTML profile page](../../produkte/40-keto-rezepte-f-r-eine-optimale-gewichtsreduktion-42905.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/42905/adminstore/
+- **Promo link (affiliate):** https://www.steveotto.de/40-keto-rezepte-fuer-eine-optimale-gewichtsreduktion/?aff=adminstore#aff=adminstore
 - Sales page: https://www.steveotto.de/40-keto-rezepte-fuer-eine-optimale-gewichtsreduktion/
 - Canonical redirect: https://www.digistore24.com/redir/487074/adminstore
 
@@ -69,14 +69,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 40 Keto Rezepte für eine optimale Gewichtsreduktion? — Typ: E-books, Anbieter: musikonkelhotte, gelistet seit 2023-03-02
-- Wie viel kostet es? — 10.398330000000001 USD
+- Wie viel kostet es? — 10.40484 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 40 Keto Rezepte für eine optimale Gewichtsreduktion Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/487074
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/487074/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=40%20Keto%20Rezepte%20f%C3%BCr%20eine%20optimale%20Gewichtsreduktion
 
 ## 4. Editorial notes

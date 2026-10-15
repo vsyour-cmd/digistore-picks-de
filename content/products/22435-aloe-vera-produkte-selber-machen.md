@@ -4,7 +4,7 @@ digistore24_product_id: 196089
 title: "ALOE-VERA Produkte selber machen"
 vendor: "chef63"
 product_type: "Downloads"
-price: 6.48
+price: 6.49
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 3.24
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2018-01-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/22435/adminstore/"
+promo_link: "https://aloe-vera.funnelcockpit.com/produkte/?aff=adminstore#aff=adminstore"
 sales_page: "https://aloe-vera.funnelcockpit.com/produkte/"
 language: "de"
 ---
 # ALOE-VERA Produkte selber machen
 
 > Product ID `22435` · Digistore24 productId `196089` · [HTML profile page](../../produkte/aloe-vera-produkte-selber-machen-22435.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $6.48 (Single payment) |
+| Price | $6.49 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $3.24 |
 | Cart conversion* | — |
@@ -41,11 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** ALOE-VERA Produkte selber machen > Brandneues Ebook < - Inklusive zweier Upsell-Produkten - Aloe-Vera, deiner Gesundheit zu Liebe! In dem Buch „Aloe-Vera Produkte selber machen“ findest du 45 Rezepte wie man die eigenen Aloe-Vera Pflege- und Wohlfühlprodukte selber machen kann. Zusätzlich enthalten ist eine Zutatenliste und verschiedene Informationen über die Aloe-Vera! Die Natur schenkte uns mit der Aloe eine der erstaunlichsten Pflanze auf unserer Erde. Verwöhnen Sie sich regelmäßig mit dem Besten, was die natürliche Wirkstoffkombination aus der Wüstenlilie zu bieten hat. Was bekommen Sie in diesem Ebook „ALOE-VERA selber machen“: > In diesem Buch finden Sie eine Auflistung von 45 verschiedenen Rezepten wie man sich eigene Aloe-Vera Produkte selber machen kann! > Sie erhalten jede Menge Informationen über die Aloe-Vera, deren Eigenschaften, Einsatzgebiete, Wirkstoffe und Wirkungsweisen. > Im Bestellmodus werden noch 2 Upsell Produkte angeboten, die gerne mitgekauft werden, auch dafür bekommen Sie 50% Provision! Zusammenfassend bekommen Sie: - Hohe Affiliateprovison von 50 % - 50 % auf zwei weitere Upsell Produkte - Erlaubnis zur Verwendung aller Werbemittel >> Das „Brandneue“ Ebook ist zur Zeit von 24,90 Euro auf 9,90 Euro reduziert! << Eine Ersparniss für den Käufer von 15,00 Euro! > Brandneues Ebook <
+**Vendor's marketplace description:** ALOE-VERA Produkte selber machen > Brandneues Ebook < - Inklusive zweier Upsell-Produkten - Aloe-Vera, deiner Gesundheit zu Liebe! In dem Buch „Aloe-Vera Produkte selber machen“ findest du 45 Rezepte wie man die eigenen Aloe-Vera Pflege- und Wohlfühlprodukte selber machen kann. Zusätzlich enthalten ist eine Zutatenliste und verschiedene Informationen über die Aloe-Vera! Die Natur schenkte uns mit der Aloe eine der erstaunlichsten Pflanze auf unserer Erde. Verwöhnen Sie sich regelmäßig mit dem Besten, was die natürliche Wirkstoffkombination aus der Wüstenlilie zu bieten hat. Was bekommen Sie in diesem Ebook „ALOE-VERA selber machen“: > In diesem Buch finden Sie eine Auflistung von 45 verschiedenen Rezepten wie man sich eigene Aloe-Vera Produkte selber machen kann! > Sie erhalten jede Menge Informationen über die Aloe-Vera, deren Eigenschaften, Einsatzgebiete, Wirkstoffe und Wirkungsweisen. > Im Bestellmodus werden noch 2 Upsell Produkte angeboten, die gerne mitgekauft werden, auch dafür bekommen Sie 50% Provision! Zusammenfassend bekommen Sie: - Hohe Affiliateprovison von 50 % - 50 % auf zwei weitere Upsell Produkte - Erlaubnis zur Verwendung aller Werbemittel >> Das „Brandneue“ Ebook ist zur Zeit von 24,90 Euro auf 9,90 Euro reduziert! << Eine Ersparniss für den K��ufer von 15,00 Euro! > Brandneues Ebook <
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/22435/adminstore/
+- **Promo link (affiliate):** https://aloe-vera.funnelcockpit.com/produkte/?aff=adminstore#aff=adminstore
 - Sales page: https://aloe-vera.funnelcockpit.com/produkte/
 - Canonical redirect: https://www.digistore24.com/redir/196089/adminstore
 
@@ -58,14 +58,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist ALOE-VERA Produkte selber machen? — Typ: Downloads, Anbieter: chef63, gelistet seit 2018-01-24
-- Wie viel kostet es? — 6.48498 USD
+- Wie viel kostet es? — 6.48904 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: ALOE-VERA Produkte selber machen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/196089
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/196089/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=ALOE-VERA%20Produkte%20selber%20machen
 
 ## 4. Editorial notes

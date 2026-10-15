@@ -4,7 +4,7 @@ digistore24_product_id: 695272
 title: "Werde dein eigener Investor"
 vendor: "mkomischke88b2"
 product_type: "Downloads"
-price: 46.04
+price: 46.07
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 4.61
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Finances"]
 listed_since: "2026-05-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/695272?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/695272"
@@ -22,14 +22,14 @@ language: "de"
 # Werde dein eigener Investor
 
 > Product ID `56677` · Digistore24 productId `695272` · [HTML profile page](../../produkte/werde-dein-eigener-investor-56677.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $46.04 (Single payment) |
+| Price | $46.07 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $4.61 |
 | Cart conversion* | — |
@@ -73,14 +73,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Werde dein eigener Investor? — Typ: Downloads, Anbieter: mkomischke88b2, gelistet seit 2026-05-26
-- Wie viel kostet es? — 46.043358000000005 USD
+- Wie viel kostet es? — 46.072184 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Werde dein eigener Investor Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/695272
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/695272/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Werde%20dein%20eigener%20Investor
 
 ## 4. Editorial notes

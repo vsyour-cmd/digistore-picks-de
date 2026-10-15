@@ -4,16 +4,16 @@ digistore24_product_id: 734142
 title: "Twitch Live-Streaming Komplettkurs"
 vendor: "AndreasLang"
 product_type: "Member area and video courses"
-price: 44.16
+price: 44.19
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 22.08
+earnings_per_sale: 22.1
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Education","Photography & Film"]
 listed_since: "2026-09-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/product/734142?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/734142"
@@ -22,16 +22,16 @@ language: "de"
 # Twitch Live-Streaming Komplettkurs
 
 > Product ID `59638` · Digistore24 productId `734142` · [HTML profile page](../../produkte/twitch-live-streaming-komplettkurs-59638.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $44.16 (Single payment) |
+| Price | $44.19 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $22.08 |
+| Earnings/sale* | $22.10 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | AndreasLang |
@@ -80,14 +80,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Twitch Live-Streaming Komplettkurs? — Typ: Member area and video courses, Anbieter: AndreasLang, gelistet seit 2026-09-24
-- Wie viel kostet es? — 44.164950000000005 USD
+- Wie viel kostet es? — 44.1926 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Twitch Live-Streaming Komplettkurs Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/734142
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/734142/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Twitch%20Live-Streaming%20Komplettkurs
 
 ## 4. Editorial notes

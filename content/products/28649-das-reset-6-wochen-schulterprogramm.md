@@ -4,34 +4,34 @@ digistore24_product_id: 267322
 title: "Das RESET 6 Wochen Schulterprogramm"
 vendor: "myreset"
 product_type: "E-books"
-price: 66.12
+price: 66.17
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 18.56
+earnings_per_sale: 18.57
 cart_conversion_pct: 29
 cancel_rate_pct: 0.05
 categories: ["Sport"]
 listed_since: "2019-04-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "http://www.speedreadingsoftware.de/srt-3/#aff=adminstore"
+promo_link: "http://my-reset.com/schulterprogramm?aff=adminstore#aff=adminstore"
 sales_page: "http://my-reset.com/schulterprogramm"
 language: "de"
 ---
 # Das RESET 6 Wochen Schulterprogramm
 
 > Product ID `28649` · Digistore24 productId `267322` · [HTML profile page](../../produkte/das-reset-6-wochen-schulterprogramm-28649.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $66.12 (Single payment) |
+| Price | $66.17 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $18.56 |
+| Earnings/sale* | $18.57 |
 | Cart conversion* | 29% |
 | Cancel rate* | 0.05% |
 | Vendor | myreset |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://www.speedreadingsoftware.de/srt-3/#aff=adminstore
+- **Promo link (affiliate):** http://my-reset.com/schulterprogramm?aff=adminstore#aff=adminstore
 - Sales page: http://my-reset.com/schulterprogramm
 - Canonical redirect: https://www.digistore24.com/redir/267322/adminstore
 
@@ -85,14 +85,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das RESET 6 Wochen Schulterprogramm? — Typ: E-books, Anbieter: myreset, gelistet seit 2019-04-09
-- Wie viel kostet es? — 66.12443400000001 USD
+- Wie viel kostet es? — 66.165832 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Das RESET 6 Wochen Schulterprogramm Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/267322
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/267322/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Das%20RESET%206%20Wochen%20Schulterprogramm
 
 ## 4. Editorial notes

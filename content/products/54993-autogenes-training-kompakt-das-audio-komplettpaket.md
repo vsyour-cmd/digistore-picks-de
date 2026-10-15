@@ -4,34 +4,34 @@ digistore24_product_id: 657065
 title: "Autogenes Training Kompakt – Das Audio-Komplettpaket"
 vendor: "HansFolta"
 product_type: "Downloads"
-price: 28.1
+price: 28.12
 currency: "USD"
 affiliate_commission_pct: 55
-earnings_per_sale: 15.45
+earnings_per_sale: 15.46
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2025-12-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/54993/adminstore/"
+promo_link: "https://stressfreigesund.net/entspannungstechniken/autogenes-training/autogenes-training-kompakt-das-audio-komplettpaket/?aff=adminstore#aff=adminstore"
 sales_page: "https://stressfreigesund.net/entspannungstechniken/autogenes-training/autogenes-training-kompakt-das-audio-komplettpaket/"
 language: "de"
 ---
 # Autogenes Training Kompakt – Das Audio-Komplettpaket
 
 > Product ID `54993` · Digistore24 productId `657065` · [HTML profile page](../../produkte/autogenes-training-kompakt-das-audio-komplettpaket-54993.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $28.10 (Single payment) |
+| Price | $28.12 (Single payment) |
 | Affiliate commission | 55% |
-| Earnings/sale* | $15.45 |
+| Earnings/sale* | $15.46 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | HansFolta |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/54993/adminstore/
+- **Promo link (affiliate):** https://stressfreigesund.net/entspannungstechniken/autogenes-training/autogenes-training-kompakt-das-audio-komplettpaket/?aff=adminstore#aff=adminstore
 - Sales page: https://stressfreigesund.net/entspannungstechniken/autogenes-training/autogenes-training-kompakt-das-audio-komplettpaket/
 - Canonical redirect: https://www.digistore24.com/redir/657065/adminstore
 
@@ -90,14 +90,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Autogenes Training Kompakt – Das Audio-Komplettpaket? — Typ: Downloads, Anbieter: HansFolta, gelistet seit 2025-12-22
-- Wie viel kostet es? — 28.097853 USD
+- Wie viel kostet es? — 28.115444 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Autogenes Training Kompakt – Das Audio-Komplettpaket Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/657065
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/657065/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Autogenes%20Training%20Kompakt%20%E2%80%93%20Das%20Audio-Komplettpaket
 
 ## 4. Editorial notes

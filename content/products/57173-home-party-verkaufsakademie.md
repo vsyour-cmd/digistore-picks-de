@@ -4,40 +4,40 @@ digistore24_product_id: 705582
 title: "Home-Party-Verkaufsakademie"
 vendor: "MUTPUNKT"
 product_type: "Member area and video courses"
-price: 168.18
+price: 168.29
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 84.09
+earnings_per_sale: 84.14
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Profession & Job","Sales Training","Marketing Services"]
+categories: ["Profession & Job","Marketing Services","Sales Training"]
 listed_since: "2026-06-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/57173/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/705582?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/705582"
 language: "de"
 ---
 # Home-Party-Verkaufsakademie
 
 > Product ID `57173` · Digistore24 productId `705582` · [HTML profile page](../../produkte/home-party-verkaufsakademie-57173.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $168.18 (Single payment) |
+| Price | $168.29 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $84.09 |
+| Earnings/sale* | $84.14 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MUTPUNKT |
 | Listed since | 2026-06-29 |
 | Auto-accept affiliates | yes |
-| Categories | Profession & Job, Sales Training, Marketing Services |
+| Categories | Profession & Job, Marketing Services, Sales Training |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/57173/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/705582?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/705582
 - Vendor affiliate support: https://mutpunkt.pro/affiliate-support-werbemittel
 - Canonical redirect: https://www.digistore24.com/redir/705582/adminstore
@@ -92,14 +92,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Home-Party-Verkaufsakademie? — Typ: Member area and video courses, Anbieter: MUTPUNKT, gelistet seit 2026-06-29
-- Wie viel kostet es? — 168.184602 USD
+- Wie viel kostet es? — 168.289896 USD
 - Garantie? — 14
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Home-Party-Verkaufsakademie Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/705582
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/705582/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Home-Party-Verkaufsakademie
 
 ## 4. Editorial notes

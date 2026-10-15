@@ -4,34 +4,34 @@ digistore24_product_id: 650491
 title: "Onlinekurs:  Frei von inneren Blockaden  Die Macht deiner Gl"
 vendor: "Calls-und-Chats-26"
 product_type: "Member area and video courses"
-price: 1446.96
+price: 1447.86
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 578.78
+earnings_per_sale: 579.15
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2025-11-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/56027/adminstore/"
+promo_link: "https://onlinekurs-glaubenssaetze.psychologisch-spirituelle-beratung.de/wordpress/?aff=adminstore#aff=adminstore"
 sales_page: "https://onlinekurs-glaubenssaetze.psychologisch-spirituelle-beratung.de/wordpress/"
 language: "de"
 ---
 # Onlinekurs:  Frei von inneren Blockaden  Die Macht deiner Gl
 
 > Product ID `56027` · Digistore24 productId `650491` · [HTML profile page](../../produkte/onlinekurs-frei-von-inneren-blockaden-die-macht-deiner-gl-56027.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich (browser-rendered)**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1446.96 (Single payment, Installment) |
+| Price | $1447.86 (Single payment, Installment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $578.78 |
+| Earnings/sale* | $579.15 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Calls-und-Chats-26 |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56027/adminstore/
+- **Promo link (affiliate):** https://onlinekurs-glaubenssaetze.psychologisch-spirituelle-beratung.de/wordpress/?aff=adminstore#aff=adminstore
 - Sales page: https://onlinekurs-glaubenssaetze.psychologisch-spirituelle-beratung.de/wordpress/
 - Canonical redirect: https://www.digistore24.com/redir/650491/adminstore
 
@@ -90,14 +90,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Onlinekurs:  Frei von inneren Blockaden  Die Macht deiner Gl? — Typ: Member area and video courses, Anbieter: Calls-und-Chats-26, gelistet seit 2025-11-23
-- Wie viel kostet es? — 1446.955572 USD
+- Wie viel kostet es? — 1447.8614559999999 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Onlinekurs:  Frei von inneren Blockaden  Die Macht deiner Gl Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/650491
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/650491/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Onlinekurs%3A%C2%A0%20Frei%20von%20inneren%20Blockaden%20%20Die%20Macht%20deiner%20Gl
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 24897
 title: "Chinesisch auf Reisen ohne Vorkenntnisse anwenden"
 vendor: "findsbesserraus"
 product_type: "Downloads"
-price: 20.63
+price: 20.64
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 10.32
+earnings_per_sale: 10.33
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Travel & Culture"]
 listed_since: "2014-05-02"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.chinesisch-fuer-reisende.de?aff=adminstore#aff=adminstore"
 sales_page: "https://www.chinesisch-fuer-reisende.de"
@@ -22,16 +22,16 @@ language: "de"
 # Chinesisch auf Reisen ohne Vorkenntnisse anwenden
 
 > Product ID `3193` · Digistore24 productId `24897` · [HTML profile page](../../produkte/chinesisch-auf-reisen-ohne-vorkenntnisse-anwenden-3193.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $20.63 (Single payment) |
+| Price | $20.64 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $10.32 |
+| Earnings/sale* | $10.33 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | findsbesserraus |
@@ -78,14 +78,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Chinesisch auf Reisen ohne Vorkenntnisse anwenden? — Typ: Downloads, Anbieter: findsbesserraus, gelistet seit 2014-05-02
-- Wie viel kostet es? — 20.628945 USD
+- Wie viel kostet es? — 20.64186 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Chinesisch auf Reisen ohne Vorkenntnisse anwenden Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/24897
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/24897/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Chinesisch%20auf%20Reisen%20ohne%20Vorkenntnisse%20anwenden
 
 ## 4. Editorial notes

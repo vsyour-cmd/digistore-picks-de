@@ -4,16 +4,16 @@ digistore24_product_id: 419952
 title: "Brandneu: neowake®Chroma Watch"
 vendor: "EnergeticTernity"
 product_type: "Deliverable"
-price: 283.89
+price: 284.06
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 108.39
+earnings_per_sale: 108.46
 cart_conversion_pct: 8
 cancel_rate_pct: 2.29
 categories: ["Health & Fitness"]
 listed_since: "2021-12-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/product/419952?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/419952"
@@ -22,16 +22,16 @@ language: "de"
 # Brandneu: neowake®Chroma Watch
 
 > Product ID `45162` · Digistore24 productId `419952` · [HTML profile page](../../produkte/brandneu-neowake-chroma-watch-45162.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Deliverable |
-| Price | $283.89 (Single payment, Installment) |
+| Price | $284.06 (Single payment, Installment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $108.39 |
+| Earnings/sale* | $108.46 |
 | Cart conversion* | 8% |
 | Cancel rate* | 2.29% |
 | Vendor | EnergeticTernity |
@@ -87,14 +87,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Brandneu: neowake®Chroma Watch? — Typ: Deliverable, Anbieter: EnergeticTernity, gelistet seit 2021-12-09
-- Wie viel kostet es? — 283.88559000000004 USD
+- Wie viel kostet es? — 284.06332000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Brandneu: neowake®Chroma Watch Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/419952
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/419952/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Brandneu%3A%20neowake%C2%AEChroma%20Watch
 
 ## 4. Editorial notes

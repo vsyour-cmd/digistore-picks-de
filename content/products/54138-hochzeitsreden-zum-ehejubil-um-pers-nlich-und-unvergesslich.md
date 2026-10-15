@@ -4,7 +4,7 @@ digistore24_product_id: 574613
 title: "Hochzeitsreden zum Ehejubiläum: Persönlich und Unvergesslich"
 vendor: "Hochzeitsplaza"
 product_type: "E-books"
-price: 10.44
+price: 10.45
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 1.04
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2024-10-10"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/574613?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/574613"
@@ -22,14 +22,14 @@ language: "de"
 # Hochzeitsreden zum Ehejubiläum: Persönlich und Unvergesslich
 
 > Product ID `54138` · Digistore24 productId `574613` · [HTML profile page](../../produkte/hochzeitsreden-zum-ehejubil-um-pers-nlich-und-unvergesslich-54138.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.44 (Single payment) |
+| Price | $10.45 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $1.04 |
 | Cart conversion* | — |
@@ -73,14 +73,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Hochzeitsreden zum Ehejubiläum: Persönlich und Unvergesslich? — Typ: E-books, Anbieter: Hochzeitsplaza, gelistet seit 2024-10-10
-- Wie viel kostet es? — 10.443054 USD
+- Wie viel kostet es? — 10.449592 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Hochzeitsreden zum Ehejubiläum: Persönlich und Unvergesslich Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/574613
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/574613/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Hochzeitsreden%20zum%20Ehejubil%C3%A4um%3A%20Pers%C3%B6nlich%20und%20Unvergesslich
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 698014
 title: "(Online Kurs) Ein Business mit KI Automatisieren"
 vendor: "JinTo_Solutions"
 product_type: "Member area and video courses"
-price: 65.97
+price: 66.01
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 32.98
+earnings_per_sale: 33
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Computer & Internet","Profession & Job"]
 listed_since: "2026-06-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/698014?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/698014"
@@ -22,16 +22,16 @@ language: "de"
 # (Online Kurs) Ein Business mit KI Automatisieren
 
 > Product ID `57098` · Digistore24 productId `698014` · [HTML profile page](../../produkte/online-kurs-ein-business-mit-ki-automatisieren-57098.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $65.97 (Single payment) |
+| Price | $66.01 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $32.98 |
+| Earnings/sale* | $33.00 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | JinTo_Solutions |
@@ -81,14 +81,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist (Online Kurs) Ein Business mit KI Automatisieren? — Typ: Member area and video courses, Anbieter: JinTo_Solutions, gelistet seit 2026-06-22
-- Wie viel kostet es? — 65.9679 USD
+- Wie viel kostet es? — 66.0092 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: (Online Kurs) Ein Business mit KI Automatisieren Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/698014
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/698014/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=(Online%20Kurs)%20Ein%20Business%20mit%20KI%20Automatisieren
 
 ## 4. Editorial notes

@@ -4,7 +4,7 @@ digistore24_product_id: 694518
 title: "Kollaps mit Ansage – Warum unser System ins Wanken gerät"
 vendor: "PERSOFIT"
 product_type: "E-books"
-price: 9.39
+price: 9.4
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 4.7
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Law & Justice","Politics & Economy"]
 listed_since: "2026-05-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/694518?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/694518"
@@ -22,14 +22,14 @@ language: "de"
 # Kollaps mit Ansage – Warum unser System ins Wanken gerät
 
 > Product ID `56656` · Digistore24 productId `694518` · [HTML profile page](../../produkte/kollaps-mit-ansage-warum-unser-system-ins-wanken-ger-t-56656.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $9.39 (Single payment) |
+| Price | $9.40 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $4.70 |
 | Cart conversion* | — |
@@ -83,14 +83,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Kollaps mit Ansage – Warum unser System ins Wanken gerät? — Typ: E-books, Anbieter: PERSOFIT, gelistet seit 2026-05-22
-- Wie viel kostet es? — 9.392040000000001 USD
+- Wie viel kostet es? — 9.397920000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Kollaps mit Ansage – Warum unser System ins Wanken gerät Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/694518
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/694518/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Kollaps%20mit%20Ansage%20%E2%80%93%20Warum%20unser%20System%20ins%20Wanken%20ger%C3%A4t
 
 ## 4. Editorial notes

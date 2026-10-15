@@ -4,34 +4,34 @@ digistore24_product_id: 247312
 title: "Rette deinen Rücken BASIC"
 vendor: "australia1011"
 product_type: "Downloads"
-price: 46.04
+price: 46.07
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 23.02
+earnings_per_sale: 23.04
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2020-04-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "http://magnetmotor24.com/neues-angebot/#aff=adminstore"
+promo_link: "https://pilates4life.lpages.co/r%C3%BCcken-intensiv-69-shop/?aff=adminstore#aff=adminstore"
 sales_page: "https://pilates4life.lpages.co/r%C3%BCcken-intensiv-69-shop/"
 language: "de"
 ---
 # Rette deinen Rücken BASIC
 
 > Product ID `26143` · Digistore24 productId `247312` · [HTML profile page](../../produkte/rette-deinen-r-cken-basic-26143.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $46.04 (Single payment) |
+| Price | $46.07 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $23.02 |
+| Earnings/sale* | $23.04 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | australia1011 |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://magnetmotor24.com/neues-angebot/#aff=adminstore
+- **Promo link (affiliate):** https://pilates4life.lpages.co/r%C3%BCcken-intensiv-69-shop/?aff=adminstore#aff=adminstore
 - Sales page: https://pilates4life.lpages.co/r%C3%BCcken-intensiv-69-shop/
 - Canonical redirect: https://www.digistore24.com/redir/247312/adminstore
 
@@ -90,14 +90,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Rette deinen Rücken BASIC? — Typ: Downloads, Anbieter: australia1011, gelistet seit 2020-04-04
-- Wie viel kostet es? — 46.043358000000005 USD
+- Wie viel kostet es? — 46.072184 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Rette deinen Rücken BASIC Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/247312
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/247312/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Rette%20deinen%20R%C3%BCcken%20BASIC
 
 ## 4. Editorial notes

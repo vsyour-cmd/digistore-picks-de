@@ -4,40 +4,40 @@ digistore24_product_id: 676916
 title: "Onlinekurs \"Bevor du JA sagst\""
 vendor: "JohannaMaghsoudi"
 product_type: "Downloads"
-price: 186.98
+price: 187.1
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 93.5
+earnings_per_sale: 93.55
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Dating, Relationships & Romance","Personal Development","Spiri­tua­lity & Esotericism"]
+categories: ["Personal Development","Dating, Relationships & Romance","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-04-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/56347/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/676916?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/676916"
 language: "de"
 ---
 # Onlinekurs "Bevor du JA sagst"
 
 > Product ID `56347` · Digistore24 productId `676916` · [HTML profile page](../../produkte/onlinekurs-bevor-du-ja-sagst-56347.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $186.98 (Single payment) |
+| Price | $187.10 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $93.50 |
+| Earnings/sale* | $93.55 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | JohannaMaghsoudi |
 | Listed since | 2026-04-22 |
 | Auto-accept affiliates | no (approval required) |
-| Categories | Dating, Relationships & Romance, Personal Development, Spiri­tua­lity & Esotericism |
+| Categories | Personal Development, Dating, Relationships & Romance, Spiri­tua­lity & Esotericism |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56347/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/676916?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/676916
 - Vendor affiliate support: https://www.heilpraxis-gesunde-beziehungen.de/affiliate
 - Canonical redirect: https://www.digistore24.com/redir/676916/adminstore
@@ -89,14 +89,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Onlinekurs "Bevor du JA sagst"? — Typ: Downloads, Anbieter: JohannaMaghsoudi, gelistet seit 2026-04-22
-- Wie viel kostet es? — 186.979863 USD
+- Wie viel kostet es? — 187.096924 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Onlinekurs "Bevor du JA sagst" Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/676916
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/676916/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Onlinekurs%20%22Bevor%20du%20JA%20sagst%22
 
 ## 4. Editorial notes

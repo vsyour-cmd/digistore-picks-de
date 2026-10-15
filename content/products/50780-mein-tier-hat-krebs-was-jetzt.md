@@ -4,16 +4,16 @@ digistore24_product_id: 561506
 title: "Mein Tier hat Krebs -was jetzt?"
 vendor: "PetraSchwarz"
 product_type: "Member area and video courses"
-price: 40.87
+price: 40.89
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 8.17
+earnings_per_sale: 8.18
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Animals & Pets","Education","Health & Fitness"]
+categories: ["Health & Fitness","Animals & Pets","Education"]
 listed_since: "2024-07-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
 promo_link: "https://akademie.tierheilpraxis-ps.de/ng/lp/KrebsbeimTier?aff=adminstore#aff=adminstore"
 sales_page: "https://akademie.tierheilpraxis-ps.de/ng/lp/KrebsbeimTier"
@@ -22,22 +22,22 @@ language: "de"
 # Mein Tier hat Krebs -was jetzt?
 
 > Product ID `50780` · Digistore24 productId `561506` · [HTML profile page](../../produkte/mein-tier-hat-krebs-was-jetzt-50780.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $40.87 (Single payment) |
+| Price | $40.89 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $8.17 |
+| Earnings/sale* | $8.18 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | PetraSchwarz |
 | Listed since | 2024-07-17 |
 | Auto-accept affiliates | no (approval required) |
-| Categories | Animals & Pets, Education, Health & Fitness |
+| Categories | Health & Fitness, Animals & Pets, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -61,14 +61,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mein Tier hat Krebs -was jetzt?? — Typ: Member area and video courses, Anbieter: PetraSchwarz, gelistet seit 2024-07-17
-- Wie viel kostet es? — 40.866555 USD
+- Wie viel kostet es? — 40.89214 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Mein Tier hat Krebs -was jetzt? Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/561506
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/561506/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Mein%20Tier%20hat%20Krebs%20-was%20jetzt%3F
 
 ## 4. Editorial notes

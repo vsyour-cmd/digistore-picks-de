@@ -4,34 +4,34 @@ digistore24_product_id: 280180
 title: "Paarungszeit - Erobert Eure Lust zurück!"
 vendor: "Kama44"
 product_type: "Downloads"
-price: 148.45
+price: 148.54
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 74.23
+earnings_per_sale: 74.28
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2019-07-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/38143/adminstore/"
+promo_link: "https://www.die-sexualitaet.de/paarungszeit-replay?aff=adminstore#aff=adminstore"
 sales_page: "https://www.die-sexualitaet.de/paarungszeit-replay"
 language: "de"
 ---
 # Paarungszeit - Erobert Eure Lust zurück!
 
 > Product ID `38143` · Digistore24 productId `280180` · [HTML profile page](../../produkte/paarungszeit-erobert-eure-lust-zur-ck-38143.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $148.45 (Single payment, Installment) |
+| Price | $148.54 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $74.23 |
+| Earnings/sale* | $74.28 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Kama44 |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/38143/adminstore/
+- **Promo link (affiliate):** https://www.die-sexualitaet.de/paarungszeit-replay?aff=adminstore#aff=adminstore
 - Sales page: https://www.die-sexualitaet.de/paarungszeit-replay
 - Canonical redirect: https://www.digistore24.com/redir/280180/adminstore
 
@@ -100,14 +100,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Paarungszeit - Erobert Eure Lust zurück!? — Typ: Downloads, Anbieter: Kama44, gelistet seit 2019-07-22
-- Wie viel kostet es? — 148.450137 USD
+- Wie viel kostet es? — 148.543076 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Paarungszeit - Erobert Eure Lust zurück! Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/280180
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/280180/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Paarungszeit%20-%20Erobert%20Eure%20Lust%20zur%C3%BCck!
 
 ## 4. Editorial notes

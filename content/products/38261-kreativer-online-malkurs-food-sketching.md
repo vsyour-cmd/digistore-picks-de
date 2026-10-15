@@ -4,34 +4,34 @@ digistore24_product_id: 414062
 title: "Kreativer online Malkurs \"Food Sketching\""
 vendor: "kolibrischool"
 product_type: "Member area and video courses"
-price: 26.22
+price: 26.24
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 5.24
+earnings_per_sale: 5.25
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft"]
 listed_since: "2021-10-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/38261/adminstore/"
+promo_link: "https://kolibri-school.de/food-sketching-malen-lernen/?aff=adminstore#aff=adminstore"
 sales_page: "https://kolibri-school.de/food-sketching-malen-lernen/"
 language: "de"
 ---
 # Kreativer online Malkurs "Food Sketching"
 
 > Product ID `38261` · Digistore24 productId `414062` · [HTML profile page](../../produkte/kreativer-online-malkurs-food-sketching-38261.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $26.22 (Single payment) |
+| Price | $26.24 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $5.24 |
+| Earnings/sale* | $5.25 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | kolibrischool |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/38261/adminstore/
+- **Promo link (affiliate):** https://kolibri-school.de/food-sketching-malen-lernen/?aff=adminstore#aff=adminstore
 - Sales page: https://kolibri-school.de/food-sketching-malen-lernen/
 - Canonical redirect: https://www.digistore24.com/redir/414062/adminstore
 
@@ -69,14 +69,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Kreativer online Malkurs "Food Sketching"? — Typ: Member area and video courses, Anbieter: kolibrischool, gelistet seit 2021-10-29
-- Wie viel kostet es? — 26.219445 USD
+- Wie viel kostet es? — 26.23586 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Kreativer online Malkurs "Food Sketching" Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/414062
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/414062/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Kreativer%20online%20Malkurs%20%22Food%20Sketching%22
 
 ## 4. Editorial notes

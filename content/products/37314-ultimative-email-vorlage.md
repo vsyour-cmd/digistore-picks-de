@@ -4,16 +4,16 @@ digistore24_product_id: 239710
 title: "Ultimative Email Vorlage"
 vendor: "renerink"
 product_type: "Member area and video courses"
-price: 41.37
+price: 41.4
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 20.68
+earnings_per_sale: 20.7
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Email Marketing"]
 listed_since: "2018-09-12"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/239710?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/239710"
@@ -22,16 +22,16 @@ language: "de"
 # Ultimative Email Vorlage
 
 > Product ID `37314` · Digistore24 productId `239710` · [HTML profile page](../../produkte/ultimative-email-vorlage-37314.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $41.37 (Single payment) |
+| Price | $41.40 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $20.68 |
+| Earnings/sale* | $20.70 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | renerink |
@@ -85,14 +85,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ultimative Email Vorlage? — Typ: Member area and video courses, Anbieter: renerink, gelistet seit 2018-09-12
-- Wie viel kostet es? — 41.3697 USD
+- Wie viel kostet es? — 41.3956 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Ultimative Email Vorlage Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/239710
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/239710/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Ultimative%20Email%20Vorlage
 
 ## 4. Editorial notes

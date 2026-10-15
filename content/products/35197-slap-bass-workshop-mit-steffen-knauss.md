@@ -4,34 +4,34 @@ digistore24_product_id: 100621
 title: "Slap-Bass Workshop mit Steffen Knauss"
 vendor: "meineMusikschule"
 product_type: "Member area and video courses"
-price: 74.23
+price: 74.28
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 29.7
+earnings_per_sale: 29.72
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dancing & Music"]
 listed_since: "2016-10-19"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/35197/adminstore/"
+promo_link: "https://meinemusikschule.net/kurse/slap-bass-workshop?aff=adminstore#aff=adminstore"
 sales_page: "https://meinemusikschule.net/kurse/slap-bass-workshop"
 language: "de"
 ---
 # Slap-Bass Workshop mit Steffen Knauss
 
 > Product ID `35197` · Digistore24 productId `100621` · [HTML profile page](../../produkte/slap-bass-workshop-mit-steffen-knauss-35197.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $74.23 (Single payment) |
+| Price | $74.28 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $29.70 |
+| Earnings/sale* | $29.72 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | meineMusikschule |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/35197/adminstore/
+- **Promo link (affiliate):** https://meinemusikschule.net/kurse/slap-bass-workshop?aff=adminstore#aff=adminstore
 - Sales page: https://meinemusikschule.net/kurse/slap-bass-workshop
 - Vendor affiliate support: https://meinemusikschule.net/partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/100621/adminstore
@@ -95,14 +95,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Slap-Bass Workshop mit Steffen Knauss? — Typ: Member area and video courses, Anbieter: meineMusikschule, gelistet seit 2016-10-19
-- Wie viel kostet es? — 74.230659 USD
+- Wie viel kostet es? — 74.27713200000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Slap-Bass Workshop mit Steffen Knauss Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/100621
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/100621/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Slap-Bass%20Workshop%20mit%20Steffen%20Knauss
 
 ## 4. Editorial notes

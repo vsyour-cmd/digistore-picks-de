@@ -4,16 +4,16 @@ digistore24_product_id: 525075
 title: "Naturkosmetik genial einfach"
 vendor: "Katharinaruehrt"
 product_type: "Member area and video courses"
-price: 80.48
+price: 80.53
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 34.23
+earnings_per_sale: 34.25
 cart_conversion_pct: 8
 cancel_rate_pct: 1.54
 categories: ["Education","Green Products & Environmental Protection","Hobby & Craft"]
 listed_since: "2023-11-13"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.katharinaruehrt.com/nkge-onlinekurs?aff=adminstore#aff=adminstore"
 sales_page: "https://www.katharinaruehrt.com/nkge-onlinekurs"
@@ -22,16 +22,16 @@ language: "de"
 # Naturkosmetik genial einfach
 
 > Product ID `53730` · Digistore24 productId `525075` · [HTML profile page](../../produkte/naturkosmetik-genial-einfach-53730.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $80.48 (Single payment, Installment) |
+| Price | $80.53 (Single payment, Installment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $34.23 |
+| Earnings/sale* | $34.25 |
 | Cart conversion* | 8% |
 | Cancel rate* | 1.54% |
 | Vendor | Katharinaruehrt |
@@ -99,14 +99,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Naturkosmetik genial einfach? — Typ: Member area and video courses, Anbieter: Katharinaruehrt, gelistet seit 2023-11-13
-- Wie viel kostet es? — 80.480838 USD
+- Wie viel kostet es? — 80.53122400000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Naturkosmetik genial einfach Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/525075
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/525075/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Naturkosmetik%20genial%20einfach
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 447934
 title: "THERAPEUTIC TOUCH Online-Einstiegerkurs"
 vendor: "TT-Coach"
 product_type: "Member area and video courses"
-price: 197.31
+price: 197.43
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 49.33
+earnings_per_sale: 49.36
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2022-06-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://therapeutictouchausbildung.de/therapeutic-touch-online-kurs/?aff=adminstore#aff=adminstore"
 sales_page: "https://therapeutictouchausbildung.de/therapeutic-touch-online-kurs/"
@@ -22,16 +22,16 @@ language: "de"
 # THERAPEUTIC TOUCH Online-Einstiegerkurs
 
 > Product ID `40364` · Digistore24 productId `447934` · [HTML profile page](../../produkte/therapeutic-touch-online-einstiegerkurs-40364.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $197.31 (Single payment, Installment) |
+| Price | $197.43 (Single payment, Installment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $49.33 |
+| Earnings/sale* | $49.36 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | TT-Coach |
@@ -74,14 +74,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist THERAPEUTIC TOUCH Online-Einstiegerkurs? — Typ: Member area and video courses, Anbieter: TT-Coach, gelistet seit 2022-06-22
-- Wie viel kostet es? — 197.31110700000002 USD
+- Wie viel kostet es? — 197.434636 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: THERAPEUTIC TOUCH Online-Einstiegerkurs Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/447934
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/447934/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=THERAPEUTIC%20TOUCH%20Online-Einstiegerkurs
 
 ## 4. Editorial notes

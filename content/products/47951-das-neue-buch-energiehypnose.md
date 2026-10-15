@@ -4,34 +4,34 @@ digistore24_product_id: 544868
 title: "Das neue Buch: EnergieHypnose"
 vendor: "hh-akademie"
 product_type: "Book (printed)"
-price: 15.62
+price: 15.63
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 6.56
+earnings_per_sale: 6.57
 cart_conversion_pct: 10
 cancel_rate_pct: 0.47
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2024-03-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/47951/adminstore/"
+promo_link: "https://energiehypnose.at?aff=adminstore#aff=adminstore"
 sales_page: "https://energiehypnose.at"
 language: "de"
 ---
 # Das neue Buch: EnergieHypnose
 
 > Product ID `47951` · Digistore24 productId `544868` · [HTML profile page](../../produkte/das-neue-buch-energiehypnose-47951.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $15.62 (Single payment) |
+| Price | $15.63 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $6.56 |
+| Earnings/sale* | $6.57 |
 | Cart conversion* | 10% |
 | Cancel rate* | 0.47% |
 | Vendor | hh-akademie |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/47951/adminstore/
+- **Promo link (affiliate):** https://energiehypnose.at?aff=adminstore#aff=adminstore
 - Sales page: https://energiehypnose.at
 - Vendor affiliate support: https://energiehypnose.at/affiliateseite
 - Canonical redirect: https://www.digistore24.com/redir/544868/adminstore
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das neue Buch: EnergieHypnose? — Typ: Book (printed), Anbieter: hh-akademie, gelistet seit 2024-03-22
-- Wie viel kostet es? — 15.619857000000001 USD
+- Wie viel kostet es? — 15.629636000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Das neue Buch: EnergieHypnose Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/544868
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/544868/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Das%20neue%20Buch%3A%20EnergieHypnose
 
 ## 4. Editorial notes

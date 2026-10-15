@@ -4,34 +4,34 @@ digistore24_product_id: 110413
 title: "Führerscheintraining"
 vendor: "UWimmer"
 product_type: "Downloads"
-price: 46.04
+price: 46.07
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 13.81
+earnings_per_sale: 13.82
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2016-12-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/16451/adminstore/"
+promo_link: "http://fuehrerscheintraining.de/?aff=adminstore#aff=adminstore"
 sales_page: "http://fuehrerscheintraining.de/"
 language: "de"
 ---
 # Führerscheintraining
 
 > Product ID `16451` · Digistore24 productId `110413` · [HTML profile page](../../produkte/f-hrerscheintraining-16451.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $46.04 (Single payment) |
+| Price | $46.07 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $13.81 |
+| Earnings/sale* | $13.82 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | UWimmer |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/16451/adminstore/
+- **Promo link (affiliate):** http://fuehrerscheintraining.de/?aff=adminstore#aff=adminstore
 - Sales page: http://fuehrerscheintraining.de/
 - Vendor affiliate support: http://fuehrerscheintraining.de/partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/110413/adminstore
@@ -90,14 +90,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Führerscheintraining? — Typ: Downloads, Anbieter: UWimmer, gelistet seit 2016-12-23
-- Wie viel kostet es? — 46.043358000000005 USD
+- Wie viel kostet es? — 46.072184 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Führerscheintraining Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/110413
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/110413/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=F%C3%BChrerscheintraining
 
 ## 4. Editorial notes

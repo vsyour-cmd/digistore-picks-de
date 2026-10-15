@@ -4,16 +4,16 @@ digistore24_product_id: 717920
 title: "Ruhig durch den Sturm – Ein warmherziger Begleiter gegen Ang"
 vendor: "mlangbein51cce0"
 product_type: "E-books"
-price: 28.21
+price: 28.23
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 14.11
+earnings_per_sale: 14.12
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Leadership & Management"]
 listed_since: "2026-08-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/717920?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/717920"
@@ -22,16 +22,16 @@ language: "de"
 # Ruhig durch den Sturm – Ein warmherziger Begleiter gegen Ang
 
 > Product ID `58118` · Digistore24 productId `717920` · [HTML profile page](../../produkte/ruhig-durch-den-sturm-ein-warmherziger-begleiter-gegen-ang-58118.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $28.21 (Single payment) |
+| Price | $28.23 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $14.11 |
+| Earnings/sale* | $14.12 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | mlangbein51cce0 |
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ruhig durch den Sturm – Ein warmherziger Begleiter gegen Ang? — Typ: E-books, Anbieter: mlangbein51cce0, gelistet seit 2026-08-04
-- Wie viel kostet es? — 28.209663000000003 USD
+- Wie viel kostet es? — 28.227324 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Ruhig durch den Sturm – Ein warmherziger Begleiter gegen Ang Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/717920
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/717920/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Ruhig%20durch%20den%20Sturm%20%E2%80%93%20Ein%20warmherziger%20Begleiter%20gegen%20Ang
 
 ## 4. Editorial notes

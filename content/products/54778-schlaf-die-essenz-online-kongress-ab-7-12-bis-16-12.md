@@ -4,16 +4,16 @@ digistore24_product_id: 647324
 title: "Schlaf - die Essenz - Online Kongress ab 7.12. bis 16.12."
 vendor: "pulsingearth"
 product_type: "Member area and video courses"
-price: 64.83
+price: 64.87
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 6.48
+earnings_per_sale: 6.49
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Health & Fitness"]
+categories: ["Health & Fitness","Education"]
 listed_since: "2025-11-10"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://pulsing-earth.com/schlaf-online-kongress/?aff=adminstore#aff=adminstore"
 sales_page: "https://pulsing-earth.com/schlaf-online-kongress/"
@@ -22,22 +22,22 @@ language: "de"
 # Schlaf - die Essenz - Online Kongress ab 7.12. bis 16.12.
 
 > Product ID `54778` · Digistore24 productId `647324` · [HTML profile page](../../produkte/schlaf-die-essenz-online-kongress-ab-7-12-bis-16-12-54778.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $64.83 (Single payment) |
+| Price | $64.87 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $6.48 |
+| Earnings/sale* | $6.49 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pulsingearth |
 | Listed since | 2025-11-10 |
 | Auto-accept affiliates | no (approval required) |
-| Categories | Education, Health & Fitness |
+| Categories | Health & Fitness, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -85,14 +85,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Schlaf - die Essenz - Online Kongress ab 7.12. bis 16.12.? — Typ: Member area and video courses, Anbieter: pulsingearth, gelistet seit 2025-11-10
-- Wie viel kostet es? — 64.827438 USD
+- Wie viel kostet es? — 64.86802399999999 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Schlaf - die Essenz - Online Kongress ab 7.12. bis 16.12. Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/647324
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/647324/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Schlaf%20-%20die%20Essenz%20-%20Online%20Kongress%20ab%207.12.%20bis%2016.12.
 
 ## 4. Editorial notes

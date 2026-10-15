@@ -4,16 +4,16 @@ digistore24_product_id: 715479
 title: "LNA Hauskurs – Gesichtspflege-Methode für zuhause mit hoher"
 vendor: "L-N-Academy"
 product_type: "Member area and video courses"
-price: 328.86
+price: 329.06
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 98.66
+earnings_per_sale: 98.72
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Skin Care"]
 listed_since: "2026-08-14"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.l-n-a.com/lna-hauskurs?aff=adminstore#aff=adminstore"
 sales_page: "https://www.l-n-a.com/lna-hauskurs"
@@ -22,16 +22,16 @@ language: "de"
 # LNA Hauskurs – Gesichtspflege-Methode für zuhause mit hoher
 
 > Product ID `58354` · Digistore24 productId `715479` · [HTML profile page](../../produkte/lna-hauskurs-gesichtspflege-methode-f-r-zuhause-mit-hoher-58354.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $328.86 (Single payment) |
+| Price | $329.06 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $98.66 |
+| Earnings/sale* | $98.72 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | L-N-Academy |
@@ -97,14 +97,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist LNA Hauskurs – Gesichtspflege-Methode für zuhause mit hoher? — Typ: Member area and video courses, Anbieter: L-N-Academy, gelistet seit 2026-08-14
-- Wie viel kostet es? — 328.85557200000005 USD
+- Wie viel kostet es? — 329.061456 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: LNA Hauskurs – Gesichtspflege-Methode für zuhause mit hoher Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/715479
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/715479/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=LNA%20Hauskurs%20%E2%80%93%20Gesichtspflege-Methode%20f%C3%BCr%20zuhause%20mit%20hoher
 
 ## 4. Editorial notes

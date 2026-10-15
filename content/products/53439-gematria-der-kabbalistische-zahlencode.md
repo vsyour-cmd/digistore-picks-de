@@ -4,32 +4,32 @@ digistore24_product_id: 627487
 title: "GEMATRIA der kabbalistische Zahlencode"
 vendor: "Axel-Schoenfelder"
 product_type: "E-books"
-price: 16.92
+price: 16.93
 currency: "USD"
 affiliate_commission_pct: 40
 earnings_per_sale: 5.64
 cart_conversion_pct: 3
 cancel_rate_pct: 0
-categories: ["Languages","Spiri­tua­lity & Esotericism"]
+categories: ["Spiri­tua­lity & Esotericism","Languages"]
 listed_since: "2025-08-02"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/53439/adminstore/"
+promo_link: "https://www.digistore24.com/product/627487?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/627487"
 language: "de"
 ---
 # GEMATRIA der kabbalistische Zahlencode
 
 > Product ID `53439` · Digistore24 productId `627487` · [HTML profile page](../../produkte/gematria-der-kabbalistische-zahlencode-53439.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $16.92 (Single payment) |
+| Price | $16.93 (Single payment) |
 | Affiliate commission | 40% |
 | Earnings/sale* | $5.64 |
 | Cart conversion* | 3% |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | Axel-Schoenfelder |
 | Listed since | 2025-08-02 |
 | Auto-accept affiliates | yes |
-| Categories | Languages, Spiri­tua­lity & Esotericism |
+| Categories | Spiri­tua­lity & Esotericism, Languages |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/53439/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/627487?aff=adminstore
 - Sales page: https://www.digistore24.com/product/627487
 - Canonical redirect: https://www.digistore24.com/redir/627487/adminstore
 
@@ -70,14 +70,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist GEMATRIA der kabbalistische Zahlencode? — Typ: E-books, Anbieter: Axel-Schoenfelder, gelistet seit 2025-08-02
-- Wie viel kostet es? — 16.916853000000003 USD
+- Wie viel kostet es? — 16.927444 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: GEMATRIA der kabbalistische Zahlencode Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/627487
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/627487/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=GEMATRIA%20der%20kabbalistische%20Zahlencode
 
 ## 4. Editorial notes

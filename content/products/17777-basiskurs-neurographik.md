@@ -4,34 +4,34 @@ digistore24_product_id: 150465
 title: "Basiskurs Neurographik"
 vendor: "motivation-art"
 product_type: "Member area and video courses"
-price: 183.22
+price: 183.34
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 33.39
+earnings_per_sale: 33.41
 cart_conversion_pct: 11
 cancel_rate_pct: 1.08
 categories: ["Personal Development"]
 listed_since: "2017-07-13"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/17777/adminstore/"
+promo_link: "http://motivation-art.de/einfuehrung-in-die-neurographik/?aff=adminstore#aff=adminstore"
 sales_page: "http://motivation-art.de/einfuehrung-in-die-neurographik/"
 language: "de"
 ---
 # Basiskurs Neurographik
 
 > Product ID `17777` · Digistore24 productId `150465` · [HTML profile page](../../produkte/basiskurs-neurographik-17777.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $183.22 (Single payment) |
+| Price | $183.34 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $33.39 |
+| Earnings/sale* | $33.41 |
 | Cart conversion* | 11% |
 | Cancel rate* | 1.08% |
 | Vendor | motivation-art |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/17777/adminstore/
+- **Promo link (affiliate):** http://motivation-art.de/einfuehrung-in-die-neurographik/?aff=adminstore#aff=adminstore
 - Sales page: http://motivation-art.de/einfuehrung-in-die-neurographik/
 - Canonical redirect: https://www.digistore24.com/redir/150465/adminstore
 
@@ -82,14 +82,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Basiskurs Neurographik? — Typ: Member area and video courses, Anbieter: motivation-art, gelistet seit 2017-07-13
-- Wie viel kostet es? — 183.223047 USD
+- Wie viel kostet es? — 183.337756 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Basiskurs Neurographik Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/150465
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/150465/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Basiskurs%20Neurographik
 
 ## 4. Editorial notes

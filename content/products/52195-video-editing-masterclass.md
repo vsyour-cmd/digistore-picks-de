@@ -4,34 +4,34 @@ digistore24_product_id: 607744
 title: "Video Editing Masterclass"
 vendor: "NatureHeartAcademy"
 product_type: "Member area and video courses"
-price: 934.88
+price: 935.46
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 186.98
+earnings_per_sale: 187.1
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Social Media"]
 listed_since: "2025-04-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/52195/adminstore/"
+promo_link: "https://www.fabiankowallikacademy.de/start/video-editing-masterclass/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.fabiankowallikacademy.de/start/video-editing-masterclass/"
 language: "de"
 ---
 # Video Editing Masterclass
 
 > Product ID `52195` · Digistore24 productId `607744` · [HTML profile page](../../produkte/video-editing-masterclass-52195.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $934.88 (Single payment) |
+| Price | $935.46 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $186.98 |
+| Earnings/sale* | $187.10 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | NatureHeartAcademy |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/52195/adminstore/
+- **Promo link (affiliate):** https://www.fabiankowallikacademy.de/start/video-editing-masterclass/?aff=adminstore#aff=adminstore
 - Sales page: https://www.fabiankowallikacademy.de/start/video-editing-masterclass/
 - Vendor affiliate support: https://www.digistore24-app.com/account/partnerarea/4347336/de
 - Canonical redirect: https://www.digistore24.com/redir/607744/adminstore
@@ -101,14 +101,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Video Editing Masterclass? — Typ: Member area and video courses, Anbieter: NatureHeartAcademy, gelistet seit 2025-04-16
-- Wie viel kostet es? — 934.8769530000001 USD
+- Wie viel kostet es? — 935.462244 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Video Editing Masterclass Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/607744
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/607744/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Video%20Editing%20Masterclass
 
 ## 4. Editorial notes

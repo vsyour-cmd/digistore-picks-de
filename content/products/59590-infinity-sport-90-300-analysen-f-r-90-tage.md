@@ -4,16 +4,16 @@ digistore24_product_id: 736381
 title: "INFINITY SPORT 90 – 300 Analysen für 90 Tage"
 vendor: "uweboehle47cf"
 product_type: "Software"
-price: 110.87
+price: 110.94
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 33.26
+earnings_per_sale: 33.28
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Sport"]
 listed_since: "2026-09-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://infinity-sport.business-coach-uwe-boehle.ch/guthaben-sport.php?aff=adminstore#aff=adminstore"
 sales_page: "https://infinity-sport.business-coach-uwe-boehle.ch/guthaben-sport.php"
@@ -22,16 +22,16 @@ language: "de"
 # INFINITY SPORT 90 – 300 Analysen für 90 Tage
 
 > Product ID `59590` · Digistore24 productId `736381` · [HTML profile page](../../produkte/infinity-sport-90-300-analysen-f-r-90-tage-59590.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $110.87 (Single payment) |
+| Price | $110.94 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $33.26 |
+| Earnings/sale* | $33.28 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | uweboehle47cf |
@@ -82,14 +82,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist INFINITY SPORT 90 – 300 Analysen für 90 Tage? — Typ: Software, Anbieter: uweboehle47cf, gelistet seit 2026-09-23
-- Wie viel kostet es? — 110.870796 USD
+- Wie viel kostet es? — 110.940208 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: INFINITY SPORT 90 – 300 Analysen für 90 Tage Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/736381
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/736381/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=INFINITY%20SPORT%2090%20%E2%80%93%20300%20Analysen%20f%C3%BCr%2090%20Tage
 
 ## 4. Editorial notes

@@ -4,34 +4,34 @@ digistore24_product_id: 500301
 title: "Kundenmagnet"
 vendor: "BusinessEmpowerment"
 product_type: "Member area and video courses"
-price: 119.32
+price: 119.4
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 59.66
+earnings_per_sale: 59.7
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2023-05-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/44597/adminstore/"
+promo_link: "https://business-empowerment.eu/kurs-kundenmagnet/?aff=adminstore#aff=adminstore"
 sales_page: "https://business-empowerment.eu/kurs-kundenmagnet/"
 language: "de"
 ---
 # Kundenmagnet
 
 > Product ID `44597` · Digistore24 productId `500301` · [HTML profile page](../../produkte/kundenmagnet-44597.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $119.32 (Single payment) |
+| Price | $119.40 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $59.66 |
+| Earnings/sale* | $59.70 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | BusinessEmpowerment |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/44597/adminstore/
+- **Promo link (affiliate):** https://business-empowerment.eu/kurs-kundenmagnet/?aff=adminstore#aff=adminstore
 - Sales page: https://business-empowerment.eu/kurs-kundenmagnet/
 - Canonical redirect: https://www.digistore24.com/redir/500301/adminstore
 
@@ -92,14 +92,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Kundenmagnet? — Typ: Member area and video courses, Anbieter: BusinessEmpowerment, gelistet seit 2023-05-24
-- Wie viel kostet es? — 119.323632 USD
+- Wie viel kostet es? — 119.398336 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Kundenmagnet Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/500301
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/500301/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Kundenmagnet
 
 ## 4. Editorial notes

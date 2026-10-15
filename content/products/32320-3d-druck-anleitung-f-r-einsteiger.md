@@ -4,16 +4,16 @@ digistore24_product_id: 320187
 title: "3D-Druck Anleitung für Einsteiger"
 vendor: "FIMA2011"
 product_type: "Downloads"
-price: 26.3
+price: 26.31
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 13.15
+earnings_per_sale: 13.16
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet"]
 listed_since: "2020-04-11"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.3ddruckerlernen.de?aff=adminstore#aff=adminstore"
 sales_page: "https://www.3ddruckerlernen.de"
@@ -22,16 +22,16 @@ language: "de"
 # 3D-Druck Anleitung für Einsteiger
 
 > Product ID `32320` · Digistore24 productId `320187` · [HTML profile page](../../produkte/3d-druck-anleitung-f-r-einsteiger-32320.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $26.30 (Single payment) |
+| Price | $26.31 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $13.15 |
+| Earnings/sale* | $13.16 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | FIMA2011 |
@@ -82,14 +82,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 3D-Druck Anleitung für Einsteiger? — Typ: Downloads, Anbieter: FIMA2011, gelistet seit 2020-04-11
-- Wie viel kostet es? — 26.297712 USD
+- Wie viel kostet es? — 26.314176 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 3D-Druck Anleitung für Einsteiger Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/320187
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/320187/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=3D-Druck%20Anleitung%20f%C3%BCr%20Einsteiger
 
 ## 4. Editorial notes

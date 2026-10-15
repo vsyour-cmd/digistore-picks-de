@@ -4,34 +4,34 @@ digistore24_product_id: 672877
 title: "Krypto-Kickstart – Bitcoin kaufen für Anfänger"
 vendor: "kstephan"
 product_type: "Member area and video courses"
-price: 307.24
+price: 307.44
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 153.63
+earnings_per_sale: 153.72
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Finances"]
 listed_since: "2026-03-02"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/55845/adminstore/"
+promo_link: "https://coincircle.eu-5.quentn-site.com?aff=adminstore#aff=adminstore"
 sales_page: "https://coincircle.eu-5.quentn-site.com"
 language: "de"
 ---
 # Krypto-Kickstart – Bitcoin kaufen für Anfänger
 
 > Product ID `55845` · Digistore24 productId `672877` · [HTML profile page](../../produkte/krypto-kickstart-bitcoin-kaufen-f-r-anf-nger-55845.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $307.24 (Single payment, Installment) |
+| Price | $307.44 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $153.63 |
+| Earnings/sale* | $153.72 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | kstephan |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55845/adminstore/
+- **Promo link (affiliate):** https://coincircle.eu-5.quentn-site.com?aff=adminstore#aff=adminstore
 - Sales page: https://coincircle.eu-5.quentn-site.com
 - Canonical redirect: https://www.digistore24.com/redir/672877/adminstore
 
@@ -92,14 +92,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Krypto-Kickstart – Bitcoin kaufen für Anfänger? — Typ: Member area and video courses, Anbieter: kstephan, gelistet seit 2026-03-02
-- Wie viel kostet es? — 307.2426990000001 USD
+- Wie viel kostet es? — 307.43505200000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Krypto-Kickstart – Bitcoin kaufen für Anfänger Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/672877
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/672877/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Krypto-Kickstart%20%E2%80%93%20Bitcoin%20kaufen%20f%C3%BCr%20Anf%C3%A4nger
 
 ## 4. Editorial notes

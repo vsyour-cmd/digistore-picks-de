@@ -4,34 +4,34 @@ digistore24_product_id: 90941
 title: "Artgerechte Beschäftigung - Reizangel Webinar"
 vendor: "khaphom5"
 product_type: "Webinar"
-price: 28.18
+price: 28.19
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 14.09
+earnings_per_sale: 14.1
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2016-08-11"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/12585/adminstore/"
+promo_link: "https://rheinische-hundeschule.de/Start/reizangel/?aff=adminstore#aff=adminstore"
 sales_page: "https://rheinische-hundeschule.de/Start/reizangel/"
 language: "de"
 ---
 # Artgerechte Beschäftigung - Reizangel Webinar
 
 > Product ID `12585` · Digistore24 productId `90941` · [HTML profile page](../../produkte/artgerechte-besch-ftigung-reizangel-webinar-12585.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Webinar |
-| Price | $28.18 (Single payment) |
+| Price | $28.19 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $14.09 |
+| Earnings/sale* | $14.10 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | khaphom5 |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/12585/adminstore/
+- **Promo link (affiliate):** https://rheinische-hundeschule.de/Start/reizangel/?aff=adminstore#aff=adminstore
 - Sales page: https://rheinische-hundeschule.de/Start/reizangel/
 - Canonical redirect: https://www.digistore24.com/redir/90941/adminstore
 
@@ -80,14 +80,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Artgerechte Beschäftigung - Reizangel Webinar? — Typ: Webinar, Anbieter: khaphom5, gelistet seit 2016-08-11
-- Wie viel kostet es? — 28.17612 USD
+- Wie viel kostet es? — 28.19376 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Artgerechte Beschäftigung - Reizangel Webinar Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/90941
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/90941/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Artgerechte%20Besch%C3%A4ftigung%20-%20Reizangel%20Webinar
 
 ## 4. Editorial notes

@@ -4,40 +4,40 @@ digistore24_product_id: 733808
 title: "Dein eigenes Waschmittel selber machen"
 vendor: "AndreasLang"
 product_type: "E-books"
-price: 314.76
+price: 314.95
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 157.38
+earnings_per_sale: 157.48
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Family & Children","Green Products & Environmental Protection","Health & Fitness"]
+categories: ["Health & Fitness","Family & Children","Green Products & Environmental Protection"]
 listed_since: "2024-09-25"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/50281/adminstore/"
+promo_link: "https://www.digistore24.com/product/733808?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/733808"
 language: "de"
 ---
 # Dein eigenes Waschmittel selber machen
 
 > Product ID `50281` · Digistore24 productId `733808` · [HTML profile page](../../produkte/dein-eigenes-waschmittel-selber-machen-50281.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $314.76 (Single payment) |
+| Price | $314.95 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $157.38 |
+| Earnings/sale* | $157.48 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | AndreasLang |
 | Listed since | 2024-09-25 |
 | Auto-accept affiliates | yes |
-| Categories | Family & Children, Green Products & Environmental Protection, Health & Fitness |
+| Categories | Health & Fitness, Family & Children, Green Products & Environmental Protection |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/50281/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/733808?aff=adminstore
 - Sales page: https://www.digistore24.com/product/733808
 - Vendor affiliate support: https://affiliateking.net/
 - Canonical redirect: https://www.digistore24.com/redir/733808/adminstore
@@ -85,14 +85,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Dein eigenes Waschmittel selber machen? — Typ: E-books, Anbieter: AndreasLang, gelistet seit 2024-09-25
-- Wie viel kostet es? — 314.756331 USD
+- Wie viel kostet es? — 314.953388 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Dein eigenes Waschmittel selber machen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/733808
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/733808/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Dein%20eigenes%20Waschmittel%20selber%20machen
 
 ## 4. Editorial notes

@@ -4,34 +4,34 @@ digistore24_product_id: 278845
 title: "Bestseller: CAJON ONLINE-KURS - Die Krendl Technik"
 vendor: "martin0852"
 product_type: "Member area and video courses"
-price: 135.77
+price: 135.86
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 74.13
+earnings_per_sale: 74.18
 cart_conversion_pct: 6
 cancel_rate_pct: 1.82
 categories: ["Dancing & Music"]
 listed_since: "2019-07-10"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/31967/adminstore/"
+promo_link: "https://www.digistore24.com/product/278845?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/278845"
 language: "de"
 ---
 # Bestseller: CAJON ONLINE-KURS - Die Krendl Technik
 
 > Product ID `31967` · Digistore24 productId `278845` · [HTML profile page](../../produkte/bestseller-cajon-online-kurs-die-krendl-technik-31967.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $135.77 (Single payment) |
+| Price | $135.86 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $74.13 |
+| Earnings/sale* | $74.18 |
 | Cart conversion* | 6% |
 | Cancel rate* | 1.82% |
 | Vendor | martin0852 |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/31967/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/278845?aff=adminstore
 - Sales page: https://www.digistore24.com/product/278845
 - Canonical redirect: https://www.digistore24.com/redir/278845/adminstore
 
@@ -91,14 +91,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Bestseller: CAJON ONLINE-KURS - Die Krendl Technik? — Typ: Member area and video courses, Anbieter: martin0852, gelistet seit 2019-07-10
-- Wie viel kostet es? — 135.77088300000003 USD
+- Wie viel kostet es? — 135.855884 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Bestseller: CAJON ONLINE-KURS - Die Krendl Technik Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/278845
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/278845/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Bestseller%3A%20CAJON%20ONLINE-KURS%20-%20Die%20Krendl%20Technik
 
 ## 4. Editorial notes

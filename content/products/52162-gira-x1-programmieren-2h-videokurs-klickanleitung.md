@@ -4,16 +4,16 @@ digistore24_product_id: 303866
 title: "Gira X1 programmieren - 2h Videokurs Klickanleitung"
 vendor: "smarthomeknx"
 product_type: "Downloads"
-price: 237.97
+price: 238.11
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 47.59
+earnings_per_sale: 47.62
 cart_conversion_pct: 13
 cancel_rate_pct: 4.84
 categories: ["Computer & Internet"]
 listed_since: "2020-01-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.smartest-home.com/gira-x1-videokurs-klickanleitung/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.smartest-home.com/gira-x1-videokurs-klickanleitung/"
@@ -22,16 +22,16 @@ language: "de"
 # Gira X1 programmieren - 2h Videokurs Klickanleitung
 
 > Product ID `52162` · Digistore24 productId `303866` · [HTML profile page](../../produkte/gira-x1-programmieren-2h-videokurs-klickanleitung-52162.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $237.97 (Single payment, Installment) |
+| Price | $238.11 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $47.59 |
+| Earnings/sale* | $47.62 |
 | Cart conversion* | 13% |
 | Cancel rate* | 4.84% |
 | Vendor | smarthomeknx |
@@ -87,14 +87,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Gira X1 programmieren - 2h Videokurs Klickanleitung? — Typ: Downloads, Anbieter: smarthomeknx, gelistet seit 2020-01-18
-- Wie viel kostet es? — 237.96522300000004 USD
+- Wie viel kostet es? — 238.11420400000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Gira X1 programmieren - 2h Videokurs Klickanleitung Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/303866
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/303866/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Gira%20X1%20programmieren%20-%202h%20Videokurs%20Klickanleitung
 
 ## 4. Editorial notes

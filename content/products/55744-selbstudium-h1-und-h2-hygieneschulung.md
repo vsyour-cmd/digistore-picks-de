@@ -4,7 +4,7 @@ digistore24_product_id: 672222
 title: "Selbstudium H1 und H2 Hygieneschulung"
 vendor: "xxbeautyliciousbysun8aec"
 product_type: "Downloads"
-price: 46.98
+price: 47.01
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 4.7
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2026-02-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/672222?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/672222"
@@ -22,14 +22,14 @@ language: "de"
 # Selbstudium H1 und H2 Hygieneschulung
 
 > Product ID `55744` · Digistore24 productId `672222` · [HTML profile page](../../produkte/selbstudium-h1-und-h2-hygieneschulung-55744.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $46.98 (Single payment) |
+| Price | $47.01 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $4.70 |
 | Cart conversion* | — |
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Selbstudium H1 und H2 Hygieneschulung? — Typ: Downloads, Anbieter: xxbeautyliciousbysun8aec, gelistet seit 2026-02-27
-- Wie viel kostet es? — 46.98256200000001 USD
+- Wie viel kostet es? — 47.011976000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Selbstudium H1 und H2 Hygieneschulung Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/672222
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/672222/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Selbstudium%20H1%20und%20H2%20Hygieneschulung
 
 ## 4. Editorial notes

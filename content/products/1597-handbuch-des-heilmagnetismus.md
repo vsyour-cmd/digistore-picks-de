@@ -4,16 +4,16 @@ digistore24_product_id: 13203
 title: "Handbuch des Heilmagnetismus"
 vendor: "Elisabeth"
 product_type: "E-books"
-price: 26.02
+price: 26.03
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 13.01
+earnings_per_sale: 13.02
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2013-06-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.heilmagnetismus-info.de?aff=adminstore#aff=adminstore"
 sales_page: "https://www.heilmagnetismus-info.de"
@@ -22,16 +22,16 @@ language: "de"
 # Handbuch des Heilmagnetismus
 
 > Product ID `1597` · Digistore24 productId `13203` · [HTML profile page](../../produkte/handbuch-des-heilmagnetismus-1597.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $26.02 (Single payment) |
+| Price | $26.03 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $13.01 |
+| Earnings/sale* | $13.02 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Elisabeth |
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Handbuch des Heilmagnetismus? — Typ: E-books, Anbieter: Elisabeth, gelistet seit 2013-06-23
-- Wie viel kostet es? — 26.018187 USD
+- Wie viel kostet es? — 26.034476 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Handbuch des Heilmagnetismus Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/13203
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/13203/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Handbuch%20des%20Heilmagnetismus
 
 ## 4. Editorial notes

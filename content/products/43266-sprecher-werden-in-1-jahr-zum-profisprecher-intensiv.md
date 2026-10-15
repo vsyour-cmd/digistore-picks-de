@@ -4,16 +4,16 @@ digistore24_product_id: 490909
 title: "Sprecher werden - In 1 Jahr zum Profisprecher - Intensiv"
 vendor: "isidde"
 product_type: "Online coaching"
-price: 1703.98
+price: 1705.05
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 340.8
+earnings_per_sale: 341.01
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2023-03-25"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.isid.de/sprecher-ausbildung-sprecher-werden-in-1-jahr-zum-profisprecher/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.isid.de/sprecher-ausbildung-sprecher-werden-in-1-jahr-zum-profisprecher/"
@@ -22,16 +22,16 @@ language: "de"
 # Sprecher werden - In 1 Jahr zum Profisprecher - Intensiv
 
 > Product ID `43266` · Digistore24 productId `490909` · [HTML profile page](../../produkte/sprecher-werden-in-1-jahr-zum-profisprecher-intensiv-43266.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $1703.98 (Single payment, Installment) |
+| Price | $1705.05 (Single payment, Installment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $340.80 |
+| Earnings/sale* | $341.01 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | isidde |
@@ -84,14 +84,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Sprecher werden - In 1 Jahr zum Profisprecher - Intensiv? — Typ: Online coaching, Anbieter: isidde, gelistet seit 2023-03-25
-- Wie viel kostet es? — 1703.9844 USD
+- Wie viel kostet es? — 1705.0512 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Sprecher werden - In 1 Jahr zum Profisprecher - Intensiv Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/490909
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/490909/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Sprecher%20werden%20-%20In%201%20Jahr%20zum%20Profisprecher%20-%20Intensiv
 
 ## 4. Editorial notes

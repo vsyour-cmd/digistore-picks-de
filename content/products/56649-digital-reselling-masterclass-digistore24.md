@@ -4,7 +4,7 @@ digistore24_product_id: 693864
 title: "Digital Reselling Masterclass Digistore24"
 vendor: "Bonjamon"
 product_type: "E-books"
-price: 27.16
+price: 27.18
 currency: "USD"
 affiliate_commission_pct: 0
 earnings_per_sale: 6.71
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business"]
 listed_since: "2026-05-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/56649/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/693864?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/693864"
 language: "de"
 ---
 # Digital Reselling Masterclass Digistore24
 
 > Product ID `56649` · Digistore24 productId `693864` · [HTML profile page](../../produkte/digital-reselling-masterclass-digistore24-56649.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $27.16 (Single payment, Installment) |
+| Price | $27.18 (Single payment, Installment) |
 | Affiliate commission | 0% |
 | Earnings/sale* | $6.71 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56649/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/693864?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/693864
 - Canonical redirect: https://www.digistore24.com/redir/693864/adminstore
 
@@ -69,14 +69,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Digital Reselling Masterclass Digistore24? — Typ: E-books, Anbieter: Bonjamon, gelistet seit 2026-05-22
-- Wie viel kostet es? — 27.158649 USD
+- Wie viel kostet es? — 27.175652 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Digital Reselling Masterclass Digistore24 Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/693864
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/693864/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Digital%20Reselling%20Masterclass%20Digistore24
 
 ## 4. Editorial notes

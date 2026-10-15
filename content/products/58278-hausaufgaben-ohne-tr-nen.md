@@ -4,16 +4,16 @@ digistore24_product_id: 681541
 title: "Hausaufgaben ohne Tränen"
 vendor: "Grundschulabitur"
 product_type: "E-books"
-price: 17.77
+price: 17.78
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 7.11
+earnings_per_sale: 7.12
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Family & Children"]
+categories: ["Family & Children","Education"]
 listed_since: "2026-08-11"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/681541?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/681541"
@@ -22,22 +22,22 @@ language: "de"
 # Hausaufgaben ohne Tränen
 
 > Product ID `58278` · Digistore24 productId `681541` · [HTML profile page](../../produkte/hausaufgaben-ohne-tr-nen-58278.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $17.77 (Single payment) |
+| Price | $17.78 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $7.11 |
+| Earnings/sale* | $7.12 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Grundschulabitur |
 | Listed since | 2026-08-11 |
 | Auto-accept affiliates | no (approval required) |
-| Categories | Education, Family & Children |
+| Categories | Family & Children, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -74,14 +74,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Hausaufgaben ohne Tränen? — Typ: E-books, Anbieter: Grundschulabitur, gelistet seit 2026-08-11
-- Wie viel kostet es? — 17.766609000000003 USD
+- Wie viel kostet es? — 17.777732 USD
 - Garantie? — 14
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Hausaufgaben ohne Tränen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/681541
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/681541/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Hausaufgaben%20ohne%20Tr%C3%A4nen
 
 ## 4. Editorial notes

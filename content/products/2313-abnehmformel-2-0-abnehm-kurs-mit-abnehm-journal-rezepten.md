@@ -4,16 +4,16 @@ digistore24_product_id: 21781
 title: "Abnehmformel 2.0 - Abnehm-Kurs mit Abnehm-Journal, Rezepten"
 vendor: "keinepanikattacken"
 product_type: "Downloads"
-price: 31.94
+price: 31.96
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 15.98
+earnings_per_sale: 15.99
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2014-02-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "http://mein-abnehmblog.de/?aff=adminstore#aff=adminstore"
 sales_page: "http://mein-abnehmblog.de/"
@@ -22,16 +22,16 @@ language: "de"
 # Abnehmformel 2.0 - Abnehm-Kurs mit Abnehm-Journal, Rezepten
 
 > Product ID `2313` · Digistore24 productId `21781` · [HTML profile page](../../produkte/abnehmformel-2-0-abnehm-kurs-mit-abnehm-journal-rezepten-2313.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $31.94 (Single payment) |
+| Price | $31.96 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $15.98 |
+| Earnings/sale* | $15.99 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | keinepanikattacken |
@@ -78,14 +78,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Abnehmformel 2.0 - Abnehm-Kurs mit Abnehm-Journal, Rezepten? — Typ: Downloads, Anbieter: keinepanikattacken, gelistet seit 2014-02-24
-- Wie viel kostet es? — 31.944117000000002 USD
+- Wie viel kostet es? — 31.964116 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Abnehmformel 2.0 - Abnehm-Kurs mit Abnehm-Journal, Rezepten Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/21781
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/21781/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Abnehmformel%202.0%20-%20Abnehm-Kurs%20mit%20Abnehm-Journal%2C%20Rezepten
 
 ## 4. Editorial notes

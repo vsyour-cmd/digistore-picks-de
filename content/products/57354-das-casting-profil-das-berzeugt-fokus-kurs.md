@@ -4,7 +4,7 @@ digistore24_product_id: 689114
 title: "Das Casting-Profil, das überzeugt — Fokus-Kurs"
 vendor: "silja3cbc"
 product_type: "Member area and video courses"
-price: 64.83
+price: 64.87
 currency: "USD"
 affiliate_commission_pct: 15
 earnings_per_sale: 9.73
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-07-02"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.peoplecastagency.com/kurs?aff=adminstore#aff=adminstore"
 sales_page: "https://www.peoplecastagency.com/kurs"
@@ -22,14 +22,14 @@ language: "de"
 # Das Casting-Profil, das überzeugt — Fokus-Kurs
 
 > Product ID `57354` · Digistore24 productId `689114` · [HTML profile page](../../produkte/das-casting-profil-das-berzeugt-fokus-kurs-57354.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $64.83 (Single payment) |
+| Price | $64.87 (Single payment) |
 | Affiliate commission | 15% |
 | Earnings/sale* | $9.73 |
 | Cart conversion* | — |
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Casting-Profil, das überzeugt — Fokus-Kurs? — Typ: Member area and video courses, Anbieter: silja3cbc, gelistet seit 2026-07-02
-- Wie viel kostet es? — 64.827438 USD
+- Wie viel kostet es? — 64.86802399999999 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Das Casting-Profil, das überzeugt — Fokus-Kurs Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/689114
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/689114/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Das%20Casting-Profil%2C%20das%20%C3%BCberzeugt%20%E2%80%94%20Fokus-Kurs
 
 ## 4. Editorial notes

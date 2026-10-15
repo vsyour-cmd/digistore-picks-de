@@ -10,19 +10,19 @@ affiliate_commission_pct: 60
 earnings_per_sale: 4.36
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Dancing & Music","Personal Development","Travel & Culture"]
+categories: ["Personal Development","Dancing & Music","Travel & Culture"]
 listed_since: "2025-11-10"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/54627/adminstore/"
+promo_link: "https://marilia.de/brasilien/ebook3-leben-in-brasilien/?aff=adminstore#aff=adminstore"
 sales_page: "https://marilia.de/brasilien/ebook3-leben-in-brasilien/"
 language: "de"
 ---
 # eBook3 – Leben in Brasilien
 
 > Product ID `54627` · Digistore24 productId `647208` · [HTML profile page](../../produkte/ebook3-leben-in-brasilien-54627.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | Hei-Mel |
 | Listed since | 2025-11-10 |
 | Auto-accept affiliates | yes |
-| Categories | Dancing & Music, Personal Development, Travel & Culture |
+| Categories | Personal Development, Dancing & Music, Travel & Culture |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/54627/adminstore/
+- **Promo link (affiliate):** https://marilia.de/brasilien/ebook3-leben-in-brasilien/?aff=adminstore#aff=adminstore
 - Sales page: https://marilia.de/brasilien/ebook3-leben-in-brasilien/
 - Vendor affiliate support: https://marilia.de/ebook3-leben-in-brasilien/
 - Canonical redirect: https://www.digistore24.com/redir/647208/adminstore
@@ -75,14 +75,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist eBook3 – Leben in Brasilien? — Typ: E-books, Anbieter: Hei-Mel, gelistet seit 2025-11-10
-- Wie viel kostet es? — 7.267650000000001 USD
+- Wie viel kostet es? — 7.2722 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: eBook3 – Leben in Brasilien Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/647208
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/647208/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=eBook3%20%E2%80%93%20Leben%20in%20Brasilien
 
 ## 4. Editorial notes

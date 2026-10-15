@@ -4,40 +4,40 @@ digistore24_product_id: 475969
 title: "Einzigartig am Markt Telepathie, Intuition, Energiearbeit"
 vendor: "TEMPELderTECHNIK"
 product_type: "Webinar"
-price: 158.55
+price: 158.65
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 23.01
+earnings_per_sale: 23.02
 cart_conversion_pct: 11
 cancel_rate_pct: 3.55
-categories: ["Business & Investment","Education","Spiri­tua­lity & Esotericism"]
+categories: ["Business & Investment","Spiri­tua­lity & Esotericism","Education"]
 listed_since: "2022-12-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/55965/adminstore/"
+promo_link: "https://wakeup.tempeldertechnik.at/telepathiestarteuropa/?aff=adminstore#aff=adminstore"
 sales_page: "https://wakeup.tempeldertechnik.at/telepathiestarteuropa/"
 language: "de"
 ---
 # Einzigartig am Markt Telepathie, Intuition, Energiearbeit
 
 > Product ID `55965` · Digistore24 productId `475969` · [HTML profile page](../../produkte/einzigartig-am-markt-telepathie-intuition-energiearbeit-55965.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Webinar |
-| Price | $158.55 (Single payment) |
+| Price | $158.65 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $23.01 |
+| Earnings/sale* | $23.02 |
 | Cart conversion* | 11% |
 | Cancel rate* | 3.55% |
 | Vendor | TEMPELderTECHNIK |
 | Listed since | 2022-12-20 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Education, Spiri­tua­lity & Esotericism |
+| Categories | Business & Investment, Spiri­tua­lity & Esotericism, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55965/adminstore/
+- **Promo link (affiliate):** https://wakeup.tempeldertechnik.at/telepathiestarteuropa/?aff=adminstore#aff=adminstore
 - Sales page: https://wakeup.tempeldertechnik.at/telepathiestarteuropa/
 - Canonical redirect: https://www.digistore24.com/redir/475969/adminstore
 
@@ -66,14 +66,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Einzigartig am Markt Telepathie, Intuition, Energiearbeit? — Typ: Webinar, Anbieter: TEMPELderTECHNIK, gelistet seit 2022-12-20
-- Wie viel kostet es? — 158.54658000000003 USD
+- Wie viel kostet es? — 158.64584000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Einzigartig am Markt Telepathie, Intuition, Energiearbeit Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/475969
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/475969/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Einzigartig%20am%20Markt%20Telepathie%2C%20Intuition%2C%20Energiearbeit
 
 ## 4. Editorial notes

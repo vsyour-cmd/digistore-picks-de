@@ -4,16 +4,16 @@ digistore24_product_id: 725111
 title: "Der Fels im Sturm – Stoische Stärke für den modernen Alltag"
 vendor: "urkraftmindset"
 product_type: "Downloads"
-price: 28.1
+price: 28.12
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 14.05
+earnings_per_sale: 14.06
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2026-09-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://urkraftmindset.ch/der-fels-im-sturm/?aff=adminstore#aff=adminstore"
 sales_page: "https://urkraftmindset.ch/der-fels-im-sturm/"
@@ -22,16 +22,16 @@ language: "de"
 # Der Fels im Sturm – Stoische Stärke für den modernen Alltag
 
 > Product ID `59000` · Digistore24 productId `725111` · [HTML profile page](../../produkte/der-fels-im-sturm-stoische-st-rke-f-r-den-modernen-alltag-59000.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $28.10 (Single payment) |
+| Price | $28.12 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $14.05 |
+| Earnings/sale* | $14.06 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | urkraftmindset |
@@ -105,14 +105,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Fels im Sturm – Stoische Stärke für den modernen Alltag? — Typ: Downloads, Anbieter: urkraftmindset, gelistet seit 2026-09-07
-- Wie viel kostet es? — 28.097853 USD
+- Wie viel kostet es? — 28.115444 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Der Fels im Sturm – Stoische Stärke für den modernen Alltag Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/725111
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/725111/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%20Fels%20im%20Sturm%20%E2%80%93%20Stoische%20St%C3%A4rke%20f%C3%BCr%20den%20modernen%20Alltag
 
 ## 4. Editorial notes

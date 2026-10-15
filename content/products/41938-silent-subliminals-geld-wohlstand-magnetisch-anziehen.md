@@ -4,16 +4,16 @@ digistore24_product_id: 421450
 title: "Silent Subliminals Geld - Wohlstand magnetisch anziehen"
 vendor: "EnergeticTernity"
 product_type: "Downloads"
-price: 266.51
+price: 266.68
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 98.5
+earnings_per_sale: 98.57
 cart_conversion_pct: 8
 cancel_rate_pct: 3.18
 categories: ["Business & Investment"]
 listed_since: "2021-12-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://energetic-eternity.de/produkt/silent-subliminals-geld/?aff=adminstore#aff=adminstore"
 sales_page: "https://energetic-eternity.de/produkt/silent-subliminals-geld/"
@@ -22,16 +22,16 @@ language: "de"
 # Silent Subliminals Geld - Wohlstand magnetisch anziehen
 
 > Product ID `41938` · Digistore24 productId `421450` · [HTML profile page](../../produkte/silent-subliminals-geld-wohlstand-magnetisch-anziehen-41938.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $266.51 (Single payment) |
+| Price | $266.68 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $98.50 |
+| Earnings/sale* | $98.57 |
 | Cart conversion* | 8% |
 | Cancel rate* | 3.18% |
 | Vendor | EnergeticTernity |
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Silent Subliminals Geld - Wohlstand magnetisch anziehen? — Typ: Downloads, Anbieter: EnergeticTernity, gelistet seit 2021-12-20
-- Wie viel kostet es? — 266.51031600000005 USD
+- Wie viel kostet es? — 266.677168 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Silent Subliminals Geld - Wohlstand magnetisch anziehen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/421450
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/421450/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Silent%20Subliminals%20Geld%20-%20Wohlstand%20magnetisch%20anziehen
 
 ## 4. Editorial notes

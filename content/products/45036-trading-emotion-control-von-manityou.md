@@ -4,16 +4,16 @@ digistore24_product_id: 509481
 title: "Trading - Emotion Control von manitYou"
 vendor: "manitYou"
 product_type: "Member area and video courses"
-price: 83.62
+price: 83.68
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 16.73
+earnings_per_sale: 16.74
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Finances"]
 listed_since: "2023-07-31"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/redir/509481/adminstore"
 sales_page: "https://www.manityou.com/emotion-control/?aff=[AFFILIATE]&cam=[CAMPAIGNKEY]"
@@ -22,16 +22,16 @@ language: "de"
 # Trading - Emotion Control von manitYou
 
 > Product ID `45036` · Digistore24 productId `509481` · [HTML profile page](../../produkte/trading-emotion-control-von-manityou-45036.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $83.62 (Subscription) |
+| Price | $83.68 (Subscription) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $16.73 |
+| Earnings/sale* | $16.74 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | manitYou |
@@ -78,14 +78,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Trading - Emotion Control von manitYou? — Typ: Member area and video courses, Anbieter: manitYou, gelistet seit 2023-07-31
-- Wie viel kostet es? — 83.62269900000001 USD
+- Wie viel kostet es? — 83.67505200000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Trading - Emotion Control von manitYou Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/509481
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/509481/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Trading%20-%20Emotion%20Control%20von%20manitYou
 
 ## 4. Editorial notes

@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2023-11-19"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://altersvorsorgevierzigplus.funnelcockpit.com/afpc/?aff=adminstore#aff=adminstore"
 sales_page: "https://altersvorsorgevierzigplus.funnelcockpit.com/afpc/"
@@ -22,7 +22,7 @@ language: "de"
 # Altersvorsorge 40+: Automatisiert rund um die Uhr Einkommen
 
 > Product ID `47406` · Digistore24 productId `525976` · [HTML profile page](../../produkte/altersvorsorge-40-automatisiert-rund-um-die-uhr-einkommen-47406.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -66,7 +66,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Altersvorsorge 40+: Automatisiert rund um die Uhr Einkommen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/525976
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/525976/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Altersvorsorge%2040%2B%3A%20Automatisiert%20rund%20um%20die%20Uhr%20Einkommen
 
 ## 4. Editorial notes

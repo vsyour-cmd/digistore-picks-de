@@ -4,34 +4,34 @@ digistore24_product_id: 675733
 title: "Erreiche das Herz deiner Kunden"
 vendor: "werni1"
 product_type: "E-books"
-price: 30.3
+price: 30.32
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 15.15
+earnings_per_sale: 15.16
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-03-12"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/55871/adminstore/"
+promo_link: "https://page.funnelcockpit.com/FhQqDbJCbXDh9uzRZ?aff=adminstore#aff=adminstore"
 sales_page: "https://page.funnelcockpit.com/FhQqDbJCbXDh9uzRZ"
 language: "de"
 ---
 # Erreiche das Herz deiner Kunden
 
 > Product ID `55871` · Digistore24 productId `675733` · [HTML profile page](../../produkte/erreiche-das-herz-deiner-kunden-55871.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $30.30 (Single payment) |
+| Price | $30.32 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $15.15 |
+| Earnings/sale* | $15.16 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | werni1 |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55871/adminstore/
+- **Promo link (affiliate):** https://page.funnelcockpit.com/FhQqDbJCbXDh9uzRZ?aff=adminstore#aff=adminstore
 - Sales page: https://page.funnelcockpit.com/FhQqDbJCbXDh9uzRZ
 - Vendor affiliate support: https://page.funnelcockpit.com/22FFwGT8ziaB99dJK
 - Canonical redirect: https://www.digistore24.com/redir/675733/adminstore
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Erreiche das Herz deiner Kunden? — Typ: E-books, Anbieter: werni1, gelistet seit 2026-03-12
-- Wie viel kostet es? — 30.300510000000003 USD
+- Wie viel kostet es? — 30.319480000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Erreiche das Herz deiner Kunden Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/675733
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/675733/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Erreiche%20das%20Herz%20deiner%20Kunden
 
 ## 4. Editorial notes

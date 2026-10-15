@@ -4,16 +4,16 @@ digistore24_product_id: 479678
 title: "Hundeschule / Hundetraining - Welpentraining"
 vendor: "frohehunde"
 product_type: "Member area and video courses"
-price: 93.01
+price: 93.07
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 46.51
+earnings_per_sale: 46.54
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2023-01-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://frohehunde.de/welpentraining/?aff=adminstore#aff=adminstore"
 sales_page: "https://frohehunde.de/welpentraining/"
@@ -22,16 +22,16 @@ language: "de"
 # Hundeschule / Hundetraining - Welpentraining
 
 > Product ID `42678` · Digistore24 productId `479678` · [HTML profile page](../../produkte/hundeschule-hundetraining-welpentraining-42678.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $93.01 (Single payment) |
+| Price | $93.07 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $46.51 |
+| Earnings/sale* | $46.54 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | frohehunde |
@@ -89,14 +89,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Hundeschule / Hundetraining - Welpentraining? — Typ: Member area and video courses, Anbieter: frohehunde, gelistet seit 2023-01-16
-- Wie viel kostet es? — 93.014739 USD
+- Wie viel kostet es? — 93.072972 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Hundeschule / Hundetraining - Welpentraining Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/479678
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/479678/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Hundeschule%20%2F%20Hundetraining%20-%20Welpentraining
 
 ## 4. Editorial notes

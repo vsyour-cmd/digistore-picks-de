@@ -7,13 +7,13 @@ product_type: "Downloads"
 price: 0
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 12.61
+earnings_per_sale: 12.62
 cart_conversion_pct: 39
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2023-05-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://www.meinneuerlifestyle.vip/mitleadmagnetgeldverdienen/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.meinneuerlifestyle.vip/mitleadmagnetgeldverdienen/"
@@ -22,7 +22,7 @@ language: "de"
 # Mit Lead Magneten Online Geld verdienen
 
 > Product ID `44072` · Digistore24 productId `498994` · [HTML profile page](../../produkte/mit-lead-magneten-online-geld-verdienen-44072.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,7 @@ language: "de"
 | Product type | Downloads |
 | Price | $0.00 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $12.61 |
+| Earnings/sale* | $12.62 |
 | Cart conversion* | 39% |
 | Cancel rate* | 0% |
 | Vendor | Spekulatius |
@@ -66,7 +66,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Mit Lead Magneten Online Geld verdienen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/498994
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/498994/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Mit%20Lead%20Magneten%20Online%20Geld%20verdienen
 
 ## 4. Editorial notes

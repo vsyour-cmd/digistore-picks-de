@@ -4,16 +4,16 @@ digistore24_product_id: 449008
 title: "E-Book: \"Babys Tage meistern\""
 vendor: "babyschlummerland"
 product_type: "E-books"
-price: 28.58
+price: 28.6
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 6.37
+earnings_per_sale: 6.38
 cart_conversion_pct: 8
 cancel_rate_pct: 1.86
 categories: ["Family & Children"]
 listed_since: "2022-06-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.babyschlummerland.de/buch-tagesschlaf-baby/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.babyschlummerland.de/buch-tagesschlaf-baby/"
@@ -22,16 +22,16 @@ language: "de"
 # E-Book: "Babys Tage meistern"
 
 > Product ID `48660` · Digistore24 productId `449008` · [HTML profile page](../../produkte/e-book-babys-tage-meistern-48660.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $28.58 (Single payment) |
+| Price | $28.60 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $6.37 |
+| Earnings/sale* | $6.38 |
 | Cart conversion* | 8% |
 | Cancel rate* | 1.86% |
 | Vendor | babyschlummerland |
@@ -86,14 +86,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist E-Book: "Babys Tage meistern"? — Typ: E-books, Anbieter: babyschlummerland, gelistet seit 2022-06-29
-- Wie viel kostet es? — 28.578636 USD
+- Wie viel kostet es? — 28.596528 USD
 - Garantie? — 14
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: E-Book: "Babys Tage meistern" Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/449008
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/449008/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=E-Book%3A%20%22Babys%20Tage%20meistern%22
 
 ## 4. Editorial notes

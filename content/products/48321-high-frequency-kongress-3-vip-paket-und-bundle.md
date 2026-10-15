@@ -4,34 +4,34 @@ digistore24_product_id: 543980
 title: "High Frequency Kongress 3 - VIP Paket und Bundle"
 vendor: "cduffner"
 product_type: "Member area and video courses"
-price: 121.87
+price: 121.95
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 60.94
+earnings_per_sale: 60.97
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2024-03-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/48321/adminstore/"
+promo_link: "https://www.digistore24.com/product/543980?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/543980"
 language: "de"
 ---
 # High Frequency Kongress 3 - VIP Paket und Bundle
 
 > Product ID `48321` · Digistore24 productId `543980` · [HTML profile page](../../produkte/high-frequency-kongress-3-vip-paket-und-bundle-48321.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $121.87 (Single payment, Installment) |
+| Price | $121.95 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $60.94 |
+| Earnings/sale* | $60.97 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | cduffner |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/48321/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/543980?aff=adminstore
 - Sales page: https://www.digistore24.com/product/543980
 - Vendor affiliate support: https://www.highfrequency3.de/partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/543980/adminstore
@@ -89,14 +89,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist High Frequency Kongress 3 - VIP Paket und Bundle? — Typ: Member area and video courses, Anbieter: cduffner, gelistet seit 2024-03-17
-- Wie viel kostet es? — 121.87290000000002 USD
+- Wie viel kostet es? — 121.9492 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: High Frequency Kongress 3 - VIP Paket und Bundle Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/543980
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/543980/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=High%20Frequency%20Kongress%203%20-%20VIP%20Paket%20und%20Bundle
 
 ## 4. Editorial notes

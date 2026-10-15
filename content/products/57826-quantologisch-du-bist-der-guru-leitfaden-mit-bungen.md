@@ -4,16 +4,16 @@ digistore24_product_id: 716171
 title: "Quantologisch Du bist der Guru (Leitfaden mit Übungen)"
 vendor: "praxiswulfsmoorf724"
 product_type: "E-books"
-price: 38.66
+price: 38.69
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 15.46
+earnings_per_sale: 15.47
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Spiri­tua­lity & Esotericism","Personal Development","Marketing Services"]
+categories: ["Personal Development","Spiri­tua­lity & Esotericism","Marketing Services"]
 listed_since: "2026-07-31"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.schamanenzauber.com/aktuelles/e-book-quantologisch-du-bist-der-guru/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.schamanenzauber.com/aktuelles/e-book-quantologisch-du-bist-der-guru/"
@@ -22,22 +22,22 @@ language: "de"
 # Quantologisch Du bist der Guru (Leitfaden mit Übungen)
 
 > Product ID `57826` · Digistore24 productId `716171` · [HTML profile page](../../produkte/quantologisch-du-bist-der-guru-leitfaden-mit-bungen-57826.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $38.66 (Single payment) |
+| Price | $38.69 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $15.46 |
+| Earnings/sale* | $15.47 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | praxiswulfsmoorf724 |
 | Listed since | 2026-07-31 |
 | Auto-accept affiliates | yes |
-| Categories | Spiri­tua­lity & Esotericism, Personal Development, Marketing Services |
+| Categories | Personal Development, Spiri­tua­lity & Esotericism, Marketing Services |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -89,14 +89,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Quantologisch Du bist der Guru (Leitfaden mit Übungen)? — Typ: E-books, Anbieter: praxiswulfsmoorf724, gelistet seit 2026-07-31
-- Wie viel kostet es? — 38.663898 USD
+- Wie viel kostet es? — 38.688103999999996 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Quantologisch Du bist der Guru (Leitfaden mit Übungen) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/716171
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/716171/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Quantologisch%20Du%20bist%20der%20Guru%20(Leitfaden%20mit%20%C3%9Cbungen)
 
 ## 4. Editorial notes

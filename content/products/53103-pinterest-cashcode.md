@@ -10,19 +10,19 @@ affiliate_commission_pct: 50
 earnings_per_sale: 0.19
 cart_conversion_pct: 48
 cancel_rate_pct: 0
-categories: ["Business & Investment","Email Marketing","Online Marketing & E-Business"]
+categories: ["Business & Investment","Online Marketing & E-Business","Email Marketing"]
 listed_since: "2025-06-30"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
-promo_link: "https://www.digistore24.com/redir/53103/adminstore/"
+promo_link: "http://lp-mircodigital.de/pc/freebie?aff=adminstore#aff=adminstore"
 sales_page: "http://lp-mircodigital.de/pc/freebie"
 language: "de"
 ---
 # Pinterest Cashcode
 
 > Product ID `53103` · Digistore24 productId `621529` · [HTML profile page](../../produkte/pinterest-cashcode-53103.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | Verdienst-Kompass |
 | Listed since | 2025-06-30 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Email Marketing, Online Marketing & E-Business |
+| Categories | Business & Investment, Online Marketing & E-Business, Email Marketing |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/53103/adminstore/
+- **Promo link (affiliate):** http://lp-mircodigital.de/pc/freebie?aff=adminstore#aff=adminstore
 - Sales page: http://lp-mircodigital.de/pc/freebie
 - Canonical redirect: https://www.digistore24.com/redir/621529/adminstore
 
@@ -62,14 +62,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Pinterest Cashcode? — Typ: Downloads, Anbieter: Verdienst-Kompass, gelistet seit 2025-06-30
-- Wie viel kostet es? — 0.7155840000000001 USD
+- Wie viel kostet es? — 0.716032 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Pinterest Cashcode Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/621529
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/621529/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Pinterest%20Cashcode
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 543973
 title: "Alt-Blockflöte spielen - Online-Training +Mitgliederbereich"
 vendor: "Charlotte-Volland"
 product_type: "Webinar"
-price: 93.01
+price: 93.07
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 9.3
+earnings_per_sale: 9.31
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dancing & Music","Education"]
 listed_since: "2024-03-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/543973?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/543973"
@@ -22,16 +22,16 @@ language: "de"
 # Alt-Blockflöte spielen - Online-Training +Mitgliederbereich
 
 > Product ID `47878` · Digistore24 productId `543973` · [HTML profile page](../../produkte/alt-blockfl-te-spielen-online-training-mitgliederbereich-47878.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Webinar |
-| Price | $93.01 (Subscription) |
+| Price | $93.07 (Subscription) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $9.30 |
+| Earnings/sale* | $9.31 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Charlotte-Volland |
@@ -72,14 +72,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Alt-Blockflöte spielen - Online-Training +Mitgliederbereich? — Typ: Webinar, Anbieter: Charlotte-Volland, gelistet seit 2024-03-17
-- Wie viel kostet es? — 93.014739 USD
+- Wie viel kostet es? — 93.072972 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Alt-Blockflöte spielen - Online-Training +Mitgliederbereich Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/543973
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/543973/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Alt-Blockfl%C3%B6te%20spielen%20-%20Online-Training%20%2BMitgliederbereich
 
 ## 4. Editorial notes

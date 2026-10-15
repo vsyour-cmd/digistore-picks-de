@@ -4,34 +4,34 @@ digistore24_product_id: 186071
 title: "Fitnesskurs - 21 Tage fit"
 vendor: "Nova02"
 product_type: "Downloads"
-price: 34.76
+price: 34.78
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 17.39
+earnings_per_sale: 17.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Sport"]
 listed_since: "2017-12-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/21633/adminstore/"
+promo_link: "https://eiweiss.kaufen/kurs?aff=adminstore#aff=adminstore"
 sales_page: "https://eiweiss.kaufen/kurs"
 language: "de"
 ---
 # Fitnesskurs - 21 Tage fit
 
 > Product ID `21633` · Digistore24 productId `186071` · [HTML profile page](../../produkte/fitnesskurs-21-tage-fit-21633.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $34.76 (Single payment) |
+| Price | $34.78 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $17.39 |
+| Earnings/sale* | $17.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Nova02 |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/21633/adminstore/
+- **Promo link (affiliate):** https://eiweiss.kaufen/kurs?aff=adminstore#aff=adminstore
 - Sales page: https://eiweiss.kaufen/kurs
 - Vendor affiliate support: https://eiweiss.kaufen/partner
 - Canonical redirect: https://www.digistore24.com/redir/186071/adminstore
@@ -86,14 +86,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Fitnesskurs - 21 Tage fit? — Typ: Downloads, Anbieter: Nova02, gelistet seit 2017-12-07
-- Wie viel kostet es? — 34.761729 USD
+- Wie viel kostet es? — 34.783492 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Fitnesskurs - 21 Tage fit Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/186071
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/186071/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Fitnesskurs%20-%2021%20Tage%20fit
 
 ## 4. Editorial notes

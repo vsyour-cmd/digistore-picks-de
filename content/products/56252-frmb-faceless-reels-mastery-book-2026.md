@@ -10,10 +10,10 @@ affiliate_commission_pct: 50
 earnings_per_sale: 0.56
 cart_conversion_pct: 40
 cancel_rate_pct: 10.97
-categories: ["Computer & Internet","Email Marketing","Online Marketing & E-Business"]
+categories: ["Computer & Internet","Online Marketing & E-Business","Email Marketing"]
 listed_since: "2026-04-11"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
 promo_link: "https://faceless.ygn-onlinemarketing.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://faceless.ygn-onlinemarketing.de/"
@@ -22,7 +22,7 @@ language: "de"
 # FRMB - Faceless Reels Mastery Book 2026
 
 > Product ID `56252` · Digistore24 productId `683957` · [HTML profile page](../../produkte/frmb-faceless-reels-mastery-book-2026-56252.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | yugeen77 |
 | Listed since | 2026-04-11 |
 | Auto-accept affiliates | yes |
-| Categories | Computer & Internet, Email Marketing, Online Marketing & E-Business |
+| Categories | Computer & Internet, Online Marketing & E-Business, Email Marketing |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -62,14 +62,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist FRMB - Faceless Reels Mastery Book 2026? — Typ: E-books, Anbieter: yugeen77, gelistet seit 2026-04-11
-- Wie viel kostet es? — 1.3529010000000001 USD
+- Wie viel kostet es? — 1.353748 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: FRMB - Faceless Reels Mastery Book 2026 Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/683957
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/683957/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=FRMB%20-%20Faceless%20Reels%20Mastery%20Book%202026
 
 ## 4. Editorial notes

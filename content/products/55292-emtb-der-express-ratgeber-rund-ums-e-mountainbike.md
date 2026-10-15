@@ -4,16 +4,16 @@ digistore24_product_id: 603807
 title: "eMTB – Der Express-Ratgeber rund ums E-Mountainbike"
 vendor: "bites24"
 product_type: "Downloads"
-price: 9.38
+price: 9.39
 currency: "USD"
 affiliate_commission_pct: 30
 earnings_per_sale: 2.82
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Health & Fitness","Hobby & Craft","Sport"]
+categories: ["Health & Fitness","Sport","Hobby & Craft"]
 listed_since: "2025-03-25"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/603807?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/603807"
@@ -22,14 +22,14 @@ language: "de"
 # eMTB – Der Express-Ratgeber rund ums E-Mountainbike
 
 > Product ID `55292` · Digistore24 productId `603807` · [HTML profile page](../../produkte/emtb-der-express-ratgeber-rund-ums-e-mountainbike-55292.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $9.38 (Single payment) |
+| Price | $9.39 (Single payment) |
 | Affiliate commission | 30% |
 | Earnings/sale* | $2.82 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | bites24 |
 | Listed since | 2025-03-25 |
 | Auto-accept affiliates | yes |
-| Categories | Health & Fitness, Hobby & Craft, Sport |
+| Categories | Health & Fitness, Sport, Hobby & Craft |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist eMTB – Der Express-Ratgeber rund ums E-Mountainbike? — Typ: Downloads, Anbieter: bites24, gelistet seit 2025-03-25
-- Wie viel kostet es? — 9.380859000000001 USD
+- Wie viel kostet es? — 9.386732 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: eMTB – Der Express-Ratgeber rund ums E-Mountainbike Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/603807
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/603807/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=eMTB%20%E2%80%93%20Der%20Express-Ratgeber%20rund%20ums%20E-Mountainbike
 
 ## 4. Editorial notes

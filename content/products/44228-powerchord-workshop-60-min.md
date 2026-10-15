@@ -4,16 +4,16 @@ digistore24_product_id: 501781
 title: "Powerchord-Workshop (60 min)"
 vendor: "musiklehrer"
 product_type: "Member area and video courses"
-price: 73.21
+price: 73.26
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 13.46
+earnings_per_sale: 13.47
 cart_conversion_pct: 17
 cancel_rate_pct: 2.58
 categories: ["Dancing & Music"]
 listed_since: "2023-06-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://gitarrenvideounterricht.de/kurse/powerchord-workshop/?aff=adminstore#aff=adminstore"
 sales_page: "https://gitarrenvideounterricht.de/kurse/powerchord-workshop/"
@@ -22,16 +22,16 @@ language: "de"
 # Powerchord-Workshop (60 min)
 
 > Product ID `44228` · Digistore24 productId `501781` · [HTML profile page](../../produkte/powerchord-workshop-60-min-44228.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $73.21 (Single payment) |
+| Price | $73.26 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $13.46 |
+| Earnings/sale* | $13.47 |
 | Cart conversion* | 17% |
 | Cancel rate* | 2.58% |
 | Vendor | musiklehrer |
@@ -77,14 +77,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Powerchord-Workshop (60 min)? — Typ: Member area and video courses, Anbieter: musiklehrer, gelistet seit 2023-06-05
-- Wie viel kostet es? — 73.21318800000002 USD
+- Wie viel kostet es? — 73.25902400000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Powerchord-Workshop (60 min) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/501781
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/501781/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Powerchord-Workshop%20(60%20min)
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 615398
 title: "Manychat Instagram Flow"
 vendor: "KundenFinder"
 product_type: "Software"
-price: 15.98
+price: 15.99
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 11.18
+earnings_per_sale: 11.19
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Online Marketing & E-Business","Software"]
+categories: ["Software","Online Marketing & E-Business"]
 listed_since: "2025-05-28"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://meine-geldquelle.com/421998/2952306?aff=adminstore#aff=adminstore"
 sales_page: "https://meine-geldquelle.com/421998/2952306"
@@ -22,22 +22,22 @@ language: "de"
 # Manychat Instagram Flow
 
 > Product ID `56158` · Digistore24 productId `615398` · [HTML profile page](../../produkte/manychat-instagram-flow-56158.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $15.98 (Single payment) |
+| Price | $15.99 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $11.18 |
+| Earnings/sale* | $11.19 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | KundenFinder |
 | Listed since | 2025-05-28 |
 | Auto-accept affiliates | yes |
-| Categories | Online Marketing & E-Business, Software |
+| Categories | Software, Online Marketing & E-Business |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -80,14 +80,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Manychat Instagram Flow? — Typ: Software, Anbieter: KundenFinder, gelistet seit 2025-05-28
-- Wie viel kostet es? — 15.977649 USD
+- Wie viel kostet es? — 15.987651999999999 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Manychat Instagram Flow Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/615398
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/615398/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Manychat%20Instagram%20Flow
 
 ## 4. Editorial notes

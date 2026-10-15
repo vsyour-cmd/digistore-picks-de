@@ -4,16 +4,16 @@ digistore24_product_id: 653444
 title: "Party DJ Setbook - Business PRO-Lizenz (B2B)"
 vendor: "djnicogoetze"
 product_type: "Downloads"
-price: 1452.41
+price: 1453.32
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 435.72
+earnings_per_sale: 436
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dancing & Music"]
 listed_since: "2026-06-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.dj-setbook.com/lizenzmodelle?aff=adminstore#aff=adminstore"
 sales_page: "https://www.dj-setbook.com/lizenzmodelle"
@@ -22,16 +22,16 @@ language: "de"
 # Party DJ Setbook - Business PRO-Lizenz (B2B)
 
 > Product ID `57142` · Digistore24 productId `653444` · [HTML profile page](../../produkte/party-dj-setbook-business-pro-lizenz-b2b-57142.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $1452.41 (Single payment) |
+| Price | $1453.32 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $435.72 |
+| Earnings/sale* | $436.00 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | djnicogoetze |
@@ -88,14 +88,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Party DJ Setbook - Business PRO-Lizenz (B2B)? — Typ: Downloads, Anbieter: djnicogoetze, gelistet seit 2026-06-26
-- Wie viel kostet es? — 1452.4119 USD
+- Wie viel kostet es? — 1453.3212 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Party DJ Setbook - Business PRO-Lizenz (B2B) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/653444
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/653444/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Party%20DJ%20Setbook%20-%20Business%20PRO-Lizenz%20(B2B)
 
 ## 4. Editorial notes

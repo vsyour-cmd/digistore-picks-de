@@ -4,16 +4,16 @@ digistore24_product_id: 699605
 title: "MRR Lizenz 500 € nebenbei - Business in a Box"
 vendor: "MichaMH"
 product_type: "Downloads"
-price: 93.01
+price: 93.07
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 37.21
+earnings_per_sale: 37.23
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: []
+categories: ["Business & Investment","Profession & Job"]
 listed_since: "2026-06-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://affyro.com/MRRLizenz500.html?aff=adminstore#aff=adminstore"
 sales_page: "https://affyro.com/MRRLizenz500.html"
@@ -22,22 +22,22 @@ language: "de"
 # MRR Lizenz 500 € nebenbei - Business in a Box
 
 > Product ID `56840` · Digistore24 productId `699605` · [HTML profile page](../../produkte/mrr-lizenz-500-nebenbei-business-in-a-box-56840.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $93.01 (Single payment, Installment) |
+| Price | $93.07 (Single payment, Installment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $37.21 |
+| Earnings/sale* | $37.23 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MichaMH |
 | Listed since | 2026-06-09 |
 | Auto-accept affiliates | yes |
-| Categories | Uncategorized |
+| Categories | Business & Investment, Profession & Job |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -75,14 +75,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist MRR Lizenz 500 € nebenbei - Business in a Box? — Typ: Downloads, Anbieter: MichaMH, gelistet seit 2026-06-09
-- Wie viel kostet es? — 93.014739 USD
+- Wie viel kostet es? — 93.072972 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: MRR Lizenz 500 € nebenbei - Business in a Box Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/699605
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/699605/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=MRR%20Lizenz%20500%20%E2%82%AC%20nebenbei%20-%20Business%20in%20a%20Box
 
 ## 4. Editorial notes

@@ -10,10 +10,10 @@ affiliate_commission_pct: 80
 earnings_per_sale: 28.82
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Personal Development"]
+categories: ["Personal Development","Education"]
 listed_since: "2026-05-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://academy.e-ducation.cloud/course/groessen-masse-einheiten?aff=adminstore#aff=adminstore"
 sales_page: "https://academy.e-ducation.cloud/course/groessen-masse-einheiten"
@@ -22,7 +22,7 @@ language: "de"
 # Grössen, Masse und Einheiten für Lehrlinge und Azubis
 
 > Product ID `56632` · Digistore24 productId `694054` · [HTML profile page](../../produkte/gr-ssen-masse-und-einheiten-f-r-lehrlinge-und-azubis-56632.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | Mathecloud |
 | Listed since | 2026-05-20 |
 | Auto-accept affiliates | no (approval required) |
-| Categories | Education, Personal Development |
+| Categories | Personal Development, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -95,7 +95,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Grössen, Masse und Einheiten für Lehrlinge und Azubis Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/694054
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/694054/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Gr%C3%B6ssen%2C%20Masse%20und%20Einheiten%20f%C3%BCr%20Lehrlinge%20und%20Azubis
 
 ## 4. Editorial notes

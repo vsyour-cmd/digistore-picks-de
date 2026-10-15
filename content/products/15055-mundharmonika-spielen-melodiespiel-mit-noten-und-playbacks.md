@@ -4,34 +4,34 @@ digistore24_product_id: 113631
 title: "Mundharmonika spielen: Melodiespiel mit Noten und Playbacks"
 vendor: "Activent"
 product_type: "Member area and video courses"
-price: 140.85
+price: 140.94
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 56.34
+earnings_per_sale: 56.38
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dancing & Music"]
 listed_since: "2017-01-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/15055/adminstore/"
+promo_link: "https://www.mundharmonikaspielen.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.mundharmonikaspielen.com/"
 language: "de"
 ---
 # Mundharmonika spielen: Melodiespiel mit Noten und Playbacks
 
 > Product ID `15055` · Digistore24 productId `113631` · [HTML profile page](../../produkte/mundharmonika-spielen-melodiespiel-mit-noten-und-playbacks-15055.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $140.85 (Subscription) |
+| Price | $140.94 (Subscription) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $56.34 |
+| Earnings/sale* | $56.38 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Activent |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/15055/adminstore/
+- **Promo link (affiliate):** https://www.mundharmonikaspielen.com/?aff=adminstore#aff=adminstore
 - Sales page: https://www.mundharmonikaspielen.com/
 - Canonical redirect: https://www.digistore24.com/redir/113631/adminstore
 
@@ -96,14 +96,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mundharmonika spielen: Melodiespiel mit Noten und Playbacks? — Typ: Member area and video courses, Anbieter: Activent, gelistet seit 2017-01-15
-- Wie viel kostet es? — 140.847057 USD
+- Wie viel kostet es? — 140.935236 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Mundharmonika spielen: Melodiespiel mit Noten und Playbacks Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/113631
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/113631/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Mundharmonika%20spielen%3A%20Melodiespiel%20mit%20Noten%20und%20Playbacks
 
 ## 4. Editorial notes

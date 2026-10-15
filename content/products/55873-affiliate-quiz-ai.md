@@ -12,17 +12,17 @@ cart_conversion_pct: 15
 cancel_rate_pct: 0
 categories: ["Business & Investment","Computer & Internet","Online Marketing & E-Business"]
 listed_since: "2025-02-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
-promo_link: "https://www.digistore24.com/redir/55873/adminstore/"
+promo_link: "https://vierstelligimmonat.de/homequiz?aff=adminstore#aff=adminstore"
 sales_page: "https://vierstelligimmonat.de/homequiz"
 language: "de"
 ---
 # Affiliate Quiz AI
 
 > Product ID `55873` · Digistore24 productId `594310` · [HTML profile page](../../produkte/affiliate-quiz-ai-55873.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55873/adminstore/
+- **Promo link (affiliate):** https://vierstelligimmonat.de/homequiz?aff=adminstore#aff=adminstore
 - Sales page: https://vierstelligimmonat.de/homequiz
 - Canonical redirect: https://www.digistore24.com/redir/594310/adminstore
 
@@ -61,14 +61,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Affiliate Quiz AI? — Typ: Software, Anbieter: MoneyCreators, gelistet seit 2025-02-05
-- Wie viel kostet es? — 8.005596 USD
+- Wie viel kostet es? — 8.010608 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Affiliate Quiz AI Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/594310
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/594310/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Affiliate%20Quiz%20AI
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 696893
 title: "Makler KI-Tool – Exposés und Akquise | 25% Provision"
 vendor: "jan86e2"
 product_type: "Downloads"
-price: 279.06
+price: 279.23
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 69.77
+earnings_per_sale: 69.81
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet"]
 listed_since: "2026-06-10"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://zyntevo.de?aff=adminstore#aff=adminstore"
 sales_page: "https://zyntevo.de"
@@ -22,16 +22,16 @@ language: "de"
 # Makler KI-Tool – Exposés und Akquise | 25% Provision
 
 > Product ID `56850` · Digistore24 productId `696893` · [HTML profile page](../../produkte/makler-ki-tool-expos-s-und-akquise-25-provision-56850.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $279.06 (Single payment) |
+| Price | $279.23 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $69.77 |
+| Earnings/sale* | $69.81 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | jan86e2 |
@@ -94,14 +94,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Makler KI-Tool – Exposés und Akquise | 25% Provision? — Typ: Downloads, Anbieter: jan86e2, gelistet seit 2026-06-10
-- Wie viel kostet es? — 279.055398 USD
+- Wie viel kostet es? — 279.23010400000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Makler KI-Tool – Exposés und Akquise | 25% Provision Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/696893
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/696893/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Makler%20KI-Tool%20%E2%80%93%20Expos%C3%A9s%20und%20Akquise%20%7C%2025%25%20Provision
 
 ## 4. Editorial notes

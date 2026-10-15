@@ -4,34 +4,34 @@ digistore24_product_id: 78137
 title: "Der Goldfinger Report™ - Der etwas andere Börsenbrief!"
 vendor: "Goldfinger23"
 product_type: "Downloads"
-price: 75.11
+price: 75.16
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 30.04
+earnings_per_sale: 30.06
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2016-04-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/redir/14547/adminstore/"
+promo_link: "https://www.goldfinger-report.com/de/subscribe/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.goldfinger-report.com/de/subscribe/"
 language: "de"
 ---
 # Der Goldfinger Report™ - Der etwas andere Börsenbrief!
 
 > Product ID `14547` · Digistore24 productId `78137` · [HTML profile page](../../produkte/der-goldfinger-report-der-etwas-andere-b-rsenbrief-14547.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $75.11 (Subscription) |
+| Price | $75.16 (Subscription) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $30.04 |
+| Earnings/sale* | $30.06 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Goldfinger23 |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/redir/14547/adminstore/
+- **Promo link (affiliate):** https://www.goldfinger-report.com/de/subscribe/?aff=adminstore#aff=adminstore
 - Sales page: https://www.goldfinger-report.com/de/subscribe/
 - Vendor affiliate support: https://www.goldfinger-report.com/de/affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/78137/adminstore
@@ -96,14 +96,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Goldfinger Report™ - Der etwas andere Börsenbrief!? — Typ: Downloads, Anbieter: Goldfinger23, gelistet seit 2016-04-17
-- Wie viel kostet es? — 75.11395800000001 USD
+- Wie viel kostet es? — 75.16098400000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Der Goldfinger Report™ - Der etwas andere Börsenbrief! Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/78137
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/78137/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%20Goldfinger%20Report%E2%84%A2%20-%20Der%20etwas%20andere%20B%C3%B6rsenbrief!
 
 ## 4. Editorial notes

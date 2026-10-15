@@ -4,16 +4,16 @@ digistore24_product_id: 611315
 title: "Newsletter Ghostwriter"
 vendor: "marike_frick"
 product_type: "Downloads"
-price: 296.87
+price: 297.05
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 139.38
+earnings_per_sale: 139.47
 cart_conversion_pct: 15
 cancel_rate_pct: 3.05
-categories: ["Email Marketing","Online Marketing","Marketing Services"]
+categories: ["Email Marketing","Marketing Services","Online Marketing"]
 listed_since: "2025-05-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.wasjournalistenwollen.de/claude-workshops/email-ghostwriter/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.wasjournalistenwollen.de/claude-workshops/email-ghostwriter/"
@@ -22,22 +22,22 @@ language: "de"
 # Newsletter Ghostwriter
 
 > Product ID `52880` · Digistore24 productId `611315` · [HTML profile page](../../produkte/newsletter-ghostwriter-52880.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $296.87 (Single payment) |
+| Price | $297.05 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $139.38 |
+| Earnings/sale* | $139.47 |
 | Cart conversion* | 15% |
 | Cancel rate* | 3.05% |
 | Vendor | marike_frick |
 | Listed since | 2025-05-07 |
 | Auto-accept affiliates | no (approval required) |
-| Categories | Email Marketing, Online Marketing, Marketing Services |
+| Categories | Email Marketing, Marketing Services, Online Marketing |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -85,14 +85,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Newsletter Ghostwriter? — Typ: Downloads, Anbieter: marike_frick, gelistet seit 2025-05-07
-- Wie viel kostet es? — 296.866731 USD
+- Wie viel kostet es? — 297.052588 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Newsletter Ghostwriter Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/611315
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/611315/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Newsletter%20Ghostwriter
 
 ## 4. Editorial notes

@@ -4,34 +4,34 @@ digistore24_product_id: 86375
 title: "StereoTrader MT4"
 vendor: "StereoTrader"
 product_type: "Downloads"
-price: 333.14
+price: 333.35
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 238.76
+earnings_per_sale: 238.91
 cart_conversion_pct: 5
 cancel_rate_pct: 3.37
 categories: ["Trading Products"]
 listed_since: "2016-07-02"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/14441/adminstore/"
+promo_link: "https://www.digistore24.com/product/86375?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/86375"
 language: "de"
 ---
 # StereoTrader MT4
 
 > Product ID `14441` · Digistore24 productId `86375` · [HTML profile page](../../produkte/stereotrader-mt4-14441.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $333.14 (Single payment, Subscription, Installment) |
+| Price | $333.35 (Single payment, Subscription, Installment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $238.76 |
+| Earnings/sale* | $238.91 |
 | Cart conversion* | 5% |
 | Cancel rate* | 3.37% |
 | Vendor | StereoTrader |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/14441/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/86375?aff=adminstore
 - Sales page: https://www.digistore24.com/product/86375
 - Canonical redirect: https://www.digistore24.com/redir/86375/adminstore
 
@@ -78,14 +78,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist StereoTrader MT4? — Typ: Downloads, Anbieter: StereoTrader, gelistet seit 2016-07-02
-- Wie viel kostet es? — 333.137895 USD
+- Wie viel kostet es? — 333.34646 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: StereoTrader MT4 Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/86375
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/86375/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=StereoTrader%20MT4
 
 ## 4. Editorial notes

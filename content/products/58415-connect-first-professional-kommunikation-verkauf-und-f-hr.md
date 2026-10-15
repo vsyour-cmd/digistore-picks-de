@@ -4,40 +4,40 @@ digistore24_product_id: 723002
 title: "CONNECT FIRST Professional – Kommunikation, Verkauf und Führ"
 vendor: "fischerundreichfc38"
 product_type: "Member area and video courses"
-price: 983.74
+price: 984.35
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 344.31
+earnings_per_sale: 344.52
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Business & Investment","Personal Development"]
+categories: ["Personal Development","Business & Investment"]
 listed_since: "2026-08-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.checkout-ds24.com/redir/58415/adminstore/"
+promo_link: "https://connect-first-professional.akeshawarz22.chatgpt.site/?aff=adminstore#aff=adminstore"
 sales_page: "https://connect-first-professional.akeshawarz22.chatgpt.site/"
 language: "de"
 ---
 # CONNECT FIRST Professional – Kommunikation, Verkauf und Führ
 
 > Product ID `58415` · Digistore24 productId `723002` · [HTML profile page](../../produkte/connect-first-professional-kommunikation-verkauf-und-f-hr-58415.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $983.74 (Single payment, Installment) |
+| Price | $984.35 (Single payment, Installment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $344.31 |
+| Earnings/sale* | $344.52 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | fischerundreichfc38 |
 | Listed since | 2026-08-17 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Personal Development |
+| Categories | Personal Development, Business & Investment |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/redir/58415/adminstore/
+- **Promo link (affiliate):** https://connect-first-professional.akeshawarz22.chatgpt.site/?aff=adminstore#aff=adminstore
 - Sales page: https://connect-first-professional.akeshawarz22.chatgpt.site/
 - Canonical redirect: https://www.digistore24.com/redir/723002/adminstore
 
@@ -66,14 +66,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist CONNECT FIRST Professional – Kommunikation, Verkauf und Führ? — Typ: Member area and video courses, Anbieter: fischerundreichfc38, gelistet seit 2026-08-17
-- Wie viel kostet es? — 983.7379230000001 USD
+- Wie viel kostet es? — 984.3538040000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: CONNECT FIRST Professional – Kommunikation, Verkauf und Führ Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/723002
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/723002/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=CONNECT%20FIRST%20Professional%20%E2%80%93%20Kommunikation%2C%20Verkauf%20und%20F%C3%BChr
 
 ## 4. Editorial notes

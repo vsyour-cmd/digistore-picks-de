@@ -4,17 +4,17 @@ digistore24_product_id: 722698
 title: "Das Prinzip des Vermögens"
 vendor: "AndreasLang"
 product_type: "Member area and video courses"
-price: 878.5
+price: 879.05
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 439.26
+earnings_per_sale: 439.53
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Business & Investment","Online Marketing & E-Business","Trading Products"]
+categories: ["Trading Products","Business & Investment","Online Marketing & E-Business"]
 listed_since: "2024-09-11"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
-research_quality: "none"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
+research_quality: "thin"
 promo_link: "https://www.cashneustart.de/das-prinzip-des-vermoegens/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.cashneustart.de/das-prinzip-des-vermoegens/"
 language: "de"
@@ -22,22 +22,22 @@ language: "de"
 # Das Prinzip des Vermögens
 
 > Product ID `49356` · Digistore24 productId `722698` · [HTML profile page](../../produkte/das-prinzip-des-verm-gens-49356.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $878.50 (Single payment) |
+| Price | $879.05 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $439.26 |
+| Earnings/sale* | $439.53 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | AndreasLang |
 | Listed since | 2024-09-11 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Online Marketing & E-Business, Trading Products |
+| Categories | Trading Products, Business & Investment, Online Marketing & E-Business |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -52,7 +52,10 @@ language: "de"
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Das Prinzip des Vermögens
+- **Opening copy (first paragraphs):**
+  > 97 % aller Angestellten werden niemals reich. Diese 3 % machen einen einzigen Schritt anders. Drücke auf Play.
+- **Page word count:** 23
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
@@ -67,14 +70,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Prinzip des Vermögens? — Typ: Member area and video courses, Anbieter: AndreasLang, gelistet seit 2024-09-11
-- Wie viel kostet es? — 878.5023510000001 USD
+- Wie viel kostet es? — 879.052348 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Das Prinzip des Vermögens Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/722698
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/722698/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Das%20Prinzip%20des%20Verm%C3%B6gens
 
 ## 4. Editorial notes

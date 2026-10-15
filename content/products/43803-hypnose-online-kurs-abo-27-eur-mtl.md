@@ -4,34 +4,34 @@ digistore24_product_id: 489462
 title: "Hypnose Online Kurs ABO 27 EUR/mtl"
 vendor: "Happiness4Senses"
 product_type: "Member area and video courses"
-price: 253.69
+price: 253.84
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 63.42
+earnings_per_sale: 63.46
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2023-03-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/43803/adminstore/"
+promo_link: "https://www.happiness-for-senses.com/mentaltrainer-onlinekurs-v2/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.happiness-for-senses.com/mentaltrainer-onlinekurs-v2/"
 language: "de"
 ---
 # Hypnose Online Kurs ABO 27 EUR/mtl
 
 > Product ID `43803` · Digistore24 productId `489462` · [HTML profile page](../../produkte/hypnose-online-kurs-abo-27-eur-mtl-43803.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $253.69 (Subscription) |
+| Price | $253.84 (Subscription) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $63.42 |
+| Earnings/sale* | $63.46 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Happiness4Senses |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/43803/adminstore/
+- **Promo link (affiliate):** https://www.happiness-for-senses.com/mentaltrainer-onlinekurs-v2/?aff=adminstore#aff=adminstore
 - Sales page: https://www.happiness-for-senses.com/mentaltrainer-onlinekurs-v2/
 - Vendor affiliate support: https://www.happiness-for-senses.com/partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/489462/adminstore
@@ -88,14 +88,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Hypnose Online Kurs ABO 27 EUR/mtl? — Typ: Member area and video courses, Anbieter: Happiness4Senses, gelistet seit 2023-03-16
-- Wie viel kostet es? — 253.685709 USD
+- Wie viel kostet es? — 253.844532 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Hypnose Online Kurs ABO 27 EUR/mtl Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/489462
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/489462/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Hypnose%20Online%20Kurs%20ABO%2027%20EUR%2Fmtl
 
 ## 4. Editorial notes

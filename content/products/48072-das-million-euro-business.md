@@ -4,16 +4,16 @@ digistore24_product_id: 546031
 title: "Das Million Euro Business"
 vendor: "Cleriker"
 product_type: "Member area and video courses"
-price: 936.77
+price: 937.35
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 468.38
+earnings_per_sale: 468.68
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Business & Investment","Email Marketing","Online Marketing & E-Business"]
+categories: ["Business & Investment","Online Marketing & E-Business","Email Marketing"]
 listed_since: "2024-03-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://los.larspilawski.de/5-schritte-zur-ersten-digitalen-million-ds?aff=adminstore#aff=adminstore"
 sales_page: "https://los.larspilawski.de/5-schritte-zur-ersten-digitalen-million-ds"
@@ -22,22 +22,22 @@ language: "de"
 # Das Million Euro Business
 
 > Product ID `48072` · Digistore24 productId `546031` · [HTML profile page](../../produkte/das-million-euro-business-48072.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $936.77 (Single payment, Subscription) |
+| Price | $937.35 (Single payment, Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $468.38 |
+| Earnings/sale* | $468.68 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Cleriker |
 | Listed since | 2024-03-29 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Email Marketing, Online Marketing & E-Business |
+| Categories | Business & Investment, Online Marketing & E-Business, Email Marketing |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -95,14 +95,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Million Euro Business? — Typ: Member area and video courses, Anbieter: Cleriker, gelistet seit 2024-03-29
-- Wie viel kostet es? — 936.7665420000002 USD
+- Wie viel kostet es? — 937.353016 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Das Million Euro Business Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/546031
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/546031/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Das%20Million%20Euro%20Business
 
 ## 4. Editorial notes

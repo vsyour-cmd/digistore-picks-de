@@ -4,34 +4,34 @@ digistore24_product_id: 668255
 title: "GlucoSana: The Blood Sugar Protocol"
 vendor: "DS24-MySana"
 product_type: "Supplements - health"
-price: 72.11
+price: 72.15
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 46.87
+earnings_per_sale: 46.9
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Food Supplements"]
 listed_since: "2026-02-11"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/55651/adminstore/"
+promo_link: "https://myglucosana.com/glucosana-pdp-fe?aff=adminstore#aff=adminstore"
 sales_page: "https://myglucosana.com/glucosana-pdp-fe"
 language: "de"
 ---
 # GlucoSana: The Blood Sugar Protocol
 
 > Product ID `55651` · Digistore24 productId `668255` · [HTML profile page](../../produkte/glucosana-the-blood-sugar-protocol-55651.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $72.11 (Single payment) |
+| Price | $72.15 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $46.87 |
+| Earnings/sale* | $46.90 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DS24-MySana |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55651/adminstore/
+- **Promo link (affiliate):** https://myglucosana.com/glucosana-pdp-fe?aff=adminstore#aff=adminstore
 - Sales page: https://myglucosana.com/glucosana-pdp-fe
 - Vendor affiliate support: https://myglucosana.com/glucosana-affiliate-page-ds24
 - Canonical redirect: https://www.digistore24.com/redir/668255/adminstore
@@ -104,14 +104,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist GlucoSana: The Blood Sugar Protocol? — Typ: Supplements - health, Anbieter: DS24-MySana, gelistet seit 2026-02-11
-- Wie viel kostet es? — 72.106269 USD
+- Wie viel kostet es? — 72.151412 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: GlucoSana: The Blood Sugar Protocol Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/668255
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/668255/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=GlucoSana%3A%20The%20Blood%20Sugar%20Protocol
 
 ## 4. Editorial notes

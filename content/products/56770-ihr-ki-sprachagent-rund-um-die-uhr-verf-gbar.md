@@ -4,16 +4,16 @@ digistore24_product_id: 689970
 title: "Ihr KI-Sprachagent. Rund um die Uhr verfügbar."
 vendor: "Chainpaysolutions"
 product_type: "Remote service provided electronically"
-price: 55.89
+price: 55.93
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 19.57
+earnings_per_sale: 19.58
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Marketing Services"]
 listed_since: "2026-06-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://spreka.ai/digistore?aff=adminstore#aff=adminstore"
 sales_page: "https://spreka.ai/digistore"
@@ -22,16 +22,16 @@ language: "de"
 # Ihr KI-Sprachagent. Rund um die Uhr verfügbar.
 
 > Product ID `56770` · Digistore24 productId `689970` · [HTML profile page](../../produkte/ihr-ki-sprachagent-rund-um-die-uhr-verf-gbar-56770.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $55.89 (Subscription) |
+| Price | $55.93 (Subscription) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $19.57 |
+| Earnings/sale* | $19.58 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Chainpaysolutions |
@@ -85,14 +85,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ihr KI-Sprachagent. Rund um die Uhr verfügbar.? — Typ: Remote service provided electronically, Anbieter: Chainpaysolutions, gelistet seit 2026-06-01
-- Wie viel kostet es? — 55.89381900000001 USD
+- Wie viel kostet es? — 55.928812 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Ihr KI-Sprachagent. Rund um die Uhr verfügbar. Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/689970
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/689970/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Ihr%20KI-Sprachagent.%20Rund%20um%20die%20Uhr%20verf%C3%BCgbar.
 
 ## 4. Editorial notes

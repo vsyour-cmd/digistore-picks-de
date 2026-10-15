@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing"]
 listed_since: "2020-07-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
-promo_link: "https://www.digistore24.com/redir/33587/adminstore/"
+promo_link: "https://josefbrameshuber.com/3klick-webinarcheckliste-lp2/?aff=adminstore#aff=adminstore"
 sales_page: "https://josefbrameshuber.com/3klick-webinarcheckliste-lp2/"
 language: "de"
 ---
 # Webinar Checkliste
 
 > Product ID `33587` · Digistore24 productId `338420` · [HTML profile page](../../produkte/webinar-checkliste-33587.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/33587/adminstore/
+- **Promo link (affiliate):** https://josefbrameshuber.com/3klick-webinarcheckliste-lp2/?aff=adminstore#aff=adminstore
 - Sales page: https://josefbrameshuber.com/3klick-webinarcheckliste-lp2/
 - Canonical redirect: https://www.digistore24.com/redir/338420/adminstore
 
@@ -74,7 +74,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Webinar Checkliste Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/338420
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/338420/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Webinar%20Checkliste
 
 ## 4. Editorial notes

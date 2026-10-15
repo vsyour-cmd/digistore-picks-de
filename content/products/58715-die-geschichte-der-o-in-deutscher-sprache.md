@@ -4,34 +4,34 @@ digistore24_product_id: 725449
 title: "Die Geschichte der O in Deutscher Sprache"
 vendor: "Novaris_web"
 product_type: "Audio book (download)"
-price: 17.44
+price: 17.45
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 1.74
+earnings_per_sale: 1.75
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-08-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
-promo_link: "https://www.digistore24.com/redir/58715/adminstore/"
+promo_link: "https://novaris.de.cool/o.php?aff=adminstore#aff=adminstore"
 sales_page: "https://novaris.de.cool/o.php"
 language: "de"
 ---
 # Die Geschichte der O in Deutscher Sprache
 
 > Product ID `58715` · Digistore24 productId `725449` · [HTML profile page](../../produkte/die-geschichte-der-o-in-deutscher-sprache-58715.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Audio book (download) |
-| Price | $17.44 (Single payment) |
+| Price | $17.45 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $1.74 |
+| Earnings/sale* | $1.75 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Novaris_web |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58715/adminstore/
+- **Promo link (affiliate):** https://novaris.de.cool/o.php?aff=adminstore#aff=adminstore
 - Sales page: https://novaris.de.cool/o.php
 - Canonical redirect: https://www.digistore24.com/redir/725449/adminstore
 
@@ -68,14 +68,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die Geschichte der O in Deutscher Sprache? — Typ: Audio book (download), Anbieter: Novaris_web, gelistet seit 2026-08-27
-- Wie viel kostet es? — 17.44236 USD
+- Wie viel kostet es? — 17.45328 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Die Geschichte der O in Deutscher Sprache Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/725449
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/725449/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Die%20Geschichte%20der%20O%20in%20Deutscher%20Sprache
 
 ## 4. Editorial notes

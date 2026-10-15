@@ -4,16 +4,16 @@ digistore24_product_id: 621710
 title: "Optionsstrategien Married Put und High Watermark Put"
 vendor: "sicheresdepot"
 product_type: "Seminar for business customers"
-price: 3757.38
+price: 3759.73
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 375.74
+earnings_per_sale: 375.97
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Trading Products","Finances"]
+categories: ["Trading Products","Education","Finances"]
 listed_since: "2025-07-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://sicheres-depot.de/sicheres-depot-praesenz-seminar/?aff=adminstore#aff=adminstore"
 sales_page: "https://sicheres-depot.de/sicheres-depot-praesenz-seminar/"
@@ -22,22 +22,22 @@ language: "de"
 # Optionsstrategien Married Put und High Watermark Put
 
 > Product ID `54916` · Digistore24 productId `621710` · [HTML profile page](../../produkte/optionsstrategien-married-put-und-high-watermark-put-54916.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Seminar for business customers |
-| Price | $3757.38 (Single payment) |
+| Price | $3759.73 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $375.74 |
+| Earnings/sale* | $375.97 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | sicheresdepot |
 | Listed since | 2025-07-01 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Trading Products, Finances |
+| Categories | Trading Products, Education, Finances |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -89,14 +89,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Optionsstrategien Married Put und High Watermark Put? — Typ: Seminar for business customers, Anbieter: sicheresdepot, gelistet seit 2025-07-01
-- Wie viel kostet es? — 3757.37505 USD
+- Wie viel kostet es? — 3759.7274 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Optionsstrategien Married Put und High Watermark Put Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/621710
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/621710/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Optionsstrategien%20Married%20Put%20und%20High%20Watermark%20Put
 
 ## 4. Editorial notes

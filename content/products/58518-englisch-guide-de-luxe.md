@@ -4,7 +4,7 @@ digistore24_product_id: 724885
 title: "Englisch Guide de Luxe"
 vendor: "mlangbein51cce0"
 product_type: "E-books"
-price: 10.34
+price: 10.35
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 5.18
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Languages","Leadership & Management"]
 listed_since: "2026-08-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/724885?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/724885"
@@ -22,14 +22,14 @@ language: "de"
 # Englisch Guide de Luxe
 
 > Product ID `58518` · Digistore24 productId `724885` · [HTML profile page](../../produkte/englisch-guide-de-luxe-58518.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.34 (Single payment) |
+| Price | $10.35 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $5.18 |
 | Cart conversion* | — |
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Englisch Guide de Luxe? — Typ: E-books, Anbieter: mlangbein51cce0, gelistet seit 2026-08-22
-- Wie viel kostet es? — 10.342425 USD
+- Wie viel kostet es? — 10.3489 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Englisch Guide de Luxe Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/724885
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/724885/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Englisch%20Guide%20de%20Luxe
 
 ## 4. Editorial notes

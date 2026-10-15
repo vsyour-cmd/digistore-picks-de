@@ -10,10 +10,10 @@ affiliate_commission_pct: 50
 earnings_per_sale: 0
 cart_conversion_pct: 19
 cancel_rate_pct: 0.26
-categories: ["Education","Health & Fitness","Personal Development"]
+categories: ["Health & Fitness","Personal Development","Education"]
 listed_since: "2023-11-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://silentsubs.com/media/gratis-brainwave-audiosessions-silentsubs-entrainment/?aff=adminstore#aff=adminstore"
 sales_page: "https://silentsubs.com/media/gratis-brainwave-audiosessions-silentsubs-entrainment/"
@@ -22,7 +22,7 @@ language: "de"
 # Gratis Isochrone Töne – Direkter Download
 
 > Product ID `46012` · Digistore24 productId `527160` · [HTML profile page](../../produkte/gratis-isochrone-t-ne-direkter-download-46012.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | mldesign |
 | Listed since | 2023-11-16 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Health & Fitness, Personal Development |
+| Categories | Health & Fitness, Personal Development, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -81,14 +81,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Gratis Isochrone Töne – Direkter Download? — Typ: Downloads, Anbieter: mldesign, gelistet seit 2023-11-16
-- Wie viel kostet es? — 0.458421 USD
+- Wie viel kostet es? — 0.458708 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Gratis Isochrone Töne – Direkter Download Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/527160
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/527160/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Gratis%20Isochrone%20T%C3%B6ne%20%E2%80%93%20Direkter%20Download
 
 ## 4. Editorial notes

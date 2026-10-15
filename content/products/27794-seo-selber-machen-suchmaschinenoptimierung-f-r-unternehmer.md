@@ -4,16 +4,16 @@ digistore24_product_id: 256949
 title: "SEO selber machen - Suchmaschinenoptimierung für Unternehmer"
 vendor: "StefanieEngel"
 product_type: "Webinar"
-price: 334.31
+price: 334.52
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 83.58
+earnings_per_sale: 83.63
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2019-01-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.webseitenoptimierung-hamburg.de/seo-selber-machen/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.webseitenoptimierung-hamburg.de/seo-selber-machen/"
@@ -22,16 +22,16 @@ language: "de"
 # SEO selber machen - Suchmaschinenoptimierung für Unternehmer
 
 > Product ID `27794` · Digistore24 productId `256949` · [HTML profile page](../../produkte/seo-selber-machen-suchmaschinenoptimierung-f-r-unternehmer-27794.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Webinar |
-| Price | $334.31 (Single payment) |
+| Price | $334.52 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $83.58 |
+| Earnings/sale* | $83.63 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | StefanieEngel |
@@ -108,14 +108,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist SEO selber machen - Suchmaschinenoptimierung für Unternehmer? — Typ: Webinar, Anbieter: StefanieEngel, gelistet seit 2019-01-18
-- Wie viel kostet es? — 334.31190000000004 USD
+- Wie viel kostet es? — 334.5212 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: SEO selber machen - Suchmaschinenoptimierung für Unternehmer Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/256949
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/256949/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=SEO%20selber%20machen%20-%20Suchmaschinenoptimierung%20f%C3%BCr%20Unternehmer
 
 ## 4. Editorial notes

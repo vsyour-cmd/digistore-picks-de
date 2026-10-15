@@ -4,34 +4,34 @@ digistore24_product_id: 666768
 title: "Mentoring 2.0 - David Ulubaev"
 vendor: "DavidUlubaev"
 product_type: "Online coaching"
-price: 531.15
+price: 531.49
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 225.57
+earnings_per_sale: 225.71
 cart_conversion_pct: 85.7
 cancel_rate_pct: 6.22
 categories: ["Personal Development"]
 listed_since: "2026-02-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/55629/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/666768?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/666768"
 language: "de"
 ---
 # Mentoring 2.0 - David Ulubaev
 
 > Product ID `55629` · Digistore24 productId `666768` · [HTML profile page](../../produkte/mentoring-2-0-david-ulubaev-55629.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $531.15 (Single payment, Installment) |
+| Price | $531.49 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $225.57 |
+| Earnings/sale* | $225.71 |
 | Cart conversion* | 85.7% |
 | Cancel rate* | 6.22% |
 | Vendor | DavidUlubaev |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55629/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/666768?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/666768
 - Canonical redirect: https://www.digistore24.com/redir/666768/adminstore
 
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mentoring 2.0 - David Ulubaev? — Typ: Online coaching, Anbieter: DavidUlubaev, gelistet seit 2026-02-05
-- Wie viel kostet es? — 531.153405 USD
+- Wie viel kostet es? — 531.48594 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Mentoring 2.0 - David Ulubaev Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/666768
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/666768/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Mentoring%202.0%20-%20David%20Ulubaev
 
 ## 4. Editorial notes

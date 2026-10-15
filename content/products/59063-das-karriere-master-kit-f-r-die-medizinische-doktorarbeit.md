@@ -4,34 +4,34 @@ digistore24_product_id: 727266
 title: "Das Karriere Master-Kit für die medizinische Doktorarbeit"
 vendor: "VeloxForge"
 product_type: "Downloads"
-price: 83.62
+price: 83.68
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 41.82
+earnings_per_sale: 41.84
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2026-09-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/59063/adminstore/"
+promo_link: "https://auranit.de/medizinische-doktorarbeit/?aff=adminstore#aff=adminstore"
 sales_page: "https://auranit.de/medizinische-doktorarbeit/"
 language: "de"
 ---
 # Das Karriere Master-Kit für die medizinische Doktorarbeit
 
 > Product ID `59063` · Digistore24 productId `727266` · [HTML profile page](../../produkte/das-karriere-master-kit-f-r-die-medizinische-doktorarbeit-59063.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $83.62 (Single payment) |
+| Price | $83.68 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $41.82 |
+| Earnings/sale* | $41.84 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | VeloxForge |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59063/adminstore/
+- **Promo link (affiliate):** https://auranit.de/medizinische-doktorarbeit/?aff=adminstore#aff=adminstore
 - Sales page: https://auranit.de/medizinische-doktorarbeit/
 - Canonical redirect: https://www.digistore24.com/redir/727266/adminstore
 
@@ -80,14 +80,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Karriere Master-Kit für die medizinische Doktorarbeit? — Typ: Downloads, Anbieter: VeloxForge, gelistet seit 2026-09-09
-- Wie viel kostet es? — 83.62269900000001 USD
+- Wie viel kostet es? — 83.67505200000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Das Karriere Master-Kit für die medizinische Doktorarbeit Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/727266
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/727266/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Das%20Karriere%20Master-Kit%20f%C3%BCr%20die%20medizinische%20Doktorarbeit
 
 ## 4. Editorial notes

@@ -4,34 +4,34 @@ digistore24_product_id: 392303
 title: "Cajon lernen mit Peter Lorson"
 vendor: "meineMusikschule"
 product_type: "Member area and video courses"
-price: 205.06
+price: 205.19
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 82.02
+earnings_per_sale: 82.08
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dancing & Music"]
 listed_since: "2021-05-31"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/redir/27839/adminstore/"
+promo_link: "https://meinemusikschule.net/kurse/cajon/?aff=adminstore#aff=adminstore"
 sales_page: "https://meinemusikschule.net/kurse/cajon/"
 language: "de"
 ---
 # Cajon lernen mit Peter Lorson
 
 > Product ID `27839` · Digistore24 productId `392303` · [HTML profile page](../../produkte/cajon-lernen-mit-peter-lorson-27839.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $205.06 (Single payment, Installment) |
+| Price | $205.19 (Single payment, Installment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $82.02 |
+| Earnings/sale* | $82.08 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | meineMusikschule |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/redir/27839/adminstore/
+- **Promo link (affiliate):** https://meinemusikschule.net/kurse/cajon/?aff=adminstore#aff=adminstore
 - Sales page: https://meinemusikschule.net/kurse/cajon/
 - Vendor affiliate support: https://meinemusikschule.net/partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/392303/adminstore
@@ -107,14 +107,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Cajon lernen mit Peter Lorson? — Typ: Member area and video courses, Anbieter: meineMusikschule, gelistet seit 2021-05-31
-- Wie viel kostet es? — 205.05954000000003 USD
+- Wie viel kostet es? — 205.18792000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Cajon lernen mit Peter Lorson Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/392303
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/392303/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Cajon%20lernen%20mit%20Peter%20Lorson
 
 ## 4. Editorial notes

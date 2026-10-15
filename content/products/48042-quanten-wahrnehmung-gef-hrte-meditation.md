@@ -4,7 +4,7 @@ digistore24_product_id: 548600
 title: "Quanten Wahrnehmung | Geführte Meditation"
 vendor: "Matrixreport"
 product_type: "Downloads"
-price: 9.3
+price: 9.31
 currency: "USD"
 affiliate_commission_pct: 25
 earnings_per_sale: 2.33
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2024-04-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.matrixreport.blog/quantenwahrnehmung/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.matrixreport.blog/quantenwahrnehmung/"
@@ -22,14 +22,14 @@ language: "de"
 # Quanten Wahrnehmung | Geführte Meditation
 
 > Product ID `48042` · Digistore24 productId `548600` · [HTML profile page](../../produkte/quanten-wahrnehmung-gef-hrte-meditation-48042.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $9.30 (Single payment) |
+| Price | $9.31 (Single payment) |
 | Affiliate commission | 25% |
 | Earnings/sale* | $2.33 |
 | Cart conversion* | — |
@@ -76,14 +76,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Quanten Wahrnehmung | Geführte Meditation? — Typ: Downloads, Anbieter: Matrixreport, gelistet seit 2024-04-17
-- Wie viel kostet es? — 9.302592 USD
+- Wie viel kostet es? — 9.308416000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Quanten Wahrnehmung | Geführte Meditation Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/548600
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/548600/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Quanten%20Wahrnehmung%20%7C%20Gef%C3%BChrte%20Meditation
 
 ## 4. Editorial notes

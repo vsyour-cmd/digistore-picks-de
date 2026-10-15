@@ -4,34 +4,34 @@ digistore24_product_id: 90365
 title: "Amazilon - Amazon PartnerNet Plugin - Medium Lizenz (6 Stk.)"
 vendor: "hinmed"
 product_type: "Downloads"
-price: 93.01
+price: 93.07
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 13.95
+earnings_per_sale: 13.96
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet"]
 listed_since: "2016-08-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/redir/16973/adminstore/"
+promo_link: "https://amazilon.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://amazilon.com/"
 language: "de"
 ---
 # Amazilon - Amazon PartnerNet Plugin - Medium Lizenz (6 Stk.)
 
 > Product ID `16973` · Digistore24 productId `90365` · [HTML profile page](../../produkte/amazilon-amazon-partnernet-plugin-medium-lizenz-6-stk-16973.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $93.01 (Subscription) |
+| Price | $93.07 (Subscription) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $13.95 |
+| Earnings/sale* | $13.96 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | hinmed |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/redir/16973/adminstore/
+- **Promo link (affiliate):** https://amazilon.com/?aff=adminstore#aff=adminstore
 - Sales page: https://amazilon.com/
 - Vendor affiliate support: https://amazilon.com/affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/90365/adminstore
@@ -93,14 +93,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Amazilon - Amazon PartnerNet Plugin - Medium Lizenz (6 Stk.)? — Typ: Downloads, Anbieter: hinmed, gelistet seit 2016-08-06
-- Wie viel kostet es? — 93.014739 USD
+- Wie viel kostet es? — 93.072972 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Amazilon - Amazon PartnerNet Plugin - Medium Lizenz (6 Stk.) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/90365
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/90365/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Amazilon%20-%20Amazon%20PartnerNet%20Plugin%20-%20Medium%20Lizenz%20(6%20Stk.)
 
 ## 4. Editorial notes

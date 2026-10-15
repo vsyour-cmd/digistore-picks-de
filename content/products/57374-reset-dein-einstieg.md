@@ -4,7 +4,7 @@ digistore24_product_id: 674774
 title: "Reset - Dein Einstieg"
 vendor: "KerstinSchimkus"
 product_type: "Member area and video courses"
-price: 73.79
+price: 73.84
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 7.38
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2026-07-02"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://kk-schimkus-6815309c.mydigibiz24.com/ticket-kurs-verkauf?aff=adminstore#aff=adminstore"
 sales_page: "https://kk-schimkus-6815309c.mydigibiz24.com/ticket-kurs-verkauf"
@@ -22,14 +22,14 @@ language: "de"
 # Reset - Dein Einstieg
 
 > Product ID `57374` · Digistore24 productId `674774` · [HTML profile page](../../produkte/reset-dein-einstieg-57374.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $73.79 (Single payment) |
+| Price | $73.84 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $7.38 |
 | Cart conversion* | — |
@@ -70,14 +70,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Reset - Dein Einstieg? — Typ: Member area and video courses, Anbieter: KerstinSchimkus, gelistet seit 2026-07-02
-- Wie viel kostet es? — 73.7946 USD
+- Wie viel kostet es? — 73.8408 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Reset - Dein Einstieg Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/674774
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/674774/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Reset%20-%20Dein%20Einstieg
 
 ## 4. Editorial notes

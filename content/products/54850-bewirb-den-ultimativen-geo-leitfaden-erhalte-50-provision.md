@@ -4,16 +4,16 @@ digistore24_product_id: 646166
 title: "Bewirb den ultimativen GEO-Leitfaden. Erhalte 50% Provision"
 vendor: "onlinemarketingwoman"
 product_type: "E-books"
-price: 82.55
+price: 82.6
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 41.28
+earnings_per_sale: 41.31
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Computer & Internet","Education","Online Marketing & E-Business"]
+categories: ["Computer & Internet","Online Marketing & E-Business","Education"]
 listed_since: "2025-11-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.online-marketing-woman.de/61-der-ultimative-geo-leitfaden-anmeldung?aff=adminstore#aff=adminstore"
 sales_page: "https://www.online-marketing-woman.de/61-der-ultimative-geo-leitfaden-anmeldung"
@@ -22,22 +22,22 @@ language: "de"
 # Bewirb den ultimativen GEO-Leitfaden. Erhalte 50% Provision
 
 > Product ID `54850` · Digistore24 productId `646166` · [HTML profile page](../../produkte/bewirb-den-ultimativen-geo-leitfaden-erhalte-50-provision-54850.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $82.55 (Single payment) |
+| Price | $82.60 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $41.28 |
+| Earnings/sale* | $41.31 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | onlinemarketingwoman |
 | Listed since | 2025-11-04 |
 | Auto-accept affiliates | yes |
-| Categories | Computer & Internet, Education, Online Marketing & E-Business |
+| Categories | Computer & Internet, Online Marketing & E-Business, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -88,14 +88,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Bewirb den ultimativen GEO-Leitfaden. Erhalte 50% Provision? — Typ: E-books, Anbieter: onlinemarketingwoman, gelistet seit 2025-11-04
-- Wie viel kostet es? — 82.549323 USD
+- Wie viel kostet es? — 82.601004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Bewirb den ultimativen GEO-Leitfaden. Erhalte 50% Provision Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/646166
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/646166/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Bewirb%20den%20ultimativen%20GEO-Leitfaden.%20Erhalte%2050%25%20Provision
 
 ## 4. Editorial notes

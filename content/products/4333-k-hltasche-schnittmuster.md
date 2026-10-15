@@ -4,7 +4,7 @@ digistore24_product_id: 27609
 title: "Kühltasche Schnittmuster"
 vendor: "DotsDesigns"
 product_type: "Downloads"
-price: 4.68
+price: 4.69
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 2.35
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft"]
 listed_since: "2014-06-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "http://www.dots-designs.de/kuehltasche-selber-naehen/?aff=adminstore#aff=adminstore"
 sales_page: "http://www.dots-designs.de/kuehltasche-selber-naehen/"
@@ -22,14 +22,14 @@ language: "de"
 # Kühltasche Schnittmuster
 
 > Product ID `4333` · Digistore24 productId `27609` · [HTML profile page](../../produkte/k-hltasche-schnittmuster-4333.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $4.68 (Single payment) |
+| Price | $4.69 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $2.35 |
 | Cart conversion* | — |
@@ -76,14 +76,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Kühltasche Schnittmuster? — Typ: Downloads, Anbieter: DotsDesigns, gelistet seit 2014-06-20
-- Wie viel kostet es? — 4.684839000000001 USD
+- Wie viel kostet es? — 4.687772000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Kühltasche Schnittmuster Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/27609
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/27609/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=K%C3%BChltasche%20Schnittmuster
 
 ## 4. Editorial notes

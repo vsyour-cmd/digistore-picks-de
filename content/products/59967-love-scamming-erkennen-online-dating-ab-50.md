@@ -4,34 +4,34 @@ digistore24_product_id: 738058
 title: "Love-Scamming erkennen – Online-Dating ab 50"
 vendor: "ITServiceMB"
 product_type: "E-books"
-price: 13.48
+price: 13.49
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 6.74
+earnings_per_sale: 6.75
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2026-09-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/59967/adminstore/"
+promo_link: "https://www.kurven-klasse.de/lovescam/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.kurven-klasse.de/lovescam/"
 language: "de"
 ---
 # Love-Scamming erkennen – Online-Dating ab 50
 
 > Product ID `59967` · Digistore24 productId `738058` · [HTML profile page](../../produkte/love-scamming-erkennen-online-dating-ab-50-59967.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $13.48 (Single payment) |
+| Price | $13.49 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $6.74 |
+| Earnings/sale* | $6.75 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ITServiceMB |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59967/adminstore/
+- **Promo link (affiliate):** https://www.kurven-klasse.de/lovescam/?aff=adminstore#aff=adminstore
 - Sales page: https://www.kurven-klasse.de/lovescam/
 - Vendor affiliate support: https://www.kurven-klasse.de/lovescam/affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/738058/adminstore
@@ -80,14 +80,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Love-Scamming erkennen – Online-Dating ab 50? — Typ: E-books, Anbieter: ITServiceMB, gelistet seit 2026-09-27
-- Wie viel kostet es? — 13.484286 USD
+- Wie viel kostet es? — 13.492728000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Love-Scamming erkennen – Online-Dating ab 50 Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/738058
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/738058/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Love-Scamming%20erkennen%20%E2%80%93%20Online-Dating%20ab%2050
 
 ## 4. Editorial notes

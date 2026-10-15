@@ -4,16 +4,16 @@ digistore24_product_id: 671225
 title: "Care4Cats Erste Hilfe und Pflege für Katzen"
 vendor: "aCATemy-Katzenschule-Petra-Ott"
 product_type: "Member area and video courses"
-price: 136.99
+price: 137.08
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 27.39
+earnings_per_sale: 27.41
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Animals & Pets","Education","Family & Children"]
+categories: ["Family & Children","Animals & Pets","Education"]
 listed_since: "2026-08-31"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://acatemy-katzen.app.mentortools.com/acatemy-care4cats-erstehilfe-katzenonlinekurs?aff=adminstore#aff=adminstore"
 sales_page: "https://acatemy-katzen.app.mentortools.com/acatemy-care4cats-erstehilfe-katzenonlinekurs"
@@ -22,22 +22,22 @@ language: "de"
 # Care4Cats Erste Hilfe und Pflege für Katzen
 
 > Product ID `58792` · Digistore24 productId `671225` · [HTML profile page](../../produkte/care4cats-erste-hilfe-und-pflege-f-r-katzen-58792.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $136.99 (Single payment, Installment) |
+| Price | $137.08 (Single payment, Installment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $27.39 |
+| Earnings/sale* | $27.41 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | aCATemy-Katzenschule-Petra-Ott |
 | Listed since | 2026-08-31 |
 | Auto-accept affiliates | yes |
-| Categories | Animals & Pets, Education, Family & Children |
+| Categories | Family & Children, Animals & Pets, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -96,14 +96,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Care4Cats Erste Hilfe und Pflege für Katzen? — Typ: Member area and video courses, Anbieter: aCATemy-Katzenschule-Petra-Ott, gelistet seit 2026-08-31
-- Wie viel kostet es? — 136.989612 USD
+- Wie viel kostet es? — 137.075376 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Care4Cats Erste Hilfe und Pflege für Katzen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/671225
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/671225/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Care4Cats%20Erste%20Hilfe%20und%20Pflege%20f%C3%BCr%20Katzen
 
 ## 4. Editorial notes

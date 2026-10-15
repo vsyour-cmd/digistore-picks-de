@@ -4,16 +4,16 @@ digistore24_product_id: 616962
 title: "Gold Book Bundle"
 vendor: "MoneyCreators"
 product_type: "E-books"
-price: 10.44
+price: 10.45
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 5.22
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Business & Investment","Email Marketing","Online Marketing & E-Business"]
+categories: ["Business & Investment","Online Marketing & E-Business","Email Marketing"]
 listed_since: "2025-06-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
 promo_link: "https://vierstelligimmonat.de/gold-book-bundle?aff=adminstore#aff=adminstore"
 sales_page: "https://vierstelligimmonat.de/gold-book-bundle"
@@ -22,14 +22,14 @@ language: "de"
 # Gold Book Bundle
 
 > Product ID `52824` · Digistore24 productId `616962` · [HTML profile page](../../produkte/gold-book-bundle-52824.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.44 (Single payment) |
+| Price | $10.45 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $5.22 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | MoneyCreators |
 | Listed since | 2025-06-05 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Email Marketing, Online Marketing & E-Business |
+| Categories | Business & Investment, Online Marketing & E-Business, Email Marketing |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -61,14 +61,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Gold Book Bundle? — Typ: E-books, Anbieter: MoneyCreators, gelistet seit 2025-06-05
-- Wie viel kostet es? — 10.443054 USD
+- Wie viel kostet es? — 10.449592 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Gold Book Bundle Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/616962
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/616962/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Gold%20Book%20Bundle
 
 ## 4. Editorial notes

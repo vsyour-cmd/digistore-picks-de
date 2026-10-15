@@ -4,16 +4,16 @@ digistore24_product_id: 427128
 title: "COVID-Impfung Ausleitungs-VIDEO"
 vendor: "gsundsi"
 product_type: "Member area and video courses"
-price: 21.56
+price: 21.57
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 5.13
+earnings_per_sale: 5.14
 cart_conversion_pct: 19
 cancel_rate_pct: 29.62
 categories: ["Health & Fitness","Spiri­tua­lity & Esotericism"]
 listed_since: "2022-01-28"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.michael-koenig-breuss.com/seelensprache-behandlungs-videos/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.michael-koenig-breuss.com/seelensprache-behandlungs-videos/"
@@ -22,16 +22,16 @@ language: "de"
 # COVID-Impfung Ausleitungs-VIDEO
 
 > Product ID `42088` · Digistore24 productId `427128` · [HTML profile page](../../produkte/covid-impfung-ausleitungs-video-42088.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $21.56 (Single payment) |
+| Price | $21.57 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $5.13 |
+| Earnings/sale* | $5.14 |
 | Cart conversion* | 19% |
 | Cancel rate* | 29.62% |
 | Vendor | gsundsi |
@@ -83,14 +83,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist COVID-Impfung Ausleitungs-VIDEO? — Typ: Member area and video courses, Anbieter: gsundsi, gelistet seit 2022-01-28
-- Wie viel kostet es? — 21.556968000000005 USD
+- Wie viel kostet es? — 21.570464 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: COVID-Impfung Ausleitungs-VIDEO Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/427128
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/427128/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=COVID-Impfung%20Ausleitungs-VIDEO
 
 ## 4. Editorial notes

@@ -4,7 +4,7 @@ digistore24_product_id: 423293
 title: "Liköre selber machen - EBook"
 vendor: "alchef12"
 product_type: "E-books"
-price: 8.35
+price: 8.36
 currency: "USD"
 affiliate_commission_pct: 60
 earnings_per_sale: 5.01
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink"]
 listed_since: "2022-01-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://likoere-selber-herstellen.de/likoere-selber-machen-mein-ebook/?aff=adminstore#aff=adminstore"
 sales_page: "https://likoere-selber-herstellen.de/likoere-selber-machen-mein-ebook/"
@@ -22,14 +22,14 @@ language: "de"
 # Liköre selber machen - EBook
 
 > Product ID `38798` · Digistore24 productId `423293` · [HTML profile page](../../produkte/lik-re-selber-machen-ebook-38798.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $8.35 (Single payment) |
+| Price | $8.36 (Single payment) |
 | Affiliate commission | 60% |
 | Earnings/sale* | $5.01 |
 | Cart conversion* | — |
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Liköre selber machen - EBook? — Typ: E-books, Anbieter: alchef12, gelistet seit 2022-01-05
-- Wie viel kostet es? — 8.352207 USD
+- Wie viel kostet es? — 8.357436 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Liköre selber machen - EBook Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/423293
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/423293/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Lik%C3%B6re%20selber%20machen%20-%20EBook
 
 ## 4. Editorial notes

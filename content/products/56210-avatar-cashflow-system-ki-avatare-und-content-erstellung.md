@@ -4,16 +4,16 @@ digistore24_product_id: 680591
 title: "AVATAR CASHFLOW SYSTEM-KI Avatare und Content-Erstellung"
 vendor: "V8HKG20"
 product_type: "Remote service provided electronically"
-price: 432.2
+price: 432.47
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 216.11
+earnings_per_sale: 216.24
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-03-30"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://angel76v.systeme.io/avatar-cashflow-system?aff=adminstore#aff=adminstore"
 sales_page: "https://angel76v.systeme.io/avatar-cashflow-system"
@@ -22,16 +22,16 @@ language: "de"
 # AVATAR CASHFLOW SYSTEM-KI Avatare und Content-Erstellung
 
 > Product ID `56210` · Digistore24 productId `680591` · [HTML profile page](../../produkte/avatar-cashflow-system-ki-avatare-und-content-erstellung-56210.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $432.20 (Single payment, Installment) |
+| Price | $432.47 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $216.11 |
+| Earnings/sale* | $216.24 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | V8HKG20 |
@@ -83,14 +83,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist AVATAR CASHFLOW SYSTEM-KI Avatare und Content-Erstellung? — Typ: Remote service provided electronically, Anbieter: V8HKG20, gelistet seit 2026-03-30
-- Wie viel kostet es? — 432.20155500000004 USD
+- Wie viel kostet es? — 432.47214 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: AVATAR CASHFLOW SYSTEM-KI Avatare und Content-Erstellung Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/680591
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/680591/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=AVATAR%20CASHFLOW%20SYSTEM-KI%20Avatare%20und%20Content-Erstellung
 
 ## 4. Editorial notes

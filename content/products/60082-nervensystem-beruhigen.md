@@ -4,16 +4,16 @@ digistore24_product_id: 739608
 title: "Nervensystem beruhigen"
 vendor: "Book2Book"
 product_type: "Downloads"
-price: 20.11
+price: 20.13
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 12.06
+earnings_per_sale: 12.07
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-10-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/739608?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/739608"
@@ -22,16 +22,16 @@ language: "de"
 # Nervensystem beruhigen
 
 > Product ID `60082` · Digistore24 productId `739608` · [HTML profile page](../../produkte/nervensystem-beruhigen-60082.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $20.11 (Single payment) |
+| Price | $20.13 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $12.06 |
+| Earnings/sale* | $12.07 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Book2Book |
@@ -81,14 +81,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Nervensystem beruhigen? — Typ: Downloads, Anbieter: Book2Book, gelistet seit 2026-10-01
-- Wie viel kostet es? — 20.114619 USD
+- Wie viel kostet es? — 20.127212 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Nervensystem beruhigen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/739608
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/739608/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Nervensystem%20beruhigen
 
 ## 4. Editorial notes

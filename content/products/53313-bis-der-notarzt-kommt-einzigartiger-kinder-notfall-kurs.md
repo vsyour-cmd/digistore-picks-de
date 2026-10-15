@@ -4,40 +4,40 @@ digistore24_product_id: 553233
 title: "Bis der Notarzt kommt - einzigartiger Kinder-Notfall-Kurs"
 vendor: "optandoakademie"
 product_type: "Member area and video courses"
-price: 81.74
+price: 81.8
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 40.88
+earnings_per_sale: 40.9
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Health & Fitness","Survival"]
+categories: ["Health & Fitness","Education","Survival"]
 listed_since: "2024-05-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/53313/adminstore/"
+promo_link: "https://kindernotfaelle.info/notfallkurs-fuer-eltern-und-grosseltern/?aff=adminstore#aff=adminstore"
 sales_page: "https://kindernotfaelle.info/notfallkurs-fuer-eltern-und-grosseltern/"
 language: "de"
 ---
 # Bis der Notarzt kommt - einzigartiger Kinder-Notfall-Kurs
 
 > Product ID `53313` · Digistore24 productId `553233` · [HTML profile page](../../produkte/bis-der-notarzt-kommt-einzigartiger-kinder-notfall-kurs-53313.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $81.74 (Single payment) |
+| Price | $81.80 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $40.88 |
+| Earnings/sale* | $40.90 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | optandoakademie |
 | Listed since | 2024-05-21 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Health & Fitness, Survival |
+| Categories | Health & Fitness, Education, Survival |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/53313/adminstore/
+- **Promo link (affiliate):** https://kindernotfaelle.info/notfallkurs-fuer-eltern-und-grosseltern/?aff=adminstore#aff=adminstore
 - Sales page: https://kindernotfaelle.info/notfallkurs-fuer-eltern-und-grosseltern/
 - Canonical redirect: https://www.digistore24.com/redir/553233/adminstore
 
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Bis der Notarzt kommt - einzigartiger Kinder-Notfall-Kurs? — Typ: Member area and video courses, Anbieter: optandoakademie, gelistet seit 2024-05-21
-- Wie viel kostet es? — 81.744291 USD
+- Wie viel kostet es? — 81.795468 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Bis der Notarzt kommt - einzigartiger Kinder-Notfall-Kurs Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/553233
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/553233/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Bis%20der%20Notarzt%20kommt%20-%20einzigartiger%20Kinder-Notfall-Kurs
 
 ## 4. Editorial notes

@@ -4,34 +4,34 @@ digistore24_product_id: 81835
 title: "14-Tage-Intensiv-Programm - Bis 10 Kg abnehmen in 14 Tagen"
 vendor: "spamenow"
 product_type: "Member area and video courses"
-price: 120.45
+price: 120.53
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 30.74
+earnings_per_sale: 30.76
 cart_conversion_pct: 5
 cancel_rate_pct: 2.08
 categories: ["Health & Fitness"]
 listed_since: "2016-05-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.checkout-ds24.com/redir/23299/adminstore/"
+promo_link: "https://www.14-tage-intensiv-programm.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.14-tage-intensiv-programm.de/"
 language: "de"
 ---
 # 14-Tage-Intensiv-Programm - Bis 10 Kg abnehmen in 14 Tagen
 
 > Product ID `23299` · Digistore24 productId `81835` · [HTML profile page](../../produkte/14-tage-intensiv-programm-bis-10-kg-abnehmen-in-14-tagen-23299.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $120.45 (Single payment) |
+| Price | $120.53 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $30.74 |
+| Earnings/sale* | $30.76 |
 | Cart conversion* | 5% |
 | Cancel rate* | 2.08% |
 | Vendor | spamenow |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/redir/23299/adminstore/
+- **Promo link (affiliate):** https://www.14-tage-intensiv-programm.de/?aff=adminstore#aff=adminstore
 - Sales page: https://www.14-tage-intensiv-programm.de/
 - Vendor affiliate support: https://www.spa-me.de/partnerprogramm/products/14-tage-intensiv-programm/
 - Canonical redirect: https://www.digistore24.com/redir/81835/adminstore
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 14-Tage-Intensiv-Programm - Bis 10 Kg abnehmen in 14 Tagen? — Typ: Member area and video courses, Anbieter: spamenow, gelistet seit 2016-05-23
-- Wie viel kostet es? — 120.45291300000001 USD
+- Wie viel kostet es? — 120.52832400000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 14-Tage-Intensiv-Programm - Bis 10 Kg abnehmen in 14 Tagen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/81835
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/81835/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=14-Tage-Intensiv-Programm%20-%20Bis%2010%20Kg%20abnehmen%20in%2014%20Tagen
 
 ## 4. Editorial notes

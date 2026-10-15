@@ -4,34 +4,34 @@ digistore24_product_id: 500683
 title: "Hörbuchsprecher Ausbildung"
 vendor: "Bloggerherz"
 product_type: "Member area and video courses"
-price: 437.74
+price: 438.01
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 607.42
+earnings_per_sale: 607.8
 cart_conversion_pct: 3
 cancel_rate_pct: 2.65
 categories: ["Services"]
 listed_since: "2023-05-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/31569/adminstore/"
+promo_link: "https://hoerbuchsprecher-werden.onepage.me/?aff=adminstore#aff=adminstore"
 sales_page: "https://hoerbuchsprecher-werden.onepage.me/"
 language: "de"
 ---
 # Hörbuchsprecher Ausbildung
 
 > Product ID `31569` · Digistore24 productId `500683` · [HTML profile page](../../produkte/h-rbuchsprecher-ausbildung-31569.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich (browser-rendered)**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $437.74 (Single payment, Subscription) |
+| Price | $438.01 (Single payment, Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $607.42 |
+| Earnings/sale* | $607.80 |
 | Cart conversion* | 3% |
 | Cancel rate* | 2.65% |
 | Vendor | Bloggerherz |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/31569/adminstore/
+- **Promo link (affiliate):** https://hoerbuchsprecher-werden.onepage.me/?aff=adminstore#aff=adminstore
 - Sales page: https://hoerbuchsprecher-werden.onepage.me/
 - Vendor affiliate support: https://www.freizeitcafe.info/weiterempfehlung
 - Canonical redirect: https://www.digistore24.com/redir/500683/adminstore
@@ -88,14 +88,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Hörbuchsprecher Ausbildung? — Typ: Member area and video courses, Anbieter: Bloggerherz, gelistet seit 2023-05-27
-- Wie viel kostet es? — 437.73615 USD
+- Wie viel kostet es? — 438.0102 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Hörbuchsprecher Ausbildung Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/500683
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/500683/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=H%C3%B6rbuchsprecher%20Ausbildung
 
 ## 4. Editorial notes

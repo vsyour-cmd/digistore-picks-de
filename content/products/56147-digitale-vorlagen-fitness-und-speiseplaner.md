@@ -4,32 +4,32 @@ digistore24_product_id: 680026
 title: "Digitale Vorlagen Fitness und Speiseplaner"
 vendor: "martinakocyigit2025"
 product_type: "Downloads"
-price: 6.57
+price: 6.58
 currency: "USD"
 affiliate_commission_pct: 20
 earnings_per_sale: 1.32
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Food & Drink","Health & Fitness"]
+categories: ["Health & Fitness","Food & Drink"]
 listed_since: "2026-03-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/56147/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/680026?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/680026"
 language: "de"
 ---
 # Digitale Vorlagen Fitness und Speiseplaner
 
 > Product ID `56147` · Digistore24 productId `680026` · [HTML profile page](../../produkte/digitale-vorlagen-fitness-und-speiseplaner-56147.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $6.57 (Single payment) |
+| Price | $6.58 (Single payment) |
 | Affiliate commission | 20% |
 | Earnings/sale* | $1.32 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | martinakocyigit2025 |
 | Listed since | 2026-03-27 |
 | Auto-accept affiliates | yes |
-| Categories | Food & Drink, Health & Fitness |
+| Categories | Health & Fitness, Food & Drink |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56147/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/680026?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/680026
 - Canonical redirect: https://www.digistore24.com/redir/680026/adminstore
 
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Digitale Vorlagen Fitness und Speiseplaner? — Typ: Downloads, Anbieter: martinakocyigit2025, gelistet seit 2026-03-27
-- Wie viel kostet es? — 6.574428 USD
+- Wie viel kostet es? — 6.578544 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Digitale Vorlagen Fitness und Speiseplaner Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/680026
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/680026/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Digitale%20Vorlagen%20Fitness%20und%20Speiseplaner
 
 ## 4. Editorial notes

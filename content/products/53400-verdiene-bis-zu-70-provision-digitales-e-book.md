@@ -4,16 +4,16 @@ digistore24_product_id: 627448
 title: "Verdiene bis zu 70 % Provision – Digitales E-Book"
 vendor: "Pjamagold"
 product_type: "E-books"
-price: 15.68
+price: 15.69
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 10.97
+earnings_per_sale: 10.98
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Online Marketing & E-Business","Social Media"]
 listed_since: "2025-08-02"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/627448?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/627448"
@@ -22,16 +22,16 @@ language: "de"
 # Verdiene bis zu 70 % Provision – Digitales E-Book
 
 > Product ID `53400` · Digistore24 productId `627448` · [HTML profile page](../../produkte/verdiene-bis-zu-70-provision-digitales-e-book-53400.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $15.68 (Single payment) |
+| Price | $15.69 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $10.97 |
+| Earnings/sale* | $10.98 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Pjamagold |
@@ -70,14 +70,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Verdiene bis zu 70 % Provision – Digitales E-Book? — Typ: E-books, Anbieter: Pjamagold, gelistet seit 2025-08-02
-- Wie viel kostet es? — 15.675762 USD
+- Wie viel kostet es? — 15.685576 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Verdiene bis zu 70 % Provision – Digitales E-Book Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/627448
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/627448/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Verdiene%20bis%20zu%2070%20%25%20Provision%20%E2%80%93%20Digitales%20E-Book
 
 ## 4. Editorial notes

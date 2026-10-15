@@ -4,7 +4,7 @@ digistore24_product_id: 732926
 title: "50 Etsy-Nischenideen – Nischen-Kompass mit Matze"
 vendor: "einfachmitmatze"
 product_type: "E-books"
-price: 10.44
+price: 10.45
 currency: "USD"
 affiliate_commission_pct: 40
 earnings_per_sale: 4.18
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-09-19"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://einfachmitmatze.de/etsy/nischen-kompass/?aff=adminstore#aff=adminstore"
 sales_page: "https://einfachmitmatze.de/etsy/nischen-kompass/"
@@ -22,14 +22,14 @@ language: "de"
 # 50 Etsy-Nischenideen – Nischen-Kompass mit Matze
 
 > Product ID `59384` · Digistore24 productId `732926` · [HTML profile page](../../produkte/50-etsy-nischenideen-nischen-kompass-mit-matze-59384.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.44 (Single payment) |
+| Price | $10.45 (Single payment) |
 | Affiliate commission | 40% |
 | Earnings/sale* | $4.18 |
 | Cart conversion* | — |
@@ -74,14 +74,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 50 Etsy-Nischenideen – Nischen-Kompass mit Matze? — Typ: E-books, Anbieter: einfachmitmatze, gelistet seit 2026-09-19
-- Wie viel kostet es? — 10.443054 USD
+- Wie viel kostet es? — 10.449592 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 50 Etsy-Nischenideen – Nischen-Kompass mit Matze Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/732926
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/732926/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=50%20Etsy-Nischenideen%20%E2%80%93%20Nischen-Kompass%20mit%20Matze
 
 ## 4. Editorial notes

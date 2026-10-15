@@ -4,32 +4,32 @@ digistore24_product_id: 88753
 title: "Beziehungsprobleme lösen [E-Book]"
 vendor: "rheinrost"
 product_type: "E-books"
-price: 10.34
+price: 10.35
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 5.18
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Dating, Relationships & Romance","Family & Children","Personal Development"]
+categories: ["Personal Development","Dating, Relationships & Romance","Family & Children"]
 listed_since: "2016-07-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/25601/adminstore/"
+promo_link: "https://www.beziehungsratgeber.net/shop/beziehungsprobleme-loesen/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.beziehungsratgeber.net/shop/beziehungsprobleme-loesen/"
 language: "de"
 ---
 # Beziehungsprobleme lösen [E-Book]
 
 > Product ID `25601` · Digistore24 productId `88753` · [HTML profile page](../../produkte/beziehungsprobleme-l-sen-e-book-25601.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.34 (Single payment) |
+| Price | $10.35 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $5.18 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | rheinrost |
 | Listed since | 2016-07-22 |
 | Auto-accept affiliates | yes |
-| Categories | Dating, Relationships & Romance, Family & Children, Personal Development |
+| Categories | Personal Development, Dating, Relationships & Romance, Family & Children |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/25601/adminstore/
+- **Promo link (affiliate):** https://www.beziehungsratgeber.net/shop/beziehungsprobleme-loesen/?aff=adminstore#aff=adminstore
 - Sales page: https://www.beziehungsratgeber.net/shop/beziehungsprobleme-loesen/
 - Vendor affiliate support: https://www.beziehungsratgeber.net/affiliate-partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/88753/adminstore
@@ -77,14 +77,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Beziehungsprobleme lösen [E-Book]? — Typ: E-books, Anbieter: rheinrost, gelistet seit 2016-07-22
-- Wie viel kostet es? — 10.342425 USD
+- Wie viel kostet es? — 10.3489 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Beziehungsprobleme lösen [E-Book] Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/88753
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/88753/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Beziehungsprobleme%20l%C3%B6sen%20%5BE-Book%5D
 
 ## 4. Editorial notes

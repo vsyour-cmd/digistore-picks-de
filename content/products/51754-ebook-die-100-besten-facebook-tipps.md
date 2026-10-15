@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2025-03-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://michael-kotzur.de/die-100-besten-facebook-tipps?aff=adminstore#aff=adminstore"
 sales_page: "https://michael-kotzur.de/die-100-besten-facebook-tipps"
@@ -22,7 +22,7 @@ language: "de"
 # eBook: Die 100 besten Facebook Tipps
 
 > Product ID `51754` · Digistore24 productId `601917` · [HTML profile page](../../produkte/ebook-die-100-besten-facebook-tipps-51754.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -85,14 +85,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist eBook: Die 100 besten Facebook Tipps? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2025-03-15
-- Wie viel kostet es? — 10.398330000000001 USD
+- Wie viel kostet es? — 10.40484 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: eBook: Die 100 besten Facebook Tipps Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/601917
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/601917/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=eBook%3A%20Die%20100%20besten%20Facebook%20Tipps
 
 ## 4. Editorial notes

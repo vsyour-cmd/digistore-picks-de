@@ -4,40 +4,40 @@ digistore24_product_id: 738218
 title: "Hofgarten-Almanach – Gartenplaner mit Amish-Wissen, offline"
 vendor: "gzaistacks2aae"
 product_type: "Software"
-price: 23.39
+price: 23.41
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 7.02
+earnings_per_sale: 7.03
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Home & Garden","Software"]
+categories: ["Software","Home & Garden"]
 listed_since: "2026-10-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/60181/adminstore/"
+promo_link: "https://www.gz-ai-stacks.de/Hofgarten-Almanach/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.gz-ai-stacks.de/Hofgarten-Almanach/"
 language: "de"
 ---
 # Hofgarten-Almanach – Gartenplaner mit Amish-Wissen, offline
 
 > Product ID `60181` · Digistore24 productId `738218` · [HTML profile page](../../produkte/hofgarten-almanach-gartenplaner-mit-amish-wissen-offline-60181.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $23.39 (Single payment) |
+| Price | $23.41 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $7.02 |
+| Earnings/sale* | $7.03 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | gzaistacks2aae |
 | Listed since | 2026-10-05 |
 | Auto-accept affiliates | yes |
-| Categories | Home & Garden, Software |
+| Categories | Software, Home & Garden |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/60181/adminstore/
+- **Promo link (affiliate):** https://www.gz-ai-stacks.de/Hofgarten-Almanach/?aff=adminstore#aff=adminstore
 - Sales page: https://www.gz-ai-stacks.de/Hofgarten-Almanach/
 - Canonical redirect: https://www.digistore24.com/redir/738218/adminstore
 
@@ -75,14 +75,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Hofgarten-Almanach – Gartenplaner mit Amish-Wissen, offline? — Typ: Software, Anbieter: gzaistacks2aae, gelistet seit 2026-10-05
-- Wie viel kostet es? — 23.390652000000003 USD
+- Wie viel kostet es? — 23.405296000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Hofgarten-Almanach – Gartenplaner mit Amish-Wissen, offline Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/738218
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/738218/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Hofgarten-Almanach%20%E2%80%93%20Gartenplaner%20mit%20Amish-Wissen%2C%20offline
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 22771
 title: "Der Glücksnavigator"
 vendor: "Erfolg-Intuitiv"
 product_type: "Downloads"
-price: 6.94
+price: 6.95
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 26.6
+earnings_per_sale: 26.62
 cart_conversion_pct: 20
 cancel_rate_pct: 6.43
 categories: ["Personal Development"]
 listed_since: "2014-03-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://erfolg-intuitiv.de/gluecksnavigator-online-seminar/?aff=adminstore#aff=adminstore"
 sales_page: "https://erfolg-intuitiv.de/gluecksnavigator-online-seminar/"
@@ -22,16 +22,16 @@ language: "de"
 # Der Glücksnavigator
 
 > Product ID `2699` · Digistore24 productId `22771` · [HTML profile page](../../produkte/der-gl-cksnavigator-2699.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $6.94 (Single payment, Installment) |
+| Price | $6.95 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $26.60 |
+| Earnings/sale* | $26.62 |
 | Cart conversion* | 20% |
 | Cancel rate* | 6.43% |
 | Vendor | Erfolg-Intuitiv |
@@ -91,14 +91,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Glücksnavigator? — Typ: Downloads, Anbieter: Erfolg-Intuitiv, gelistet seit 2014-03-18
-- Wie viel kostet es? — 6.943401000000001 USD
+- Wie viel kostet es? — 6.947748 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Der Glücksnavigator Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/22771
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/22771/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%20Gl%C3%BCcksnavigator
 
 ## 4. Editorial notes

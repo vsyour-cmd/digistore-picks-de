@@ -4,7 +4,7 @@ digistore24_product_id: 604298
 title: "Von Null auf Krypto: Dein Weg in die Welt der digitalen Währ"
 vendor: "geldhuepfer"
 product_type: "E-books"
-price: 17.76
+price: 17.77
 currency: "USD"
 affiliate_commission_pct: 60
 earnings_per_sale: 10.66
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Computer & Internet","Education"]
 listed_since: "2025-03-28"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/51873/adminstore/"
+promo_link: "https://www.digistore24.com/product/604298?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/604298"
 language: "de"
 ---
 # Von Null auf Krypto: Dein Weg in die Welt der digitalen Währ
 
 > Product ID `51873` · Digistore24 productId `604298` · [HTML profile page](../../produkte/von-null-auf-krypto-dein-weg-in-die-welt-der-digitalen-w-hr-51873.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $17.76 (Single payment) |
+| Price | $17.77 (Single payment) |
 | Affiliate commission | 60% |
 | Earnings/sale* | $10.66 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/51873/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/604298?aff=adminstore
 - Sales page: https://www.digistore24.com/product/604298
 - Vendor affiliate support: https://geldhuepfer.de/affiliate-support-seite-von-null-auf-krypto-dein-weg-in-die-welt-der-digitalen-waehrungen-digi
 - Canonical redirect: https://www.digistore24.com/redir/604298/adminstore
@@ -70,14 +70,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Von Null auf Krypto: Dein Weg in die Welt der digitalen Währ? — Typ: E-books, Anbieter: geldhuepfer, gelistet seit 2025-03-28
-- Wie viel kostet es? — 17.755428000000002 USD
+- Wie viel kostet es? — 17.766544 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Von Null auf Krypto: Dein Weg in die Welt der digitalen Währ Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/604298
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/604298/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Von%20Null%20auf%20Krypto%3A%20Dein%20Weg%20in%20die%20Welt%20der%20digitalen%20W%C3%A4hr
 
 ## 4. Editorial notes

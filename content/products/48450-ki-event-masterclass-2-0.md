@@ -4,16 +4,16 @@ digistore24_product_id: 555162
 title: "KI EVENT MASTERCLASS 2.0"
 vendor: "KESCHAcademy"
 product_type: "Member area and video courses"
-price: 280.93
+price: 281.11
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 196.65
+earnings_per_sale: 196.77
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Profession & Job"]
+categories: ["Profession & Job","Education"]
 listed_since: "2024-06-03"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/555162?voucher=STARTKI99&voucher_not_locked&aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/555162?voucher=STARTKI99&voucher_not_locked"
@@ -22,22 +22,22 @@ language: "de"
 # KI EVENT MASTERCLASS 2.0
 
 > Product ID `48450` · Digistore24 productId `555162` · [HTML profile page](../../produkte/ki-event-masterclass-2-0-48450.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $280.93 (Single payment) |
+| Price | $281.11 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $196.65 |
+| Earnings/sale* | $196.77 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | KESCHAcademy |
 | Listed since | 2024-06-03 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Profession & Job |
+| Categories | Profession & Job, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -80,14 +80,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI EVENT MASTERCLASS 2.0? — Typ: Member area and video courses, Anbieter: KESCHAcademy, gelistet seit 2024-06-03
-- Wie viel kostet es? — 280.933806 USD
+- Wie viel kostet es? — 281.109688 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: KI EVENT MASTERCLASS 2.0 Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/555162
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/555162/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=KI%20EVENT%20MASTERCLASS%202.0
 
 ## 4. Editorial notes

@@ -4,34 +4,34 @@ digistore24_product_id: 641368
 title: "Das Goldgräber Prinzip"
 vendor: "seotech"
 product_type: "Member area and video courses"
-price: 87.21
+price: 87.27
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 74.43
+earnings_per_sale: 74.48
 cart_conversion_pct: 10
 cancel_rate_pct: 0.75
 categories: ["Business & Investment","Computer & Internet","Online Marketing & E-Business"]
 listed_since: "2025-10-14"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/55699/adminstore/"
+promo_link: "https://go.eugen-grinschuk.de/gold/?aff=adminstore#aff=adminstore"
 sales_page: "https://go.eugen-grinschuk.de/gold/"
 language: "de"
 ---
 # Das Goldgräber Prinzip
 
 > Product ID `55699` · Digistore24 productId `641368` · [HTML profile page](../../produkte/das-goldgr-ber-prinzip-55699.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $87.21 (Single payment, Installment) |
+| Price | $87.27 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $74.43 |
+| Earnings/sale* | $74.48 |
 | Cart conversion* | 10% |
 | Cancel rate* | 0.75% |
 | Vendor | seotech |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55699/adminstore/
+- **Promo link (affiliate):** https://go.eugen-grinschuk.de/gold/?aff=adminstore#aff=adminstore
 - Sales page: https://go.eugen-grinschuk.de/gold/
 - Canonical redirect: https://www.digistore24.com/redir/641368/adminstore
 
@@ -66,14 +66,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Goldgräber Prinzip? — Typ: Member area and video courses, Anbieter: seotech, gelistet seit 2025-10-14
-- Wie viel kostet es? — 87.21180000000001 USD
+- Wie viel kostet es? — 87.2664 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Das Goldgräber Prinzip Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/641368
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/641368/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Das%20Goldgr%C3%A4ber%20Prinzip
 
 ## 4. Editorial notes

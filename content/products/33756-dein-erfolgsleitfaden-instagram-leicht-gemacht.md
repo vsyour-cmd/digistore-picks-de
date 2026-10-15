@@ -4,7 +4,7 @@ digistore24_product_id: 341390
 title: "Dein Erfolgsleitfaden - Instagram leicht gemacht"
 vendor: "TanjaV"
 product_type: "Member area and video courses"
-price: 28.53
+price: 28.55
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 3.98
@@ -12,8 +12,8 @@ cart_conversion_pct: 29
 cancel_rate_pct: 1.5
 categories: ["Profession & Job"]
 listed_since: "2020-08-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://www.ts-onlinemedia.de/dein-erfolgsleitfaden-lp/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.ts-onlinemedia.de/dein-erfolgsleitfaden-lp/"
@@ -22,14 +22,14 @@ language: "de"
 # Dein Erfolgsleitfaden - Instagram leicht gemacht
 
 > Product ID `33756` · Digistore24 productId `341390` · [HTML profile page](../../produkte/dein-erfolgsleitfaden-instagram-leicht-gemacht-33756.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $28.53 (Single payment) |
+| Price | $28.55 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $3.98 |
 | Cart conversion* | 29% |
@@ -59,14 +59,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Dein Erfolgsleitfaden - Instagram leicht gemacht? — Typ: Member area and video courses, Anbieter: TanjaV, gelistet seit 2020-08-17
-- Wie viel kostet es? — 28.533912 USD
+- Wie viel kostet es? — 28.551776 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Dein Erfolgsleitfaden - Instagram leicht gemacht Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/341390
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/341390/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Dein%20Erfolgsleitfaden%20-%20Instagram%20leicht%20gemacht
 
 ## 4. Editorial notes

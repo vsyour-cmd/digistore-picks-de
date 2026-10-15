@@ -4,34 +4,34 @@ digistore24_product_id: 729732
 title: "Dein nächster Schritt - Bewerbung und Karrierewechsel"
 vendor: "mlangbein51cce0"
 product_type: "E-books"
-price: 28.21
+price: 28.23
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 14.11
+earnings_per_sale: 14.12
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Profession & Job","Leadership & Management"]
 listed_since: "2026-09-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/58913/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/729732?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/729732"
 language: "de"
 ---
 # Dein nächster Schritt - Bewerbung und Karrierewechsel
 
 > Product ID `58913` · Digistore24 productId `729732` · [HTML profile page](../../produkte/dein-n-chster-schritt-bewerbung-und-karrierewechsel-58913.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $28.21 (Single payment) |
+| Price | $28.23 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $14.11 |
+| Earnings/sale* | $14.12 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | mlangbein51cce0 |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58913/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/729732?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/729732
 - Canonical redirect: https://www.digistore24.com/redir/729732/adminstore
 
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Dein nächster Schritt - Bewerbung und Karrierewechsel? — Typ: E-books, Anbieter: mlangbein51cce0, gelistet seit 2026-09-04
-- Wie viel kostet es? — 28.209663000000003 USD
+- Wie viel kostet es? — 28.227324 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Dein nächster Schritt - Bewerbung und Karrierewechsel Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/729732
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/729732/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Dein%20n%C3%A4chster%20Schritt%20-%20Bewerbung%20und%20Karrierewechsel
 
 ## 4. Editorial notes

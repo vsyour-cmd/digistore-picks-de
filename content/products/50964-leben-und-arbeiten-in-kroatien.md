@@ -4,16 +4,16 @@ digistore24_product_id: 590371
 title: "Leben und Arbeiten in Kroatien"
 vendor: "medienversand2014"
 product_type: "E-books"
-price: 28.21
+price: 28.23
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 14.11
+earnings_per_sale: 14.12
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Travel & Culture"]
 listed_since: "2025-01-14"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://noebauerfxj.wixsite.com/leben-kroatien?aff=adminstore#aff=adminstore"
 sales_page: "https://noebauerfxj.wixsite.com/leben-kroatien"
@@ -22,16 +22,16 @@ language: "de"
 # Leben und Arbeiten in Kroatien
 
 > Product ID `50964` · Digistore24 productId `590371` · [HTML profile page](../../produkte/leben-und-arbeiten-in-kroatien-50964.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $28.21 (Single payment) |
+| Price | $28.23 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $14.11 |
+| Earnings/sale* | $14.12 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | medienversand2014 |
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Leben und Arbeiten in Kroatien? — Typ: E-books, Anbieter: medienversand2014, gelistet seit 2025-01-14
-- Wie viel kostet es? — 28.209663000000003 USD
+- Wie viel kostet es? — 28.227324 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Leben und Arbeiten in Kroatien Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/590371
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/590371/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Leben%20und%20Arbeiten%20in%20Kroatien
 
 ## 4. Editorial notes

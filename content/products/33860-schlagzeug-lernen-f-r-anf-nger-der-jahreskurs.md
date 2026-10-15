@@ -4,16 +4,16 @@ digistore24_product_id: 330335
 title: "Schlagzeug lernen für Anfänger - der Jahreskurs"
 vendor: "RudiHein"
 product_type: "Member area and video courses"
-price: 281.87
+price: 282.05
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 84.56
+earnings_per_sale: 84.61
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dancing & Music"]
 listed_since: "2020-06-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://schlagzeugunterricht-online.coachy.net/lp/schlagzeug-kompakt/?aff=adminstore#aff=adminstore"
 sales_page: "https://schlagzeugunterricht-online.coachy.net/lp/schlagzeug-kompakt/"
@@ -22,16 +22,16 @@ language: "de"
 # Schlagzeug lernen für Anfänger - der Jahreskurs
 
 > Product ID `33860` · Digistore24 productId `330335` · [HTML profile page](../../produkte/schlagzeug-lernen-f-r-anf-nger-der-jahreskurs-33860.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $281.87 (Single payment, Subscription, Installment) |
+| Price | $282.05 (Single payment, Subscription, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $84.56 |
+| Earnings/sale* | $84.61 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | RudiHein |
@@ -107,14 +107,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Schlagzeug lernen für Anfänger - der Jahreskurs? — Typ: Member area and video courses, Anbieter: RudiHein, gelistet seit 2020-06-06
-- Wie viel kostet es? — 281.87301 USD
+- Wie viel kostet es? — 282.04948 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Schlagzeug lernen für Anfänger - der Jahreskurs Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/330335
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/330335/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Schlagzeug%20lernen%20f%C3%BCr%20Anf%C3%A4nger%20-%20der%20Jahreskurs
 
 ## 4. Editorial notes

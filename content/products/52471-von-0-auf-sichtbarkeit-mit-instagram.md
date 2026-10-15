@@ -4,34 +4,34 @@ digistore24_product_id: 608751
 title: "von 0 auf Sichtbarkeit - mit Instagram"
 vendor: "AnneWuensche"
 product_type: "Member area and video courses"
-price: 45.86
+price: 45.89
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 11.73
+earnings_per_sale: 11.74
 cart_conversion_pct: 2
 cancel_rate_pct: 3.64
 categories: ["Online Marketing & E-Business"]
 listed_since: "2025-04-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/52471/adminstore/"
+promo_link: "https://www.digistore24.com/product/608751?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/608751"
 language: "de"
 ---
 # von 0 auf Sichtbarkeit - mit Instagram
 
 > Product ID `52471` · Digistore24 productId `608751` · [HTML profile page](../../produkte/von-0-auf-sichtbarkeit-mit-instagram-52471.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $45.86 (Single payment) |
+| Price | $45.89 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $11.73 |
+| Earnings/sale* | $11.74 |
 | Cart conversion* | 2% |
 | Cancel rate* | 3.64% |
 | Vendor | AnneWuensche |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/52471/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/608751?aff=adminstore
 - Sales page: https://www.digistore24.com/product/608751
 - Canonical redirect: https://www.digistore24.com/redir/608751/adminstore
 
@@ -78,14 +78,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist von 0 auf Sichtbarkeit - mit Instagram? — Typ: Member area and video courses, Anbieter: AnneWuensche, gelistet seit 2025-04-22
-- Wie viel kostet es? — 45.86446200000001 USD
+- Wie viel kostet es? — 45.893176000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: von 0 auf Sichtbarkeit - mit Instagram Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/608751
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/608751/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=von%200%20auf%20Sichtbarkeit%20-%20mit%20Instagram
 
 ## 4. Editorial notes

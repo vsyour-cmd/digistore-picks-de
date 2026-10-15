@@ -4,40 +4,40 @@ digistore24_product_id: 722497
 title: "CloverQMS – ISO-9001-Software für KMU, 25 % Provision"
 vendor: "hihdigital"
 product_type: "Software"
-price: 278.41
+price: 278.58
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 69.6
+earnings_per_sale: 69.65
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: []
+categories: ["Software","Computer & Internet","Project Management"]
 listed_since: "2026-08-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/58623/adminstore/"
+promo_link: "https://cloverqms.com/order.html?aff=adminstore#aff=adminstore"
 sales_page: "https://cloverqms.com/order.html"
 language: "de"
 ---
 # CloverQMS – ISO-9001-Software für KMU, 25 % Provision
 
 > Product ID `58623` · Digistore24 productId `722497` · [HTML profile page](../../produkte/cloverqms-iso-9001-software-f-r-kmu-25-provision-58623.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $278.41 (Subscription) |
+| Price | $278.58 (Subscription) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $69.60 |
+| Earnings/sale* | $69.65 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | hihdigital |
 | Listed since | 2026-08-24 |
 | Auto-accept affiliates | yes |
-| Categories | Uncategorized |
+| Categories | Software, Computer & Internet, Project Management |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58623/adminstore/
+- **Promo link (affiliate):** https://cloverqms.com/order.html?aff=adminstore#aff=adminstore
 - Sales page: https://cloverqms.com/order.html
 - Vendor affiliate support: https://hih-digital.com/affiliates/cloverqms.html
 - Canonical redirect: https://www.digistore24.com/redir/722497/adminstore
@@ -83,14 +83,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist CloverQMS – ISO-9001-Software für KMU, 25 % Provision? — Typ: Software, Anbieter: hihdigital, gelistet seit 2026-08-24
-- Wie viel kostet es? — 278.4069 USD
+- Wie viel kostet es? — 278.5812 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: CloverQMS – ISO-9001-Software für KMU, 25 % Provision Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/722497
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/722497/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=CloverQMS%20%E2%80%93%20ISO-9001-Software%20f%C3%BCr%20KMU%2C%2025%20%25%20Provision
 
 ## 4. Editorial notes

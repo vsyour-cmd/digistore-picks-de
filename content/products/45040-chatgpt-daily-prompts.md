@@ -4,7 +4,7 @@ digistore24_product_id: 495580
 title: "ChatGPT - Daily Prompts"
 vendor: "sattelitevendor"
 product_type: "Remote service provided electronically"
-price: 224.08
+price: 224.22
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 6.33
@@ -12,8 +12,8 @@ cart_conversion_pct: 8
 cancel_rate_pct: 2.13
 categories: ["Online Marketing & E-Business","Profession & Job","Online Marketing"]
 listed_since: "2023-04-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://www.aiinzider.com/daily-prompts/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.aiinzider.com/daily-prompts/"
@@ -22,14 +22,14 @@ language: "de"
 # ChatGPT - Daily Prompts
 
 > Product ID `45040` · Digistore24 productId `495580` · [HTML profile page](../../produkte/chatgpt-daily-prompts-45040.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $224.08 (Single payment) |
+| Price | $224.22 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $6.33 |
 | Cart conversion* | 8% |
@@ -59,14 +59,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist ChatGPT - Daily Prompts? — Typ: Remote service provided electronically, Anbieter: sattelitevendor, gelistet seit 2023-04-22
-- Wie viel kostet es? — 224.07842100000002 USD
+- Wie viel kostet es? — 224.218708 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: ChatGPT - Daily Prompts Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/495580
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/495580/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=ChatGPT%20-%20Daily%20Prompts
 
 ## 4. Editorial notes

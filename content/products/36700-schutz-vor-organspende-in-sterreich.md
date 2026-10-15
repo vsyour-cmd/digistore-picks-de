@@ -4,16 +4,16 @@ digistore24_product_id: 357627
 title: "Schutz vor Organspende in Österreich"
 vendor: "Organia"
 product_type: "Deliverable"
-price: 25.46
+price: 25.48
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 4.47
+earnings_per_sale: 4.48
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2020-11-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.organspende-ablehnen.at/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.organspende-ablehnen.at/"
@@ -22,16 +22,16 @@ language: "de"
 # Schutz vor Organspende in Österreich
 
 > Product ID `36700` · Digistore24 productId `357627` · [HTML profile page](../../produkte/schutz-vor-organspende-in-sterreich-36700.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Deliverable |
-| Price | $25.46 (Single payment) |
+| Price | $25.48 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $4.47 |
+| Earnings/sale* | $4.48 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Organia |
@@ -72,14 +72,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Schutz vor Organspende in Österreich? — Typ: Deliverable, Anbieter: Organia, gelistet seit 2020-11-15
-- Wie viel kostet es? — 25.459137000000002 USD
+- Wie viel kostet es? — 25.475076 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Schutz vor Organspende in Österreich Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/357627
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/357627/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Schutz%20vor%20Organspende%20in%20%C3%96sterreich
 
 ## 4. Editorial notes

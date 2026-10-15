@@ -4,40 +4,40 @@ digistore24_product_id: 681025
 title: "Trauma- und Nervensystem-Coach – Live-Weiterbildung für Coaches und Fachpersonen"
 vendor: "Neurotraining_Akademie"
 product_type: "Online coaching"
-price: 3097.8
+price: 3099.74
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 309.78
+earnings_per_sale: 309.97
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Profession & Job","Personal Development"]
+categories: ["Personal Development","Profession & Job","Education"]
 listed_since: "2026-10-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/60089/adminstore/"
+promo_link: "https://neurotraining-akademie.de/trauma-programm?aff=adminstore#aff=adminstore"
 sales_page: "https://neurotraining-akademie.de/trauma-programm"
 language: "de"
 ---
 # Trauma- und Nervensystem-Coach – Live-Weiterbildung für Coaches und Fachpersonen
 
 > Product ID `60089` · Digistore24 productId `681025` · [HTML profile page](../../produkte/trauma-und-nervensystem-coach-live-weiterbildung-f-r-coaches-und-fachpersonen-60089.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $3097.80 (Single payment, Installment) |
+| Price | $3099.74 (Single payment, Installment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $309.78 |
+| Earnings/sale* | $309.97 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Neurotraining_Akademie |
 | Listed since | 2026-10-01 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Profession & Job, Personal Development |
+| Categories | Personal Development, Profession & Job, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/60089/adminstore/
+- **Promo link (affiliate):** https://neurotraining-akademie.de/trauma-programm?aff=adminstore#aff=adminstore
 - Sales page: https://neurotraining-akademie.de/trauma-programm
 - Vendor affiliate support: https://neurotraining-akademie.de/partnerprogramm
 - Canonical redirect: https://www.digistore24.com/redir/681025/adminstore
@@ -90,14 +90,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Trauma- und Nervensystem-Coach – Live-Weiterbildung für Coaches und Fachpersonen? — Typ: Online coaching, Anbieter: Neurotraining_Akademie, gelistet seit 2026-10-01
-- Wie viel kostet es? — 3097.7966790000005 USD
+- Wie viel kostet es? — 3099.736092 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Trauma- und Nervensystem-Coach – Live-Weiterbildung für Coaches und Fachpersonen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/681025
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/681025/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Trauma-%20und%20Nervensystem-Coach%20%E2%80%93%20Live-Weiterbildung%20f%C3%BCr%20Coaches%20und%20Fachpersonen
 
 ## 4. Editorial notes

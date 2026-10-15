@@ -4,16 +4,16 @@ digistore24_product_id: 730681
 title: "Wenn der Kopf anders tickt"
 vendor: "mlangbein51cce0"
 product_type: "E-books"
-price: 37.61
+price: 37.64
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 18.81
+earnings_per_sale: 18.82
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Personal Development","Leadership & Management"]
+categories: ["Personal Development","Education","Leadership & Management"]
 listed_since: "2026-09-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/730681?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/730681"
@@ -22,22 +22,22 @@ language: "de"
 # Wenn der Kopf anders tickt
 
 > Product ID `58986` · Digistore24 productId `730681` · [HTML profile page](../../produkte/wenn-der-kopf-anders-tickt-58986.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $37.61 (Single payment) |
+| Price | $37.64 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $18.81 |
+| Earnings/sale* | $18.82 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | mlangbein51cce0 |
 | Listed since | 2026-09-07 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Personal Development, Leadership & Management |
+| Categories | Personal Development, Education, Leadership & Management |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Wenn der Kopf anders tickt? — Typ: E-books, Anbieter: mlangbein51cce0, gelistet seit 2026-09-07
-- Wie viel kostet es? — 37.612884 USD
+- Wie viel kostet es? — 37.636432 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Wenn der Kopf anders tickt Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/730681
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/730681/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Wenn%20der%20Kopf%20anders%20tickt
 
 ## 4. Editorial notes

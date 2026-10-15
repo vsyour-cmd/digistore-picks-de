@@ -4,16 +4,16 @@ digistore24_product_id: 719640
 title: "KI-App Masterclass (Videokurs)"
 vendor: "worldxpb"
 product_type: "Downloads"
-price: 93.95
+price: 94.01
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 23.49
+earnings_per_sale: 23.51
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Marketing Services"]
 listed_since: "2026-08-11"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/719640?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/719640"
@@ -22,16 +22,16 @@ language: "de"
 # KI-App Masterclass (Videokurs)
 
 > Product ID `58284` · Digistore24 productId `719640` · [HTML profile page](../../produkte/ki-app-masterclass-videokurs-58284.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $93.95 (Single payment) |
+| Price | $94.01 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $23.49 |
+| Earnings/sale* | $23.51 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | worldxpb |
@@ -81,14 +81,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI-App Masterclass (Videokurs)? — Typ: Downloads, Anbieter: worldxpb, gelistet seit 2026-08-11
-- Wie viel kostet es? — 93.95394300000001 USD
+- Wie viel kostet es? — 94.012764 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: KI-App Masterclass (Videokurs) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/719640
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/719640/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=KI-App%20Masterclass%20(Videokurs)
 
 ## 4. Editorial notes

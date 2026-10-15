@@ -4,16 +4,16 @@ digistore24_product_id: 267630
 title: "DER KOSTENLOSE AUTOIMMUNKONGRESS"
 vendor: "autoimmunportal"
 product_type: "Member area and video courses"
-price: 53.56
+price: 53.59
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 26.78
+earnings_per_sale: 26.8
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2019-04-11"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://akademie.medumio.de/autoimmunkongress/wissenspaket/?aff=adminstore#aff=adminstore"
 sales_page: "https://akademie.medumio.de/autoimmunkongress/wissenspaket/"
@@ -22,16 +22,16 @@ language: "de"
 # DER KOSTENLOSE AUTOIMMUNKONGRESS
 
 > Product ID `29814` · Digistore24 productId `267630` · [HTML profile page](../../produkte/der-kostenlose-autoimmunkongress-29814.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $53.56 (Single payment, Installment) |
+| Price | $53.59 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $26.78 |
+| Earnings/sale* | $26.80 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | autoimmunportal |
@@ -105,14 +105,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist DER KOSTENLOSE AUTOIMMUNKONGRESS? — Typ: Member area and video courses, Anbieter: autoimmunportal, gelistet seit 2019-04-11
-- Wie viel kostet es? — 53.556990000000006 USD
+- Wie viel kostet es? — 53.59052 USD
 - Garantie? — 30
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: DER KOSTENLOSE AUTOIMMUNKONGRESS Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/267630
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/267630/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=DER%20KOSTENLOSE%20AUTOIMMUNKONGRESS
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 728740
 title: "30 Tage Achtsamkeit – Workbook inkl. 50 Achtsamkeitskarten"
 vendor: "jaqui19926004"
 product_type: "Downloads"
-price: 28.14
+price: 28.16
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 11.26
+earnings_per_sale: 11.27
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-09-02"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
 promo_link: "https://ki-richtig-nutzen.my.canva.site/30-tage-achtsamkeit-workbook-inkl-50-achtsamkeitskarten?aff=adminstore#aff=adminstore"
 sales_page: "https://ki-richtig-nutzen.my.canva.site/30-tage-achtsamkeit-workbook-inkl-50-achtsamkeitskarten"
@@ -22,16 +22,16 @@ language: "de"
 # 30 Tage Achtsamkeit – Workbook inkl. 50 Achtsamkeitskarten
 
 > Product ID `58867` · Digistore24 productId `728740` · [HTML profile page](../../produkte/30-tage-achtsamkeit-workbook-inkl-50-achtsamkeitskarten-58867.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $28.14 (Single payment) |
+| Price | $28.16 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $11.26 |
+| Earnings/sale* | $11.27 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | jaqui19926004 |
@@ -60,14 +60,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 30 Tage Achtsamkeit – Workbook inkl. 50 Achtsamkeitskarten? — Typ: Downloads, Anbieter: jaqui19926004, gelistet seit 2026-09-02
-- Wie viel kostet es? — 28.142577000000003 USD
+- Wie viel kostet es? — 28.160196000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 30 Tage Achtsamkeit – Workbook inkl. 50 Achtsamkeitskarten Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/728740
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/728740/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=30%20Tage%20Achtsamkeit%20%E2%80%93%20Workbook%20inkl.%2050%20Achtsamkeitskarten
 
 ## 4. Editorial notes

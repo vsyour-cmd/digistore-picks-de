@@ -4,16 +4,16 @@ digistore24_product_id: 680128
 title: "KI Website Vorlage in 2 Minuten mit WordPress Kurs"
 vendor: "cronema"
 product_type: "Software"
-price: 25.37
+price: 25.39
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 7.61
+earnings_per_sale: 7.62
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Computer & Internet","Online Marketing & E-Business","Software"]
+categories: ["Software","Computer & Internet","Online Marketing & E-Business"]
 listed_since: "2026-03-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://templateflow.app/?aff=adminstore#aff=adminstore"
 sales_page: "https://templateflow.app/"
@@ -22,22 +22,22 @@ language: "de"
 # KI Website Vorlage in 2 Minuten mit WordPress Kurs
 
 > Product ID `56108` · Digistore24 productId `680128` · [HTML profile page](../../produkte/ki-website-vorlage-in-2-minuten-mit-wordpress-kurs-56108.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $25.37 (Subscription) |
+| Price | $25.39 (Subscription) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $7.61 |
+| Earnings/sale* | $7.62 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | cronema |
 | Listed since | 2026-03-27 |
 | Auto-accept affiliates | yes |
-| Categories | Computer & Internet, Online Marketing & E-Business, Software |
+| Categories | Software, Computer & Internet, Online Marketing & E-Business |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -58,14 +58,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI Website Vorlage in 2 Minuten mit WordPress Kurs? — Typ: Software, Anbieter: cronema, gelistet seit 2026-03-27
-- Wie viel kostet es? — 25.369689000000005 USD
+- Wie viel kostet es? — 25.385572000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: KI Website Vorlage in 2 Minuten mit WordPress Kurs Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/680128
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/680128/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=KI%20Website%20Vorlage%20in%202%20Minuten%20mit%20WordPress%20Kurs
 
 ## 4. Editorial notes

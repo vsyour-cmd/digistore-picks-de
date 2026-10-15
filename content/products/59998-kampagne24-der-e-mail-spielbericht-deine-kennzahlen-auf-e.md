@@ -4,16 +4,16 @@ digistore24_product_id: 729177
 title: "Kampagne24 - Der E-Mail-Spielbericht: Deine Kennzahlen auf e"
 vendor: "carstenfeuerbach"
 product_type: "Member area and video courses"
-price: 41.37
+price: 41.4
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 20.68
+earnings_per_sale: 20.7
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Email Marketing","Online Marketing & E-Business","Online Marketing"]
+categories: ["Online Marketing & E-Business","Email Marketing","Online Marketing"]
 listed_since: "2026-09-28"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://kampagne24.com/sales-spielbericht?aff=adminstore#aff=adminstore"
 sales_page: "https://kampagne24.com/sales-spielbericht"
@@ -22,22 +22,22 @@ language: "de"
 # Kampagne24 - Der E-Mail-Spielbericht: Deine Kennzahlen auf e
 
 > Product ID `59998` · Digistore24 productId `729177` · [HTML profile page](../../produkte/kampagne24-der-e-mail-spielbericht-deine-kennzahlen-auf-e-59998.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $41.37 (Single payment) |
+| Price | $41.40 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $20.68 |
+| Earnings/sale* | $20.70 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | carstenfeuerbach |
 | Listed since | 2026-09-28 |
 | Auto-accept affiliates | yes |
-| Categories | Email Marketing, Online Marketing & E-Business, Online Marketing |
+| Categories | Online Marketing & E-Business, Email Marketing, Online Marketing |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -84,14 +84,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Kampagne24 - Der E-Mail-Spielbericht: Deine Kennzahlen auf e? — Typ: Member area and video courses, Anbieter: carstenfeuerbach, gelistet seit 2026-09-28
-- Wie viel kostet es? — 41.3697 USD
+- Wie viel kostet es? — 41.3956 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Kampagne24 - Der E-Mail-Spielbericht: Deine Kennzahlen auf e Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/729177
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/729177/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Kampagne24%20-%20Der%20E-Mail-Spielbericht%3A%20Deine%20Kennzahlen%20auf%20e
 
 ## 4. Editorial notes

@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Services"]
 listed_since: "2025-10-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://holistic-life.coachy.net/lp/1-1-coaching-brilliant/?aff=adminstore#aff=adminstore"
 sales_page: "https://holistic-life.coachy.net/lp/1-1-coaching-brilliant/"
@@ -22,7 +22,7 @@ language: "de"
 # 1:1 Coaching / NeuroZen® Mentoring Paket "BRILLIANT"
 
 > Product ID `55036` · Digistore24 productId `643829` · [HTML profile page](../../produkte/1-1-coaching-neurozen-mentoring-paket-brilliant-55036.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium (browser-rendered)**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -118,7 +118,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 1:1 Coaching / NeuroZen® Mentoring Paket "BRILLIANT" Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/643829
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/643829/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=1%3A1%20Coaching%20%2F%20NeuroZen%C2%AE%20Mentoring%20Paket%20%22BRILLIANT%22
 
 ## 4. Editorial notes

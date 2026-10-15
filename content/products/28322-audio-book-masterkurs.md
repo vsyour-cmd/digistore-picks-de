@@ -4,16 +4,16 @@ digistore24_product_id: 263299
 title: "Audio Book Masterkurs"
 vendor: "seotech"
 product_type: "Member area and video courses"
-price: 374.93
+price: 375.17
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 187.47
+earnings_per_sale: 187.59
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2019-03-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://lp.incomebutler.com/audio-book-masterkurs-vk-lp?aff=adminstore#aff=adminstore"
 sales_page: "https://lp.incomebutler.com/audio-book-masterkurs-vk-lp"
@@ -22,16 +22,16 @@ language: "de"
 # Audio Book Masterkurs
 
 > Product ID `28322` · Digistore24 productId `263299` · [HTML profile page](../../produkte/audio-book-masterkurs-28322.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $374.93 (Single payment, Installment) |
+| Price | $375.17 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $187.47 |
+| Earnings/sale* | $187.59 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | seotech |
@@ -77,14 +77,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Audio Book Masterkurs? — Typ: Member area and video courses, Anbieter: seotech, gelistet seit 2019-03-08
-- Wie viel kostet es? — 374.932473 USD
+- Wie viel kostet es? — 375.16720399999997 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Audio Book Masterkurs Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/263299
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/263299/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Audio%20Book%20Masterkurs
 
 ## 4. Editorial notes

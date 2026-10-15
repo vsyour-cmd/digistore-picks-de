@@ -4,16 +4,16 @@ digistore24_product_id: 620070
 title: "Windows 11 offline installieren (2025) – Kein TPM, kein K"
 vendor: "WindowsHandyTipps"
 product_type: "E-books"
-price: 8.25
+price: 8.26
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 2.88
+earnings_per_sale: 2.89
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Computer & Internet","Software"]
+categories: ["Software","Computer & Internet"]
 listed_since: "2025-06-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/620070?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/620070"
@@ -22,22 +22,22 @@ language: "de"
 # Windows 11 offline installieren (2025) – Kein TPM, kein K
 
 > Product ID `52980` · Digistore24 productId `620070` · [HTML profile page](../../produkte/windows-11-offline-installieren-2025-kein-tpm-kein-k-52980.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $8.25 (Single payment) |
+| Price | $8.26 (Single payment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $2.88 |
+| Earnings/sale* | $2.89 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | WindowsHandyTipps |
 | Listed since | 2025-06-23 |
 | Auto-accept affiliates | yes |
-| Categories | Computer & Internet, Software |
+| Categories | Software, Computer & Internet |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Windows 11 offline installieren (2025) – Kein TPM, kein K? — Typ: E-books, Anbieter: WindowsHandyTipps, gelistet seit 2025-06-23
-- Wie viel kostet es? — 8.251578 USD
+- Wie viel kostet es? — 8.256744 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Windows 11 offline installieren (2025) – Kein TPM, kein K Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/620070
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/620070/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Windows%2011%20offline%20installieren%20(2025)%20%E2%80%93%20Kein%20TPM%2C%20kein%20K
 
 ## 4. Editorial notes

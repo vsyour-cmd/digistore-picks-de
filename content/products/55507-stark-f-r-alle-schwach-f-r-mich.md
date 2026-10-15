@@ -4,34 +4,34 @@ digistore24_product_id: 667733
 title: "Stark für alle. Schwach für mich."
 vendor: "gbuiss"
 product_type: "E-books"
-price: 18.14
+price: 18.15
 currency: "USD"
 affiliate_commission_pct: 80
-earnings_per_sale: 17.69
+earnings_per_sale: 17.7
 cart_conversion_pct: 10
 cancel_rate_pct: 2.05
 categories: ["Personal Development"]
 listed_since: "2026-02-10"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/55507/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/667733?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/667733"
 language: "de"
 ---
 # Stark für alle. Schwach für mich.
 
 > Product ID `55507` · Digistore24 productId `667733` · [HTML profile page](../../produkte/stark-f-r-alle-schwach-f-r-mich-55507.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $18.14 (Single payment) |
+| Price | $18.15 (Single payment) |
 | Affiliate commission | 80% |
-| Earnings/sale* | $17.69 |
+| Earnings/sale* | $17.70 |
 | Cart conversion* | 10% |
 | Cancel rate* | 2.05% |
 | Vendor | gbuiss |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55507/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/667733?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/667733
 - Canonical redirect: https://www.digistore24.com/redir/667733/adminstore
 
@@ -90,14 +90,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Stark für alle. Schwach für mich.? — Typ: E-books, Anbieter: gbuiss, gelistet seit 2026-02-10
-- Wie viel kostet es? — 18.135582 USD
+- Wie viel kostet es? — 18.146936 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Stark für alle. Schwach für mich. Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/667733
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/667733/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Stark%20f%C3%BCr%20alle.%20Schwach%20f%C3%BCr%20mich.
 
 ## 4. Editorial notes

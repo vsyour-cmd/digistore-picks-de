@@ -4,16 +4,16 @@ digistore24_product_id: 689158
 title: "Ebook - Feuer unter den Wellen"
 vendor: "joebgesbuchverleger39ac"
 product_type: "E-books"
-price: 7.3
+price: 7.31
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 3.66
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Travel & Culture"]
+categories: ["Travel & Culture","Education"]
 listed_since: "2026-04-30"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/689158?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/689158"
@@ -22,14 +22,14 @@ language: "de"
 # Ebook - Feuer unter den Wellen
 
 > Product ID `56400` · Digistore24 productId `689158` · [HTML profile page](../../produkte/ebook-feuer-unter-den-wellen-56400.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $7.30 (Single payment) |
+| Price | $7.31 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $3.66 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | joebgesbuchverleger39ac |
 | Listed since | 2026-04-30 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Travel & Culture |
+| Categories | Travel & Culture, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ebook - Feuer unter den Wellen? — Typ: E-books, Anbieter: joebgesbuchverleger39ac, gelistet seit 2026-04-30
-- Wie viel kostet es? — 7.3011930000000005 USD
+- Wie viel kostet es? — 7.305764000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Ebook - Feuer unter den Wellen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/689158
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/689158/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Ebook%20-%20Feuer%20unter%20den%20Wellen
 
 ## 4. Editorial notes

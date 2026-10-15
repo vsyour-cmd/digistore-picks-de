@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Languages"]
 listed_since: "2026-08-19"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/58453/adminstore/"
+promo_link: "https://literaxis.com/de/pricing?aff=adminstore#aff=adminstore"
 sales_page: "https://literaxis.com/de/pricing"
 language: "de"
 ---
 # Literarische Buchübersetzung für Autoren | 35% Provision
 
 > Product ID `58453` · Digistore24 productId `721720` · [HTML profile page](../../produkte/literarische-buch-bersetzung-f-r-autoren-35-provision-58453.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58453/adminstore/
+- **Promo link (affiliate):** https://literaxis.com/de/pricing?aff=adminstore#aff=adminstore
 - Sales page: https://literaxis.com/de/pricing
 - Vendor affiliate support: https://literaxis.com/de/affiliate-kit
 - Canonical redirect: https://www.digistore24.com/redir/721720/adminstore
@@ -88,7 +88,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Literarische Buchübersetzung für Autoren | 35% Provision Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/721720
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/721720/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Literarische%20Buch%C3%BCbersetzung%20f%C3%BCr%20Autoren%20%7C%2035%25%20Provision
 
 ## 4. Editorial notes

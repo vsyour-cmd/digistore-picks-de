@@ -4,34 +4,34 @@ digistore24_product_id: 70791
 title: "Bartagamen - Deutschlands großer Ratgeber"
 vendor: "Loewenstark"
 product_type: "Downloads"
-price: 9.38
+price: 9.39
 currency: "USD"
 affiliate_commission_pct: 85
-earnings_per_sale: 7.97
+earnings_per_sale: 7.98
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2016-02-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/10195/adminstore/"
+promo_link: "http://www.bartagame.de/buch/?aff=adminstore#aff=adminstore"
 sales_page: "http://www.bartagame.de/buch/"
 language: "de"
 ---
 # Bartagamen - Deutschlands großer Ratgeber
 
 > Product ID `10195` · Digistore24 productId `70791` · [HTML profile page](../../produkte/bartagamen-deutschlands-gro-er-ratgeber-10195.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $9.38 (Single payment) |
+| Price | $9.39 (Single payment) |
 | Affiliate commission | 85% |
-| Earnings/sale* | $7.97 |
+| Earnings/sale* | $7.98 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Loewenstark |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/10195/adminstore/
+- **Promo link (affiliate):** http://www.bartagame.de/buch/?aff=adminstore#aff=adminstore
 - Sales page: http://www.bartagame.de/buch/
 - Vendor affiliate support: http://www.bartagame.de/affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/70791/adminstore
@@ -74,14 +74,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Bartagamen - Deutschlands großer Ratgeber? — Typ: Downloads, Anbieter: Loewenstark, gelistet seit 2016-02-04
-- Wie viel kostet es? — 9.380859000000001 USD
+- Wie viel kostet es? — 9.386732 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Bartagamen - Deutschlands großer Ratgeber Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/70791
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/70791/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Bartagamen%20-%20Deutschlands%20gro%C3%9Fer%20Ratgeber
 
 ## 4. Editorial notes

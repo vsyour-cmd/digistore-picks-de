@@ -7,13 +7,13 @@ product_type: "E-books"
 price: 1.15
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 9.96
+earnings_per_sale: 9.97
 cart_conversion_pct: 26
 cancel_rate_pct: 7.2
-categories: ["Email Marketing","Profession & Job","Marketing Services"]
+categories: ["Profession & Job","Email Marketing","Marketing Services"]
 listed_since: "2025-11-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://kischmiede.funnelcockpit.com/ki-handwerker/?aff=adminstore#aff=adminstore"
 sales_page: "https://kischmiede.funnelcockpit.com/ki-handwerker/"
@@ -22,7 +22,7 @@ language: "de"
 # KI Handwerker
 
 > Product ID `54626` · Digistore24 productId `647082` · [HTML profile page](../../produkte/ki-handwerker-54626.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,13 +31,13 @@ language: "de"
 | Product type | E-books |
 | Price | $1.15 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $9.96 |
+| Earnings/sale* | $9.97 |
 | Cart conversion* | 26% |
 | Cancel rate* | 7.2% |
 | Vendor | ReneAktivNetz |
 | Listed since | 2025-11-09 |
 | Auto-accept affiliates | yes |
-| Categories | Email Marketing, Profession & Job, Marketing Services |
+| Categories | Profession & Job, Email Marketing, Marketing Services |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -59,14 +59,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI Handwerker? — Typ: E-books, Anbieter: ReneAktivNetz, gelistet seit 2025-11-09
-- Wie viel kostet es? — 1.1516430000000002 USD
+- Wie viel kostet es? — 1.152364 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: KI Handwerker Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/647082
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/647082/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=KI%20Handwerker
 
 ## 4. Editorial notes

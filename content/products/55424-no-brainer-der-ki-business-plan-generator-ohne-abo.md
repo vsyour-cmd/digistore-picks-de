@@ -4,16 +4,16 @@ digistore24_product_id: 665245
 title: "NO BRAINER Der KI-Business-Plan-Generator ohne ABO"
 vendor: "SevenW"
 product_type: "Downloads"
-price: 46.97
+price: 47
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 11.18
+earnings_per_sale: 11.19
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Online Marketing & E-Business","Profession & Job"]
+categories: ["Online Marketing & E-Business","Profession & Job","Education"]
 listed_since: "2026-01-30"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://www.meinkibusiness.de?aff=adminstore#aff=adminstore"
 sales_page: "https://www.meinkibusiness.de"
@@ -22,22 +22,22 @@ language: "de"
 # NO BRAINER Der KI-Business-Plan-Generator ohne ABO
 
 > Product ID `55424` · Digistore24 productId `665245` · [HTML profile page](../../produkte/no-brainer-der-ki-business-plan-generator-ohne-abo-55424.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $46.97 (Single payment) |
+| Price | $47.00 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $11.18 |
+| Earnings/sale* | $11.19 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SevenW |
 | Listed since | 2026-01-30 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Online Marketing & E-Business, Profession & Job |
+| Categories | Online Marketing & E-Business, Profession & Job, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -58,14 +58,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist NO BRAINER Der KI-Business-Plan-Generator ohne ABO? — Typ: Downloads, Anbieter: SevenW, gelistet seit 2026-01-30
-- Wie viel kostet es? — 46.971381 USD
+- Wie viel kostet es? — 47.000788 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: NO BRAINER Der KI-Business-Plan-Generator ohne ABO Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/665245
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/665245/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=NO%20BRAINER%20Der%20KI-Business-Plan-Generator%20ohne%20ABO
 
 ## 4. Editorial notes

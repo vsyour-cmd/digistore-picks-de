@@ -2,6 +2,15 @@
   "site": "de",
   "entries": [
     {
+      "date": "2026-10-15",
+      "summary": "Sitemap-Integrität gehärtet: FAQ-Hub-Seiten werden jetzt per Verzeichnis-Scan statt per Kategorienliste in die Sitemap aufgenommen — die FAQ-Seite der Gruppe „ohne Kategorie“ fehlte, und 3 veraltete Angebotsseiten (2 eingestellte Angebote, 1 umbenannter Titel) wurden entfernt. Tagesartikel und Tabellen aus dem Snapshot 2026-10-14 aktualisiert; der Marktplatz-Scrape läuft in der Begleitsession.",
+      "changes": [
+        "build-extras: faq/-Verzeichnis-Scan ersetzt die Kategorien-Liste (beide Sites)",
+        "prune-stale: faq/-Verzeichnis in den Aufräumlauf aufgenommen; 3 veraltete Seiten entfernt",
+        "QA vollständig grün: Sitemap-Abdeckung 0 fehlend (EN 1805 / DE 4917 URLs)"
+      ]
+    },
+    {
       "date": "2026-10-13c",
       "summary": "Korrektur: Der frühere „offizielle Promo-Link“-Rollout wurde zurückgezogen — die Promolink-API spiegelt die übergebene ID, das Redir-System akzeptiert nur Vendor-Produkt-IDs; Links aus Marktplatz-IDs zeigten auf falsche Produkte. Alle CTAs nutzen wieder die korrekten dreistufigen Links. Knappheit geprüft: 5.518/5.518 CTA-Buttons stimmen mit dem Datensatz überein.",
       "changes": [

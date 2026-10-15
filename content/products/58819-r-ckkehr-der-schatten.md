@@ -4,7 +4,7 @@ digistore24_product_id: 727650
 title: "Rückkehr der Schatten"
 vendor: "autorpetermeurerausdemahrtal"
 product_type: "E-books"
-price: 10.44
+price: 10.45
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 1.04
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft"]
 listed_since: "2026-09-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/58819/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/727650?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/727650"
 language: "de"
 ---
 # Rückkehr der Schatten
 
 > Product ID `58819` · Digistore24 productId `727650` · [HTML profile page](../../produkte/r-ckkehr-der-schatten-58819.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.44 (Single payment) |
+| Price | $10.45 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $1.04 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58819/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/727650?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/727650
 - Canonical redirect: https://www.digistore24.com/redir/727650/adminstore
 
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Rückkehr der Schatten? — Typ: E-books, Anbieter: autorpetermeurerausdemahrtal, gelistet seit 2026-09-01
-- Wie viel kostet es? — 10.443054 USD
+- Wie viel kostet es? — 10.449592 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Rückkehr der Schatten Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/727650
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/727650/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=R%C3%BCckkehr%20der%20Schatten
 
 ## 4. Editorial notes

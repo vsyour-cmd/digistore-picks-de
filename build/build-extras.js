@@ -50,8 +50,9 @@ add("digistore24-rueckerstattung.html", TODAY);
 add("ist-digistore24-sicher.html", TODAY);
 add("sicher-kaufen.html", TODAY);
 add("produkte/index.html", DATA_DATE);
-// 分类 FAQ 枢纽页(50 问/分类)
-for (const c of DATA.categories) add(`faq/${c.file}.html`, TODAY);
+// 分类 FAQ 枢纽页(50 问/分类):按目录扫描,避免为不存在的文件生成 URL
+const faqDir = path.join(ROOT, "faq");
+if (fs.existsSync(faqDir)) for (const f of fs.readdirSync(faqDir)) if (f.endsWith(".html")) add(`faq/${f}`, TODAY);
 // 目录扫描:分类(含分页)/对比页/Best-of/博客
 for (const d of ["kategorie", "alternativen", "empfehlungen", "blog", "hersteller"]) {
   const dir = path.join(ROOT, d);
@@ -134,6 +135,47 @@ const vendorIndex = Object.entries(vendorCount).filter(([, n]) => n >= 2)
 const llmsFull = "# " + SITE_NAME + " — vollständiger Datensatz (Top 500 nach Verdienst/Verkauf)\n\n> Kompakte Referenz für LLM-Retrieval. Alle Zahlen sind Anbieter-seitige Digistore24-Marktplatz-Statistiken vom " + DATA_DATE + ", keine Prognosen. Produktseiten: " + SITE_URL + "/produkte/\n\n" + fullLines.join("\n") + "\n\n## Kategorien (" + DATA.categories.length + ")\n\n" + catIndex + "\n\n## Top-Anbieter (100, nach Listing-Anzahl)\n\n" + vendorIndex + "\n";
 fs.writeFileSync(path.join(ROOT, "llms-full.txt"), llmsFull);
 console.log("llms-full.txt:", fullLines.length, "products,", DATA.categories.length, "categories, 100 vendors");
+
+// ---------- alternativen/index.html(Verzeichnisseite: repariert den faq-Seiten-Verweis) ----------
+{
+  const adir = path.join(ROOT, "alternativen");
+  const files = fs.existsSync(adir)
+    ? fs.readdirSync(adir).filter((f) => f.endsWith(".html") && f !== "index.html").sort()
+    : [];
+  if (files.length) {
+    const items = files.map((f) => {
+      const h = fs.readFileSync(path.join(adir, f), "utf8");
+      const t = ((h.match(/<h1>([^<]*)<\/h1>/) || [])[1] || f)
+        .replace(/&amp;/g, "&").replace(/: Alternativen.*$/i, "").replace(/ vs .*$/i, "");
+      return '<li><a href="' + f + '">' + t + "</a></li>";
+    });
+    const html = `<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Alle Alternativen &amp; Vergleiche — ${SITE_NAME}</title>
+<meta name="description" content="Jede Alternativen- &amp; Vergleichsseite auf ${SITE_NAME}: Gegenüberstellungen für die Top-Angebote des Digistore24-Marktplatzes.">
+<link rel="canonical" href="${SITE_URL}/alternativen/index.html">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+<header class="site"><div class="wrap"><a href="../index.html"><b>${SITE_NAME}</b></a> — unabhängiges Digistore24-Verzeichnis</header>
+<main class="wrap">
+<h1>Alle Alternativen- &amp; Vergleichsseiten</h1>
+<p class="sub">${files.length} Vergleichsseiten, eine je Top-Angebot.</p>
+<ul>
+${items.join(String.fromCharCode(10))}
+</ul>
+</main>
+<footer class="site"><div class="wrap"><a href="../impressum.html">Impressum</a> · <a href="../datenschutz.html">Datenschutz</a> · <a href="../changelog.html">Neuigkeiten</a> · Daten: Digistore24-Marktplatz, Anbieter-seitig</footer>
+</body>
+</html>
+`;
+    fs.writeFileSync(path.join(adir, "index.html"), html, "utf8");
+    console.log("alternativen/index.html:", files.length, "Einträge");
+  }
+}
 
 // ---------- feed.xml (Atom, 博客) ----------
 const blogDir = path.join(ROOT, "blog");

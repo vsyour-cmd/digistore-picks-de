@@ -4,40 +4,40 @@ digistore24_product_id: 689183
 title: "SIC - ImmoClear – Energetische Klärung für schnellere Immobi"
 vendor: "Immoclear"
 product_type: "Member area and video courses"
-price: 47.92
+price: 47.95
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 33.54
+earnings_per_sale: 33.56
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Business & Investment","Personal Development","Real Estate"]
+categories: ["Personal Development","Business & Investment","Real Estate"]
 listed_since: "2026-06-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/56771/adminstore/"
+promo_link: "https://academy.e-ducation.cloud/course/sic-immoclear-energ-klaerung-f-schnellere-immoverk?aff=adminstore#aff=adminstore"
 sales_page: "https://academy.e-ducation.cloud/course/sic-immoclear-energ-klaerung-f-schnellere-immoverk"
 language: "de"
 ---
 # SIC - ImmoClear – Energetische Klärung für schnellere Immobi
 
 > Product ID `56771` · Digistore24 productId `689183` · [HTML profile page](../../produkte/sic-immoclear-energetische-kl-rung-f-r-schnellere-immobi-56771.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $47.92 (Single payment) |
+| Price | $47.95 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $33.54 |
+| Earnings/sale* | $33.56 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Immoclear |
 | Listed since | 2026-06-01 |
 | Auto-accept affiliates | no (approval required) |
-| Categories | Business & Investment, Personal Development, Real Estate |
+| Categories | Personal Development, Business & Investment, Real Estate |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56771/adminstore/
+- **Promo link (affiliate):** https://academy.e-ducation.cloud/course/sic-immoclear-energ-klaerung-f-schnellere-immoverk?aff=adminstore#aff=adminstore
 - Sales page: https://academy.e-ducation.cloud/course/sic-immoclear-energ-klaerung-f-schnellere-immoverk
 - Vendor affiliate support: https://success.e-ducation.cloud/sic-p2-energ-klaerung-f-schnelle-immo-verkaeufe-ep
 - Canonical redirect: https://www.digistore24.com/redir/689183/adminstore
@@ -77,14 +77,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist SIC - ImmoClear – Energetische Klärung für schnellere Immobi? — Typ: Member area and video courses, Anbieter: Immoclear, gelistet seit 2026-06-01
-- Wie viel kostet es? — 47.921766000000005 USD
+- Wie viel kostet es? — 47.951768 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: SIC - ImmoClear – Energetische Klärung für schnellere Immobi Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/689183
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/689183/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=SIC%20-%20ImmoClear%20%E2%80%93%20Energetische%20Kl%C3%A4rung%20f%C3%BCr%20schnellere%20Immobi
 
 ## 4. Editorial notes

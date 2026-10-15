@@ -4,34 +4,34 @@ digistore24_product_id: 675824
 title: "Eigenes E-Book erstellen – Bundle mit KI-System + Canva Desi"
 vendor: "JennyKlh"
 product_type: "E-books"
-price: 51.2
+price: 51.23
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 25.6
+earnings_per_sale: 25.62
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business"]
 listed_since: "2026-03-12"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/55877/adminstore/"
+promo_link: "https://mama-zuhause-erfolgreich.de/ebook-erstellen-bundle/?aff=adminstore#aff=adminstore"
 sales_page: "https://mama-zuhause-erfolgreich.de/ebook-erstellen-bundle/"
 language: "de"
 ---
 # Eigenes E-Book erstellen – Bundle mit KI-System + Canva Desi
 
 > Product ID `55877` · Digistore24 productId `675824` · [HTML profile page](../../produkte/eigenes-e-book-erstellen-bundle-mit-ki-system-canva-desi-55877.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $51.20 (Single payment) |
+| Price | $51.23 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $25.60 |
+| Earnings/sale* | $25.62 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | JennyKlh |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55877/adminstore/
+- **Promo link (affiliate):** https://mama-zuhause-erfolgreich.de/ebook-erstellen-bundle/?aff=adminstore#aff=adminstore
 - Sales page: https://mama-zuhause-erfolgreich.de/ebook-erstellen-bundle/
 - Vendor affiliate support: https://mama-zuhause-erfolgreich.de/e-book-creator-bundle-affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/675824/adminstore
@@ -94,14 +94,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Eigenes E-Book erstellen – Bundle mit KI-System + Canva Desi? — Typ: E-books, Anbieter: JennyKlh, gelistet seit 2026-03-12
-- Wie viel kostet es? — 51.197799 USD
+- Wie viel kostet es? — 51.229852 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Eigenes E-Book erstellen – Bundle mit KI-System + Canva Desi Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/675824
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/675824/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Eigenes%20E-Book%20erstellen%20%E2%80%93%20Bundle%20mit%20KI-System%20%2B%20Canva%20Desi
 
 ## 4. Editorial notes

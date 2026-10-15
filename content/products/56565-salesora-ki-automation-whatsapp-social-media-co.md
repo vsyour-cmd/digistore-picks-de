@@ -4,34 +4,34 @@ digistore24_product_id: 693354
 title: "Salesora - KI-Automation - WhatsApp, Social Media & Co."
 vendor: "no-limit"
 product_type: "Software"
-price: 177.78
+price: 177.89
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 44.44
+earnings_per_sale: 44.47
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2026-05-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/56565/adminstore/"
+promo_link: "https://ai.salesora.de/digi?aff=adminstore#aff=adminstore"
 sales_page: "https://ai.salesora.de/digi"
 language: "de"
 ---
 # Salesora - KI-Automation - WhatsApp, Social Media & Co.
 
 > Product ID `56565` · Digistore24 productId `693354` · [HTML profile page](../../produkte/salesora-ki-automation-whatsapp-social-media-co-56565.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $177.78 (Subscription) |
+| Price | $177.89 (Subscription) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $44.44 |
+| Earnings/sale* | $44.47 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | no-limit |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56565/adminstore/
+- **Promo link (affiliate):** https://ai.salesora.de/digi?aff=adminstore#aff=adminstore
 - Sales page: https://ai.salesora.de/digi
 - Vendor affiliate support: https://ai.salesora.de/partnerprogramm
 - Canonical redirect: https://www.digistore24.com/redir/693354/adminstore
@@ -87,14 +87,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Salesora - KI-Automation - WhatsApp, Social Media & Co.? — Typ: Software, Anbieter: no-limit, gelistet seit 2026-05-18
-- Wie viel kostet es? — 177.77790000000002 USD
+- Wie viel kostet es? — 177.88920000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Salesora - KI-Automation - WhatsApp, Social Media & Co. Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/693354
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/693354/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Salesora%20-%20KI-Automation%20-%20WhatsApp%2C%20Social%20Media%20%26%20Co.
 
 ## 4. Editorial notes

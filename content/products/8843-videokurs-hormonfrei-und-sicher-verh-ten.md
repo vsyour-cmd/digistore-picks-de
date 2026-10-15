@@ -4,16 +4,16 @@ digistore24_product_id: 59979
 title: "Videokurs - Hormonfrei und Sicher Verhüten"
 vendor: "wombaider"
 product_type: "Downloads"
-price: 186.98
+price: 187.1
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 56.1
+earnings_per_sale: 56.13
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2015-09-30"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://hormonfreiundsicher.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://hormonfreiundsicher.com/"
@@ -22,16 +22,16 @@ language: "de"
 # Videokurs - Hormonfrei und Sicher Verhüten
 
 > Product ID `8843` · Digistore24 productId `59979` · [HTML profile page](../../produkte/videokurs-hormonfrei-und-sicher-verh-ten-8843.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $186.98 (Single payment) |
+| Price | $187.10 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $56.10 |
+| Earnings/sale* | $56.13 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | wombaider |
@@ -96,14 +96,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Videokurs - Hormonfrei und Sicher Verhüten? — Typ: Downloads, Anbieter: wombaider, gelistet seit 2015-09-30
-- Wie viel kostet es? — 186.979863 USD
+- Wie viel kostet es? — 187.096924 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Videokurs - Hormonfrei und Sicher Verhüten Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/59979
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/59979/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Videokurs%20-%20Hormonfrei%20und%20Sicher%20Verh%C3%BCten
 
 ## 4. Editorial notes

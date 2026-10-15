@@ -4,34 +4,34 @@ digistore24_product_id: 651221
 title: "Punktgenau Akupressur + Akupunktur – Fundiert, Alltag"
 vendor: "live-natural-life"
 product_type: "Member area and video courses"
-price: 346.7
+price: 346.92
 currency: "USD"
 affiliate_commission_pct: 33
-earnings_per_sale: 114.42
+earnings_per_sale: 114.49
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2025-11-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/55061/adminstore/"
+promo_link: "https://punktgenau-akupressur.de/akupressur-online-kurs.html?aff=adminstore#aff=adminstore"
 sales_page: "https://punktgenau-akupressur.de/akupressur-online-kurs.html"
 language: "de"
 ---
 # Punktgenau Akupressur + Akupunktur – Fundiert, Alltag
 
 > Product ID `55061` · Digistore24 productId `651221` · [HTML profile page](../../produkte/punktgenau-akupressur-akupunktur-fundiert-alltag-55061.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $346.70 (Single payment, Installment) |
+| Price | $346.92 (Single payment, Installment) |
 | Affiliate commission | 33% |
-| Earnings/sale* | $114.42 |
+| Earnings/sale* | $114.49 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | live-natural-life |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55061/adminstore/
+- **Promo link (affiliate):** https://punktgenau-akupressur.de/akupressur-online-kurs.html?aff=adminstore#aff=adminstore
 - Sales page: https://punktgenau-akupressur.de/akupressur-online-kurs.html
 - Canonical redirect: https://www.digistore24.com/redir/651221/adminstore
 
@@ -98,14 +98,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Punktgenau Akupressur + Akupunktur – Fundiert, Alltag? — Typ: Member area and video courses, Anbieter: live-natural-life, gelistet seit 2025-11-26
-- Wie viel kostet es? — 346.700448 USD
+- Wie viel kostet es? — 346.917504 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Punktgenau Akupressur + Akupunktur – Fundiert, Alltag Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/651221
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/651221/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Punktgenau%20Akupressur%20%2B%20Akupunktur%20%E2%80%93%20Fundiert%2C%20Alltag
 
 ## 4. Editorial notes

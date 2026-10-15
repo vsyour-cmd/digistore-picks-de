@@ -4,7 +4,7 @@ digistore24_product_id: 330743
 title: "Fitness Rezepte 101 – 100+ Gesunde Fitness Rezepte Kochbuch"
 vendor: "Fittastetic"
 product_type: "E-books"
-price: 8.35
+price: 8.36
 currency: "USD"
 affiliate_commission_pct: 0
 earnings_per_sale: 5.59
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink"]
 listed_since: "2020-06-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/33061/adminstore/"
+promo_link: "https://fittastetic.com/gesund-essen-101-ebook/?aff=adminstore#aff=adminstore"
 sales_page: "https://fittastetic.com/gesund-essen-101-ebook/"
 language: "de"
 ---
 # Fitness Rezepte 101 – 100+ Gesunde Fitness Rezepte Kochbuch
 
 > Product ID `33061` · Digistore24 productId `330743` · [HTML profile page](../../produkte/fitness-rezepte-101-100-gesunde-fitness-rezepte-kochbuch-33061.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $8.35 (Single payment) |
+| Price | $8.36 (Single payment) |
 | Affiliate commission | 0% |
 | Earnings/sale* | $5.59 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/33061/adminstore/
+- **Promo link (affiliate):** https://fittastetic.com/gesund-essen-101-ebook/?aff=adminstore#aff=adminstore
 - Sales page: https://fittastetic.com/gesund-essen-101-ebook/
 - Canonical redirect: https://www.digistore24.com/redir/330743/adminstore
 
@@ -76,14 +76,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Fitness Rezepte 101 – 100+ Gesunde Fitness Rezepte Kochbuch? — Typ: E-books, Anbieter: Fittastetic, gelistet seit 2020-06-09
-- Wie viel kostet es? — 8.352207 USD
+- Wie viel kostet es? — 8.357436 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Fitness Rezepte 101 – 100+ Gesunde Fitness Rezepte Kochbuch Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/330743
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/330743/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Fitness%20Rezepte%20101%20%E2%80%93%C2%A0100%2B%20Gesunde%20Fitness%20Rezepte%20Kochbuch
 
 ## 4. Editorial notes

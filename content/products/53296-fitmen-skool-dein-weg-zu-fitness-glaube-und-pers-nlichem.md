@@ -4,16 +4,16 @@ digistore24_product_id: 621114
 title: "FitMen Skool – Dein Weg zu Fitness, Glaube und persönlichem"
 vendor: "Ioakim"
 product_type: "Member area and video courses"
-price: 169.11
+price: 169.22
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 67.65
+earnings_per_sale: 67.69
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Sport"]
 listed_since: "2025-06-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/621114?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/621114"
@@ -22,16 +22,16 @@ language: "de"
 # FitMen Skool – Dein Weg zu Fitness, Glaube und persönlichem
 
 > Product ID `53296` · Digistore24 productId `621114` · [HTML profile page](../../produkte/fitmen-skool-dein-weg-zu-fitness-glaube-und-pers-nlichem-53296.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $169.11 (Subscription) |
+| Price | $169.22 (Subscription) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $67.65 |
+| Earnings/sale* | $67.69 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Ioakim |
@@ -85,14 +85,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist FitMen Skool – Dein Weg zu Fitness, Glaube und persönlichem? — Typ: Member area and video courses, Anbieter: Ioakim, gelistet seit 2025-06-27
-- Wie viel kostet es? — 169.112625 USD
+- Wie viel kostet es? — 169.2185 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: FitMen Skool – Dein Weg zu Fitness, Glaube und persönlichem Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/621114
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/621114/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=FitMen%E2%80%AFSkool%20%E2%80%93%20Dein%20Weg%20zu%20Fitness%2C%20Glaube%20und%20pers%C3%B6nlichem
 
 ## 4. Editorial notes

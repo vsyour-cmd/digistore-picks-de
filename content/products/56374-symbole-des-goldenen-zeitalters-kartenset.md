@@ -4,16 +4,16 @@ digistore24_product_id: 687952
 title: "Symbole des Goldenen Zeitalters - Kartenset"
 vendor: "Spiritual-Power"
 product_type: "Downloads"
-price: 36.64
+price: 36.66
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 7.32
+earnings_per_sale: 7.33
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-04-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/687952?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/687952"
@@ -22,16 +22,16 @@ language: "de"
 # Symbole des Goldenen Zeitalters - Kartenset
 
 > Product ID `56374` · Digistore24 productId `687952` · [HTML profile page](../../produkte/symbole-des-goldenen-zeitalters-kartenset-56374.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $36.64 (Single payment) |
+| Price | $36.66 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $7.32 |
+| Earnings/sale* | $7.33 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Spiritual-Power |
@@ -75,14 +75,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Symbole des Goldenen Zeitalters - Kartenset? — Typ: Downloads, Anbieter: Spiritual-Power, gelistet seit 2026-04-27
-- Wie viel kostet es? — 36.64013700000001 USD
+- Wie viel kostet es? — 36.663076000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Symbole des Goldenen Zeitalters - Kartenset Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/687952
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/687952/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Symbole%20des%20Goldenen%20Zeitalters%20-%20Kartenset
 
 ## 4. Editorial notes

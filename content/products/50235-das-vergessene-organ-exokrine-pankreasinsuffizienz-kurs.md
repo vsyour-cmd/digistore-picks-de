@@ -4,40 +4,40 @@ digistore24_product_id: 722700
 title: "Das vergessene Organ - Exokrine Pankreasinsuffizienz Kurs"
 vendor: "AndreasLang"
 product_type: "Member area and video courses"
-price: 301.61
+price: 301.8
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 150.81
+earnings_per_sale: 150.9
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Food & Drink","Health & Fitness"]
+categories: ["Health & Fitness","Food & Drink"]
 listed_since: "2024-09-25"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/50235/adminstore/"
+promo_link: "https://www.digistore24.com/product/722700?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/722700"
 language: "de"
 ---
 # Das vergessene Organ - Exokrine Pankreasinsuffizienz Kurs
 
 > Product ID `50235` · Digistore24 productId `722700` · [HTML profile page](../../produkte/das-vergessene-organ-exokrine-pankreasinsuffizienz-kurs-50235.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $301.61 (Single payment, Installment) |
+| Price | $301.80 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $150.81 |
+| Earnings/sale* | $150.90 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | AndreasLang |
 | Listed since | 2024-09-25 |
 | Auto-accept affiliates | yes |
-| Categories | Food & Drink, Health & Fitness |
+| Categories | Health & Fitness, Food & Drink |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/50235/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/722700?aff=adminstore
 - Sales page: https://www.digistore24.com/product/722700
 - Vendor affiliate support: https://affiliateking.net/
 - Canonical redirect: https://www.digistore24.com/redir/722700/adminstore
@@ -89,14 +89,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das vergessene Organ - Exokrine Pankreasinsuffizienz Kurs? — Typ: Member area and video courses, Anbieter: AndreasLang, gelistet seit 2024-09-25
-- Wie viel kostet es? — 301.607475 USD
+- Wie viel kostet es? — 301.79630000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Das vergessene Organ - Exokrine Pankreasinsuffizienz Kurs Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/722700
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/722700/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Das%20vergessene%20Organ%20-%20Exokrine%20Pankreasinsuffizienz%20Kurs
 
 ## 4. Editorial notes

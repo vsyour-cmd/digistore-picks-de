@@ -4,16 +4,16 @@ digistore24_product_id: 649955
 title: "Direkt-Vertrieb - Die König Disziplin"
 vendor: "MUTPUNKT"
 product_type: "Member area and video courses"
-price: 65.72
+price: 65.76
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 32.86
+earnings_per_sale: 32.88
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Profession & Job","Sales Training"]
 listed_since: "2026-06-14"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/649955?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/649955"
@@ -22,16 +22,16 @@ language: "de"
 # Direkt-Vertrieb - Die König Disziplin
 
 > Product ID `56886` · Digistore24 productId `649955` · [HTML profile page](../../produkte/direkt-vertrieb-die-k-nig-disziplin-56886.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $65.72 (Single payment) |
+| Price | $65.76 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $32.86 |
+| Earnings/sale* | $32.88 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MUTPUNKT |
@@ -80,14 +80,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Direkt-Vertrieb - Die König Disziplin? — Typ: Member area and video courses, Anbieter: MUTPUNKT, gelistet seit 2026-06-14
-- Wie viel kostet es? — 65.721918 USD
+- Wie viel kostet es? — 65.763064 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Direkt-Vertrieb - Die König Disziplin Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/649955
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/649955/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Direkt-Vertrieb%20-%20Die%20K%C3%B6nig%20Disziplin
 
 ## 4. Editorial notes

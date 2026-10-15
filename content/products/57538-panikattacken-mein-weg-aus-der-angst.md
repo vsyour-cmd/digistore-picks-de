@@ -4,7 +4,7 @@ digistore24_product_id: 710074
 title: "Panikattacken - Mein Weg aus der Angst"
 vendor: "infobenjamins4d51"
 product_type: "E-books"
-price: 13.53
+price: 13.54
 currency: "USD"
 affiliate_commission_pct: 30
 earnings_per_sale: 4.06
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2026-07-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/710074?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/710074"
@@ -22,14 +22,14 @@ language: "de"
 # Panikattacken - Mein Weg aus der Angst
 
 > Product ID `57538` · Digistore24 productId `710074` · [HTML profile page](../../produkte/panikattacken-mein-weg-aus-der-angst-57538.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $13.53 (Single payment) |
+| Price | $13.54 (Single payment) |
 | Affiliate commission | 30% |
 | Earnings/sale* | $4.06 |
 | Cart conversion* | — |
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Panikattacken - Mein Weg aus der Angst? — Typ: E-books, Anbieter: infobenjamins4d51, gelistet seit 2026-07-15
-- Wie viel kostet es? — 13.529010000000001 USD
+- Wie viel kostet es? — 13.53748 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Panikattacken - Mein Weg aus der Angst Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/710074
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/710074/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Panikattacken%20-%20Mein%20Weg%20aus%20der%20Angst
 
 ## 4. Editorial notes

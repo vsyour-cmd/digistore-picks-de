@@ -4,16 +4,16 @@ digistore24_product_id: 669162
 title: "Vom ersten Segen bis zum letzten Geleit – 6 Reden + 3 Boni"
 vendor: "MadrigenumVerlag"
 product_type: "Downloads"
-price: 34.76
+price: 34.78
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 17.39
+earnings_per_sale: 17.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-02-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://madrigenum.dworak.name/reden-bundle-vom-ersten-segen-bis-zum-letzten-geleit-4-vorlagen-3-boni/?aff=adminstore#aff=adminstore"
 sales_page: "https://madrigenum.dworak.name/reden-bundle-vom-ersten-segen-bis-zum-letzten-geleit-4-vorlagen-3-boni/"
@@ -22,16 +22,16 @@ language: "de"
 # Vom ersten Segen bis zum letzten Geleit – 6 Reden + 3 Boni
 
 > Product ID `55626` · Digistore24 productId `669162` · [HTML profile page](../../produkte/vom-ersten-segen-bis-zum-letzten-geleit-6-reden-3-boni-55626.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $34.76 (Single payment) |
+| Price | $34.78 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $17.39 |
+| Earnings/sale* | $17.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MadrigenumVerlag |
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Vom ersten Segen bis zum letzten Geleit – 6 Reden + 3 Boni? — Typ: Downloads, Anbieter: MadrigenumVerlag, gelistet seit 2026-02-16
-- Wie viel kostet es? — 34.761729 USD
+- Wie viel kostet es? — 34.783492 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Vom ersten Segen bis zum letzten Geleit – 6 Reden + 3 Boni Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/669162
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/669162/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Vom%20ersten%20Segen%20bis%20zum%20letzten%20Geleit%20%E2%80%93%206%20Reden%20%2B%203%20Boni
 
 ## 4. Editorial notes

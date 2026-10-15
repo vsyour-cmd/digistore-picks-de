@@ -4,7 +4,7 @@ digistore24_product_id: 730724
 title: "Der Start ins Digitale Marketing – Dein E-Book für Einsteige"
 vendor: "torstendigital35b0"
 product_type: "E-books"
-price: 12.53
+price: 12.54
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 1.25
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media","Marketing Services"]
 listed_since: "2026-09-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://meinwegzumerfolg.com/deine-ratgeber-anleitungen/?aff=adminstore#aff=adminstore"
 sales_page: "https://meinwegzumerfolg.com/deine-ratgeber-anleitungen/"
@@ -22,14 +22,14 @@ language: "de"
 # Der Start ins Digitale Marketing – Dein E-Book für Einsteige
 
 > Product ID `59030` · Digistore24 productId `730724` · [HTML profile page](../../produkte/der-start-ins-digitale-marketing-dein-e-book-f-r-einsteige-59030.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $12.53 (Single payment) |
+| Price | $12.54 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $1.25 |
 | Cart conversion* | — |
@@ -70,14 +70,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Start ins Digitale Marketing – Dein E-Book für Einsteige? — Typ: E-books, Anbieter: torstendigital35b0, gelistet seit 2026-09-08
-- Wie viel kostet es? — 12.533901000000002 USD
+- Wie viel kostet es? — 12.541748000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Der Start ins Digitale Marketing – Dein E-Book für Einsteige Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/730724
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/730724/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%20Start%20ins%20Digitale%20Marketing%20%E2%80%93%20Dein%20E-Book%20f%C3%BCr%20Einsteige
 
 ## 4. Editorial notes

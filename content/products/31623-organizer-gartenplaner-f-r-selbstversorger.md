@@ -4,7 +4,7 @@ digistore24_product_id: 308550
 title: "Organizer: Gartenplaner für Selbstversorger"
 vendor: "BiotopicaFarm"
 product_type: "E-books"
-price: 12.49
+price: 12.5
 currency: "USD"
 affiliate_commission_pct: 25
 earnings_per_sale: 3.12
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Home & Garden"]
 listed_since: "2020-02-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/31623/adminstore/"
+promo_link: "https://www.biotopicafarm.de/der-gartenplaner-fuer-deine-persoenliche-selbstversorgung-download-produkt/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.biotopicafarm.de/der-gartenplaner-fuer-deine-persoenliche-selbstversorgung-download-produkt/"
 language: "de"
 ---
 # Organizer: Gartenplaner für Selbstversorger
 
 > Product ID `31623` · Digistore24 productId `308550` · [HTML profile page](../../produkte/organizer-gartenplaner-f-r-selbstversorger-31623.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $12.49 (Single payment) |
+| Price | $12.50 (Single payment) |
 | Affiliate commission | 25% |
 | Earnings/sale* | $3.12 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/31623/adminstore/
+- **Promo link (affiliate):** https://www.biotopicafarm.de/der-gartenplaner-fuer-deine-persoenliche-selbstversorgung-download-produkt/?aff=adminstore#aff=adminstore
 - Sales page: https://www.biotopicafarm.de/der-gartenplaner-fuer-deine-persoenliche-selbstversorgung-download-produkt/
 - Canonical redirect: https://www.digistore24.com/redir/308550/adminstore
 
@@ -80,14 +80,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Organizer: Gartenplaner für Selbstversorger? — Typ: E-books, Anbieter: BiotopicaFarm, gelistet seit 2020-02-17
-- Wie viel kostet es? — 12.489177000000002 USD
+- Wie viel kostet es? — 12.496996 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Organizer: Gartenplaner für Selbstversorger Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/308550
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/308550/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Organizer%3A%20Gartenplaner%20f%C3%BCr%20Selbstversorger
 
 ## 4. Editorial notes

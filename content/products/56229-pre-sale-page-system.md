@@ -4,40 +4,40 @@ digistore24_product_id: 683570
 title: "Pre-Sale Page System"
 vendor: "MachtundNussbaumGbR"
 product_type: "Software"
-price: 185.1
+price: 185.22
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 92.56
+earnings_per_sale: 92.61
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Email Marketing","Online Marketing & E-Business","Software"]
+categories: ["Software","Online Marketing & E-Business","Email Marketing"]
 listed_since: "2026-04-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/56229/adminstore/"
+promo_link: "https://www.imhub.de/lp/presalepagesystem?aff=adminstore#aff=adminstore"
 sales_page: "https://www.imhub.de/lp/presalepagesystem"
 language: "de"
 ---
 # Pre-Sale Page System
 
 > Product ID `56229` · Digistore24 productId `683570` · [HTML profile page](../../produkte/pre-sale-page-system-56229.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $185.10 (Single payment) |
+| Price | $185.22 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $92.56 |
+| Earnings/sale* | $92.61 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MachtundNussbaumGbR |
 | Listed since | 2026-04-09 |
 | Auto-accept affiliates | yes |
-| Categories | Email Marketing, Online Marketing & E-Business, Software |
+| Categories | Software, Online Marketing & E-Business, Email Marketing |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56229/adminstore/
+- **Promo link (affiliate):** https://www.imhub.de/lp/presalepagesystem?aff=adminstore#aff=adminstore
 - Sales page: https://www.imhub.de/lp/presalepagesystem
 - Vendor affiliate support: https://www.imhub.de/lp/affiliates
 - Canonical redirect: https://www.digistore24.com/redir/683570/adminstore
@@ -111,14 +111,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Pre-Sale Page System? — Typ: Software, Anbieter: MachtundNussbaumGbR, gelistet seit 2026-04-09
-- Wie viel kostet es? — 185.10145500000002 USD
+- Wie viel kostet es? — 185.21734 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Pre-Sale Page System Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/683570
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/683570/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Pre-Sale%20Page%20System
 
 ## 4. Editorial notes

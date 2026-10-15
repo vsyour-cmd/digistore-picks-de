@@ -4,16 +4,16 @@ digistore24_product_id: 701661
 title: "MRR: AI Music Mastery"
 vendor: "MichaMH"
 product_type: "Downloads"
-price: 186.98
+price: 187.1
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 74.79
+earnings_per_sale: 74.84
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: []
+categories: ["Business & Investment","Dancing & Music","Computer & Internet"]
 listed_since: "2026-06-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.affyro.com/MRRAIMusicMastery.html?aff=adminstore#aff=adminstore"
 sales_page: "https://www.affyro.com/MRRAIMusicMastery.html"
@@ -22,22 +22,22 @@ language: "de"
 # MRR: AI Music Mastery
 
 > Product ID `56894` · Digistore24 productId `701661` · [HTML profile page](../../produkte/mrr-ai-music-mastery-56894.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $186.98 (Single payment, Installment) |
+| Price | $187.10 (Single payment, Installment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $74.79 |
+| Earnings/sale* | $74.84 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MichaMH |
 | Listed since | 2026-06-15 |
 | Auto-accept affiliates | yes |
-| Categories | Uncategorized |
+| Categories | Business & Investment, Dancing & Music, Computer & Internet |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -88,14 +88,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist MRR: AI Music Mastery? — Typ: Downloads, Anbieter: MichaMH, gelistet seit 2026-06-15
-- Wie viel kostet es? — 186.979863 USD
+- Wie viel kostet es? — 187.096924 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: MRR: AI Music Mastery Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/701661
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/701661/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=MRR%3A%20AI%20Music%20Mastery
 
 ## 4. Editorial notes

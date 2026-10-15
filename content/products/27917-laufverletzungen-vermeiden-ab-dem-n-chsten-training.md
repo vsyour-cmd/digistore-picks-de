@@ -4,34 +4,34 @@ digistore24_product_id: 233809
 title: "Laufverletzungen vermeiden ab dem nächsten Training"
 vendor: "andreasvojta"
 product_type: "Downloads"
-price: 46.04
+price: 46.07
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 23.02
+earnings_per_sale: 23.04
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Sport"]
 listed_since: "2018-07-19"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/27917/adminstore/"
+promo_link: "https://laufheld.com/fvv/0u-lm-vv-01/?aff=adminstore#aff=adminstore"
 sales_page: "https://laufheld.com/fvv/0u-lm-vv-01/"
 language: "de"
 ---
 # Laufverletzungen vermeiden ab dem nächsten Training
 
 > Product ID `27917` · Digistore24 productId `233809` · [HTML profile page](../../produkte/laufverletzungen-vermeiden-ab-dem-n-chsten-training-27917.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $46.04 (Single payment) |
+| Price | $46.07 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $23.02 |
+| Earnings/sale* | $23.04 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | andreasvojta |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/27917/adminstore/
+- **Promo link (affiliate):** https://laufheld.com/fvv/0u-lm-vv-01/?aff=adminstore#aff=adminstore
 - Sales page: https://laufheld.com/fvv/0u-lm-vv-01/
 - Vendor affiliate support: https://laufheld.com/affiliate-partner/
 - Canonical redirect: https://www.digistore24.com/redir/233809/adminstore
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Laufverletzungen vermeiden ab dem nächsten Training? — Typ: Downloads, Anbieter: andreasvojta, gelistet seit 2018-07-19
-- Wie viel kostet es? — 46.043358000000005 USD
+- Wie viel kostet es? — 46.072184 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Laufverletzungen vermeiden ab dem nächsten Training Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/233809
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/233809/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Laufverletzungen%20vermeiden%20ab%20dem%20n%C3%A4chsten%20Training
 
 ## 4. Editorial notes

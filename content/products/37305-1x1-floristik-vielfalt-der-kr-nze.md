@@ -4,34 +4,34 @@ digistore24_product_id: 385243
 title: "1x1 Floristik - Vielfalt der Kränze"
 vendor: "Elobana"
 product_type: "Member area and video courses"
-price: 371.4
+price: 371.63
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 45.06
+earnings_per_sale: 45.09
 cart_conversion_pct: 9
 cancel_rate_pct: 0.95
 categories: ["Education"]
 listed_since: "2021-04-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/37305/adminstore/"
+promo_link: "https://elobana.de/online-kurse/onlinekurs-1x1-floristik-vielfalt-der-kraenze/?aff=adminstore#aff=adminstore"
 sales_page: "https://elobana.de/online-kurse/onlinekurs-1x1-floristik-vielfalt-der-kraenze/"
 language: "de"
 ---
 # 1x1 Floristik - Vielfalt der Kränze
 
 > Product ID `37305` · Digistore24 productId `385243` · [HTML profile page](../../produkte/1x1-floristik-vielfalt-der-kr-nze-37305.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $371.40 (Single payment) |
+| Price | $371.63 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $45.06 |
+| Earnings/sale* | $45.09 |
 | Cart conversion* | 9% |
 | Cancel rate* | 0.95% |
 | Vendor | Elobana |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/37305/adminstore/
+- **Promo link (affiliate):** https://elobana.de/online-kurse/onlinekurs-1x1-floristik-vielfalt-der-kraenze/?aff=adminstore#aff=adminstore
 - Sales page: https://elobana.de/online-kurse/onlinekurs-1x1-floristik-vielfalt-der-kraenze/
 - Canonical redirect: https://www.digistore24.com/redir/385243/adminstore
 
@@ -91,14 +91,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 1x1 Floristik - Vielfalt der Kränze? — Typ: Member area and video courses, Anbieter: Elobana, gelistet seit 2021-04-18
-- Wie viel kostet es? — 371.39927700000004 USD
+- Wie viel kostet es? — 371.631796 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 1x1 Floristik - Vielfalt der Kränze Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/385243
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/385243/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=1x1%20Floristik%20-%20Vielfalt%20der%20Kr%C3%A4nze
 
 ## 4. Editorial notes

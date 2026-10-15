@@ -4,16 +4,16 @@ digistore24_product_id: 350621
 title: "LANZAROTE: Lanzarote Bildband [E-Book]"
 vendor: "rheinrost"
 product_type: "E-books"
-price: 14.59
+price: 14.6
 currency: "USD"
 affiliate_commission_pct: 35
 earnings_per_sale: 2.95
 cart_conversion_pct: 31
 cancel_rate_pct: 0.69
-categories: ["Hobby & Craft","Photography & Film","Travel & Culture"]
+categories: ["Travel & Culture","Hobby & Craft","Photography & Film"]
 listed_since: "2020-10-02"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.unaufschiebbar.de/lanzarote-bildband/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.unaufschiebbar.de/lanzarote-bildband/"
@@ -22,14 +22,14 @@ language: "de"
 # LANZAROTE: Lanzarote Bildband [E-Book]
 
 > Product ID `34286` · Digistore24 productId `350621` · [HTML profile page](../../produkte/lanzarote-lanzarote-bildband-e-book-34286.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $14.59 (Single payment) |
+| Price | $14.60 (Single payment) |
 | Affiliate commission | 35% |
 | Earnings/sale* | $2.95 |
 | Cart conversion* | 31% |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | rheinrost |
 | Listed since | 2020-10-02 |
 | Auto-accept affiliates | yes |
-| Categories | Hobby & Craft, Photography & Film, Travel & Culture |
+| Categories | Travel & Culture, Hobby & Craft, Photography & Film |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -80,14 +80,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist LANZAROTE: Lanzarote Bildband [E-Book]? — Typ: E-books, Anbieter: rheinrost, gelistet seit 2020-10-02
-- Wie viel kostet es? — 14.591205000000002 USD
+- Wie viel kostet es? — 14.600340000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: LANZAROTE: Lanzarote Bildband [E-Book] Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/350621
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/350621/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=LANZAROTE%3A%20Lanzarote%20Bildband%20%5BE-Book%5D
 
 ## 4. Editorial notes

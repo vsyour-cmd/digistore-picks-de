@@ -4,34 +4,34 @@ digistore24_product_id: 707689
 title: "Ferienwohnung einrichten – Praxiswissen aus über 100 Objekten"
 vendor: "Anha13"
 product_type: "E-books"
-price: 26.02
+price: 26.03
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 10.41
+earnings_per_sale: 10.42
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hotels & Gastronomy"]
 listed_since: "2026-09-13"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/59163/adminstore/"
+promo_link: "https://ahliving.de/ferienwohnung-einrichten-mit-leidenschaft-meine-geheimnisse-aus-ueber-100-ferienwohnung-projekten/?aff=adminstore#aff=adminstore"
 sales_page: "https://ahliving.de/ferienwohnung-einrichten-mit-leidenschaft-meine-geheimnisse-aus-ueber-100-ferienwohnung-projekten/"
 language: "de"
 ---
 # Ferienwohnung einrichten – Praxiswissen aus über 100 Objekten
 
 > Product ID `59163` · Digistore24 productId `707689` · [HTML profile page](../../produkte/ferienwohnung-einrichten-praxiswissen-aus-ber-100-objekten-59163.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $26.02 (Single payment) |
+| Price | $26.03 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $10.41 |
+| Earnings/sale* | $10.42 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Anha13 |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59163/adminstore/
+- **Promo link (affiliate):** https://ahliving.de/ferienwohnung-einrichten-mit-leidenschaft-meine-geheimnisse-aus-ueber-100-ferienwohnung-projekten/?aff=adminstore#aff=adminstore
 - Sales page: https://ahliving.de/ferienwohnung-einrichten-mit-leidenschaft-meine-geheimnisse-aus-ueber-100-ferienwohnung-projekten/
 - Canonical redirect: https://www.digistore24.com/redir/707689/adminstore
 
@@ -83,14 +83,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ferienwohnung einrichten – Praxiswissen aus über 100 Objekten? — Typ: E-books, Anbieter: Anha13, gelistet seit 2026-09-13
-- Wie viel kostet es? — 26.018187 USD
+- Wie viel kostet es? — 26.034476 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Ferienwohnung einrichten – Praxiswissen aus über 100 Objekten Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/707689
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/707689/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Ferienwohnung%20einrichten%20%E2%80%93%20Praxiswissen%20aus%20%C3%BCber%20100%20Objekten
 
 ## 4. Editorial notes

@@ -4,7 +4,7 @@ digistore24_product_id: 703771
 title: "Spar-Masterplan – Der ultimative Finanzleitfaden"
 vendor: "StreetArtCompany"
 product_type: "E-books"
-price: 19.86
+price: 19.87
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 9.93
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Finances"]
 listed_since: "2026-06-25"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/57133/adminstore/"
+promo_link: "https://www.digistore24.com/product/703771?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/703771"
 language: "de"
 ---
 # Spar-Masterplan – Der ultimative Finanzleitfaden
 
 > Product ID `57133` · Digistore24 productId `703771` · [HTML profile page](../../produkte/spar-masterplan-der-ultimative-finanzleitfaden-57133.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $19.86 (Single payment) |
+| Price | $19.87 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $9.93 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/57133/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/703771?aff=adminstore
 - Sales page: https://www.digistore24.com/product/703771
 - Canonical redirect: https://www.digistore24.com/redir/703771/adminstore
 
@@ -70,14 +70,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Spar-Masterplan – Der ultimative Finanzleitfaden? — Typ: E-books, Anbieter: StreetArtCompany, gelistet seit 2026-06-25
-- Wie viel kostet es? — 19.857456000000003 USD
+- Wie viel kostet es? — 19.869888000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Spar-Masterplan – Der ultimative Finanzleitfaden Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/703771
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/703771/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Spar-Masterplan%20%E2%80%93%20Der%20ultimative%20Finanzleitfaden
 
 ## 4. Editorial notes

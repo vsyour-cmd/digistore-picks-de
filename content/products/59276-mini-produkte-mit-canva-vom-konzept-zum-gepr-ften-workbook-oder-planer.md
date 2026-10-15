@@ -4,16 +4,16 @@ digistore24_product_id: 733946
 title: "Mini-Produkte mit Canva: Vom Konzept zum geprüften Workbook oder Planer"
 vendor: "einfachmitmatze"
 product_type: "Downloads"
-price: 93.01
+price: 93.07
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 46.51
+earnings_per_sale: 46.54
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Social Media","Marketing Services"]
 listed_since: "2026-09-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://einfachmitmatze.de/mini-produkte-canva/?aff=adminstore#aff=adminstore"
 sales_page: "https://einfachmitmatze.de/mini-produkte-canva/"
@@ -22,16 +22,16 @@ language: "de"
 # Mini-Produkte mit Canva: Vom Konzept zum geprüften Workbook oder Planer
 
 > Product ID `59276` · Digistore24 productId `733946` · [HTML profile page](../../produkte/mini-produkte-mit-canva-vom-konzept-zum-gepr-ften-workbook-oder-planer-59276.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $93.01 (Single payment) |
+| Price | $93.07 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $46.51 |
+| Earnings/sale* | $46.54 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | einfachmitmatze |
@@ -88,14 +88,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mini-Produkte mit Canva: Vom Konzept zum geprüften Workbook oder Planer? — Typ: Downloads, Anbieter: einfachmitmatze, gelistet seit 2026-09-16
-- Wie viel kostet es? — 93.014739 USD
+- Wie viel kostet es? — 93.072972 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Mini-Produkte mit Canva: Vom Konzept zum geprüften Workbook oder Planer Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/733946
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/733946/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Mini-Produkte%20mit%20Canva%3A%20Vom%20Konzept%20zum%20gepr%C3%BCften%20Workbook%20oder%20Planer
 
 ## 4. Editorial notes

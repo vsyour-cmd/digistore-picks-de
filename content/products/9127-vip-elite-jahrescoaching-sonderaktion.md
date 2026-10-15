@@ -4,16 +4,16 @@ digistore24_product_id: 112097
 title: "VIP ELITE JahresCoaching - SONDERAKTION"
 vendor: "vipdigi"
 product_type: "Remote service provided electronically"
-price: 3946.23
+price: 3948.7
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 789.24
+earnings_per_sale: 789.74
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2017-01-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "http://www.focusing-power.com/?aff=adminstore#aff=adminstore"
 sales_page: "http://www.focusing-power.com/"
@@ -22,16 +22,16 @@ language: "de"
 # VIP ELITE JahresCoaching - SONDERAKTION
 
 > Product ID `9127` · Digistore24 productId `112097` · [HTML profile page](../../produkte/vip-elite-jahrescoaching-sonderaktion-9127.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $3946.23 (Single payment, Installment) |
+| Price | $3948.70 (Single payment, Installment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $789.24 |
+| Earnings/sale* | $789.74 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | vipdigi |
@@ -80,14 +80,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist VIP ELITE JahresCoaching - SONDERAKTION? — Typ: Remote service provided electronically, Anbieter: vipdigi, gelistet seit 2017-01-06
-- Wie viel kostet es? — 3946.233321 USD
+- Wie viel kostet es? — 3948.703908 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: VIP ELITE JahresCoaching - SONDERAKTION Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/112097
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/112097/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=VIP%20ELITE%20JahresCoaching%20-%20SONDERAKTION
 
 ## 4. Editorial notes

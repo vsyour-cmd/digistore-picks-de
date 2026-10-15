@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2026-08-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/58233/adminstore/"
+promo_link: "https://nichtraucherzone.de/7-tage-rauchfrei-startplan?aff=adminstore#aff=adminstore"
 sales_page: "https://nichtraucherzone.de/7-tage-rauchfrei-startplan"
 language: "de"
 ---
 # 7-Tage-Rauchfrei-Startplan – 0 € Einstieg + 50 % Provision
 
 > Product ID `58233` · Digistore24 productId `717823` · [HTML profile page](../../produkte/7-tage-rauchfrei-startplan-0-einstieg-50-provision-58233.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58233/adminstore/
+- **Promo link (affiliate):** https://nichtraucherzone.de/7-tage-rauchfrei-startplan?aff=adminstore#aff=adminstore
 - Sales page: https://nichtraucherzone.de/7-tage-rauchfrei-startplan
 - Vendor affiliate support: https://nichtraucherzone.de/partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/717823/adminstore
@@ -108,7 +108,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 7-Tage-Rauchfrei-Startplan – 0 € Einstieg + 50 % Provision Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/717823
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/717823/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=7-Tage-Rauchfrei-Startplan%20%E2%80%93%200%20%E2%82%AC%20Einstieg%20%2B%2050%20%25%20Provision
 
 ## 4. Editorial notes

@@ -4,7 +4,7 @@ digistore24_product_id: 568075
 title: "OnlyFans Masterclass | Komplettanleitung"
 vendor: "sparweise"
 product_type: "E-books"
-price: 10.44
+price: 10.45
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 5.22
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2024-09-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.sparweise.de/onlyfans-masterclass-ebook-deutsch/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.sparweise.de/onlyfans-masterclass-ebook-deutsch/"
@@ -22,14 +22,14 @@ language: "de"
 # OnlyFans Masterclass | Komplettanleitung
 
 > Product ID `49100` · Digistore24 productId `568075` · [HTML profile page](../../produkte/onlyfans-masterclass-komplettanleitung-49100.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.44 (Single payment) |
+| Price | $10.45 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $5.22 |
 | Cart conversion* | — |
@@ -78,14 +78,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist OnlyFans Masterclass | Komplettanleitung? — Typ: E-books, Anbieter: sparweise, gelistet seit 2024-09-01
-- Wie viel kostet es? — 10.443054 USD
+- Wie viel kostet es? — 10.449592 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: OnlyFans Masterclass | Komplettanleitung Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/568075
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/568075/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=OnlyFans%20Masterclass%20%7C%20Komplettanleitung
 
 ## 4. Editorial notes

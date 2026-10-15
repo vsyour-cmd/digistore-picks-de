@@ -4,16 +4,16 @@ digistore24_product_id: 663868
 title: "SalesPals Systems - All-In Class"
 vendor: "SalesPalsSystems"
 product_type: "Telephone coaching"
-price: 43.2
+price: 43.23
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 21.6
+earnings_per_sale: 21.62
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Social Media","Sales Training","Marketing Services"]
+categories: ["Social Media","Marketing Services","Sales Training"]
 listed_since: "2026-01-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/663868?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/663868"
@@ -22,22 +22,22 @@ language: "de"
 # SalesPals Systems - All-In Class
 
 > Product ID `55308` · Digistore24 productId `663868` · [HTML profile page](../../produkte/salespals-systems-all-in-class-55308.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Telephone coaching |
-| Price | $43.20 (Subscription) |
+| Price | $43.23 (Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $21.60 |
+| Earnings/sale* | $21.62 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SalesPalsSystems |
 | Listed since | 2026-01-24 |
 | Auto-accept affiliates | no (approval required) |
-| Categories | Social Media, Sales Training, Marketing Services |
+| Categories | Social Media, Marketing Services, Sales Training |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -91,14 +91,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist SalesPals Systems - All-In Class? — Typ: Telephone coaching, Anbieter: SalesPalsSystems, gelistet seit 2026-01-24
-- Wie viel kostet es? — 43.20338400000001 USD
+- Wie viel kostet es? — 43.230432 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: SalesPals Systems - All-In Class Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/663868
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/663868/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=SalesPals%20Systems%20-%20All-In%20Class
 
 ## 4. Editorial notes

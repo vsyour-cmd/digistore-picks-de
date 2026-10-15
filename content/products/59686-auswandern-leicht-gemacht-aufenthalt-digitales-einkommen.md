@@ -4,16 +4,16 @@ digistore24_product_id: 736764
 title: "Auswandern leicht gemacht: Aufenthalt  digitales Einkommen"
 vendor: "nowdigitalproducts"
 product_type: "Downloads"
-price: 271.54
+price: 271.71
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 108.61
+earnings_per_sale: 108.68
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Business & Investment","Personal Development"]
+categories: ["Personal Development","Business & Investment"]
 listed_since: "2026-09-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/736764?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/736764"
@@ -22,22 +22,22 @@ language: "de"
 # Auswandern leicht gemacht: Aufenthalt  digitales Einkommen
 
 > Product ID `59686` · Digistore24 productId `736764` · [HTML profile page](../../produkte/auswandern-leicht-gemacht-aufenthalt-digitales-einkommen-59686.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $271.54 (Single payment) |
+| Price | $271.71 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $108.61 |
+| Earnings/sale* | $108.68 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | nowdigitalproducts |
 | Listed since | 2026-09-24 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Personal Development |
+| Categories | Personal Development, Business & Investment |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -90,14 +90,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Auswandern leicht gemacht: Aufenthalt  digitales Einkommen? — Typ: Downloads, Anbieter: nowdigitalproducts, gelistet seit 2026-09-24
-- Wie viel kostet es? — 271.54176600000005 USD
+- Wie viel kostet es? — 271.711768 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Auswandern leicht gemacht: Aufenthalt  digitales Einkommen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/736764
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/736764/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Auswandern%20leicht%20gemacht%3A%20Aufenthalt%20%20digitales%20Einkommen
 
 ## 4. Editorial notes

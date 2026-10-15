@@ -10,10 +10,10 @@ affiliate_commission_pct: 70
 earnings_per_sale: 0
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Business & Investment","Personal Development","Real Estate"]
+categories: ["Personal Development","Business & Investment","Real Estate"]
 listed_since: "2026-06-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://academy.e-ducation.cloud/course/sic-checkliste-zur-bestandsaufnahme-bei-verkaufsstagnation-von-immobilien?aff=adminstore#aff=adminstore"
 sales_page: "https://academy.e-ducation.cloud/course/sic-checkliste-zur-bestandsaufnahme-bei-verkaufsstagnation-von-immobilien"
@@ -22,7 +22,7 @@ language: "de"
 # SIC - Checkliste zur Bestandsaufnahme bei Verkaufsstagnation
 
 > Product ID `56778` · Digistore24 productId `692376` · [HTML profile page](../../produkte/sic-checkliste-zur-bestandsaufnahme-bei-verkaufsstagnation-56778.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | Immoclear |
 | Listed since | 2026-06-01 |
 | Auto-accept affiliates | no (approval required) |
-| Categories | Business & Investment, Personal Development, Real Estate |
+| Categories | Personal Development, Business & Investment, Real Estate |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -77,7 +77,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: SIC - Checkliste zur Bestandsaufnahme bei Verkaufsstagnation Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/692376
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/692376/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=SIC%20-%20Checkliste%20zur%20Bestandsaufnahme%20bei%20Verkaufsstagnation
 
 ## 4. Editorial notes

@@ -4,7 +4,7 @@ digistore24_product_id: 504054
 title: "101 Magische Verkaufstexte - So geht Verkaufen kinderleicht!"
 vendor: "geldhuepfer"
 product_type: "E-books"
-price: 31.34
+price: 31.36
 currency: "USD"
 affiliate_commission_pct: 25
 earnings_per_sale: 7.84
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job","Marketing Services"]
 listed_since: "2023-06-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/504054?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/504054"
@@ -22,14 +22,14 @@ language: "de"
 # 101 Magische Verkaufstexte - So geht Verkaufen kinderleicht!
 
 > Product ID `44414` · Digistore24 productId `504054` · [HTML profile page](../../produkte/101-magische-verkaufstexte-so-geht-verkaufen-kinderleicht-44414.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $31.34 (Single payment) |
+| Price | $31.36 (Single payment) |
 | Affiliate commission | 25% |
 | Earnings/sale* | $7.84 |
 | Cart conversion* | — |
@@ -70,14 +70,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 101 Magische Verkaufstexte - So geht Verkaufen kinderleicht!? — Typ: E-books, Anbieter: geldhuepfer, gelistet seit 2023-06-21
-- Wie viel kostet es? — 31.340343000000004 USD
+- Wie viel kostet es? — 31.359964 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 101 Magische Verkaufstexte - So geht Verkaufen kinderleicht! Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/504054
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/504054/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=101%20Magische%20Verkaufstexte%20-%20So%20geht%20Verkaufen%20kinderleicht!
 
 ## 4. Editorial notes

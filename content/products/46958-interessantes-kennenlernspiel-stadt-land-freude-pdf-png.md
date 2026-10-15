@@ -4,7 +4,7 @@ digistore24_product_id: 535532
 title: "interessantes Kennenlernspiel: Stadt Land Freude (PDF, PNG"
 vendor: "wiegehtliebe-de"
 product_type: "Downloads"
-price: 9.3
+price: 9.31
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 4.65
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Family & Children","Fun & Games"]
 listed_since: "2024-01-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://melli-seedorf.de/stadt-land-glueckstraining/?aff=adminstore#aff=adminstore"
 sales_page: "https://melli-seedorf.de/stadt-land-glueckstraining/"
@@ -22,14 +22,14 @@ language: "de"
 # interessantes Kennenlernspiel: Stadt Land Freude (PDF, PNG
 
 > Product ID `46958` · Digistore24 productId `535532` · [HTML profile page](../../produkte/interessantes-kennenlernspiel-stadt-land-freude-pdf-png-46958.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $9.30 (Single payment) |
+| Price | $9.31 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $4.65 |
 | Cart conversion* | — |
@@ -80,14 +80,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist interessantes Kennenlernspiel: Stadt Land Freude (PDF, PNG? — Typ: Downloads, Anbieter: wiegehtliebe-de, gelistet seit 2024-01-22
-- Wie viel kostet es? — 9.302592 USD
+- Wie viel kostet es? — 9.308416000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: interessantes Kennenlernspiel: Stadt Land Freude (PDF, PNG Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/535532
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/535532/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=interessantes%20Kennenlernspiel%3A%20Stadt%20Land%20Freude%20(PDF%2C%20PNG
 
 ## 4. Editorial notes

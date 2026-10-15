@@ -4,7 +4,7 @@ digistore24_product_id: 701948
 title: "Flirten lernen"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 18.71
+price: 18.72
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 9.36
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2026-06-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://ratgeberplatz.de/ratgeber/flirten-lernen?aff=adminstore#aff=adminstore"
 sales_page: "https://ratgeberplatz.de/ratgeber/flirten-lernen"
@@ -22,14 +22,14 @@ language: "de"
 # Flirten lernen
 
 > Product ID `57190` · Digistore24 productId `701948` · [HTML profile page](../../produkte/flirten-lernen-57190.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $18.71 (Single payment) |
+| Price | $18.72 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $9.36 |
 | Cart conversion* | — |
@@ -85,14 +85,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Flirten lernen? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-06-29
-- Wie viel kostet es? — 18.705813000000003 USD
+- Wie viel kostet es? — 18.717524 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Flirten lernen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/701948
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/701948/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Flirten%20lernen
 
 ## 4. Editorial notes

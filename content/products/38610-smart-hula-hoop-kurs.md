@@ -4,16 +4,16 @@ digistore24_product_id: 404895
 title: "Smart Hula Hoop Kurs"
 vendor: "MichaelRolle"
 product_type: "Member area and video courses"
-price: 18.78
+price: 18.8
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 7.51
+earnings_per_sale: 7.52
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2021-08-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://smarthulahoop.de/smart-hula-hoop-video-kurs/?aff=adminstore#aff=adminstore"
 sales_page: "https://smarthulahoop.de/smart-hula-hoop-video-kurs/"
@@ -22,16 +22,16 @@ language: "de"
 # Smart Hula Hoop Kurs
 
 > Product ID `38610` · Digistore24 productId `404895` · [HTML profile page](../../produkte/smart-hula-hoop-kurs-38610.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $18.78 (Single payment) |
+| Price | $18.80 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $7.51 |
+| Earnings/sale* | $7.52 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MichaelRolle |
@@ -83,14 +83,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Smart Hula Hoop Kurs? — Typ: Member area and video courses, Anbieter: MichaelRolle, gelistet seit 2021-08-29
-- Wie viel kostet es? — 18.784080000000003 USD
+- Wie viel kostet es? — 18.795840000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Smart Hula Hoop Kurs Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/404895
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/404895/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Smart%20Hula%20Hoop%20Kurs
 
 ## 4. Editorial notes

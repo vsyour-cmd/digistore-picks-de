@@ -4,7 +4,7 @@ digistore24_product_id: 218797
 title: "Der 80/20 Networker - Mehr Erreichen mit weniger Aufwand"
 vendor: "rekrutier"
 product_type: "Book (printed)"
-price: 16.74
+price: 16.75
 currency: "USD"
 affiliate_commission_pct: 0
 earnings_per_sale: 0.04
@@ -12,24 +12,24 @@ cart_conversion_pct: 12
 cancel_rate_pct: 0.95
 categories: ["Profession & Job"]
 listed_since: "2018-05-02"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/24585/adminstore/"
+promo_link: "https://www.rekru-tier.de/buch-8020networker?aff=adminstore#aff=adminstore"
 sales_page: "https://www.rekru-tier.de/buch-8020networker"
 language: "de"
 ---
 # Der 80/20 Networker - Mehr Erreichen mit weniger Aufwand
 
 > Product ID `24585` · Digistore24 productId `218797` · [HTML profile page](../../produkte/der-80-20-networker-mehr-erreichen-mit-weniger-aufwand-24585.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $16.74 (Single payment) |
+| Price | $16.75 (Single payment) |
 | Affiliate commission | 0% |
 | Earnings/sale* | $0.04 |
 | Cart conversion* | 12% |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/24585/adminstore/
+- **Promo link (affiliate):** https://www.rekru-tier.de/buch-8020networker?aff=adminstore#aff=adminstore
 - Sales page: https://www.rekru-tier.de/buch-8020networker
 - Canonical redirect: https://www.digistore24.com/redir/218797/adminstore
 
@@ -84,14 +84,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der 80/20 Networker - Mehr Erreichen mit weniger Aufwand? — Typ: Book (printed), Anbieter: rekrutier, gelistet seit 2018-05-02
-- Wie viel kostet es? — 16.737957 USD
+- Wie viel kostet es? — 16.748436 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Der 80/20 Networker - Mehr Erreichen mit weniger Aufwand Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/218797
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/218797/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%2080%2F20%20Networker%20-%20Mehr%20Erreichen%20mit%20weniger%20Aufwand
 
 ## 4. Editorial notes

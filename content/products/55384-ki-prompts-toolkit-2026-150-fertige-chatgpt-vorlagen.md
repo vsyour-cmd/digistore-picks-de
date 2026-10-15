@@ -4,16 +4,16 @@ digistore24_product_id: 663205
 title: "KI-Prompts Toolkit 2026 – 150+ fertige ChatGPT-Vorlagen"
 vendor: "OFFICIALDIGI24"
 product_type: "Downloads"
-price: 15.03
+price: 15.04
 currency: "USD"
 affiliate_commission_pct: 80
-earnings_per_sale: 12.02
+earnings_per_sale: 12.03
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Profession & Job","Marketing Services"]
+categories: ["Profession & Job","Education","Marketing Services"]
 listed_since: "2026-01-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/663205?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/663205"
@@ -22,22 +22,22 @@ language: "de"
 # KI-Prompts Toolkit 2026 – 150+ fertige ChatGPT-Vorlagen
 
 > Product ID `55384` · Digistore24 productId `663205` · [HTML profile page](../../produkte/ki-prompts-toolkit-2026-150-fertige-chatgpt-vorlagen-55384.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $15.03 (Single payment) |
+| Price | $15.04 (Single payment) |
 | Affiliate commission | 80% |
-| Earnings/sale* | $12.02 |
+| Earnings/sale* | $12.03 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | OFFICIALDIGI24 |
 | Listed since | 2026-01-21 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Profession & Job, Marketing Services |
+| Categories | Profession & Job, Education, Marketing Services |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI-Prompts Toolkit 2026 – 150+ fertige ChatGPT-Vorlagen? — Typ: Downloads, Anbieter: OFFICIALDIGI24, gelistet seit 2026-01-21
-- Wie viel kostet es? — 15.027264 USD
+- Wie viel kostet es? — 15.036672 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: KI-Prompts Toolkit 2026 – 150+ fertige ChatGPT-Vorlagen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/663205
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/663205/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=KI-Prompts%20Toolkit%202026%20%E2%80%93%20150%2B%20fertige%20ChatGPT-Vorlagen
 
 ## 4. Editorial notes

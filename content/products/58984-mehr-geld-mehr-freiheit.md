@@ -4,16 +4,16 @@ digistore24_product_id: 730690
 title: "Mehr Geld mehr Freiheit"
 vendor: "mlangbein51cce0"
 product_type: "E-books"
-price: 49.12
+price: 49.15
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 24.56
+earnings_per_sale: 24.58
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Personal Development","Profession & Job"]
+categories: ["Personal Development","Profession & Job","Education"]
 listed_since: "2026-09-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/730690?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/730690"
@@ -22,22 +22,22 @@ language: "de"
 # Mehr Geld mehr Freiheit
 
 > Product ID `58984` · Digistore24 productId `730690` · [HTML profile page](../../produkte/mehr-geld-mehr-freiheit-58984.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $49.12 (Single payment) |
+| Price | $49.15 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $24.56 |
+| Earnings/sale* | $24.58 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | mlangbein51cce0 |
 | Listed since | 2026-09-07 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Personal Development, Profession & Job |
+| Categories | Personal Development, Profession & Job, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mehr Geld mehr Freiheit? — Typ: E-books, Anbieter: mlangbein51cce0, gelistet seit 2026-09-07
-- Wie viel kostet es? — 49.118133 USD
+- Wie viel kostet es? — 49.148884 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Mehr Geld mehr Freiheit Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/730690
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/730690/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Mehr%20Geld%20mehr%20Freiheit
 
 ## 4. Editorial notes

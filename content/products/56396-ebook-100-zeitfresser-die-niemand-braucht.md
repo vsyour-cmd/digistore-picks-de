@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Social Media"]
 listed_since: "2026-04-30"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/689057?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/689057"
@@ -22,7 +22,7 @@ language: "de"
 # Ebook - 100 Zeitfresser die niemand braucht
 
 > Product ID `56396` · Digistore24 productId `689057` · [HTML profile page](../../produkte/ebook-100-zeitfresser-die-niemand-braucht-56396.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ebook - 100 Zeitfresser die niemand braucht? — Typ: E-books, Anbieter: joebgesbuchverleger39ac, gelistet seit 2026-04-30
-- Wie viel kostet es? — 6.786867000000001 USD
+- Wie viel kostet es? — 6.791116000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Ebook - 100 Zeitfresser die niemand braucht Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/689057
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/689057/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Ebook%20-%20100%20Zeitfresser%20die%20niemand%20braucht
 
 ## 4. Editorial notes

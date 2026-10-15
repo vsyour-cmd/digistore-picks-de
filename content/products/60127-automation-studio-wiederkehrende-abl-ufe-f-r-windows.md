@@ -4,40 +4,40 @@ digistore24_product_id: 740613
 title: "Automation Studio – Wiederkehrende Abläufe für Windows"
 vendor: "inspiredsoftware"
 product_type: "Software"
-price: 334.31
+price: 334.52
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 133.72
+earnings_per_sale: 133.81
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Computer & Internet","Software"]
+categories: ["Software","Computer & Internet"]
 listed_since: "2026-10-02"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/60127/adminstore/"
+promo_link: "https://www.inspiredsoftware.de/go/automationstudio?aff=adminstore#aff=adminstore"
 sales_page: "https://www.inspiredsoftware.de/go/automationstudio"
 language: "de"
 ---
 # Automation Studio – Wiederkehrende Abläufe für Windows
 
 > Product ID `60127` · Digistore24 productId `740613` · [HTML profile page](../../produkte/automation-studio-wiederkehrende-abl-ufe-f-r-windows-60127.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $334.31 (Single payment) |
+| Price | $334.52 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $133.72 |
+| Earnings/sale* | $133.81 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | inspiredsoftware |
 | Listed since | 2026-10-02 |
 | Auto-accept affiliates | yes |
-| Categories | Computer & Internet, Software |
+| Categories | Software, Computer & Internet |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/60127/adminstore/
+- **Promo link (affiliate):** https://www.inspiredsoftware.de/go/automationstudio?aff=adminstore#aff=adminstore
 - Sales page: https://www.inspiredsoftware.de/go/automationstudio
 - Vendor affiliate support: https://inspiredsoftware.de/automationstudio/werbemittel.html
 - Canonical redirect: https://www.digistore24.com/redir/740613/adminstore
@@ -85,14 +85,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Automation Studio – Wiederkehrende Abläufe für Windows? — Typ: Software, Anbieter: inspiredsoftware, gelistet seit 2026-10-02
-- Wie viel kostet es? — 334.31190000000004 USD
+- Wie viel kostet es? — 334.5212 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Automation Studio – Wiederkehrende Abläufe für Windows Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/740613
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/740613/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Automation%20Studio%20%E2%80%93%20Wiederkehrende%20Abl%C3%A4ufe%20f%C3%BCr%20Windows
 
 ## 4. Editorial notes

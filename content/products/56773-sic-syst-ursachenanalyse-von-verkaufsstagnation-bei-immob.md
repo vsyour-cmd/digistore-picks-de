@@ -10,19 +10,19 @@ affiliate_commission_pct: 50
 earnings_per_sale: 0
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Business & Investment","Personal Development","Real Estate"]
+categories: ["Personal Development","Business & Investment","Real Estate"]
 listed_since: "2026-06-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/56773/adminstore/"
+promo_link: "https://academy.e-ducation.cloud/course/sic-systemi-ursachenanalyse-v-verkaufsstagnation-b-immob?aff=adminstore#aff=adminstore"
 sales_page: "https://academy.e-ducation.cloud/course/sic-systemi-ursachenanalyse-v-verkaufsstagnation-b-immob"
 language: "de"
 ---
 # SIC - Syst. Ursachenanalyse von Verkaufsstagnation bei Immob
 
 > Product ID `56773` · Digistore24 productId `692449` · [HTML profile page](../../produkte/sic-syst-ursachenanalyse-von-verkaufsstagnation-bei-immob-56773.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | Immoclear |
 | Listed since | 2026-06-01 |
 | Auto-accept affiliates | no (approval required) |
-| Categories | Business & Investment, Personal Development, Real Estate |
+| Categories | Personal Development, Business & Investment, Real Estate |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56773/adminstore/
+- **Promo link (affiliate):** https://academy.e-ducation.cloud/course/sic-systemi-ursachenanalyse-v-verkaufsstagnation-b-immob?aff=adminstore#aff=adminstore
 - Sales page: https://academy.e-ducation.cloud/course/sic-systemi-ursachenanalyse-v-verkaufsstagnation-b-immob
 - Vendor affiliate support: https://success.e-ducation.cloud/sic-p2-syst-ursachen-v-verkaufsstagnation-b-immobil-mpp
 - Canonical redirect: https://www.digistore24.com/redir/692449/adminstore
@@ -78,7 +78,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: SIC - Syst. Ursachenanalyse von Verkaufsstagnation bei Immob Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/692449
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/692449/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=SIC%20-%20Syst.%20Ursachenanalyse%20von%20Verkaufsstagnation%20bei%20Immob
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 536949
 title: "BricsCAD BIM Video-Kurs"
 vendor: "CADDeutschland"
 product_type: "Member area and video courses"
-price: 423.76
+price: 424.03
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 84.75
+earnings_per_sale: 84.81
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2026-07-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://cad-video.de/bricscad-bim-channel?aff=adminstore#aff=adminstore"
 sales_page: "https://cad-video.de/bricscad-bim-channel"
@@ -22,16 +22,16 @@ language: "de"
 # BricsCAD BIM Video-Kurs
 
 > Product ID `57336` · Digistore24 productId `536949` · [HTML profile page](../../produkte/bricscad-bim-video-kurs-57336.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $423.76 (Single payment) |
+| Price | $424.03 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $84.75 |
+| Earnings/sale* | $84.81 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | CADDeutschland |
@@ -88,14 +88,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist BricsCAD BIM Video-Kurs? — Typ: Member area and video courses, Anbieter: CADDeutschland, gelistet seit 2026-07-01
-- Wie viel kostet es? — 423.7599 USD
+- Wie viel kostet es? — 424.0252 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: BricsCAD BIM Video-Kurs Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/536949
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/536949/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=BricsCAD%20BIM%20Video-Kurs
 
 ## 4. Editorial notes

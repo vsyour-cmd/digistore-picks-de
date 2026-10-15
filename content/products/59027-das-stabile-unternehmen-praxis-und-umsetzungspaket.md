@@ -4,34 +4,34 @@ digistore24_product_id: 731015
 title: "Das stabile Unternehmen – Praxis- und Umsetzungspaket"
 vendor: "dejo777"
 product_type: "Downloads"
-price: 23.39
+price: 23.41
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 7.02
+earnings_per_sale: 7.03
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Computer & Internet","Profession & Job"]
 listed_since: "2026-09-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/59027/adminstore/"
+promo_link: "https://www.softpac.de/cms/das-stabile-unternehmen-praxispaket.html?aff=adminstore#aff=adminstore"
 sales_page: "https://www.softpac.de/cms/das-stabile-unternehmen-praxispaket.html"
 language: "de"
 ---
 # Das stabile Unternehmen – Praxis- und Umsetzungspaket
 
 > Product ID `59027` · Digistore24 productId `731015` · [HTML profile page](../../produkte/das-stabile-unternehmen-praxis-und-umsetzungspaket-59027.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $23.39 (Single payment) |
+| Price | $23.41 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $7.02 |
+| Earnings/sale* | $7.03 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | dejo777 |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59027/adminstore/
+- **Promo link (affiliate):** https://www.softpac.de/cms/das-stabile-unternehmen-praxispaket.html?aff=adminstore#aff=adminstore
 - Sales page: https://www.softpac.de/cms/das-stabile-unternehmen-praxispaket.html
 - Vendor affiliate support: https://www.softpac.de/cms/affiliate-das-stabile-unternehmen-praxispaket.html
 - Canonical redirect: https://www.digistore24.com/redir/731015/adminstore
@@ -83,14 +83,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das stabile Unternehmen – Praxis- und Umsetzungspaket? — Typ: Downloads, Anbieter: dejo777, gelistet seit 2026-09-08
-- Wie viel kostet es? — 23.390652000000003 USD
+- Wie viel kostet es? — 23.405296000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Das stabile Unternehmen – Praxis- und Umsetzungspaket Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/731015
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/731015/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Das%20stabile%20Unternehmen%20%E2%80%93%20Praxis-%20und%20Umsetzungspaket
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 728311
 title: "E-Rechnung 2026/27-Workbook für Solos — 50 %, 67 € einmalig"
 vendor: "lvlBoZzlvl"
 product_type: "E-books"
-price: 70.02
+price: 70.06
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 35.01
+earnings_per_sale: 35.03
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2026-09-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://finanzamt-klar.pages.dev?aff=adminstore#aff=adminstore"
 sales_page: "https://finanzamt-klar.pages.dev"
@@ -22,16 +22,16 @@ language: "de"
 # E-Rechnung 2026/27-Workbook für Solos — 50 %, 67 € einmalig
 
 > Product ID `58856` · Digistore24 productId `728311` · [HTML profile page](../../produkte/e-rechnung-2026-27-workbook-f-r-solos-50-67-einmalig-58856.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $70.02 (Single payment) |
+| Price | $70.06 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $35.01 |
+| Earnings/sale* | $35.03 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | lvlBoZzlvl |
@@ -94,14 +94,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist E-Rechnung 2026/27-Workbook für Solos — 50 %, 67 € einmalig? — Typ: E-books, Anbieter: lvlBoZzlvl, gelistet seit 2026-09-01
-- Wie viel kostet es? — 70.015422 USD
+- Wie viel kostet es? — 70.059256 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: E-Rechnung 2026/27-Workbook für Solos — 50 %, 67 € einmalig Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/728311
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/728311/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=E-Rechnung%202026%2F27-Workbook%20f%C3%BCr%20Solos%20%E2%80%94%2050%20%25%2C%2067%20%E2%82%AC%20einmalig
 
 ## 4. Editorial notes

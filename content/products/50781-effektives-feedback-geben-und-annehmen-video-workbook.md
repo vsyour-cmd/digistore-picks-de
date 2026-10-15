@@ -4,40 +4,40 @@ digistore24_product_id: 586705
 title: "Effektives Feedback geben und annehmen – Video + Workbook"
 vendor: "PFEOS-Kraemer"
 product_type: "Member area and video courses"
-price: 14
+price: 14.01
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 4.2
+earnings_per_sale: 4.21
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Profession & Job","Leadership & Management"]
+categories: ["Profession & Job","Education","Leadership & Management"]
 listed_since: "2024-12-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/50781/adminstore/"
+promo_link: "https://www.digistore24.com/product/586705?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/586705"
 language: "de"
 ---
 # Effektives Feedback geben und annehmen – Video + Workbook
 
 > Product ID `50781` · Digistore24 productId `586705` · [HTML profile page](../../produkte/effektives-feedback-geben-und-annehmen-video-workbook-50781.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $14.00 (Single payment) |
+| Price | $14.01 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $4.20 |
+| Earnings/sale* | $4.21 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | PFEOS-Kraemer |
 | Listed since | 2024-12-18 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Profession & Job, Leadership & Management |
+| Categories | Profession & Job, Education, Leadership & Management |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/50781/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/586705?aff=adminstore
 - Sales page: https://www.digistore24.com/product/586705
 - Canonical redirect: https://www.digistore24.com/redir/586705/adminstore
 
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Effektives Feedback geben und annehmen – Video + Workbook? — Typ: Member area and video courses, Anbieter: PFEOS-Kraemer, gelistet seit 2024-12-18
-- Wie viel kostet es? — 13.998612000000001 USD
+- Wie viel kostet es? — 14.007375999999999 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Effektives Feedback geben und annehmen – Video + Workbook Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/586705
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/586705/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Effektives%20Feedback%20geben%20und%20annehmen%20%E2%80%93%20Video%20%2B%20Workbook
 
 ## 4. Editorial notes

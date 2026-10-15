@@ -4,34 +4,34 @@ digistore24_product_id: 337818
 title: "Der gesunde und ganzheitliche Ayur-Yoga-Basis-Kurs"
 vendor: "RaymondRittiner"
 product_type: "Member area and video courses"
-price: 86.5
+price: 86.55
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 50.78
+earnings_per_sale: 50.82
 cart_conversion_pct: 13
 cancel_rate_pct: 3.1
 categories: ["Health & Fitness"]
 listed_since: "2020-07-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/33571/adminstore/"
+promo_link: "https://go.ayuryoga.ch?aff=adminstore#aff=adminstore"
 sales_page: "https://go.ayuryoga.ch"
 language: "de"
 ---
 # Der gesunde und ganzheitliche Ayur-Yoga-Basis-Kurs
 
 > Product ID `33571` · Digistore24 productId `337818` · [HTML profile page](../../produkte/der-gesunde-und-ganzheitliche-ayur-yoga-basis-kurs-33571.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $86.50 (Single payment) |
+| Price | $86.55 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $50.78 |
+| Earnings/sale* | $50.82 |
 | Cart conversion* | 13% |
 | Cancel rate* | 3.1% |
 | Vendor | RaymondRittiner |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/33571/adminstore/
+- **Promo link (affiliate):** https://go.ayuryoga.ch?aff=adminstore#aff=adminstore
 - Sales page: https://go.ayuryoga.ch
 - Vendor affiliate support: https://ayuryoga.ch/partner
 - Canonical redirect: https://www.digistore24.com/redir/337818/adminstore
@@ -87,14 +87,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der gesunde und ganzheitliche Ayur-Yoga-Basis-Kurs? — Typ: Member area and video courses, Anbieter: RaymondRittiner, gelistet seit 2020-07-22
-- Wie viel kostet es? — 86.496216 USD
+- Wie viel kostet es? — 86.550368 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Der gesunde und ganzheitliche Ayur-Yoga-Basis-Kurs Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/337818
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/337818/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%20gesunde%20und%20ganzheitliche%20Ayur-Yoga-Basis-Kurs
 
 ## 4. Editorial notes

@@ -4,34 +4,34 @@ digistore24_product_id: 234406
 title: "E-Book: Auswander Lexikon"
 vendor: "Staatenlos"
 product_type: "E-books"
-price: 15.04
+price: 15.05
 currency: "USD"
 affiliate_commission_pct: 51
-earnings_per_sale: 1.93
+earnings_per_sale: 1.94
 cart_conversion_pct: 29
 cancel_rate_pct: 1.38
 categories: ["Travel & Culture"]
 listed_since: "2018-07-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/39447/adminstore/"
+promo_link: "https://staatenlos.ch/firma-gruenden/auswander-lexikon/?aff=adminstore#aff=adminstore"
 sales_page: "https://staatenlos.ch/firma-gruenden/auswander-lexikon/"
 language: "de"
 ---
 # E-Book: Auswander Lexikon
 
 > Product ID `39447` · Digistore24 productId `234406` · [HTML profile page](../../produkte/e-book-auswander-lexikon-39447.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $15.04 (Single payment) |
+| Price | $15.05 (Single payment) |
 | Affiliate commission | 51% |
-| Earnings/sale* | $1.93 |
+| Earnings/sale* | $1.94 |
 | Cart conversion* | 29% |
 | Cancel rate* | 1.38% |
 | Vendor | Staatenlos |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/39447/adminstore/
+- **Promo link (affiliate):** https://staatenlos.ch/firma-gruenden/auswander-lexikon/?aff=adminstore#aff=adminstore
 - Sales page: https://staatenlos.ch/firma-gruenden/auswander-lexikon/
 - Vendor affiliate support: https://staatenlos.ch/staatenlos/affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/234406/adminstore
@@ -84,14 +84,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist E-Book: Auswander Lexikon? — Typ: E-books, Anbieter: Staatenlos, gelistet seit 2018-07-24
-- Wie viel kostet es? — 15.038445000000001 USD
+- Wie viel kostet es? — 15.04786 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: E-Book: Auswander Lexikon Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/234406
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/234406/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=E-Book%3A%20Auswander%20Lexikon
 
 ## 4. Editorial notes

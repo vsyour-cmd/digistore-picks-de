@@ -4,16 +4,16 @@ digistore24_product_id: 732911
 title: "Etsy für Einsteiger: Eigene digitale Produkte entwickeln"
 vendor: "einfachmitmatze"
 product_type: "Downloads"
-price: 93.01
+price: 93.07
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 37.21
+earnings_per_sale: 37.23
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-09-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://einfachmitmatze.de/etsy/?aff=adminstore#aff=adminstore"
 sales_page: "https://einfachmitmatze.de/etsy/"
@@ -22,16 +22,16 @@ language: "de"
 # Etsy für Einsteiger: Eigene digitale Produkte entwickeln
 
 > Product ID `59238` · Digistore24 productId `732911` · [HTML profile page](../../produkte/etsy-f-r-einsteiger-eigene-digitale-produkte-entwickeln-59238.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $93.01 (Single payment) |
+| Price | $93.07 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $37.21 |
+| Earnings/sale* | $37.23 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | einfachmitmatze |
@@ -89,14 +89,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Etsy für Einsteiger: Eigene digitale Produkte entwickeln? — Typ: Downloads, Anbieter: einfachmitmatze, gelistet seit 2026-09-15
-- Wie viel kostet es? — 93.014739 USD
+- Wie viel kostet es? — 93.072972 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Etsy für Einsteiger: Eigene digitale Produkte entwickeln Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/732911
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/732911/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Etsy%20f%C3%BCr%20Einsteiger%3A%20Eigene%20digitale%20Produkte%20entwickeln
 
 ## 4. Editorial notes

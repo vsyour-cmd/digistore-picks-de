@@ -4,16 +4,16 @@ digistore24_product_id: 627419
 title: "„Telefon für dich“ - Anrufservice für Menschen mit Hemmungen"
 vendor: "Telefonfuerdich"
 product_type: "Telephone coaching"
-price: 158.79
+price: 158.89
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 47.64
+earnings_per_sale: 47.67
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Services","Marketing Services"]
 listed_since: "2025-08-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/627419?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/627419"
@@ -22,16 +22,16 @@ language: "de"
 # „Telefon für dich“ - Anrufservice für Menschen mit Hemmungen
 
 > Product ID `53390` · Digistore24 productId `627419` · [HTML profile page](../../produkte/telefon-f-r-dich-anrufservice-f-r-menschen-mit-hemmungen-53390.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Telephone coaching |
-| Price | $158.79 (Subscription) |
+| Price | $158.89 (Subscription) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $47.64 |
+| Earnings/sale* | $47.67 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Telefonfuerdich |
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist „Telefon für dich“ - Anrufservice für Menschen mit Hemmungen? — Typ: Telephone coaching, Anbieter: Telefonfuerdich, gelistet seit 2025-08-01
-- Wie viel kostet es? — 158.79256200000003 USD
+- Wie viel kostet es? — 158.891976 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: „Telefon für dich“ - Anrufservice für Menschen mit Hemmungen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/627419
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/627419/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=%E2%80%9ETelefon%20f%C3%BCr%20dich%E2%80%9C%20-%20Anrufservice%20f%C3%BCr%20Menschen%20mit%20Hemmungen
 
 ## 4. Editorial notes

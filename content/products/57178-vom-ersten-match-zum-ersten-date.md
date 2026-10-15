@@ -7,13 +7,13 @@ product_type: "E-books"
 price: 15.58
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 7.79
+earnings_per_sale: 7.8
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2026-06-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://ratgeberplatz.de/ratgeber/vom-match-zum-date?aff=adminstore#aff=adminstore"
 sales_page: "https://ratgeberplatz.de/ratgeber/vom-match-zum-date"
@@ -22,7 +22,7 @@ language: "de"
 # Vom ersten Match zum ersten Date
 
 > Product ID `57178` · Digistore24 productId `701934` · [HTML profile page](../../produkte/vom-ersten-match-zum-ersten-date-57178.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,7 @@ language: "de"
 | Product type | E-books |
 | Price | $15.58 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $7.79 |
+| Earnings/sale* | $7.80 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pixonmedia |
@@ -87,14 +87,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Vom ersten Match zum ersten Date? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-06-29
-- Wie viel kostet es? — 15.575133000000001 USD
+- Wie viel kostet es? — 15.584884 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Vom ersten Match zum ersten Date Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/701934
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/701934/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Vom%20ersten%20Match%20zum%20ersten%20Date
 
 ## 4. Editorial notes

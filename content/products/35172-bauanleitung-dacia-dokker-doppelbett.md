@@ -4,16 +4,16 @@ digistore24_product_id: 340371
 title: "Bauanleitung - Dacia Dokker Doppelbett"
 vendor: "mobilesbett"
 product_type: "E-books"
-price: 30.24
+price: 30.26
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 11.94
+earnings_per_sale: 11.95
 cart_conversion_pct: 1
 cancel_rate_pct: 3.32
 categories: ["Hobby & Craft"]
 listed_since: "2020-08-10"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://mobiles-bett.de/dacia-dokker?aff=adminstore#aff=adminstore"
 sales_page: "https://mobiles-bett.de/dacia-dokker"
@@ -22,16 +22,16 @@ language: "de"
 # Bauanleitung - Dacia Dokker Doppelbett
 
 > Product ID `35172` · Digistore24 productId `340371` · [HTML profile page](../../produkte/bauanleitung-dacia-dokker-doppelbett-35172.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $30.24 (Single payment) |
+| Price | $30.26 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $11.94 |
+| Earnings/sale* | $11.95 |
 | Cart conversion* | 1% |
 | Cancel rate* | 3.32% |
 | Vendor | mobilesbett |
@@ -81,14 +81,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Bauanleitung - Dacia Dokker Doppelbett? — Typ: E-books, Anbieter: mobilesbett, gelistet seit 2020-08-10
-- Wie viel kostet es? — 30.244605000000004 USD
+- Wie viel kostet es? — 30.263540000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Bauanleitung - Dacia Dokker Doppelbett Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/340371
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/340371/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Bauanleitung%20-%20Dacia%20Dokker%20Doppelbett
 
 ## 4. Editorial notes

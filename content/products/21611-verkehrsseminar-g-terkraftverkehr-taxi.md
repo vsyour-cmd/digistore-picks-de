@@ -4,34 +4,34 @@ digistore24_product_id: 135597
 title: "Verkehrsseminar Güterkraftverkehr / Taxi"
 vendor: "Industrie"
 product_type: "Downloads"
-price: 365.5
+price: 365.72
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 54.82
+earnings_per_sale: 54.85
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2017-05-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "http://marketing2go.at/workshops#aff=adminstore"
+promo_link: "http://www.verkehrsseminare-online.de/home/g%C3%BCterkraftverkehr/?aff=adminstore#aff=adminstore"
 sales_page: "http://www.verkehrsseminare-online.de/home/g%C3%BCterkraftverkehr/"
 language: "de"
 ---
 # Verkehrsseminar Güterkraftverkehr / Taxi
 
 > Product ID `21611` · Digistore24 productId `135597` · [HTML profile page](../../produkte/verkehrsseminar-g-terkraftverkehr-taxi-21611.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $365.50 (Single payment) |
+| Price | $365.72 (Single payment) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $54.82 |
+| Earnings/sale* | $54.85 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Industrie |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://marketing2go.at/workshops#aff=adminstore
+- **Promo link (affiliate):** http://www.verkehrsseminare-online.de/home/g%C3%BCterkraftverkehr/?aff=adminstore#aff=adminstore
 - Sales page: http://www.verkehrsseminare-online.de/home/g%C3%BCterkraftverkehr/
 - Canonical redirect: https://www.digistore24.com/redir/135597/adminstore
 
@@ -88,14 +88,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Verkehrsseminar Güterkraftverkehr / Taxi? — Typ: Downloads, Anbieter: Industrie, gelistet seit 2017-05-01
-- Wie viel kostet es? — 365.49570900000003 USD
+- Wie viel kostet es? — 365.724532 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Verkehrsseminar Güterkraftverkehr / Taxi Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/135597
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/135597/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Verkehrsseminar%20G%C3%BCterkraftverkehr%20%2F%20Taxi
 
 ## 4. Editorial notes

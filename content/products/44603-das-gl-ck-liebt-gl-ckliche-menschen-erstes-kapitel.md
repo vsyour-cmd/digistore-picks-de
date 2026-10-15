@@ -10,19 +10,19 @@ affiliate_commission_pct: 50
 earnings_per_sale: 0
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Food & Drink","Fun & Games","Home & Garden"]
+categories: ["Home & Garden","Food & Drink","Fun & Games"]
 listed_since: "2022-06-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/44603/adminstore/"
+promo_link: "http://www.dejansekulic.ch/kapitel1?aff=adminstore#aff=adminstore"
 sales_page: "http://www.dejansekulic.ch/kapitel1"
 language: "de"
 ---
 # Das Glück liebt glückliche Menschen - Erstes Kapitel
 
 > Product ID `44603` · Digistore24 productId `447270` · [HTML profile page](../../produkte/das-gl-ck-liebt-gl-ckliche-menschen-erstes-kapitel-44603.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | Deinechance |
 | Listed since | 2022-06-17 |
 | Auto-accept affiliates | yes |
-| Categories | Food & Drink, Fun & Games, Home & Garden |
+| Categories | Home & Garden, Food & Drink, Fun & Games |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/44603/adminstore/
+- **Promo link (affiliate):** http://www.dejansekulic.ch/kapitel1?aff=adminstore#aff=adminstore
 - Sales page: http://www.dejansekulic.ch/kapitel1
 - Vendor affiliate support: https://dejan-sekulic.com/partnerprogramm
 - Canonical redirect: https://www.digistore24.com/redir/447270/adminstore
@@ -79,7 +79,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Das Glück liebt glückliche Menschen - Erstes Kapitel Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/447270
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/447270/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Das%20Gl%C3%BCck%20liebt%20gl%C3%BCckliche%20Menschen%20-%20Erstes%20Kapitel
 
 ## 4. Editorial notes

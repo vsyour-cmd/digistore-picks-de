@@ -4,16 +4,16 @@ digistore24_product_id: 692340
 title: "Ebook - Erdöl Macht, Krise und die Zukunft unserer Energie"
 vendor: "joebgesbuchverleger39ac"
 product_type: "E-books"
-price: 12.53
+price: 12.54
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 6.27
+earnings_per_sale: 6.28
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Education","Politics & Economy"]
 listed_since: "2026-05-13"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/692340?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/692340"
@@ -22,16 +22,16 @@ language: "de"
 # Ebook - Erdöl Macht, Krise und die Zukunft unserer Energie
 
 > Product ID `56524` · Digistore24 productId `692340` · [HTML profile page](../../produkte/ebook-erd-l-macht-krise-und-die-zukunft-unserer-energie-56524.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $12.53 (Single payment) |
+| Price | $12.54 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $6.27 |
+| Earnings/sale* | $6.28 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | joebgesbuchverleger39ac |
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ebook - Erdöl Macht, Krise und die Zukunft unserer Energie? — Typ: E-books, Anbieter: joebgesbuchverleger39ac, gelistet seit 2026-05-13
-- Wie viel kostet es? — 12.533901000000002 USD
+- Wie viel kostet es? — 12.541748000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Ebook - Erdöl Macht, Krise und die Zukunft unserer Energie Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/692340
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/692340/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Ebook%20-%20Erd%C3%B6l%20Macht%2C%20Krise%20und%20die%20Zukunft%20unserer%20Energie
 
 ## 4. Editorial notes

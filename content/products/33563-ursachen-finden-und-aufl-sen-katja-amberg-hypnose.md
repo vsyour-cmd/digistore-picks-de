@@ -4,40 +4,40 @@ digistore24_product_id: 310603
 title: "Ursachen finden und auflösen | Katja Amberg | Hypnose"
 vendor: "Mariposa75"
 product_type: "Downloads"
-price: 123.08
+price: 123.16
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 12.31
+earnings_per_sale: 12.32
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Dating, Relationships & Romance","Personal Development"]
+categories: ["Personal Development","Dating, Relationships & Romance"]
 listed_since: "2020-03-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/33563/adminstore/"
+promo_link: "http://katja-amberg-shop.de/ursachenfindenundaufloesen?aff=adminstore#aff=adminstore"
 sales_page: "http://katja-amberg-shop.de/ursachenfindenundaufloesen"
 language: "de"
 ---
 # Ursachen finden und auflösen | Katja Amberg | Hypnose
 
 > Product ID `33563` · Digistore24 productId `310603` · [HTML profile page](../../produkte/ursachen-finden-und-aufl-sen-katja-amberg-hypnose-33563.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $123.08 (Single payment, Installment) |
+| Price | $123.16 (Single payment, Installment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $12.31 |
+| Earnings/sale* | $12.32 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Mariposa75 |
 | Listed since | 2020-03-01 |
 | Auto-accept affiliates | yes |
-| Categories | Dating, Relationships & Romance, Personal Development |
+| Categories | Personal Development, Dating, Relationships & Romance |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/33563/adminstore/
+- **Promo link (affiliate):** http://katja-amberg-shop.de/ursachenfindenundaufloesen?aff=adminstore#aff=adminstore
 - Sales page: http://katja-amberg-shop.de/ursachenfindenundaufloesen
 - Canonical redirect: https://www.digistore24.com/redir/310603/adminstore
 
@@ -73,14 +73,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ursachen finden und auflösen | Katja Amberg | Hypnose? — Typ: Downloads, Anbieter: Mariposa75, gelistet seit 2020-03-01
-- Wie viel kostet es? — 123.080448 USD
+- Wie viel kostet es? — 123.157504 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Ursachen finden und auflösen | Katja Amberg | Hypnose Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/310603
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/310603/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Ursachen%20finden%20und%20aufl%C3%B6sen%20%7C%20Katja%20Amberg%20%7C%20Hypnose
 
 ## 4. Editorial notes

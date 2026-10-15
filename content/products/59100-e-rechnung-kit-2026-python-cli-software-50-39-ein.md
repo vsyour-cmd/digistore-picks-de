@@ -4,16 +4,16 @@ digistore24_product_id: 729781
 title: "E-Rechnung Kit 2026 — Python-CLI (Software) – 50 %, 39 € ein"
 vendor: "lvlBoZzlvl"
 product_type: "Software"
-price: 36.64
+price: 36.66
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 18.33
+earnings_per_sale: 18.34
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2026-09-10"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://e-rechnung-kit.pages.dev/?aff=adminstore#aff=adminstore"
 sales_page: "https://e-rechnung-kit.pages.dev/"
@@ -22,16 +22,16 @@ language: "de"
 # E-Rechnung Kit 2026 — Python-CLI (Software) – 50 %, 39 € ein
 
 > Product ID `59100` · Digistore24 productId `729781` · [HTML profile page](../../produkte/e-rechnung-kit-2026-python-cli-software-50-39-ein-59100.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $36.64 (Single payment) |
+| Price | $36.66 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $18.33 |
+| Earnings/sale* | $18.34 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | lvlBoZzlvl |
@@ -95,14 +95,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist E-Rechnung Kit 2026 — Python-CLI (Software) – 50 %, 39 € ein? — Typ: Software, Anbieter: lvlBoZzlvl, gelistet seit 2026-09-10
-- Wie viel kostet es? — 36.64013700000001 USD
+- Wie viel kostet es? — 36.663076000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: E-Rechnung Kit 2026 — Python-CLI (Software) – 50 %, 39 € ein Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/729781
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/729781/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=E-Rechnung%20Kit%202026%20%E2%80%94%20Python-CLI%20(Software)%20%E2%80%93%2050%20%25%2C%2039%20%E2%82%AC%20ein
 
 ## 4. Editorial notes

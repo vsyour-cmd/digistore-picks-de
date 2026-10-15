@@ -4,16 +4,16 @@ digistore24_product_id: 289633
 title: "Turnierplan erstellen - Alternative zu Excel"
 vendor: "d548251"
 product_type: "Software"
-price: 77.88
+price: 77.92
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 55.46
+earnings_per_sale: 55.49
 cart_conversion_pct: 28
 cancel_rate_pct: 0.77
 categories: ["Software","Sport","Project Management"]
 listed_since: "2019-10-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/redir/289633/adminstore"
 sales_page: "https://www.meinspielplan.de?aff=[AFFILIATE]"
@@ -22,16 +22,16 @@ language: "de"
 # Turnierplan erstellen - Alternative zu Excel
 
 > Product ID `27904` · Digistore24 productId `289633` · [HTML profile page](../../produkte/turnierplan-erstellen-alternative-zu-excel-27904.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $77.88 (Subscription) |
+| Price | $77.92 (Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $55.46 |
+| Earnings/sale* | $55.49 |
 | Cart conversion* | 28% |
 | Cancel rate* | 0.77% |
 | Vendor | d548251 |
@@ -75,14 +75,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Turnierplan erstellen - Alternative zu Excel? — Typ: Software, Anbieter: d548251, gelistet seit 2019-10-06
-- Wie viel kostet es? — 77.87566500000001 USD
+- Wie viel kostet es? — 77.92442000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Turnierplan erstellen - Alternative zu Excel Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/289633
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/289633/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Turnierplan%20erstellen%20-%20Alternative%20zu%20Excel
 
 ## 4. Editorial notes

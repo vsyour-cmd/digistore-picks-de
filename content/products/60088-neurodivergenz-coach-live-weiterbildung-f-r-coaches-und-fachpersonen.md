@@ -4,16 +4,16 @@ digistore24_product_id: 716420
 title: "Neurodivergenz-Coach – Live-Weiterbildung für Coaches und Fachpersonen"
 vendor: "Neurotraining_Akademie"
 product_type: "Online coaching"
-price: 2590.43
+price: 2592.05
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 259.04
+earnings_per_sale: 259.2
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Profession & Job","Personal Development"]
+categories: ["Personal Development","Profession & Job","Education"]
 listed_since: "2026-10-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://neurotraining-akademie.de/neurodivergenz-coach?aff=adminstore#aff=adminstore"
 sales_page: "https://neurotraining-akademie.de/neurodivergenz-coach"
@@ -22,22 +22,22 @@ language: "de"
 # Neurodivergenz-Coach – Live-Weiterbildung für Coaches und Fachpersonen
 
 > Product ID `60088` · Digistore24 productId `716420` · [HTML profile page](../../produkte/neurodivergenz-coach-live-weiterbildung-f-r-coaches-und-fachpersonen-60088.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $2590.43 (Single payment, Installment) |
+| Price | $2592.05 (Single payment, Installment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $259.04 |
+| Earnings/sale* | $259.20 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Neurotraining_Akademie |
 | Listed since | 2026-10-01 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Profession & Job, Personal Development |
+| Categories | Personal Development, Profession & Job, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -84,14 +84,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Neurodivergenz-Coach – Live-Weiterbildung für Coaches und Fachpersonen? — Typ: Online coaching, Anbieter: Neurotraining_Akademie, gelistet seit 2026-10-01
-- Wie viel kostet es? — 2590.4252610000003 USD
+- Wie viel kostet es? — 2592.047028 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Neurodivergenz-Coach – Live-Weiterbildung für Coaches und Fachpersonen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/716420
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/716420/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Neurodivergenz-Coach%20%E2%80%93%20Live-Weiterbildung%20f%C3%BCr%20Coaches%20und%20Fachpersonen
 
 ## 4. Editorial notes

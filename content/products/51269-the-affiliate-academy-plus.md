@@ -4,34 +4,34 @@ digistore24_product_id: 583562
 title: "The Affiliate Academy Plus"
 vendor: "marketingmarko"
 product_type: "Member area and video courses"
-price: 373.01
+price: 373.24
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 120.34
+earnings_per_sale: 120.42
 cart_conversion_pct: 3
 cancel_rate_pct: 9.28
 categories: ["Business & Investment","Social Media"]
 listed_since: "2024-11-30"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/51269/adminstore/"
+promo_link: "https://www.theaffiliateacademy.de/taaplus+/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.theaffiliateacademy.de/taaplus+/"
 language: "de"
 ---
 # The Affiliate Academy Plus
 
 > Product ID `51269` · Digistore24 productId `583562` · [HTML profile page](../../produkte/the-affiliate-academy-plus-51269.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $373.01 (Single payment, Installment) |
+| Price | $373.24 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $120.34 |
+| Earnings/sale* | $120.42 |
 | Cart conversion* | 3% |
 | Cancel rate* | 9.28% |
 | Vendor | marketingmarko |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/51269/adminstore/
+- **Promo link (affiliate):** https://www.theaffiliateacademy.de/taaplus+/?aff=adminstore#aff=adminstore
 - Sales page: https://www.theaffiliateacademy.de/taaplus+/
 - Canonical redirect: https://www.digistore24.com/redir/583562/adminstore
 
@@ -66,14 +66,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist The Affiliate Academy Plus? — Typ: Member area and video courses, Anbieter: marketingmarko, gelistet seit 2024-11-30
-- Wie viel kostet es? — 373.00934100000006 USD
+- Wie viel kostet es? — 373.24286800000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The Affiliate Academy Plus Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/583562
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/583562/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=The%20Affiliate%20Academy%20Plus
 
 ## 4. Editorial notes

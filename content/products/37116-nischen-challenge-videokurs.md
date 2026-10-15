@@ -4,16 +4,16 @@ digistore24_product_id: 155549
 title: "Nischen-Challenge - Videokurs"
 vendor: "Cleriker"
 product_type: "Downloads"
-price: 232.07
+price: 232.22
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 116.04
+earnings_per_sale: 116.11
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2017-08-03"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://lp.larspilawski.de/nischen-challenge/?aff=adminstore#aff=adminstore"
 sales_page: "https://lp.larspilawski.de/nischen-challenge/"
@@ -22,16 +22,16 @@ language: "de"
 # Nischen-Challenge - Videokurs
 
 > Product ID `37116` · Digistore24 productId `155549` · [HTML profile page](../../produkte/nischen-challenge-videokurs-37116.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $232.07 (Subscription) |
+| Price | $232.22 (Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $116.04 |
+| Earnings/sale* | $116.11 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Cleriker |
@@ -91,14 +91,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Nischen-Challenge - Videokurs? — Typ: Downloads, Anbieter: Cleriker, gelistet seit 2017-08-03
-- Wie viel kostet es? — 232.07283600000002 USD
+- Wie viel kostet es? — 232.218128 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Nischen-Challenge - Videokurs Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/155549
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/155549/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Nischen-Challenge%20-%20Videokurs
 
 ## 4. Editorial notes

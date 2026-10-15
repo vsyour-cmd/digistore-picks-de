@@ -4,16 +4,16 @@ digistore24_product_id: 616648
 title: "Tierschutz-Guide – inkl. Kleines Paket"
 vendor: "Tierheimsponsoring"
 product_type: "Downloads"
-price: 157.85
+price: 157.95
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 39.47
+earnings_per_sale: 39.49
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2025-06-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/616648?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/616648"
@@ -22,16 +22,16 @@ language: "de"
 # Tierschutz-Guide – inkl. Kleines Paket
 
 > Product ID `55210` · Digistore24 productId `616648` · [HTML profile page](../../produkte/tierschutz-guide-inkl-kleines-paket-55210.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $157.85 (Subscription) |
+| Price | $157.95 (Subscription) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $39.47 |
+| Earnings/sale* | $39.49 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Tierheimsponsoring |
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Tierschutz-Guide – inkl. Kleines Paket? — Typ: Downloads, Anbieter: Tierheimsponsoring, gelistet seit 2025-06-04
-- Wie viel kostet es? — 157.85335800000001 USD
+- Wie viel kostet es? — 157.95218400000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Tierschutz-Guide – inkl. Kleines Paket Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/616648
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/616648/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Tierschutz-Guide%20%E2%80%93%20inkl.%20Kleines%20Paket
 
 ## 4. Editorial notes

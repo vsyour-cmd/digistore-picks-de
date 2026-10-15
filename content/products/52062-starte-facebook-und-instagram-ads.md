@@ -4,16 +4,16 @@ digistore24_product_id: 601695
 title: "Starte Facebook und Instagram Ads"
 vendor: "FinestAudience"
 product_type: "Member area and video courses"
-price: 65.24
+price: 65.28
 currency: "USD"
 affiliate_commission_pct: 80
-earnings_per_sale: 469.69
+earnings_per_sale: 469.99
 cart_conversion_pct: 2
 cancel_rate_pct: 6.76
 categories: ["Online Marketing"]
 listed_since: "2025-03-14"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://adsmastery.de/fb-ig-ads/?aff=adminstore#aff=adminstore"
 sales_page: "https://adsmastery.de/fb-ig-ads/"
@@ -22,16 +22,16 @@ language: "de"
 # Starte Facebook und Instagram Ads
 
 > Product ID `52062` · Digistore24 productId `601695` · [HTML profile page](../../produkte/starte-facebook-und-instagram-ads-52062.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $65.24 (Single payment) |
+| Price | $65.28 (Single payment) |
 | Affiliate commission | 80% |
-| Earnings/sale* | $469.69 |
+| Earnings/sale* | $469.99 |
 | Cart conversion* | 2% |
 | Cancel rate* | 6.76% |
 | Vendor | FinestAudience |
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Starte Facebook und Instagram Ads? — Typ: Member area and video courses, Anbieter: FinestAudience, gelistet seit 2025-03-14
-- Wie viel kostet es? — 65.24113500000001 USD
+- Wie viel kostet es? — 65.28198 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Starte Facebook und Instagram Ads Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/601695
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/601695/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Starte%20Facebook%20und%20Instagram%20Ads
 
 ## 4. Editorial notes

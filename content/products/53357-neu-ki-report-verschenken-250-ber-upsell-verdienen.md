@@ -4,34 +4,34 @@ digistore24_product_id: 587917
 title: "NEU! KI REPORT verschenken + 250€ über Upsell verdienen"
 vendor: "Magnodesign"
 product_type: "Member area and video courses"
-price: 74.52
+price: 74.57
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 18.67
+earnings_per_sale: 18.68
 cart_conversion_pct: 14
 cancel_rate_pct: 3.3
 categories: ["Computer & Internet","Online Marketing & E-Business"]
 listed_since: "2024-12-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/53357/adminstore/"
+promo_link: "https://page.funnelcockpit.com/deYamgkrMZBkQjPF5?aff=adminstore#aff=adminstore"
 sales_page: "https://page.funnelcockpit.com/deYamgkrMZBkQjPF5"
 language: "de"
 ---
 # NEU! KI REPORT verschenken + 250€ über Upsell verdienen
 
 > Product ID `53357` · Digistore24 productId `587917` · [HTML profile page](../../produkte/neu-ki-report-verschenken-250-ber-upsell-verdienen-53357.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $74.52 (Single payment) |
+| Price | $74.57 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $18.67 |
+| Earnings/sale* | $18.68 |
 | Cart conversion* | 14% |
 | Cancel rate* | 3.3% |
 | Vendor | Magnodesign |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/53357/adminstore/
+- **Promo link (affiliate):** https://page.funnelcockpit.com/deYamgkrMZBkQjPF5?aff=adminstore#aff=adminstore
 - Sales page: https://page.funnelcockpit.com/deYamgkrMZBkQjPF5
 - Vendor affiliate support: https://partnerseite.myfunnelcockpit.com/
 - Canonical redirect: https://www.digistore24.com/redir/587917/adminstore
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist NEU! KI REPORT verschenken + 250€ über Upsell verdienen? — Typ: Member area and video courses, Anbieter: Magnodesign, gelistet seit 2024-12-29
-- Wie viel kostet es? — 74.52136500000002 USD
+- Wie viel kostet es? — 74.56802 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: NEU! KI REPORT verschenken + 250€ über Upsell verdienen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/587917
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/587917/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=NEU!%20KI%20REPORT%20verschenken%20%2B%20250%E2%82%AC%20%C3%BCber%20Upsell%20verdienen
 
 ## 4. Editorial notes

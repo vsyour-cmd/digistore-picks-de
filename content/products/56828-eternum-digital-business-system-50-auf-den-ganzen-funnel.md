@@ -4,16 +4,16 @@ digistore24_product_id: 699040
 title: "ETERNUM Digital Business System – 50% auf den ganzen Funnel"
 vendor: "megareichtum"
 product_type: "Downloads"
-price: 44.16
+price: 44.19
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 26.5
+earnings_per_sale: 26.52
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Online Marketing"]
 listed_since: "2026-06-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://eternumtech.eu/system?aff=adminstore#aff=adminstore"
 sales_page: "https://eternumtech.eu/system"
@@ -22,16 +22,16 @@ language: "de"
 # ETERNUM Digital Business System – 50% auf den ganzen Funnel
 
 > Product ID `56828` · Digistore24 productId `699040` · [HTML profile page](../../produkte/eternum-digital-business-system-50-auf-den-ganzen-funnel-56828.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $44.16 (Single payment) |
+| Price | $44.19 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $26.50 |
+| Earnings/sale* | $26.52 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | megareichtum |
@@ -102,14 +102,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist ETERNUM Digital Business System – 50% auf den ganzen Funnel? — Typ: Downloads, Anbieter: megareichtum, gelistet seit 2026-06-07
-- Wie viel kostet es? — 44.164950000000005 USD
+- Wie viel kostet es? — 44.1926 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: ETERNUM Digital Business System – 50% auf den ganzen Funnel Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/699040
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/699040/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=ETERNUM%20Digital%20Business%20System%20%E2%80%93%2050%25%20auf%20den%20ganzen%20Funnel
 
 ## 4. Editorial notes

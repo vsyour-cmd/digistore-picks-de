@@ -4,34 +4,34 @@ digistore24_product_id: 282515
 title: "KNX Programmierung - 8h Videokurs als Klickanleitung"
 vendor: "smarthomeknx"
 product_type: "Downloads"
-price: 237.97
+price: 238.11
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 75.01
+earnings_per_sale: 75.06
 cart_conversion_pct: 13
 cancel_rate_pct: 4.84
 categories: ["Computer & Internet"]
 listed_since: "2019-08-12"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/33041/adminstore/"
+promo_link: "https://www.smartest-home.com/knx-videokurs/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.smartest-home.com/knx-videokurs/"
 language: "de"
 ---
 # KNX Programmierung - 8h Videokurs als Klickanleitung
 
 > Product ID `33041` · Digistore24 productId `282515` · [HTML profile page](../../produkte/knx-programmierung-8h-videokurs-als-klickanleitung-33041.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $237.97 (Single payment, Installment) |
+| Price | $238.11 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $75.01 |
+| Earnings/sale* | $75.06 |
 | Cart conversion* | 13% |
 | Cancel rate* | 4.84% |
 | Vendor | smarthomeknx |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/33041/adminstore/
+- **Promo link (affiliate):** https://www.smartest-home.com/knx-videokurs/?aff=adminstore#aff=adminstore
 - Sales page: https://www.smartest-home.com/knx-videokurs/
 - Vendor affiliate support: https://www.smartest-home.com/affiliateprogramm
 - Canonical redirect: https://www.digistore24.com/redir/282515/adminstore
@@ -103,14 +103,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KNX Programmierung - 8h Videokurs als Klickanleitung? — Typ: Downloads, Anbieter: smarthomeknx, gelistet seit 2019-08-12
-- Wie viel kostet es? — 237.96522300000004 USD
+- Wie viel kostet es? — 238.11420400000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: KNX Programmierung - 8h Videokurs als Klickanleitung Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/282515
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/282515/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=KNX%20Programmierung%20-%208h%20Videokurs%20als%20Klickanleitung
 
 ## 4. Editorial notes

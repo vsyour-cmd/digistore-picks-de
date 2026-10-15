@@ -4,16 +4,16 @@ digistore24_product_id: 709299
 title: "Sachkundelehrgang · § 34k GewO Darlehensvermittler/-in"
 vendor: "sachkundeak"
 product_type: "Member area and video courses"
-price: 390.22
+price: 390.46
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 97.55
+earnings_per_sale: 97.62
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Law & Justice","Profession & Job","Personal Development"]
+categories: ["Personal Development","Law & Justice","Profession & Job"]
 listed_since: "2026-07-14"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://sachkundelehrgaenge.de/digistore24-%c2%a7-34k-gewo-verbraucherdarlehensvermittler-in-ihk/?aff=adminstore#aff=adminstore"
 sales_page: "https://sachkundelehrgaenge.de/digistore24-%c2%a7-34k-gewo-verbraucherdarlehensvermittler-in-ihk/"
@@ -22,22 +22,22 @@ language: "de"
 # Sachkundelehrgang · § 34k GewO Darlehensvermittler/-in
 
 > Product ID `57526` · Digistore24 productId `709299` · [HTML profile page](../../produkte/sachkundelehrgang-34k-gewo-darlehensvermittler-in-57526.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $390.22 (Single payment) |
+| Price | $390.46 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $97.55 |
+| Earnings/sale* | $97.62 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | sachkundeak |
 | Listed since | 2026-07-14 |
 | Auto-accept affiliates | yes |
-| Categories | Law & Justice, Profession & Job, Personal Development |
+| Categories | Personal Development, Law & Justice, Profession & Job |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -89,14 +89,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Sachkundelehrgang · § 34k GewO Darlehensvermittler/-in? — Typ: Member area and video courses, Anbieter: sachkundeak, gelistet seit 2026-07-14
-- Wie viel kostet es? — 390.2169 USD
+- Wie viel kostet es? — 390.4612 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Sachkundelehrgang · § 34k GewO Darlehensvermittler/-in Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/709299
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/709299/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Sachkundelehrgang%20%C2%B7%20%C2%A7%2034k%20GewO%20Darlehensvermittler%2F-in
 
 ## 4. Editorial notes

@@ -4,34 +4,34 @@ digistore24_product_id: 426964
 title: "Online Katzentraining mit Constance Böhle"
 vendor: "trafficoftrust"
 product_type: "Member area and video courses"
-price: 112.64
+price: 112.71
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 28.16
+earnings_per_sale: 28.18
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2022-01-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/37297/adminstore/"
+promo_link: "https://katzentraining.me?aff=adminstore#aff=adminstore"
 sales_page: "https://katzentraining.me"
 language: "de"
 ---
 # Online Katzentraining mit Constance Böhle
 
 > Product ID `37297` · Digistore24 productId `426964` · [HTML profile page](../../produkte/online-katzentraining-mit-constance-b-hle-37297.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $112.64 (Single payment, Subscription, Installment) |
+| Price | $112.71 (Single payment, Subscription, Installment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $28.16 |
+| Earnings/sale* | $28.18 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | trafficoftrust |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/37297/adminstore/
+- **Promo link (affiliate):** https://katzentraining.me?aff=adminstore#aff=adminstore
 - Sales page: https://katzentraining.me
 - Canonical redirect: https://www.digistore24.com/redir/426964/adminstore
 
@@ -77,14 +77,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online Katzentraining mit Constance Böhle? — Typ: Member area and video courses, Anbieter: trafficoftrust, gelistet seit 2022-01-27
-- Wie viel kostet es? — 112.637394 USD
+- Wie viel kostet es? — 112.707912 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Online Katzentraining mit Constance Böhle Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/426964
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/426964/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Online%20Katzentraining%20mit%20Constance%20B%C3%B6hle
 
 ## 4. Editorial notes

@@ -4,34 +4,34 @@ digistore24_product_id: 724801
 title: "​Paulownia Project Premium | Проект Павловния Премиум"
 vendor: "fafenrotirina9b234"
 product_type: "E-books"
-price: 1677.15
+price: 1678.2
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 167.72
+earnings_per_sale: 167.82
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-09-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/59433/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/724801?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/724801"
 language: "de"
 ---
 # ​Paulownia Project Premium | Проект Павловния Премиум
 
 > Product ID `59433` · Digistore24 productId `724801` · [HTML profile page](../../produkte/paulownia-project-premium-59433.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $1677.15 (Single payment) |
+| Price | $1678.20 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $167.72 |
+| Earnings/sale* | $167.82 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | fafenrotirina9b234 |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59433/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/724801?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/724801
 - Canonical redirect: https://www.digistore24.com/redir/724801/adminstore
 
@@ -86,14 +86,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist ​Paulownia Project Premium | Проект Павловния Премиум? — Typ: E-books, Anbieter: fafenrotirina9b234, gelistet seit 2026-09-20
-- Wie viel kostet es? — 1677.15 USD
+- Wie viel kostet es? — 1678.2 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: ​Paulownia Project Premium | Проект Павловния Премиум Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/724801
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/724801/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=%E2%80%8BPaulownia%20Project%20Premium%20%7C%20%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%9F%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%D0%BD%D0%B8%D1%8F%20%D0%9F%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC
 
 ## 4. Editorial notes

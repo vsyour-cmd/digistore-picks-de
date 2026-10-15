@@ -4,7 +4,7 @@ digistore24_product_id: 734523
 title: "Englisch Master-Komplettkurs: In 100 Lektionen von A1 zu B2"
 vendor: "nowdigitalproducts"
 product_type: "Downloads"
-price: 18.69
+price: 18.71
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 9.35
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Languages"]
 listed_since: "2026-09-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/734523?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/734523"
@@ -22,14 +22,14 @@ language: "de"
 # Englisch Master-Komplettkurs: In 100 Lektionen von A1 zu B2
 
 > Product ID `59332` · Digistore24 productId `734523` · [HTML profile page](../../produkte/englisch-master-komplettkurs-in-100-lektionen-von-a1-zu-b2-59332.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $18.69 (Single payment) |
+| Price | $18.71 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $9.35 |
 | Cart conversion* | — |
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Englisch Master-Komplettkurs: In 100 Lektionen von A1 zu B2? — Typ: Downloads, Anbieter: nowdigitalproducts, gelistet seit 2026-09-17
-- Wie viel kostet es? — 18.694632 USD
+- Wie viel kostet es? — 18.706336 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Englisch Master-Komplettkurs: In 100 Lektionen von A1 zu B2 Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/734523
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/734523/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Englisch%20Master-Komplettkurs%3A%20In%20100%20Lektionen%20von%20A1%20zu%20B2
 
 ## 4. Editorial notes

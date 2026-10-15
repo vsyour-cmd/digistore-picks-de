@@ -4,34 +4,34 @@ digistore24_product_id: 670358
 title: "MPU bestehen leicht gemacht – Der Praxis-Guide"
 vendor: "rj93d6"
 product_type: "E-books"
-price: 40.75
+price: 40.78
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 20.38
+earnings_per_sale: 20.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Law & Justice"]
 listed_since: "2026-02-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/55839/adminstore/"
+promo_link: "http://startklar.company/MPU-Vorbereitung?aff=adminstore#aff=adminstore"
 sales_page: "http://startklar.company/MPU-Vorbereitung"
 language: "de"
 ---
 # MPU bestehen leicht gemacht – Der Praxis-Guide
 
 > Product ID `55839` · Digistore24 productId `670358` · [HTML profile page](../../produkte/mpu-bestehen-leicht-gemacht-der-praxis-guide-55839.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $40.75 (Single payment) |
+| Price | $40.78 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $20.38 |
+| Earnings/sale* | $20.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | rj93d6 |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55839/adminstore/
+- **Promo link (affiliate):** http://startklar.company/MPU-Vorbereitung?aff=adminstore#aff=adminstore
 - Sales page: http://startklar.company/MPU-Vorbereitung
 - Canonical redirect: https://www.digistore24.com/redir/670358/adminstore
 
@@ -76,14 +76,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist MPU bestehen leicht gemacht – Der Praxis-Guide? — Typ: E-books, Anbieter: rj93d6, gelistet seit 2026-02-20
-- Wie viel kostet es? — 40.75474500000001 USD
+- Wie viel kostet es? — 40.780260000000006 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: MPU bestehen leicht gemacht – Der Praxis-Guide Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/670358
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/670358/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=MPU%20bestehen%20leicht%20gemacht%20%E2%80%93%20Der%20Praxis-Guide
 
 ## 4. Editorial notes

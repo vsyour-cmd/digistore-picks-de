@@ -4,7 +4,7 @@ digistore24_product_id: 267357
 title: "Der Weg zur finanziellen Freiheit von Bodo Schäfer"
 vendor: "BodoSchaefer"
 product_type: "Book (printed)"
-price: 8.53
+price: 8.54
 currency: "USD"
 affiliate_commission_pct: 0
 earnings_per_sale: 5.58
@@ -12,8 +12,8 @@ cart_conversion_pct: 46
 cancel_rate_pct: 2.09
 categories: ["Personal Development"]
 listed_since: "2019-04-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://buch.bodoschaefer.de/der-weg-zur-finanziellen-freiheit/?aff=adminstore#aff=adminstore"
 sales_page: "https://buch.bodoschaefer.de/der-weg-zur-finanziellen-freiheit/"
@@ -22,14 +22,14 @@ language: "de"
 # Der Weg zur finanziellen Freiheit von Bodo Schäfer
 
 > Product ID `28924` · Digistore24 productId `267357` · [HTML profile page](../../produkte/der-weg-zur-finanziellen-freiheit-von-bodo-sch-fer-28924.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $8.53 (Single payment) |
+| Price | $8.54 (Single payment) |
 | Affiliate commission | 0% |
 | Earnings/sale* | $5.58 |
 | Cart conversion* | 46% |
@@ -78,14 +78,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Weg zur finanziellen Freiheit von Bodo Schäfer? — Typ: Book (printed), Anbieter: BodoSchaefer, gelistet seit 2019-04-09
-- Wie viel kostet es? — 8.531103 USD
+- Wie viel kostet es? — 8.536444 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Der Weg zur finanziellen Freiheit von Bodo Schäfer Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/267357
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/267357/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%20Weg%20zur%20finanziellen%20Freiheit%20von%20Bodo%20Sch%C3%A4fer
 
 ## 4. Editorial notes

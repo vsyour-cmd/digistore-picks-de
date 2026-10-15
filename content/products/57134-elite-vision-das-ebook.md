@@ -4,16 +4,16 @@ digistore24_product_id: 704815
 title: "Elite Vision Das eBook"
 vendor: "BastianBauer"
 product_type: "E-books"
-price: 20.89
+price: 20.9
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 6.26
+earnings_per_sale: 6.27
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Business & Investment","Personal Development"]
+categories: ["Personal Development","Business & Investment"]
 listed_since: "2026-06-25"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/704815?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/704815"
@@ -22,22 +22,22 @@ language: "de"
 # Elite Vision Das eBook
 
 > Product ID `57134` · Digistore24 productId `704815` · [HTML profile page](../../produkte/elite-vision-das-ebook-57134.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.89 (Single payment, Installment) |
+| Price | $20.90 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $6.26 |
+| Earnings/sale* | $6.27 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | BastianBauer |
 | Listed since | 2026-06-25 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Personal Development |
+| Categories | Personal Development, Business & Investment |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -75,14 +75,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Elite Vision Das eBook? — Typ: E-books, Anbieter: BastianBauer, gelistet seit 2026-06-25
-- Wie viel kostet es? — 20.886108 USD
+- Wie viel kostet es? — 20.899184 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Elite Vision Das eBook Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/704815
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/704815/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Elite%20Vision%20Das%20eBook
 
 ## 4. Editorial notes

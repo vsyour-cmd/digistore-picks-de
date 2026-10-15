@@ -4,40 +4,40 @@ digistore24_product_id: 534351
 title: "NATÜRLICH FOTOGEN!"
 vendor: "IWEFST"
 product_type: "Member area and video courses"
-price: 93.01
+price: 93.07
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 27.91
+earnings_per_sale: 27.93
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Hobby & Craft","Personal Development","Photography & Film"]
+categories: ["Personal Development","Hobby & Craft","Photography & Film"]
 listed_since: "2024-01-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/46811/adminstore/"
+promo_link: "https://www.isabellawirth.de/natuerlichfotogen/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.isabellawirth.de/natuerlichfotogen/"
 language: "de"
 ---
 # NATÜRLICH FOTOGEN!
 
 > Product ID `46811` · Digistore24 productId `534351` · [HTML profile page](../../produkte/nat-rlich-fotogen-46811.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $93.01 (Single payment) |
+| Price | $93.07 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $27.91 |
+| Earnings/sale* | $27.93 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | IWEFST |
 | Listed since | 2024-01-15 |
 | Auto-accept affiliates | yes |
-| Categories | Hobby & Craft, Personal Development, Photography & Film |
+| Categories | Personal Development, Hobby & Craft, Photography & Film |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/46811/adminstore/
+- **Promo link (affiliate):** https://www.isabellawirth.de/natuerlichfotogen/?aff=adminstore#aff=adminstore
 - Sales page: https://www.isabellawirth.de/natuerlichfotogen/
 - Canonical redirect: https://www.digistore24.com/redir/534351/adminstore
 
@@ -95,14 +95,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist NATÜRLICH FOTOGEN!? — Typ: Member area and video courses, Anbieter: IWEFST, gelistet seit 2024-01-15
-- Wie viel kostet es? — 93.014739 USD
+- Wie viel kostet es? — 93.072972 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: NATÜRLICH FOTOGEN! Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/534351
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/534351/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=NAT%C3%9CRLICH%20FOTOGEN!
 
 ## 4. Editorial notes

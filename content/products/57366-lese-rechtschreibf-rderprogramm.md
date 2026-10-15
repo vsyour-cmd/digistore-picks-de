@@ -4,16 +4,16 @@ digistore24_product_id: 680632
 title: "Lese-Rechtschreibförderprogramm"
 vendor: "KerstinSchimkus"
 product_type: "Downloads"
-price: 197.9
+price: 198.03
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 19.79
+earnings_per_sale: 19.8
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2026-07-02"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://lexosophie.mydigibiz24.com/lexoschool-hefte?aff=adminstore#aff=adminstore"
 sales_page: "https://lexosophie.mydigibiz24.com/lexoschool-hefte"
@@ -22,16 +22,16 @@ language: "de"
 # Lese-Rechtschreibförderprogramm
 
 > Product ID `57366` · Digistore24 productId `680632` · [HTML profile page](../../produkte/lese-rechtschreibf-rderprogramm-57366.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $197.90 (Single payment) |
+| Price | $198.03 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $19.79 |
+| Earnings/sale* | $19.80 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | KerstinSchimkus |
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Lese-Rechtschreibförderprogramm? — Typ: Downloads, Anbieter: KerstinSchimkus, gelistet seit 2026-07-02
-- Wie viel kostet es? — 197.90370000000001 USD
+- Wie viel kostet es? — 198.0276 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Lese-Rechtschreibförderprogramm Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/680632
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/680632/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Lese-Rechtschreibf%C3%B6rderprogramm
 
 ## 4. Editorial notes

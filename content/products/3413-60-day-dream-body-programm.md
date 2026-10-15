@@ -4,16 +4,16 @@ digistore24_product_id: 24859
 title: "60 Day Dream Body Programm"
 vendor: "gk-health"
 product_type: "Downloads"
-price: 52.55
+price: 52.58
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 26.28
+earnings_per_sale: 26.29
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2014-05-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
 promo_link: "https://produkte.60daydreambody.com/abnehmenohnediaet/?aff=adminstore#aff=adminstore"
 sales_page: "https://produkte.60daydreambody.com/abnehmenohnediaet/"
@@ -22,16 +22,16 @@ language: "de"
 # 60 Day Dream Body Programm
 
 > Product ID `3413` · Digistore24 productId `24859` · [HTML profile page](../../produkte/60-day-dream-body-programm-3413.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $52.55 (Single payment) |
+| Price | $52.58 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $26.28 |
+| Earnings/sale* | $26.29 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | gk-health |
@@ -74,14 +74,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 60 Day Dream Body Programm? — Typ: Downloads, Anbieter: gk-health, gelistet seit 2014-05-01
-- Wie viel kostet es? — 52.550700000000006 USD
+- Wie viel kostet es? — 52.583600000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 60 Day Dream Body Programm Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/24859
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/24859/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=60%20Day%20Dream%20Body%20Programm
 
 ## 4. Editorial notes

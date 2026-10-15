@@ -12,17 +12,17 @@ cart_conversion_pct: 57
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Online Marketing"]
 listed_since: "2024-02-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/50261/adminstore/"
+promo_link: "https://michelweinand.systeme.io/affiliate-star?aff=adminstore#aff=adminstore"
 sales_page: "https://michelweinand.systeme.io/affiliate-star"
 language: "de"
 ---
 # Affiliate Insights
 
 > Product ID `50261` · Digistore24 productId `537534` · [HTML profile page](../../produkte/affiliate-insights-50261.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/50261/adminstore/
+- **Promo link (affiliate):** https://michelweinand.systeme.io/affiliate-star?aff=adminstore#aff=adminstore
 - Sales page: https://michelweinand.systeme.io/affiliate-star
 - Vendor affiliate support: https://michelweinand.systeme.io/werbemittel
 - Canonical redirect: https://www.digistore24.com/redir/537534/adminstore
@@ -72,7 +72,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Affiliate Insights Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/537534
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/537534/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Affiliate%20Insights
 
 ## 4. Editorial notes

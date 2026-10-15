@@ -4,7 +4,7 @@ digistore24_product_id: 66237
 title: "Yoga Nidra MP3"
 vendor: "ReginaPotocnik"
 product_type: "Downloads"
-price: 14
+price: 14.01
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 7
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2015-12-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.go-rosa.com/shop/yoga-nidra-mp3/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.go-rosa.com/shop/yoga-nidra-mp3/"
@@ -22,14 +22,14 @@ language: "de"
 # Yoga Nidra MP3
 
 > Product ID `35674` · Digistore24 productId `66237` · [HTML profile page](../../produkte/yoga-nidra-mp3-35674.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $14.00 (Single payment) |
+| Price | $14.01 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $7.00 |
 | Cart conversion* | — |
@@ -74,14 +74,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Yoga Nidra MP3? — Typ: Downloads, Anbieter: ReginaPotocnik, gelistet seit 2015-12-15
-- Wie viel kostet es? — 13.998612000000001 USD
+- Wie viel kostet es? — 14.007375999999999 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Yoga Nidra MP3 Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/66237
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/66237/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Yoga%20Nidra%20MP3
 
 ## 4. Editorial notes

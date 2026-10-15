@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2025-04-14"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/52407/adminstore/"
+promo_link: "https://page.funnelcockpit.com/rzz8wCmTcBk5nx9Kw?aff=adminstore#aff=adminstore"
 sales_page: "https://page.funnelcockpit.com/rzz8wCmTcBk5nx9Kw"
 language: "de"
 ---
 # YouTube Short Traffic Booster
 
 > Product ID `52407` · Digistore24 productId `607268` · [HTML profile page](../../produkte/youtube-short-traffic-booster-52407.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/52407/adminstore/
+- **Promo link (affiliate):** https://page.funnelcockpit.com/rzz8wCmTcBk5nx9Kw?aff=adminstore#aff=adminstore
 - Sales page: https://page.funnelcockpit.com/rzz8wCmTcBk5nx9Kw
 - Vendor affiliate support: https://page.funnelcockpit.com/4vj52wFP75RPFHMvq
 - Canonical redirect: https://www.digistore24.com/redir/607268/adminstore
@@ -66,7 +66,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: YouTube Short Traffic Booster Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/607268
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/607268/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=YouTube%20Short%20Traffic%20Booster
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 477373
 title: "EUR/USD Daytrading Signale"
 vendor: "kagels-trading"
 product_type: "Remote service provided electronically"
-price: 223.68
+price: 223.82
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 35.82
+earnings_per_sale: 35.85
 cart_conversion_pct: 7
 cancel_rate_pct: 11.33
 categories: ["Trading Products"]
 listed_since: "2023-01-02"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.kagels-trading.de/trading-signale/eurusd-daytrading-signale/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.kagels-trading.de/trading-signale/eurusd-daytrading-signale/"
@@ -22,16 +22,16 @@ language: "de"
 # EUR/USD Daytrading Signale
 
 > Product ID `42474` · Digistore24 productId `477373` · [HTML profile page](../../produkte/eur-usd-daytrading-signale-42474.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $223.68 (Subscription) |
+| Price | $223.82 (Subscription) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $35.82 |
+| Earnings/sale* | $35.85 |
 | Cart conversion* | 7% |
 | Cancel rate* | 11.33% |
 | Vendor | kagels-trading |
@@ -94,14 +94,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist EUR/USD Daytrading Signale? — Typ: Remote service provided electronically, Anbieter: kagels-trading, gelistet seit 2023-01-02
-- Wie viel kostet es? — 223.67590500000003 USD
+- Wie viel kostet es? — 223.81594 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: EUR/USD Daytrading Signale Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/477373
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/477373/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=EUR%2FUSD%20Daytrading%20Signale
 
 ## 4. Editorial notes

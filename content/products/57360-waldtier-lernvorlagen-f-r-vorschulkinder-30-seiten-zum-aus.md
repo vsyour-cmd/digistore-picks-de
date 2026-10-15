@@ -4,16 +4,16 @@ digistore24_product_id: 707933
 title: "Waldtier-Lernvorlagen für Vorschulkinder – 30 Seiten zum Aus"
 vendor: "Herzenswelt"
 product_type: "E-books"
-price: 9.4
+price: 9.41
 currency: "USD"
 affiliate_commission_pct: 70
 earnings_per_sale: 6.59
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Family & Children","Hobby & Craft"]
+categories: ["Family & Children","Education","Hobby & Craft"]
 listed_since: "2026-07-02"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://gesundleben360.de/druckvorlagen-fuer-kinder/?aff=adminstore#aff=adminstore"
 sales_page: "https://gesundleben360.de/druckvorlagen-fuer-kinder/"
@@ -22,14 +22,14 @@ language: "de"
 # Waldtier-Lernvorlagen für Vorschulkinder – 30 Seiten zum Aus
 
 > Product ID `57360` · Digistore24 productId `707933` · [HTML profile page](../../produkte/waldtier-lernvorlagen-f-r-vorschulkinder-30-seiten-zum-aus-57360.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $9.40 (Single payment) |
+| Price | $9.41 (Single payment) |
 | Affiliate commission | 70% |
 | Earnings/sale* | $6.59 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | Herzenswelt |
 | Listed since | 2026-07-02 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Family & Children, Hobby & Craft |
+| Categories | Family & Children, Education, Hobby & Craft |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -83,14 +83,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Waldtier-Lernvorlagen für Vorschulkinder – 30 Seiten zum Aus? — Typ: E-books, Anbieter: Herzenswelt, gelistet seit 2026-07-02
-- Wie viel kostet es? — 9.403221 USD
+- Wie viel kostet es? — 9.409108 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Waldtier-Lernvorlagen für Vorschulkinder – 30 Seiten zum Aus Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/707933
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/707933/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Waldtier-Lernvorlagen%20f%C3%BCr%20Vorschulkinder%20%E2%80%93%2030%20Seiten%20zum%20Aus
 
 ## 4. Editorial notes

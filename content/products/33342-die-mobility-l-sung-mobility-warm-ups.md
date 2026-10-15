@@ -4,16 +4,16 @@ digistore24_product_id: 253064
 title: "Die Mobility-Lösung (Mobility Warm-ups)"
 vendor: "Sukopp"
 product_type: "Downloads"
-price: 72.35
+price: 72.4
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 36.18
+earnings_per_sale: 36.2
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2018-12-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/253064?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/253064"
@@ -22,16 +22,16 @@ language: "de"
 # Die Mobility-Lösung (Mobility Warm-ups)
 
 > Product ID `33342` · Digistore24 productId `253064` · [HTML profile page](../../produkte/die-mobility-l-sung-mobility-warm-ups-33342.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $72.35 (Single payment, Installment) |
+| Price | $72.40 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $36.18 |
+| Earnings/sale* | $36.20 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Sukopp |
@@ -83,14 +83,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die Mobility-Lösung (Mobility Warm-ups)? — Typ: Downloads, Anbieter: Sukopp, gelistet seit 2018-12-18
-- Wie viel kostet es? — 72.352251 USD
+- Wie viel kostet es? — 72.397548 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Die Mobility-Lösung (Mobility Warm-ups) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/253064
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/253064/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Die%20Mobility-L%C3%B6sung%20(Mobility%20Warm-ups)
 
 ## 4. Editorial notes

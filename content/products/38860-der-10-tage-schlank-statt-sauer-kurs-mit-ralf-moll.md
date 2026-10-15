@@ -4,16 +4,16 @@ digistore24_product_id: 422975
 title: "Der 10-Tage-Schlank-statt-Sauer-Kurs mit Ralf Moll"
 vendor: "RalfMollFastensuppen"
 product_type: "Online coaching"
-price: 46.88
+price: 46.91
 currency: "USD"
 affiliate_commission_pct: 12
-earnings_per_sale: 5.62
+earnings_per_sale: 5.63
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2022-01-03"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://ralf-moll-online-fastenkurse-suppenfasten-mit-fastensuppen.coachy.net/lp/landingpage-schlankstattsauer/?aff=adminstore#aff=adminstore"
 sales_page: "https://ralf-moll-online-fastenkurse-suppenfasten-mit-fastensuppen.coachy.net/lp/landingpage-schlankstattsauer/"
@@ -22,16 +22,16 @@ language: "de"
 # Der 10-Tage-Schlank-statt-Sauer-Kurs mit Ralf Moll
 
 > Product ID `38860` · Digistore24 productId `422975` · [HTML profile page](../../produkte/der-10-tage-schlank-statt-sauer-kurs-mit-ralf-moll-38860.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $46.88 (Single payment) |
+| Price | $46.91 (Single payment) |
 | Affiliate commission | 12% |
-| Earnings/sale* | $5.62 |
+| Earnings/sale* | $5.63 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | RalfMollFastensuppen |
@@ -86,14 +86,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der 10-Tage-Schlank-statt-Sauer-Kurs mit Ralf Moll? — Typ: Online coaching, Anbieter: RalfMollFastensuppen, gelistet seit 2022-01-03
-- Wie viel kostet es? — 46.881933000000004 USD
+- Wie viel kostet es? — 46.911284 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Der 10-Tage-Schlank-statt-Sauer-Kurs mit Ralf Moll Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/422975
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/422975/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%2010-Tage-Schlank-statt-Sauer-Kurs%20mit%20Ralf%20Moll
 
 ## 4. Editorial notes

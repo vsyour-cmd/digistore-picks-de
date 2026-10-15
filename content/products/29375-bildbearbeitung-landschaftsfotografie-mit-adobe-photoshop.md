@@ -4,34 +4,34 @@ digistore24_product_id: 106293
 title: "Bildbearbeitung Landschaftsfotografie mit Adobe Photoshop"
 vendor: "MatthiasHaltenhof"
 product_type: "Downloads"
-price: 91.14
+price: 91.19
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 45.57
+earnings_per_sale: 45.6
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Photography & Film"]
 listed_since: "2016-11-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/29375/adminstore/"
+promo_link: "https://www.matthiashaltenhof.de/videokurse/bildbearbeitung-landschaftsfotografie-adobe-photoshop/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.matthiashaltenhof.de/videokurse/bildbearbeitung-landschaftsfotografie-adobe-photoshop/"
 language: "de"
 ---
 # Bildbearbeitung Landschaftsfotografie mit Adobe Photoshop
 
 > Product ID `29375` · Digistore24 productId `106293` · [HTML profile page](../../produkte/bildbearbeitung-landschaftsfotografie-mit-adobe-photoshop-29375.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $91.14 (Single payment) |
+| Price | $91.19 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $45.57 |
+| Earnings/sale* | $45.60 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MatthiasHaltenhof |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/29375/adminstore/
+- **Promo link (affiliate):** https://www.matthiashaltenhof.de/videokurse/bildbearbeitung-landschaftsfotografie-adobe-photoshop/?aff=adminstore#aff=adminstore
 - Sales page: https://www.matthiashaltenhof.de/videokurse/bildbearbeitung-landschaftsfotografie-adobe-photoshop/
 - Canonical redirect: https://www.digistore24.com/redir/106293/adminstore
 
@@ -88,14 +88,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Bildbearbeitung Landschaftsfotografie mit Adobe Photoshop? — Typ: Downloads, Anbieter: MatthiasHaltenhof, gelistet seit 2016-11-26
-- Wie viel kostet es? — 91.13633100000001 USD
+- Wie viel kostet es? — 91.19338800000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Bildbearbeitung Landschaftsfotografie mit Adobe Photoshop Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/106293
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/106293/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Bildbearbeitung%20Landschaftsfotografie%20mit%20Adobe%20Photoshop
 
 ## 4. Editorial notes

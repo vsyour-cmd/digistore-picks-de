@@ -4,34 +4,34 @@ digistore24_product_id: 666736
 title: "Talking Head Videos mit KI"
 vendor: "dergoldeneWandel"
 product_type: "Member area and video courses"
-price: 83.62
+price: 83.68
 currency: "USD"
 affiliate_commission_pct: 45
-earnings_per_sale: 37.64
+earnings_per_sale: 37.66
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Education"]
 listed_since: "2026-02-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
-promo_link: "https://www.digistore24.com/redir/55487/adminstore/"
+promo_link: "https://avatar-kurs-claudia.my.canva.site/?aff=adminstore#aff=adminstore"
 sales_page: "https://avatar-kurs-claudia.my.canva.site/"
 language: "de"
 ---
 # Talking Head Videos mit KI
 
 > Product ID `55487` · Digistore24 productId `666736` · [HTML profile page](../../produkte/talking-head-videos-mit-ki-55487.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $83.62 (Single payment) |
+| Price | $83.68 (Single payment) |
 | Affiliate commission | 45% |
-| Earnings/sale* | $37.64 |
+| Earnings/sale* | $37.66 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | dergoldeneWandel |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55487/adminstore/
+- **Promo link (affiliate):** https://avatar-kurs-claudia.my.canva.site/?aff=adminstore#aff=adminstore
 - Sales page: https://avatar-kurs-claudia.my.canva.site/
 - Canonical redirect: https://www.digistore24.com/redir/666736/adminstore
 
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Talking Head Videos mit KI? — Typ: Member area and video courses, Anbieter: dergoldeneWandel, gelistet seit 2026-02-05
-- Wie viel kostet es? — 83.62269900000001 USD
+- Wie viel kostet es? — 83.67505200000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Talking Head Videos mit KI Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/666736
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/666736/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Talking%20Head%20Videos%20mit%20KI
 
 ## 4. Editorial notes

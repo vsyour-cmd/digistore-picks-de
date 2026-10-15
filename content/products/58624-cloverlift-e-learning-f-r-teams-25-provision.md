@@ -4,16 +4,16 @@ digistore24_product_id: 722501
 title: "CloverLift – E-Learning für Teams, 25 % Provision"
 vendor: "hihdigital"
 product_type: "Software"
-price: 21.24
+price: 21.26
 currency: "USD"
 affiliate_commission_pct: 25
 earnings_per_sale: 5.31
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: []
+categories: ["Software","Computer & Internet","Education"]
 listed_since: "2026-08-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://cloverlift.com/order.html?aff=adminstore#aff=adminstore"
 sales_page: "https://cloverlift.com/order.html"
@@ -22,14 +22,14 @@ language: "de"
 # CloverLift – E-Learning für Teams, 25 % Provision
 
 > Product ID `58624` · Digistore24 productId `722501` · [HTML profile page](../../produkte/cloverlift-e-learning-f-r-teams-25-provision-58624.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $21.24 (Subscription) |
+| Price | $21.26 (Subscription) |
 | Affiliate commission | 25% |
 | Earnings/sale* | $5.31 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | hihdigital |
 | Listed since | 2026-08-24 |
 | Auto-accept affiliates | yes |
-| Categories | Uncategorized |
+| Categories | Software, Computer & Internet, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -75,14 +75,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist CloverLift – E-Learning für Teams, 25 % Provision? — Typ: Software, Anbieter: hihdigital, gelistet seit 2026-08-24
-- Wie viel kostet es? — 21.243900000000004 USD
+- Wie viel kostet es? — 21.2572 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: CloverLift – E-Learning für Teams, 25 % Provision Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/722501
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/722501/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=CloverLift%20%E2%80%93%20E-Learning%20f%C3%BCr%20Teams%2C%2025%20%25%20Provision
 
 ## 4. Editorial notes

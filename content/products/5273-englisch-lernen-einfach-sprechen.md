@@ -4,16 +4,16 @@ digistore24_product_id: 35449
 title: "Englisch lernen - Einfach sprechen!"
 vendor: "Natural-Learning"
 product_type: "Downloads"
-price: 25.37
+price: 25.39
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 19.03
+earnings_per_sale: 19.04
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Languages"]
 listed_since: "2014-10-30"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://www.natural-language-system.de?aff=adminstore#aff=adminstore"
 sales_page: "https://www.natural-language-system.de"
@@ -22,16 +22,16 @@ language: "de"
 # Englisch lernen - Einfach sprechen!
 
 > Product ID `5273` · Digistore24 productId `35449` · [HTML profile page](../../produkte/englisch-lernen-einfach-sprechen-5273.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $25.37 (Single payment) |
+| Price | $25.39 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $19.03 |
+| Earnings/sale* | $19.04 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Natural-Learning |
@@ -66,14 +66,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Englisch lernen - Einfach sprechen!? — Typ: Downloads, Anbieter: Natural-Learning, gelistet seit 2014-10-30
-- Wie viel kostet es? — 25.369689000000005 USD
+- Wie viel kostet es? — 25.385572000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Englisch lernen - Einfach sprechen! Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/35449
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/35449/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Englisch%20lernen%20-%20Einfach%20sprechen!
 
 ## 4. Editorial notes

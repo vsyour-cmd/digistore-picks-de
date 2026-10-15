@@ -4,32 +4,32 @@ digistore24_product_id: 679530
 title: "Digitale Vorlagen Wochenplaner für Kinder"
 vendor: "martinakocyigit2025"
 product_type: "Downloads"
-price: 7.5
+price: 7.51
 currency: "USD"
 affiliate_commission_pct: 20
 earnings_per_sale: 1.5
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Family & Children"]
+categories: ["Family & Children","Education"]
 listed_since: "2026-03-25"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/56107/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/679530?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/679530"
 language: "de"
 ---
 # Digitale Vorlagen Wochenplaner für Kinder
 
 > Product ID `56107` · Digistore24 productId `679530` · [HTML profile page](../../produkte/digitale-vorlagen-wochenplaner-f-r-kinder-56107.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $7.50 (Single payment) |
+| Price | $7.51 (Single payment) |
 | Affiliate commission | 20% |
 | Earnings/sale* | $1.50 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | martinakocyigit2025 |
 | Listed since | 2026-03-25 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Family & Children |
+| Categories | Family & Children, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56107/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/679530?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/679530
 - Canonical redirect: https://www.digistore24.com/redir/679530/adminstore
 
@@ -70,14 +70,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Digitale Vorlagen Wochenplaner für Kinder? — Typ: Downloads, Anbieter: martinakocyigit2025, gelistet seit 2026-03-25
-- Wie viel kostet es? — 7.502451000000001 USD
+- Wie viel kostet es? — 7.507148 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Digitale Vorlagen Wochenplaner für Kinder Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/679530
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/679530/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Digitale%20Vorlagen%20Wochenplaner%20f%C3%BCr%20Kinder
 
 ## 4. Editorial notes

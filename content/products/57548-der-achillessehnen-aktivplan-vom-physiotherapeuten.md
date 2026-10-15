@@ -4,16 +4,16 @@ digistore24_product_id: 541445
 title: "Der Achillessehnen-Aktivplan vom Physiotherapeuten"
 vendor: "video-reha"
 product_type: "Member area and video courses"
-price: 93.01
+price: 93.07
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 23.26
+earnings_per_sale: 23.27
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Sport"]
 listed_since: "2026-07-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/541445?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/541445"
@@ -22,16 +22,16 @@ language: "de"
 # Der Achillessehnen-Aktivplan vom Physiotherapeuten
 
 > Product ID `57548` · Digistore24 productId `541445` · [HTML profile page](../../produkte/der-achillessehnen-aktivplan-vom-physiotherapeuten-57548.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $93.01 (Single payment) |
+| Price | $93.07 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $23.26 |
+| Earnings/sale* | $23.27 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | video-reha |
@@ -81,14 +81,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Achillessehnen-Aktivplan vom Physiotherapeuten? — Typ: Member area and video courses, Anbieter: video-reha, gelistet seit 2026-07-15
-- Wie viel kostet es? — 93.014739 USD
+- Wie viel kostet es? — 93.072972 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Der Achillessehnen-Aktivplan vom Physiotherapeuten Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/541445
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/541445/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%20Achillessehnen-Aktivplan%20vom%20Physiotherapeuten
 
 ## 4. Editorial notes

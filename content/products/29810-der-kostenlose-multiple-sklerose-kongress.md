@@ -4,16 +4,16 @@ digistore24_product_id: 283003
 title: "DER KOSTENLOSE MULTIPLE SKLEROSE KONGRESS"
 vendor: "autoimmunportal"
 product_type: "Downloads"
-price: 56.37
+price: 56.41
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 28.19
+earnings_per_sale: 28.2
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2019-08-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://akademie.medumio.de/multiplesklerosekongress/wissenspaket/?aff=adminstore#aff=adminstore"
 sales_page: "https://akademie.medumio.de/multiplesklerosekongress/wissenspaket/"
@@ -22,16 +22,16 @@ language: "de"
 # DER KOSTENLOSE MULTIPLE SKLEROSE KONGRESS
 
 > Product ID `29810` · Digistore24 productId `283003` · [HTML profile page](../../produkte/der-kostenlose-multiple-sklerose-kongress-29810.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $56.37 (Single payment, Installment) |
+| Price | $56.41 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $28.19 |
+| Earnings/sale* | $28.20 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | autoimmunportal |
@@ -94,14 +94,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist DER KOSTENLOSE MULTIPLE SKLEROSE KONGRESS? — Typ: Downloads, Anbieter: autoimmunportal, gelistet seit 2019-08-15
-- Wie viel kostet es? — 56.37460200000001 USD
+- Wie viel kostet es? — 56.409896 USD
 - Garantie? — 30
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: DER KOSTENLOSE MULTIPLE SKLEROSE KONGRESS Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/283003
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/283003/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=DER%20KOSTENLOSE%20MULTIPLE%20SKLEROSE%20KONGRESS
 
 ## 4. Editorial notes

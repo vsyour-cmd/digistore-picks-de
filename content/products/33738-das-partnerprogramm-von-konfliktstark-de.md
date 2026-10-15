@@ -4,16 +4,16 @@ digistore24_product_id: 118555
 title: "Das Partnerprogramm von \"KonfliktStark.de\""
 vendor: "christophmarkss"
 product_type: "Member area and video courses"
-price: 92.08
+price: 92.13
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 46.04
+earnings_per_sale: 46.07
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2017-02-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
 promo_link: "https://konfliktstark.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://konfliktstark.de/"
@@ -22,16 +22,16 @@ language: "de"
 # Das Partnerprogramm von "KonfliktStark.de"
 
 > Product ID `33738` · Digistore24 productId `118555` · [HTML profile page](../../produkte/das-partnerprogramm-von-konfliktstark-de-33738.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $92.08 (Single payment, Installment) |
+| Price | $92.13 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $46.04 |
+| Earnings/sale* | $46.07 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | christophmarkss |
@@ -75,14 +75,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Partnerprogramm von "KonfliktStark.de"? — Typ: Member area and video courses, Anbieter: christophmarkss, gelistet seit 2017-02-08
-- Wie viel kostet es? — 92.075535 USD
+- Wie viel kostet es? — 92.13318 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Das Partnerprogramm von "KonfliktStark.de" Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/118555
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/118555/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Das%20Partnerprogramm%20von%20%22KonfliktStark.de%22
 
 ## 4. Editorial notes

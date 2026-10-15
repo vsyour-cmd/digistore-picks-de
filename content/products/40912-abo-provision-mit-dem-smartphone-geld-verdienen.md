@@ -4,7 +4,7 @@ digistore24_product_id: 456148
 title: "ABO Provision - Mit dem Smartphone Geld verdienen"
 vendor: "monetenwissen"
 product_type: "Downloads"
-price: 22.19
+price: 22.21
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 3.47
@@ -12,8 +12,8 @@ cart_conversion_pct: 19
 cancel_rate_pct: 2.66
 categories: ["Profession & Job"]
 listed_since: "2022-08-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://moneten-wissen.de/mit-dem-smartphone-geld-verdienen/?aff=adminstore#aff=adminstore"
 sales_page: "https://moneten-wissen.de/mit-dem-smartphone-geld-verdienen/"
@@ -22,14 +22,14 @@ language: "de"
 # ABO Provision - Mit dem Smartphone Geld verdienen
 
 > Product ID `40912` · Digistore24 productId `456148` · [HTML profile page](../../produkte/abo-provision-mit-dem-smartphone-geld-verdienen-40912.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $22.19 (Single payment) |
+| Price | $22.21 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $3.47 |
 | Cart conversion* | 19% |
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist ABO Provision - Mit dem Smartphone Geld verdienen? — Typ: Downloads, Anbieter: monetenwissen, gelistet seit 2022-08-18
-- Wie viel kostet es? — 22.194285000000004 USD
+- Wie viel kostet es? — 22.208180000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: ABO Provision - Mit dem Smartphone Geld verdienen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/456148
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/456148/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=ABO%20Provision%20-%20Mit%20dem%20Smartphone%20Geld%20verdienen
 
 ## 4. Editorial notes

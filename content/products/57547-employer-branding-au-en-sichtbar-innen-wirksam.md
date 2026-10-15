@@ -4,40 +4,40 @@ digistore24_product_id: 711783
 title: "Employer Branding – Außen sichtbar. Innen wirksam."
 vendor: "HRruns"
 product_type: "Member area and video courses"
-price: 27.25
+price: 27.27
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 19.07
+earnings_per_sale: 19.09
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Profession & Job","Leadership & Management"]
+categories: ["Profession & Job","Education","Leadership & Management"]
 listed_since: "2026-07-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/57547/adminstore/"
+promo_link: "https://andreasguenzel.coachy.net/lp/employer-branding/?aff=adminstore#aff=adminstore"
 sales_page: "https://andreasguenzel.coachy.net/lp/employer-branding/"
 language: "de"
 ---
 # Employer Branding – Außen sichtbar. Innen wirksam.
 
 > Product ID `57547` · Digistore24 productId `711783` · [HTML profile page](../../produkte/employer-branding-au-en-sichtbar-innen-wirksam-57547.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $27.25 (Single payment) |
+| Price | $27.27 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $19.07 |
+| Earnings/sale* | $19.09 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | HRruns |
 | Listed since | 2026-07-15 |
 | Auto-accept affiliates | no (approval required) |
-| Categories | Education, Profession & Job, Leadership & Management |
+| Categories | Profession & Job, Education, Leadership & Management |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/57547/adminstore/
+- **Promo link (affiliate):** https://andreasguenzel.coachy.net/lp/employer-branding/?aff=adminstore#aff=adminstore
 - Sales page: https://andreasguenzel.coachy.net/lp/employer-branding/
 - Canonical redirect: https://www.digistore24.com/redir/711783/adminstore
 
@@ -95,14 +95,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Employer Branding – Außen sichtbar. Innen wirksam.? — Typ: Member area and video courses, Anbieter: HRruns, gelistet seit 2026-07-15
-- Wie viel kostet es? — 27.248097000000005 USD
+- Wie viel kostet es? — 27.265156 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Employer Branding – Außen sichtbar. Innen wirksam. Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/711783
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/711783/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Employer%20Branding%20%E2%80%93%20Au%C3%9Fen%20sichtbar.%20Innen%20wirksam.
 
 ## 4. Editorial notes

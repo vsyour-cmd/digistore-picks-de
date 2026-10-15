@@ -4,16 +4,16 @@ digistore24_product_id: 439414
 title: "Triple Momentum Indikator | TradingView | mega Performance"
 vendor: "kagels-trading"
 product_type: "Remote service provided electronically"
-price: 281.48
+price: 281.66
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 245.9
+earnings_per_sale: 246.06
 cart_conversion_pct: 7
 cancel_rate_pct: 10.09
 categories: ["Trading Products"]
 listed_since: "2022-04-19"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.kagels-trading.de/triple-momentum-trading-indikator/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.kagels-trading.de/triple-momentum-trading-indikator/"
@@ -22,16 +22,16 @@ language: "de"
 # Triple Momentum Indikator | TradingView | mega Performance
 
 > Product ID `49662` · Digistore24 productId `439414` · [HTML profile page](../../produkte/triple-momentum-indikator-tradingview-mega-performance-49662.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $281.48 (Single payment, Subscription) |
+| Price | $281.66 (Single payment, Subscription) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $245.90 |
+| Earnings/sale* | $246.06 |
 | Cart conversion* | 7% |
 | Cancel rate* | 10.09% |
 | Vendor | kagels-trading |
@@ -90,14 +90,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Triple Momentum Indikator | TradingView | mega Performance? — Typ: Remote service provided electronically, Anbieter: kagels-trading, gelistet seit 2022-04-19
-- Wie viel kostet es? — 281.481675 USD
+- Wie viel kostet es? — 281.6579 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Triple Momentum Indikator | TradingView | mega Performance Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/439414
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/439414/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Triple%20Momentum%20Indikator%20%7C%20TradingView%20%7C%20mega%20Performance
 
 ## 4. Editorial notes

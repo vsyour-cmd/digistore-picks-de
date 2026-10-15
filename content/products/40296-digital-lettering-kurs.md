@@ -4,16 +4,16 @@ digistore24_product_id: 295701
 title: "Digital Lettering Kurs"
 vendor: "Timothy90"
 product_type: "Member area and video courses"
-price: 76.55
+price: 76.59
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 37.37
+earnings_per_sale: 37.39
 cart_conversion_pct: 23
 cancel_rate_pct: 0.39
 categories: ["Hobby & Craft"]
 listed_since: "2019-11-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://manylearn.com/kurse/digital-lettering-kurs?aff=adminstore#aff=adminstore"
 sales_page: "https://manylearn.com/kurse/digital-lettering-kurs"
@@ -22,16 +22,16 @@ language: "de"
 # Digital Lettering Kurs
 
 > Product ID `40296` · Digistore24 productId `295701` · [HTML profile page](../../produkte/digital-lettering-kurs-40296.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $76.55 (Single payment, Installment) |
+| Price | $76.59 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $37.37 |
+| Earnings/sale* | $37.39 |
 | Cart conversion* | 23% |
 | Cancel rate* | 0.39% |
 | Vendor | Timothy90 |
@@ -89,14 +89,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Digital Lettering Kurs? — Typ: Member area and video courses, Anbieter: Timothy90, gelistet seit 2019-11-18
-- Wie viel kostet es? — 76.545126 USD
+- Wie viel kostet es? — 76.593048 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Digital Lettering Kurs Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/295701
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/295701/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Digital%20Lettering%20Kurs
 
 ## 4. Editorial notes

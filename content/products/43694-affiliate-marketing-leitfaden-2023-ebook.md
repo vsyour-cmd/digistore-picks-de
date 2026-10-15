@@ -4,16 +4,16 @@ digistore24_product_id: 495370
 title: "Affiliate Marketing Leitfaden 2023 (EBOOK)"
 vendor: "RSMedicalWorldwide"
 product_type: "E-books"
-price: 15.66
+price: 15.67
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 4.47
+earnings_per_sale: 4.48
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2023-04-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/495370?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/495370"
@@ -22,16 +22,16 @@ language: "de"
 # Affiliate Marketing Leitfaden 2023 (EBOOK)
 
 > Product ID `43694` · Digistore24 productId `495370` · [HTML profile page](../../produkte/affiliate-marketing-leitfaden-2023-ebook-43694.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $15.66 (Single payment) |
+| Price | $15.67 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $4.47 |
+| Earnings/sale* | $4.48 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | RSMedicalWorldwide |
@@ -68,14 +68,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Affiliate Marketing Leitfaden 2023 (EBOOK)? — Typ: E-books, Anbieter: RSMedicalWorldwide, gelistet seit 2023-04-21
-- Wie viel kostet es? — 15.664581000000002 USD
+- Wie viel kostet es? — 15.674388 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Affiliate Marketing Leitfaden 2023 (EBOOK) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/495370
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/495370/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Affiliate%20Marketing%20Leitfaden%202023%20(EBOOK)
 
 ## 4. Editorial notes

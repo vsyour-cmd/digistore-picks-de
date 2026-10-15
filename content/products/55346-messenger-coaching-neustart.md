@@ -4,16 +4,16 @@ digistore24_product_id: 626426
 title: "Messenger-Coaching \"Neustart\""
 vendor: "optima_gesundheitsberatung"
 product_type: "Telephone coaching"
-price: 121.2
+price: 121.28
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 18.18
+earnings_per_sale: 18.19
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Food & Drink","Health & Fitness"]
+categories: ["Health & Fitness","Food & Drink"]
 listed_since: "2025-07-28"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://optima-gesundheitsberatung.de/messenger-coaching/?aff=adminstore#aff=adminstore"
 sales_page: "https://optima-gesundheitsberatung.de/messenger-coaching/"
@@ -22,22 +22,22 @@ language: "de"
 # Messenger-Coaching "Neustart"
 
 > Product ID `55346` · Digistore24 productId `626426` · [HTML profile page](../../produkte/messenger-coaching-neustart-55346.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Telephone coaching |
-| Price | $121.20 (Subscription) |
+| Price | $121.28 (Subscription) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $18.18 |
+| Earnings/sale* | $18.19 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | optima_gesundheitsberatung |
 | Listed since | 2025-07-28 |
 | Auto-accept affiliates | yes |
-| Categories | Food & Drink, Health & Fitness |
+| Categories | Health & Fitness, Food & Drink |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -87,14 +87,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Messenger-Coaching "Neustart"? — Typ: Telephone coaching, Anbieter: optima_gesundheitsberatung, gelistet seit 2025-07-28
-- Wie viel kostet es? — 121.20204000000001 USD
+- Wie viel kostet es? — 121.27792000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Messenger-Coaching "Neustart" Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/626426
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/626426/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Messenger-Coaching%20%22Neustart%22
 
 ## 4. Editorial notes

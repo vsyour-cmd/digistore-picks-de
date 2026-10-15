@@ -4,34 +4,34 @@ digistore24_product_id: 202329
 title: "Das Experten E-Book über Wasserfilter!"
 vendor: "H2O-Beratungscenter"
 product_type: "Downloads"
-price: 27.94
+price: 27.96
 currency: "USD"
 affiliate_commission_pct: 45
-earnings_per_sale: 12.58
+earnings_per_sale: 12.59
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2018-02-19"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/22867/adminstore/"
+promo_link: "https://wasserfilter-doc.com/e-book/?aff=adminstore#aff=adminstore"
 sales_page: "https://wasserfilter-doc.com/e-book/"
 language: "de"
 ---
 # Das Experten E-Book über Wasserfilter!
 
 > Product ID `22867` · Digistore24 productId `202329` · [HTML profile page](../../produkte/das-experten-e-book-ber-wasserfilter-22867.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $27.94 (Single payment) |
+| Price | $27.96 (Single payment) |
 | Affiliate commission | 45% |
-| Earnings/sale* | $12.58 |
+| Earnings/sale* | $12.59 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | H2O-Beratungscenter |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/22867/adminstore/
+- **Promo link (affiliate):** https://wasserfilter-doc.com/e-book/?aff=adminstore#aff=adminstore
 - Sales page: https://wasserfilter-doc.com/e-book/
 - Canonical redirect: https://www.digistore24.com/redir/202329/adminstore
 
@@ -75,14 +75,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Experten E-Book über Wasserfilter!? — Typ: Downloads, Anbieter: H2O-Beratungscenter, gelistet seit 2018-02-19
-- Wie viel kostet es? — 27.941319 USD
+- Wie viel kostet es? — 27.958811999999998 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Das Experten E-Book über Wasserfilter! Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/202329
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/202329/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Das%20Experten%20E-Book%20%C3%BCber%20Wasserfilter!
 
 ## 4. Editorial notes

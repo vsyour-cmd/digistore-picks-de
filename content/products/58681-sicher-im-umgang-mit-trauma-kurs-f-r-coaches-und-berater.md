@@ -4,40 +4,40 @@ digistore24_product_id: 725586
 title: "Sicher im Umgang mit Trauma - Kurs für Coaches und Berater"
 vendor: "beatelindemann"
 product_type: "Member area and video courses"
-price: 842.8
+price: 843.33
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 168.56
+earnings_per_sale: 168.67
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: []
+categories: ["Profession & Job","Education"]
 listed_since: "2026-08-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/58681/adminstore/"
+promo_link: "https://campus.beate-lindemann.de/lp/traumakompetenz-fur-coaches/?aff=adminstore#aff=adminstore"
 sales_page: "https://campus.beate-lindemann.de/lp/traumakompetenz-fur-coaches/"
 language: "de"
 ---
 # Sicher im Umgang mit Trauma - Kurs für Coaches und Berater
 
 > Product ID `58681` · Digistore24 productId `725586` · [HTML profile page](../../produkte/sicher-im-umgang-mit-trauma-kurs-f-r-coaches-und-berater-58681.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $842.80 (Single payment, Installment) |
+| Price | $843.33 (Single payment, Installment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $168.56 |
+| Earnings/sale* | $168.67 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | beatelindemann |
 | Listed since | 2026-08-26 |
 | Auto-accept affiliates | yes |
-| Categories | Uncategorized |
+| Categories | Profession & Job, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58681/adminstore/
+- **Promo link (affiliate):** https://campus.beate-lindemann.de/lp/traumakompetenz-fur-coaches/?aff=adminstore#aff=adminstore
 - Sales page: https://campus.beate-lindemann.de/lp/traumakompetenz-fur-coaches/
 - Canonical redirect: https://www.digistore24.com/redir/725586/adminstore
 
@@ -93,14 +93,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Sicher im Umgang mit Trauma - Kurs für Coaches und Berater? — Typ: Member area and video courses, Anbieter: beatelindemann, gelistet seit 2026-08-26
-- Wie viel kostet es? — 842.801418 USD
+- Wie viel kostet es? — 843.329064 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Sicher im Umgang mit Trauma - Kurs für Coaches und Berater Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/725586
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/725586/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Sicher%20im%20Umgang%20mit%20Trauma%20-%20Kurs%20f%C3%BCr%20Coaches%20und%20Berater
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 708069
 title: "Ausbildung zum Imaginations- Practitioner"
 vendor: "Challengefacingde"
 product_type: "Member area and video courses"
-price: 3268.83
+price: 3270.88
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 559.05
+earnings_per_sale: 559.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Personal Development","Profession & Job"]
+categories: ["Personal Development","Profession & Job","Education"]
 listed_since: "2024-04-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://community.einfach-leben-retreat.de/ausbildung-imaginationspractitioner?aff=adminstore#aff=adminstore"
 sales_page: "https://community.einfach-leben-retreat.de/ausbildung-imaginationspractitioner"
@@ -22,22 +22,22 @@ language: "de"
 # Ausbildung zum Imaginations- Practitioner
 
 > Product ID `47930` · Digistore24 productId `708069` · [HTML profile page](../../produkte/ausbildung-zum-imaginations-practitioner-47930.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $3268.83 (Single payment, Installment) |
+| Price | $3270.88 (Single payment, Installment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $559.05 |
+| Earnings/sale* | $559.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Challengefacingde |
 | Listed since | 2024-04-23 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Personal Development, Profession & Job |
+| Categories | Personal Development, Profession & Job, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -87,14 +87,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ausbildung zum Imaginations- Practitioner? — Typ: Member area and video courses, Anbieter: Challengefacingde, gelistet seit 2024-04-23
-- Wie viel kostet es? — 3268.832436 USD
+- Wie viel kostet es? — 3270.878928 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Ausbildung zum Imaginations- Practitioner Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/708069
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/708069/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Ausbildung%20zum%20Imaginations-%20Practitioner
 
 ## 4. Editorial notes

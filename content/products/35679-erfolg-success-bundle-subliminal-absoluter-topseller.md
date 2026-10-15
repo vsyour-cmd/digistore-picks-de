@@ -4,7 +4,7 @@ digistore24_product_id: 330154
 title: "Erfolg & Success-Bundle (Subliminal) Absoluter Topseller"
 vendor: "seiwunderbar"
 product_type: "Downloads"
-price: 26.3
+price: 26.31
 currency: "USD"
 affiliate_commission_pct: 20
 earnings_per_sale: 5.26
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2020-06-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/35679/adminstore/"
+promo_link: "http://earnetic.de/produkt/reichtum-fuelle-in-deinem-leben-silent-subliminal/?aff=adminstore#aff=adminstore"
 sales_page: "http://earnetic.de/produkt/reichtum-fuelle-in-deinem-leben-silent-subliminal/"
 language: "de"
 ---
 # Erfolg & Success-Bundle (Subliminal) Absoluter Topseller
 
 > Product ID `35679` · Digistore24 productId `330154` · [HTML profile page](../../produkte/erfolg-success-bundle-subliminal-absoluter-topseller-35679.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $26.30 (Single payment) |
+| Price | $26.31 (Single payment) |
 | Affiliate commission | 20% |
 | Earnings/sale* | $5.26 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/35679/adminstore/
+- **Promo link (affiliate):** http://earnetic.de/produkt/reichtum-fuelle-in-deinem-leben-silent-subliminal/?aff=adminstore#aff=adminstore
 - Sales page: http://earnetic.de/produkt/reichtum-fuelle-in-deinem-leben-silent-subliminal/
 - Vendor affiliate support: https://earnetic.de/werbemittel-fuer-partner/
 - Canonical redirect: https://www.digistore24.com/redir/330154/adminstore
@@ -80,14 +80,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Erfolg & Success-Bundle (Subliminal) Absoluter Topseller? — Typ: Downloads, Anbieter: seiwunderbar, gelistet seit 2020-06-05
-- Wie viel kostet es? — 26.297712 USD
+- Wie viel kostet es? — 26.314176 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Erfolg & Success-Bundle (Subliminal) Absoluter Topseller Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/330154
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/330154/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Erfolg%20%26%20Success-Bundle%20(Subliminal)%20Absoluter%20Topseller
 
 ## 4. Editorial notes

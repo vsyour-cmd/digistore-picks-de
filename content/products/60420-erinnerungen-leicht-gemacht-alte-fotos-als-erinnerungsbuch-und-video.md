@@ -10,10 +10,10 @@ affiliate_commission_pct: 40
 earnings_per_sale: 6.23
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: []
+categories: ["Family & Children","Photography & Film"]
 listed_since: "2026-10-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/743723?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/743723"
@@ -22,7 +22,7 @@ language: "de"
 # Erinnerungen leicht gemacht – alte Fotos als Erinnerungsbuch und Video
 
 > Product ID `60420` · Digistore24 productId `743723` · [HTML profile page](../../produkte/erinnerungen-leicht-gemacht-alte-fotos-als-erinnerungsbuch-und-video-60420.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | ratgeberleichtgemacht |
 | Listed since | 2026-10-08 |
 | Auto-accept affiliates | yes |
-| Categories | Uncategorized |
+| Categories | Family & Children, Photography & Film |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -77,14 +77,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Erinnerungen leicht gemacht – alte Fotos als Erinnerungsbuch und Video? — Typ: E-books, Anbieter: ratgeberleichtgemacht, gelistet seit 2026-10-08
-- Wie viel kostet es? — 15.575133000000001 USD
+- Wie viel kostet es? — 15.584884 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Erinnerungen leicht gemacht – alte Fotos als Erinnerungsbuch und Video Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/743723
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/743723/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Erinnerungen%20leicht%20gemacht%20%E2%80%93%20alte%20Fotos%20als%20Erinnerungsbuch%20und%20Video
 
 ## 4. Editorial notes

@@ -4,7 +4,7 @@ digistore24_product_id: 689173
 title: "Ebook - Natürliche Klimafaktoren der Erde"
 vendor: "joebgesbuchverleger39ac"
 product_type: "E-books"
-price: 7.3
+price: 7.31
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 3.66
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Green Products & Environmental Protection"]
 listed_since: "2026-04-30"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/689173?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/689173"
@@ -22,14 +22,14 @@ language: "de"
 # Ebook - Natürliche Klimafaktoren der Erde
 
 > Product ID `56404` · Digistore24 productId `689173` · [HTML profile page](../../produkte/ebook-nat-rliche-klimafaktoren-der-erde-56404.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $7.30 (Single payment) |
+| Price | $7.31 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $3.66 |
 | Cart conversion* | — |
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ebook - Natürliche Klimafaktoren der Erde? — Typ: E-books, Anbieter: joebgesbuchverleger39ac, gelistet seit 2026-04-30
-- Wie viel kostet es? — 7.3011930000000005 USD
+- Wie viel kostet es? — 7.305764000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Ebook - Natürliche Klimafaktoren der Erde Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/689173
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/689173/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Ebook%20-%20Nat%C3%BCrliche%20Klimafaktoren%20der%20Erde
 
 ## 4. Editorial notes

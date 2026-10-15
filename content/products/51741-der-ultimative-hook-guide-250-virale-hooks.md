@@ -4,7 +4,7 @@ digistore24_product_id: 596743
 title: "Der ultimative Hook-Guide: 250 VIRALE HOOKS"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 15.62
+price: 15.63
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 7.82
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Profession & Job"]
 listed_since: "2025-02-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/51741/adminstore/"
+promo_link: "https://michael-kotzur.de/der-ultimative-hook-guide/?aff=adminstore#aff=adminstore"
 sales_page: "https://michael-kotzur.de/der-ultimative-hook-guide/"
 language: "de"
 ---
 # Der ultimative Hook-Guide: 250 VIRALE HOOKS
 
 > Product ID `51741` · Digistore24 productId `596743` · [HTML profile page](../../produkte/der-ultimative-hook-guide-250-virale-hooks-51741.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $15.62 (Single payment) |
+| Price | $15.63 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $7.82 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/51741/adminstore/
+- **Promo link (affiliate):** https://michael-kotzur.de/der-ultimative-hook-guide/?aff=adminstore#aff=adminstore
 - Sales page: https://michael-kotzur.de/der-ultimative-hook-guide/
 - Vendor affiliate support: https://michaelpartner.com/
 - Canonical redirect: https://www.digistore24.com/redir/596743/adminstore
@@ -82,14 +82,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der ultimative Hook-Guide: 250 VIRALE HOOKS? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2025-02-17
-- Wie viel kostet es? — 15.619857000000001 USD
+- Wie viel kostet es? — 15.629636000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Der ultimative Hook-Guide: 250 VIRALE HOOKS Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/596743
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/596743/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%20ultimative%20Hook-Guide%3A%20250%20VIRALE%20HOOKS
 
 ## 4. Editorial notes

@@ -4,7 +4,7 @@ digistore24_product_id: 710657
 title: "Der Goldene Abschluss - Workbook"
 vendor: "Diveco"
 product_type: "Downloads"
-price: 18.69
+price: 18.71
 currency: "USD"
 affiliate_commission_pct: 40
 earnings_per_sale: 7.48
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Profession & Job","Sales Training"]
 listed_since: "2026-07-14"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://heinzbader.com/landingpage-der-goldene-abschluss/?aff=adminstore#aff=adminstore"
 sales_page: "https://heinzbader.com/landingpage-der-goldene-abschluss/"
@@ -22,14 +22,14 @@ language: "de"
 # Der Goldene Abschluss - Workbook
 
 > Product ID `57528` · Digistore24 productId `710657` · [HTML profile page](../../produkte/der-goldene-abschluss-workbook-57528.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $18.69 (Single payment) |
+| Price | $18.71 (Single payment) |
 | Affiliate commission | 40% |
 | Earnings/sale* | $7.48 |
 | Cart conversion* | — |
@@ -86,14 +86,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Goldene Abschluss - Workbook? — Typ: Downloads, Anbieter: Diveco, gelistet seit 2026-07-14
-- Wie viel kostet es? — 18.694632 USD
+- Wie viel kostet es? — 18.706336 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Der Goldene Abschluss - Workbook Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/710657
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/710657/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%20Goldene%20Abschluss%20-%20Workbook
 
 ## 4. Editorial notes

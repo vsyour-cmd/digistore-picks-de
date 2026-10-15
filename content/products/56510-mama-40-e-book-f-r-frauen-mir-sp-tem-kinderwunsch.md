@@ -4,16 +4,16 @@ digistore24_product_id: 683381
 title: "Mama Ü40 -E-Book für Frauen mir spätem Kinderwunsch"
 vendor: "diue40mama2232"
 product_type: "E-books"
-price: 30.3
+price: 30.32
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 12.12
+earnings_per_sale: 12.13
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Family & Children","Health & Fitness","Personal Development"]
+categories: ["Health & Fitness","Personal Development","Family & Children"]
 listed_since: "2026-04-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/683381?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/683381"
@@ -22,22 +22,22 @@ language: "de"
 # Mama Ü40 -E-Book für Frauen mir spätem Kinderwunsch
 
 > Product ID `56510` · Digistore24 productId `683381` · [HTML profile page](../../produkte/mama-40-e-book-f-r-frauen-mir-sp-tem-kinderwunsch-56510.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $30.30 (Single payment) |
+| Price | $30.32 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $12.12 |
+| Earnings/sale* | $12.13 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | diue40mama2232 |
 | Listed since | 2026-04-08 |
 | Auto-accept affiliates | yes |
-| Categories | Family & Children, Health & Fitness, Personal Development |
+| Categories | Health & Fitness, Personal Development, Family & Children |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mama Ü40 -E-Book für Frauen mir spätem Kinderwunsch? — Typ: E-books, Anbieter: diue40mama2232, gelistet seit 2026-04-08
-- Wie viel kostet es? — 30.300510000000003 USD
+- Wie viel kostet es? — 30.319480000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Mama Ü40 -E-Book für Frauen mir spätem Kinderwunsch Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/683381
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/683381/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Mama%20%C3%9C40%20-E-Book%20f%C3%BCr%20Frauen%20mir%20sp%C3%A4tem%20Kinderwunsch
 
 ## 4. Editorial notes

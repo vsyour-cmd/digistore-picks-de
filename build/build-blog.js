@@ -357,6 +357,11 @@ ${row(B)}
 <p>Beide sind High-Ticket-Listings — die richtige Wahl hängt von Zielgruppe und Bewerbungsstil ab, nicht von einer Kennzahl. Lies beide Vollprofile (oben verlinkt) und prüfe die aktuellen Garantien auf den Verkaufsseiten.</p>
 <p>Alternativen: <a href="../alternativen/${A.slug}.html">Alternativen zu ${esc(A.label)}</a> · <a href="../alternativen/${B.slug}.html">Alternativen zu ${esc(B.label)}</a></p>
 <p class="sub">Bewertungsmethode: <a href="digistore24-zahlen-checkliste.html">6-Punkte-Zahlen-Check</a> · <a href="../about.html">Recherche-Standards</a>. Beleg- &amp; Validierungsbedingungen: alle Zahlen aus der offiziellen Digistore24-Marktplatz-API (Snapshot ${UPDATED}); der Vergleich wird bei jedem täglichen Rebuild neu berechnet.</p>
+`.replace(/<p>Alternativen: <a href="\.\.\/alternativen\/(A|B)\.slug\.html">/g, (m, X) => {
+  // Alternativen-Seiten nur für Top-Angebote(193/4300):无对比页的产品不输出链接,防死链
+  const P = X === "A" ? A : B;
+  return fs.existsSync(path.join(ROOT, "alternativen", P.slug + ".html")) ? m : "<p>" + " ".repeat(0);
+});
 ${pairs.length > 1 ? `<h2>Weitere direkte Vergleiche</h2>
 <ul>${[...Array(Math.min(4, pairs.length - 1)).keys()].map((k) => vsMeta[(pi + 1 + k) % pairs.length]).map((v) => `<li><a href="${v.f}">${esc(v.t)}</a> — Marktplatz-Vergleich aus derselben Reihe.</li>`).join("\n")}</ul>` : ""}
 </article>`;
@@ -427,7 +432,7 @@ function thisWeekDigestDe() {
   const med = prices.length ? prices[Math.floor(prices.length / 2)] : null;
   const types = Object.entries(news.reduce((m, p) => { const t = p.type || "Other"; m[t] = (m[t] || 0) + 1; return m; }, {})).sort((a, b) => b[1] - a[1]);
   const f = "marktplatz-eine-woche.html";
-  const nrow = (p) => `<tr><td><a href="../reviews/${p.slug}.html">${esc(p.label)}</a></td><td>${esc(p.type)}</td><td>${money(p.price, p.currency)}</td><td>${money(p.earningsPerSale, p.currency)}</td><td>${p.conversionRate != null ? pct(p.conversionRate) : '<span class="sub">nicht veröffentlicht</span>'}</td></tr>`;
+  const nrow = (p) => `<tr><td><a href="../produkte/${p.slug}.html">${esc(p.label)}</a></td><td>${esc(p.type)}</td><td>${money(p.price, p.currency)}</td><td>${money(p.earningsPerSale, p.currency)}</td><td>${p.conversionRate != null ? pct(p.conversionRate) : '<span class="sub">nicht veröffentlicht</span>'}</td></tr>`;
   const body = `
 <h1>${news.length} neue Angebote in dieser Woche — und ${gone.length} verschwunden</h1>
 <p class="sub">Marktplatz-Fluktuation, Woche für Woche · Snapshot ${snaps[0]} vs ${UPDATED} · Jede Zahl offizielle Digistore24-Marktplatz-Daten</p>
@@ -442,11 +447,11 @@ function thisWeekDigestDe() {
 <tr><th>Produkt</th><th>Typ</th><th>Preis</th><th>Verdienst/Verkauf</th><th>Warenkorb-Konv.*</th></tr>
 ${news.slice(0, 15).map(nrow).join("\n")}
 </table>
-${news.length > 15 ? `<p class="sub">…and ${news.length - 15} weitere — siehe <a href="monthly-new.html">die monatliche Neuheiten-Seite</a>.</p>` : ""}
+${news.length > 15 ? `<p class="sub">…and ${news.length - 15} weitere — siehe <a href="../monthly-new.html">die monatliche Neuheiten-Seite</a>.</p>` : ""}
 <p class="sub">* Konversion ist Anbieter-gemeldet über den eigenen Traffic und fehlt bei frischen Listings oft. Fehlen ist kein Vorwurf — ein Grund, später erneut nachzusehen, wenn echte Traffic-Historie existiert.</p>
 <h2>Preisbewegungen bei bestehenden Angeboten</h2>
-${raises.length ? `<p><b>Erhöht:</b> ${raises.map(({ p, pc }) => `<a href="../reviews/${p.slug}.html">${esc(p.label)}</a> +${Math.round(pc)}%`).join(" · ")}.</p>` : ""}
-${drops.length ? `<p><b>Gesendet:</b> ${drops.map(({ p, pc }) => `<a href="../reviews/${p.slug}.html">${esc(p.label)}</a> ${Math.round(pc)}%`).join(" · ")}.</p>` : ""}
+${raises.length ? `<p><b>Erhöht:</b> ${raises.map(({ p, pc }) => `<a href="../produkte/${p.slug}.html">${esc(p.label)}</a> +${Math.round(pc)}%`).join(" · ")}.</p>` : ""}
+${drops.length ? `<p><b>Gesendet:</b> ${drops.map(({ p, pc }) => `<a href="../produkte/${p.slug}.html">${esc(p.label)}</a> ${Math.round(pc)}%`).join(" · ")}.</p>` : ""}
 <p>${raises.length + drops.length === 0 ? "Kein Anbieter hat den Listenpreis diese Woche um ≥1% geändert." : "Drei- und vierstellige Preisänderungen sind fast immer Relaunches oder Funnel-Umbauten statt stiller Anpassungen — lesen Sie das als 'dieses Angebot hat die Strategie gewechselt' und prüfen Sie die Verkaufsseite erneut, bevor Sie sich auf alte Notizen verlassen."}</p>
 <h2>Die Abgänge</h2>
 <p>${gone.length} Listing(s) verschwanden diese Woche aus dem Marktplatz-Datensatz — ${esc(gone.slice(0, 3).map((g) => g.label).join(", "))}${gone.length > 3 ? " und weitere" : ""}. Ihre Profile gehen über unsere Aktualitäts-Politik ab. Falls Sie eines gemerkt hatten: Der Anbieter hat es womöglich verlagert statt eingestellt — prüfen Sie die Anbieter-Seite.</p>

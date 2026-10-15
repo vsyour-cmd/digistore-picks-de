@@ -4,16 +4,16 @@ digistore24_product_id: 409756
 title: "Beziehungsfalle Narzissmus - Liebe, Familie, Freunde, Job"
 vendor: "Loverie"
 product_type: "E-books"
-price: 20.89
+price: 20.9
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 12.53
+earnings_per_sale: 12.54
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2021-09-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.loverie.de/narzisst-jetzt-beziehung-mit-narzissmus-aufraeumen/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.loverie.de/narzisst-jetzt-beziehung-mit-narzissmus-aufraeumen/"
@@ -22,16 +22,16 @@ language: "de"
 # Beziehungsfalle Narzissmus - Liebe, Familie, Freunde, Job
 
 > Product ID `37966` · Digistore24 productId `409756` · [HTML profile page](../../produkte/beziehungsfalle-narzissmus-liebe-familie-freunde-job-37966.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.89 (Single payment, Installment) |
+| Price | $20.90 (Single payment, Installment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $12.53 |
+| Earnings/sale* | $12.54 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Loverie |
@@ -82,14 +82,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Beziehungsfalle Narzissmus - Liebe, Familie, Freunde, Job? — Typ: E-books, Anbieter: Loverie, gelistet seit 2021-09-29
-- Wie viel kostet es? — 20.886108 USD
+- Wie viel kostet es? — 20.899184 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Beziehungsfalle Narzissmus - Liebe, Familie, Freunde, Job Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/409756
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/409756/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Beziehungsfalle%20Narzissmus%20-%20Liebe%2C%20Familie%2C%20Freunde%2C%20Job
 
 ## 4. Editorial notes

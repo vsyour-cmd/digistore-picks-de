@@ -4,7 +4,7 @@ digistore24_product_id: 324765
 title: "VIP ONLINE DANCE ACADEMY ABO"
 vendor: "andyandkellykainz"
 product_type: "Member area and video courses"
-price: 32.79
+price: 32.81
 currency: "USD"
 affiliate_commission_pct: 15
 earnings_per_sale: 4.92
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dancing & Music"]
 listed_since: "2020-05-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://andyandkellykainz.com/vip-academy/?aff=adminstore#aff=adminstore"
 sales_page: "https://andyandkellykainz.com/vip-academy/"
@@ -22,14 +22,14 @@ language: "de"
 # VIP ONLINE DANCE ACADEMY ABO
 
 > Product ID `36096` · Digistore24 productId `324765` · [HTML profile page](../../produkte/vip-online-dance-academy-abo-36096.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $32.79 (Subscription) |
+| Price | $32.81 (Subscription) |
 | Affiliate commission | 15% |
 | Earnings/sale* | $4.92 |
 | Cart conversion* | — |
@@ -80,14 +80,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist VIP ONLINE DANCE ACADEMY ABO? — Typ: Member area and video courses, Anbieter: andyandkellykainz, gelistet seit 2020-05-04
-- Wie viel kostet es? — 32.793873 USD
+- Wie viel kostet es? — 32.814403999999996 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: VIP ONLINE DANCE ACADEMY ABO Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/324765
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/324765/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=VIP%20ONLINE%20DANCE%20ACADEMY%20ABO
 
 ## 4. Editorial notes

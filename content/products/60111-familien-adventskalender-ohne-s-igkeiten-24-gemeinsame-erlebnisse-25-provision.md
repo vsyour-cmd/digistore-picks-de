@@ -4,7 +4,7 @@ digistore24_product_id: 635118
 title: "Familien-Adventskalender ohne Süßigkeiten | 24 gemeinsame Erlebnisse | 25 % Provision"
 vendor: "Baerenschmausi"
 product_type: "Deliverable"
-price: 42.29
+price: 42.31
 currency: "USD"
 affiliate_commission_pct: 25
 earnings_per_sale: 10.58
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2026-10-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/60111/adminstore/"
+promo_link: "https://baerenschmausi.de/adventskalender?aff=adminstore#aff=adminstore"
 sales_page: "https://baerenschmausi.de/adventskalender"
 language: "de"
 ---
 # Familien-Adventskalender ohne Süßigkeiten | 24 gemeinsame Erlebnisse | 25 % Provision
 
 > Product ID `60111` · Digistore24 productId `635118` · [HTML profile page](../../produkte/familien-adventskalender-ohne-s-igkeiten-24-gemeinsame-erlebnisse-25-provision-60111.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Deliverable |
-| Price | $42.29 (Single payment) |
+| Price | $42.31 (Single payment) |
 | Affiliate commission | 25% |
 | Earnings/sale* | $10.58 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/60111/adminstore/
+- **Promo link (affiliate):** https://baerenschmausi.de/adventskalender?aff=adminstore#aff=adminstore
 - Sales page: https://baerenschmausi.de/adventskalender
 - Canonical redirect: https://www.digistore24.com/redir/635118/adminstore
 
@@ -73,14 +73,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Familien-Adventskalender ohne Süßigkeiten | 24 gemeinsame Erlebnisse | 25 % Provision? — Typ: Deliverable, Anbieter: Baerenschmausi, gelistet seit 2026-10-01
-- Wie viel kostet es? — 42.286542000000004 USD
+- Wie viel kostet es? — 42.313016 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Familien-Adventskalender ohne Süßigkeiten | 24 gemeinsame Erlebnisse | 25 % Provision Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/635118
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/635118/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Familien-Adventskalender%20ohne%20S%C3%BC%C3%9Figkeiten%20%7C%2024%20gemeinsame%20Erlebnisse%20%7C%2025%20%25%20Provision
 
 ## 4. Editorial notes

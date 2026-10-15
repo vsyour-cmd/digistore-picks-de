@@ -4,16 +4,16 @@ digistore24_product_id: 590882
 title: "KI-Komplett-System | 10% Conversion auf Anmeldungen!"
 vendor: "CyrilCash"
 product_type: "Member area and video courses"
-price: 186.62
+price: 186.74
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 130.94
+earnings_per_sale: 131.02
 cart_conversion_pct: 9
 cancel_rate_pct: 1.99
 categories: ["Computer & Internet","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2025-01-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://business-kickstart.de/ki-training-1/?aff=adminstore#aff=adminstore"
 sales_page: "https://business-kickstart.de/ki-training-1/"
@@ -22,16 +22,16 @@ language: "de"
 # KI-Komplett-System | 10% Conversion auf Anmeldungen!
 
 > Product ID `51672` · Digistore24 productId `590882` · [HTML profile page](../../produkte/ki-komplett-system-10-conversion-auf-anmeldungen-51672.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $186.62 (Single payment, Subscription, Installment) |
+| Price | $186.74 (Single payment, Subscription, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $130.94 |
+| Earnings/sale* | $131.02 |
 | Cart conversion* | 9% |
 | Cancel rate* | 1.99% |
 | Vendor | CyrilCash |
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI-Komplett-System | 10% Conversion auf Anmeldungen!? — Typ: Member area and video courses, Anbieter: CyrilCash, gelistet seit 2025-01-16
-- Wie viel kostet es? — 186.622071 USD
+- Wie viel kostet es? — 186.738908 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: KI-Komplett-System | 10% Conversion auf Anmeldungen! Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/590882
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/590882/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=KI-Komplett-System%20%7C%2010%25%20Conversion%20auf%20Anmeldungen!
 
 ## 4. Editorial notes

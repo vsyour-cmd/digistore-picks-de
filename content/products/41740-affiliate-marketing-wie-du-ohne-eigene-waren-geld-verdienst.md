@@ -12,8 +12,8 @@ cart_conversion_pct: 33
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2022-11-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://page.funnelcockpit.com/tZMJZTGvdSoKcJwCT?aff=adminstore#aff=adminstore"
 sales_page: "https://page.funnelcockpit.com/tZMJZTGvdSoKcJwCT"
@@ -22,7 +22,7 @@ language: "de"
 # Affiliate Marketing! Wie du ohne eigene Waren Geld verdienst
 
 > Product ID `41740` · Digistore24 productId `468511` · [HTML profile page](../../produkte/affiliate-marketing-wie-du-ohne-eigene-waren-geld-verdienst-41740.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -65,7 +65,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Affiliate Marketing! Wie du ohne eigene Waren Geld verdienst Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/468511
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/468511/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Affiliate%20Marketing!%20Wie%20du%20ohne%20eigene%20Waren%20Geld%20verdienst
 
 ## 4. Editorial notes

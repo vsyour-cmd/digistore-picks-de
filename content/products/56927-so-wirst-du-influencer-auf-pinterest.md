@@ -4,7 +4,7 @@ digistore24_product_id: 701359
 title: "So wirst du Influencer auf Pinterest"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 25.08
+price: 25.09
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 12.55
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2026-06-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/56927/adminstore/"
+promo_link: "https://social-media-planer.de/ebooks/so-wirst-du-influencer-auf-pinterest?aff=adminstore#aff=adminstore"
 sales_page: "https://social-media-planer.de/ebooks/so-wirst-du-influencer-auf-pinterest"
 language: "de"
 ---
 # So wirst du Influencer auf Pinterest
 
 > Product ID `56927` · Digistore24 productId `701359` · [HTML profile page](../../produkte/so-wirst-du-influencer-auf-pinterest-56927.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $25.08 (Single payment) |
+| Price | $25.09 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $12.55 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56927/adminstore/
+- **Promo link (affiliate):** https://social-media-planer.de/ebooks/so-wirst-du-influencer-auf-pinterest?aff=adminstore#aff=adminstore
 - Sales page: https://social-media-planer.de/ebooks/so-wirst-du-influencer-auf-pinterest
 - Vendor affiliate support: https://social-media-planer.de/partnerprogramm
 - Canonical redirect: https://www.digistore24.com/redir/701359/adminstore
@@ -82,14 +82,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist So wirst du Influencer auf Pinterest? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-06-15
-- Wie viel kostet es? — 25.078983 USD
+- Wie viel kostet es? — 25.094684 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: So wirst du Influencer auf Pinterest Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/701359
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/701359/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=So%20wirst%20du%20Influencer%20auf%20Pinterest
 
 ## 4. Editorial notes

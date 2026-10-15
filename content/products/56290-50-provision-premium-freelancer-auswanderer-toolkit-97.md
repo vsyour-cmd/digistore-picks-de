@@ -4,16 +4,16 @@ digistore24_product_id: 684867
 title: "50% Provision: Premium Freelancer Auswanderer Toolkit (97€)"
 vendor: "matze2307"
 product_type: "Downloads"
-price: 91.14
+price: 91.19
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 45.57
+earnings_per_sale: 45.6
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Business & Investment","Profession & Job","Travel & Culture"]
+categories: ["Business & Investment","Travel & Culture","Profession & Job"]
 listed_since: "2026-04-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://bohle-digital.systeme.io/freelancer-toolkit/?aff=adminstore#aff=adminstore"
 sales_page: "https://bohle-digital.systeme.io/freelancer-toolkit/"
@@ -22,22 +22,22 @@ language: "de"
 # 50% Provision: Premium Freelancer Auswanderer Toolkit (97€)
 
 > Product ID `56290` · Digistore24 productId `684867` · [HTML profile page](../../produkte/50-provision-premium-freelancer-auswanderer-toolkit-97-56290.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $91.14 (Single payment) |
+| Price | $91.19 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $45.57 |
+| Earnings/sale* | $45.60 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | matze2307 |
 | Listed since | 2026-04-15 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Profession & Job, Travel & Culture |
+| Categories | Business & Investment, Travel & Culture, Profession & Job |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -92,14 +92,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 50% Provision: Premium Freelancer Auswanderer Toolkit (97€)? — Typ: Downloads, Anbieter: matze2307, gelistet seit 2026-04-15
-- Wie viel kostet es? — 91.13633100000001 USD
+- Wie viel kostet es? — 91.19338800000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 50% Provision: Premium Freelancer Auswanderer Toolkit (97€) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/684867
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/684867/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=50%25%20Provision%3A%20Premium%20Freelancer%20Auswanderer%20Toolkit%20(97%E2%82%AC)
 
 ## 4. Editorial notes

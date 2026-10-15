@@ -4,16 +4,16 @@ digistore24_product_id: 741971
 title: "Wildbienen entdecken – Mitmach- und  Ausmalbuch"
 vendor: "ITServiceMB"
 product_type: "E-books"
-price: 13.06
+price: 13.07
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 6.53
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Animals & Pets","Family & Children","Home & Garden"]
+categories: ["Family & Children","Animals & Pets","Home & Garden"]
 listed_since: "2026-10-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://kurven-klasse.de/biene/?aff=adminstore#aff=adminstore"
 sales_page: "https://kurven-klasse.de/biene/"
@@ -22,14 +22,14 @@ language: "de"
 # Wildbienen entdecken – Mitmach- und  Ausmalbuch
 
 > Product ID `60194` · Digistore24 productId `741971` · [HTML profile page](../../produkte/wildbienen-entdecken-mitmach-und-ausmalbuch-60194.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $13.06 (Single payment) |
+| Price | $13.07 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $6.53 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | ITServiceMB |
 | Listed since | 2026-10-05 |
 | Auto-accept affiliates | yes |
-| Categories | Animals & Pets, Family & Children, Home & Garden |
+| Categories | Family & Children, Animals & Pets, Home & Garden |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -76,14 +76,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Wildbienen entdecken – Mitmach- und  Ausmalbuch? — Typ: E-books, Anbieter: ITServiceMB, gelistet seit 2026-10-05
-- Wie viel kostet es? — 13.059408000000001 USD
+- Wie viel kostet es? — 13.067584 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Wildbienen entdecken – Mitmach- und  Ausmalbuch Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/741971
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/741971/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Wildbienen%20entdecken%20%E2%80%93%20Mitmach-%20und%20%20Ausmalbuch
 
 ## 4. Editorial notes

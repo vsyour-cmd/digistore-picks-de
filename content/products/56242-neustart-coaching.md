@@ -4,16 +4,16 @@ digistore24_product_id: 683577
 title: "Neustart Coaching"
 vendor: "optima_gesundheitsberatung"
 product_type: "Telephone coaching"
-price: 654.88
+price: 655.29
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 98.24
+earnings_per_sale: 98.3
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Food & Drink","Health & Fitness"]
+categories: ["Health & Fitness","Food & Drink"]
 listed_since: "2026-04-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://optima-gesundheitsberatung.de/messenger-coaching/?aff=adminstore#aff=adminstore"
 sales_page: "https://optima-gesundheitsberatung.de/messenger-coaching/"
@@ -22,22 +22,22 @@ language: "de"
 # Neustart Coaching
 
 > Product ID `56242` · Digistore24 productId `683577` · [HTML profile page](../../produkte/neustart-coaching-56242.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Telephone coaching |
-| Price | $654.88 (Single payment) |
+| Price | $655.29 (Single payment) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $98.24 |
+| Earnings/sale* | $98.30 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | optima_gesundheitsberatung |
 | Listed since | 2026-04-09 |
 | Auto-accept affiliates | yes |
-| Categories | Food & Drink, Health & Fitness |
+| Categories | Health & Fitness, Food & Drink |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -96,14 +96,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Neustart Coaching? — Typ: Telephone coaching, Anbieter: optima_gesundheitsberatung, gelistet seit 2026-04-09
-- Wie viel kostet es? — 654.8823510000001 USD
+- Wie viel kostet es? — 655.2923480000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Neustart Coaching Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/683577
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/683577/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Neustart%20Coaching
 
 ## 4. Editorial notes

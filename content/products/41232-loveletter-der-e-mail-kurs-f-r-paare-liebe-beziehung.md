@@ -4,16 +4,16 @@ digistore24_product_id: 444619
 title: "Loveletter: Der E-Mail-Kurs für Paare (Liebe + Beziehung)"
 vendor: "wielandstolzenburg"
 product_type: "Online coaching"
-price: 169.12
+price: 169.23
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 50.74
+earnings_per_sale: 50.77
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2022-05-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://kurse.wielandstolzenburg.de/lp/loveletter-fuer-paare?aff=adminstore#aff=adminstore"
 sales_page: "https://kurse.wielandstolzenburg.de/lp/loveletter-fuer-paare"
@@ -22,16 +22,16 @@ language: "de"
 # Loveletter: Der E-Mail-Kurs für Paare (Liebe + Beziehung)
 
 > Product ID `41232` · Digistore24 productId `444619` · [HTML profile page](../../produkte/loveletter-der-e-mail-kurs-f-r-paare-liebe-beziehung-41232.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $169.12 (Single payment, Installment) |
+| Price | $169.23 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $50.74 |
+| Earnings/sale* | $50.77 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | wielandstolzenburg |
@@ -100,14 +100,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Loveletter: Der E-Mail-Kurs für Paare (Liebe + Beziehung)? — Typ: Online coaching, Anbieter: wielandstolzenburg, gelistet seit 2022-05-29
-- Wie viel kostet es? — 169.123806 USD
+- Wie viel kostet es? — 169.22968799999998 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Loveletter: Der E-Mail-Kurs für Paare (Liebe + Beziehung) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/444619
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/444619/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Loveletter%3A%20Der%20E-Mail-Kurs%20f%C3%BCr%20Paare%20(Liebe%20%2B%20Beziehung)
 
 ## 4. Editorial notes

@@ -12,17 +12,17 @@ cart_conversion_pct: 28
 cancel_rate_pct: 14.48
 categories: ["Online Marketing & E-Business","Services","Marketing Services"]
 listed_since: "2024-11-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/50439/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/578339?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/578339"
 language: "de"
 ---
 # Digital Profit Starter Kurs I Online Kurs
 
 > Product ID `50439` · Digistore24 productId `578339` · [HTML profile page](../../produkte/digital-profit-starter-kurs-i-online-kurs-50439.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/50439/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/578339?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/578339
 - Canonical redirect: https://www.digistore24.com/redir/578339/adminstore
 
@@ -78,7 +78,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Digital Profit Starter Kurs I Online Kurs Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/578339
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/578339/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Digital%20Profit%20Starter%20Kurs%20I%20Online%20Kurs
 
 ## 4. Editorial notes

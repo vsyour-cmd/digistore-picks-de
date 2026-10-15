@@ -4,7 +4,7 @@ digistore24_product_id: 723057
 title: "Die verblühte Republik"
 vendor: "Novaris_web"
 product_type: "Audio book (download)"
-price: 11.75
+price: 11.76
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 1.17
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Politics & Economy"]
 listed_since: "2026-08-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://novaris.de.cool/verbluehte_republik.php?aff=adminstore#aff=adminstore"
 sales_page: "https://novaris.de.cool/verbluehte_republik.php"
@@ -22,14 +22,14 @@ language: "de"
 # Die verblühte Republik
 
 > Product ID `58734` · Digistore24 productId `723057` · [HTML profile page](../../produkte/die-verbl-hte-republik-58734.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Audio book (download) |
-| Price | $11.75 (Single payment) |
+| Price | $11.76 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $1.17 |
 | Cart conversion* | — |
@@ -66,14 +66,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die verblühte Republik? — Typ: Audio book (download), Anbieter: Novaris_web, gelistet seit 2026-08-27
-- Wie viel kostet es? — 11.751231 USD
+- Wie viel kostet es? — 11.758588 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Die verblühte Republik Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/723057
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/723057/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Die%20verbl%C3%BChte%20Republik
 
 ## 4. Editorial notes

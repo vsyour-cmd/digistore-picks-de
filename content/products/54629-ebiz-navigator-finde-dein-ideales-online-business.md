@@ -4,34 +4,34 @@ digistore24_product_id: 564414
 title: "eBiz Navigator – Finde dein ideales Online-Business"
 vendor: "Andreas-Mattner"
 product_type: "Software"
-price: 27.25
+price: 27.27
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 19.07
+earnings_per_sale: 19.09
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Profession & Job"]
 listed_since: "2024-08-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/54629/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/564414?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/564414"
 language: "de"
 ---
 # eBiz Navigator – Finde dein ideales Online-Business
 
 > Product ID `54629` · Digistore24 productId `564414` · [HTML profile page](../../produkte/ebiz-navigator-finde-dein-ideales-online-business-54629.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $27.25 (Single payment) |
+| Price | $27.27 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $19.07 |
+| Earnings/sale* | $19.09 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Andreas-Mattner |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/54629/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/564414?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/564414
 - Canonical redirect: https://www.digistore24.com/redir/564414/adminstore
 
@@ -82,14 +82,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist eBiz Navigator – Finde dein ideales Online-Business? — Typ: Software, Anbieter: Andreas-Mattner, gelistet seit 2024-08-07
-- Wie viel kostet es? — 27.248097000000005 USD
+- Wie viel kostet es? — 27.265156 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: eBiz Navigator – Finde dein ideales Online-Business Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/564414
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/564414/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=eBiz%20Navigator%20%E2%80%93%20Finde%20dein%20ideales%20Online-Business
 
 ## 4. Editorial notes

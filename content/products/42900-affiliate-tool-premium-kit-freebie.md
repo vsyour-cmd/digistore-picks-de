@@ -12,8 +12,8 @@ cart_conversion_pct: 16
 cancel_rate_pct: 2.86
 categories: ["Online Marketing & E-Business"]
 listed_since: "2022-10-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
 promo_link: "https://kb-om.com/affiliate-tool-premium-kit/?aff=adminstore#aff=adminstore"
 sales_page: "https://kb-om.com/affiliate-tool-premium-kit/"
@@ -22,7 +22,7 @@ language: "de"
 # Affiliate Tool - Premium Kit - FREEBIE
 
 > Product ID `42900` · Digistore24 productId `464835` · [HTML profile page](../../produkte/affiliate-tool-premium-kit-freebie-42900.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -64,14 +64,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Affiliate Tool - Premium Kit - FREEBIE? — Typ: E-books, Anbieter: Plebvin, gelistet seit 2022-10-15
-- Wie viel kostet es? — 0.6261360000000001 USD
+- Wie viel kostet es? — 0.6265280000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Affiliate Tool - Premium Kit - FREEBIE Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/464835
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/464835/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Affiliate%20Tool%20-%20Premium%20Kit%20-%20FREEBIE
 
 ## 4. Editorial notes

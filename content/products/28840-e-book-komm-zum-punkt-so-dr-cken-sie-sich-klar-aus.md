@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2018-02-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
 promo_link: "https://klartextexperte.de/komm-zum-punkt/?aff=adminstore#aff=adminstore"
 sales_page: "https://klartextexperte.de/komm-zum-punkt/"
@@ -22,7 +22,7 @@ language: "de"
 # E-Book: Komm zum Punkt! So drücken Sie sich klar aus
 
 > Product ID `28840` · Digistore24 productId `202589` · [HTML profile page](../../produkte/e-book-komm-zum-punkt-so-dr-cken-sie-sich-klar-aus-28840.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -66,14 +66,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist E-Book: Komm zum Punkt! So drücken Sie sich klar aus? — Typ: E-books, Anbieter: ThiloBaum, gelistet seit 2018-02-20
-- Wie viel kostet es? — 6.160731 USD
+- Wie viel kostet es? — 6.164588 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: E-Book: Komm zum Punkt! So drücken Sie sich klar aus Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/202589
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/202589/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=E-Book%3A%20Komm%20zum%20Punkt!%20So%20dr%C3%BCcken%20Sie%20sich%20klar%20aus
 
 ## 4. Editorial notes

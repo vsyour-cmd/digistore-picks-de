@@ -4,40 +4,40 @@ digistore24_product_id: 590928
 title: "AI Book Writer Software"
 vendor: "buerger"
 product_type: "Software"
-price: 28.18
+price: 28.19
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 8.45
+earnings_per_sale: 8.46
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Computer & Internet","Online Marketing & E-Business","Software"]
+categories: ["Software","Computer & Internet","Online Marketing & E-Business"]
 listed_since: "2025-01-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
-promo_link: "https://www.digistore24.com/redir/50995/adminstore/"
+promo_link: "https://www.aibookwriter.de/de?aff=adminstore#aff=adminstore"
 sales_page: "https://www.aibookwriter.de/de"
 language: "de"
 ---
 # AI Book Writer Software
 
 > Product ID `50995` · Digistore24 productId `590928` · [HTML profile page](../../produkte/ai-book-writer-software-50995.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $28.18 (Single payment) |
+| Price | $28.19 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $8.45 |
+| Earnings/sale* | $8.46 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | buerger |
 | Listed since | 2025-01-16 |
 | Auto-accept affiliates | yes |
-| Categories | Computer & Internet, Online Marketing & E-Business, Software |
+| Categories | Software, Computer & Internet, Online Marketing & E-Business |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/50995/adminstore/
+- **Promo link (affiliate):** https://www.aibookwriter.de/de?aff=adminstore#aff=adminstore
 - Sales page: https://www.aibookwriter.de/de
 - Vendor affiliate support: https://www.digistore24-app.com/account/partnerarea/1184524
 - Canonical redirect: https://www.digistore24.com/redir/590928/adminstore
@@ -63,14 +63,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist AI Book Writer Software? — Typ: Software, Anbieter: buerger, gelistet seit 2025-01-16
-- Wie viel kostet es? — 28.17612 USD
+- Wie viel kostet es? — 28.19376 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: AI Book Writer Software Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/590928
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/590928/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=AI%20Book%20Writer%20Software
 
 ## 4. Editorial notes

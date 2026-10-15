@@ -4,40 +4,40 @@ digistore24_product_id: 727548
 title: "Nährstoffbereit vor der Schwangerschaft"
 vendor: "vorbereitet-schwanger"
 product_type: "E-books"
-price: 36.47
+price: 36.5
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 14.59
+earnings_per_sale: 14.6
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Family & Children","Health & Fitness"]
+categories: ["Health & Fitness","Family & Children"]
 listed_since: "2026-09-03"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/58895/adminstore/"
+promo_link: "https://vorbereitet-schwanger.de/naehrstoffbereit/?aff=adminstore#aff=adminstore"
 sales_page: "https://vorbereitet-schwanger.de/naehrstoffbereit/"
 language: "de"
 ---
 # Nährstoffbereit vor der Schwangerschaft
 
 > Product ID `58895` · Digistore24 productId `727548` · [HTML profile page](../../produkte/n-hrstoffbereit-vor-der-schwangerschaft-58895.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $36.47 (Single payment) |
+| Price | $36.50 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $14.59 |
+| Earnings/sale* | $14.60 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | vorbereitet-schwanger |
 | Listed since | 2026-09-03 |
 | Auto-accept affiliates | yes |
-| Categories | Family & Children, Health & Fitness |
+| Categories | Health & Fitness, Family & Children |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58895/adminstore/
+- **Promo link (affiliate):** https://vorbereitet-schwanger.de/naehrstoffbereit/?aff=adminstore#aff=adminstore
 - Sales page: https://vorbereitet-schwanger.de/naehrstoffbereit/
 - Vendor affiliate support: https://vorbereitet-schwanger.de/affiliates/naehrstoffbereit/
 - Canonical redirect: https://www.digistore24.com/redir/727548/adminstore
@@ -90,14 +90,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Nährstoffbereit vor der Schwangerschaft? — Typ: E-books, Anbieter: vorbereitet-schwanger, gelistet seit 2026-09-03
-- Wie viel kostet es? — 36.472422 USD
+- Wie viel kostet es? — 36.495256 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Nährstoffbereit vor der Schwangerschaft Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/727548
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/727548/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=N%C3%A4hrstoffbereit%20vor%20der%20Schwangerschaft
 
 ## 4. Editorial notes

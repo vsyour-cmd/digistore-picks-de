@@ -12,8 +12,8 @@ cart_conversion_pct: 18
 cancel_rate_pct: 2.71
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2024-12-12"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://affiliforge.net/Trafficquelle-Instagram?aff=adminstore#aff=adminstore"
 sales_page: "https://affiliforge.net/Trafficquelle-Instagram"
@@ -22,7 +22,7 @@ language: "de"
 # Trafficquelle Instagram und Facebook
 
 > Product ID `50690` · Digistore24 productId `585597` · [HTML profile page](../../produkte/trafficquelle-instagram-und-facebook-50690.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -77,14 +77,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Trafficquelle Instagram und Facebook? — Typ: Member area and video courses, Anbieter: AffiliForge, gelistet seit 2024-12-12
-- Wie viel kostet es? — 2.448639 USD
+- Wie viel kostet es? — 2.450172 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Trafficquelle Instagram und Facebook Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/585597
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/585597/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Trafficquelle%20Instagram%20und%20Facebook
 
 ## 4. Editorial notes

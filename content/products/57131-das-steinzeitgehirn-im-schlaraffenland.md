@@ -4,32 +4,32 @@ digistore24_product_id: 701491
 title: "Das Steinzeitgehirn im Schlaraffenland"
 vendor: "That-Clicks"
 product_type: "E-books"
-price: 10.44
+price: 10.45
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 5.22
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Food & Drink","Health & Fitness","Personal Development"]
+categories: ["Health & Fitness","Personal Development","Food & Drink"]
 listed_since: "2026-06-25"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/57131/adminstore/"
+promo_link: "https://ebooks.that-clicks.de/buecher/das-steinzeitgehirn-im-schlaraffenland?aff=adminstore#aff=adminstore"
 sales_page: "https://ebooks.that-clicks.de/buecher/das-steinzeitgehirn-im-schlaraffenland"
 language: "de"
 ---
 # Das Steinzeitgehirn im Schlaraffenland
 
 > Product ID `57131` · Digistore24 productId `701491` · [HTML profile page](../../produkte/das-steinzeitgehirn-im-schlaraffenland-57131.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.44 (Single payment) |
+| Price | $10.45 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $5.22 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | That-Clicks |
 | Listed since | 2026-06-25 |
 | Auto-accept affiliates | yes |
-| Categories | Food & Drink, Health & Fitness, Personal Development |
+| Categories | Health & Fitness, Personal Development, Food & Drink |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/57131/adminstore/
+- **Promo link (affiliate):** https://ebooks.that-clicks.de/buecher/das-steinzeitgehirn-im-schlaraffenland?aff=adminstore#aff=adminstore
 - Sales page: https://ebooks.that-clicks.de/buecher/das-steinzeitgehirn-im-schlaraffenland
 - Canonical redirect: https://www.digistore24.com/redir/701491/adminstore
 
@@ -72,14 +72,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Steinzeitgehirn im Schlaraffenland? — Typ: E-books, Anbieter: That-Clicks, gelistet seit 2026-06-25
-- Wie viel kostet es? — 10.443054 USD
+- Wie viel kostet es? — 10.449592 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Das Steinzeitgehirn im Schlaraffenland Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/701491
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/701491/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Das%20Steinzeitgehirn%20im%20Schlaraffenland
 
 ## 4. Editorial notes

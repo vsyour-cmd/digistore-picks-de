@@ -4,34 +4,34 @@ digistore24_product_id: 727256
 title: "Das ultimative Karriere Master-Kit für Pflegefachkräfte"
 vendor: "VeloxForge"
 product_type: "E-books"
-price: 82.55
+price: 82.6
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 41.28
+earnings_per_sale: 41.31
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2026-09-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/59057/adminstore/"
+promo_link: "https://auranit.de/pflegefachkraefte/?aff=adminstore#aff=adminstore"
 sales_page: "https://auranit.de/pflegefachkraefte/"
 language: "de"
 ---
 # Das ultimative Karriere Master-Kit für Pflegefachkräfte
 
 > Product ID `59057` · Digistore24 productId `727256` · [HTML profile page](../../produkte/das-ultimative-karriere-master-kit-f-r-pflegefachkr-fte-59057.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $82.55 (Single payment) |
+| Price | $82.60 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $41.28 |
+| Earnings/sale* | $41.31 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | VeloxForge |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59057/adminstore/
+- **Promo link (affiliate):** https://auranit.de/pflegefachkraefte/?aff=adminstore#aff=adminstore
 - Sales page: https://auranit.de/pflegefachkraefte/
 - Canonical redirect: https://www.digistore24.com/redir/727256/adminstore
 
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das ultimative Karriere Master-Kit für Pflegefachkräfte? — Typ: E-books, Anbieter: VeloxForge, gelistet seit 2026-09-09
-- Wie viel kostet es? — 82.549323 USD
+- Wie viel kostet es? — 82.601004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Das ultimative Karriere Master-Kit für Pflegefachkräfte Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/727256
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/727256/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Das%20ultimative%20Karriere%20Master-Kit%20f%C3%BCr%20Pflegefachkr%C3%A4fte
 
 ## 4. Editorial notes

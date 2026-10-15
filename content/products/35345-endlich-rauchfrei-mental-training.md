@@ -4,34 +4,34 @@ digistore24_product_id: 304721
 title: "Endlich rauchfrei - Mental Training"
 vendor: "OKsuccess"
 product_type: "Downloads"
-price: 37.99
+price: 38.02
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 20.9
+earnings_per_sale: 20.91
 cart_conversion_pct: 3
 cancel_rate_pct: 0.26
 categories: ["Health & Fitness","Spiri­tua­lity & Esotericism"]
 listed_since: "2020-01-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/35345/adminstore/"
+promo_link: "https://brainfood4you.com/lp-endlich-rauchfrei-album?aff=adminstore#aff=adminstore"
 sales_page: "https://brainfood4you.com/lp-endlich-rauchfrei-album"
 language: "de"
 ---
 # Endlich rauchfrei - Mental Training
 
 > Product ID `35345` · Digistore24 productId `304721` · [HTML profile page](../../produkte/endlich-rauchfrei-mental-training-35345.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $37.99 (Single payment) |
+| Price | $38.02 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $20.90 |
+| Earnings/sale* | $20.91 |
 | Cart conversion* | 3% |
 | Cancel rate* | 0.26% |
 | Vendor | OKsuccess |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/35345/adminstore/
+- **Promo link (affiliate):** https://brainfood4you.com/lp-endlich-rauchfrei-album?aff=adminstore#aff=adminstore
 - Sales page: https://brainfood4you.com/lp-endlich-rauchfrei-album
 - Vendor affiliate support: http://brainfood4you.com/affiliate-endlich-rauchfrei-album
 - Canonical redirect: https://www.digistore24.com/redir/304721/adminstore
@@ -111,14 +111,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Endlich rauchfrei - Mental Training? — Typ: Downloads, Anbieter: OKsuccess, gelistet seit 2020-01-22
-- Wie viel kostet es? — 37.993038 USD
+- Wie viel kostet es? — 38.016824 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Endlich rauchfrei - Mental Training Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/304721
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/304721/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Endlich%20rauchfrei%20-%20Mental%20Training
 
 ## 4. Editorial notes

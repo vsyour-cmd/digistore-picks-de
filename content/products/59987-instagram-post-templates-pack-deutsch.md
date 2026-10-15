@@ -4,40 +4,40 @@ digistore24_product_id: 737211
 title: "Instagram Post Templates Pack (Deutsch)"
 vendor: "xarutacom"
 product_type: "Downloads"
-price: 21.61
+price: 21.63
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 6.48
+earnings_per_sale: 6.49
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Email Marketing","Online Marketing & E-Business","Marketing Services"]
+categories: ["Online Marketing & E-Business","Email Marketing","Marketing Services"]
 listed_since: "2026-09-28"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/59987/adminstore/"
+promo_link: "https://xaruta4.wordpress.com/instagram-template-pack-de/?aff=adminstore#aff=adminstore"
 sales_page: "https://xaruta4.wordpress.com/instagram-template-pack-de/"
 language: "de"
 ---
 # Instagram Post Templates Pack (Deutsch)
 
 > Product ID `59987` · Digistore24 productId `737211` · [HTML profile page](../../produkte/instagram-post-templates-pack-deutsch-59987.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $21.61 (Single payment) |
+| Price | $21.63 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $6.48 |
+| Earnings/sale* | $6.49 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | xarutacom |
 | Listed since | 2026-09-28 |
 | Auto-accept affiliates | yes |
-| Categories | Email Marketing, Online Marketing & E-Business, Marketing Services |
+| Categories | Online Marketing & E-Business, Email Marketing, Marketing Services |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59987/adminstore/
+- **Promo link (affiliate):** https://xaruta4.wordpress.com/instagram-template-pack-de/?aff=adminstore#aff=adminstore
 - Sales page: https://xaruta4.wordpress.com/instagram-template-pack-de/
 - Canonical redirect: https://www.digistore24.com/redir/737211/adminstore
 
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Instagram Post Templates Pack (Deutsch)? — Typ: Downloads, Anbieter: xarutacom, gelistet seit 2026-09-28
-- Wie viel kostet es? — 21.612873 USD
+- Wie viel kostet es? — 21.626403999999997 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Instagram Post Templates Pack (Deutsch) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/737211
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/737211/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Instagram%20Post%20Templates%20Pack%20(Deutsch)
 
 ## 4. Editorial notes

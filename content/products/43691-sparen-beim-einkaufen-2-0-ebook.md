@@ -4,7 +4,7 @@ digistore24_product_id: 495400
 title: "Sparen beim Einkaufen 2.0 (EBook)"
 vendor: "RSMedicalWorldwide"
 product_type: "E-books"
-price: 20.89
+price: 20.9
 currency: "USD"
 affiliate_commission_pct: 0
 earnings_per_sale: 5.59
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink"]
 listed_since: "2023-04-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/43691/adminstore/"
+promo_link: "https://www.digistore24.com/product/495400?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/495400"
 language: "de"
 ---
 # Sparen beim Einkaufen 2.0 (EBook)
 
 > Product ID `43691` · Digistore24 productId `495400` · [HTML profile page](../../produkte/sparen-beim-einkaufen-2-0-ebook-43691.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.89 (Single payment) |
+| Price | $20.90 (Single payment) |
 | Affiliate commission | 0% |
 | Earnings/sale* | $5.59 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/43691/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/495400?aff=adminstore
 - Sales page: https://www.digistore24.com/product/495400
 - Canonical redirect: https://www.digistore24.com/redir/495400/adminstore
 
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Sparen beim Einkaufen 2.0 (EBook)? — Typ: E-books, Anbieter: RSMedicalWorldwide, gelistet seit 2023-04-21
-- Wie viel kostet es? — 20.886108 USD
+- Wie viel kostet es? — 20.899184 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Sparen beim Einkaufen 2.0 (EBook) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/495400
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/495400/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Sparen%20beim%20Einkaufen%202.0%20(EBook)
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 295505
 title: "Ad Campus Online Plattform - 40% Lifetime Provision"
 vendor: "ChrisdaS"
 product_type: "Member area and video courses"
-price: 84.54
+price: 84.59
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 33.81
+earnings_per_sale: 33.83
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2019-11-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://www.ad-campus.de?aff=adminstore#aff=adminstore"
 sales_page: "https://www.ad-campus.de"
@@ -22,16 +22,16 @@ language: "de"
 # Ad Campus Online Plattform - 40% Lifetime Provision
 
 > Product ID `34308` · Digistore24 productId `295505` · [HTML profile page](../../produkte/ad-campus-online-plattform-40-lifetime-provision-34308.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $84.54 (Subscription) |
+| Price | $84.59 (Subscription) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $33.81 |
+| Earnings/sale* | $33.83 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ChrisdaS |
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ad Campus Online Plattform - 40% Lifetime Provision? — Typ: Member area and video courses, Anbieter: ChrisdaS, gelistet seit 2019-11-17
-- Wie viel kostet es? — 84.539541 USD
+- Wie viel kostet es? — 84.592468 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Ad Campus Online Plattform - 40% Lifetime Provision Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/295505
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/295505/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Ad%20Campus%20Online%20Plattform%20-%2040%25%20Lifetime%20Provision
 
 ## 4. Editorial notes

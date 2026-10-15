@@ -10,19 +10,19 @@ affiliate_commission_pct: 60
 earnings_per_sale: 6.24
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Business & Investment","Hobby & Craft","Profession & Job"]
+categories: ["Business & Investment","Profession & Job","Hobby & Craft"]
 listed_since: "2026-05-31"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/56761/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/665663?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/665663"
 language: "de"
 ---
 # Der Schäferhund ein Begleiter fürs Leben
 
 > Product ID `56761` · Digistore24 productId `665663` · [HTML profile page](../../produkte/der-sch-ferhund-ein-begleiter-f-rs-leben-56761.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | Towink |
 | Listed since | 2026-05-31 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Hobby & Craft, Profession & Job |
+| Categories | Business & Investment, Profession & Job, Hobby & Craft |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56761/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/665663?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/665663
 - Canonical redirect: https://www.digistore24.com/redir/665663/adminstore
 
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Schäferhund ein Begleiter fürs Leben? — Typ: E-books, Anbieter: Towink, gelistet seit 2026-05-31
-- Wie viel kostet es? — 10.398330000000001 USD
+- Wie viel kostet es? — 10.40484 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Der Schäferhund ein Begleiter fürs Leben Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/665663
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/665663/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%20Sch%C3%A4ferhund%20ein%20Begleiter%20f%C3%BCrs%20Leben
 
 ## 4. Editorial notes

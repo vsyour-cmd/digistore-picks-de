@@ -4,16 +4,16 @@ digistore24_product_id: 296427
 title: "Seelische Vitaminspritze"
 vendor: "Deinechance"
 product_type: "Member area and video courses"
-price: 108.46
+price: 108.52
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 54.23
+earnings_per_sale: 54.26
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Green Products & Environmental Protection","Home & Garden","Spiri­tua­lity & Esotericism"]
+categories: ["Spiri­tua­lity & Esotericism","Home & Garden","Green Products & Environmental Protection"]
 listed_since: "2019-11-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.seelische-vitaminspritze.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.seelische-vitaminspritze.com/"
@@ -22,22 +22,22 @@ language: "de"
 # Seelische Vitaminspritze
 
 > Product ID `44092` · Digistore24 productId `296427` · [HTML profile page](../../produkte/seelische-vitaminspritze-44092.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $108.46 (Single payment) |
+| Price | $108.52 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $54.23 |
+| Earnings/sale* | $54.26 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Deinechance |
 | Listed since | 2019-11-23 |
 | Auto-accept affiliates | yes |
-| Categories | Green Products & Environmental Protection, Home & Garden, Spiri­tua­lity & Esotericism |
+| Categories | Spiri­tua­lity & Esotericism, Home & Garden, Green Products & Environmental Protection |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -99,14 +99,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Seelische Vitaminspritze? — Typ: Member area and video courses, Anbieter: Deinechance, gelistet seit 2019-11-23
-- Wie viel kostet es? — 108.45570000000001 USD
+- Wie viel kostet es? — 108.5236 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Seelische Vitaminspritze Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/296427
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/296427/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Seelische%20Vitaminspritze
 
 ## 4. Editorial notes

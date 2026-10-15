@@ -4,16 +4,16 @@ digistore24_product_id: 689563
 title: "Ebook - Forensik - heute und morgen"
 vendor: "joebgesbuchverleger39ac"
 product_type: "E-books"
-price: 7.3
+price: 7.31
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 3.66
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Law & Justice"]
+categories: ["Law & Justice","Education"]
 listed_since: "2026-05-02"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/689563?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/689563"
@@ -22,14 +22,14 @@ language: "de"
 # Ebook - Forensik - heute und morgen
 
 > Product ID `56432` · Digistore24 productId `689563` · [HTML profile page](../../produkte/ebook-forensik-heute-und-morgen-56432.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $7.30 (Single payment) |
+| Price | $7.31 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $3.66 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | joebgesbuchverleger39ac |
 | Listed since | 2026-05-02 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Law & Justice |
+| Categories | Law & Justice, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ebook - Forensik - heute und morgen? — Typ: E-books, Anbieter: joebgesbuchverleger39ac, gelistet seit 2026-05-02
-- Wie viel kostet es? — 7.3011930000000005 USD
+- Wie viel kostet es? — 7.305764000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Ebook - Forensik - heute und morgen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/689563
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/689563/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Ebook%20-%20Forensik%20-%20heute%20und%20morgen
 
 ## 4. Editorial notes

@@ -10,10 +10,10 @@ affiliate_commission_pct: 50
 earnings_per_sale: 0.15
 cart_conversion_pct: 28
 cancel_rate_pct: 2.33
-categories: ["Email Marketing","Online Marketing & E-Business","Profession & Job"]
+categories: ["Online Marketing & E-Business","Profession & Job","Email Marketing"]
 listed_since: "2023-11-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://michael-schlinder.com/Lead-Magnet-Architekt?aff=adminstore#aff=adminstore"
 sales_page: "https://michael-schlinder.com/Lead-Magnet-Architekt"
@@ -22,7 +22,7 @@ language: "de"
 # Der Lead-Magnet Architekt
 
 > Product ID `46082` · Digistore24 productId `524001` · [HTML profile page](../../produkte/der-lead-magnet-architekt-46082.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | MSchlinder |
 | Listed since | 2023-11-06 |
 | Auto-accept affiliates | yes |
-| Categories | Email Marketing, Online Marketing & E-Business, Profession & Job |
+| Categories | Online Marketing & E-Business, Profession & Job, Email Marketing |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -76,14 +76,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Lead-Magnet Architekt? — Typ: Member area and video courses, Anbieter: MSchlinder, gelistet seit 2023-11-06
-- Wie viel kostet es? — 0.268344 USD
+- Wie viel kostet es? — 0.268512 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Der Lead-Magnet Architekt Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/524001
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/524001/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%20Lead-Magnet%20Architekt
 
 ## 4. Editorial notes

@@ -12,17 +12,17 @@ cart_conversion_pct: 28
 cancel_rate_pct: 2.33
 categories: ["Online Marketing & E-Business","Profession & Job","Social Media"]
 listed_since: "2023-06-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/44487/adminstore/"
+promo_link: "https://michael-schlinder.com/Black-Book-of-FB-Groups?aff=adminstore#aff=adminstore"
 sales_page: "https://michael-schlinder.com/Black-Book-of-FB-Groups"
 language: "de"
 ---
 # "The Black Book of Facebook Groups" E-Book + Minikurs
 
 > Product ID `44487` · Digistore24 productId `503958` · [HTML profile page](../../produkte/the-black-book-of-facebook-groups-e-book-minikurs-44487.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/44487/adminstore/
+- **Promo link (affiliate):** https://michael-schlinder.com/Black-Book-of-FB-Groups?aff=adminstore#aff=adminstore
 - Sales page: https://michael-schlinder.com/Black-Book-of-FB-Groups
 - Vendor affiliate support: https://affiliforge.net/AffiliForge-Partnerportal
 - Canonical redirect: https://www.digistore24.com/redir/503958/adminstore
@@ -74,14 +74,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist "The Black Book of Facebook Groups" E-Book + Minikurs? — Typ: E-books, Anbieter: MSchlinder, gelistet seit 2023-06-21
-- Wie viel kostet es? — 0.268344 USD
+- Wie viel kostet es? — 0.268512 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: "The Black Book of Facebook Groups" E-Book + Minikurs Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/503958
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/503958/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=%22The%20Black%20Book%20of%20Facebook%20Groups%22%20E-Book%20%2B%20Minikurs
 
 ## 4. Editorial notes

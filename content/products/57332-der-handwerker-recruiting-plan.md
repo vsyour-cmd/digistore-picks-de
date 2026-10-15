@@ -4,16 +4,16 @@ digistore24_product_id: 706661
 title: "Der Handwerker-Recruiting-Plan"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 26.07
+price: 26.09
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 13.04
+earnings_per_sale: 13.05
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2026-07-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://ratgeberplatz.de/ratgeber/handwerker-recruiting-plan?aff=adminstore#aff=adminstore"
 sales_page: "https://ratgeberplatz.de/ratgeber/handwerker-recruiting-plan"
@@ -22,16 +22,16 @@ language: "de"
 # Der Handwerker-Recruiting-Plan
 
 > Product ID `57332` · Digistore24 productId `706661` · [HTML profile page](../../produkte/der-handwerker-recruiting-plan-57332.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $26.07 (Single payment) |
+| Price | $26.09 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $13.04 |
+| Earnings/sale* | $13.05 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pixonmedia |
@@ -85,14 +85,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Handwerker-Recruiting-Plan? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-07-01
-- Wie viel kostet es? — 26.074092000000004 USD
+- Wie viel kostet es? — 26.090416 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Der Handwerker-Recruiting-Plan Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/706661
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/706661/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%20Handwerker-Recruiting-Plan
 
 ## 4. Editorial notes

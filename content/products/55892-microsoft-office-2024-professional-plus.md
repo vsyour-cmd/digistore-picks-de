@@ -4,16 +4,16 @@ digistore24_product_id: 676081
 title: "Microsoft Office 2024 Professional Plus"
 vendor: "info6f32"
 product_type: "Software"
-price: 122.05
+price: 122.13
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 36.62
+earnings_per_sale: 36.64
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2026-03-13"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/676081?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/676081"
@@ -22,16 +22,16 @@ language: "de"
 # Microsoft Office 2024 Professional Plus
 
 > Product ID `55892` · Digistore24 productId `676081` · [HTML profile page](../../produkte/microsoft-office-2024-professional-plus-55892.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $122.05 (Single payment) |
+| Price | $122.13 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $36.62 |
+| Earnings/sale* | $36.64 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | info6f32 |
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Microsoft Office 2024 Professional Plus? — Typ: Software, Anbieter: info6f32, gelistet seit 2026-03-13
-- Wie viel kostet es? — 122.05179600000001 USD
+- Wie viel kostet es? — 122.128208 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Microsoft Office 2024 Professional Plus Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/676081
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/676081/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Microsoft%20Office%202024%20Professional%20Plus
 
 ## 4. Editorial notes

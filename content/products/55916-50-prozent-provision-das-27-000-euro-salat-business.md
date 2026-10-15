@@ -4,16 +4,16 @@ digistore24_product_id: 674898
 title: "50 Prozent Provision: Das 27.000 Euro Salat-Business"
 vendor: "infob1d6"
 product_type: "Member area and video courses"
-price: 504.55
+price: 504.87
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 252.28
+earnings_per_sale: 252.43
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Business & Investment","Hobby & Craft","Home & Garden"]
+categories: ["Business & Investment","Home & Garden","Hobby & Craft"]
 listed_since: "2026-03-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.salad-cashflow.de/50m2-matrix-neu?aff=adminstore#aff=adminstore"
 sales_page: "https://www.salad-cashflow.de/50m2-matrix-neu"
@@ -22,22 +22,22 @@ language: "de"
 # 50 Prozent Provision: Das 27.000 Euro Salat-Business
 
 > Product ID `55916` · Digistore24 productId `674898` · [HTML profile page](../../produkte/50-prozent-provision-das-27-000-euro-salat-business-55916.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $504.55 (Single payment, Installment) |
+| Price | $504.87 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $252.28 |
+| Earnings/sale* | $252.43 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | infob1d6 |
 | Listed since | 2026-03-09 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Hobby & Craft, Home & Garden |
+| Categories | Business & Investment, Home & Garden, Hobby & Craft |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -76,14 +76,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 50 Prozent Provision: Das 27.000 Euro Salat-Business? — Typ: Member area and video courses, Anbieter: infob1d6, gelistet seit 2026-03-09
-- Wie viel kostet es? — 504.553806 USD
+- Wie viel kostet es? — 504.869688 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 50 Prozent Provision: Das 27.000 Euro Salat-Business Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/674898
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/674898/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=50%20Prozent%20Provision%3A%20Das%2027.000%20Euro%20Salat-Business
 
 ## 4. Editorial notes

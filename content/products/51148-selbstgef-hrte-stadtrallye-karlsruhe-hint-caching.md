@@ -4,16 +4,16 @@ digistore24_product_id: 433660
 title: "Selbstgeführte Stadtrallye Karlsruhe | Hint-Caching"
 vendor: "hintcaching"
 product_type: "Member area and video courses"
-price: 28.44
+price: 28.46
 currency: "USD"
 affiliate_commission_pct: 20
 earnings_per_sale: 8.12
 cart_conversion_pct: 9
 cancel_rate_pct: 0
-categories: ["Fun & Games","Travel & Culture"]
+categories: ["Travel & Culture","Fun & Games"]
 listed_since: "2022-03-10"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://hint-caching.de/stadtrallye-karlsruhe/?aff=adminstore#aff=adminstore"
 sales_page: "https://hint-caching.de/stadtrallye-karlsruhe/"
@@ -22,14 +22,14 @@ language: "de"
 # Selbstgeführte Stadtrallye Karlsruhe | Hint-Caching
 
 > Product ID `51148` · Digistore24 productId `433660` · [HTML profile page](../../produkte/selbstgef-hrte-stadtrallye-karlsruhe-hint-caching-51148.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $28.44 (Single payment) |
+| Price | $28.46 (Single payment) |
 | Affiliate commission | 20% |
 | Earnings/sale* | $8.12 |
 | Cart conversion* | 9% |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | hintcaching |
 | Listed since | 2022-03-10 |
 | Auto-accept affiliates | yes |
-| Categories | Fun & Games, Travel & Culture |
+| Categories | Travel & Culture, Fun & Games |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -87,14 +87,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Selbstgeführte Stadtrallye Karlsruhe | Hint-Caching? — Typ: Member area and video courses, Anbieter: hintcaching, gelistet seit 2022-03-10
-- Wie viel kostet es? — 28.444464000000004 USD
+- Wie viel kostet es? — 28.462272000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Selbstgeführte Stadtrallye Karlsruhe | Hint-Caching Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/433660
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/433660/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Selbstgef%C3%BChrte%20Stadtrallye%20Karlsruhe%20%7C%20Hint-Caching
 
 ## 4. Editorial notes

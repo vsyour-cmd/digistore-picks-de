@@ -4,7 +4,7 @@ digistore24_product_id: 247449
 title: "Ausbildung zum BDSH-geprüften Sachverständigen - Online"
 vendor: "michaelbandt"
 product_type: "Downloads"
-price: 1929.96
+price: 1931.17
 currency: "USD"
 affiliate_commission_pct: 0
 earnings_per_sale: 0
@@ -12,24 +12,24 @@ cart_conversion_pct: 7
 cancel_rate_pct: 3.87
 categories: ["Profession & Job"]
 listed_since: "2018-11-11"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "http://nie-mehr-zu-frueh.de/bestellseite#aff=adminstore"
+promo_link: "https://bisw.de/Sachverstaendiger-Homeseminar/?aff=adminstore#aff=adminstore"
 sales_page: "https://bisw.de/Sachverstaendiger-Homeseminar/"
 language: "de"
 ---
 # Ausbildung zum BDSH-geprüften Sachverständigen - Online
 
 > Product ID `27291` · Digistore24 productId `247449` · [HTML profile page](../../produkte/ausbildung-zum-bdsh-gepr-ften-sachverst-ndigen-online-27291.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $1929.96 (Single payment, Installment) |
+| Price | $1931.17 (Single payment, Installment) |
 | Affiliate commission | 0% |
 | Earnings/sale* | $0.00 |
 | Cart conversion* | 7% |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://nie-mehr-zu-frueh.de/bestellseite#aff=adminstore
+- **Promo link (affiliate):** https://bisw.de/Sachverstaendiger-Homeseminar/?aff=adminstore#aff=adminstore
 - Sales page: https://bisw.de/Sachverstaendiger-Homeseminar/
 - Canonical redirect: https://www.digistore24.com/redir/247449/adminstore
 
@@ -69,14 +69,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ausbildung zum BDSH-geprüften Sachverständigen - Online? — Typ: Downloads, Anbieter: michaelbandt, gelistet seit 2018-11-11
-- Wie viel kostet es? — 1929.963591 USD
+- Wie viel kostet es? — 1931.171868 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Ausbildung zum BDSH-geprüften Sachverständigen - Online Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/247449
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/247449/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Ausbildung%20zum%20BDSH-gepr%C3%BCften%20Sachverst%C3%A4ndigen%20-%20Online
 
 ## 4. Editorial notes

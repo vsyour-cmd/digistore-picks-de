@@ -4,34 +4,34 @@ digistore24_product_id: 178665
 title: "1x1 Guru: Das Einmaleins lernen mit innovativer Lernmethode"
 vendor: "Insider-Media"
 product_type: "Member area and video courses"
-price: 279.06
+price: 279.23
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 139.53
+earnings_per_sale: 139.62
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2017-11-10"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/23035/adminstore/"
+promo_link: "https://www.1x1.guru?aff=adminstore#aff=adminstore"
 sales_page: "https://www.1x1.guru"
 language: "de"
 ---
 # 1x1 Guru: Das Einmaleins lernen mit innovativer Lernmethode
 
 > Product ID `23035` · Digistore24 productId `178665` · [HTML profile page](../../produkte/1x1-guru-das-einmaleins-lernen-mit-innovativer-lernmethode-23035.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $279.06 (Single payment, Subscription) |
+| Price | $279.23 (Single payment, Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $139.53 |
+| Earnings/sale* | $139.62 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Insider-Media |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/23035/adminstore/
+- **Promo link (affiliate):** https://www.1x1.guru?aff=adminstore#aff=adminstore
 - Sales page: https://www.1x1.guru
 - Canonical redirect: https://www.digistore24.com/redir/178665/adminstore
 
@@ -66,14 +66,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 1x1 Guru: Das Einmaleins lernen mit innovativer Lernmethode? — Typ: Member area and video courses, Anbieter: Insider-Media, gelistet seit 2017-11-10
-- Wie viel kostet es? — 279.055398 USD
+- Wie viel kostet es? — 279.23010400000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 1x1 Guru: Das Einmaleins lernen mit innovativer Lernmethode Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/178665
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/178665/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=1x1%20Guru%3A%20Das%20Einmaleins%20lernen%20mit%20innovativer%20Lernmethode
 
 ## 4. Editorial notes

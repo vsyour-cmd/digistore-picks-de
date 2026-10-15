@@ -4,34 +4,34 @@ digistore24_product_id: 118627
 title: "UET - Ultra Effizientes Training"
 vendor: "bodyLIFE"
 product_type: "Downloads"
-price: 36.64
+price: 36.66
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 18.33
+earnings_per_sale: 18.34
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2017-02-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/15755/adminstore/"
+promo_link: "https://www.uet-programm.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.uet-programm.de/"
 language: "de"
 ---
 # UET - Ultra Effizientes Training
 
 > Product ID `15755` · Digistore24 productId `118627` · [HTML profile page](../../produkte/uet-ultra-effizientes-training-15755.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $36.64 (Single payment) |
+| Price | $36.66 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $18.33 |
+| Earnings/sale* | $18.34 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | bodyLIFE |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/15755/adminstore/
+- **Promo link (affiliate):** https://www.uet-programm.de/?aff=adminstore#aff=adminstore
 - Sales page: https://www.uet-programm.de/
 - Canonical redirect: https://www.digistore24.com/redir/118627/adminstore
 
@@ -91,14 +91,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist UET - Ultra Effizientes Training? — Typ: Downloads, Anbieter: bodyLIFE, gelistet seit 2017-02-08
-- Wie viel kostet es? — 36.64013700000001 USD
+- Wie viel kostet es? — 36.663076000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: UET - Ultra Effizientes Training Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/118627
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/118627/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=UET%20-%20Ultra%20Effizientes%20Training
 
 ## 4. Editorial notes

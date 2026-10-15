@@ -4,16 +4,16 @@ digistore24_product_id: 10373
 title: "Lead-Motor jährlich - 540€"
 vendor: "LeadMotor"
 product_type: "Downloads"
-price: 603.77
+price: 604.15
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 211.32
+earnings_per_sale: 211.45
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet"]
 listed_since: "2012-12-11"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://lead-motor.com/online-schulung/?aff=adminstore#aff=adminstore"
 sales_page: "https://lead-motor.com/online-schulung/"
@@ -22,16 +22,16 @@ language: "de"
 # Lead-Motor jährlich - 540€
 
 > Product ID `1389` · Digistore24 productId `10373` · [HTML profile page](../../produkte/lead-motor-j-hrlich-540-1389.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $603.77 (Subscription) |
+| Price | $604.15 (Subscription) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $211.32 |
+| Earnings/sale* | $211.45 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | LeadMotor |
@@ -83,14 +83,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Lead-Motor jährlich - 540€? — Typ: Downloads, Anbieter: LeadMotor, gelistet seit 2012-12-11
-- Wie viel kostet es? — 603.774 USD
+- Wie viel kostet es? — 604.152 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Lead-Motor jährlich - 540€ Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/10373
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/10373/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Lead-Motor%20j%C3%A4hrlich%20-%20540%E2%82%AC
 
 ## 4. Editorial notes

@@ -4,34 +4,34 @@ digistore24_product_id: 674791
 title: "Die 1-Stunden-Fokus-Methode"
 vendor: "pgustke28d278"
 product_type: "Downloads"
-price: 34.76
+price: 34.78
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 17.39
+earnings_per_sale: 17.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2026-03-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/55861/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/674791?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/674791"
 language: "de"
 ---
 # Die 1-Stunden-Fokus-Methode
 
 > Product ID `55861` · Digistore24 productId `674791` · [HTML profile page](../../produkte/die-1-stunden-fokus-methode-55861.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $34.76 (Single payment) |
+| Price | $34.78 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $17.39 |
+| Earnings/sale* | $17.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pgustke28d278 |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55861/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/674791?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/674791
 - Canonical redirect: https://www.digistore24.com/redir/674791/adminstore
 
@@ -94,14 +94,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die 1-Stunden-Fokus-Methode? — Typ: Downloads, Anbieter: pgustke28d278, gelistet seit 2026-03-09
-- Wie viel kostet es? — 34.761729 USD
+- Wie viel kostet es? — 34.783492 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Die 1-Stunden-Fokus-Methode Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/674791
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/674791/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Die%201-Stunden-Fokus-Methode
 
 ## 4. Editorial notes

@@ -12,17 +12,17 @@ cart_conversion_pct: 35
 cancel_rate_pct: 6.35
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2025-03-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
-promo_link: "https://www.digistore24.com/redir/52813/adminstore/"
+promo_link: "https://vierstelligimmonat.de/instaboostai?aff=adminstore#aff=adminstore"
 sales_page: "https://vierstelligimmonat.de/instaboostai"
 language: "de"
 ---
 # InstaBoost AI (1€)
 
 > Product ID `52813` · Digistore24 productId `599898` · [HTML profile page](../../produkte/instaboost-ai-1-52813.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/52813/adminstore/
+- **Promo link (affiliate):** https://vierstelligimmonat.de/instaboostai?aff=adminstore#aff=adminstore
 - Sales page: https://vierstelligimmonat.de/instaboostai
 - Canonical redirect: https://www.digistore24.com/redir/599898/adminstore
 
@@ -61,14 +61,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist InstaBoost AI (1€)? — Typ: Member area and video courses, Anbieter: MoneyCreators, gelistet seit 2025-03-05
-- Wie viel kostet es? — 2.7393450000000006 USD
+- Wie viel kostet es? — 2.74106 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: InstaBoost AI (1€) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/599898
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/599898/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=InstaBoost%20AI%20(1%E2%82%AC)
 
 ## 4. Editorial notes

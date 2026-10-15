@@ -4,7 +4,7 @@ digistore24_product_id: 570822
 title: "Hypnose-Onlinekurs Grenzen Setzen und Nein sagen"
 vendor: "petanthony"
 product_type: "Member area and video courses"
-price: 46.04
+price: 46.07
 currency: "USD"
 affiliate_commission_pct: 25
 earnings_per_sale: 11.52
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-09-30"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://shop.petanthony.com/online-kurse_grenzen-setzen_DS/?aff=adminstore#aff=adminstore"
 sales_page: "https://shop.petanthony.com/online-kurse_grenzen-setzen_DS/"
@@ -22,14 +22,14 @@ language: "de"
 # Hypnose-Onlinekurs Grenzen Setzen und Nein sagen
 
 > Product ID `60058` · Digistore24 productId `570822` · [HTML profile page](../../produkte/hypnose-onlinekurs-grenzen-setzen-und-nein-sagen-60058.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $46.04 (Single payment) |
+| Price | $46.07 (Single payment) |
 | Affiliate commission | 25% |
 | Earnings/sale* | $11.52 |
 | Cart conversion* | — |
@@ -59,14 +59,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Hypnose-Onlinekurs Grenzen Setzen und Nein sagen? — Typ: Member area and video courses, Anbieter: petanthony, gelistet seit 2026-09-30
-- Wie viel kostet es? — 46.043358000000005 USD
+- Wie viel kostet es? — 46.072184 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Hypnose-Onlinekurs Grenzen Setzen und Nein sagen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/570822
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/570822/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Hypnose-Onlinekurs%20Grenzen%20Setzen%20und%20Nein%20sagen
 
 ## 4. Editorial notes

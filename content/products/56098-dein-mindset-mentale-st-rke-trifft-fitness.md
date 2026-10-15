@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Sport"]
 listed_since: "2026-03-30"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://designs-nf.com/ebooks/dein-mindset?aff=adminstore#aff=adminstore"
 sales_page: "https://designs-nf.com/ebooks/dein-mindset"
@@ -22,7 +22,7 @@ language: "de"
 # Dein Mindset – Mentale Stärke trifft Fitness
 
 > Product ID `56098` · Digistore24 productId `680578` · [HTML profile page](../../produkte/dein-mindset-mentale-st-rke-trifft-fitness-56098.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -80,14 +80,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Dein Mindset – Mentale Stärke trifft Fitness? — Typ: E-books, Anbieter: Freifone, gelistet seit 2026-03-30
-- Wie viel kostet es? — 10.398330000000001 USD
+- Wie viel kostet es? — 10.40484 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Dein Mindset – Mentale Stärke trifft Fitness Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/680578
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/680578/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Dein%20Mindset%20%E2%80%93%20Mentale%20St%C3%A4rke%20trifft%20Fitness
 
 ## 4. Editorial notes

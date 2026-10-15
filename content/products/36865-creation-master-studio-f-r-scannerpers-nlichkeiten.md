@@ -4,34 +4,34 @@ digistore24_product_id: 382195
 title: "Creation Master Studio - für Scannerpersönlichkeiten"
 vendor: "HolgerMarkgraf"
 product_type: "Member area and video courses"
-price: 276.17
+price: 276.34
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 110.47
+earnings_per_sale: 110.54
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Project Management"]
 listed_since: "2021-04-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/36865/adminstore/"
+promo_link: "https://www.tausendsassaonlineschule.com/creation-studio?aff=adminstore#aff=adminstore"
 sales_page: "https://www.tausendsassaonlineschule.com/creation-studio"
 language: "de"
 ---
 # Creation Master Studio - für Scannerpersönlichkeiten
 
 > Product ID `36865` · Digistore24 productId `382195` · [HTML profile page](../../produkte/creation-master-studio-f-r-scannerpers-nlichkeiten-36865.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $276.17 (Single payment, Installment) |
+| Price | $276.34 (Single payment, Installment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $110.47 |
+| Earnings/sale* | $110.54 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | HolgerMarkgraf |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/36865/adminstore/
+- **Promo link (affiliate):** https://www.tausendsassaonlineschule.com/creation-studio?aff=adminstore#aff=adminstore
 - Sales page: https://www.tausendsassaonlineschule.com/creation-studio
 - Canonical redirect: https://www.digistore24.com/redir/382195/adminstore
 
@@ -107,14 +107,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Creation Master Studio - für Scannerpersönlichkeiten? — Typ: Member area and video courses, Anbieter: HolgerMarkgraf, gelistet seit 2021-04-01
-- Wie viel kostet es? — 276.1707 USD
+- Wie viel kostet es? — 276.3436 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Creation Master Studio - für Scannerpersönlichkeiten Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/382195
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/382195/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Creation%20Master%20Studio%20-%20f%C3%BCr%20Scannerpers%C3%B6nlichkeiten
 
 ## 4. Editorial notes

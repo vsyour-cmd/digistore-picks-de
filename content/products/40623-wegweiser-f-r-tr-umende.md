@@ -4,7 +4,7 @@ digistore24_product_id: 426584
 title: "Wegweiser für Träumende"
 vendor: "GeromeEhrler"
 product_type: "Book (printed)"
-price: 26.26
+price: 26.28
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 3.18
@@ -12,24 +12,24 @@ cart_conversion_pct: 20
 cancel_rate_pct: 5.46
 categories: ["Profession & Job"]
 listed_since: "2022-01-25"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/40623/adminstore/"
+promo_link: "https://gerome-ehrler.com/bestseller-buch?aff=adminstore#aff=adminstore"
 sales_page: "https://gerome-ehrler.com/bestseller-buch"
 language: "de"
 ---
 # Wegweiser für Träumende
 
 > Product ID `40623` · Digistore24 productId `426584` · [HTML profile page](../../produkte/wegweiser-f-r-tr-umende-40623.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $26.26 (Single payment) |
+| Price | $26.28 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $3.18 |
 | Cart conversion* | 20% |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/40623/adminstore/
+- **Promo link (affiliate):** https://gerome-ehrler.com/bestseller-buch?aff=adminstore#aff=adminstore
 - Sales page: https://gerome-ehrler.com/bestseller-buch
 - Vendor affiliate support: http://gerome-ehrler.com/affiliate-support-seite
 - Canonical redirect: https://www.digistore24.com/redir/426584/adminstore
@@ -81,14 +81,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Wegweiser für Träumende? — Typ: Book (printed), Anbieter: GeromeEhrler, gelistet seit 2022-01-25
-- Wie viel kostet es? — 26.264169 USD
+- Wie viel kostet es? — 26.280611999999998 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Wegweiser für Träumende Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/426584
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/426584/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Wegweiser%20f%C3%BCr%20Tr%C3%A4umende
 
 ## 4. Editorial notes

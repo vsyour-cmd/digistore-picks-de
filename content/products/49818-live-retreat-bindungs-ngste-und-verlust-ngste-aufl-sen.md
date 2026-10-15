@@ -7,13 +7,13 @@ product_type: "Seminar/event for recreation"
 price: 3.77
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 286.51
+earnings_per_sale: 286.69
 cart_conversion_pct: 16
 cancel_rate_pct: 7.05
-categories: ["Dating, Relationships & Romance","Personal Development","Spiri­tua­lity & Esotericism"]
+categories: ["Personal Development","Dating, Relationships & Romance","Spiri­tua­lity & Esotericism"]
 listed_since: "2024-06-12"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/556574?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/556574"
@@ -22,7 +22,7 @@ language: "de"
 # Live-Retreat: Bindungsängste und Verlustängste auflösen
 
 > Product ID `49818` · Digistore24 productId `556574` · [HTML profile page](../../produkte/live-retreat-bindungs-ngste-und-verlust-ngste-aufl-sen-49818.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,13 +31,13 @@ language: "de"
 | Product type | Seminar/event for recreation |
 | Price | $3.77 (Single payment, Installment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $286.51 |
+| Earnings/sale* | $286.69 |
 | Cart conversion* | 16% |
 | Cancel rate* | 7.05% |
 | Vendor | jennifersubke |
 | Listed since | 2024-06-12 |
 | Auto-accept affiliates | yes |
-| Categories | Dating, Relationships & Romance, Personal Development, Spiri­tua­lity & Esotericism |
+| Categories | Personal Development, Dating, Relationships & Romance, Spiri­tua­lity & Esotericism |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Live-Retreat: Bindungsängste und Verlustängste auflösen? — Typ: Seminar/event for recreation, Anbieter: jennifersubke, gelistet seit 2024-06-12
-- Wie viel kostet es? — 3.7679970000000003 USD
+- Wie viel kostet es? — 3.770356 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Live-Retreat: Bindungsängste und Verlustängste auflösen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/556574
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/556574/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Live-Retreat%3A%20Bindungs%C3%A4ngste%20und%20Verlust%C3%A4ngste%20aufl%C3%B6sen
 
 ## 4. Editorial notes

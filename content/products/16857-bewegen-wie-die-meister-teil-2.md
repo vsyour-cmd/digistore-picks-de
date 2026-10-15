@@ -4,34 +4,34 @@ digistore24_product_id: 140951
 title: "Bewegen wie die Meister Teil 2"
 vendor: "EquilibriumState"
 product_type: "Downloads"
-price: 37.57
+price: 37.59
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 18.78
+earnings_per_sale: 18.8
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2017-05-31"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/16857/adminstore/"
+promo_link: "http://es-welt.de/index.php?page_id=1308&aff=adminstore#aff=adminstore"
 sales_page: "http://es-welt.de/index.php?page_id=1308"
 language: "de"
 ---
 # Bewegen wie die Meister Teil 2
 
 > Product ID `16857` · Digistore24 productId `140951` · [HTML profile page](../../produkte/bewegen-wie-die-meister-teil-2-16857.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $37.57 (Single payment) |
+| Price | $37.59 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $18.78 |
+| Earnings/sale* | $18.80 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | EquilibriumState |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/16857/adminstore/
+- **Promo link (affiliate):** http://es-welt.de/index.php?page_id=1308&aff=adminstore#aff=adminstore
 - Sales page: http://es-welt.de/index.php?page_id=1308
 - Canonical redirect: https://www.digistore24.com/redir/140951/adminstore
 
@@ -77,14 +77,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Bewegen wie die Meister Teil 2? — Typ: Downloads, Anbieter: EquilibriumState, gelistet seit 2017-05-31
-- Wie viel kostet es? — 37.568160000000006 USD
+- Wie viel kostet es? — 37.591680000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Bewegen wie die Meister Teil 2 Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/140951
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/140951/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Bewegen%20wie%20die%20Meister%20Teil%202
 
 ## 4. Editorial notes

@@ -4,40 +4,40 @@ digistore24_product_id: 662151
 title: "Lernstrategien mit KI – Bessere Noten für Schüler"
 vendor: "digiknowledge"
 product_type: "Member area and video courses"
-price: 140
+price: 140.08
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 70
+earnings_per_sale: 70.05
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Family & Children"]
+categories: ["Family & Children","Education"]
 listed_since: "2026-01-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/55233/adminstore/"
+promo_link: "https://www.digiknowledge.net/lernstrategien-2/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.digiknowledge.net/lernstrategien-2/"
 language: "de"
 ---
 # Lernstrategien mit KI – Bessere Noten für Schüler
 
 > Product ID `55233` · Digistore24 productId `662151` · [HTML profile page](../../produkte/lernstrategien-mit-ki-bessere-noten-f-r-sch-ler-55233.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $140.00 (Single payment) |
+| Price | $140.08 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $70.00 |
+| Earnings/sale* | $70.05 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | digiknowledge |
 | Listed since | 2026-01-17 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Family & Children |
+| Categories | Family & Children, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55233/adminstore/
+- **Promo link (affiliate):** https://www.digiknowledge.net/lernstrategien-2/?aff=adminstore#aff=adminstore
 - Sales page: https://www.digiknowledge.net/lernstrategien-2/
 - Canonical redirect: https://www.digistore24.com/redir/662151/adminstore
 
@@ -66,14 +66,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Lernstrategien mit KI – Bessere Noten für Schüler? — Typ: Member area and video courses, Anbieter: digiknowledge, gelistet seit 2026-01-17
-- Wie viel kostet es? — 139.997301 USD
+- Wie viel kostet es? — 140.084948 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Lernstrategien mit KI – Bessere Noten für Schüler Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/662151
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/662151/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Lernstrategien%20mit%20KI%20%E2%80%93%20Bessere%20Noten%20f%C3%BCr%20Sch%C3%BCler
 
 ## 4. Editorial notes

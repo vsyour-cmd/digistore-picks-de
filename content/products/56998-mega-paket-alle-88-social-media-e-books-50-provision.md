@@ -4,16 +4,16 @@ digistore24_product_id: 701425
 title: "Mega-Paket: Alle 88 Social-Media-E-Books – 50 % Provision"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 519.35
+price: 519.67
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 259.68
+earnings_per_sale: 259.84
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2026-06-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://social-media-planer.de/pakete/mega-paket?aff=adminstore#aff=adminstore"
 sales_page: "https://social-media-planer.de/pakete/mega-paket"
@@ -22,16 +22,16 @@ language: "de"
 # Mega-Paket: Alle 88 Social-Media-E-Books – 50 % Provision
 
 > Product ID `56998` · Digistore24 productId `701425` · [HTML profile page](../../produkte/mega-paket-alle-88-social-media-e-books-50-provision-56998.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $519.35 (Single payment) |
+| Price | $519.67 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $259.68 |
+| Earnings/sale* | $259.84 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pixonmedia |
@@ -84,14 +84,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mega-Paket: Alle 88 Social-Media-E-Books – 50 % Provision? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-06-16
-- Wie viel kostet es? — 519.346269 USD
+- Wie viel kostet es? — 519.671412 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Mega-Paket: Alle 88 Social-Media-E-Books – 50 % Provision Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/701425
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/701425/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Mega-Paket%3A%20Alle%2088%20Social-Media-E-Books%20%E2%80%93%2050%20%25%20Provision
 
 ## 4. Editorial notes

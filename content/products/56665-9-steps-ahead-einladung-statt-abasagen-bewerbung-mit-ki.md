@@ -4,7 +4,7 @@ digistore24_product_id: 530810
 title: "9 Steps Ahead - Einladung statt Abasagen: Bewerbung mit KI"
 vendor: "ScheutzConsulting"
 product_type: "Member area and video courses"
-price: 23.39
+price: 23.41
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 11.7
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2026-05-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/56665/adminstore/"
+promo_link: "https://www.scheutzconsulting.at/bewerbung-mit-ki-optimieren/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.scheutzconsulting.at/bewerbung-mit-ki-optimieren/"
 language: "de"
 ---
 # 9 Steps Ahead - Einladung statt Abasagen: Bewerbung mit KI
 
 > Product ID `56665` · Digistore24 productId `530810` · [HTML profile page](../../produkte/9-steps-ahead-einladung-statt-abasagen-bewerbung-mit-ki-56665.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $23.39 (Single payment) |
+| Price | $23.41 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $11.70 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56665/adminstore/
+- **Promo link (affiliate):** https://www.scheutzconsulting.at/bewerbung-mit-ki-optimieren/?aff=adminstore#aff=adminstore
 - Sales page: https://www.scheutzconsulting.at/bewerbung-mit-ki-optimieren/
 - Canonical redirect: https://www.digistore24.com/redir/530810/adminstore
 
@@ -58,14 +58,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 9 Steps Ahead - Einladung statt Abasagen: Bewerbung mit KI? — Typ: Member area and video courses, Anbieter: ScheutzConsulting, gelistet seit 2026-05-24
-- Wie viel kostet es? — 23.390652000000003 USD
+- Wie viel kostet es? — 23.405296000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 9 Steps Ahead - Einladung statt Abasagen: Bewerbung mit KI Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/530810
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/530810/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=9%20Steps%20Ahead%20-%20Einladung%20statt%20Abasagen%3A%20Bewerbung%20mit%20KI
 
 ## 4. Editorial notes

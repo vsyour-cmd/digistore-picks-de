@@ -4,16 +4,16 @@ digistore24_product_id: 736397
 title: "Entdecke deinen weiblichen Zyklus bewusster"
 vendor: "jaqui19926004"
 product_type: "Downloads"
-price: 14.04
+price: 14.05
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 7.02
+earnings_per_sale: 7.03
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-09-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
 promo_link: "https://ki-richtig-nutzen.my.canva.site/mein-zyklus-dein-workbook-f-r-k-rperbewusstsein-intuition-weibliche-selbstverbindung?aff=adminstore#aff=adminstore"
 sales_page: "https://ki-richtig-nutzen.my.canva.site/mein-zyklus-dein-workbook-f-r-k-rperbewusstsein-intuition-weibliche-selbstverbindung"
@@ -22,16 +22,16 @@ language: "de"
 # Entdecke deinen weiblichen Zyklus bewusster
 
 > Product ID `59570` · Digistore24 productId `736397` · [HTML profile page](../../produkte/entdecke-deinen-weiblichen-zyklus-bewusster-59570.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $14.04 (Single payment) |
+| Price | $14.05 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $7.02 |
+| Earnings/sale* | $7.03 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | jaqui19926004 |
@@ -60,14 +60,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Entdecke deinen weiblichen Zyklus bewusster? — Typ: Downloads, Anbieter: jaqui19926004, gelistet seit 2026-09-23
-- Wie viel kostet es? — 14.043336000000002 USD
+- Wie viel kostet es? — 14.052128000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Entdecke deinen weiblichen Zyklus bewusster Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/736397
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/736397/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Entdecke%20deinen%20weiblichen%20Zyklus%20bewusster
 
 ## 4. Editorial notes

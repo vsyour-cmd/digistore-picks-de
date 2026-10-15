@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2025-01-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/51133/adminstore/"
+promo_link: "https://michelweinand.systeme.io/bizbuilderbasics?aff=adminstore#aff=adminstore"
 sales_page: "https://michelweinand.systeme.io/bizbuilderbasics"
 language: "de"
 ---
 # Biz Builder Basics – Perfekter Einstieg ins Online-Business!
 
 > Product ID `51133` · Digistore24 productId `592109` · [HTML profile page](../../produkte/biz-builder-basics-perfekter-einstieg-ins-online-business-51133.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/51133/adminstore/
+- **Promo link (affiliate):** https://michelweinand.systeme.io/bizbuilderbasics?aff=adminstore#aff=adminstore
 - Sales page: https://michelweinand.systeme.io/bizbuilderbasics
 - Vendor affiliate support: https://michelweinand.systeme.io/c90bbb67
 - Canonical redirect: https://www.digistore24.com/redir/592109/adminstore
@@ -74,7 +74,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Biz Builder Basics – Perfekter Einstieg ins Online-Business! Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/592109
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/592109/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Biz%20Builder%20Basics%20%E2%80%93%20Perfekter%20Einstieg%20ins%20Online-Business!
 
 ## 4. Editorial notes

@@ -4,34 +4,34 @@ digistore24_product_id: 733774
 title: "NORD AKADEMIE – Norsk før du drar | Norwegisch auf Deutsch"
 vendor: "norwegenkompass"
 product_type: "Member area and video courses"
-price: 50.31
+price: 50.35
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 10.06
+earnings_per_sale: 10.07
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2026-10-02"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/60129/adminstore/"
+promo_link: "https://www.nordakademi.no/norwegisch-lernen?aff=adminstore#aff=adminstore"
 sales_page: "https://www.nordakademi.no/norwegisch-lernen"
 language: "de"
 ---
 # NORD AKADEMIE – Norsk før du drar | Norwegisch auf Deutsch
 
 > Product ID `60129` · Digistore24 productId `733774` · [HTML profile page](../../produkte/nord-akademie-norsk-f-r-du-drar-norwegisch-auf-deutsch-60129.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $50.31 (Single payment) |
+| Price | $50.35 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $10.06 |
+| Earnings/sale* | $10.07 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | norwegenkompass |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/60129/adminstore/
+- **Promo link (affiliate):** https://www.nordakademi.no/norwegisch-lernen?aff=adminstore#aff=adminstore
 - Sales page: https://www.nordakademi.no/norwegisch-lernen
 - Vendor affiliate support: https://nord-akademi-affiliate.pages.dev/
 - Canonical redirect: https://www.digistore24.com/redir/733774/adminstore
@@ -81,14 +81,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist NORD AKADEMIE – Norsk før du drar | Norwegisch auf Deutsch? — Typ: Member area and video courses, Anbieter: norwegenkompass, gelistet seit 2026-10-02
-- Wie viel kostet es? — 50.3145 USD
+- Wie viel kostet es? — 50.346000000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: NORD AKADEMIE – Norsk før du drar | Norwegisch auf Deutsch Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/733774
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/733774/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=NORD%20AKADEMIE%20%E2%80%93%20Norsk%20f%C3%B8r%20du%20drar%20%7C%20Norwegisch%20auf%20Deutsch
 
 ## 4. Editorial notes

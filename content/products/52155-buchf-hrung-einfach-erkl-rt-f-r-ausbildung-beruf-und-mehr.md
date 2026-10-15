@@ -4,40 +4,40 @@ digistore24_product_id: 607730
 title: "Buchführung einfach erklärt - für Ausbildung, Beruf und mehr"
 vendor: "wileleg"
 product_type: "Member area and video courses"
-price: 83.8
+price: 83.85
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 41.58
+earnings_per_sale: 41.61
 cart_conversion_pct: 12
 cancel_rate_pct: 0
-categories: ["Education","Profession & Job"]
+categories: ["Profession & Job","Education"]
 listed_since: "2025-04-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/52155/adminstore/"
+promo_link: "https://buchfuehrung-ganz-einfach.de/onlinekurs-buchfuhrung-fur-anfanger-ganz-einfach-af/?aff=adminstore#aff=adminstore"
 sales_page: "https://buchfuehrung-ganz-einfach.de/onlinekurs-buchfuhrung-fur-anfanger-ganz-einfach-af/"
 language: "de"
 ---
 # Buchführung einfach erklärt - für Ausbildung, Beruf und mehr
 
 > Product ID `52155` · Digistore24 productId `607730` · [HTML profile page](../../produkte/buchf-hrung-einfach-erkl-rt-f-r-ausbildung-beruf-und-mehr-52155.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $83.80 (Single payment) |
+| Price | $83.85 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $41.58 |
+| Earnings/sale* | $41.61 |
 | Cart conversion* | 12% |
 | Cancel rate* | 0% |
 | Vendor | wileleg |
 | Listed since | 2025-04-16 |
 | Auto-accept affiliates | no (approval required) |
-| Categories | Education, Profession & Job |
+| Categories | Profession & Job, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/52155/adminstore/
+- **Promo link (affiliate):** https://buchfuehrung-ganz-einfach.de/onlinekurs-buchfuhrung-fur-anfanger-ganz-einfach-af/?aff=adminstore#aff=adminstore
 - Sales page: https://buchfuehrung-ganz-einfach.de/onlinekurs-buchfuhrung-fur-anfanger-ganz-einfach-af/
 - Canonical redirect: https://www.digistore24.com/redir/607730/adminstore
 
@@ -66,14 +66,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Buchführung einfach erklärt - für Ausbildung, Beruf und mehr? — Typ: Member area and video courses, Anbieter: wileleg, gelistet seit 2025-04-16
-- Wie viel kostet es? — 83.801595 USD
+- Wie viel kostet es? — 83.85406 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Buchführung einfach erklärt - für Ausbildung, Beruf und mehr Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/607730
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/607730/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Buchf%C3%BChrung%20einfach%20erkl%C3%A4rt%20-%20f%C3%BCr%20Ausbildung%2C%20Beruf%20und%20mehr
 
 ## 4. Editorial notes

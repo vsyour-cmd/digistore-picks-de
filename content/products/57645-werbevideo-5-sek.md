@@ -4,32 +4,32 @@ digistore24_product_id: 712732
 title: "Werbevideo 5-Sek"
 vendor: "worldxpb"
 product_type: "Remote service provided electronically"
-price: 15.98
+price: 15.99
 currency: "USD"
 affiliate_commission_pct: 30
 earnings_per_sale: 4.8
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Photography & Film","Services"]
+categories: ["Services","Photography & Film"]
 listed_since: "2026-07-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/57645/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/712732?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/712732"
 language: "de"
 ---
 # Werbevideo 5-Sek
 
 > Product ID `57645` · Digistore24 productId `712732` · [HTML profile page](../../produkte/werbevideo-5-sek-57645.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $15.98 (Single payment) |
+| Price | $15.99 (Single payment) |
 | Affiliate commission | 30% |
 | Earnings/sale* | $4.80 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | worldxpb |
 | Listed since | 2026-07-21 |
 | Auto-accept affiliates | yes |
-| Categories | Photography & Film, Services |
+| Categories | Services, Photography & Film |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/57645/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/712732?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/712732
 - Canonical redirect: https://www.digistore24.com/redir/712732/adminstore
 
@@ -73,14 +73,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Werbevideo 5-Sek? — Typ: Remote service provided electronically, Anbieter: worldxpb, gelistet seit 2026-07-21
-- Wie viel kostet es? — 15.977649 USD
+- Wie viel kostet es? — 15.987651999999999 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Werbevideo 5-Sek Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/712732
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/712732/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Werbevideo%205-Sek
 
 ## 4. Editorial notes

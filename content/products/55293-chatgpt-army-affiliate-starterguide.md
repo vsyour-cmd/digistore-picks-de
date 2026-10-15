@@ -12,17 +12,17 @@ cart_conversion_pct: 53
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2025-11-13"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "http://wiebkeschmidt.com/grafikkurs-alle-grafiken-fuer-deine-webseite-facebook-und-co-in-einer-stunde/#aff=adminstore"
+promo_link: "https://nbg-richter24.de/e-book-chatgpt-army-kostenloser-download?aff=adminstore#aff=adminstore"
 sales_page: "https://nbg-richter24.de/e-book-chatgpt-army-kostenloser-download"
 language: "de"
 ---
 # ChatGPT ARMY – Affiliate Starterguide
 
 > Product ID `55293` · Digistore24 productId `648277` · [HTML profile page](../../produkte/chatgpt-army-affiliate-starterguide-55293.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://wiebkeschmidt.com/grafikkurs-alle-grafiken-fuer-deine-webseite-facebook-und-co-in-einer-stunde/#aff=adminstore
+- **Promo link (affiliate):** https://nbg-richter24.de/e-book-chatgpt-army-kostenloser-download?aff=adminstore#aff=adminstore
 - Sales page: https://nbg-richter24.de/e-book-chatgpt-army-kostenloser-download
 - Vendor affiliate support: https://page.funnelcockpit.com/Ga5nkDN8M6RpZdkww
 - Canonical redirect: https://www.digistore24.com/redir/648277/adminstore
@@ -81,7 +81,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: ChatGPT ARMY – Affiliate Starterguide Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/648277
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/648277/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=ChatGPT%20ARMY%20%E2%80%93%20Affiliate%20Starterguide
 
 ## 4. Editorial notes

@@ -4,32 +4,32 @@ digistore24_product_id: 654947
 title: "Erziehen ohne Bestrafen, Videokurs"
 vendor: "annewiegoldcoaching"
 product_type: "Downloads"
-price: 8.45
+price: 8.46
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 4.23
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Family & Children"]
+categories: ["Family & Children","Education"]
 listed_since: "2025-12-12"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/55313/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/654947?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/654947"
 language: "de"
 ---
 # Erziehen ohne Bestrafen, Videokurs
 
 > Product ID `55313` · Digistore24 productId `654947` · [HTML profile page](../../produkte/erziehen-ohne-bestrafen-videokurs-55313.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $8.45 (Single payment) |
+| Price | $8.46 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $4.23 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | annewiegoldcoaching |
 | Listed since | 2025-12-12 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Family & Children |
+| Categories | Family & Children, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55313/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/654947?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/654947
 - Canonical redirect: https://www.digistore24.com/redir/654947/adminstore
 
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Erziehen ohne Bestrafen, Videokurs? — Typ: Downloads, Anbieter: annewiegoldcoaching, gelistet seit 2025-12-12
-- Wie viel kostet es? — 8.452836 USD
+- Wie viel kostet es? — 8.458128 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Erziehen ohne Bestrafen, Videokurs Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/654947
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/654947/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Erziehen%20ohne%20Bestrafen%2C%20Videokurs
 
 ## 4. Editorial notes

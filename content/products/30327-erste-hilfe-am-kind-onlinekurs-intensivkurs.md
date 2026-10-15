@@ -4,7 +4,7 @@ digistore24_product_id: 293192
 title: "Erste-Hilfe-am-Kind-Onlinekurs Intensivkurs"
 vendor: "ZartesGlueck"
 product_type: "Remote service provided electronically"
-price: 42.29
+price: 42.31
 currency: "USD"
 affiliate_commission_pct: 15
 earnings_per_sale: 6.34
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2019-11-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/30327/adminstore/"
+promo_link: "https://zartes-glueck-onlinekurse.coachy.net/lp/intensivkurs-erste-hilfe-am-kind1/?aff=adminstore#aff=adminstore"
 sales_page: "https://zartes-glueck-onlinekurse.coachy.net/lp/intensivkurs-erste-hilfe-am-kind1/"
 language: "de"
 ---
 # Erste-Hilfe-am-Kind-Onlinekurs Intensivkurs
 
 > Product ID `30327` · Digistore24 productId `293192` · [HTML profile page](../../produkte/erste-hilfe-am-kind-onlinekurs-intensivkurs-30327.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $42.29 (Single payment) |
+| Price | $42.31 (Single payment) |
 | Affiliate commission | 15% |
 | Earnings/sale* | $6.34 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/30327/adminstore/
+- **Promo link (affiliate):** https://zartes-glueck-onlinekurse.coachy.net/lp/intensivkurs-erste-hilfe-am-kind1/?aff=adminstore#aff=adminstore
 - Sales page: https://zartes-glueck-onlinekurse.coachy.net/lp/intensivkurs-erste-hilfe-am-kind1/
 - Canonical redirect: https://www.digistore24.com/redir/293192/adminstore
 
@@ -75,14 +75,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Erste-Hilfe-am-Kind-Onlinekurs Intensivkurs? — Typ: Remote service provided electronically, Anbieter: ZartesGlueck, gelistet seit 2019-11-01
-- Wie viel kostet es? — 42.286542000000004 USD
+- Wie viel kostet es? — 42.313016 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Erste-Hilfe-am-Kind-Onlinekurs Intensivkurs Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/293192
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/293192/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Erste-Hilfe-am-Kind-Onlinekurs%20Intensivkurs
 
 ## 4. Editorial notes

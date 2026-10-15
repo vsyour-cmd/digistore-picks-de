@@ -4,16 +4,16 @@ digistore24_product_id: 667087
 title: "Tradingcode Signale"
 vendor: "bsmllc"
 product_type: "Member area and video courses"
-price: 562.81
+price: 563.16
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 225.12
+earnings_per_sale: 225.26
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Business & Investment","Trading Products"]
+categories: ["Trading Products","Business & Investment"]
 listed_since: "2026-08-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://tradingcode.org/de/signals/lp/kursteilnehmer_start/?aff=adminstore#aff=adminstore"
 sales_page: "https://tradingcode.org/de/signals/lp/kursteilnehmer_start/"
@@ -22,22 +22,22 @@ language: "de"
 # Tradingcode Signale
 
 > Product ID `58160` · Digistore24 productId `667087` · [HTML profile page](../../produkte/tradingcode-signale-58160.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $562.81 (Subscription) |
+| Price | $563.16 (Subscription) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $225.12 |
+| Earnings/sale* | $225.26 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | bsmllc |
 | Listed since | 2026-08-05 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Trading Products |
+| Categories | Trading Products, Business & Investment |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -100,14 +100,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Tradingcode Signale? — Typ: Member area and video courses, Anbieter: bsmllc, gelistet seit 2026-08-05
-- Wie viel kostet es? — 562.806816 USD
+- Wie viel kostet es? — 563.159168 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Tradingcode Signale Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/667087
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/667087/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Tradingcode%20Signale
 
 ## 4. Editorial notes

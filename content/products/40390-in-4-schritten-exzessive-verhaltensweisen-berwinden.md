@@ -4,16 +4,16 @@ digistore24_product_id: 436104
 title: "In 4 Schritten exzessive Verhaltensweisen überwinden"
 vendor: "Vkleber"
 product_type: "Downloads"
-price: 14
+price: 14.01
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 4.2
+earnings_per_sale: 4.21
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2022-03-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.beratung-therapie.de/223-0-Exzessive-Verhaltensweisen.html?aff=adminstore#aff=adminstore"
 sales_page: "https://www.beratung-therapie.de/223-0-Exzessive-Verhaltensweisen.html"
@@ -22,16 +22,16 @@ language: "de"
 # In 4 Schritten exzessive Verhaltensweisen überwinden
 
 > Product ID `40390` · Digistore24 productId `436104` · [HTML profile page](../../produkte/in-4-schritten-exzessive-verhaltensweisen-berwinden-40390.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $14.00 (Single payment) |
+| Price | $14.01 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $4.20 |
+| Earnings/sale* | $4.21 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Vkleber |
@@ -75,14 +75,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist In 4 Schritten exzessive Verhaltensweisen überwinden? — Typ: Downloads, Anbieter: Vkleber, gelistet seit 2022-03-27
-- Wie viel kostet es? — 13.998612000000001 USD
+- Wie viel kostet es? — 14.007375999999999 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: In 4 Schritten exzessive Verhaltensweisen überwinden Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/436104
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/436104/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=In%204%20Schritten%20exzessive%20Verhaltensweisen%20%C3%BCberwinden
 
 ## 4. Editorial notes

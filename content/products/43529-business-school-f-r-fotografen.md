@@ -4,34 +4,34 @@ digistore24_product_id: 327210
 title: "BUSINESS SCHOOL für Fotografen"
 vendor: "juliaundgil"
 product_type: "Member area and video courses"
-price: 2225.02
+price: 2226.41
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 89.45
+earnings_per_sale: 89.5
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2020-05-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/43529/adminstore/"
+promo_link: "https://juliaandgil.education/business-school/?aff=adminstore#aff=adminstore"
 sales_page: "https://juliaandgil.education/business-school/"
 language: "de"
 ---
 # BUSINESS SCHOOL für Fotografen
 
 > Product ID `43529` · Digistore24 productId `327210` · [HTML profile page](../../produkte/business-school-f-r-fotografen-43529.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $2225.02 (Single payment, Installment) |
+| Price | $2226.41 (Single payment, Installment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $89.45 |
+| Earnings/sale* | $89.50 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | juliaundgil |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/43529/adminstore/
+- **Promo link (affiliate):** https://juliaandgil.education/business-school/?aff=adminstore#aff=adminstore
 - Sales page: https://juliaandgil.education/business-school/
 - Canonical redirect: https://www.digistore24.com/redir/327210/adminstore
 
@@ -97,14 +97,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist BUSINESS SCHOOL für Fotografen? — Typ: Member area and video courses, Anbieter: juliaundgil, gelistet seit 2020-05-18
-- Wie viel kostet es? — 2225.0190000000002 USD
+- Wie viel kostet es? — 2226.412 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: BUSINESS SCHOOL für Fotografen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/327210
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/327210/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=BUSINESS%20SCHOOL%20f%C3%BCr%20Fotografen
 
 ## 4. Editorial notes

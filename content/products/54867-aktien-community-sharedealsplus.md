@@ -4,34 +4,34 @@ digistore24_product_id: 558417
 title: "Aktien-Community sharedealsPlus"
 vendor: "BullMarketsMedia"
 product_type: "Member area and video courses"
-price: 112.19
+price: 112.26
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 17.07
+earnings_per_sale: 17.08
 cart_conversion_pct: 2
 cancel_rate_pct: 2.39
 categories: ["Business & Investment","Finances"]
 listed_since: "2024-06-25"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
-research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/54867/adminstore/"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
+research_quality: "rich"
+promo_link: "https://www.sharedeals.de/sdp-aktien-community/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.sharedeals.de/sdp-aktien-community/"
 language: "de"
 ---
 # Aktien-Community sharedealsPlus
 
 > Product ID `54867` · Digistore24 productId `558417` · [HTML profile page](../../produkte/aktien-community-sharedealsplus-54867.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $112.19 (Single payment, Subscription) |
+| Price | $112.26 (Single payment, Subscription) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $17.07 |
+| Earnings/sale* | $17.08 |
 | Cart conversion* | 2% |
 | Cancel rate* | 2.39% |
 | Vendor | BullMarketsMedia |
@@ -45,13 +45,43 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/54867/adminstore/
+- **Promo link (affiliate):** https://www.sharedeals.de/sdp-aktien-community/?aff=adminstore#aff=adminstore
 - Sales page: https://www.sharedeals.de/sdp-aktien-community/
 - Canonical redirect: https://www.digistore24.com/redir/558417/adminstore
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** sharedealsPlus
+- **Meta description:** sharedealsPlus verbindet über 2.000 Anleger. Erhalte Aktientipps, Expertenanalysen, Live-Chat-Zugang und exklusives Börsenwissen.
+- **Final URL after redirects:** https://start.sharedeals.de/sharedealsplus-blog
+- **Headline (H1):**
+  > Schlage den Markt mit der erfolgreichsten, chatbasierten Aktien-Community!
+  > Geschäftsführer & Podcast-Host
+  > Konkrete Aktien-Beispiele
+- **Section headlines (H2):**
+  - Das macht sharedealsPlus so besonders
+  - Gemeinsam erfolgreicher investieren
+  - Geschwindigkeit und Gemeinschaft sind unser Erfolgsrezept
+  - Unsere Börsen-Profis unterstützen Dich bei Deinem Erfolg
+  - Eric Lindig-Villain
+  - Head of Product & Analyst
+  - Steve Siewert
+  - Head of Website, Redaktion & News
+  - Maximilian Ruth
+  - Chefanalyst Biotech
+- **Opening copy (first paragraphs):**
+  > Echtzeit-Vorsprung statt klassischer Börsenbrief: Live-Chat, Push-Nachrichten und Echtzeit-Austausch sorgen dafür, dass Du schneller auf News und Marktchancen reagieren kannst.
+  > Aktien-Vorstellungen & Wissen von über 2.000 erfolgreichen Investoren und Börsen-Praktikern. Tausche Dich jederzeit mit Gleichgesinnten aus und profitiere von einer einmaligen Schwarmintelligenz.
+  > Baue mit unseren Live-Calls, Webinaren und der Video-Akademie Dein Börsenwissen Schritt für Schritt aus und werde sicherer bei Deinen Investment-Entscheidungen.
+  > Egal ob klassische Börsenbriefe oder teure Investment-Coachings, diese Formate haben alle dasselbe Problem: Sie sind zu langsam, zu schwerfällig und zu wenig interaktiv, um Dir schnellen und nachhaltigen Erfolg an der Börse zu ermöglichen.
+- **Questions the sales page answers:**
+  - Was ist so besonders an sharedealsPlus?
+  - Für wen ist sharedealsPlus geeignet?
+  - Gibt es ein Musterdepot?
+  - Wie lange ist die Bezugsdauer?
+  - Gibt es eine Kündigungsfrist?
+  - Kann ich mit sharedealsPlus wirklich den Markt schlagen? Ich kann doch einfach in ETFs investieren. Warum sollte ich mich mit Einzelaktien auseinandersetzen?
+- **Page word count:** 3220
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
@@ -66,14 +96,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Aktien-Community sharedealsPlus? — Typ: Member area and video courses, Anbieter: BullMarketsMedia, gelistet seit 2024-06-25
-- Wie viel kostet es? — 112.190154 USD
+- Wie viel kostet es? — 112.26039200000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Aktien-Community sharedealsPlus Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/558417
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/558417/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Aktien-Community%20sharedealsPlus
 
 ## 4. Editorial notes

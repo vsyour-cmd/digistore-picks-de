@@ -4,16 +4,16 @@ digistore24_product_id: 461891
 title: "Datenschutzerklärung und Impressum perfekt"
 vendor: "Interev"
 product_type: "Downloads"
-price: 220.27
+price: 220.4
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 22.03
+earnings_per_sale: 22.04
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2022-09-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://dsgvo-erklärung.de?aff=adminstore#aff=adminstore"
 sales_page: "https://dsgvo-erklärung.de"
@@ -22,16 +22,16 @@ language: "de"
 # Datenschutzerklärung und Impressum perfekt
 
 > Product ID `42850` · Digistore24 productId `461891` · [HTML profile page](../../produkte/datenschutzerkl-rung-und-impressum-perfekt-42850.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $220.27 (Single payment) |
+| Price | $220.40 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $22.03 |
+| Earnings/sale* | $22.04 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Interev |
@@ -66,14 +66,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Datenschutzerklärung und Impressum perfekt? — Typ: Downloads, Anbieter: Interev, gelistet seit 2022-09-24
-- Wie viel kostet es? — 220.2657 USD
+- Wie viel kostet es? — 220.4036 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Datenschutzerklärung und Impressum perfekt Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/461891
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/461891/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Datenschutzerkl%C3%A4rung%20und%20Impressum%20perfekt
 
 ## 4. Editorial notes

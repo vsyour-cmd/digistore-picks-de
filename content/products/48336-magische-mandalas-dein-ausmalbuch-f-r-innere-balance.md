@@ -4,7 +4,7 @@ digistore24_product_id: 556210
 title: "Magische Mandalas - Dein Ausmalbuch für innere Balance"
 vendor: "geldhuepfer"
 product_type: "E-books"
-price: 6.26
+price: 6.27
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 3.13
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children","Hobby & Craft"]
 listed_since: "2024-06-10"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/556210?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/556210"
@@ -22,14 +22,14 @@ language: "de"
 # Magische Mandalas - Dein Ausmalbuch für innere Balance
 
 > Product ID `48336` · Digistore24 productId `556210` · [HTML profile page](../../produkte/magische-mandalas-dein-ausmalbuch-f-r-innere-balance-48336.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $6.26 (Single payment) |
+| Price | $6.27 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $3.13 |
 | Cart conversion* | — |
@@ -69,14 +69,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Magische Mandalas - Dein Ausmalbuch für innere Balance? — Typ: E-books, Anbieter: geldhuepfer, gelistet seit 2024-06-10
-- Wie viel kostet es? — 6.26136 USD
+- Wie viel kostet es? — 6.26528 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Magische Mandalas - Dein Ausmalbuch für innere Balance Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/556210
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/556210/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Magische%20Mandalas%20-%20Dein%20Ausmalbuch%20f%C3%BCr%20innere%20Balance
 
 ## 4. Editorial notes

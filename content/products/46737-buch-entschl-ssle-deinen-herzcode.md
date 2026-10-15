@@ -4,32 +4,32 @@ digistore24_product_id: 415293
 title: "Buch Entschlüssle deinen HERZcode"
 vendor: "OneHeart4All"
 product_type: "Book (printed)"
-price: 20.84
+price: 20.85
 currency: "USD"
 affiliate_commission_pct: 0
 earnings_per_sale: 5.59
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Personal Development","Profession & Job"]
+categories: ["Personal Development","Profession & Job","Education"]
 listed_since: "2021-11-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/46737/adminstore/"
+promo_link: "https://www.christianrupp.ch/das-buch-entschluessle-deinen-herzcode/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.christianrupp.ch/das-buch-entschluessle-deinen-herzcode/"
 language: "de"
 ---
 # Buch Entschlüssle deinen HERZcode
 
 > Product ID `46737` · Digistore24 productId `415293` · [HTML profile page](../../produkte/buch-entschl-ssle-deinen-herzcode-46737.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $20.84 (Single payment) |
+| Price | $20.85 (Single payment) |
 | Affiliate commission | 0% |
 | Earnings/sale* | $5.59 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | OneHeart4All |
 | Listed since | 2021-11-08 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Personal Development, Profession & Job |
+| Categories | Personal Development, Profession & Job, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/46737/adminstore/
+- **Promo link (affiliate):** https://www.christianrupp.ch/das-buch-entschluessle-deinen-herzcode/?aff=adminstore#aff=adminstore
 - Sales page: https://www.christianrupp.ch/das-buch-entschluessle-deinen-herzcode/
 - Vendor affiliate support: https://www.christianrupp.ch/affiliate-partnerschaft-herzcode/
 - Canonical redirect: https://www.digistore24.com/redir/415293/adminstore
@@ -78,14 +78,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Buch Entschlüssle deinen HERZcode? — Typ: Book (printed), Anbieter: OneHeart4All, gelistet seit 2021-11-08
-- Wie viel kostet es? — 20.841384 USD
+- Wie viel kostet es? — 20.854432 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Buch Entschlüssle deinen HERZcode Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/415293
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/415293/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Buch%20Entschl%C3%BCssle%20deinen%20HERZcode
 
 ## 4. Editorial notes

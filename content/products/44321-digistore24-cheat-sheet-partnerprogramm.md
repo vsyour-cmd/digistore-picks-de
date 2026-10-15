@@ -10,19 +10,19 @@ affiliate_commission_pct: 50
 earnings_per_sale: 0.28
 cart_conversion_pct: 35
 cancel_rate_pct: 0.41
-categories: ["Business & Investment","Email Marketing","Online Marketing & E-Business"]
+categories: ["Business & Investment","Online Marketing & E-Business","Email Marketing"]
 listed_since: "2023-04-28"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/44321/adminstore/"
+promo_link: "https://www.profitbuddies.de/digistore24-cheat-sheet?aff=adminstore#aff=adminstore"
 sales_page: "https://www.profitbuddies.de/digistore24-cheat-sheet"
 language: "de"
 ---
 # Digistore24 Cheat Sheet | Partnerprogramm
 
 > Product ID `44321` · Digistore24 productId `496588` · [HTML profile page](../../produkte/digistore24-cheat-sheet-partnerprogramm-44321.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | profitbuddies |
 | Listed since | 2023-04-28 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Email Marketing, Online Marketing & E-Business |
+| Categories | Business & Investment, Online Marketing & E-Business, Email Marketing |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/44321/adminstore/
+- **Promo link (affiliate):** https://www.profitbuddies.de/digistore24-cheat-sheet?aff=adminstore#aff=adminstore
 - Sales page: https://www.profitbuddies.de/digistore24-cheat-sheet
 - Vendor affiliate support: https://www.profitbuddies.de/partnerprogramm?utm_source=digistore24&utm_medium=referral&utm_campaign=partnerprogramm-marktplatz
 - Canonical redirect: https://www.digistore24.com/redir/496588/adminstore
@@ -74,14 +74,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Digistore24 Cheat Sheet | Partnerprogramm? — Typ: Downloads, Anbieter: profitbuddies, gelistet seit 2023-04-28
-- Wie viel kostet es? — 0.659679 USD
+- Wie viel kostet es? — 0.660092 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Digistore24 Cheat Sheet | Partnerprogramm Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/496588
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/496588/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Digistore24%20Cheat%20Sheet%20%7C%20Partnerprogramm
 
 ## 4. Editorial notes

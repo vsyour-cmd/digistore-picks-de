@@ -10,19 +10,19 @@ affiliate_commission_pct: 50
 earnings_per_sale: 81.12
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Software"]
+categories: ["Software","Education"]
 listed_since: "2026-09-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/59255/adminstore/"
+promo_link: "https://gsr.siluna.li?aff=adminstore#aff=adminstore"
 sales_page: "https://gsr.siluna.li"
 language: "de"
 ---
 # Gold/Silber-Ratio Scanner - automatische Telegram-Signale
 
 > Product ID `59255` · Digistore24 productId `728830` · [HTML profile page](../../produkte/gold-silber-ratio-scanner-automatische-telegram-signale-59255.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | SilunaGmbH |
 | Listed since | 2026-09-15 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Software |
+| Categories | Software, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59255/adminstore/
+- **Promo link (affiliate):** https://gsr.siluna.li?aff=adminstore#aff=adminstore
 - Sales page: https://gsr.siluna.li
 - Vendor affiliate support: https://academy.siluna.li/botschafter
 - Canonical redirect: https://www.digistore24.com/redir/728830/adminstore
@@ -99,7 +99,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Gold/Silber-Ratio Scanner - automatische Telegram-Signale Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/728830
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/728830/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Gold%2FSilber-Ratio%20Scanner%20-%20automatische%20Telegram-Signale
 
 ## 4. Editorial notes

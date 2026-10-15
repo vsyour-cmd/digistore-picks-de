@@ -4,16 +4,16 @@ digistore24_product_id: 734138
 title: "Funnelcockpit Komplettkurs"
 vendor: "AndreasLang"
 product_type: "Member area and video courses"
-price: 62.95
+price: 62.99
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 31.47
+earnings_per_sale: 31.49
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Business & Investment","Email Marketing","Online Marketing & E-Business"]
+categories: ["Business & Investment","Online Marketing & E-Business","Email Marketing"]
 listed_since: "2026-09-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/product/734138?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/734138"
@@ -22,22 +22,22 @@ language: "de"
 # Funnelcockpit Komplettkurs
 
 > Product ID `59626` · Digistore24 productId `734138` · [HTML profile page](../../produkte/funnelcockpit-komplettkurs-59626.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $62.95 (Single payment) |
+| Price | $62.99 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $31.47 |
+| Earnings/sale* | $31.49 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | AndreasLang |
 | Listed since | 2026-09-24 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Email Marketing, Online Marketing & E-Business |
+| Categories | Business & Investment, Online Marketing & E-Business, Email Marketing |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -88,14 +88,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Funnelcockpit Komplettkurs? — Typ: Member area and video courses, Anbieter: AndreasLang, gelistet seit 2026-09-24
-- Wie viel kostet es? — 62.94903 USD
+- Wie viel kostet es? — 62.98844 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Funnelcockpit Komplettkurs Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/734138
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/734138/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Funnelcockpit%20Komplettkurs
 
 ## 4. Editorial notes

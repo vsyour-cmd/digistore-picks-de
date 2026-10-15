@@ -4,16 +4,16 @@ digistore24_product_id: 623140
 title: "Expert Scaling System — Das komplette System"
 vendor: "rrwenda"
 product_type: "Member area and video courses"
-price: 1442.35
+price: 1443.25
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 721.17
+earnings_per_sale: 721.63
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Computer & Internet","Online Marketing & E-Business"]
 listed_since: "2026-05-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/623140?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/623140"
@@ -22,16 +22,16 @@ language: "de"
 # Expert Scaling System — Das komplette System
 
 > Product ID `56630` · Digistore24 productId `623140` · [HTML profile page](../../produkte/expert-scaling-system-das-komplette-system-56630.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1442.35 (Single payment, Installment) |
+| Price | $1443.25 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $721.17 |
+| Earnings/sale* | $721.63 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | rrwenda |
@@ -86,14 +86,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Expert Scaling System — Das komplette System? — Typ: Member area and video courses, Anbieter: rrwenda, gelistet seit 2026-05-20
-- Wie viel kostet es? — 1442.3490000000002 USD
+- Wie viel kostet es? — 1443.252 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Expert Scaling System — Das komplette System Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/623140
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/623140/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Expert%20Scaling%20System%20%E2%80%94%20Das%20komplette%20System
 
 ## 4. Editorial notes

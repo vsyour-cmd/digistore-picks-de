@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2025-06-03"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://page.funnelcockpit.com/zCfv69i3ye7pG2kkA?aff=adminstore#aff=adminstore"
 sales_page: "https://page.funnelcockpit.com/zCfv69i3ye7pG2kkA"
@@ -22,7 +22,7 @@ language: "de"
 # Die 5-Schritte-Erfolgsformel: Online-Business für Einsteiger
 
 > Product ID `52746` · Digistore24 productId `616407` · [HTML profile page](../../produkte/die-5-schritte-erfolgsformel-online-business-f-r-einsteiger-52746.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -66,7 +66,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Die 5-Schritte-Erfolgsformel: Online-Business für Einsteiger Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/616407
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/616407/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Die%205-Schritte-Erfolgsformel%3A%20Online-Business%20f%C3%BCr%20Einsteiger
 
 ## 4. Editorial notes

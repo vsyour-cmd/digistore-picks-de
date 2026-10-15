@@ -4,40 +4,40 @@ digistore24_product_id: 677013
 title: "Wenn Fürsorge alles wird – Hilfe bei Demenz-Diagnose"
 vendor: "JacquelineSchott"
 product_type: "E-books"
-price: 20.89
+price: 20.9
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 6.26
+earnings_per_sale: 6.27
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Family & Children","Health & Fitness","Personal Development"]
+categories: ["Health & Fitness","Personal Development","Family & Children"]
 listed_since: "2026-03-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/56087/adminstore/"
+promo_link: "https://www.digistore24.com/product/677013?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/677013"
 language: "de"
 ---
 # Wenn Fürsorge alles wird – Hilfe bei Demenz-Diagnose
 
 > Product ID `56087` · Digistore24 productId `677013` · [HTML profile page](../../produkte/wenn-f-rsorge-alles-wird-hilfe-bei-demenz-diagnose-56087.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.89 (Single payment) |
+| Price | $20.90 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $6.26 |
+| Earnings/sale* | $6.27 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | JacquelineSchott |
 | Listed since | 2026-03-17 |
 | Auto-accept affiliates | yes |
-| Categories | Family & Children, Health & Fitness, Personal Development |
+| Categories | Health & Fitness, Personal Development, Family & Children |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56087/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/677013?aff=adminstore
 - Sales page: https://www.digistore24.com/product/677013
 - Vendor affiliate support: https://gamma.app/docs/Werde-Demenz-Lotse-und-verdiene-30-Provision-bqemz7qffdq3mtu
 - Canonical redirect: https://www.digistore24.com/redir/677013/adminstore
@@ -72,14 +72,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Wenn Fürsorge alles wird – Hilfe bei Demenz-Diagnose? — Typ: E-books, Anbieter: JacquelineSchott, gelistet seit 2026-03-17
-- Wie viel kostet es? — 20.886108 USD
+- Wie viel kostet es? — 20.899184 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Wenn Fürsorge alles wird – Hilfe bei Demenz-Diagnose Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/677013
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/677013/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Wenn%20F%C3%BCrsorge%20alles%20wird%20%E2%80%93%20Hilfe%20bei%20Demenz-Diagnose
 
 ## 4. Editorial notes

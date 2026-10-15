@@ -7,22 +7,22 @@ product_type: "E-books"
 price: 5.74
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 2.87
+earnings_per_sale: 2.88
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Green Products & Environmental Protection","Spiri­tua­lity & Esotericism"]
+categories: ["Spiri­tua­lity & Esotericism","Green Products & Environmental Protection"]
 listed_since: "2026-04-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/56313/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/685698?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/685698"
 language: "de"
 ---
 # Ebook - Die stille Intelligenz der Pflanzen
 
 > Product ID `56313` · Digistore24 productId `685698` · [HTML profile page](../../produkte/ebook-die-stille-intelligenz-der-pflanzen-56313.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,13 +31,13 @@ language: "de"
 | Product type | E-books |
 | Price | $5.74 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $2.87 |
+| Earnings/sale* | $2.88 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | joebgesbuchverleger39ac |
 | Listed since | 2026-04-18 |
 | Auto-accept affiliates | yes |
-| Categories | Green Products & Environmental Protection, Spiri­tua­lity & Esotericism |
+| Categories | Spiri­tua­lity & Esotericism, Green Products & Environmental Protection |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56313/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/685698?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/685698
 - Canonical redirect: https://www.digistore24.com/redir/685698/adminstore
 
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ebook - Die stille Intelligenz der Pflanzen? — Typ: E-books, Anbieter: joebgesbuchverleger39ac, gelistet seit 2026-04-18
-- Wie viel kostet es? — 5.7358530000000005 USD
+- Wie viel kostet es? — 5.739444 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Ebook - Die stille Intelligenz der Pflanzen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/685698
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/685698/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Ebook%20-%20Die%20stille%20Intelligenz%20der%20Pflanzen
 
 ## 4. Editorial notes

@@ -4,34 +4,34 @@ digistore24_product_id: 549971
 title: "Dein Coaching-Audiokurs für mehr psychisches Wohlbefinden!"
 vendor: "FriederikeReuver"
 product_type: "Downloads"
-price: 55.44
+price: 55.47
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 11.09
+earnings_per_sale: 11.1
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2024-04-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/49001/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/549971?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/549971"
 language: "de"
 ---
 # Dein Coaching-Audiokurs für mehr psychisches Wohlbefinden!
 
 > Product ID `49001` · Digistore24 productId `549971` · [HTML profile page](../../produkte/dein-coaching-audiokurs-f-r-mehr-psychisches-wohlbefinden-49001.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $55.44 (Single payment) |
+| Price | $55.47 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $11.09 |
+| Earnings/sale* | $11.10 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | FriederikeReuver |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/49001/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/549971?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/549971
 - Canonical redirect: https://www.digistore24.com/redir/549971/adminstore
 
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Dein Coaching-Audiokurs für mehr psychisches Wohlbefinden!? — Typ: Downloads, Anbieter: FriederikeReuver, gelistet seit 2024-04-26
-- Wie viel kostet es? — 55.435398 USD
+- Wie viel kostet es? — 55.470104 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Dein Coaching-Audiokurs für mehr psychisches Wohlbefinden! Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/549971
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/549971/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Dein%20Coaching-Audiokurs%20f%C3%BCr%20mehr%20psychisches%20Wohlbefinden!
 
 ## 4. Editorial notes

@@ -4,34 +4,34 @@ digistore24_product_id: 394183
 title: "Buch - Sei Du Selbst sonst lebst du Andere"
 vendor: "healthandwealth"
 product_type: "Book (printed)"
-price: 31.24
+price: 31.26
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 9.37
+earnings_per_sale: 9.38
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2021-06-14"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/44177/adminstore/"
+promo_link: "https://page.funnelcockpit.com/7Nx6KwT95ZMWEuBT5?aff=adminstore#aff=adminstore"
 sales_page: "https://page.funnelcockpit.com/7Nx6KwT95ZMWEuBT5"
 language: "de"
 ---
 # Buch - Sei Du Selbst sonst lebst du Andere
 
 > Product ID `44177` · Digistore24 productId `394183` · [HTML profile page](../../produkte/buch-sei-du-selbst-sonst-lebst-du-andere-44177.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $31.24 (Single payment) |
+| Price | $31.26 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $9.37 |
+| Earnings/sale* | $9.38 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | healthandwealth |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/44177/adminstore/
+- **Promo link (affiliate):** https://page.funnelcockpit.com/7Nx6KwT95ZMWEuBT5?aff=adminstore#aff=adminstore
 - Sales page: https://page.funnelcockpit.com/7Nx6KwT95ZMWEuBT5
 - Canonical redirect: https://www.digistore24.com/redir/394183/adminstore
 
@@ -58,14 +58,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Buch - Sei Du Selbst sonst lebst du Andere? — Typ: Book (printed), Anbieter: healthandwealth, gelistet seit 2021-06-14
-- Wie viel kostet es? — 31.239714000000003 USD
+- Wie viel kostet es? — 31.259272000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Buch - Sei Du Selbst sonst lebst du Andere Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/394183
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/394183/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Buch%20-%20Sei%20Du%20Selbst%20sonst%20lebst%20du%20Andere
 
 ## 4. Editorial notes

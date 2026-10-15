@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2026-09-02"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/58875/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/686410?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/686410"
 language: "de"
 ---
 # Pour Ellie – BARF verstehen und richtig umsetzen
 
 > Product ID `58875` · Digistore24 productId `686410` · [HTML profile page](../../produkte/pour-ellie-barf-verstehen-und-richtig-umsetzen-58875.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58875/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/686410?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/686410
 - Canonical redirect: https://www.digistore24.com/redir/686410/adminstore
 
@@ -100,7 +100,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Pour Ellie – BARF verstehen und richtig umsetzen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/686410
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/686410/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Pour%20Ellie%20%E2%80%93%20BARF%20verstehen%20und%20richtig%20umsetzen
 
 ## 4. Editorial notes

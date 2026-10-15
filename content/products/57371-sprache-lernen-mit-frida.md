@@ -4,34 +4,34 @@ digistore24_product_id: 671226
 title: "Sprache lernen mit Frida"
 vendor: "KerstinSchimkus"
 product_type: "Member area and video courses"
-price: 278.41
+price: 278.58
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 27.84
+earnings_per_sale: 27.86
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2026-07-02"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/57371/adminstore/"
+promo_link: "https://lexosophie.mydigibiz24.com/sprache-lernen-mit-frida-3?aff=adminstore#aff=adminstore"
 sales_page: "https://lexosophie.mydigibiz24.com/sprache-lernen-mit-frida-3"
 language: "de"
 ---
 # Sprache lernen mit Frida
 
 > Product ID `57371` · Digistore24 productId `671226` · [HTML profile page](../../produkte/sprache-lernen-mit-frida-57371.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $278.41 (Subscription) |
+| Price | $278.58 (Subscription) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $27.84 |
+| Earnings/sale* | $27.86 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | KerstinSchimkus |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/57371/adminstore/
+- **Promo link (affiliate):** https://lexosophie.mydigibiz24.com/sprache-lernen-mit-frida-3?aff=adminstore#aff=adminstore
 - Sales page: https://lexosophie.mydigibiz24.com/sprache-lernen-mit-frida-3
 - Canonical redirect: https://www.digistore24.com/redir/671226/adminstore
 
@@ -88,14 +88,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Sprache lernen mit Frida? — Typ: Member area and video courses, Anbieter: KerstinSchimkus, gelistet seit 2026-07-02
-- Wie viel kostet es? — 278.4069 USD
+- Wie viel kostet es? — 278.5812 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Sprache lernen mit Frida Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/671226
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/671226/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Sprache%20lernen%20mit%20Frida
 
 ## 4. Editorial notes

@@ -4,34 +4,34 @@ digistore24_product_id: 554433
 title: "[NEU - Lifetime Provisionen] Deutschlands YouTube Mastermind"
 vendor: "babba-media"
 product_type: "Member area and video courses"
-price: 262.14
+price: 262.3
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 104.86
+earnings_per_sale: 104.92
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Marketing Services"]
 listed_since: "2024-05-28"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/47987/adminstore/"
+promo_link: "https://www.digistore24.com/product/554433?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/554433"
 language: "de"
 ---
 # [NEU - Lifetime Provisionen] Deutschlands YouTube Mastermind
 
 > Product ID `47987` · Digistore24 productId `554433` · [HTML profile page](../../produkte/neu-lifetime-provisionen-deutschlands-youtube-mastermind-47987.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $262.14 (Subscription) |
+| Price | $262.30 (Subscription) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $104.86 |
+| Earnings/sale* | $104.92 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | babba-media |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/47987/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/554433?aff=adminstore
 - Sales page: https://www.digistore24.com/product/554433
 - Canonical redirect: https://www.digistore24.com/redir/554433/adminstore
 
@@ -92,14 +92,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist [NEU - Lifetime Provisionen] Deutschlands YouTube Mastermind? — Typ: Member area and video courses, Anbieter: babba-media, gelistet seit 2024-05-28
-- Wie viel kostet es? — 262.138545 USD
+- Wie viel kostet es? — 262.30266 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: [NEU - Lifetime Provisionen] Deutschlands YouTube Mastermind Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/554433
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/554433/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=%5BNEU%20-%20Lifetime%20Provisionen%5D%20Deutschlands%20YouTube%20Mastermind
 
 ## 4. Editorial notes

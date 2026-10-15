@@ -4,16 +4,16 @@ digistore24_product_id: 674483
 title: "10 ungebaute SaaS-Ideen"
 vendor: "BeLitForYou"
 product_type: "Downloads"
-price: 62.95
+price: 62.99
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 31.47
+earnings_per_sale: 31.49
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2026-03-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.saas-vault.de?aff=adminstore#aff=adminstore"
 sales_page: "https://www.saas-vault.de"
@@ -22,16 +22,16 @@ language: "de"
 # 10 ungebaute SaaS-Ideen
 
 > Product ID `56004` · Digistore24 productId `674483` · [HTML profile page](../../produkte/10-ungebaute-saas-ideen-56004.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $62.95 (Single payment) |
+| Price | $62.99 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $31.47 |
+| Earnings/sale* | $31.49 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | BeLitForYou |
@@ -84,14 +84,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 10 ungebaute SaaS-Ideen? — Typ: Downloads, Anbieter: BeLitForYou, gelistet seit 2026-03-07
-- Wie viel kostet es? — 62.94903 USD
+- Wie viel kostet es? — 62.98844 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 10 ungebaute SaaS-Ideen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/674483
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/674483/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=10%20ungebaute%20SaaS-Ideen
 
 ## 4. Editorial notes

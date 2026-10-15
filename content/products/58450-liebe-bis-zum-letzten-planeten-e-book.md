@@ -4,16 +4,16 @@ digistore24_product_id: 723629
 title: "LIEBE BIS ZUM LETZTEN PLANETEN - E-Book"
 vendor: "JEMORIS"
 product_type: "E-books"
-price: 20.8
+price: 20.81
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 10.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Dating, Relationships & Romance","Spiri­tua­lity & Esotericism","Personal Development"]
+categories: ["Personal Development","Dating, Relationships & Romance","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-08-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://jemoris.com/liebe-bis-zum-letzten-planeten.html?aff=adminstore#aff=adminstore"
 sales_page: "https://jemoris.com/liebe-bis-zum-letzten-planeten.html"
@@ -22,14 +22,14 @@ language: "de"
 # LIEBE BIS ZUM LETZTEN PLANETEN - E-Book
 
 > Product ID `58450` · Digistore24 productId `723629` · [HTML profile page](../../produkte/liebe-bis-zum-letzten-planeten-e-book-58450.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.80 (Single payment) |
+| Price | $20.81 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $10.40 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | JEMORIS |
 | Listed since | 2026-08-18 |
 | Auto-accept affiliates | yes |
-| Categories | Dating, Relationships & Romance, Spiri­tua­lity & Esotericism, Personal Development |
+| Categories | Personal Development, Dating, Relationships & Romance, Spiri­tua­lity & Esotericism |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -80,14 +80,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist LIEBE BIS ZUM LETZTEN PLANETEN - E-Book? — Typ: E-books, Anbieter: JEMORIS, gelistet seit 2026-08-18
-- Wie viel kostet es? — 20.796660000000003 USD
+- Wie viel kostet es? — 20.80968 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: LIEBE BIS ZUM LETZTEN PLANETEN - E-Book Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/723629
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/723629/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=LIEBE%20BIS%20ZUM%20LETZTEN%20PLANETEN%20-%20E-Book
 
 ## 4. Editorial notes

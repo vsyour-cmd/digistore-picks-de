@@ -4,32 +4,32 @@ digistore24_product_id: 88745
 title: "Beziehungstipps für Frauen [E-Book]"
 vendor: "rheinrost"
 product_type: "E-books"
-price: 20.8
+price: 20.81
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 10.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Dating, Relationships & Romance","Family & Children","Personal Development"]
+categories: ["Personal Development","Dating, Relationships & Romance","Family & Children"]
 listed_since: "2016-07-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/redir/25599/adminstore/"
+promo_link: "https://www.beziehungsratgeber.net/shop/beziehungstipps-fuer-frauen/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.beziehungsratgeber.net/shop/beziehungstipps-fuer-frauen/"
 language: "de"
 ---
 # Beziehungstipps für Frauen [E-Book]
 
 > Product ID `25599` · Digistore24 productId `88745` · [HTML profile page](../../produkte/beziehungstipps-f-r-frauen-e-book-25599.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.80 (Single payment) |
+| Price | $20.81 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $10.40 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | rheinrost |
 | Listed since | 2016-07-22 |
 | Auto-accept affiliates | yes |
-| Categories | Dating, Relationships & Romance, Family & Children, Personal Development |
+| Categories | Personal Development, Dating, Relationships & Romance, Family & Children |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/redir/25599/adminstore/
+- **Promo link (affiliate):** https://www.beziehungsratgeber.net/shop/beziehungstipps-fuer-frauen/?aff=adminstore#aff=adminstore
 - Sales page: https://www.beziehungsratgeber.net/shop/beziehungstipps-fuer-frauen/
 - Vendor affiliate support: https://www.beziehungsratgeber.net/affiliate-partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/88745/adminstore
@@ -77,14 +77,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Beziehungstipps für Frauen [E-Book]? — Typ: E-books, Anbieter: rheinrost, gelistet seit 2016-07-22
-- Wie viel kostet es? — 20.796660000000003 USD
+- Wie viel kostet es? — 20.80968 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Beziehungstipps für Frauen [E-Book] Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/88745
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/88745/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Beziehungstipps%20f%C3%BCr%20Frauen%20%5BE-Book%5D
 
 ## 4. Editorial notes

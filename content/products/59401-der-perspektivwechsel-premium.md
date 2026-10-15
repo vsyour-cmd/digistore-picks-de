@@ -4,34 +4,34 @@ digistore24_product_id: 732869
 title: "Der Perspektivwechsel - Premium"
 vendor: "AnandaBernstein"
 product_type: "Online coaching"
-price: 656.76
+price: 657.17
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 131.35
+earnings_per_sale: 131.44
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Marketing Services"]
 listed_since: "2026-09-19"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/59401/adminstore/"
+promo_link: "https://lebenimsein-institut.at/forschung-training/perpektivwechsel.html?aff=adminstore#aff=adminstore"
 sales_page: "https://lebenimsein-institut.at/forschung-training/perpektivwechsel.html"
 language: "de"
 ---
 # Der Perspektivwechsel - Premium
 
 > Product ID `59401` · Digistore24 productId `732869` · [HTML profile page](../../produkte/der-perspektivwechsel-premium-59401.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $656.76 (Single payment) |
+| Price | $657.17 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $131.35 |
+| Earnings/sale* | $131.44 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | AnandaBernstein |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59401/adminstore/
+- **Promo link (affiliate):** https://lebenimsein-institut.at/forschung-training/perpektivwechsel.html?aff=adminstore#aff=adminstore
 - Sales page: https://lebenimsein-institut.at/forschung-training/perpektivwechsel.html
 - Canonical redirect: https://www.digistore24.com/redir/732869/adminstore
 
@@ -72,14 +72,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Perspektivwechsel - Premium? — Typ: Online coaching, Anbieter: AnandaBernstein, gelistet seit 2026-09-19
-- Wie viel kostet es? — 656.760759 USD
+- Wie viel kostet es? — 657.171932 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Der Perspektivwechsel - Premium Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/732869
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/732869/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%20Perspektivwechsel%20-%20Premium
 
 ## 4. Editorial notes

@@ -4,40 +4,40 @@ digistore24_product_id: 713101
 title: "Online-Dating: 50 Beispielnachrichten und  5 Beispiel-Chats"
 vendor: "MF-Digital-Solutions"
 product_type: "E-books"
-price: 26.02
+price: 26.03
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 13.01
+earnings_per_sale: 13.02
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Dating, Relationships & Romance","Personal Development"]
+categories: ["Personal Development","Dating, Relationships & Romance"]
 listed_since: "2026-07-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/57663/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/713101?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/713101"
 language: "de"
 ---
 # Online-Dating: 50 Beispielnachrichten und  5 Beispiel-Chats
 
 > Product ID `57663` · Digistore24 productId `713101` · [HTML profile page](../../produkte/online-dating-50-beispielnachrichten-und-5-beispiel-chats-57663.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $26.02 (Single payment) |
+| Price | $26.03 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $13.01 |
+| Earnings/sale* | $13.02 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MF-Digital-Solutions |
 | Listed since | 2026-07-21 |
 | Auto-accept affiliates | yes |
-| Categories | Dating, Relationships & Romance, Personal Development |
+| Categories | Personal Development, Dating, Relationships & Romance |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/57663/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/713101?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/713101
 - Canonical redirect: https://www.digistore24.com/redir/713101/adminstore
 
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online-Dating: 50 Beispielnachrichten und  5 Beispiel-Chats? — Typ: E-books, Anbieter: MF-Digital-Solutions, gelistet seit 2026-07-21
-- Wie viel kostet es? — 26.018187 USD
+- Wie viel kostet es? — 26.034476 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Online-Dating: 50 Beispielnachrichten und  5 Beispiel-Chats Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/713101
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/713101/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Online-Dating%3A%2050%20Beispielnachrichten%20und%20%205%20Beispiel-Chats
 
 ## 4. Editorial notes

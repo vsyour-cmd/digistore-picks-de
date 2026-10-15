@@ -4,16 +4,16 @@ digistore24_product_id: 482126
 title: "Pinterest Mastery - Geld verdienen und Traffic mit Pinterest"
 vendor: "seotech"
 product_type: "Member area and video courses"
-price: 256.63
+price: 256.79
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 117.19
+earnings_per_sale: 117.26
 cart_conversion_pct: 3
 cancel_rate_pct: 1.7
 categories: ["Social Media"]
 listed_since: "2023-01-31"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://www.provi-magnet.de/pinvkslp/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.provi-magnet.de/pinvkslp/"
@@ -22,16 +22,16 @@ language: "de"
 # Pinterest Mastery - Geld verdienen und Traffic mit Pinterest
 
 > Product ID `44124` · Digistore24 productId `482126` · [HTML profile page](../../produkte/pinterest-mastery-geld-verdienen-und-traffic-mit-pinterest-44124.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $256.63 (Single payment, Installment) |
+| Price | $256.79 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $117.19 |
+| Earnings/sale* | $117.26 |
 | Cart conversion* | 3% |
 | Cancel rate* | 1.7% |
 | Vendor | seotech |
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Pinterest Mastery - Geld verdienen und Traffic mit Pinterest? — Typ: Member area and video courses, Anbieter: seotech, gelistet seit 2023-01-31
-- Wie viel kostet es? — 256.62631200000004 USD
+- Wie viel kostet es? — 256.78697600000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Pinterest Mastery - Geld verdienen und Traffic mit Pinterest Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/482126
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/482126/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Pinterest%20Mastery%20-%20Geld%20verdienen%20und%20Traffic%20mit%20Pinterest
 
 ## 4. Editorial notes

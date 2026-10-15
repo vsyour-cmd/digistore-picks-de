@@ -4,16 +4,16 @@ digistore24_product_id: 270579
 title: "Der Udemy Code (228 Seiten E-Book)"
 vendor: "Abhaker"
 product_type: "E-books"
-price: 38.66
+price: 38.69
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 19.33
+earnings_per_sale: 19.34
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2019-05-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://sebastian-gloeckner-bonn.de/der-udemy-code/?aff=adminstore#aff=adminstore"
 sales_page: "https://sebastian-gloeckner-bonn.de/der-udemy-code/"
@@ -22,16 +22,16 @@ language: "de"
 # Der Udemy Code (228 Seiten E-Book)
 
 > Product ID `28904` · Digistore24 productId `270579` · [HTML profile page](../../produkte/der-udemy-code-228-seiten-e-book-28904.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $38.66 (Single payment) |
+| Price | $38.69 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $19.33 |
+| Earnings/sale* | $19.34 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Abhaker |
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Udemy Code (228 Seiten E-Book)? — Typ: E-books, Anbieter: Abhaker, gelistet seit 2019-05-05
-- Wie viel kostet es? — 38.663898 USD
+- Wie viel kostet es? — 38.688103999999996 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Der Udemy Code (228 Seiten E-Book) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/270579
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/270579/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%20Udemy%20Code%20(228%20Seiten%20E-Book)
 
 ## 4. Editorial notes

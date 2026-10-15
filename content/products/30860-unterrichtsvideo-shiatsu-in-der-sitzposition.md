@@ -4,16 +4,16 @@ digistore24_product_id: 297717
 title: "Unterrichtsvideo \"Shiatsu in der Sitzposition\""
 vendor: "shiatsuart"
 product_type: "Downloads"
-price: 64.83
+price: 64.87
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 32.41
+earnings_per_sale: 32.43
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2019-12-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.shiatsu.de/muenchen/node/909?aff=adminstore#aff=adminstore"
 sales_page: "https://www.shiatsu.de/muenchen/node/909"
@@ -22,16 +22,16 @@ language: "de"
 # Unterrichtsvideo "Shiatsu in der Sitzposition"
 
 > Product ID `30860` · Digistore24 productId `297717` · [HTML profile page](../../produkte/unterrichtsvideo-shiatsu-in-der-sitzposition-30860.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $64.83 (Single payment) |
+| Price | $64.87 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $32.41 |
+| Earnings/sale* | $32.43 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | shiatsuart |
@@ -81,14 +81,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Unterrichtsvideo "Shiatsu in der Sitzposition"? — Typ: Downloads, Anbieter: shiatsuart, gelistet seit 2019-12-01
-- Wie viel kostet es? — 64.827438 USD
+- Wie viel kostet es? — 64.86802399999999 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Unterrichtsvideo "Shiatsu in der Sitzposition" Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/297717
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/297717/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Unterrichtsvideo%20%22Shiatsu%20in%20der%20Sitzposition%22
 
 ## 4. Editorial notes

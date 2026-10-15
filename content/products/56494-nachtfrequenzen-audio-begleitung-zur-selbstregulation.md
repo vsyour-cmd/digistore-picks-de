@@ -4,16 +4,16 @@ digistore24_product_id: 682513
 title: "Nachtfrequenzen – Audio-Begleitung zur Selbstregulation"
 vendor: "praxiskaulbarsch"
 product_type: "Downloads"
-price: 149.39
+price: 149.48
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 14.94
+earnings_per_sale: 14.95
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2026-04-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/682513?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/682513"
@@ -22,16 +22,16 @@ language: "de"
 # Nachtfrequenzen – Audio-Begleitung zur Selbstregulation
 
 > Product ID `56494` · Digistore24 productId `682513` · [HTML profile page](../../produkte/nachtfrequenzen-audio-begleitung-zur-selbstregulation-56494.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $149.39 (Single payment) |
+| Price | $149.48 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $14.94 |
+| Earnings/sale* | $14.95 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | praxiskaulbarsch |
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Nachtfrequenzen – Audio-Begleitung zur Selbstregulation? — Typ: Downloads, Anbieter: praxiskaulbarsch, gelistet seit 2026-04-06
-- Wie viel kostet es? — 149.38934100000003 USD
+- Wie viel kostet es? — 149.48286800000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Nachtfrequenzen – Audio-Begleitung zur Selbstregulation Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/682513
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/682513/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Nachtfrequenzen%20%E2%80%93%20Audio-Begleitung%20zur%20Selbstregulation
 
 ## 4. Editorial notes

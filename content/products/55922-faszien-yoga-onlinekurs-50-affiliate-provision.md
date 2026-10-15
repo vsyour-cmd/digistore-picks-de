@@ -4,16 +4,16 @@ digistore24_product_id: 659279
 title: "Faszien-Yoga Onlinekurs – 50 % Affiliate-Provision"
 vendor: "Result13"
 product_type: "Member area and video courses"
-price: 280.93
+price: 281.11
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 140.47
+earnings_per_sale: 140.55
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-01-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/659279?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/659279"
@@ -22,16 +22,16 @@ language: "de"
 # Faszien-Yoga Onlinekurs – 50 % Affiliate-Provision
 
 > Product ID `55922` · Digistore24 productId `659279` · [HTML profile page](../../produkte/faszien-yoga-onlinekurs-50-affiliate-provision-55922.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $280.93 (Single payment) |
+| Price | $281.11 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $140.47 |
+| Earnings/sale* | $140.55 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Result13 |
@@ -83,14 +83,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Faszien-Yoga Onlinekurs – 50 % Affiliate-Provision? — Typ: Member area and video courses, Anbieter: Result13, gelistet seit 2026-01-06
-- Wie viel kostet es? — 280.933806 USD
+- Wie viel kostet es? — 281.109688 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Faszien-Yoga Onlinekurs – 50 % Affiliate-Provision Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/659279
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/659279/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Faszien-Yoga%20Onlinekurs%20%E2%80%93%2050%20%25%20Affiliate-Provision
 
 ## 4. Editorial notes

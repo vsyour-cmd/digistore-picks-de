@@ -4,16 +4,16 @@ digistore24_product_id: 368232
 title: "Folge Deiner Seele"
 vendor: "elanrea"
 product_type: "Member area and video courses"
-price: 117.45
+price: 117.52
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 23.49
+earnings_per_sale: 23.51
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2021-01-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.folgedeinerseele.com/mitgliedschaft/presale-grundmeditationen/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.folgedeinerseele.com/mitgliedschaft/presale-grundmeditationen/"
@@ -22,16 +22,16 @@ language: "de"
 # Folge Deiner Seele
 
 > Product ID `35620` · Digistore24 productId `368232` · [HTML profile page](../../produkte/folge-deiner-seele-35620.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $117.45 (Single payment) |
+| Price | $117.52 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $23.49 |
+| Earnings/sale* | $23.51 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | elanrea |
@@ -96,14 +96,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Folge Deiner Seele? — Typ: Member area and video courses, Anbieter: elanrea, gelistet seit 2021-01-16
-- Wie viel kostet es? — 117.44522400000001 USD
+- Wie viel kostet es? — 117.518752 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Folge Deiner Seele Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/368232
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/368232/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Folge%20Deiner%20Seele
 
 ## 4. Editorial notes

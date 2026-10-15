@@ -4,34 +4,34 @@ digistore24_product_id: 408366
 title: "Aquarell Online Kurs"
 vendor: "Timothy90"
 product_type: "Member area and video courses"
-price: 84.99
+price: 85.04
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 37.1
+earnings_per_sale: 37.12
 cart_conversion_pct: 8
 cancel_rate_pct: 0.59
 categories: ["Hobby & Craft"]
 listed_since: "2021-09-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/39841/adminstore/"
+promo_link: "https://manylearn.com/kurse/aquarell-zauber?aff=adminstore#aff=adminstore"
 sales_page: "https://manylearn.com/kurse/aquarell-zauber"
 language: "de"
 ---
 # Aquarell Online Kurs
 
 > Product ID `39841` · Digistore24 productId `408366` · [HTML profile page](../../produkte/aquarell-online-kurs-39841.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $84.99 (Single payment, Installment) |
+| Price | $85.04 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $37.10 |
+| Earnings/sale* | $37.12 |
 | Cart conversion* | 8% |
 | Cancel rate* | 0.59% |
 | Vendor | Timothy90 |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/39841/adminstore/
+- **Promo link (affiliate):** https://manylearn.com/kurse/aquarell-zauber?aff=adminstore#aff=adminstore
 - Sales page: https://manylearn.com/kurse/aquarell-zauber
 - Canonical redirect: https://www.digistore24.com/redir/408366/adminstore
 
@@ -88,14 +88,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Aquarell Online Kurs? — Typ: Member area and video courses, Anbieter: Timothy90, gelistet seit 2021-09-21
-- Wie viel kostet es? — 84.98678100000001 USD
+- Wie viel kostet es? — 85.03998800000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Aquarell Online Kurs Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/408366
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/408366/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Aquarell%20Online%20Kurs
 
 ## 4. Editorial notes

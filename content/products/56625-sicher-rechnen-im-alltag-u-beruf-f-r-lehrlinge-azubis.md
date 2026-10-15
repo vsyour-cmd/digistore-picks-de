@@ -10,19 +10,19 @@ affiliate_commission_pct: 80
 earnings_per_sale: 28.82
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Personal Development"]
+categories: ["Personal Development","Education"]
 listed_since: "2026-05-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/56625/adminstore/"
+promo_link: "https://academy.e-ducation.cloud/course/sicher-rechnen-im-alltag-beruf/?aff=adminstore#aff=adminstore"
 sales_page: "https://academy.e-ducation.cloud/course/sicher-rechnen-im-alltag-beruf/"
 language: "de"
 ---
 # Sicher Rechnen im Alltag u. Beruf für Lehrlinge/Azubis
 
 > Product ID `56625` · Digistore24 productId `692262` · [HTML profile page](../../produkte/sicher-rechnen-im-alltag-u-beruf-f-r-lehrlinge-azubis-56625.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | Mathecloud |
 | Listed since | 2026-05-20 |
 | Auto-accept affiliates | no (approval required) |
-| Categories | Education, Personal Development |
+| Categories | Personal Development, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56625/adminstore/
+- **Promo link (affiliate):** https://academy.e-ducation.cloud/course/sicher-rechnen-im-alltag-beruf/?aff=adminstore#aff=adminstore
 - Sales page: https://academy.e-ducation.cloud/course/sicher-rechnen-im-alltag-beruf/
 - Vendor affiliate support: https://success.e-ducation.cloud/Mathecloud-MBA-affiliate-support/
 - Canonical redirect: https://www.digistore24.com/redir/692262/adminstore
@@ -94,7 +94,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Sicher Rechnen im Alltag u. Beruf für Lehrlinge/Azubis Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/692262
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/692262/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Sicher%20Rechnen%20im%20Alltag%20u.%20Beruf%20f%C3%BCr%20Lehrlinge%2FAzubis
 
 ## 4. Editorial notes

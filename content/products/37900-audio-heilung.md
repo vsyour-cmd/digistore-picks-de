@@ -4,16 +4,16 @@ digistore24_product_id: 110115
 title: "Audio Heilung"
 vendor: "doitAkademie"
 product_type: "Downloads"
-price: 848.68
+price: 849.21
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 281.39
+earnings_per_sale: 281.57
 cart_conversion_pct: 2
 cancel_rate_pct: 9.97
 categories: ["Personal Development"]
 listed_since: "2016-12-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://bodysense.de/koerperfeldcoaching-audio/?aff=adminstore#aff=adminstore"
 sales_page: "https://bodysense.de/koerperfeldcoaching-audio/"
@@ -22,16 +22,16 @@ language: "de"
 # Audio Heilung
 
 > Product ID `37900` · Digistore24 productId `110115` · [HTML profile page](../../produkte/audio-heilung-37900.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $848.68 (Single payment, Installment) |
+| Price | $849.21 (Single payment, Installment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $281.39 |
+| Earnings/sale* | $281.57 |
 | Cart conversion* | 2% |
 | Cancel rate* | 9.97% |
 | Vendor | doitAkademie |
@@ -77,14 +77,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Audio Heilung? — Typ: Downloads, Anbieter: doitAkademie, gelistet seit 2016-12-21
-- Wie viel kostet es? — 848.682624 USD
+- Wie viel kostet es? — 849.213952 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Audio Heilung Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/110115
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/110115/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Audio%20Heilung
 
 ## 4. Editorial notes

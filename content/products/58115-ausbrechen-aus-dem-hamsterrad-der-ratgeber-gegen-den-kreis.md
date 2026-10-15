@@ -4,40 +4,40 @@ digistore24_product_id: 717907
 title: "Ausbrechen aus dem Hamsterrad – Der Ratgeber gegen den Kreis"
 vendor: "mlangbein51cce0"
 product_type: "E-books"
-price: 28.21
+price: 28.23
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 14.11
+earnings_per_sale: 14.12
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Business & Investment","Profession & Job","Personal Development"]
+categories: ["Personal Development","Business & Investment","Profession & Job"]
 listed_since: "2026-08-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/58115/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/717907?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/717907"
 language: "de"
 ---
 # Ausbrechen aus dem Hamsterrad – Der Ratgeber gegen den Kreis
 
 > Product ID `58115` · Digistore24 productId `717907` · [HTML profile page](../../produkte/ausbrechen-aus-dem-hamsterrad-der-ratgeber-gegen-den-kreis-58115.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $28.21 (Single payment) |
+| Price | $28.23 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $14.11 |
+| Earnings/sale* | $14.12 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | mlangbein51cce0 |
 | Listed since | 2026-08-04 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Profession & Job, Personal Development |
+| Categories | Personal Development, Business & Investment, Profession & Job |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58115/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/717907?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/717907
 - Canonical redirect: https://www.digistore24.com/redir/717907/adminstore
 
@@ -78,14 +78,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ausbrechen aus dem Hamsterrad – Der Ratgeber gegen den Kreis? — Typ: E-books, Anbieter: mlangbein51cce0, gelistet seit 2026-08-04
-- Wie viel kostet es? — 28.209663000000003 USD
+- Wie viel kostet es? — 28.227324 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Ausbrechen aus dem Hamsterrad – Der Ratgeber gegen den Kreis Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/717907
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/717907/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Ausbrechen%20aus%20dem%20Hamsterrad%20%E2%80%93%20Der%20Ratgeber%20gegen%20den%20Kreis
 
 ## 4. Editorial notes

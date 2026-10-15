@@ -4,40 +4,40 @@ digistore24_product_id: 655786
 title: "Schlank mit KI – Abnehmen nach dem Einkauf"
 vendor: "dd530xd"
 product_type: "Downloads"
-price: 46.04
+price: 46.07
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 23.02
+earnings_per_sale: 23.04
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Food & Drink","Health & Fitness","Personal Development"]
+categories: ["Health & Fitness","Personal Development","Food & Drink"]
 listed_since: "2025-12-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/54937/adminstore/"
+promo_link: "https://www.digistore24.com/product/655786?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/655786"
 language: "de"
 ---
 # Schlank mit KI – Abnehmen nach dem Einkauf
 
 > Product ID `54937` · Digistore24 productId `655786` · [HTML profile page](../../produkte/schlank-mit-ki-abnehmen-nach-dem-einkauf-54937.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $46.04 (Single payment) |
+| Price | $46.07 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $23.02 |
+| Earnings/sale* | $23.04 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | dd530xd |
 | Listed since | 2025-12-16 |
 | Auto-accept affiliates | yes |
-| Categories | Food & Drink, Health & Fitness, Personal Development |
+| Categories | Health & Fitness, Personal Development, Food & Drink |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/54937/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/655786?aff=adminstore
 - Sales page: https://www.digistore24.com/product/655786
 - Canonical redirect: https://www.digistore24.com/redir/655786/adminstore
 
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Schlank mit KI – Abnehmen nach dem Einkauf? — Typ: Downloads, Anbieter: dd530xd, gelistet seit 2025-12-16
-- Wie viel kostet es? — 46.043358000000005 USD
+- Wie viel kostet es? — 46.072184 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Schlank mit KI – Abnehmen nach dem Einkauf Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/655786
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/655786/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Schlank%20mit%20KI%20%E2%80%93%20Abnehmen%20nach%20dem%20Einkauf
 
 ## 4. Editorial notes

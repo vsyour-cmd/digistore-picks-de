@@ -4,7 +4,7 @@ digistore24_product_id: 90363
 title: "Amazilon - Amazon PartnerNet Plugin - Small Lizenz (1 Stk.)"
 vendor: "hinmed"
 product_type: "Downloads"
-price: 36.64
+price: 36.66
 currency: "USD"
 affiliate_commission_pct: 15
 earnings_per_sale: 5.5
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet"]
 listed_since: "2016-08-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/13005/adminstore/"
+promo_link: "https://amazilon.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://amazilon.com/"
 language: "de"
 ---
 # Amazilon - Amazon PartnerNet Plugin - Small Lizenz (1 Stk.)
 
 > Product ID `13005` · Digistore24 productId `90363` · [HTML profile page](../../produkte/amazilon-amazon-partnernet-plugin-small-lizenz-1-stk-13005.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $36.64 (Subscription) |
+| Price | $36.66 (Subscription) |
 | Affiliate commission | 15% |
 | Earnings/sale* | $5.50 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/13005/adminstore/
+- **Promo link (affiliate):** https://amazilon.com/?aff=adminstore#aff=adminstore
 - Sales page: https://amazilon.com/
 - Vendor affiliate support: https://amazilon.com/affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/90363/adminstore
@@ -85,14 +85,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Amazilon - Amazon PartnerNet Plugin - Small Lizenz (1 Stk.)? — Typ: Downloads, Anbieter: hinmed, gelistet seit 2016-08-06
-- Wie viel kostet es? — 36.64013700000001 USD
+- Wie viel kostet es? — 36.663076000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Amazilon - Amazon PartnerNet Plugin - Small Lizenz (1 Stk.) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/90363
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/90363/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Amazilon%20-%20Amazon%20PartnerNet%20Plugin%20-%20Small%20Lizenz%20(1%20Stk.)
 
 ## 4. Editorial notes

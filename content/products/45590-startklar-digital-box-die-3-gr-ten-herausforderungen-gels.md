@@ -10,10 +10,10 @@ affiliate_commission_pct: 50
 earnings_per_sale: 0.94
 cart_conversion_pct: 18
 cancel_rate_pct: 2.71
-categories: ["Business & Investment","Email Marketing","Online Marketing & E-Business"]
+categories: ["Business & Investment","Online Marketing & E-Business","Email Marketing"]
 listed_since: "2023-10-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://affiliforge.net/Startklar_Digital-Box?aff=adminstore#aff=adminstore"
 sales_page: "https://affiliforge.net/Startklar_Digital-Box"
@@ -22,7 +22,7 @@ language: "de"
 # StartKlar Digital-Box - Die 3 größten Herausforderungen gels
 
 > Product ID `45590` · Digistore24 productId `519822` · [HTML profile page](../../produkte/startklar-digital-box-die-3-gr-ten-herausforderungen-gels-45590.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | AffiliForge |
 | Listed since | 2023-10-08 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Email Marketing, Online Marketing & E-Business |
+| Categories | Business & Investment, Online Marketing & E-Business, Email Marketing |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -70,14 +70,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist StartKlar Digital-Box - Die 3 größten Herausforderungen gels? — Typ: Member area and video courses, Anbieter: AffiliForge, gelistet seit 2023-10-08
-- Wie viel kostet es? — 2.448639 USD
+- Wie viel kostet es? — 2.450172 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: StartKlar Digital-Box - Die 3 größten Herausforderungen gels Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/519822
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/519822/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=StartKlar%20Digital-Box%20-%20Die%203%20gr%C3%B6%C3%9Ften%20Herausforderungen%20gels
 
 ## 4. Editorial notes

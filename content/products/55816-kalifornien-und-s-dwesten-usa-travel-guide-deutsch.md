@@ -4,7 +4,7 @@ digistore24_product_id: 658151
 title: "Kalifornien und Südwesten USA Travel Guide (Deutsch)"
 vendor: "sarahvisita"
 product_type: "Downloads"
-price: 22.55
+price: 22.57
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 2.26
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Travel & Culture","Marketing Services"]
 listed_since: "2025-12-30"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/658151?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/658151"
@@ -22,14 +22,14 @@ language: "de"
 # Kalifornien und Südwesten USA Travel Guide (Deutsch)
 
 > Product ID `55816` · Digistore24 productId `658151` · [HTML profile page](../../produkte/kalifornien-und-s-dwesten-usa-travel-guide-deutsch-55816.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $22.55 (Single payment) |
+| Price | $22.57 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $2.26 |
 | Cart conversion* | — |
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Kalifornien und Südwesten USA Travel Guide (Deutsch)? — Typ: Downloads, Anbieter: sarahvisita, gelistet seit 2025-12-30
-- Wie viel kostet es? — 22.552077000000004 USD
+- Wie viel kostet es? — 22.566196 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Kalifornien und Südwesten USA Travel Guide (Deutsch) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/658151
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/658151/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Kalifornien%20und%20S%C3%BCdwesten%20USA%20Travel%20Guide%20(Deutsch)
 
 ## 4. Editorial notes

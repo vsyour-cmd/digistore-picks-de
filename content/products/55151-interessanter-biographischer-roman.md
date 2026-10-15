@@ -4,32 +4,32 @@ digistore24_product_id: 658840
 title: "Interessanter biographischer Roman"
 vendor: "ekke-hard"
 product_type: "E-books"
-price: 10.34
+price: 10.35
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 5.18
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Personal Development","Profession & Job","Travel & Culture"]
+categories: ["Personal Development","Travel & Culture","Profession & Job"]
 listed_since: "2026-01-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/55151/adminstore/"
+promo_link: "https://www.digistore24.com/product/658840?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/658840"
 language: "de"
 ---
 # Interessanter biographischer Roman
 
 > Product ID `55151` · Digistore24 productId `658840` · [HTML profile page](../../produkte/interessanter-biographischer-roman-55151.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.34 (Single payment) |
+| Price | $10.35 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $5.18 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | ekke-hard |
 | Listed since | 2026-01-04 |
 | Auto-accept affiliates | yes |
-| Categories | Personal Development, Profession & Job, Travel & Culture |
+| Categories | Personal Development, Travel & Culture, Profession & Job |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55151/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/658840?aff=adminstore
 - Sales page: https://www.digistore24.com/product/658840
 - Canonical redirect: https://www.digistore24.com/redir/658840/adminstore
 
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Interessanter biographischer Roman? — Typ: E-books, Anbieter: ekke-hard, gelistet seit 2026-01-04
-- Wie viel kostet es? — 10.342425 USD
+- Wie viel kostet es? — 10.3489 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Interessanter biographischer Roman Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/658840
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/658840/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Interessanter%20biographischer%20Roman
 
 ## 4. Editorial notes

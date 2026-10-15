@@ -4,34 +4,34 @@ digistore24_product_id: 727511
 title: "10 in 1 Wissenspaket"
 vendor: "mlangbein51cce0"
 product_type: "E-books"
-price: 49.12
+price: 49.15
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 24.56
+earnings_per_sale: 24.58
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Profession & Job","Leadership & Management"]
 listed_since: "2026-09-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/59079/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/727511?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/727511"
 language: "de"
 ---
 # 10 in 1 Wissenspaket
 
 > Product ID `59079` · Digistore24 productId `727511` · [HTML profile page](../../produkte/10-in-1-wissenspaket-59079.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $49.12 (Single payment) |
+| Price | $49.15 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $24.56 |
+| Earnings/sale* | $24.58 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | mlangbein51cce0 |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59079/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/727511?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/727511
 - Canonical redirect: https://www.digistore24.com/redir/727511/adminstore
 
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 10 in 1 Wissenspaket? — Typ: E-books, Anbieter: mlangbein51cce0, gelistet seit 2026-09-09
-- Wie viel kostet es? — 49.118133 USD
+- Wie viel kostet es? — 49.148884 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 10 in 1 Wissenspaket Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/727511
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/727511/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=10%20in%201%20Wissenspaket
 
 ## 4. Editorial notes

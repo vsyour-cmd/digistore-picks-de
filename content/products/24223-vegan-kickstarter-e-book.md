@@ -4,7 +4,7 @@ digistore24_product_id: 56501
 title: "Vegan Kickstarter E-Book"
 vendor: "chrisi20"
 product_type: "Downloads"
-price: 25.37
+price: 25.39
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 3.6
@@ -12,24 +12,24 @@ cart_conversion_pct: 4
 cancel_rate_pct: 2.46
 categories: ["Food & Drink"]
 listed_since: "2015-08-13"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/24223/adminstore/"
+promo_link: "https://www.digistore24.com/product/56501?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/56501"
 language: "de"
 ---
 # Vegan Kickstarter E-Book
 
 > Product ID `24223` · Digistore24 productId `56501` · [HTML profile page](../../produkte/vegan-kickstarter-e-book-24223.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $25.37 (Single payment) |
+| Price | $25.39 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $3.60 |
 | Cart conversion* | 4% |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/24223/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/56501?aff=adminstore
 - Sales page: https://www.digistore24.com/product/56501
 - Canonical redirect: https://www.digistore24.com/redir/56501/adminstore
 
@@ -75,14 +75,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Vegan Kickstarter E-Book? — Typ: Downloads, Anbieter: chrisi20, gelistet seit 2015-08-13
-- Wie viel kostet es? — 25.369689000000005 USD
+- Wie viel kostet es? — 25.385572000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Vegan Kickstarter E-Book Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/56501
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/56501/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Vegan%20Kickstarter%20E-Book
 
 ## 4. Editorial notes

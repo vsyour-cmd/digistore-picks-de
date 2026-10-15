@@ -10,19 +10,19 @@ affiliate_commission_pct: 60
 earnings_per_sale: 0.94
 cart_conversion_pct: 18
 cancel_rate_pct: 2.71
-categories: ["Business & Investment","Email Marketing","Online Marketing & E-Business"]
+categories: ["Business & Investment","Online Marketing & E-Business","Email Marketing"]
 listed_since: "2024-06-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/48575/adminstore/"
+promo_link: "https://affiliforge.net/Das-Perfekte-Freebie?aff=adminstore#aff=adminstore"
 sales_page: "https://affiliforge.net/Das-Perfekte-Freebie"
 language: "de"
 ---
 # Das perfekte Freebie - 17 Fehler vermeiden
 
 > Product ID `48575` · Digistore24 productId `557043` · [HTML profile page](../../produkte/das-perfekte-freebie-17-fehler-vermeiden-48575.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | AffiliForge |
 | Listed since | 2024-06-16 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Email Marketing, Online Marketing & E-Business |
+| Categories | Business & Investment, Online Marketing & E-Business, Email Marketing |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/48575/adminstore/
+- **Promo link (affiliate):** https://affiliforge.net/Das-Perfekte-Freebie?aff=adminstore#aff=adminstore
 - Sales page: https://affiliforge.net/Das-Perfekte-Freebie
 - Vendor affiliate support: https://affiliforge.net/AffiliForge-Partnerportal
 - Canonical redirect: https://www.digistore24.com/redir/557043/adminstore
@@ -77,14 +77,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das perfekte Freebie - 17 Fehler vermeiden? — Typ: Member area and video courses, Anbieter: AffiliForge, gelistet seit 2024-06-16
-- Wie viel kostet es? — 2.448639 USD
+- Wie viel kostet es? — 2.450172 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Das perfekte Freebie - 17 Fehler vermeiden Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/557043
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/557043/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Das%20perfekte%20Freebie%20-%2017%20Fehler%20vermeiden
 
 ## 4. Editorial notes

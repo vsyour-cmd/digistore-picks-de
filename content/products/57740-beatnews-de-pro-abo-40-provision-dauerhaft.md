@@ -4,7 +4,7 @@ digistore24_product_id: 709841
 title: "BeatNews.de Pro-Abo – 40 % Provision dauerhaft"
 vendor: "beatnews"
 product_type: "Member area and video courses"
-price: 9.38
+price: 9.39
 currency: "USD"
 affiliate_commission_pct: 40
 earnings_per_sale: 3.76
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2026-07-25"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://beatnews.de/pro?aff=adminstore#aff=adminstore"
 sales_page: "https://beatnews.de/pro"
@@ -22,14 +22,14 @@ language: "de"
 # BeatNews.de Pro-Abo – 40 % Provision dauerhaft
 
 > Product ID `57740` · Digistore24 productId `709841` · [HTML profile page](../../produkte/beatnews-de-pro-abo-40-provision-dauerhaft-57740.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $9.38 (Subscription) |
+| Price | $9.39 (Subscription) |
 | Affiliate commission | 40% |
 | Earnings/sale* | $3.76 |
 | Cart conversion* | — |
@@ -72,14 +72,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist BeatNews.de Pro-Abo – 40 % Provision dauerhaft? — Typ: Member area and video courses, Anbieter: beatnews, gelistet seit 2026-07-25
-- Wie viel kostet es? — 9.380859000000001 USD
+- Wie viel kostet es? — 9.386732 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: BeatNews.de Pro-Abo – 40 % Provision dauerhaft Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/709841
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/709841/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=BeatNews.de%20Pro-Abo%20%E2%80%93%2040%20%25%20Provision%20dauerhaft
 
 ## 4. Editorial notes

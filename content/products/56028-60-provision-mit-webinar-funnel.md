@@ -4,16 +4,16 @@ digistore24_product_id: 619098
 title: "60% Provision mit Webinar-Funnel"
 vendor: "jessicabusse"
 product_type: "Member area and video courses"
-price: 462.28
+price: 462.57
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 277.37
+earnings_per_sale: 277.54
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2025-06-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://jessicaginabusse.myfunnelcockpit.com/landingpage-business-webinar/?aff=adminstore#aff=adminstore"
 sales_page: "https://jessicaginabusse.myfunnelcockpit.com/landingpage-business-webinar/"
@@ -22,16 +22,16 @@ language: "de"
 # 60% Provision mit Webinar-Funnel
 
 > Product ID `56028` · Digistore24 productId `619098` · [HTML profile page](../../produkte/60-provision-mit-webinar-funnel-56028.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $462.28 (Single payment, Installment) |
+| Price | $462.57 (Single payment, Installment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $277.37 |
+| Earnings/sale* | $277.54 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | jessicabusse |
@@ -66,14 +66,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 60% Provision mit Webinar-Funnel? — Typ: Member area and video courses, Anbieter: jessicabusse, gelistet seit 2025-06-17
-- Wie viel kostet es? — 462.27844500000003 USD
+- Wie viel kostet es? — 462.56786 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 60% Provision mit Webinar-Funnel Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/619098
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/619098/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=60%25%20Provision%20mit%20Webinar-Funnel
 
 ## 4. Editorial notes

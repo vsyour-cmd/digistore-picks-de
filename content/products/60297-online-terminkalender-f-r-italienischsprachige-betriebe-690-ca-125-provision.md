@@ -4,34 +4,34 @@ digistore24_product_id: 741566
 title: "Online-Terminkalender für italienischsprachige Betriebe: 690 €, ca. 125 € Provision"
 vendor: "massarocalogero19976adc"
 product_type: "Remote service provided electronically"
-price: 771.49
+price: 771.97
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 154.3
+earnings_per_sale: 154.39
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2026-10-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/60297/adminstore/"
+promo_link: "https://www.direzionex.com/offerta/agenda-online?aff=adminstore#aff=adminstore"
 sales_page: "https://www.direzionex.com/offerta/agenda-online"
 language: "de"
 ---
 # Online-Terminkalender für italienischsprachige Betriebe: 690 €, ca. 125 € Provision
 
 > Product ID `60297` · Digistore24 productId `741566` · [HTML profile page](../../produkte/online-terminkalender-f-r-italienischsprachige-betriebe-690-ca-125-provision-60297.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $771.49 (Single payment) |
+| Price | $771.97 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $154.30 |
+| Earnings/sale* | $154.39 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | massarocalogero19976adc |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/60297/adminstore/
+- **Promo link (affiliate):** https://www.direzionex.com/offerta/agenda-online?aff=adminstore#aff=adminstore
 - Sales page: https://www.direzionex.com/offerta/agenda-online
 - Canonical redirect: https://www.digistore24.com/redir/741566/adminstore
 
@@ -85,14 +85,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online-Terminkalender für italienischsprachige Betriebe: 690 €, ca. 125 € Provision? — Typ: Remote service provided electronically, Anbieter: massarocalogero19976adc, gelistet seit 2026-10-07
-- Wie viel kostet es? — 771.489 USD
+- Wie viel kostet es? — 771.972 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Online-Terminkalender für italienischsprachige Betriebe: 690 €, ca. 125 € Provision Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/741566
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/741566/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Online-Terminkalender%20f%C3%BCr%20italienischsprachige%20Betriebe%3A%20690%20%E2%82%AC%2C%20ca.%20125%20%E2%82%AC%20Provision
 
 ## 4. Editorial notes

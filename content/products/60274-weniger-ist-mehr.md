@@ -4,16 +4,16 @@ digistore24_product_id: 742853
 title: "Weniger Ist Mehr"
 vendor: "Book2Book"
 product_type: "Downloads"
-price: 20.11
+price: 20.13
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 12.06
+earnings_per_sale: 12.07
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-10-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/742853?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/742853"
@@ -22,16 +22,16 @@ language: "de"
 # Weniger Ist Mehr
 
 > Product ID `60274` · Digistore24 productId `742853` · [HTML profile page](../../produkte/weniger-ist-mehr-60274.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $20.11 (Single payment) |
+| Price | $20.13 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $12.06 |
+| Earnings/sale* | $12.07 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Book2Book |
@@ -81,14 +81,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Weniger Ist Mehr? — Typ: Downloads, Anbieter: Book2Book, gelistet seit 2026-10-07
-- Wie viel kostet es? — 20.114619 USD
+- Wie viel kostet es? — 20.127212 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Weniger Ist Mehr Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/742853
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/742853/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Weniger%20Ist%20Mehr
 
 ## 4. Editorial notes

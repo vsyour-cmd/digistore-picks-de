@@ -4,34 +4,34 @@ digistore24_product_id: 433387
 title: "Wohlfühkörper Kurs"
 vendor: "Issdichgesund_Mel"
 product_type: "Downloads"
-price: 64.83
+price: 64.87
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 25.93
+earnings_per_sale: 25.94
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2022-03-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/40077/adminstore/"
+promo_link: "https://iss-dich-gesund.info/online-workshop/?aff=adminstore#aff=adminstore"
 sales_page: "https://iss-dich-gesund.info/online-workshop/"
 language: "de"
 ---
 # Wohlfühkörper Kurs
 
 > Product ID `40077` · Digistore24 productId `433387` · [HTML profile page](../../produkte/wohlf-hk-rper-kurs-40077.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $64.83 (Single payment) |
+| Price | $64.87 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $25.93 |
+| Earnings/sale* | $25.94 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Issdichgesund_Mel |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/40077/adminstore/
+- **Promo link (affiliate):** https://iss-dich-gesund.info/online-workshop/?aff=adminstore#aff=adminstore
 - Sales page: https://iss-dich-gesund.info/online-workshop/
 - Canonical redirect: https://www.digistore24.com/redir/433387/adminstore
 
@@ -99,14 +99,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Wohlfühkörper Kurs? — Typ: Downloads, Anbieter: Issdichgesund_Mel, gelistet seit 2022-03-09
-- Wie viel kostet es? — 64.827438 USD
+- Wie viel kostet es? — 64.86802399999999 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Wohlfühkörper Kurs Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/433387
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/433387/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Wohlf%C3%BChk%C3%B6rper%20Kurs
 
 ## 4. Editorial notes

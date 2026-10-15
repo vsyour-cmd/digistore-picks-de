@@ -4,7 +4,7 @@ digistore24_product_id: 658172
 title: "Mallorca Bucket List (Deutsch)"
 vendor: "sarahvisita"
 product_type: "Downloads"
-price: 13.15
+price: 13.16
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 1.32
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Travel & Culture","Marketing Services"]
 listed_since: "2025-12-30"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/658172?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/658172"
@@ -22,14 +22,14 @@ language: "de"
 # Mallorca Bucket List (Deutsch)
 
 > Product ID `55830` · Digistore24 productId `658172` · [HTML profile page](../../produkte/mallorca-bucket-list-deutsch-55830.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $13.15 (Single payment) |
+| Price | $13.16 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $1.32 |
 | Cart conversion* | — |
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mallorca Bucket List (Deutsch)? — Typ: Downloads, Anbieter: sarahvisita, gelistet seit 2025-12-30
-- Wie viel kostet es? — 13.148856 USD
+- Wie viel kostet es? — 13.157088 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Mallorca Bucket List (Deutsch) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/658172
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/658172/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Mallorca%20Bucket%20List%20(Deutsch)
 
 ## 4. Editorial notes

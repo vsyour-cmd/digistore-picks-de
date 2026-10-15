@@ -4,7 +4,7 @@ digistore24_product_id: 405536
 title: "Happy Money Girl \"Starter\""
 vendor: "NadjaHorlacher"
 product_type: "Member area and video courses"
-price: 6.57
+price: 6.58
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 3.29
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2021-09-02"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://nadjahorlacher.com/happy-money-girl-starter/?aff=adminstore#aff=adminstore"
 sales_page: "https://nadjahorlacher.com/happy-money-girl-starter/"
@@ -22,14 +22,14 @@ language: "de"
 # Happy Money Girl "Starter"
 
 > Product ID `38048` · Digistore24 productId `405536` · [HTML profile page](../../produkte/happy-money-girl-starter-38048.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $6.57 (Single payment) |
+| Price | $6.58 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $3.29 |
 | Cart conversion* | — |
@@ -59,14 +59,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Happy Money Girl "Starter"? — Typ: Member area and video courses, Anbieter: NadjaHorlacher, gelistet seit 2021-09-02
-- Wie viel kostet es? — 6.574428 USD
+- Wie viel kostet es? — 6.578544 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Happy Money Girl "Starter" Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/405536
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/405536/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Happy%20Money%20Girl%20%22Starter%22
 
 ## 4. Editorial notes

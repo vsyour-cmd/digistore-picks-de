@@ -4,16 +4,16 @@ digistore24_product_id: 709846
 title: "Weiterbildung zum Datenschutz (DSGVO) für Unternehmer:innen"
 vendor: "sachkundeak"
 product_type: "Member area and video courses"
-price: 46.04
+price: 46.07
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 13.81
+earnings_per_sale: 13.82
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Personal Development","Profession & Job"]
+categories: ["Personal Development","Profession & Job","Education"]
 listed_since: "2026-07-14"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://sachkundelehrgaenge.de/digistore24-weiterbildung-zum-datenschutz-dsgvo/?aff=adminstore#aff=adminstore"
 sales_page: "https://sachkundelehrgaenge.de/digistore24-weiterbildung-zum-datenschutz-dsgvo/"
@@ -22,22 +22,22 @@ language: "de"
 # Weiterbildung zum Datenschutz (DSGVO) für Unternehmer:innen
 
 > Product ID `57524` · Digistore24 productId `709846` · [HTML profile page](../../produkte/weiterbildung-zum-datenschutz-dsgvo-f-r-unternehmer-innen-57524.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $46.04 (Single payment) |
+| Price | $46.07 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $13.81 |
+| Earnings/sale* | $13.82 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | sachkundeak |
 | Listed since | 2026-07-14 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Personal Development, Profession & Job |
+| Categories | Personal Development, Profession & Job, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -87,14 +87,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Weiterbildung zum Datenschutz (DSGVO) für Unternehmer:innen? — Typ: Member area and video courses, Anbieter: sachkundeak, gelistet seit 2026-07-14
-- Wie viel kostet es? — 46.043358000000005 USD
+- Wie viel kostet es? — 46.072184 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Weiterbildung zum Datenschutz (DSGVO) für Unternehmer:innen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/709846
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/709846/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Weiterbildung%20zum%20Datenschutz%20(DSGVO)%20f%C3%BCr%20Unternehmer%3Ainnen
 
 ## 4. Editorial notes

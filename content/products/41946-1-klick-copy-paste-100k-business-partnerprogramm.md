@@ -4,16 +4,16 @@ digistore24_product_id: 462788
 title: "1-Klick Copy+Paste 100K Business | Partnerprogramm"
 vendor: "profitbuddies"
 product_type: "Member area and video courses"
-price: 250.06
+price: 250.22
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 122.15
+earnings_per_sale: 122.23
 cart_conversion_pct: 2
 cancel_rate_pct: 0.86
 categories: ["Business & Investment","Online Marketing & E-Business"]
 listed_since: "2022-10-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/redir/462788/adminstore"
 sales_page: "https://www.profitbuddies.de/1-klick-copy-paste-100k-business?utm_source=ds24-partner&utm_medium=affiliate&utm_campaign=100k-webinar&utm_content=[AFFILIATE]&aff=[AFFILIATE]"
@@ -22,16 +22,16 @@ language: "de"
 # 1-Klick Copy+Paste 100K Business | Partnerprogramm
 
 > Product ID `41946` · Digistore24 productId `462788` · [HTML profile page](../../produkte/1-klick-copy-paste-100k-business-partnerprogramm-41946.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $250.06 (Single payment, Installment) |
+| Price | $250.22 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $122.15 |
+| Earnings/sale* | $122.23 |
 | Cart conversion* | 2% |
 | Cancel rate* | 0.86% |
 | Vendor | profitbuddies |
@@ -70,14 +70,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 1-Klick Copy+Paste 100K Business | Partnerprogramm? — Typ: Member area and video courses, Anbieter: profitbuddies, gelistet seit 2022-10-01
-- Wie viel kostet es? — 250.06306500000002 USD
+- Wie viel kostet es? — 250.21962000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 1-Klick Copy+Paste 100K Business | Partnerprogramm Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/462788
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/462788/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=1-Klick%20Copy%2BPaste%20100K%20Business%20%7C%20Partnerprogramm
 
 ## 4. Editorial notes

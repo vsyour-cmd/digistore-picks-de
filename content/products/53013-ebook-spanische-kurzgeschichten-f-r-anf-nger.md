@@ -4,7 +4,7 @@ digistore24_product_id: 614660
 title: "eBook Spanische Kurzgeschichten für Anfänger"
 vendor: "digiheini"
 product_type: "Downloads"
-price: 7.42
+price: 7.43
 currency: "USD"
 affiliate_commission_pct: 20
 earnings_per_sale: 1.49
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Languages"]
 listed_since: "2025-05-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "http://gosikon.de/lp3_meine-gold-strategie#aff=adminstore"
+promo_link: "https://www.dirk-wohlfeil.de/sp-9-spanische-kurzgeschichten-fuer-anfaenger/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.dirk-wohlfeil.de/sp-9-spanische-kurzgeschichten-fuer-anfaenger/"
 language: "de"
 ---
 # eBook Spanische Kurzgeschichten für Anfänger
 
 > Product ID `53013` · Digistore24 productId `614660` · [HTML profile page](../../produkte/ebook-spanische-kurzgeschichten-f-r-anf-nger-53013.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $7.42 (Single payment) |
+| Price | $7.43 (Single payment) |
 | Affiliate commission | 20% |
 | Earnings/sale* | $1.49 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://gosikon.de/lp3_meine-gold-strategie#aff=adminstore
+- **Promo link (affiliate):** https://www.dirk-wohlfeil.de/sp-9-spanische-kurzgeschichten-fuer-anfaenger/?aff=adminstore#aff=adminstore
 - Sales page: https://www.dirk-wohlfeil.de/sp-9-spanische-kurzgeschichten-fuer-anfaenger/
 - Canonical redirect: https://www.digistore24.com/redir/614660/adminstore
 
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist eBook Spanische Kurzgeschichten für Anfänger? — Typ: Downloads, Anbieter: digiheini, gelistet seit 2025-05-24
-- Wie viel kostet es? — 7.424184 USD
+- Wie viel kostet es? — 7.428832 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: eBook Spanische Kurzgeschichten für Anfänger Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/614660
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/614660/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=eBook%20Spanische%20Kurzgeschichten%20f%C3%BCr%20Anf%C3%A4nger
 
 ## 4. Editorial notes

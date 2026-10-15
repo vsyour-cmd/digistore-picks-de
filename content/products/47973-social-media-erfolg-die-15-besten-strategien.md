@@ -12,17 +12,17 @@ cart_conversion_pct: 28
 cancel_rate_pct: 2.33
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2024-04-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/47973/adminstore/"
+promo_link: "https://michael-schlinder.com/Social-Media-Erfolg?aff=adminstore#aff=adminstore"
 sales_page: "https://michael-schlinder.com/Social-Media-Erfolg"
 language: "de"
 ---
 # Social Media Erfolg - Die 15 besten Strategien
 
 > Product ID `47973` · Digistore24 productId `550042` · [HTML profile page](../../produkte/social-media-erfolg-die-15-besten-strategien-47973.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/47973/adminstore/
+- **Promo link (affiliate):** https://michael-schlinder.com/Social-Media-Erfolg?aff=adminstore#aff=adminstore
 - Sales page: https://michael-schlinder.com/Social-Media-Erfolg
 - Vendor affiliate support: https://affiliforge.net/AffiliForge-Partnerportal
 - Canonical redirect: https://www.digistore24.com/redir/550042/adminstore
@@ -76,14 +76,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Social Media Erfolg - Die 15 besten Strategien? — Typ: Member area and video courses, Anbieter: MSchlinder, gelistet seit 2024-04-27
-- Wie viel kostet es? — 0.268344 USD
+- Wie viel kostet es? — 0.268512 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Social Media Erfolg - Die 15 besten Strategien Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/550042
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/550042/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Social%20Media%20Erfolg%20-%20Die%2015%20besten%20Strategien
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 470151
 title: "Affiliate Kumpel"
 vendor: "seotech"
 product_type: "Member area and video courses"
-price: 279.33
+price: 279.51
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 24.84
+earnings_per_sale: 24.86
 cart_conversion_pct: 3
 cancel_rate_pct: 1.65
 categories: ["Profession & Job"]
 listed_since: "2022-11-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.icbclub.de/affiliate-kumpel-deal?aff=adminstore#aff=adminstore"
 sales_page: "https://www.icbclub.de/affiliate-kumpel-deal"
@@ -22,16 +22,16 @@ language: "de"
 # Affiliate Kumpel
 
 > Product ID `44126` · Digistore24 productId `470151` · [HTML profile page](../../produkte/affiliate-kumpel-44126.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $279.33 (Single payment) |
+| Price | $279.51 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $24.84 |
+| Earnings/sale* | $24.86 |
 | Cart conversion* | 3% |
 | Cancel rate* | 1.65% |
 | Vendor | seotech |
@@ -87,14 +87,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Affiliate Kumpel? — Typ: Member area and video courses, Anbieter: seotech, gelistet seit 2022-11-16
-- Wie viel kostet es? — 279.33492300000006 USD
+- Wie viel kostet es? — 279.50980400000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Affiliate Kumpel Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/470151
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/470151/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Affiliate%20Kumpel
 
 ## 4. Editorial notes

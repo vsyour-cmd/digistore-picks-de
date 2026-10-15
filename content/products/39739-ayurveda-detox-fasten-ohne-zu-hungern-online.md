@@ -4,34 +4,34 @@ digistore24_product_id: 376019
 title: "Ayurveda-Detox-Fasten- ohne zu hungern – Online"
 vendor: "Ayurvedaschule"
 product_type: "Member area and video courses"
-price: 148.45
+price: 148.54
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 44.53
+earnings_per_sale: 44.56
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2021-02-25"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/39739/adminstore/"
+promo_link: "https://schule-fuer-ayurveda.de/ayurveda-fasten/?aff=adminstore#aff=adminstore"
 sales_page: "https://schule-fuer-ayurveda.de/ayurveda-fasten/"
 language: "de"
 ---
 # Ayurveda-Detox-Fasten- ohne zu hungern – Online
 
 > Product ID `39739` · Digistore24 productId `376019` · [HTML profile page](../../produkte/ayurveda-detox-fasten-ohne-zu-hungern-online-39739.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $148.45 (Single payment, Installment) |
+| Price | $148.54 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $44.53 |
+| Earnings/sale* | $44.56 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Ayurvedaschule |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/39739/adminstore/
+- **Promo link (affiliate):** https://schule-fuer-ayurveda.de/ayurveda-fasten/?aff=adminstore#aff=adminstore
 - Sales page: https://schule-fuer-ayurveda.de/ayurveda-fasten/
 - Vendor affiliate support: https://schule-fuer-ayurveda.de/ayurveda-fasten-onlinekurs-affiliate-produkt-fuer-sanfte-entlastung/
 - Canonical redirect: https://www.digistore24.com/redir/376019/adminstore
@@ -87,14 +87,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ayurveda-Detox-Fasten- ohne zu hungern – Online? — Typ: Member area and video courses, Anbieter: Ayurvedaschule, gelistet seit 2021-02-25
-- Wie viel kostet es? — 148.450137 USD
+- Wie viel kostet es? — 148.543076 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Ayurveda-Detox-Fasten- ohne zu hungern – Online Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/376019
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/376019/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Ayurveda-Detox-Fasten-%20ohne%20zu%20hungern%20%E2%80%93%20Online
 
 ## 4. Editorial notes

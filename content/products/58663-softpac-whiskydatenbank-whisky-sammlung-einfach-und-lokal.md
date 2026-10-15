@@ -4,40 +4,40 @@ digistore24_product_id: 726000
 title: "SoftPac Whiskydatenbank – Whisky-Sammlung einfach und lokal"
 vendor: "dejo777"
 product_type: "Software"
-price: 56.29
+price: 56.32
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 16.88
+earnings_per_sale: 16.89
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Food & Drink","Software"]
+categories: ["Software","Food & Drink"]
 listed_since: "2026-08-25"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/58663/adminstore/"
+promo_link: "https://www.softpac.de/ekp/wdb/index.html?aff=adminstore#aff=adminstore"
 sales_page: "https://www.softpac.de/ekp/wdb/index.html"
 language: "de"
 ---
 # SoftPac Whiskydatenbank – Whisky-Sammlung einfach und lokal
 
 > Product ID `58663` · Digistore24 productId `726000` · [HTML profile page](../../produkte/softpac-whiskydatenbank-whisky-sammlung-einfach-und-lokal-58663.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $56.29 (Single payment) |
+| Price | $56.32 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $16.88 |
+| Earnings/sale* | $16.89 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | dejo777 |
 | Listed since | 2026-08-25 |
 | Auto-accept affiliates | yes |
-| Categories | Food & Drink, Software |
+| Categories | Software, Food & Drink |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58663/adminstore/
+- **Promo link (affiliate):** https://www.softpac.de/ekp/wdb/index.html?aff=adminstore#aff=adminstore
 - Sales page: https://www.softpac.de/ekp/wdb/index.html
 - Vendor affiliate support: https://www.softpac.de/ekp/wdb/affiliate.html
 - Canonical redirect: https://www.digistore24.com/redir/726000/adminstore
@@ -94,14 +94,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist SoftPac Whiskydatenbank – Whisky-Sammlung einfach und lokal? — Typ: Software, Anbieter: dejo777, gelistet seit 2026-08-25
-- Wie viel kostet es? — 56.285154000000006 USD
+- Wie viel kostet es? — 56.320392000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: SoftPac Whiskydatenbank – Whisky-Sammlung einfach und lokal Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/726000
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/726000/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=SoftPac%20Whiskydatenbank%20%E2%80%93%20Whisky-Sammlung%20einfach%20und%20lokal
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 216935
 title: "Excel-Vorlage für die DSGVO-Dokumentation"
 vendor: "oliengel"
 product_type: "Downloads"
-price: 390.22
+price: 390.46
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 117.07
+earnings_per_sale: 117.14
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Law & Justice"]
 listed_since: "2018-04-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://shop.dsgvo-vorlagen.de/dsgvo-vorlagen-excel-und-word-preise?aff=adminstore#aff=adminstore"
 sales_page: "https://shop.dsgvo-vorlagen.de/dsgvo-vorlagen-excel-und-word-preise"
@@ -22,16 +22,16 @@ language: "de"
 # Excel-Vorlage für die DSGVO-Dokumentation
 
 > Product ID `27030` · Digistore24 productId `216935` · [HTML profile page](../../produkte/excel-vorlage-f-r-die-dsgvo-dokumentation-27030.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $390.22 (Single payment) |
+| Price | $390.46 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $117.07 |
+| Earnings/sale* | $117.14 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | oliengel |
@@ -99,14 +99,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Excel-Vorlage für die DSGVO-Dokumentation? — Typ: Downloads, Anbieter: oliengel, gelistet seit 2018-04-23
-- Wie viel kostet es? — 390.2169 USD
+- Wie viel kostet es? — 390.4612 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Excel-Vorlage für die DSGVO-Dokumentation Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/216935
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/216935/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Excel-Vorlage%20f%C3%BCr%20die%20DSGVO-Dokumentation
 
 ## 4. Editorial notes

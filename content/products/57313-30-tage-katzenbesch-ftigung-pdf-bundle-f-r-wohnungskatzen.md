@@ -4,32 +4,32 @@ digistore24_product_id: 706803
 title: "30 Tage Katzenbeschäftigung – PDF-Bundle für Wohnungskatzen"
 vendor: "michaele169"
 product_type: "Downloads"
-price: 12.21
+price: 12.22
 currency: "USD"
 affiliate_commission_pct: 40
 earnings_per_sale: 4.89
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Animals & Pets","Family & Children","Fun & Games"]
+categories: ["Family & Children","Animals & Pets","Fun & Games"]
 listed_since: "2026-06-30"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/57313/adminstore/"
+promo_link: "https://www.katzenbeschaeftigung.de?aff=adminstore#aff=adminstore"
 sales_page: "https://www.katzenbeschaeftigung.de"
 language: "de"
 ---
 # 30 Tage Katzenbeschäftigung – PDF-Bundle für Wohnungskatzen
 
 > Product ID `57313` · Digistore24 productId `706803` · [HTML profile page](../../produkte/30-tage-katzenbesch-ftigung-pdf-bundle-f-r-wohnungskatzen-57313.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $12.21 (Single payment) |
+| Price | $12.22 (Single payment) |
 | Affiliate commission | 40% |
 | Earnings/sale* | $4.89 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | michaele169 |
 | Listed since | 2026-06-30 |
 | Auto-accept affiliates | yes |
-| Categories | Animals & Pets, Family & Children, Fun & Games |
+| Categories | Family & Children, Animals & Pets, Fun & Games |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/57313/adminstore/
+- **Promo link (affiliate):** https://www.katzenbeschaeftigung.de?aff=adminstore#aff=adminstore
 - Sales page: https://www.katzenbeschaeftigung.de
 - Canonical redirect: https://www.digistore24.com/redir/706803/adminstore
 
@@ -82,14 +82,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 30 Tage Katzenbeschäftigung – PDF-Bundle für Wohnungskatzen? — Typ: Downloads, Anbieter: michaele169, gelistet seit 2026-06-30
-- Wie viel kostet es? — 12.209652 USD
+- Wie viel kostet es? — 12.217296 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 30 Tage Katzenbeschäftigung – PDF-Bundle für Wohnungskatzen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/706803
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/706803/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=30%20Tage%20Katzenbesch%C3%A4ftigung%20%E2%80%93%20PDF-Bundle%20f%C3%BCr%20Wohnungskatzen
 
 ## 4. Editorial notes

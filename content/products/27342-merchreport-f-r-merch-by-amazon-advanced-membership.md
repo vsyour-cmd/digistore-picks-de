@@ -4,16 +4,16 @@ digistore24_product_id: 248863
 title: "Merchreport für Merch by Amazon (Advanced Membership)"
 vendor: "biedermann_klose"
 product_type: "Downloads"
-price: 267
+price: 267.17
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 53.4
+earnings_per_sale: 53.43
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2018-11-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://merchreport.de?aff=adminstore#aff=adminstore"
 sales_page: "https://merchreport.de"
@@ -22,16 +22,16 @@ language: "de"
 # Merchreport für Merch by Amazon (Advanced Membership)
 
 > Product ID `27342` · Digistore24 productId `248863` · [HTML profile page](../../produkte/merchreport-f-r-merch-by-amazon-advanced-membership-27342.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $267.00 (bt.) |
+| Price | $267.17 (bt.) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $53.40 |
+| Earnings/sale* | $53.43 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | biedermann_klose |
@@ -89,14 +89,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Merchreport für Merch by Amazon (Advanced Membership)? — Typ: Downloads, Anbieter: biedermann_klose, gelistet seit 2018-11-20
-- Wie viel kostet es? — 267.00228000000004 USD
+- Wie viel kostet es? — 267.16944 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Merchreport für Merch by Amazon (Advanced Membership) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/248863
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/248863/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Merchreport%20f%C3%BCr%20Merch%20by%20Amazon%20(Advanced%20Membership)
 
 ## 4. Editorial notes

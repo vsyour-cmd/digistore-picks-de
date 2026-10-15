@@ -4,34 +4,34 @@ digistore24_product_id: 396831
 title: "Starke Wurzeln-Der Kurs für Kinder und Eltern"
 vendor: "YesOnline"
 product_type: "Member area and video courses"
-price: 247.11
+price: 247.27
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 74.13
+earnings_per_sale: 74.18
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2021-07-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/44817/adminstore/"
+promo_link: "https://www.yes-onlinekurs.ch/lp/starke-wurzeln/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.yes-onlinekurs.ch/lp/starke-wurzeln/"
 language: "de"
 ---
 # Starke Wurzeln-Der Kurs für Kinder und Eltern
 
 > Product ID `44817` · Digistore24 productId `396831` · [HTML profile page](../../produkte/starke-wurzeln-der-kurs-f-r-kinder-und-eltern-44817.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $247.11 (Single payment) |
+| Price | $247.27 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $74.13 |
+| Earnings/sale* | $74.18 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | YesOnline |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/44817/adminstore/
+- **Promo link (affiliate):** https://www.yes-onlinekurs.ch/lp/starke-wurzeln/?aff=adminstore#aff=adminstore
 - Sales page: https://www.yes-onlinekurs.ch/lp/starke-wurzeln/
 - Vendor affiliate support: https://www.yes-onlinekurs.ch/lp/support-fur-partnerinnen-1/
 - Canonical redirect: https://www.digistore24.com/redir/396831/adminstore
@@ -103,14 +103,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Starke Wurzeln-Der Kurs für Kinder und Eltern? — Typ: Member area and video courses, Anbieter: YesOnline, gelistet seit 2021-07-05
-- Wie viel kostet es? — 247.11128100000002 USD
+- Wie viel kostet es? — 247.265988 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Starke Wurzeln-Der Kurs für Kinder und Eltern Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/396831
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/396831/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Starke%20Wurzeln-Der%20Kurs%20f%C3%BCr%20Kinder%20und%20Eltern
 
 ## 4. Editorial notes

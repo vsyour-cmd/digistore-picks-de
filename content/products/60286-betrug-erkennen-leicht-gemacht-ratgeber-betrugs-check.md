@@ -4,7 +4,7 @@ digistore24_product_id: 741235
 title: "Betrug erkennen leicht gemacht – Ratgeber + Betrugs-Check"
 vendor: "ratgeberleichtgemacht"
 product_type: "E-books"
-price: 13.48
+price: 13.49
 currency: "USD"
 affiliate_commission_pct: 40
 earnings_per_sale: 5.39
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Finances"]
 listed_since: "2026-10-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/741235?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/741235"
@@ -22,14 +22,14 @@ language: "de"
 # Betrug erkennen leicht gemacht – Ratgeber + Betrugs-Check
 
 > Product ID `60286` · Digistore24 productId `741235` · [HTML profile page](../../produkte/betrug-erkennen-leicht-gemacht-ratgeber-betrugs-check-60286.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $13.48 (Single payment) |
+| Price | $13.49 (Single payment) |
 | Affiliate commission | 40% |
 | Earnings/sale* | $5.39 |
 | Cart conversion* | — |
@@ -80,14 +80,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Betrug erkennen leicht gemacht – Ratgeber + Betrugs-Check? — Typ: E-books, Anbieter: ratgeberleichtgemacht, gelistet seit 2026-10-07
-- Wie viel kostet es? — 13.484286 USD
+- Wie viel kostet es? — 13.492728000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Betrug erkennen leicht gemacht – Ratgeber + Betrugs-Check Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/741235
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/741235/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Betrug%20erkennen%20leicht%20gemacht%20%E2%80%93%20Ratgeber%20%2B%20Betrugs-Check
 
 ## 4. Editorial notes

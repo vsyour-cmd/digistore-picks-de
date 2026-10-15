@@ -4,34 +4,34 @@ digistore24_product_id: 742548
 title: "ShowUp - das Live-Mentoring"
 vendor: "businessdesignrocks"
 product_type: "Member area and video courses"
-price: 3577.92
+price: 3580.16
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 1788.96
+earnings_per_sale: 1790.08
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-10-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/60229/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/742548?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/742548"
 language: "de"
 ---
 # ShowUp - das Live-Mentoring
 
 > Product ID `60229` · Digistore24 productId `742548` · [HTML profile page](../../produkte/showup-das-live-mentoring-60229.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $3577.92 (Single payment) |
+| Price | $3580.16 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $1788.96 |
+| Earnings/sale* | $1790.08 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | businessdesignrocks |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/60229/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/742548?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/742548
 - Canonical redirect: https://www.digistore24.com/redir/742548/adminstore
 
@@ -120,14 +120,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist ShowUp - das Live-Mentoring? — Typ: Member area and video courses, Anbieter: businessdesignrocks, gelistet seit 2026-10-06
-- Wie viel kostet es? — 3577.92 USD
+- Wie viel kostet es? — 3580.16 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: ShowUp - das Live-Mentoring Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/742548
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/742548/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=ShowUp%20-%20das%20Live-Mentoring
 
 ## 4. Editorial notes

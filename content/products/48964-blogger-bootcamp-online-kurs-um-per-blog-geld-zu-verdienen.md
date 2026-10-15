@@ -4,16 +4,16 @@ digistore24_product_id: 164823
 title: "Blogger Bootcamp - Online-Kurs um per Blog Geld zu verdienen"
 vendor: "rheinrost"
 product_type: "Member area and video courses"
-price: 16.5
+price: 16.51
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 6.19
+earnings_per_sale: 6.2
 cart_conversion_pct: 25
 cancel_rate_pct: 3.25
 categories: ["Computer & Internet","Online Marketing & E-Business","Social Media"]
 listed_since: "2017-09-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.unaufschiebbar.de/blogger-bootcamp/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.unaufschiebbar.de/blogger-bootcamp/"
@@ -22,16 +22,16 @@ language: "de"
 # Blogger Bootcamp - Online-Kurs um per Blog Geld zu verdienen
 
 > Product ID `48964` · Digistore24 productId `164823` · [HTML profile page](../../produkte/blogger-bootcamp-online-kurs-um-per-blog-geld-zu-verdienen-48964.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $16.50 (Single payment) |
+| Price | $16.51 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $6.19 |
+| Earnings/sale* | $6.20 |
 | Cart conversion* | 25% |
 | Cancel rate* | 3.25% |
 | Vendor | rheinrost |
@@ -82,14 +82,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Blogger Bootcamp - Online-Kurs um per Blog Geld zu verdienen? — Typ: Member area and video courses, Anbieter: rheinrost, gelistet seit 2017-09-21
-- Wie viel kostet es? — 16.503156 USD
+- Wie viel kostet es? — 16.513488 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Blogger Bootcamp - Online-Kurs um per Blog Geld zu verdienen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/164823
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/164823/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Blogger%20Bootcamp%20-%20Online-Kurs%20um%20per%20Blog%20Geld%20zu%20verdienen
 
 ## 4. Editorial notes

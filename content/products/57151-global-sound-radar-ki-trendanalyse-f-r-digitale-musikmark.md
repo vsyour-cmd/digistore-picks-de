@@ -4,34 +4,34 @@ digistore24_product_id: 706016
 title: "Global Sound Radar™ – KI-Trendanalyse für digitale Musikmark"
 vendor: "smartboostAI"
 product_type: "Software"
-price: 316.63
+price: 316.83
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 158.32
+earnings_per_sale: 158.42
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Computer & Internet","Marketing Services"]
 listed_since: "2026-06-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
-promo_link: "https://www.digistore24.com/redir/57151/adminstore/"
+promo_link: "https://aibandclub.com/global-sound-radar?aff=adminstore#aff=adminstore"
 sales_page: "https://aibandclub.com/global-sound-radar"
 language: "de"
 ---
 # Global Sound Radar™ – KI-Trendanalyse für digitale Musikmark
 
 > Product ID `57151` · Digistore24 productId `706016` · [HTML profile page](../../produkte/global-sound-radar-ki-trendanalyse-f-r-digitale-musikmark-57151.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $316.63 (Single payment, Installment) |
+| Price | $316.83 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $158.32 |
+| Earnings/sale* | $158.42 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | smartboostAI |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/57151/adminstore/
+- **Promo link (affiliate):** https://aibandclub.com/global-sound-radar?aff=adminstore#aff=adminstore
 - Sales page: https://aibandclub.com/global-sound-radar
 - Vendor affiliate support: https://aibandclub.com/affiliate-zugang
 - Canonical redirect: https://www.digistore24.com/redir/706016/adminstore
@@ -72,14 +72,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Global Sound Radar™ – KI-Trendanalyse für digitale Musikmark? — Typ: Software, Anbieter: smartboostAI, gelistet seit 2026-06-27
-- Wie viel kostet es? — 316.634739 USD
+- Wie viel kostet es? — 316.832972 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Global Sound Radar™ – KI-Trendanalyse für digitale Musikmark Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/706016
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/706016/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Global%20Sound%20Radar%E2%84%A2%20%E2%80%93%20KI-Trendanalyse%20f%C3%BCr%20digitale%20Musikmark
 
 ## 4. Editorial notes

@@ -4,40 +4,40 @@ digistore24_product_id: 735332
 title: "Erfolg ist Kopfsache"
 vendor: "ima806"
 product_type: "Member area and video courses"
-price: 25.37
+price: 25.39
 currency: "USD"
 affiliate_commission_pct: 33
-earnings_per_sale: 8.37
+earnings_per_sale: 8.38
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Online Marketing & E-Business","Personal Development"]
+categories: ["Personal Development","Online Marketing & E-Business"]
 listed_since: "2026-09-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/59785/adminstore/"
+promo_link: "https://markwart-academy.de/erfistkopf/?aff=adminstore#aff=adminstore"
 sales_page: "https://markwart-academy.de/erfistkopf/"
 language: "de"
 ---
 # Erfolg ist Kopfsache
 
 > Product ID `59785` · Digistore24 productId `735332` · [HTML profile page](../../produkte/erfolg-ist-kopfsache-59785.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $25.37 (Single payment) |
+| Price | $25.39 (Single payment) |
 | Affiliate commission | 33% |
-| Earnings/sale* | $8.37 |
+| Earnings/sale* | $8.38 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ima806 |
 | Listed since | 2026-09-26 |
 | Auto-accept affiliates | yes |
-| Categories | Online Marketing & E-Business, Personal Development |
+| Categories | Personal Development, Online Marketing & E-Business |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59785/adminstore/
+- **Promo link (affiliate):** https://markwart-academy.de/erfistkopf/?aff=adminstore#aff=adminstore
 - Sales page: https://markwart-academy.de/erfistkopf/
 - Canonical redirect: https://www.digistore24.com/redir/735332/adminstore
 
@@ -58,14 +58,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Erfolg ist Kopfsache? — Typ: Member area and video courses, Anbieter: ima806, gelistet seit 2026-09-26
-- Wie viel kostet es? — 25.369689000000005 USD
+- Wie viel kostet es? — 25.385572000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Erfolg ist Kopfsache Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/735332
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/735332/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Erfolg%20ist%20Kopfsache
 
 ## 4. Editorial notes

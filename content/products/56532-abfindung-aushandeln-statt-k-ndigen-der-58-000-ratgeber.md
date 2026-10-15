@@ -4,16 +4,16 @@ digistore24_product_id: 691820
 title: "Abfindung aushandeln statt kündigen | Der 58.000€ Ratgeber"
 vendor: "abfindung_ratgeber"
 product_type: "E-books"
-price: 62.59
+price: 62.63
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 31.3
+earnings_per_sale: 31.32
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Law & Justice","Profession & Job"]
 listed_since: "2026-05-14"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
 promo_link: "https://abfindung-ratgeber.de?aff=adminstore#aff=adminstore"
 sales_page: "https://abfindung-ratgeber.de"
@@ -22,16 +22,16 @@ language: "de"
 # Abfindung aushandeln statt kündigen | Der 58.000€ Ratgeber
 
 > Product ID `56532` · Digistore24 productId `691820` · [HTML profile page](../../produkte/abfindung-aushandeln-statt-k-ndigen-der-58-000-ratgeber-56532.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $62.59 (Single payment) |
+| Price | $62.63 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $31.30 |
+| Earnings/sale* | $31.32 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | abfindung_ratgeber |
@@ -75,14 +75,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Abfindung aushandeln statt kündigen | Der 58.000€ Ratgeber? — Typ: E-books, Anbieter: abfindung_ratgeber, gelistet seit 2026-05-14
-- Wie viel kostet es? — 62.591238000000004 USD
+- Wie viel kostet es? — 62.630424 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Abfindung aushandeln statt kündigen | Der 58.000€ Ratgeber Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/691820
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/691820/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Abfindung%20aushandeln%20statt%20k%C3%BCndigen%20%7C%20Der%2058.000%E2%82%AC%20Ratgeber
 
 ## 4. Editorial notes

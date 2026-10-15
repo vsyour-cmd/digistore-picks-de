@@ -4,40 +4,40 @@ digistore24_product_id: 722504
 title: "CloverNets – Hosting für Clover und WordPress, 25 % Provision"
 vendor: "hihdigital"
 product_type: "Software"
-price: 40.12
+price: 40.14
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 10.03
+earnings_per_sale: 10.04
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: []
+categories: ["Software","Computer & Internet","Services"]
 listed_since: "2026-08-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/58625/adminstore/"
+promo_link: "https://clovernets.com/order.html?aff=adminstore#aff=adminstore"
 sales_page: "https://clovernets.com/order.html"
 language: "de"
 ---
 # CloverNets – Hosting für Clover und WordPress, 25 % Provision
 
 > Product ID `58625` · Digistore24 productId `722504` · [HTML profile page](../../produkte/clovernets-hosting-f-r-clover-und-wordpress-25-provision-58625.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $40.12 (Subscription) |
+| Price | $40.14 (Subscription) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $10.03 |
+| Earnings/sale* | $10.04 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | hihdigital |
 | Listed since | 2026-08-24 |
 | Auto-accept affiliates | yes |
-| Categories | Uncategorized |
+| Categories | Software, Computer & Internet, Services |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58625/adminstore/
+- **Promo link (affiliate):** https://clovernets.com/order.html?aff=adminstore#aff=adminstore
 - Sales page: https://clovernets.com/order.html
 - Vendor affiliate support: https://hih-digital.com/affiliates/clovernets.html
 - Canonical redirect: https://www.digistore24.com/redir/722504/adminstore
@@ -75,14 +75,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist CloverNets – Hosting für Clover und WordPress, 25 % Provision? — Typ: Software, Anbieter: hihdigital, gelistet seit 2026-08-24
-- Wie viel kostet es? — 40.117428000000004 USD
+- Wie viel kostet es? — 40.142544 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: CloverNets – Hosting für Clover und WordPress, 25 % Provision Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/722504
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/722504/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=CloverNets%20%E2%80%93%20Hosting%20f%C3%BCr%20Clover%20und%20WordPress%2C%2025%20%25%20Provision
 
 ## 4. Editorial notes

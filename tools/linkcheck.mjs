@@ -16,17 +16,22 @@ const htmls = walk('.').filter((f) => f.endsWith('.html'));
 const bySection = {};
 let refsTotal = 0;
 
-for (const f of htmls) {
-  const norm = f.split(path.sep).join('/');
+const rootDir = process.cwd();
+for (const f0 of htmls) {
+  const f = f0.split(path.sep).join('/'); // 统一 posix 斜杠,dirname/解析才正确
+  const norm = f;
   const section = norm.includes('/') ? norm.split('/')[0] : '(root)';
-  const h = fs.readFileSync(f, 'utf8');
+  const h = fs.readFileSync(path.join(rootDir, f), 'utf8');
   const broken = new Set();
 
   for (const m of h.matchAll(/(?:href|src)="([^"#]+)(#[^"]*)?"/g)) {
     const href = m[1];
     if (!href || /^(https?:|mailto:|data:|\/\/|\/)/.test(href)) continue;
     refsTotal++;
-    const target = path.resolve(path.dirname(f), decodeURIComponent(href));
+    const rel = decodeURIComponent(href);
+    // 浏览器语义:根页面的 ../ 会钳制到站点根;按站点根+钳制解析,避免 CWD 误报
+    const clamp = (p) => { let o = path.posix.normalize(p.split(path.sep).join("/")); while (o.startsWith("../")) o = o.slice(3); return o; };
+    const target = path.join(rootDir, clamp(path.posix.join(path.posix.dirname(f), rel)));
     if (!fs.existsSync(target)) broken.add(href);
   }
 

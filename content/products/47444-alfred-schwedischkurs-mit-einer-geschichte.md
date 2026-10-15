@@ -4,16 +4,16 @@ digistore24_product_id: 539191
 title: "Alfred – Schwedischkurs mit einer Geschichte"
 vendor: "Skapago"
 product_type: "Member area and video courses"
-price: 233.95
+price: 234.1
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 70.18
+earnings_per_sale: 70.23
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Languages"]
 listed_since: "2024-02-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://kurse.skapago.eu/lp/alfred-schwedischkurs-fur-anfanger?aff=adminstore#aff=adminstore"
 sales_page: "https://kurse.skapago.eu/lp/alfred-schwedischkurs-fur-anfanger"
@@ -22,16 +22,16 @@ language: "de"
 # Alfred – Schwedischkurs mit einer Geschichte
 
 > Product ID `47444` · Digistore24 productId `539191` · [HTML profile page](../../produkte/alfred-schwedischkurs-mit-einer-geschichte-47444.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $233.95 (Subscription) |
+| Price | $234.10 (Subscription) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $70.18 |
+| Earnings/sale* | $70.23 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Skapago |
@@ -83,14 +83,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Alfred – Schwedischkurs mit einer Geschichte? — Typ: Member area and video courses, Anbieter: Skapago, gelistet seit 2024-02-15
-- Wie viel kostet es? — 233.95124400000003 USD
+- Wie viel kostet es? — 234.097712 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Alfred – Schwedischkurs mit einer Geschichte Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/539191
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/539191/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Alfred%20%E2%80%93%20Schwedischkurs%20mit%20einer%20Geschichte
 
 ## 4. Editorial notes

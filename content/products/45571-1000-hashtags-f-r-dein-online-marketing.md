@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2023-10-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/45571/adminstore/"
+promo_link: "https://www.ilias-marketing.de/1000-hashtags-fuer-dein-online-marketing/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.ilias-marketing.de/1000-hashtags-fuer-dein-online-marketing/"
 language: "de"
 ---
 # 1000 Hashtags für dein Online Marketing
 
 > Product ID `45571` · Digistore24 productId `519907` · [HTML profile page](../../produkte/1000-hashtags-f-r-dein-online-marketing-45571.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/45571/adminstore/
+- **Promo link (affiliate):** https://www.ilias-marketing.de/1000-hashtags-fuer-dein-online-marketing/?aff=adminstore#aff=adminstore
 - Sales page: https://www.ilias-marketing.de/1000-hashtags-fuer-dein-online-marketing/
 - Vendor affiliate support: https://www.ilias-marketing.de/partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/519907/adminstore
@@ -88,7 +88,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 1000 Hashtags für dein Online Marketing Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/519907
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/519907/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=1000%20Hashtags%20f%C3%BCr%20dein%20Online%20Marketing
 
 ## 4. Editorial notes

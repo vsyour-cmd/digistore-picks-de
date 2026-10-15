@@ -4,40 +4,40 @@ digistore24_product_id: 715295
 title: "MIETfrei — endlich eine Wohnung, endlich sparen ohne Verzich"
 vendor: "steffenhjgeissler7b27"
 product_type: "Member area and video courses"
-price: 547.87
+price: 548.21
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 219.15
+earnings_per_sale: 219.28
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Green Products & Environmental Protection","Home & Garden","Spiri­tua­lity & Esotericism"]
+categories: ["Spiri­tua­lity & Esotericism","Home & Garden","Green Products & Environmental Protection"]
 listed_since: "2026-08-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/58439/adminstore/"
+promo_link: "https://www.aacco.info/mietfrei-ds24?aff=adminstore#aff=adminstore"
 sales_page: "https://www.aacco.info/mietfrei-ds24"
 language: "de"
 ---
 # MIETfrei — endlich eine Wohnung, endlich sparen ohne Verzich
 
 > Product ID `58439` · Digistore24 productId `715295` · [HTML profile page](../../produkte/mietfrei-endlich-eine-wohnung-endlich-sparen-ohne-verzich-58439.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $547.87 (Single payment) |
+| Price | $548.21 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $219.15 |
+| Earnings/sale* | $219.28 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | steffenhjgeissler7b27 |
 | Listed since | 2026-08-17 |
 | Auto-accept affiliates | no (approval required) |
-| Categories | Green Products & Environmental Protection, Home & Garden, Spiri­tua­lity & Esotericism |
+| Categories | Spiri­tua­lity & Esotericism, Home & Garden, Green Products & Environmental Protection |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58439/adminstore/
+- **Promo link (affiliate):** https://www.aacco.info/mietfrei-ds24?aff=adminstore#aff=adminstore
 - Sales page: https://www.aacco.info/mietfrei-ds24
 - Canonical redirect: https://www.digistore24.com/redir/715295/adminstore
 
@@ -86,14 +86,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist MIETfrei — endlich eine Wohnung, endlich sparen ohne Verzich? — Typ: Member area and video courses, Anbieter: steffenhjgeissler7b27, gelistet seit 2026-08-17
-- Wie viel kostet es? — 547.869 USD
+- Wie viel kostet es? — 548.212 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: MIETfrei — endlich eine Wohnung, endlich sparen ohne Verzich Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/715295
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/715295/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=MIETfrei%20%E2%80%94%20endlich%20eine%20Wohnung%2C%20endlich%20sparen%20ohne%20Verzich
 
 ## 4. Editorial notes

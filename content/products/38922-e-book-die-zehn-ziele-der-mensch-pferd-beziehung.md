@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2018-04-13"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.martinkreuzer.com/produkte/e-book-10-ziele/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.martinkreuzer.com/produkte/e-book-10-ziele/"
@@ -22,7 +22,7 @@ language: "de"
 # E-Book "Die zehn Ziele der Mensch-Pferd-Beziehung"
 
 > Product ID `38922` · Digistore24 productId `214963` · [HTML profile page](../../produkte/e-book-die-zehn-ziele-der-mensch-pferd-beziehung-38922.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -82,14 +82,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist E-Book "Die zehn Ziele der Mensch-Pferd-Beziehung"? — Typ: E-books, Anbieter: Linnon, gelistet seit 2018-04-13
-- Wie viel kostet es? — 8.877714000000001 USD
+- Wie viel kostet es? — 8.883272 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: E-Book "Die zehn Ziele der Mensch-Pferd-Beziehung" Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/214963
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/214963/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=E-Book%20%22Die%20zehn%20Ziele%20der%20Mensch-Pferd-Beziehung%22
 
 ## 4. Editorial notes

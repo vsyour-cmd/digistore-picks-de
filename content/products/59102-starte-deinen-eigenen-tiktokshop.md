@@ -4,7 +4,7 @@ digistore24_product_id: 725197
 title: "Starte Deinen eigenen TikTokShop"
 vendor: "B8Luise"
 product_type: "E-books"
-price: 15.62
+price: 15.63
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 1.57
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business"]
 listed_since: "2026-09-10"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/725197?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/725197"
@@ -22,14 +22,14 @@ language: "de"
 # Starte Deinen eigenen TikTokShop
 
 > Product ID `59102` · Digistore24 productId `725197` · [HTML profile page](../../produkte/starte-deinen-eigenen-tiktokshop-59102.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $15.62 (Single payment) |
+| Price | $15.63 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $1.57 |
 | Cart conversion* | — |
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Starte Deinen eigenen TikTokShop? — Typ: E-books, Anbieter: B8Luise, gelistet seit 2026-09-10
-- Wie viel kostet es? — 15.619857000000001 USD
+- Wie viel kostet es? — 15.629636000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Starte Deinen eigenen TikTokShop Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/725197
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/725197/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Starte%20Deinen%20eigenen%20TikTokShop
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 392852
 title: "WAKE UP AND SHINE"
 vendor: "InaHaskic"
 product_type: "Member area and video courses"
-price: 188.86
+price: 188.98
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 94.43
+earnings_per_sale: 94.49
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2021-06-03"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://diamondangel.de/wake-up-and-shine/?aff=adminstore#aff=adminstore"
 sales_page: "https://diamondangel.de/wake-up-and-shine/"
@@ -22,16 +22,16 @@ language: "de"
 # WAKE UP AND SHINE
 
 > Product ID `29258` · Digistore24 productId `392852` · [HTML profile page](../../produkte/wake-up-and-shine-29258.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $188.86 (Single payment, Installment) |
+| Price | $188.98 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $94.43 |
+| Earnings/sale* | $94.49 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | InaHaskic |
@@ -98,14 +98,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist WAKE UP AND SHINE? — Typ: Member area and video courses, Anbieter: InaHaskic, gelistet seit 2021-06-03
-- Wie viel kostet es? — 188.858271 USD
+- Wie viel kostet es? — 188.976508 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: WAKE UP AND SHINE Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/392852
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/392852/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=WAKE%20UP%20AND%20SHINE
 
 ## 4. Editorial notes

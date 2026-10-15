@@ -7,13 +7,13 @@ product_type: "E-books"
 price: 15.58
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 7.79
+earnings_per_sale: 7.8
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Dating, Relationships & Romance","Personal Development"]
+categories: ["Personal Development","Dating, Relationships & Romance"]
 listed_since: "2026-01-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/664543?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/664543"
@@ -22,7 +22,7 @@ language: "de"
 # Die Dating Maschine - Deutschlands ehrlichstes Dating-Buch
 
 > Product ID `55368` · Digistore24 productId `664543` · [HTML profile page](../../produkte/die-dating-maschine-deutschlands-ehrlichstes-dating-buch-55368.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,13 +31,13 @@ language: "de"
 | Product type | E-books |
 | Price | $15.58 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $7.79 |
+| Earnings/sale* | $7.80 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | gbuiss |
 | Listed since | 2026-01-27 |
 | Auto-accept affiliates | yes |
-| Categories | Dating, Relationships & Romance, Personal Development |
+| Categories | Personal Development, Dating, Relationships & Romance |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die Dating Maschine - Deutschlands ehrlichstes Dating-Buch? — Typ: E-books, Anbieter: gbuiss, gelistet seit 2026-01-27
-- Wie viel kostet es? — 15.575133000000001 USD
+- Wie viel kostet es? — 15.584884 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Die Dating Maschine - Deutschlands ehrlichstes Dating-Buch Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/664543
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/664543/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Die%20Dating%20Maschine%20-%20Deutschlands%20ehrlichstes%20Dating-Buch
 
 ## 4. Editorial notes

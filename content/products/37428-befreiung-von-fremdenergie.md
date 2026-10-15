@@ -4,16 +4,16 @@ digistore24_product_id: 387951
 title: "Befreiung von Fremdenergie"
 vendor: "allsenses"
 product_type: "Member area and video courses"
-price: 428.44
+price: 428.71
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 42.85
+earnings_per_sale: 42.87
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2021-05-03"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://www.allsenses.de/befreiung-von-fremdenergie-masterkurs/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.allsenses.de/befreiung-von-fremdenergie-masterkurs/"
@@ -22,16 +22,16 @@ language: "de"
 # Befreiung von Fremdenergie
 
 > Product ID `37428` · Digistore24 productId `387951` · [HTML profile page](../../produkte/befreiung-von-fremdenergie-37428.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $428.44 (Single payment, Installment) |
+| Price | $428.71 (Single payment, Installment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $42.85 |
+| Earnings/sale* | $42.87 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | allsenses |
@@ -66,14 +66,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Befreiung von Fremdenergie? — Typ: Member area and video courses, Anbieter: allsenses, gelistet seit 2021-05-03
-- Wie viel kostet es? — 428.444739 USD
+- Wie viel kostet es? — 428.712972 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Befreiung von Fremdenergie Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/387951
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/387951/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Befreiung%20von%20Fremdenergie
 
 ## 4. Editorial notes

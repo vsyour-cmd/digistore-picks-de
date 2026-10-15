@@ -4,7 +4,7 @@ digistore24_product_id: 125465
 title: "E-Book \"Einfach bewusst auf dem Jakobsweg\""
 vendor: "einfachbewusst"
 product_type: "Remote service provided electronically"
-price: 9.38
+price: 9.39
 currency: "USD"
 affiliate_commission_pct: 30
 earnings_per_sale: 2.82
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Travel & Culture"]
 listed_since: "2017-03-14"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/15675/adminstore/"
+promo_link: "http://www.einfachbewusst.de/jakobsweg-e-book/?aff=adminstore#aff=adminstore"
 sales_page: "http://www.einfachbewusst.de/jakobsweg-e-book/"
 language: "de"
 ---
 # E-Book "Einfach bewusst auf dem Jakobsweg"
 
 > Product ID `15675` · Digistore24 productId `125465` · [HTML profile page](../../produkte/e-book-einfach-bewusst-auf-dem-jakobsweg-15675.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $9.38 (Single payment) |
+| Price | $9.39 (Single payment) |
 | Affiliate commission | 30% |
 | Earnings/sale* | $2.82 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/15675/adminstore/
+- **Promo link (affiliate):** http://www.einfachbewusst.de/jakobsweg-e-book/?aff=adminstore#aff=adminstore
 - Sales page: http://www.einfachbewusst.de/jakobsweg-e-book/
 - Canonical redirect: https://www.digistore24.com/redir/125465/adminstore
 
@@ -93,14 +93,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist E-Book "Einfach bewusst auf dem Jakobsweg"? — Typ: Remote service provided electronically, Anbieter: einfachbewusst, gelistet seit 2017-03-14
-- Wie viel kostet es? — 9.380859000000001 USD
+- Wie viel kostet es? — 9.386732 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: E-Book "Einfach bewusst auf dem Jakobsweg" Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/125465
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/125465/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=E-Book%20%22Einfach%20bewusst%20auf%20dem%20Jakobsweg%22
 
 ## 4. Editorial notes

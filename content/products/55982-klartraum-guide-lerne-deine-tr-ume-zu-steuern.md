@@ -4,7 +4,7 @@ digistore24_product_id: 665191
 title: "Klartraum Guide - Lerne deine Träume zu steuern"
 vendor: "Profi10"
 product_type: "E-books"
-price: 10.44
+price: 10.45
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 5.22
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-01-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/665191?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/665191"
@@ -22,14 +22,14 @@ language: "de"
 # Klartraum Guide - Lerne deine Träume zu steuern
 
 > Product ID `55982` · Digistore24 productId `665191` · [HTML profile page](../../produkte/klartraum-guide-lerne-deine-tr-ume-zu-steuern-55982.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.44 (Single payment) |
+| Price | $10.45 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $5.22 |
 | Cart conversion* | — |
@@ -76,14 +76,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Klartraum Guide - Lerne deine Träume zu steuern? — Typ: E-books, Anbieter: Profi10, gelistet seit 2026-01-29
-- Wie viel kostet es? — 10.443054 USD
+- Wie viel kostet es? — 10.449592 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Klartraum Guide - Lerne deine Träume zu steuern Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/665191
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/665191/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Klartraum%20Guide%20-%20Lerne%20deine%20Tr%C3%A4ume%20zu%20steuern
 
 ## 4. Editorial notes

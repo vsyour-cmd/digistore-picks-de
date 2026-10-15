@@ -4,16 +4,16 @@ digistore24_product_id: 229099
 title: "Video-Analyse Schwimmen (Kraul und alle Lagen)"
 vendor: "jschueren"
 product_type: "Remote service provided electronically"
-price: 46.97
+price: 47
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 9.39
+earnings_per_sale: 9.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Sport"]
 listed_since: "2018-06-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/redir/229099/adminstore"
 sales_page: "https://www.xn--kraulkraftverstrker-uwb.de/video-stil-analyse-schwimmen/?kraul=[AFFILIATE]"
@@ -22,16 +22,16 @@ language: "de"
 # Video-Analyse Schwimmen (Kraul und alle Lagen)
 
 > Product ID `26038` · Digistore24 productId `229099` · [HTML profile page](../../produkte/video-analyse-schwimmen-kraul-und-alle-lagen-26038.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $46.97 (Single payment) |
+| Price | $47.00 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $9.39 |
+| Earnings/sale* | $9.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | jschueren |
@@ -78,14 +78,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Video-Analyse Schwimmen (Kraul und alle Lagen)? — Typ: Remote service provided electronically, Anbieter: jschueren, gelistet seit 2018-06-20
-- Wie viel kostet es? — 46.971381 USD
+- Wie viel kostet es? — 47.000788 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Video-Analyse Schwimmen (Kraul und alle Lagen) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/229099
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/229099/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Video-Analyse%20Schwimmen%20(Kraul%20und%20alle%20Lagen)
 
 ## 4. Editorial notes

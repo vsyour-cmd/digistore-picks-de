@@ -4,7 +4,7 @@ digistore24_product_id: 213283
 title: "Online-Videokurs für Nähanfänger"
 vendor: "fadenlauf"
 product_type: "Member area and video courses"
-price: 36.71
+price: 36.73
 currency: "USD"
 affiliate_commission_pct: 30
 earnings_per_sale: 9.53
@@ -12,8 +12,8 @@ cart_conversion_pct: 22
 cancel_rate_pct: 1.05
 categories: ["Hobby & Craft"]
 listed_since: "2018-04-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://fadenlauf-naehschule.de/landingpage-anfaengerkurs/?aff=adminstore#aff=adminstore"
 sales_page: "https://fadenlauf-naehschule.de/landingpage-anfaengerkurs/"
@@ -22,14 +22,14 @@ language: "de"
 # Online-Videokurs für Nähanfänger
 
 > Product ID `28954` · Digistore24 productId `213283` · [HTML profile page](../../produkte/online-videokurs-f-r-n-hanf-nger-28954.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $36.71 (Single payment) |
+| Price | $36.73 (Single payment) |
 | Affiliate commission | 30% |
 | Earnings/sale* | $9.53 |
 | Cart conversion* | 22% |
@@ -78,14 +78,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online-Videokurs für Nähanfänger? — Typ: Member area and video courses, Anbieter: fadenlauf, gelistet seit 2018-04-06
-- Wie viel kostet es? — 36.707223 USD
+- Wie viel kostet es? — 36.730204 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Online-Videokurs für Nähanfänger Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/213283
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/213283/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Online-Videokurs%20f%C3%BCr%20N%C3%A4hanf%C3%A4nger
 
 ## 4. Editorial notes

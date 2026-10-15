@@ -4,32 +4,32 @@ digistore24_product_id: 131441
 title: "Die schönsten Regengeräusche [MP3s]"
 vendor: "rheinrost"
 product_type: "Downloads"
-price: 9.38
+price: 9.39
 currency: "USD"
 affiliate_commission_pct: 30
 earnings_per_sale: 2.82
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Green Products & Environmental Protection","Health & Fitness","Spiri­tua­lity & Esotericism"]
+categories: ["Health & Fitness","Spiri­tua­lity & Esotericism","Green Products & Environmental Protection"]
 listed_since: "2017-04-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/48631/adminstore/"
+promo_link: "https://regengeraeusche.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://regengeraeusche.de/"
 language: "de"
 ---
 # Die schönsten Regengeräusche [MP3s]
 
 > Product ID `48631` · Digistore24 productId `131441` · [HTML profile page](../../produkte/die-sch-nsten-regenger-usche-mp3s-48631.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $9.38 (Single payment) |
+| Price | $9.39 (Single payment) |
 | Affiliate commission | 30% |
 | Earnings/sale* | $2.82 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | rheinrost |
 | Listed since | 2017-04-08 |
 | Auto-accept affiliates | yes |
-| Categories | Green Products & Environmental Protection, Health & Fitness, Spiri­tua­lity & Esotericism |
+| Categories | Health & Fitness, Spiri­tua­lity & Esotericism, Green Products & Environmental Protection |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/48631/adminstore/
+- **Promo link (affiliate):** https://regengeraeusche.de/?aff=adminstore#aff=adminstore
 - Sales page: https://regengeraeusche.de/
 - Canonical redirect: https://www.digistore24.com/redir/131441/adminstore
 
@@ -73,14 +73,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die schönsten Regengeräusche [MP3s]? — Typ: Downloads, Anbieter: rheinrost, gelistet seit 2017-04-08
-- Wie viel kostet es? — 9.380859000000001 USD
+- Wie viel kostet es? — 9.386732 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Die schönsten Regengeräusche [MP3s] Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/131441
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/131441/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Die%20sch%C3%B6nsten%20Regenger%C3%A4usche%20%5BMP3s%5D
 
 ## 4. Editorial notes

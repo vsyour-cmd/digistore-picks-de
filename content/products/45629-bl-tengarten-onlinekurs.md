@@ -4,34 +4,34 @@ digistore24_product_id: 518323
 title: "Blütengarten Onlinekurs"
 vendor: "BluetenGarten"
 product_type: "Member area and video courses"
-price: 205.76
+price: 205.89
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 61.73
+earnings_per_sale: 61.77
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Home & Garden"]
 listed_since: "2023-09-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/45629/adminstore/"
+promo_link: "https://bluetengarten.mydigibiz24.com/bluetengarten-gartenkurs-online?aff=adminstore#aff=adminstore"
 sales_page: "https://bluetengarten.mydigibiz24.com/bluetengarten-gartenkurs-online"
 language: "de"
 ---
 # Blütengarten Onlinekurs
 
 > Product ID `45629` · Digistore24 productId `518323` · [HTML profile page](../../produkte/bl-tengarten-onlinekurs-45629.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $205.76 (Single payment) |
+| Price | $205.89 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $61.73 |
+| Earnings/sale* | $61.77 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | BluetenGarten |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/45629/adminstore/
+- **Promo link (affiliate):** https://bluetengarten.mydigibiz24.com/bluetengarten-gartenkurs-online?aff=adminstore#aff=adminstore
 - Sales page: https://bluetengarten.mydigibiz24.com/bluetengarten-gartenkurs-online
 - Canonical redirect: https://www.digistore24.com/redir/518323/adminstore
 
@@ -95,14 +95,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Blütengarten Onlinekurs? — Typ: Member area and video courses, Anbieter: BluetenGarten, gelistet seit 2023-09-27
-- Wie viel kostet es? — 205.763943 USD
+- Wie viel kostet es? — 205.892764 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Blütengarten Onlinekurs Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/518323
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/518323/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Bl%C3%BCtengarten%20Onlinekurs
 
 ## 4. Editorial notes

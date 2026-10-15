@@ -4,7 +4,7 @@ digistore24_product_id: 55535
 title: "Ratgeber \"PFERDEPSYCHOLOGIE\""
 vendor: "Linnon"
 product_type: "Book (printed)"
-price: 77.33
+price: 77.38
 currency: "USD"
 affiliate_commission_pct: 20
 earnings_per_sale: 3.11
@@ -12,24 +12,24 @@ cart_conversion_pct: 11
 cancel_rate_pct: 2.21
 categories: ["Animals & Pets"]
 listed_since: "2015-07-31"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/23821/adminstore/"
+promo_link: "https://martinkreuzer.com/produkte/buch-von-martin-kreuzer?aff=adminstore#aff=adminstore"
 sales_page: "https://martinkreuzer.com/produkte/buch-von-martin-kreuzer"
 language: "de"
 ---
 # Ratgeber "PFERDEPSYCHOLOGIE"
 
 > Product ID `23821` · Digistore24 productId `55535` · [HTML profile page](../../produkte/ratgeber-pferdepsychologie-23821.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $77.33 (Single payment) |
+| Price | $77.38 (Single payment) |
 | Affiliate commission | 20% |
 | Earnings/sale* | $3.11 |
 | Cart conversion* | 11% |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/23821/adminstore/
+- **Promo link (affiliate):** https://martinkreuzer.com/produkte/buch-von-martin-kreuzer?aff=adminstore#aff=adminstore
 - Sales page: https://martinkreuzer.com/produkte/buch-von-martin-kreuzer
 - Vendor affiliate support: https://www.martinkreuzer.com/produkte/mka-partner-werden/
 - Canonical redirect: https://www.digistore24.com/redir/55535/adminstore
@@ -74,14 +74,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ratgeber "PFERDEPSYCHOLOGIE"? — Typ: Book (printed), Anbieter: Linnon, gelistet seit 2015-07-31
-- Wie viel kostet es? — 77.327796 USD
+- Wie viel kostet es? — 77.37620799999999 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Ratgeber "PFERDEPSYCHOLOGIE" Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/55535
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/55535/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Ratgeber%20%22PFERDEPSYCHOLOGIE%22
 
 ## 4. Editorial notes

@@ -4,32 +4,32 @@ digistore24_product_id: 712352
 title: "74Seiten XXL Malbuch: Deutsche Nationalmannschaft"
 vendor: "manuelcosta"
 product_type: "E-books"
-price: 11.48
+price: 11.49
 currency: "USD"
 affiliate_commission_pct: 60
 earnings_per_sale: 6.89
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Fun & Games","Sport"]
+categories: ["Education","Sport","Fun & Games"]
 listed_since: "2026-07-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
-promo_link: "https://www.digistore24.com/redir/57573/adminstore/"
+promo_link: "https://74seitenxxlmalbuchdeutsche.netlify.app/?aff=adminstore#aff=adminstore"
 sales_page: "https://74seitenxxlmalbuchdeutsche.netlify.app/"
 language: "de"
 ---
 # 74Seiten XXL Malbuch: Deutsche Nationalmannschaft
 
 > Product ID `57573` · Digistore24 productId `712352` · [HTML profile page](../../produkte/74seiten-xxl-malbuch-deutsche-nationalmannschaft-57573.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $11.48 (Single payment) |
+| Price | $11.49 (Single payment) |
 | Affiliate commission | 60% |
 | Earnings/sale* | $6.89 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | manuelcosta |
 | Listed since | 2026-07-17 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Fun & Games, Sport |
+| Categories | Education, Sport, Fun & Games |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/57573/adminstore/
+- **Promo link (affiliate):** https://74seitenxxlmalbuchdeutsche.netlify.app/?aff=adminstore#aff=adminstore
 - Sales page: https://74seitenxxlmalbuchdeutsche.netlify.app/
 - Vendor affiliate support: https://drive.google.com/drive/folders/1ov-yr65Y1bpho0fpvu2085N8vTOE_ltG
 - Canonical redirect: https://www.digistore24.com/redir/712352/adminstore
@@ -60,14 +60,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 74Seiten XXL Malbuch: Deutsche Nationalmannschaft? — Typ: E-books, Anbieter: manuelcosta, gelistet seit 2026-07-17
-- Wie viel kostet es? — 11.482887 USD
+- Wie viel kostet es? — 11.490076 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 74Seiten XXL Malbuch: Deutsche Nationalmannschaft Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/712352
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/712352/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=74Seiten%20XXL%20Malbuch%3A%20Deutsche%20Nationalmannschaft
 
 ## 4. Editorial notes

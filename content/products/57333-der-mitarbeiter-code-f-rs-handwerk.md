@@ -4,34 +4,34 @@ digistore24_product_id: 706662
 title: "Der Mitarbeiter-Code fürs Handwerk"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 26.07
+price: 26.09
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 13.04
+earnings_per_sale: 13.05
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2026-07-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/57333/adminstore/"
+promo_link: "https://ratgeberplatz.de/ratgeber/mitarbeiter-code-handwerk?aff=adminstore#aff=adminstore"
 sales_page: "https://ratgeberplatz.de/ratgeber/mitarbeiter-code-handwerk"
 language: "de"
 ---
 # Der Mitarbeiter-Code fürs Handwerk
 
 > Product ID `57333` · Digistore24 productId `706662` · [HTML profile page](../../produkte/der-mitarbeiter-code-f-rs-handwerk-57333.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $26.07 (Single payment) |
+| Price | $26.09 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $13.04 |
+| Earnings/sale* | $13.05 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pixonmedia |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/57333/adminstore/
+- **Promo link (affiliate):** https://ratgeberplatz.de/ratgeber/mitarbeiter-code-handwerk?aff=adminstore#aff=adminstore
 - Sales page: https://ratgeberplatz.de/ratgeber/mitarbeiter-code-handwerk
 - Vendor affiliate support: https://www.ratgeberplatz.de/partnerprogramm
 - Canonical redirect: https://www.digistore24.com/redir/706662/adminstore
@@ -85,14 +85,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Mitarbeiter-Code fürs Handwerk? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-07-01
-- Wie viel kostet es? — 26.074092000000004 USD
+- Wie viel kostet es? — 26.090416 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Der Mitarbeiter-Code fürs Handwerk Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/706662
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/706662/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%20Mitarbeiter-Code%20f%C3%BCrs%20Handwerk
 
 ## 4. Editorial notes

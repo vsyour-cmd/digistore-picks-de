@@ -4,34 +4,34 @@ digistore24_product_id: 730606
 title: "Digitalisierungsfahrplan für KMU"
 vendor: "kontakta101"
 product_type: "E-books"
-price: 31.24
+price: 31.26
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 12.5
+earnings_per_sale: 12.51
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Profession & Job"]
 listed_since: "2026-09-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/59481/adminstore/"
+promo_link: "https://digitalisierungsfahrplan-kmu.klarer-kurs.online?aff=adminstore#aff=adminstore"
 sales_page: "https://digitalisierungsfahrplan-kmu.klarer-kurs.online"
 language: "de"
 ---
 # Digitalisierungsfahrplan für KMU
 
 > Product ID `59481` · Digistore24 productId `730606` · [HTML profile page](../../produkte/digitalisierungsfahrplan-f-r-kmu-59481.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $31.24 (Single payment) |
+| Price | $31.26 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $12.50 |
+| Earnings/sale* | $12.51 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | kontakta101 |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59481/adminstore/
+- **Promo link (affiliate):** https://digitalisierungsfahrplan-kmu.klarer-kurs.online?aff=adminstore#aff=adminstore
 - Sales page: https://digitalisierungsfahrplan-kmu.klarer-kurs.online
 - Vendor affiliate support: https://digitalisierungsfahrplan-kmu.klarer-kurs.online/affiliate.html
 - Canonical redirect: https://www.digistore24.com/redir/730606/adminstore
@@ -76,14 +76,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Digitalisierungsfahrplan für KMU? — Typ: E-books, Anbieter: kontakta101, gelistet seit 2026-09-21
-- Wie viel kostet es? — 31.239714000000003 USD
+- Wie viel kostet es? — 31.259272000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Digitalisierungsfahrplan für KMU Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/730606
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/730606/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Digitalisierungsfahrplan%20f%C3%BCr%20KMU
 
 ## 4. Editorial notes

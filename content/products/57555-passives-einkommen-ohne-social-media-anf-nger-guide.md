@@ -4,34 +4,34 @@ digistore24_product_id: 710228
 title: "Passives Einkommen ohne Social Media – Anfänger Guide"
 vendor: "soudmohsin68cc4f"
 product_type: "E-books"
-price: 37.11
+price: 37.13
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 12.99
+earnings_per_sale: 13
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2026-07-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/57555/adminstore/"
+promo_link: "https://ubiquitous-chimera-314f42.netlify.app?aff=adminstore#aff=adminstore"
 sales_page: "https://ubiquitous-chimera-314f42.netlify.app"
 language: "de"
 ---
 # Passives Einkommen ohne Social Media – Anfänger Guide
 
 > Product ID `57555` · Digistore24 productId `710228` · [HTML profile page](../../produkte/passives-einkommen-ohne-social-media-anf-nger-guide-57555.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $37.11 (Single payment) |
+| Price | $37.13 (Single payment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $12.99 |
+| Earnings/sale* | $13.00 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | soudmohsin68cc4f |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/57555/adminstore/
+- **Promo link (affiliate):** https://ubiquitous-chimera-314f42.netlify.app?aff=adminstore#aff=adminstore
 - Sales page: https://ubiquitous-chimera-314f42.netlify.app
 - Canonical redirect: https://www.digistore24.com/redir/710228/adminstore
 
@@ -69,14 +69,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Passives Einkommen ohne Social Media – Anfänger Guide? — Typ: E-books, Anbieter: soudmohsin68cc4f, gelistet seit 2026-07-16
-- Wie viel kostet es? — 37.109739 USD
+- Wie viel kostet es? — 37.132971999999995 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Passives Einkommen ohne Social Media – Anfänger Guide Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/710228
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/710228/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Passives%20Einkommen%20ohne%20Social%20Media%20%E2%80%93%20Anf%C3%A4nger%20Guide
 
 ## 4. Editorial notes

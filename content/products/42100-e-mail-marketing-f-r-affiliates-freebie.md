@@ -12,8 +12,8 @@ cart_conversion_pct: 16
 cancel_rate_pct: 2.86
 categories: ["Email Marketing"]
 listed_since: "2022-10-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
 promo_link: "https://kb-om.com/e-mail-marketing-fuer-affiliates-ds24/?aff=adminstore#aff=adminstore"
 sales_page: "https://kb-om.com/e-mail-marketing-fuer-affiliates-ds24/"
@@ -22,7 +22,7 @@ language: "de"
 # E-Mail Marketing für Affiliates - Freebie
 
 > Product ID `42100` · Digistore24 productId `464834` · [HTML profile page](../../produkte/e-mail-marketing-f-r-affiliates-freebie-42100.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -64,14 +64,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist E-Mail Marketing für Affiliates - Freebie? — Typ: E-books, Anbieter: Plebvin, gelistet seit 2022-10-15
-- Wie viel kostet es? — 0.6261360000000001 USD
+- Wie viel kostet es? — 0.6265280000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: E-Mail Marketing für Affiliates - Freebie Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/464834
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/464834/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=E-Mail%20Marketing%20f%C3%BCr%20Affiliates%20-%20Freebie
 
 ## 4. Editorial notes

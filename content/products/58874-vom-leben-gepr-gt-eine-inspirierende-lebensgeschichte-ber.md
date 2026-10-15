@@ -4,7 +4,7 @@ digistore24_product_id: 727157
 title: "Vom Leben geprägt – Eine inspirierende Lebensgeschichte über"
 vendor: "olasmartness90fa"
 product_type: "E-books"
-price: 13.42
+price: 13.43
 currency: "USD"
 affiliate_commission_pct: 30
 earnings_per_sale: 4.03
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2026-09-02"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/727157?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/727157"
@@ -22,14 +22,14 @@ language: "de"
 # Vom Leben geprägt – Eine inspirierende Lebensgeschichte über
 
 > Product ID `58874` · Digistore24 productId `727157` · [HTML profile page](../../produkte/vom-leben-gepr-gt-eine-inspirierende-lebensgeschichte-ber-58874.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $13.42 (Single payment) |
+| Price | $13.43 (Single payment) |
 | Affiliate commission | 30% |
 | Earnings/sale* | $4.03 |
 | Cart conversion* | — |
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Vom Leben geprägt – Eine inspirierende Lebensgeschichte über? — Typ: E-books, Anbieter: olasmartness90fa, gelistet seit 2026-09-02
-- Wie viel kostet es? — 13.417200000000001 USD
+- Wie viel kostet es? — 13.4256 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Vom Leben geprägt – Eine inspirierende Lebensgeschichte über Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/727157
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/727157/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Vom%20Leben%20gepr%C3%A4gt%20%E2%80%93%20Eine%20inspirierende%20Lebensgeschichte%20%C3%BCber
 
 ## 4. Editorial notes

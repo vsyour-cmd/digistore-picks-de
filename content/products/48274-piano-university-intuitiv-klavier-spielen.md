@@ -4,16 +4,16 @@ digistore24_product_id: 548914
 title: "Piano.University - Intuitiv Klavier spielen"
 vendor: "gordonnovember"
 product_type: "Member area and video courses"
-price: 421.87
+price: 422.13
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 105.47
+earnings_per_sale: 105.54
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dancing & Music","Education","Hobby & Craft"]
 listed_since: "2024-04-19"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/548914?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/548914"
@@ -22,16 +22,16 @@ language: "de"
 # Piano.University - Intuitiv Klavier spielen
 
 > Product ID `48274` · Digistore24 productId `548914` · [HTML profile page](../../produkte/piano-university-intuitiv-klavier-spielen-48274.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $421.87 (Subscription) |
+| Price | $422.13 (Subscription) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $105.47 |
+| Earnings/sale* | $105.54 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | gordonnovember |
@@ -88,14 +88,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Piano.University - Intuitiv Klavier spielen? — Typ: Member area and video courses, Anbieter: gordonnovember, gelistet seit 2024-04-19
-- Wie viel kostet es? — 421.870311 USD
+- Wie viel kostet es? — 422.134428 USD
 - Garantie? — 30
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Piano.University - Intuitiv Klavier spielen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/548914
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/548914/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Piano.University%20-%20Intuitiv%20Klavier%20spielen
 
 ## 4. Editorial notes

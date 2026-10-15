@@ -4,7 +4,7 @@ digistore24_product_id: 684096
 title: "Der richtige Umgang mit deiner Katze"
 vendor: "Freifone"
 product_type: "E-books"
-price: 13.57
+price: 13.58
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 6.79
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2026-04-12"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/56231/adminstore/"
+promo_link: "https://designs-nf.com/ebooks/umgang-mit-katze?aff=adminstore#aff=adminstore"
 sales_page: "https://designs-nf.com/ebooks/umgang-mit-katze"
 language: "de"
 ---
 # Der richtige Umgang mit deiner Katze
 
 > Product ID `56231` · Digistore24 productId `684096` · [HTML profile page](../../produkte/der-richtige-umgang-mit-deiner-katze-56231.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $13.57 (Single payment) |
+| Price | $13.58 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $6.79 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56231/adminstore/
+- **Promo link (affiliate):** https://designs-nf.com/ebooks/umgang-mit-katze?aff=adminstore#aff=adminstore
 - Sales page: https://designs-nf.com/ebooks/umgang-mit-katze
 - Vendor affiliate support: https://designs-nf.com/affiliate/links
 - Canonical redirect: https://www.digistore24.com/redir/684096/adminstore
@@ -82,14 +82,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der richtige Umgang mit deiner Katze? — Typ: E-books, Anbieter: Freifone, gelistet seit 2026-04-12
-- Wie viel kostet es? — 13.573734000000002 USD
+- Wie viel kostet es? — 13.582232000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Der richtige Umgang mit deiner Katze Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/684096
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/684096/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%20richtige%20Umgang%20mit%20deiner%20Katze
 
 ## 4. Editorial notes

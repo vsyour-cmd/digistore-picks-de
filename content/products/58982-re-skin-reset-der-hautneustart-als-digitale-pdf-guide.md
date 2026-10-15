@@ -4,7 +4,7 @@ digistore24_product_id: 730548
 title: "RE: SKIN RESET - Der Hautneustart als digitale Pdf Guide"
 vendor: "sinamir"
 product_type: "E-books"
-price: 18.71
+price: 18.72
 currency: "USD"
 affiliate_commission_pct: 40
 earnings_per_sale: 7.48
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-09-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/730548?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/730548"
@@ -22,14 +22,14 @@ language: "de"
 # RE: SKIN RESET - Der Hautneustart als digitale Pdf Guide
 
 > Product ID `58982` · Digistore24 productId `730548` · [HTML profile page](../../produkte/re-skin-reset-der-hautneustart-als-digitale-pdf-guide-58982.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $18.71 (Single payment) |
+| Price | $18.72 (Single payment) |
 | Affiliate commission | 40% |
 | Earnings/sale* | $7.48 |
 | Cart conversion* | — |
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist RE: SKIN RESET - Der Hautneustart als digitale Pdf Guide? — Typ: E-books, Anbieter: sinamir, gelistet seit 2026-09-07
-- Wie viel kostet es? — 18.705813000000003 USD
+- Wie viel kostet es? — 18.717524 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: RE: SKIN RESET - Der Hautneustart als digitale Pdf Guide Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/730548
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/730548/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=RE%3A%20SKIN%20RESET%20-%20Der%20Hautneustart%20als%20digitale%20Pdf%20Guide
 
 ## 4. Editorial notes

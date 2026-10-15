@@ -4,16 +4,16 @@ digistore24_product_id: 438659
 title: "NEU! Traffic Kurs verschenken und bis zu 180€ verdienen"
 vendor: "Magnodesign"
 product_type: "Member area and video courses"
-price: 74.52
+price: 74.57
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 18.67
+earnings_per_sale: 18.68
 cart_conversion_pct: 14
 cancel_rate_pct: 3.3
-categories: ["Computer & Internet","Email Marketing","Online Marketing & E-Business"]
+categories: ["Computer & Internet","Online Marketing & E-Business","Email Marketing"]
 listed_since: "2022-04-12"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://page.funnelcockpit.com/fhS42ys5D6es876vy?aff=adminstore#aff=adminstore"
 sales_page: "https://page.funnelcockpit.com/fhS42ys5D6es876vy"
@@ -22,22 +22,22 @@ language: "de"
 # NEU! Traffic Kurs verschenken und bis zu 180€ verdienen
 
 > Product ID `39972` · Digistore24 productId `438659` · [HTML profile page](../../produkte/neu-traffic-kurs-verschenken-und-bis-zu-180-verdienen-39972.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $74.52 (Single payment) |
+| Price | $74.57 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $18.67 |
+| Earnings/sale* | $18.68 |
 | Cart conversion* | 14% |
 | Cancel rate* | 3.3% |
 | Vendor | Magnodesign |
 | Listed since | 2022-04-12 |
 | Auto-accept affiliates | no (approval required) |
-| Categories | Computer & Internet, Email Marketing, Online Marketing & E-Business |
+| Categories | Computer & Internet, Online Marketing & E-Business, Email Marketing |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist NEU! Traffic Kurs verschenken und bis zu 180€ verdienen? — Typ: Member area and video courses, Anbieter: Magnodesign, gelistet seit 2022-04-12
-- Wie viel kostet es? — 74.52136500000002 USD
+- Wie viel kostet es? — 74.56802 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: NEU! Traffic Kurs verschenken und bis zu 180€ verdienen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/438659
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/438659/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=NEU!%20Traffic%20Kurs%20verschenken%20und%20bis%20zu%20180%E2%82%AC%20verdienen
 
 ## 4. Editorial notes

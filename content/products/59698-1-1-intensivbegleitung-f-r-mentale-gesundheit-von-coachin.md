@@ -4,16 +4,16 @@ digistore24_product_id: 731126
 title: "1:1-Intensivbegleitung für mentale Gesundheit – von Coachin"
 vendor: "SonjaHolzweiler"
 product_type: "Online coaching"
-price: 2629.88
+price: 2631.53
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 525.98
+earnings_per_sale: 526.31
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2026-09-25"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/redir/731126/adminstore"
 sales_page: "https://sonja-holzweiler.de/#preise"
@@ -22,16 +22,16 @@ language: "de"
 # 1:1-Intensivbegleitung für mentale Gesundheit – von Coachin
 
 > Product ID `59698` · Digistore24 productId `731126` · [HTML profile page](../../produkte/1-1-intensivbegleitung-f-r-mentale-gesundheit-von-coachin-59698.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $2629.88 (Single payment, Installment) |
+| Price | $2631.53 (Single payment, Installment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $525.98 |
+| Earnings/sale* | $526.31 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SonjaHolzweiler |
@@ -91,14 +91,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 1:1-Intensivbegleitung für mentale Gesundheit – von Coachin? — Typ: Online coaching, Anbieter: SonjaHolzweiler, gelistet seit 2026-09-25
-- Wie viel kostet es? — 2629.88301 USD
+- Wie viel kostet es? — 2631.52948 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 1:1-Intensivbegleitung für mentale Gesundheit – von Coachin Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/731126
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/731126/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=1%3A1-Intensivbegleitung%20f%C3%BCr%20mentale%20Gesundheit%20%E2%80%93%20von%20Coachin
 
 ## 4. Editorial notes

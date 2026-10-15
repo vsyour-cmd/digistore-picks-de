@@ -4,34 +4,34 @@ digistore24_product_id: 708060
 title: "AI Email Manager: Gmail Notion Automatisierung"
 vendor: "DeinKiService"
 product_type: "Downloads"
-price: 36.64
+price: 36.66
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 18.33
+earnings_per_sale: 18.34
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Marketing Services"]
 listed_since: "2026-07-03"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/57381/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/708060?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/708060"
 language: "de"
 ---
 # AI Email Manager: Gmail Notion Automatisierung
 
 > Product ID `57381` · Digistore24 productId `708060` · [HTML profile page](../../produkte/ai-email-manager-gmail-notion-automatisierung-57381.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $36.64 (Single payment) |
+| Price | $36.66 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $18.33 |
+| Earnings/sale* | $18.34 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DeinKiService |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/57381/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/708060?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/708060
 - Canonical redirect: https://www.digistore24.com/redir/708060/adminstore
 
@@ -91,14 +91,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist AI Email Manager: Gmail Notion Automatisierung? — Typ: Downloads, Anbieter: DeinKiService, gelistet seit 2026-07-03
-- Wie viel kostet es? — 36.64013700000001 USD
+- Wie viel kostet es? — 36.663076000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: AI Email Manager: Gmail Notion Automatisierung Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/708060
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/708060/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=AI%20Email%20Manager%3A%20Gmail%20Notion%20Automatisierung
 
 ## 4. Editorial notes

@@ -12,17 +12,17 @@ cart_conversion_pct: 28
 cancel_rate_pct: 2.33
 categories: ["Business & Investment","Computer & Internet","Online Marketing & E-Business"]
 listed_since: "2024-01-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/46891/adminstore/"
+promo_link: "https://michael-schlinder.com/KI-KursLab365?aff=adminstore#aff=adminstore"
 sales_page: "https://michael-schlinder.com/KI-KursLab365"
 language: "de"
 ---
 # KI-Kurs Architekt - Kurse mit 100% KI erstellen
 
 > Product ID `46891` · Digistore24 productId `535689` · [HTML profile page](../../produkte/ki-kurs-architekt-kurse-mit-100-ki-erstellen-46891.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/46891/adminstore/
+- **Promo link (affiliate):** https://michael-schlinder.com/KI-KursLab365?aff=adminstore#aff=adminstore
 - Sales page: https://michael-schlinder.com/KI-KursLab365
 - Vendor affiliate support: https://affiliforge.net/AffiliForge-Partnerportal
 - Canonical redirect: https://www.digistore24.com/redir/535689/adminstore
@@ -73,14 +73,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI-Kurs Architekt - Kurse mit 100% KI erstellen? — Typ: Member area and video courses, Anbieter: MSchlinder, gelistet seit 2024-01-23
-- Wie viel kostet es? — 0.268344 USD
+- Wie viel kostet es? — 0.268512 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: KI-Kurs Architekt - Kurse mit 100% KI erstellen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/535689
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/535689/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=KI-Kurs%20Architekt%20-%20Kurse%20mit%20100%25%20KI%20erstellen
 
 ## 4. Editorial notes

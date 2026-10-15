@@ -4,34 +4,34 @@ digistore24_product_id: 44569
 title: "Glück ist erlernbar - Video-Workshop"
 vendor: "Quanten-Resonanz"
 product_type: "Member area and video courses"
-price: 46.04
+price: 46.07
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 23.02
+earnings_per_sale: 23.04
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2015-03-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/10651/adminstore/"
+promo_link: "https://glueck-ist-erlernbar.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://glueck-ist-erlernbar.de/"
 language: "de"
 ---
 # Glück ist erlernbar - Video-Workshop
 
 > Product ID `10651` · Digistore24 productId `44569` · [HTML profile page](../../produkte/gl-ck-ist-erlernbar-video-workshop-10651.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $46.04 (Single payment) |
+| Price | $46.07 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $23.02 |
+| Earnings/sale* | $23.04 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Quanten-Resonanz |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/10651/adminstore/
+- **Promo link (affiliate):** https://glueck-ist-erlernbar.de/?aff=adminstore#aff=adminstore
 - Sales page: https://glueck-ist-erlernbar.de/
 - Vendor affiliate support: http://quantenresonanz.de/partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/44569/adminstore
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Glück ist erlernbar - Video-Workshop? — Typ: Member area and video courses, Anbieter: Quanten-Resonanz, gelistet seit 2015-03-08
-- Wie viel kostet es? — 46.043358000000005 USD
+- Wie viel kostet es? — 46.072184 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Glück ist erlernbar - Video-Workshop Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/44569
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/44569/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Gl%C3%BCck%20ist%20erlernbar%20-%20Video-Workshop
 
 ## 4. Editorial notes

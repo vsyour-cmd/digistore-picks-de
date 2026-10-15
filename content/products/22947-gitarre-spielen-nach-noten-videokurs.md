@@ -4,34 +4,34 @@ digistore24_product_id: 203735
 title: "Gitarre spielen nach Noten (Videokurs)"
 vendor: "musiklehrer"
 product_type: "Member area and video courses"
-price: 101.59
+price: 101.65
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 26.45
+earnings_per_sale: 26.47
 cart_conversion_pct: 17
 cancel_rate_pct: 2.66
 categories: ["Dancing & Music"]
 listed_since: "2018-02-25"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/22947/adminstore/"
+promo_link: "http://www.gitarrenvideounterricht.de/kurse/gitarre-spielen-nach-noten/?aff=adminstore#aff=adminstore"
 sales_page: "http://www.gitarrenvideounterricht.de/kurse/gitarre-spielen-nach-noten/"
 language: "de"
 ---
 # Gitarre spielen nach Noten (Videokurs)
 
 > Product ID `22947` · Digistore24 productId `203735` · [HTML profile page](../../produkte/gitarre-spielen-nach-noten-videokurs-22947.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $101.59 (Single payment) |
+| Price | $101.65 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $26.45 |
+| Earnings/sale* | $26.47 |
 | Cart conversion* | 17% |
 | Cancel rate* | 2.66% |
 | Vendor | musiklehrer |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/22947/adminstore/
+- **Promo link (affiliate):** http://www.gitarrenvideounterricht.de/kurse/gitarre-spielen-nach-noten/?aff=adminstore#aff=adminstore
 - Sales page: http://www.gitarrenvideounterricht.de/kurse/gitarre-spielen-nach-noten/
 - Vendor affiliate support: http://www.gitarrenvideounterricht.de/partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/203735/adminstore
@@ -84,14 +84,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Gitarre spielen nach Noten (Videokurs)? — Typ: Member area and video courses, Anbieter: musiklehrer, gelistet seit 2018-02-25
-- Wie viel kostet es? — 101.59056600000001 USD
+- Wie viel kostet es? — 101.654168 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Gitarre spielen nach Noten (Videokurs) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/203735
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/203735/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Gitarre%20spielen%20nach%20Noten%20(Videokurs)
 
 ## 4. Editorial notes

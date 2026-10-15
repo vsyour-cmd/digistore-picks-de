@@ -4,40 +4,40 @@ digistore24_product_id: 652421
 title: "Zertifizierter Katzenverhaltensberater / Katzencoach"
 vendor: "aCATemy-Katzenschule-Petra-Ott"
 product_type: "Member area and video courses"
-price: 1315.41
+price: 1316.23
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 263.08
+earnings_per_sale: 263.24
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Animals & Pets","Education","Profession & Job"]
+categories: ["Animals & Pets","Profession & Job","Education"]
 listed_since: "2026-08-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/58709/adminstore/"
+promo_link: "https://acatemy-katzen.app.mentortools.com/acatemy-fernlehrgang-katzencoach-katzenwissen?aff=adminstore#aff=adminstore"
 sales_page: "https://acatemy-katzen.app.mentortools.com/acatemy-fernlehrgang-katzencoach-katzenwissen"
 language: "de"
 ---
 # Zertifizierter Katzenverhaltensberater / Katzencoach
 
 > Product ID `58709` · Digistore24 productId `652421` · [HTML profile page](../../produkte/zertifizierter-katzenverhaltensberater-katzencoach-58709.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1315.41 (Single payment, Installment) |
+| Price | $1316.23 (Single payment, Installment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $263.08 |
+| Earnings/sale* | $263.24 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | aCATemy-Katzenschule-Petra-Ott |
 | Listed since | 2026-08-27 |
 | Auto-accept affiliates | yes |
-| Categories | Animals & Pets, Education, Profession & Job |
+| Categories | Animals & Pets, Profession & Job, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58709/adminstore/
+- **Promo link (affiliate):** https://acatemy-katzen.app.mentortools.com/acatemy-fernlehrgang-katzencoach-katzenwissen?aff=adminstore#aff=adminstore
 - Sales page: https://acatemy-katzen.app.mentortools.com/acatemy-fernlehrgang-katzencoach-katzenwissen
 - Vendor affiliate support: https://acatemy-katzen.app.mentortools.com/acatemy-affiliate-support
 - Canonical redirect: https://www.digistore24.com/redir/652421/adminstore
@@ -87,14 +87,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Zertifizierter Katzenverhaltensberater / Katzencoach? — Typ: Member area and video courses, Anbieter: aCATemy-Katzenschule-Petra-Ott, gelistet seit 2026-08-27
-- Wie viel kostet es? — 1315.4111070000001 USD
+- Wie viel kostet es? — 1316.2346360000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Zertifizierter Katzenverhaltensberater / Katzencoach Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/652421
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/652421/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Zertifizierter%20Katzenverhaltensberater%20%2F%20Katzencoach
 
 ## 4. Editorial notes

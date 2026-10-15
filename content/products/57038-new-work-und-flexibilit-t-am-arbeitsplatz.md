@@ -4,16 +4,16 @@ digistore24_product_id: 701161
 title: "New Work und Flexibilität am Arbeitsplatz"
 vendor: "SPBS-Business"
 product_type: "Downloads"
-price: 46.88
+price: 46.91
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 11.72
+earnings_per_sale: 11.73
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Profession & Job","Services"]
+categories: ["Profession & Job","Education","Services"]
 listed_since: "2026-06-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/701161?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/701161"
@@ -22,22 +22,22 @@ language: "de"
 # New Work und Flexibilität am Arbeitsplatz
 
 > Product ID `57038` · Digistore24 productId `701161` · [HTML profile page](../../produkte/new-work-und-flexibilit-t-am-arbeitsplatz-57038.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $46.88 (Single payment) |
+| Price | $46.91 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $11.72 |
+| Earnings/sale* | $11.73 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SPBS-Business |
 | Listed since | 2026-06-17 |
 | Auto-accept affiliates | no (approval required) |
-| Categories | Education, Profession & Job, Services |
+| Categories | Profession & Job, Education, Services |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -74,14 +74,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist New Work und Flexibilität am Arbeitsplatz? — Typ: Downloads, Anbieter: SPBS-Business, gelistet seit 2026-06-17
-- Wie viel kostet es? — 46.881933000000004 USD
+- Wie viel kostet es? — 46.911284 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: New Work und Flexibilität am Arbeitsplatz Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/701161
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/701161/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=New%20Work%20und%20Flexibilit%C3%A4t%20am%20Arbeitsplatz
 
 ## 4. Editorial notes

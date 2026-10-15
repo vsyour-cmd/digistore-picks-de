@@ -4,34 +4,34 @@ digistore24_product_id: 358906
 title: "Globales Erwachen der Menschheit"
 vendor: "RaGarve"
 product_type: "Member area and video courses"
-price: 308.66
+price: 308.86
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 63.37
+earnings_per_sale: 63.41
 cart_conversion_pct: 13
 cancel_rate_pct: 6.29
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2020-11-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/34809/adminstore/"
+promo_link: "https://raikgarve.de/meine-weckruf-serie/das-globale-erwachen-der-menschheit/?aff=adminstore#aff=adminstore"
 sales_page: "https://raikgarve.de/meine-weckruf-serie/das-globale-erwachen-der-menschheit/"
 language: "de"
 ---
 # Globales Erwachen der Menschheit
 
 > Product ID `34809` · Digistore24 productId `358906` · [HTML profile page](../../produkte/globales-erwachen-der-menschheit-34809.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $308.66 (Single payment) |
+| Price | $308.86 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $63.37 |
+| Earnings/sale* | $63.41 |
 | Cart conversion* | 13% |
 | Cancel rate* | 6.29% |
 | Vendor | RaGarve |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/34809/adminstore/
+- **Promo link (affiliate):** https://raikgarve.de/meine-weckruf-serie/das-globale-erwachen-der-menschheit/?aff=adminstore#aff=adminstore
 - Sales page: https://raikgarve.de/meine-weckruf-serie/das-globale-erwachen-der-menschheit/
 - Canonical redirect: https://www.digistore24.com/redir/358906/adminstore
 
@@ -85,14 +85,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Globales Erwachen der Menschheit? — Typ: Member area and video courses, Anbieter: RaGarve, gelistet seit 2020-11-22
-- Wie viel kostet es? — 308.662686 USD
+- Wie viel kostet es? — 308.855928 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Globales Erwachen der Menschheit Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/358906
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/358906/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Globales%20Erwachen%20der%20Menschheit
 
 ## 4. Editorial notes

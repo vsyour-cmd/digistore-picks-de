@@ -4,7 +4,7 @@ digistore24_product_id: 238872
 title: "Unkraut im Rasen erfolgreich entfernen"
 vendor: "RasenExperte"
 product_type: "E-books"
-price: 13.48
+price: 13.49
 currency: "USD"
 affiliate_commission_pct: 30
 earnings_per_sale: 4.05
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Home & Garden"]
 listed_since: "2018-09-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.rasen-experte.de/ebook-einfach-unkrautfrei-unkraut-im-rasen-erfolgreich-entfernen/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.rasen-experte.de/ebook-einfach-unkrautfrei-unkraut-im-rasen-erfolgreich-entfernen/"
@@ -22,14 +22,14 @@ language: "de"
 # Unkraut im Rasen erfolgreich entfernen
 
 > Product ID `28036` · Digistore24 productId `238872` · [HTML profile page](../../produkte/unkraut-im-rasen-erfolgreich-entfernen-28036.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $13.48 (Single payment) |
+| Price | $13.49 (Single payment) |
 | Affiliate commission | 30% |
 | Earnings/sale* | $4.05 |
 | Cart conversion* | — |
@@ -76,14 +76,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Unkraut im Rasen erfolgreich entfernen? — Typ: E-books, Anbieter: RasenExperte, gelistet seit 2018-09-05
-- Wie viel kostet es? — 13.484286 USD
+- Wie viel kostet es? — 13.492728000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Unkraut im Rasen erfolgreich entfernen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/238872
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/238872/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Unkraut%20im%20Rasen%20erfolgreich%20entfernen
 
 ## 4. Editorial notes

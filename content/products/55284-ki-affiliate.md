@@ -12,8 +12,8 @@ cart_conversion_pct: 60
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2026-01-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://page.funnelcockpit.com/3ycziiHNzJCSmaKpN?aff=adminstore#aff=adminstore"
 sales_page: "https://page.funnelcockpit.com/3ycziiHNzJCSmaKpN"
@@ -22,7 +22,7 @@ language: "de"
 # KI Affiliate
 
 > Product ID `55284` · Digistore24 productId `659997` · [HTML profile page](../../produkte/ki-affiliate-55284.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -59,14 +59,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI Affiliate? — Typ: E-books, Anbieter: werni1, gelistet seit 2026-01-08
-- Wie viel kostet es? — 0.07826700000000002 USD
+- Wie viel kostet es? — 0.07831600000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: KI Affiliate Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/659997
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/659997/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=KI%20Affiliate
 
 ## 4. Editorial notes

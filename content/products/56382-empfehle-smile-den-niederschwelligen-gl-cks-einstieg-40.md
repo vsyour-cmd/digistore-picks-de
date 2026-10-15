@@ -4,16 +4,16 @@ digistore24_product_id: 663444
 title: "Empfehle SMILE – den niederschwelligen Glücks-Einstieg 40%"
 vendor: "Magierschule"
 product_type: "Member area and video courses"
-price: 23.76
+price: 23.77
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 13.17
+earnings_per_sale: 13.18
 cart_conversion_pct: 23
 cancel_rate_pct: 0
-categories: ["Personal Development","Spiri­tua­lity & Esotericism","Personal Development"]
+categories: ["Personal Development","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-01-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
 promo_link: "https://magierschule.de/smile-designe-dein-lebensglueck?aff=adminstore#aff=adminstore"
 sales_page: "https://magierschule.de/smile-designe-dein-lebensglueck"
@@ -22,22 +22,22 @@ language: "de"
 # Empfehle SMILE – den niederschwelligen Glücks-Einstieg 40%
 
 > Product ID `56382` · Digistore24 productId `663444` · [HTML profile page](../../produkte/empfehle-smile-den-niederschwelligen-gl-cks-einstieg-40-56382.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $23.76 (Single payment) |
+| Price | $23.77 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $13.17 |
+| Earnings/sale* | $13.18 |
 | Cart conversion* | 23% |
 | Cancel rate* | 0% |
 | Vendor | Magierschule |
 | Listed since | 2026-01-22 |
 | Auto-accept affiliates | yes |
-| Categories | Personal Development, Spiri­tua­lity & Esotericism, Personal Development |
+| Categories | Personal Development, Personal Development, Spiri­tua­lity & Esotericism |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Empfehle SMILE – den niederschwelligen Glücks-Einstieg 40%? — Typ: Member area and video courses, Anbieter: Magierschule, gelistet seit 2026-01-22
-- Wie viel kostet es? — 23.759625000000003 USD
+- Wie viel kostet es? — 23.7745 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Empfehle SMILE – den niederschwelligen Glücks-Einstieg 40% Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/663444
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/663444/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Empfehle%20SMILE%20%E2%80%93%20den%20niederschwelligen%20Gl%C3%BCcks-Einstieg%2040%25
 
 ## 4. Editorial notes

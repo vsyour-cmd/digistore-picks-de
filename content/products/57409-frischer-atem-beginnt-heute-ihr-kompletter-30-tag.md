@@ -4,40 +4,40 @@ digistore24_product_id: 708518
 title: "Frischer Atem beginnt heute – Ihr kompletter 30-Tag"
 vendor: "manuelcosta"
 product_type: "Downloads"
-price: 46.88
+price: 46.91
 currency: "USD"
 affiliate_commission_pct: 52
-earnings_per_sale: 24.37
+earnings_per_sale: 24.39
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Health & Fitness","Skin Care"]
+categories: ["Health & Fitness","Education","Skin Care"]
 listed_since: "2026-07-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/57409/adminstore/"
+promo_link: "https://freshbreath-24-de.netlify.app/?aff=adminstore#aff=adminstore"
 sales_page: "https://freshbreath-24-de.netlify.app/"
 language: "de"
 ---
 # Frischer Atem beginnt heute – Ihr kompletter 30-Tag
 
 > Product ID `57409` · Digistore24 productId `708518` · [HTML profile page](../../produkte/frischer-atem-beginnt-heute-ihr-kompletter-30-tag-57409.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $46.88 (Single payment) |
+| Price | $46.91 (Single payment) |
 | Affiliate commission | 52% |
-| Earnings/sale* | $24.37 |
+| Earnings/sale* | $24.39 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | manuelcosta |
 | Listed since | 2026-07-05 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Health & Fitness, Skin Care |
+| Categories | Health & Fitness, Education, Skin Care |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/57409/adminstore/
+- **Promo link (affiliate):** https://freshbreath-24-de.netlify.app/?aff=adminstore#aff=adminstore
 - Sales page: https://freshbreath-24-de.netlify.app/
 - Canonical redirect: https://www.digistore24.com/redir/708518/adminstore
 
@@ -86,14 +86,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Frischer Atem beginnt heute – Ihr kompletter 30-Tag? — Typ: Downloads, Anbieter: manuelcosta, gelistet seit 2026-07-05
-- Wie viel kostet es? — 46.881933000000004 USD
+- Wie viel kostet es? — 46.911284 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Frischer Atem beginnt heute – Ihr kompletter 30-Tag Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/708518
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/708518/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Frischer%20Atem%20beginnt%20heute%20%E2%80%93%20Ihr%20kompletter%2030-Tag
 
 ## 4. Editorial notes

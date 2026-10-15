@@ -4,34 +4,34 @@ digistore24_product_id: 580819
 title: "NextGenFusion - Starter"
 vendor: "NextGenFusion"
 product_type: "Member area and video courses"
-price: 103.36
+price: 103.42
 currency: "USD"
 affiliate_commission_pct: 45
-earnings_per_sale: 46.51
+earnings_per_sale: 46.54
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Social Media","Marketing Services"]
 listed_since: "2024-11-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/50501/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/580819?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/580819"
 language: "de"
 ---
 # NextGenFusion - Starter
 
 > Product ID `50501` · Digistore24 productId `580819` · [HTML profile page](../../produkte/nextgenfusion-starter-50501.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $103.36 (Single payment, Installment) |
+| Price | $103.42 (Single payment, Installment) |
 | Affiliate commission | 45% |
-| Earnings/sale* | $46.51 |
+| Earnings/sale* | $46.54 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | NextGenFusion |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/50501/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/580819?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/580819
 - Canonical redirect: https://www.digistore24.com/redir/580819/adminstore
 
@@ -82,14 +82,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist NextGenFusion - Starter? — Typ: Member area and video courses, Anbieter: NextGenFusion, gelistet seit 2024-11-15
-- Wie viel kostet es? — 103.35716400000001 USD
+- Wie viel kostet es? — 103.421872 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: NextGenFusion - Starter Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/580819
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/580819/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=NextGenFusion%20-%20Starter
 
 ## 4. Editorial notes

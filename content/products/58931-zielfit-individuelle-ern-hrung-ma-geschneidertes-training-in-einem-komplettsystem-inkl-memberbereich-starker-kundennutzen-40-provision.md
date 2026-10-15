@@ -4,40 +4,40 @@ digistore24_product_id: 727105
 title: "Zielfit - Individuelle Ernährung & maßgeschneidertes Training in einem Komplettsystem inkl. Memberbereich | starker Kundennutzen - 40 % Provision"
 vendor: "Zielfit"
 product_type: "Remote service provided electronically"
-price: 168.18
+price: 168.29
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 67.28
+earnings_per_sale: 67.32
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Food & Drink","Health & Fitness","Sport"]
+categories: ["Health & Fitness","Sport","Food & Drink"]
 listed_since: "2026-09-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/58931/adminstore/"
+promo_link: "https://zielfit-pt.com/partner/?aff=adminstore#aff=adminstore"
 sales_page: "https://zielfit-pt.com/partner/"
 language: "de"
 ---
 # Zielfit - Individuelle Ernährung & maßgeschneidertes Training in einem Komplettsystem inkl. Memberbereich | starker Kundennutzen - 40 % Provision
 
 > Product ID `58931` · Digistore24 productId `727105` · [HTML profile page](../../produkte/zielfit-individuelle-ern-hrung-ma-geschneidertes-training-in-einem-komplettsystem-inkl-memberbereich-starker-kundennutzen-40-provision-58931.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $168.18 (Single payment) |
+| Price | $168.29 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $67.28 |
+| Earnings/sale* | $67.32 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Zielfit |
 | Listed since | 2026-09-05 |
 | Auto-accept affiliates | yes |
-| Categories | Food & Drink, Health & Fitness, Sport |
+| Categories | Health & Fitness, Sport, Food & Drink |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58931/adminstore/
+- **Promo link (affiliate):** https://zielfit-pt.com/partner/?aff=adminstore#aff=adminstore
 - Sales page: https://zielfit-pt.com/partner/
 - Vendor affiliate support: https://zielfit-pt.com/affiliate-werbemittel/
 - Canonical redirect: https://www.digistore24.com/redir/727105/adminstore
@@ -102,14 +102,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Zielfit - Individuelle Ernährung & maßgeschneidertes Training in einem Komplettsystem inkl. Memberbereich | starker Kundennutzen - 40 % Provision? — Typ: Remote service provided electronically, Anbieter: Zielfit, gelistet seit 2026-09-05
-- Wie viel kostet es? — 168.184602 USD
+- Wie viel kostet es? — 168.289896 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Zielfit - Individuelle Ernährung & maßgeschneidertes Training in einem Komplettsystem inkl. Memberbereich | starker Kundennutzen - 40 % Provision Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/727105
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/727105/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Zielfit%20-%20Individuelle%20Ern%C3%A4hrung%20%26%20ma%C3%9Fgeschneidertes%20Training%20in%20einem%20Komplettsystem%20inkl.%20Memberbereich%20%7C%20starker%20Kundennutzen%20-%2040%20%25%20Provision
 
 ## 4. Editorial notes

@@ -12,17 +12,17 @@ cart_conversion_pct: 31
 cancel_rate_pct: 0.22
 categories: ["Finances"]
 listed_since: "2022-06-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/40987/adminstore/"
+promo_link: "https://staatenlos.ch/firma-gruenden/investieren-fuer-einsteiger/?aff=adminstore#aff=adminstore"
 sales_page: "https://staatenlos.ch/firma-gruenden/investieren-fuer-einsteiger/"
 language: "de"
 ---
 # Booklet: Investieren für Einsteiger
 
 > Product ID `40987` · Digistore24 productId `446147` · [HTML profile page](../../produkte/booklet-investieren-f-r-einsteiger-40987.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/40987/adminstore/
+- **Promo link (affiliate):** https://staatenlos.ch/firma-gruenden/investieren-fuer-einsteiger/?aff=adminstore#aff=adminstore
 - Sales page: https://staatenlos.ch/firma-gruenden/investieren-fuer-einsteiger/
 - Vendor affiliate support: https://staatenlos.ch/staatenlos/affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/446147/adminstore
@@ -80,14 +80,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Booklet: Investieren für Einsteiger? — Typ: E-books, Anbieter: Staatenlos, gelistet seit 2022-06-09
-- Wie viel kostet es? — 7.480089000000001 USD
+- Wie viel kostet es? — 7.484772 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Booklet: Investieren für Einsteiger Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/446147
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/446147/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Booklet%3A%20Investieren%20f%C3%BCr%20Einsteiger
 
 ## 4. Editorial notes

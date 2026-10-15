@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet"]
 listed_since: "2022-05-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/40477/adminstore/"
+promo_link: "https://www.go4smart.de/e-book-pimp-your-fire-hd-tablet?aff=adminstore#aff=adminstore"
 sales_page: "https://www.go4smart.de/e-book-pimp-your-fire-hd-tablet"
 language: "de"
 ---
 # E-Book: Smarthome Steuerung - Pimp your Fire Tablet
 
 > Product ID `40477` · Digistore24 productId `441716` · [HTML profile page](../../produkte/e-book-smarthome-steuerung-pimp-your-fire-tablet-40477.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/40477/adminstore/
+- **Promo link (affiliate):** https://www.go4smart.de/e-book-pimp-your-fire-hd-tablet?aff=adminstore#aff=adminstore
 - Sales page: https://www.go4smart.de/e-book-pimp-your-fire-hd-tablet
 - Canonical redirect: https://www.digistore24.com/redir/441716/adminstore
 
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist E-Book: Smarthome Steuerung - Pimp your Fire Tablet? — Typ: E-books, Anbieter: neo12, gelistet seit 2022-05-05
-- Wie viel kostet es? — 5.210346 USD
+- Wie viel kostet es? — 5.213608 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: E-Book: Smarthome Steuerung - Pimp your Fire Tablet Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/441716
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/441716/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=E-Book%3A%20Smarthome%20Steuerung%20-%20Pimp%20your%20Fire%20Tablet
 
 ## 4. Editorial notes

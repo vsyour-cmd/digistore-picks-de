@@ -4,34 +4,34 @@ digistore24_product_id: 101703
 title: "Passiver Geldfluss Academy"
 vendor: "Hegder"
 product_type: "Member area and video courses"
-price: 32.88
+price: 32.9
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 9.86
+earnings_per_sale: 9.87
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2016-10-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "http://thomasschlechter.de/produkte/das-drehbuch-meines-lebens/#aff=adminstore"
+promo_link: "https://passivergeldfluss.academy?aff=adminstore#aff=adminstore"
 sales_page: "https://passivergeldfluss.academy"
 language: "de"
 ---
 # Passiver Geldfluss Academy
 
 > Product ID `14313` · Digistore24 productId `101703` · [HTML profile page](../../produkte/passiver-geldfluss-academy-14313.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $32.88 (Subscription) |
+| Price | $32.90 (Subscription) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $9.86 |
+| Earnings/sale* | $9.87 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Hegder |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://thomasschlechter.de/produkte/das-drehbuch-meines-lebens/#aff=adminstore
+- **Promo link (affiliate):** https://passivergeldfluss.academy?aff=adminstore#aff=adminstore
 - Sales page: https://passivergeldfluss.academy
 - Vendor affiliate support: http://passivergeldfluss.academy/empfehlung
 - Canonical redirect: https://www.digistore24.com/redir/101703/adminstore
@@ -59,14 +59,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Passiver Geldfluss Academy? — Typ: Member area and video courses, Anbieter: Hegder, gelistet seit 2016-10-27
-- Wie viel kostet es? — 32.883321 USD
+- Wie viel kostet es? — 32.903908 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Passiver Geldfluss Academy Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/101703
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/101703/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Passiver%20Geldfluss%20Academy
 
 ## 4. Editorial notes

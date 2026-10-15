@@ -12,8 +12,8 @@ cart_conversion_pct: 18
 cancel_rate_pct: 2.71
 categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2025-07-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://affiliforge.net/Motivation-Mindset-Onlinebusiness?aff=adminstore#aff=adminstore"
 sales_page: "https://affiliforge.net/Motivation-Mindset-Onlinebusiness"
@@ -22,7 +22,7 @@ language: "de"
 # Mindset + Motivation für ein erfolgreiches Online-Business
 
 > Product ID `53324` · Digistore24 productId `626639` · [HTML profile page](../../produkte/mindset-motivation-f-r-ein-erfolgreiches-online-business-53324.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -77,14 +77,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mindset + Motivation für ein erfolgreiches Online-Business? — Typ: Member area and video courses, Anbieter: AffiliForge, gelistet seit 2025-07-29
-- Wie viel kostet es? — 2.448639 USD
+- Wie viel kostet es? — 2.450172 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Mindset + Motivation für ein erfolgreiches Online-Business Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/626639
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/626639/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Mindset%20%2B%20Motivation%20f%C3%BCr%20ein%20erfolgreiches%20Online-Business
 
 ## 4. Editorial notes

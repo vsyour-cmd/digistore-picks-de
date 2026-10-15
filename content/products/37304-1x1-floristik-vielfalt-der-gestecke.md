@@ -4,16 +4,16 @@ digistore24_product_id: 382599
 title: "1x1 Floristik - Vielfalt der Gestecke"
 vendor: "Elobana"
 product_type: "Member area and video courses"
-price: 371.4
+price: 371.63
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 45.06
+earnings_per_sale: 45.09
 cart_conversion_pct: 9
 cancel_rate_pct: 0.95
 categories: ["Education"]
 listed_since: "2021-04-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://elobana.de/online-kurse/onlinekurs-1x1-floristik-vielfalt-der-gestecke/?aff=adminstore#aff=adminstore"
 sales_page: "https://elobana.de/online-kurse/onlinekurs-1x1-floristik-vielfalt-der-gestecke/"
@@ -22,16 +22,16 @@ language: "de"
 # 1x1 Floristik - Vielfalt der Gestecke
 
 > Product ID `37304` · Digistore24 productId `382599` · [HTML profile page](../../produkte/1x1-floristik-vielfalt-der-gestecke-37304.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $371.40 (Single payment, Installment) |
+| Price | $371.63 (Single payment, Installment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $45.06 |
+| Earnings/sale* | $45.09 |
 | Cart conversion* | 9% |
 | Cancel rate* | 0.95% |
 | Vendor | Elobana |
@@ -91,14 +91,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 1x1 Floristik - Vielfalt der Gestecke? — Typ: Member area and video courses, Anbieter: Elobana, gelistet seit 2021-04-05
-- Wie viel kostet es? — 371.39927700000004 USD
+- Wie viel kostet es? — 371.631796 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 1x1 Floristik - Vielfalt der Gestecke Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/382599
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/382599/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=1x1%20Floristik%20-%20Vielfalt%20der%20Gestecke
 
 ## 4. Editorial notes

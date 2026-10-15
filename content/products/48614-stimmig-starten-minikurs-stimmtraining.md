@@ -7,13 +7,13 @@ product_type: "Downloads"
 price: 7.83
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 3.91
+earnings_per_sale: 3.92
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2024-07-10"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.stimmfluencer.de/stimmig-starten-minikurs?aff=adminstore#aff=adminstore"
 sales_page: "https://www.stimmfluencer.de/stimmig-starten-minikurs"
@@ -22,7 +22,7 @@ language: "de"
 # Stimmig starten: Minikurs Stimmtraining
 
 > Product ID `48614` · Digistore24 productId `560561` · [HTML profile page](../../produkte/stimmig-starten-minikurs-stimmtraining-48614.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,7 @@ language: "de"
 | Product type | Downloads |
 | Price | $7.83 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $3.91 |
+| Earnings/sale* | $3.92 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Stimmfluencer |
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Stimmig starten: Minikurs Stimmtraining? — Typ: Downloads, Anbieter: Stimmfluencer, gelistet seit 2024-07-10
-- Wie viel kostet es? — 7.826700000000001 USD
+- Wie viel kostet es? — 7.8316 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Stimmig starten: Minikurs Stimmtraining Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/560561
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/560561/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Stimmig%20starten%3A%20Minikurs%20Stimmtraining
 
 ## 4. Editorial notes

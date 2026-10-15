@@ -4,16 +4,16 @@ digistore24_product_id: 655095
 title: "Swipermoney – Einfacher Digital-Reselling Kurs | 70% Affilia"
 vendor: "IGCLOSE"
 product_type: "Downloads"
-price: 31.94
+price: 31.96
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 22.36
+earnings_per_sale: 22.38
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Education"]
 listed_since: "2025-12-12"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/655095?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/655095"
@@ -22,16 +22,16 @@ language: "de"
 # Swipermoney – Einfacher Digital-Reselling Kurs | 70% Affilia
 
 > Product ID `55082` · Digistore24 productId `655095` · [HTML profile page](../../produkte/swipermoney-einfacher-digital-reselling-kurs-70-affilia-55082.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $31.94 (Single payment) |
+| Price | $31.96 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $22.36 |
+| Earnings/sale* | $22.38 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | IGCLOSE |
@@ -85,14 +85,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Swipermoney – Einfacher Digital-Reselling Kurs | 70% Affilia? — Typ: Downloads, Anbieter: IGCLOSE, gelistet seit 2025-12-12
-- Wie viel kostet es? — 31.944117000000002 USD
+- Wie viel kostet es? — 31.964116 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Swipermoney – Einfacher Digital-Reselling Kurs | 70% Affilia Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/655095
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/655095/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Swipermoney%20%E2%80%93%20Einfacher%20Digital-Reselling%20Kurs%20%7C%2070%25%20Affilia
 
 ## 4. Editorial notes

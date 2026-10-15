@@ -4,16 +4,16 @@ digistore24_product_id: 676422
 title: "Linkfuse Partnerprogramm"
 vendor: "Hermas"
 product_type: "Software"
-price: 466.97
+price: 467.27
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 163.44
+earnings_per_sale: 163.55
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Online Marketing & E-Business","Software"]
+categories: ["Software","Online Marketing & E-Business"]
 listed_since: "2026-03-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://linkfuse.de?aff=adminstore#aff=adminstore"
 sales_page: "https://linkfuse.de"
@@ -22,22 +22,22 @@ language: "de"
 # Linkfuse Partnerprogramm
 
 > Product ID `56142` · Digistore24 productId `676422` · [HTML profile page](../../produkte/linkfuse-partnerprogramm-56142.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $466.97 (Single payment) |
+| Price | $467.27 (Single payment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $163.44 |
+| Earnings/sale* | $163.55 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Hermas |
 | Listed since | 2026-03-15 |
 | Auto-accept affiliates | yes |
-| Categories | Online Marketing & E-Business, Software |
+| Categories | Software, Online Marketing & E-Business |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -89,14 +89,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Linkfuse Partnerprogramm? — Typ: Software, Anbieter: Hermas, gelistet seit 2026-03-15
-- Wie viel kostet es? — 466.974465 USD
+- Wie viel kostet es? — 467.26682 USD
 - Garantie? — 14
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Linkfuse Partnerprogramm Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/676422
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/676422/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Linkfuse%20Partnerprogramm
 
 ## 4. Editorial notes

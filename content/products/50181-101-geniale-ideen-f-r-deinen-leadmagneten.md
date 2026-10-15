@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2024-09-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/50181/adminstore/"
+promo_link: "https://www.ilias-marketing.de/101-gifdl/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.ilias-marketing.de/101-gifdl/"
 language: "de"
 ---
 # 101 geniale Ideen für deinen Leadmagneten
 
 > Product ID `50181` · Digistore24 productId `571736` · [HTML profile page](../../produkte/101-geniale-ideen-f-r-deinen-leadmagneten-50181.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/50181/adminstore/
+- **Promo link (affiliate):** https://www.ilias-marketing.de/101-gifdl/?aff=adminstore#aff=adminstore
 - Sales page: https://www.ilias-marketing.de/101-gifdl/
 - Vendor affiliate support: https://www.ilias-marketing.de/partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/571736/adminstore
@@ -88,7 +88,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 101 geniale Ideen für deinen Leadmagneten Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/571736
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/571736/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=101%20geniale%20Ideen%20f%C3%BCr%20deinen%20Leadmagneten
 
 ## 4. Editorial notes

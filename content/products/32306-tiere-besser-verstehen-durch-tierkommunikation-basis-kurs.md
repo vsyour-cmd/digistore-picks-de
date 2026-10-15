@@ -4,16 +4,16 @@ digistore24_product_id: 319374
 title: "Tiere besser verstehen durch Tierkommunikation Basis Kurs"
 vendor: "Andrea1A"
 product_type: "Member area and video courses"
-price: 441.65
+price: 441.93
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 110.41
+earnings_per_sale: 110.48
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2020-04-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://tierakademie.andrea-schaedel.de/lp/einstieg-in-die-tierkommunikation-2/?aff=adminstore#aff=adminstore"
 sales_page: "https://tierakademie.andrea-schaedel.de/lp/einstieg-in-die-tierkommunikation-2/"
@@ -22,16 +22,16 @@ language: "de"
 # Tiere besser verstehen durch Tierkommunikation Basis Kurs
 
 > Product ID `32306` · Digistore24 productId `319374` · [HTML profile page](../../produkte/tiere-besser-verstehen-durch-tierkommunikation-basis-kurs-32306.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $441.65 (Single payment, Installment) |
+| Price | $441.93 (Single payment, Installment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $110.41 |
+| Earnings/sale* | $110.48 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Andrea1A |
@@ -99,14 +99,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Tiere besser verstehen durch Tierkommunikation Basis Kurs? — Typ: Member area and video courses, Anbieter: Andrea1A, gelistet seit 2020-04-08
-- Wie viel kostet es? — 441.64950000000005 USD
+- Wie viel kostet es? — 441.926 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Tiere besser verstehen durch Tierkommunikation Basis Kurs Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/319374
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/319374/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Tiere%20besser%20verstehen%20durch%20Tierkommunikation%20Basis%20Kurs
 
 ## 4. Editorial notes

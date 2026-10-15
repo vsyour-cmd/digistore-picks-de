@@ -4,16 +4,16 @@ digistore24_product_id: 513325
 title: "Low Content Revolution - Geld verdienen mit Amazon KDP"
 vendor: "nomadpublishing"
 product_type: "Member area and video courses"
-price: 1198.82
+price: 1199.57
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 251.84
+earnings_per_sale: 252
 cart_conversion_pct: 8
 cancel_rate_pct: 10.93
 categories: ["Business & Investment","Online Marketing & E-Business"]
 listed_since: "2023-08-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://lowcontent.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://lowcontent.de/"
@@ -22,16 +22,16 @@ language: "de"
 # Low Content Revolution - Geld verdienen mit Amazon KDP
 
 > Product ID `45710` · Digistore24 productId `513325` · [HTML profile page](../../produkte/low-content-revolution-geld-verdienen-mit-amazon-kdp-45710.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1198.82 (Single payment, Installment) |
+| Price | $1199.57 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $251.84 |
+| Earnings/sale* | $252.00 |
 | Cart conversion* | 8% |
 | Cancel rate* | 10.93% |
 | Vendor | nomadpublishing |
@@ -94,14 +94,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Low Content Revolution - Geld verdienen mit Amazon KDP? — Typ: Member area and video courses, Anbieter: nomadpublishing, gelistet seit 2023-08-23
-- Wie viel kostet es? — 1198.8156390000001 USD
+- Wie viel kostet es? — 1199.566172 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Low Content Revolution - Geld verdienen mit Amazon KDP Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/513325
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/513325/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Low%20Content%20Revolution%20-%20Geld%20verdienen%20mit%20Amazon%20KDP
 
 ## 4. Editorial notes

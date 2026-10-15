@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink"]
 listed_since: "2021-07-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.mhs-4-you.com/smoothies?aff=adminstore#aff=adminstore"
 sales_page: "https://www.mhs-4-you.com/smoothies"
@@ -22,7 +22,7 @@ language: "de"
 # Smoothies, Gerichte, Rezepte und mehr zur Entgiftung, Detox
 
 > Product ID `37092` · Digistore24 productId `396927` · [HTML profile page](../../produkte/smoothies-gerichte-rezepte-und-mehr-zur-entgiftung-detox-37092.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -84,14 +84,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Smoothies, Gerichte, Rezepte und mehr zur Entgiftung, Detox? — Typ: E-books, Anbieter: Uwi2016, gelistet seit 2021-07-05
-- Wie viel kostet es? — 4.461219000000001 USD
+- Wie viel kostet es? — 4.464012 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Smoothies, Gerichte, Rezepte und mehr zur Entgiftung, Detox Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/396927
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/396927/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Smoothies%2C%20Gerichte%2C%20Rezepte%20und%20mehr%20zur%20Entgiftung%2C%20Detox
 
 ## 4. Editorial notes

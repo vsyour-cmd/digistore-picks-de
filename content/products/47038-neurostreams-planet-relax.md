@@ -4,16 +4,16 @@ digistore24_product_id: 250027
 title: "Neurostreams™ Planet Relax"
 vendor: "newdimension"
 product_type: "Downloads"
-price: 15.98
+price: 15.99
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 7.99
+earnings_per_sale: 8
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2018-11-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.neurostreams.de/portfolio/tiefe-entspannung-erreichen/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.neurostreams.de/portfolio/tiefe-entspannung-erreichen/"
@@ -22,16 +22,16 @@ language: "de"
 # Neurostreams™ Planet Relax
 
 > Product ID `47038` · Digistore24 productId `250027` · [HTML profile page](../../produkte/neurostreams-planet-relax-47038.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $15.98 (Single payment) |
+| Price | $15.99 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $7.99 |
+| Earnings/sale* | $8.00 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | newdimension |
@@ -76,14 +76,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Neurostreams™ Planet Relax? — Typ: Downloads, Anbieter: newdimension, gelistet seit 2018-11-27
-- Wie viel kostet es? — 15.977649 USD
+- Wie viel kostet es? — 15.987651999999999 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Neurostreams™ Planet Relax Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/250027
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/250027/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Neurostreams%E2%84%A2%20Planet%20Relax
 
 ## 4. Editorial notes

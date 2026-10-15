@@ -4,7 +4,7 @@ digistore24_product_id: 435091
 title: "15 Abnehm-Tipps für den Alltag"
 vendor: "Spekulatius"
 product_type: "E-books"
-price: 10.34
+price: 10.35
 currency: "USD"
 affiliate_commission_pct: 70
 earnings_per_sale: 7.25
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink"]
 listed_since: "2022-03-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://page.funnelcockpit.com/cWH7eKtkes2snMa9M?aff=adminstore#aff=adminstore"
 sales_page: "https://page.funnelcockpit.com/cWH7eKtkes2snMa9M"
@@ -22,14 +22,14 @@ language: "de"
 # 15 Abnehm-Tipps für den Alltag
 
 > Product ID `44404` · Digistore24 productId `435091` · [HTML profile page](../../produkte/15-abnehm-tipps-f-r-den-alltag-44404.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.34 (Single payment) |
+| Price | $10.35 (Single payment) |
 | Affiliate commission | 70% |
 | Earnings/sale* | $7.25 |
 | Cart conversion* | — |
@@ -58,14 +58,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 15 Abnehm-Tipps für den Alltag? — Typ: E-books, Anbieter: Spekulatius, gelistet seit 2022-03-20
-- Wie viel kostet es? — 10.342425 USD
+- Wie viel kostet es? — 10.3489 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 15 Abnehm-Tipps für den Alltag Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/435091
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/435091/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=15%20Abnehm-Tipps%20f%C3%BCr%20den%20Alltag
 
 ## 4. Editorial notes

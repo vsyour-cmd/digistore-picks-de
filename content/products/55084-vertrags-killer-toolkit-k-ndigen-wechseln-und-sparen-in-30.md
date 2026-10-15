@@ -4,16 +4,16 @@ digistore24_product_id: 658682
 title: "Vertrags-Killer Toolkit–Kündigen, wechseln und sparen in 30"
 vendor: "Sparwerk96"
 product_type: "Downloads"
-price: 9.39
+price: 9.4
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 0.94
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Personal Development","Services"]
+categories: ["Personal Development","Education","Services"]
 listed_since: "2026-01-03"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/658682?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/658682"
@@ -22,14 +22,14 @@ language: "de"
 # Vertrags-Killer Toolkit–Kündigen, wechseln und sparen in 30
 
 > Product ID `55084` · Digistore24 productId `658682` · [HTML profile page](../../produkte/vertrags-killer-toolkit-k-ndigen-wechseln-und-sparen-in-30-55084.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $9.39 (Single payment) |
+| Price | $9.40 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $0.94 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | Sparwerk96 |
 | Listed since | 2026-01-03 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Personal Development, Services |
+| Categories | Personal Development, Education, Services |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Vertrags-Killer Toolkit–Kündigen, wechseln und sparen in 30? — Typ: Downloads, Anbieter: Sparwerk96, gelistet seit 2026-01-03
-- Wie viel kostet es? — 9.392040000000001 USD
+- Wie viel kostet es? — 9.397920000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Vertrags-Killer Toolkit–Kündigen, wechseln und sparen in 30 Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/658682
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/658682/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Vertrags-Killer%20Toolkit%E2%80%93K%C3%BCndigen%2C%20wechseln%20und%20sparen%20in%2030
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 323519
 title: "Neu Weltneuheit: Der Auftrags-Generator by Dirk Kreuter"
 vendor: "Act_by_Dirk_Kreuter"
 product_type: "Software"
-price: 222.5
+price: 222.64
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 111.25
+earnings_per_sale: 111.32
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2020-04-28"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/323519?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/323519"
@@ -22,16 +22,16 @@ language: "de"
 # Neu Weltneuheit: Der Auftrags-Generator by Dirk Kreuter
 
 > Product ID `33310` · Digistore24 productId `323519` · [HTML profile page](../../produkte/neu-weltneuheit-der-auftrags-generator-by-dirk-kreuter-33310.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $222.50 (Subscription) |
+| Price | $222.64 (Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $111.25 |
+| Earnings/sale* | $111.32 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Act_by_Dirk_Kreuter |
@@ -87,14 +87,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Neu Weltneuheit: Der Auftrags-Generator by Dirk Kreuter? — Typ: Software, Anbieter: Act_by_Dirk_Kreuter, gelistet seit 2020-04-28
-- Wie viel kostet es? — 222.5019 USD
+- Wie viel kostet es? — 222.6412 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Neu Weltneuheit: Der Auftrags-Generator by Dirk Kreuter Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/323519
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/323519/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Neu%20Weltneuheit%3A%20Der%20Auftrags-Generator%20by%20Dirk%20Kreuter
 
 ## 4. Editorial notes

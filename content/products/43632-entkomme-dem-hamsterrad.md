@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2023-04-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://page.funnelcockpit.com/rSiL7K5swDsEvHjuC?aff=adminstore#aff=adminstore"
 sales_page: "https://page.funnelcockpit.com/rSiL7K5swDsEvHjuC"
@@ -22,7 +22,7 @@ language: "de"
 # Entkomme dem Hamsterrad
 
 > Product ID `43632` · Digistore24 productId `495128` · [HTML profile page](../../produkte/entkomme-dem-hamsterrad-43632.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -66,7 +66,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Entkomme dem Hamsterrad Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/495128
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/495128/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Entkomme%20dem%20Hamsterrad
 
 ## 4. Editorial notes

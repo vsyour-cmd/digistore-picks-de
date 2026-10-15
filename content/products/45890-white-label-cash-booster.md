@@ -4,16 +4,16 @@ digistore24_product_id: 523975
 title: "White Label - Cash Booster"
 vendor: "Spekulatius"
 product_type: "Member area and video courses"
-price: 25.37
+price: 25.39
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 15.22
+earnings_per_sale: 15.23
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2023-11-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://www.meinneuerlifestyle.vip/white-label-up-2/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.meinneuerlifestyle.vip/white-label-up-2/"
@@ -22,16 +22,16 @@ language: "de"
 # White Label - Cash Booster
 
 > Product ID `45890` · Digistore24 productId `523975` · [HTML profile page](../../produkte/white-label-cash-booster-45890.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $25.37 (Single payment) |
+| Price | $25.39 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $15.22 |
+| Earnings/sale* | $15.23 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Spekulatius |
@@ -66,14 +66,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist White Label - Cash Booster? — Typ: Member area and video courses, Anbieter: Spekulatius, gelistet seit 2023-11-05
-- Wie viel kostet es? — 25.369689000000005 USD
+- Wie viel kostet es? — 25.385572000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: White Label - Cash Booster Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/523975
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/523975/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=White%20Label%20-%20Cash%20Booster
 
 ## 4. Editorial notes

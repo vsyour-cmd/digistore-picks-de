@@ -4,16 +4,16 @@ digistore24_product_id: 647619
 title: "Email Marketing Automations: Smarte Kampagnen und Funnels er"
 vendor: "Skenteridis"
 product_type: "Remote service provided electronically"
-price: 335.43
+price: 335.64
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 100.63
+earnings_per_sale: 100.69
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Email Marketing","Online Marketing & E-Business","Marketing Services"]
+categories: ["Online Marketing & E-Business","Email Marketing","Marketing Services"]
 listed_since: "2025-11-11"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://robotics-marketing.com/de-landing/300euro-monat-5stunde-automat-diensleistungen-digistore24/?aff=adminstore#aff=adminstore"
 sales_page: "https://robotics-marketing.com/de-landing/300euro-monat-5stunde-automat-diensleistungen-digistore24/"
@@ -22,22 +22,22 @@ language: "de"
 # Email Marketing Automations: Smarte Kampagnen und Funnels er
 
 > Product ID `54636` · Digistore24 productId `647619` · [HTML profile page](../../produkte/email-marketing-automations-smarte-kampagnen-und-funnels-er-54636.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $335.43 (Subscription) |
+| Price | $335.64 (Subscription) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $100.63 |
+| Earnings/sale* | $100.69 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Skenteridis |
 | Listed since | 2025-11-11 |
 | Auto-accept affiliates | yes |
-| Categories | Email Marketing, Online Marketing & E-Business, Marketing Services |
+| Categories | Online Marketing & E-Business, Email Marketing, Marketing Services |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -93,14 +93,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Email Marketing Automations: Smarte Kampagnen und Funnels er? — Typ: Remote service provided electronically, Anbieter: Skenteridis, gelistet seit 2025-11-11
-- Wie viel kostet es? — 335.43 USD
+- Wie viel kostet es? — 335.64 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Email Marketing Automations: Smarte Kampagnen und Funnels er Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/647619
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/647619/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Email%20Marketing%20Automations%3A%20Smarte%20Kampagnen%20und%20Funnels%20er
 
 ## 4. Editorial notes

@@ -12,8 +12,8 @@ cart_conversion_pct: 35
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2026-02-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://shop.growverse.de/funnels/ai-affiliate-system/freebie/squeeze?aff=adminstore#aff=adminstore"
 sales_page: "https://shop.growverse.de/funnels/ai-affiliate-system/freebie/squeeze"
@@ -22,7 +22,7 @@ language: "de"
 # AI Affiliate System Funnel
 
 > Product ID `55884` · Digistore24 productId `666648` · [HTML profile page](../../produkte/ai-affiliate-system-funnel-55884.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -78,7 +78,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: AI Affiliate System Funnel Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/666648
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/666648/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=AI%20Affiliate%20System%20Funnel
 
 ## 4. Editorial notes

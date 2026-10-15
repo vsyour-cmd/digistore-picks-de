@@ -4,16 +4,16 @@ digistore24_product_id: 668719
 title: "Der Ü40 Muskel Code – attraktiver Fitness-Funnel für Männer"
 vendor: "DH1983"
 product_type: "Member area and video courses"
-price: 44.16
+price: 44.19
 currency: "USD"
 affiliate_commission_pct: 55
-earnings_per_sale: 24.3
+earnings_per_sale: 24.31
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-09-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://www.ue40protokoll.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.ue40protokoll.com/"
@@ -22,16 +22,16 @@ language: "de"
 # Der Ü40 Muskel Code – attraktiver Fitness-Funnel für Männer
 
 > Product ID `58940` · Digistore24 productId `668719` · [HTML profile page](../../produkte/der-40-muskel-code-attraktiver-fitness-funnel-f-r-m-nner-58940.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $44.16 (Single payment) |
+| Price | $44.19 (Single payment) |
 | Affiliate commission | 55% |
-| Earnings/sale* | $24.30 |
+| Earnings/sale* | $24.31 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DH1983 |
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Ü40 Muskel Code – attraktiver Fitness-Funnel für Männer? — Typ: Member area and video courses, Anbieter: DH1983, gelistet seit 2026-09-05
-- Wie viel kostet es? — 44.164950000000005 USD
+- Wie viel kostet es? — 44.1926 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Der Ü40 Muskel Code – attraktiver Fitness-Funnel für Männer Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/668719
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/668719/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%20%C3%9C40%20Muskel%20Code%20%E2%80%93%20attraktiver%20Fitness-Funnel%20f%C3%BCr%20M%C3%A4nner
 
 ## 4. Editorial notes

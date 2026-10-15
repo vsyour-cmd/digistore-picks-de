@@ -4,16 +4,16 @@ digistore24_product_id: 727269
 title: "Das ultimative Karriere Master-Kit für das praktische Jahr"
 vendor: "VeloxForge"
 product_type: "Downloads"
-price: 74.23
+price: 74.28
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 37.12
+earnings_per_sale: 37.14
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2026-09-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://auranit.de/praktisches-jahr/?aff=adminstore#aff=adminstore"
 sales_page: "https://auranit.de/praktisches-jahr/"
@@ -22,16 +22,16 @@ language: "de"
 # Das ultimative Karriere Master-Kit für das praktische Jahr
 
 > Product ID `59062` · Digistore24 productId `727269` · [HTML profile page](../../produkte/das-ultimative-karriere-master-kit-f-r-das-praktische-jahr-59062.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $74.23 (Single payment) |
+| Price | $74.28 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $37.12 |
+| Earnings/sale* | $37.14 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | VeloxForge |
@@ -80,14 +80,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das ultimative Karriere Master-Kit für das praktische Jahr? — Typ: Downloads, Anbieter: VeloxForge, gelistet seit 2026-09-09
-- Wie viel kostet es? — 74.230659 USD
+- Wie viel kostet es? — 74.27713200000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Das ultimative Karriere Master-Kit für das praktische Jahr Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/727269
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/727269/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Das%20ultimative%20Karriere%20Master-Kit%20f%C3%BCr%20das%20praktische%20Jahr
 
 ## 4. Editorial notes

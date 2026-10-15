@@ -7,22 +7,22 @@ product_type: "E-books"
 price: 5.18
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 2.59
+earnings_per_sale: 2.6
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Sport"]
 listed_since: "2020-03-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/32055/adminstore/"
+promo_link: "http://rockyourgoal.de/meine-angebote/ocr-und-spartanrace/griffkrafttraining-ocr/12-wochen-trainingsplan-griffkrafttraining?aff=adminstore#aff=adminstore"
 sales_page: "http://rockyourgoal.de/meine-angebote/ocr-und-spartanrace/griffkrafttraining-ocr/12-wochen-trainingsplan-griffkrafttraining"
 language: "de"
 ---
 # Griffkrafttraining für Hindernisläufer - 12 Wochen Plan
 
 > Product ID `32055` · Digistore24 productId `315225` · [HTML profile page](../../produkte/griffkrafttraining-f-r-hindernisl-ufer-12-wochen-plan-32055.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,7 @@ language: "de"
 | Product type | E-books |
 | Price | $5.18 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $2.59 |
+| Earnings/sale* | $2.60 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | rockyourgoal |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/32055/adminstore/
+- **Promo link (affiliate):** http://rockyourgoal.de/meine-angebote/ocr-und-spartanrace/griffkrafttraining-ocr/12-wochen-trainingsplan-griffkrafttraining?aff=adminstore#aff=adminstore
 - Sales page: http://rockyourgoal.de/meine-angebote/ocr-und-spartanrace/griffkrafttraining-ocr/12-wochen-trainingsplan-griffkrafttraining
 - Vendor affiliate support: http://rockyourgoal.de/meine-angebote/ocr-und-spartanrace/griffkrafttraining-ocr/12-wochen-trainingsplan-griffkrafttraining/new
 - Canonical redirect: https://www.digistore24.com/redir/315225/adminstore
@@ -77,14 +77,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Griffkrafttraining für Hindernisläufer - 12 Wochen Plan? — Typ: E-books, Anbieter: rockyourgoal, gelistet seit 2020-03-24
-- Wie viel kostet es? — 5.1768030000000005 USD
+- Wie viel kostet es? — 5.180044 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Griffkrafttraining für Hindernisläufer - 12 Wochen Plan Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/315225
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/315225/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Griffkrafttraining%20f%C3%BCr%20Hindernisl%C3%A4ufer%20-%2012%20Wochen%20Plan
 
 ## 4. Editorial notes

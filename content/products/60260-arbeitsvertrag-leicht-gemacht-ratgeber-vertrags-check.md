@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Law & Justice","Profession & Job"]
 listed_since: "2026-10-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/740755?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/740755"
@@ -22,7 +22,7 @@ language: "de"
 # Arbeitsvertrag leicht gemacht – Ratgeber + Vertrags-Check
 
 > Product ID `60260` · Digistore24 productId `740755` · [HTML profile page](../../produkte/arbeitsvertrag-leicht-gemacht-ratgeber-vertrags-check-60260.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Arbeitsvertrag leicht gemacht – Ratgeber + Vertrags-Check? — Typ: E-books, Anbieter: ratgeberleichtgemacht, gelistet seit 2026-10-06
-- Wie viel kostet es? — 15.575133000000001 USD
+- Wie viel kostet es? — 15.584884 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Arbeitsvertrag leicht gemacht – Ratgeber + Vertrags-Check Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/740755
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/740755/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Arbeitsvertrag%20leicht%20gemacht%20%E2%80%93%20Ratgeber%20%2B%20Vertrags-Check
 
 ## 4. Editorial notes

@@ -4,34 +4,34 @@ digistore24_product_id: 398128
 title: "Der 120/80-Blutdruck-Guide mit Ralf Moll"
 vendor: "RalfMollFastensuppen"
 product_type: "Online coaching"
-price: 37.49
+price: 37.51
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 5.62
+earnings_per_sale: 5.63
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2021-07-14"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/38859/adminstore/"
+promo_link: "https://ralf-moll-online-fastenkurse-suppenfasten-mit-fastensuppen.coachy.net/lp/landingpage-blutdruckguide/?aff=adminstore#aff=adminstore"
 sales_page: "https://ralf-moll-online-fastenkurse-suppenfasten-mit-fastensuppen.coachy.net/lp/landingpage-blutdruckguide/"
 language: "de"
 ---
 # Der 120/80-Blutdruck-Guide mit Ralf Moll
 
 > Product ID `38859` · Digistore24 productId `398128` · [HTML profile page](../../produkte/der-120-80-blutdruck-guide-mit-ralf-moll-38859.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $37.49 (Single payment) |
+| Price | $37.51 (Single payment) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $5.62 |
+| Earnings/sale* | $5.63 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | RalfMollFastensuppen |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/38859/adminstore/
+- **Promo link (affiliate):** https://ralf-moll-online-fastenkurse-suppenfasten-mit-fastensuppen.coachy.net/lp/landingpage-blutdruckguide/?aff=adminstore#aff=adminstore
 - Sales page: https://ralf-moll-online-fastenkurse-suppenfasten-mit-fastensuppen.coachy.net/lp/landingpage-blutdruckguide/
 - Canonical redirect: https://www.digistore24.com/redir/398128/adminstore
 
@@ -88,14 +88,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der 120/80-Blutdruck-Guide mit Ralf Moll? — Typ: Online coaching, Anbieter: RalfMollFastensuppen, gelistet seit 2021-07-14
-- Wie viel kostet es? — 37.489893 USD
+- Wie viel kostet es? — 37.513364 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Der 120/80-Blutdruck-Guide mit Ralf Moll Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/398128
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/398128/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%20120%2F80-Blutdruck-Guide%20mit%20Ralf%20Moll
 
 ## 4. Editorial notes

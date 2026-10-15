@@ -4,7 +4,7 @@ digistore24_product_id: 602425
 title: "5 Minuten Style Code"
 vendor: "PersonalStylistSabine"
 product_type: "E-books"
-price: 30.19
+price: 30.21
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 3.02
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Fashion"]
 listed_since: "2025-03-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/55517/adminstore/"
+promo_link: "https://personalstylist-sabinewalter.com/dein-perfekter-style-in-nur-5-minuten/?aff=adminstore#aff=adminstore"
 sales_page: "https://personalstylist-sabinewalter.com/dein-perfekter-style-in-nur-5-minuten/"
 language: "de"
 ---
 # 5 Minuten Style Code
 
 > Product ID `55517` · Digistore24 productId `602425` · [HTML profile page](../../produkte/5-minuten-style-code-55517.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $30.19 (Single payment) |
+| Price | $30.21 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $3.02 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55517/adminstore/
+- **Promo link (affiliate):** https://personalstylist-sabinewalter.com/dein-perfekter-style-in-nur-5-minuten/?aff=adminstore#aff=adminstore
 - Sales page: https://personalstylist-sabinewalter.com/dein-perfekter-style-in-nur-5-minuten/
 - Canonical redirect: https://www.digistore24.com/redir/602425/adminstore
 
@@ -78,14 +78,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 5 Minuten Style Code? — Typ: E-books, Anbieter: PersonalStylistSabine, gelistet seit 2025-03-18
-- Wie viel kostet es? — 30.188700000000004 USD
+- Wie viel kostet es? — 30.2076 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 5 Minuten Style Code Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/602425
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/602425/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=5%20Minuten%20Style%20Code
 
 ## 4. Editorial notes

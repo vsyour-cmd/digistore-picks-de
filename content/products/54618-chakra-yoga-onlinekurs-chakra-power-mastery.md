@@ -4,16 +4,16 @@ digistore24_product_id: 558114
 title: "Chakra-Yoga Onlinekurs - Chakra-Power-Mastery"
 vendor: "CorinnaKorner"
 product_type: "Member area and video courses"
-price: 311.94
+price: 312.13
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 93.58
+earnings_per_sale: 93.64
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2024-06-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://corinnakorner.ch/chakra-power-mastery/?aff=adminstore#aff=adminstore"
 sales_page: "https://corinnakorner.ch/chakra-power-mastery/"
@@ -22,16 +22,16 @@ language: "de"
 # Chakra-Yoga Onlinekurs - Chakra-Power-Mastery
 
 > Product ID `54618` · Digistore24 productId `558114` · [HTML profile page](../../produkte/chakra-yoga-onlinekurs-chakra-power-mastery-54618.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $311.94 (Single payment, Subscription, Installment) |
+| Price | $312.13 (Single payment, Subscription, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $93.58 |
+| Earnings/sale* | $93.64 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | CorinnaKorner |
@@ -100,14 +100,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Chakra-Yoga Onlinekurs - Chakra-Power-Mastery? — Typ: Member area and video courses, Anbieter: CorinnaKorner, gelistet seit 2024-06-22
-- Wie viel kostet es? — 311.93871900000005 USD
+- Wie viel kostet es? — 312.13401200000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Chakra-Yoga Onlinekurs - Chakra-Power-Mastery Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/558114
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/558114/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Chakra-Yoga%20Onlinekurs%20-%20Chakra-Power-Mastery
 
 ## 4. Editorial notes

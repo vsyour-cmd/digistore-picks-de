@@ -4,16 +4,16 @@ digistore24_product_id: 605434
 title: "Premium Videokurs: Meridiane und Gesundheit (Spitzenprodukt)"
 vendor: "SabineQigong"
 product_type: "Member area and video courses"
-price: 443.89
+price: 444.16
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 221.94
+earnings_per_sale: 222.08
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2026-05-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://sabine-tukovits-fischer.app.mentortools.com/new-video-sales-31851?aff=adminstore#aff=adminstore"
 sales_page: "https://sabine-tukovits-fischer.app.mentortools.com/new-video-sales-31851"
@@ -22,16 +22,16 @@ language: "de"
 # Premium Videokurs: Meridiane und Gesundheit (Spitzenprodukt)
 
 > Product ID `56714` · Digistore24 productId `605434` · [HTML profile page](../../produkte/premium-videokurs-meridiane-und-gesundheit-spitzenprodukt-56714.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $443.89 (Single payment) |
+| Price | $444.16 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $221.94 |
+| Earnings/sale* | $222.08 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SabineQigong |
@@ -81,14 +81,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Premium Videokurs: Meridiane und Gesundheit (Spitzenprodukt)? — Typ: Member area and video courses, Anbieter: SabineQigong, gelistet seit 2026-05-27
-- Wie viel kostet es? — 443.88570000000004 USD
+- Wie viel kostet es? — 444.16360000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Premium Videokurs: Meridiane und Gesundheit (Spitzenprodukt) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/605434
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/605434/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Premium%20Videokurs%3A%20Meridiane%20und%20Gesundheit%20(Spitzenprodukt)
 
 ## 4. Editorial notes

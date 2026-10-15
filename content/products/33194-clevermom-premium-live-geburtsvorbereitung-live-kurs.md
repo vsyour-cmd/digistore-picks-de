@@ -4,16 +4,16 @@ digistore24_product_id: 293258
 title: "CleverMom PREMIUM+LIVE: Geburtsvorbereitung + Live-Kurs"
 vendor: "CleverMom"
 product_type: "Member area and video courses"
-price: 131.54
+price: 131.63
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 46.04
+earnings_per_sale: 46.07
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2019-11-02"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://clevermom.de/onlinekurs-geburtsvorbereitung/?aff=adminstore#aff=adminstore"
 sales_page: "https://clevermom.de/onlinekurs-geburtsvorbereitung/"
@@ -22,16 +22,16 @@ language: "de"
 # CleverMom PREMIUM+LIVE: Geburtsvorbereitung + Live-Kurs
 
 > Product ID `33194` · Digistore24 productId `293258` · [HTML profile page](../../produkte/clevermom-premium-live-geburtsvorbereitung-live-kurs-33194.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $131.54 (Single payment) |
+| Price | $131.63 (Single payment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $46.04 |
+| Earnings/sale* | $46.07 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | CleverMom |
@@ -92,14 +92,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist CleverMom PREMIUM+LIVE: Geburtsvorbereitung + Live-Kurs? — Typ: Member area and video courses, Anbieter: CleverMom, gelistet seit 2019-11-02
-- Wie viel kostet es? — 131.54446500000003 USD
+- Wie viel kostet es? — 131.62682 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: CleverMom PREMIUM+LIVE: Geburtsvorbereitung + Live-Kurs Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/293258
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/293258/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=CleverMom%20PREMIUM%2BLIVE%3A%20Geburtsvorbereitung%20%2B%20Live-Kurs
 
 ## 4. Editorial notes

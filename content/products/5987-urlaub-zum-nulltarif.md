@@ -4,16 +4,16 @@ digistore24_product_id: 40363
 title: "URLAUB ZUM NULLTARIF"
 vendor: "BIGbenn1"
 product_type: "Downloads"
-price: 24.94
+price: 24.96
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 11.56
+earnings_per_sale: 11.57
 cart_conversion_pct: 8
 cancel_rate_pct: 2.93
 categories: ["Travel & Culture"]
 listed_since: "2015-01-12"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "http://www.benn-verlag.de/digi-uzn/index.html?aff=adminstore#aff=adminstore"
 sales_page: "http://www.benn-verlag.de/digi-uzn/index.html"
@@ -22,16 +22,16 @@ language: "de"
 # URLAUB ZUM NULLTARIF
 
 > Product ID `5987` · Digistore24 productId `40363` · [HTML profile page](../../produkte/urlaub-zum-nulltarif-5987.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $24.94 (Single payment) |
+| Price | $24.96 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $11.56 |
+| Earnings/sale* | $11.57 |
 | Cart conversion* | 8% |
 | Cancel rate* | 2.93% |
 | Vendor | BIGbenn1 |
@@ -68,14 +68,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist URLAUB ZUM NULLTARIF? — Typ: Downloads, Anbieter: BIGbenn1, gelistet seit 2015-01-12
-- Wie viel kostet es? — 24.944811 USD
+- Wie viel kostet es? — 24.960428 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: URLAUB ZUM NULLTARIF Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/40363
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/40363/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=URLAUB%20ZUM%20NULLTARIF
 
 ## 4. Editorial notes

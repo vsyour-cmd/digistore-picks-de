@@ -4,16 +4,16 @@ digistore24_product_id: 619107
 title: "Lampenfieber adé - Souverän auftreten, wenn es drauf ankommt"
 vendor: "SilviaGunsilius"
 product_type: "Downloads"
-price: 18.74
+price: 18.75
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 4.68
+earnings_per_sale: 4.69
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2025-06-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://hypnocoach-online.de/mentaltraining-shop/nie-mehr-sprechangst-vor-gruppen.html?aff=adminstore#aff=adminstore"
 sales_page: "https://hypnocoach-online.de/mentaltraining-shop/nie-mehr-sprechangst-vor-gruppen.html"
@@ -22,16 +22,16 @@ language: "de"
 # Lampenfieber adé - Souverän auftreten, wenn es drauf ankommt
 
 > Product ID `55302` · Digistore24 productId `619107` · [HTML profile page](../../produkte/lampenfieber-ad-souver-n-auftreten-wenn-es-drauf-ankommt-55302.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $18.74 (Single payment) |
+| Price | $18.75 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $4.68 |
+| Earnings/sale* | $4.69 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SilviaGunsilius |
@@ -73,14 +73,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Lampenfieber adé - Souverän auftreten, wenn es drauf ankommt? — Typ: Downloads, Anbieter: SilviaGunsilius, gelistet seit 2025-06-17
-- Wie viel kostet es? — 18.739356000000004 USD
+- Wie viel kostet es? — 18.751088000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Lampenfieber adé - Souverän auftreten, wenn es drauf ankommt Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/619107
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/619107/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Lampenfieber%20ad%C3%A9%20-%20Souver%C3%A4n%20auftreten%2C%20wenn%20es%20drauf%20ankommt
 
 ## 4. Editorial notes

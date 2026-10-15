@@ -4,16 +4,16 @@ digistore24_product_id: 323049
 title: "Videokurs \"Herpes war gestern!\""
 vendor: "h2-akademie"
 product_type: "Member area and video courses"
-price: 163.49
+price: 163.59
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 81.74
+earnings_per_sale: 81.8
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2020-04-25"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.herpes-guru.de/herpes-lm-startseite-produktseite/lm3-warum-es-lebensnotwendig-ist-das-immunsystem-gegen-herpesviren-auszubilden/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.herpes-guru.de/herpes-lm-startseite-produktseite/lm3-warum-es-lebensnotwendig-ist-das-immunsystem-gegen-herpesviren-auszubilden/"
@@ -22,16 +22,16 @@ language: "de"
 # Videokurs "Herpes war gestern!"
 
 > Product ID `33244` · Digistore24 productId `323049` · [HTML profile page](../../produkte/videokurs-herpes-war-gestern-33244.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $163.49 (Single payment, Installment) |
+| Price | $163.59 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $81.74 |
+| Earnings/sale* | $81.80 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | h2-akademie |
@@ -99,14 +99,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Videokurs "Herpes war gestern!"? — Typ: Member area and video courses, Anbieter: h2-akademie, gelistet seit 2020-04-25
-- Wie viel kostet es? — 163.488582 USD
+- Wie viel kostet es? — 163.590936 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Videokurs "Herpes war gestern!" Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/323049
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/323049/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Videokurs%20%22Herpes%20war%20gestern!%22
 
 ## 4. Editorial notes

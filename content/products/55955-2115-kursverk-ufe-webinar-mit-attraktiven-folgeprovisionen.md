@@ -4,7 +4,7 @@ digistore24_product_id: 662545
 title: "2115 Kursverkäufe Webinar mit attraktiven Folgeprovisionen"
 vendor: "MSFS_2218"
 product_type: "Member area and video courses"
-price: 7.31
+price: 7.32
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 0.85
@@ -12,24 +12,24 @@ cart_conversion_pct: 35
 cancel_rate_pct: 1.34
 categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2026-03-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/55955/adminstore/"
+promo_link: "https://byebyehamsterrad.de/masterclass-2115/?aff=adminstore#aff=adminstore"
 sales_page: "https://byebyehamsterrad.de/masterclass-2115/"
 language: "de"
 ---
 # 2115 Kursverkäufe Webinar mit attraktiven Folgeprovisionen
 
 > Product ID `55955` · Digistore24 productId `662545` · [HTML profile page](../../produkte/2115-kursverk-ufe-webinar-mit-attraktiven-folgeprovisionen-55955.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $7.31 (Single payment) |
+| Price | $7.32 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $0.85 |
 | Cart conversion* | 35% |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55955/adminstore/
+- **Promo link (affiliate):** https://byebyehamsterrad.de/masterclass-2115/?aff=adminstore#aff=adminstore
 - Sales page: https://byebyehamsterrad.de/masterclass-2115/
 - Vendor affiliate support: https://byebyehamsterrad.de/partnerprogramm/webinar/
 - Canonical redirect: https://www.digistore24.com/redir/662545/adminstore
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 2115 Kursverkäufe Webinar mit attraktiven Folgeprovisionen? — Typ: Member area and video courses, Anbieter: MSFS_2218, gelistet seit 2026-03-16
-- Wie viel kostet es? — 7.312374000000001 USD
+- Wie viel kostet es? — 7.316952000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 2115 Kursverkäufe Webinar mit attraktiven Folgeprovisionen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/662545
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/662545/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=2115%20Kursverk%C3%A4ufe%20Webinar%20mit%20attraktiven%20Folgeprovisionen
 
 ## 4. Editorial notes

@@ -4,34 +4,34 @@ digistore24_product_id: 727270
 title: "Das ultimative Business KI-Masterkit"
 vendor: "VeloxForge"
 product_type: "E-books"
-price: 93
+price: 93.06
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 46.5
+earnings_per_sale: 46.53
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2026-09-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/59061/adminstore/"
+promo_link: "https://auranit.de/business-und-ki/?aff=adminstore#aff=adminstore"
 sales_page: "https://auranit.de/business-und-ki/"
 language: "de"
 ---
 # Das ultimative Business KI-Masterkit
 
 > Product ID `59061` · Digistore24 productId `727270` · [HTML profile page](../../produkte/das-ultimative-business-ki-masterkit-59061.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $93.00 (Single payment) |
+| Price | $93.06 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $46.50 |
+| Earnings/sale* | $46.53 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | VeloxForge |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59061/adminstore/
+- **Promo link (affiliate):** https://auranit.de/business-und-ki/?aff=adminstore#aff=adminstore
 - Sales page: https://auranit.de/business-und-ki/
 - Canonical redirect: https://www.digistore24.com/redir/727270/adminstore
 
@@ -88,14 +88,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das ultimative Business KI-Masterkit? — Typ: E-books, Anbieter: VeloxForge, gelistet seit 2026-09-09
-- Wie viel kostet es? — 93.00355800000001 USD
+- Wie viel kostet es? — 93.061784 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Das ultimative Business KI-Masterkit Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/727270
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/727270/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Das%20ultimative%20Business%20KI-Masterkit
 
 ## 4. Editorial notes

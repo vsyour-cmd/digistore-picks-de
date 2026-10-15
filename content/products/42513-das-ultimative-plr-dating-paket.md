@@ -4,34 +4,34 @@ digistore24_product_id: 142235
 title: "Das ultimative PLR Dating Paket"
 vendor: "DIEPRODUKTION"
 product_type: "Downloads"
-price: 205.76
+price: 205.89
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 102.89
+earnings_per_sale: 102.95
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2017-06-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/42513/adminstore/"
+promo_link: "https://www.digistore24.com/redir/142235?aff=adminstore"
 sales_page: "https://www.digistore24.com/redir/142235"
 language: "de"
 ---
 # Das ultimative PLR Dating Paket
 
 > Product ID `42513` · Digistore24 productId `142235` · [HTML profile page](../../produkte/das-ultimative-plr-dating-paket-42513.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $205.76 (Single payment) |
+| Price | $205.89 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $102.89 |
+| Earnings/sale* | $102.95 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DIEPRODUKTION |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/42513/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/redir/142235?aff=adminstore
 - Sales page: https://www.digistore24.com/redir/142235
 - Vendor affiliate support: http://wolfpartner.net
 - Canonical redirect: https://www.digistore24.com/redir/142235/adminstore
@@ -108,14 +108,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das ultimative PLR Dating Paket? — Typ: Downloads, Anbieter: DIEPRODUKTION, gelistet seit 2017-06-06
-- Wie viel kostet es? — 205.763943 USD
+- Wie viel kostet es? — 205.892764 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Das ultimative PLR Dating Paket Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/142235
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/142235/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Das%20ultimative%20PLR%20Dating%20Paket
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 711257
 title: "Hauswissen vom Praktiker – Band 1 | Praxiswissen fürs Haus"
 vendor: "jrings30da"
 product_type: "E-books"
-price: 13.48
+price: 13.49
 currency: "USD"
 affiliate_commission_pct: 40
 earnings_per_sale: 5.39
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Hobby & Craft","Home & Garden"]
+categories: ["Home & Garden","Hobby & Craft"]
 listed_since: "2026-09-13"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://all-in-one-aw.de/hauswissen/?aff=adminstore#aff=adminstore"
 sales_page: "https://all-in-one-aw.de/hauswissen/"
@@ -22,14 +22,14 @@ language: "de"
 # Hauswissen vom Praktiker – Band 1 | Praxiswissen fürs Haus
 
 > Product ID `59200` · Digistore24 productId `711257` · [HTML profile page](../../produkte/hauswissen-vom-praktiker-band-1-praxiswissen-f-rs-haus-59200.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $13.48 (Single payment) |
+| Price | $13.49 (Single payment) |
 | Affiliate commission | 40% |
 | Earnings/sale* | $5.39 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | jrings30da |
 | Listed since | 2026-09-13 |
 | Auto-accept affiliates | yes |
-| Categories | Hobby & Craft, Home & Garden |
+| Categories | Home & Garden, Hobby & Craft |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -76,14 +76,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Hauswissen vom Praktiker – Band 1 | Praxiswissen fürs Haus? — Typ: E-books, Anbieter: jrings30da, gelistet seit 2026-09-13
-- Wie viel kostet es? — 13.484286 USD
+- Wie viel kostet es? — 13.492728000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Hauswissen vom Praktiker – Band 1 | Praxiswissen fürs Haus Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/711257
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/711257/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Hauswissen%20vom%20Praktiker%20%E2%80%93%20Band%201%20%7C%20Praxiswissen%20f%C3%BCrs%20Haus
 
 ## 4. Editorial notes

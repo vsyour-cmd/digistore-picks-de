@@ -4,34 +4,34 @@ digistore24_product_id: 325107
 title: "PC-Muskel-Training für Männer - Anastasia Romanova"
 vendor: "powerline"
 product_type: "Member area and video courses"
-price: 79.55
+price: 79.6
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 25.41
+earnings_per_sale: 25.43
 cart_conversion_pct: 13
 cancel_rate_pct: 4.95
 categories: ["Health & Fitness"]
 listed_since: "2020-05-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/32711/adminstore/"
+promo_link: "https://powermuskel.com/produkte/penis-trainieren/?aff=adminstore#aff=adminstore"
 sales_page: "https://powermuskel.com/produkte/penis-trainieren/"
 language: "de"
 ---
 # PC-Muskel-Training für Männer - Anastasia Romanova
 
 > Product ID `32711` · Digistore24 productId `325107` · [HTML profile page](../../produkte/pc-muskel-training-f-r-m-nner-anastasia-romanova-32711.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $79.55 (Single payment) |
+| Price | $79.60 (Single payment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $25.41 |
+| Earnings/sale* | $25.43 |
 | Cart conversion* | 13% |
 | Cancel rate* | 4.95% |
 | Vendor | powerline |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/32711/adminstore/
+- **Promo link (affiliate):** https://powermuskel.com/produkte/penis-trainieren/?aff=adminstore#aff=adminstore
 - Sales page: https://powermuskel.com/produkte/penis-trainieren/
 - Canonical redirect: https://www.digistore24.com/redir/325107/adminstore
 
@@ -91,14 +91,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist PC-Muskel-Training für Männer - Anastasia Romanova? — Typ: Member area and video courses, Anbieter: powerline, gelistet seit 2020-05-05
-- Wie viel kostet es? — 79.55281500000001 USD
+- Wie viel kostet es? — 79.60262 USD
 - Garantie? — 14
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: PC-Muskel-Training für Männer - Anastasia Romanova Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/325107
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/325107/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=PC-Muskel-Training%20f%C3%BCr%20M%C3%A4nner%20-%20Anastasia%20Romanova
 
 ## 4. Editorial notes

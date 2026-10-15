@@ -4,34 +4,34 @@ digistore24_product_id: 564511
 title: "AMAZON KDP - Dein Weg zur finanziellen Freiheit"
 vendor: "AnneWuensche"
 product_type: "Member area and video courses"
-price: 46.04
+price: 46.07
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 11.44
+earnings_per_sale: 11.45
 cart_conversion_pct: 2
 cancel_rate_pct: 6.13
 categories: ["Online Marketing & E-Business","Profession & Job"]
 listed_since: "2024-08-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/49141/adminstore/"
+promo_link: "https://www.digistore24.com/product/564511?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/564511"
 language: "de"
 ---
 # AMAZON KDP - Dein Weg zur finanziellen Freiheit
 
 > Product ID `49141` · Digistore24 productId `564511` · [HTML profile page](../../produkte/amazon-kdp-dein-weg-zur-finanziellen-freiheit-49141.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $46.04 (Single payment) |
+| Price | $46.07 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $11.44 |
+| Earnings/sale* | $11.45 |
 | Cart conversion* | 2% |
 | Cancel rate* | 6.13% |
 | Vendor | AnneWuensche |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/49141/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/564511?aff=adminstore
 - Sales page: https://www.digistore24.com/product/564511
 - Canonical redirect: https://www.digistore24.com/redir/564511/adminstore
 
@@ -76,14 +76,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist AMAZON KDP - Dein Weg zur finanziellen Freiheit? — Typ: Member area and video courses, Anbieter: AnneWuensche, gelistet seit 2024-08-08
-- Wie viel kostet es? — 46.043358000000005 USD
+- Wie viel kostet es? — 46.072184 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: AMAZON KDP - Dein Weg zur finanziellen Freiheit Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/564511
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/564511/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=AMAZON%20KDP%20-%20Dein%20Weg%20zur%20finanziellen%20Freiheit
 
 ## 4. Editorial notes

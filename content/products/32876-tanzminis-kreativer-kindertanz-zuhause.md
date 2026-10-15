@@ -4,16 +4,16 @@ digistore24_product_id: 324193
 title: "Tanzminis - Kreativer Kindertanz zuhause"
 vendor: "tanzminis"
 product_type: "Member area and video courses"
-price: 46.04
+price: 46.07
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 23.02
+earnings_per_sale: 23.04
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2020-04-30"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.tanzminis.de?aff=adminstore#aff=adminstore"
 sales_page: "https://www.tanzminis.de"
@@ -22,16 +22,16 @@ language: "de"
 # Tanzminis - Kreativer Kindertanz zuhause
 
 > Product ID `32876` · Digistore24 productId `324193` · [HTML profile page](../../produkte/tanzminis-kreativer-kindertanz-zuhause-32876.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $46.04 (Single payment) |
+| Price | $46.07 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $23.02 |
+| Earnings/sale* | $23.04 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | tanzminis |
@@ -84,14 +84,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Tanzminis - Kreativer Kindertanz zuhause? — Typ: Member area and video courses, Anbieter: tanzminis, gelistet seit 2020-04-30
-- Wie viel kostet es? — 46.043358000000005 USD
+- Wie viel kostet es? — 46.072184 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Tanzminis - Kreativer Kindertanz zuhause Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/324193
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/324193/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Tanzminis%20-%20Kreativer%20Kindertanz%20zuhause
 
 ## 4. Editorial notes

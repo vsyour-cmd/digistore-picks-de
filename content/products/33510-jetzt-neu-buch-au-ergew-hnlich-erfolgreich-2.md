@@ -12,8 +12,8 @@ cart_conversion_pct: 7
 cancel_rate_pct: 1.8
 categories: ["Personal Development"]
 listed_since: "2022-09-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/redir/461682/adminstore"
 sales_page: "https://start.gruender.de/aussergewoehnlich-erfolgreich-2/?utm_source=Digistore24&utm_medium=Affiliate&utm_campaign=Aff%3A%20[AFFILIATE]&utm_content=Cam%3A%20[CAMPAIGNKEY]&dbtr=aff_[AFFILIATE]"
@@ -22,7 +22,7 @@ language: "de"
 # [JETZT NEU] Buch Außergewöhnlich Erfolgreich 2
 
 > Product ID `33510` · Digistore24 productId `461682` · [HTML profile page](../../produkte/jetzt-neu-buch-au-ergew-hnlich-erfolgreich-2-33510.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -73,14 +73,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist [JETZT NEU] Buch Außergewöhnlich Erfolgreich 2? — Typ: Book (printed), Anbieter: digitalbeat, gelistet seit 2022-09-22
-- Wie viel kostet es? — 6.2389980000000005 USD
+- Wie viel kostet es? — 6.242904 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: [JETZT NEU] Buch Außergewöhnlich Erfolgreich 2 Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/461682
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/461682/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=%5BJETZT%20NEU%5D%20Buch%20Au%C3%9Fergew%C3%B6hnlich%20Erfolgreich%202
 
 ## 4. Editorial notes

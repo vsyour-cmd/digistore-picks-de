@@ -10,10 +10,10 @@ affiliate_commission_pct: 50
 earnings_per_sale: 0
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Business & Investment","Email Marketing","Online Marketing & E-Business"]
+categories: ["Business & Investment","Online Marketing & E-Business","Email Marketing"]
 listed_since: "2026-04-12"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://designs-nf.com/ebooks/business-starten?aff=adminstore#aff=adminstore"
 sales_page: "https://designs-nf.com/ebooks/business-starten"
@@ -22,7 +22,7 @@ language: "de"
 # Business starten leicht gemacht - Verdiene an den Ad On's
 
 > Product ID `56232` · Digistore24 productId `684108` · [HTML profile page](../../produkte/business-starten-leicht-gemacht-verdiene-an-den-ad-on-s-56232.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | Freifone |
 | Listed since | 2026-04-12 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Email Marketing, Online Marketing & E-Business |
+| Categories | Business & Investment, Online Marketing & E-Business, Email Marketing |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -89,7 +89,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Business starten leicht gemacht - Verdiene an den Ad On's Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/684108
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/684108/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Business%20starten%20leicht%20gemacht%20-%20Verdiene%20an%20den%20Ad%20On's
 
 ## 4. Editorial notes

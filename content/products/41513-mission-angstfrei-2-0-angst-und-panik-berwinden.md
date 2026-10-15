@@ -4,16 +4,16 @@ digistore24_product_id: 447376
 title: "Mission Angstfrei 2.0: Angst und Panik überwinden"
 vendor: "saschajurek"
 product_type: "Member area and video courses"
-price: 301.17
+price: 301.36
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 74.81
+earnings_per_sale: 74.86
 cart_conversion_pct: 9
 cancel_rate_pct: 5.59
 categories: ["Personal Development"]
 listed_since: "2022-06-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://go.saschajurek.de/mission-angstfrei-20-neu/?aff=adminstore#aff=adminstore"
 sales_page: "https://go.saschajurek.de/mission-angstfrei-20-neu/"
@@ -22,16 +22,16 @@ language: "de"
 # Mission Angstfrei 2.0: Angst und Panik überwinden
 
 > Product ID `41513` · Digistore24 productId `447376` · [HTML profile page](../../produkte/mission-angstfrei-2-0-angst-und-panik-berwinden-41513.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $301.17 (Single payment, Installment) |
+| Price | $301.36 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $74.81 |
+| Earnings/sale* | $74.86 |
 | Cart conversion* | 9% |
 | Cancel rate* | 5.59% |
 | Vendor | saschajurek |
@@ -66,14 +66,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mission Angstfrei 2.0: Angst und Panik überwinden? — Typ: Member area and video courses, Anbieter: saschajurek, gelistet seit 2022-06-18
-- Wie viel kostet es? — 301.171416 USD
+- Wie viel kostet es? — 301.35996800000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Mission Angstfrei 2.0: Angst und Panik überwinden Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/447376
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/447376/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Mission%20Angstfrei%202.0%3A%20Angst%20und%20Panik%20%C3%BCberwinden
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 496241
 title: "Praxisorientierten Funnel-Guide für Einsteiger"
 vendor: "HB1976"
 product_type: "E-books"
-price: 17.77
+price: 17.78
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 7.11
+earnings_per_sale: 7.12
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Email Marketing","Online Marketing & E-Business"]
+categories: ["Online Marketing & E-Business","Email Marketing"]
 listed_since: "2026-09-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://affilifuchs.de/leadmagnet-und-erster-funnel-in-10-schritten-lp/?aff=adminstore#aff=adminstore"
 sales_page: "https://affilifuchs.de/leadmagnet-und-erster-funnel-in-10-schritten-lp/"
@@ -22,22 +22,22 @@ language: "de"
 # Praxisorientierten Funnel-Guide für Einsteiger
 
 > Product ID `58818` · Digistore24 productId `496241` · [HTML profile page](../../produkte/praxisorientierten-funnel-guide-f-r-einsteiger-58818.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $17.77 (Single payment) |
+| Price | $17.78 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $7.11 |
+| Earnings/sale* | $7.12 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | HB1976 |
 | Listed since | 2026-09-01 |
 | Auto-accept affiliates | yes |
-| Categories | Email Marketing, Online Marketing & E-Business |
+| Categories | Online Marketing & E-Business, Email Marketing |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -91,14 +91,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Praxisorientierten Funnel-Guide für Einsteiger? — Typ: E-books, Anbieter: HB1976, gelistet seit 2026-09-01
-- Wie viel kostet es? — 17.766609000000003 USD
+- Wie viel kostet es? — 17.777732 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Praxisorientierten Funnel-Guide für Einsteiger Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/496241
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/496241/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Praxisorientierten%20Funnel-Guide%20f%C3%BCr%20Einsteiger
 
 ## 4. Editorial notes

@@ -12,8 +12,8 @@ cart_conversion_pct: 59
 cancel_rate_pct: 0
 categories: ["Computer & Internet"]
 listed_since: "2026-03-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
 promo_link: "https://affiliate-mastery.affilihub.de?aff=adminstore#aff=adminstore"
 sales_page: "https://affiliate-mastery.affilihub.de"
@@ -22,7 +22,7 @@ language: "de"
 # Affiliate Marketing Mastery Plattform für Beginner
 
 > Product ID `56146` · Digistore24 productId `680361` · [HTML profile page](../../produkte/affiliate-marketing-mastery-plattform-f-r-beginner-56146.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -70,14 +70,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Affiliate Marketing Mastery Plattform für Beginner? — Typ: Member area and video courses, Anbieter: itsagoodlife365, gelistet seit 2026-03-29
-- Wie viel kostet es? — 0.8609370000000001 USD
+- Wie viel kostet es? — 0.861476 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Affiliate Marketing Mastery Plattform für Beginner Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/680361
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/680361/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Affiliate%20Marketing%20Mastery%20Plattform%20f%C3%BCr%20Beginner
 
 ## 4. Editorial notes

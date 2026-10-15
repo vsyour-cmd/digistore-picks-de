@@ -4,34 +4,34 @@ digistore24_product_id: 534145
 title: "Der Glückskurs"
 vendor: "Bewusstseinsschule"
 product_type: "Member area and video courses"
-price: 34.76
+price: 34.78
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 12.16
+earnings_per_sale: 12.17
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2024-01-13"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/47573/adminstore/"
+promo_link: "https://glueckskurs.bewusstseinsschuleonline.de/der-glueckskurs/?aff=adminstore#aff=adminstore"
 sales_page: "https://glueckskurs.bewusstseinsschuleonline.de/der-glueckskurs/"
 language: "de"
 ---
 # Der Glückskurs
 
 > Product ID `47573` · Digistore24 productId `534145` · [HTML profile page](../../produkte/der-gl-ckskurs-47573.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $34.76 (Single payment) |
+| Price | $34.78 (Single payment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $12.16 |
+| Earnings/sale* | $12.17 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Bewusstseinsschule |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/47573/adminstore/
+- **Promo link (affiliate):** https://glueckskurs.bewusstseinsschuleonline.de/der-glueckskurs/?aff=adminstore#aff=adminstore
 - Sales page: https://glueckskurs.bewusstseinsschuleonline.de/der-glueckskurs/
 - Canonical redirect: https://www.digistore24.com/redir/534145/adminstore
 
@@ -76,14 +76,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Glückskurs? — Typ: Member area and video courses, Anbieter: Bewusstseinsschule, gelistet seit 2024-01-13
-- Wie viel kostet es? — 34.761729 USD
+- Wie viel kostet es? — 34.783492 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Der Glückskurs Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/534145
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/534145/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%20Gl%C3%BCckskurs
 
 ## 4. Editorial notes

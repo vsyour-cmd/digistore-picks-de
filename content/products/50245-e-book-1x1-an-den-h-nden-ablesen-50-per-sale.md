@@ -4,32 +4,32 @@ digistore24_product_id: 576458
 title: "E-Book: 1x1 an den Händen ablesen - 50% per Sale"
 vendor: "sussiebe92"
 product_type: "E-books"
-price: 19.86
+price: 19.87
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 9.93
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Family & Children"]
+categories: ["Family & Children","Education"]
 listed_since: "2024-10-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/50245/adminstore/"
+promo_link: "https://genialeinfachlernen.com/upsell1x1?aff=adminstore#aff=adminstore"
 sales_page: "https://genialeinfachlernen.com/upsell1x1"
 language: "de"
 ---
 # E-Book: 1x1 an den Händen ablesen - 50% per Sale
 
 > Product ID `50245` · Digistore24 productId `576458` · [HTML profile page](../../produkte/e-book-1x1-an-den-h-nden-ablesen-50-per-sale-50245.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $19.86 (Single payment) |
+| Price | $19.87 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $9.93 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | sussiebe92 |
 | Listed since | 2024-10-21 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Family & Children |
+| Categories | Family & Children, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/50245/adminstore/
+- **Promo link (affiliate):** https://genialeinfachlernen.com/upsell1x1?aff=adminstore#aff=adminstore
 - Sales page: https://genialeinfachlernen.com/upsell1x1
 - Vendor affiliate support: https://genialeinfachlernen.com/affiliate1x1
 - Canonical redirect: https://www.digistore24.com/redir/576458/adminstore
@@ -64,14 +64,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist E-Book: 1x1 an den Händen ablesen - 50% per Sale? — Typ: E-books, Anbieter: sussiebe92, gelistet seit 2024-10-21
-- Wie viel kostet es? — 19.857456000000003 USD
+- Wie viel kostet es? — 19.869888000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: E-Book: 1x1 an den Händen ablesen - 50% per Sale Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/576458
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/576458/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=E-Book%3A%201x1%20an%20den%20H%C3%A4nden%20ablesen%20-%2050%25%20per%20Sale
 
 ## 4. Editorial notes

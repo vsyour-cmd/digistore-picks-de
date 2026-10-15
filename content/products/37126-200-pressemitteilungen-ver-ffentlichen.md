@@ -4,7 +4,7 @@ digistore24_product_id: 330267
 title: "200+ Pressemitteilungen veröffentlichen"
 vendor: "Cleriker"
 product_type: "Remote service provided electronically"
-price: 56.33
+price: 56.37
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 5.64
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2020-06-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://lp.larspilawski.de/pressemitteilung-4-you/?aff=adminstore#aff=adminstore"
 sales_page: "https://lp.larspilawski.de/pressemitteilung-4-you/"
@@ -22,14 +22,14 @@ language: "de"
 # 200+ Pressemitteilungen veröffentlichen
 
 > Product ID `37126` · Digistore24 productId `330267` · [HTML profile page](../../produkte/200-pressemitteilungen-ver-ffentlichen-37126.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $56.33 (Single payment, Subscription) |
+| Price | $56.37 (Single payment, Subscription) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $5.64 |
 | Cart conversion* | — |
@@ -87,14 +87,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 200+ Pressemitteilungen veröffentlichen? — Typ: Remote service provided electronically, Anbieter: Cleriker, gelistet seit 2020-06-06
-- Wie viel kostet es? — 56.32987800000001 USD
+- Wie viel kostet es? — 56.365144 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 200+ Pressemitteilungen veröffentlichen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/330267
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/330267/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=200%2B%20Pressemitteilungen%20ver%C3%B6ffentlichen
 
 ## 4. Editorial notes

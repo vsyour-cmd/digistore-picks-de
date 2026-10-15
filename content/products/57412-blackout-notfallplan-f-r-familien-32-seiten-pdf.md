@@ -4,7 +4,7 @@ digistore24_product_id: 707990
 title: "Blackout- & Notfallplan für Familien – 32 Seiten PDF"
 vendor: "Herzenswelt"
 product_type: "E-books"
-price: 9.4
+price: 9.41
 currency: "USD"
 affiliate_commission_pct: 70
 earnings_per_sale: 6.59
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children","Food & Drink","Survival"]
 listed_since: "2026-07-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://gesundleben360.de/vorratsplan-notfallplan/?aff=adminstore#aff=adminstore"
 sales_page: "https://gesundleben360.de/vorratsplan-notfallplan/"
@@ -22,14 +22,14 @@ language: "de"
 # Blackout- & Notfallplan für Familien – 32 Seiten PDF
 
 > Product ID `57412` · Digistore24 productId `707990` · [HTML profile page](../../produkte/blackout-notfallplan-f-r-familien-32-seiten-pdf-57412.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $9.40 (Single payment) |
+| Price | $9.41 (Single payment) |
 | Affiliate commission | 70% |
 | Earnings/sale* | $6.59 |
 | Cart conversion* | — |
@@ -83,14 +83,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Blackout- & Notfallplan für Familien – 32 Seiten PDF? — Typ: E-books, Anbieter: Herzenswelt, gelistet seit 2026-07-05
-- Wie viel kostet es? — 9.403221 USD
+- Wie viel kostet es? — 9.409108 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Blackout- & Notfallplan für Familien – 32 Seiten PDF Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/707990
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/707990/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Blackout-%20%26%20Notfallplan%20f%C3%BCr%20Familien%20%E2%80%93%2032%20Seiten%20PDF
 
 ## 4. Editorial notes

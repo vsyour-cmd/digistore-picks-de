@@ -4,16 +4,16 @@ digistore24_product_id: 650787
 title: "Eshop und Webseite: Pflege - Betreuung - Unterstützung \" Bas"
 vendor: "Skenteridis"
 product_type: "Remote service provided electronically"
-price: 162.12
+price: 162.23
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 48.64
+earnings_per_sale: 48.67
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Services","Marketing Services"]
 listed_since: "2025-11-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://robotics-marketing.com/de-landing/webseite-eshop-pflege-unterstuetzung-guenstig-digistore24-landing/?aff=adminstore#aff=adminstore"
 sales_page: "https://robotics-marketing.com/de-landing/webseite-eshop-pflege-unterstuetzung-guenstig-digistore24-landing/"
@@ -22,16 +22,16 @@ language: "de"
 # Eshop und Webseite: Pflege - Betreuung - Unterstützung " Bas
 
 > Product ID `54780` · Digistore24 productId `650787` · [HTML profile page](../../produkte/eshop-und-webseite-pflege-betreuung-unterst-tzung-bas-54780.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $162.12 (Subscription) |
+| Price | $162.23 (Subscription) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $48.64 |
+| Earnings/sale* | $48.67 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Skenteridis |
@@ -96,14 +96,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Eshop und Webseite: Pflege - Betreuung - Unterstützung " Bas? — Typ: Remote service provided electronically, Anbieter: Skenteridis, gelistet seit 2025-11-24
-- Wie viel kostet es? — 162.1245 USD
+- Wie viel kostet es? — 162.226 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Eshop und Webseite: Pflege - Betreuung - Unterstützung " Bas Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/650787
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/650787/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Eshop%20und%20Webseite%3A%20Pflege%20-%20Betreuung%20-%20Unterst%C3%BCtzung%20%22%20Bas
 
 ## 4. Editorial notes

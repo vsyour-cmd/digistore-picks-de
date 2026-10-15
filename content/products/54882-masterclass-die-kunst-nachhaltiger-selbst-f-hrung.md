@@ -4,16 +4,16 @@ digistore24_product_id: 650117
 title: "Masterclass „Die Kunst nachhaltiger (Selbst)Führung“"
 vendor: "DariusGoetsch"
 product_type: "Member area and video courses"
-price: 233.95
+price: 234.1
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 93.58
+earnings_per_sale: 93.64
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2025-11-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.wald-fuehrung.de/masterclass-d?aff=adminstore#aff=adminstore"
 sales_page: "https://www.wald-fuehrung.de/masterclass-d"
@@ -22,16 +22,16 @@ language: "de"
 # Masterclass „Die Kunst nachhaltiger (Selbst)Führung“
 
 > Product ID `54882` · Digistore24 productId `650117` · [HTML profile page](../../produkte/masterclass-die-kunst-nachhaltiger-selbst-f-hrung-54882.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $233.95 (Single payment) |
+| Price | $234.10 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $93.58 |
+| Earnings/sale* | $93.64 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DariusGoetsch |
@@ -89,14 +89,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Masterclass „Die Kunst nachhaltiger (Selbst)Führung“? — Typ: Member area and video courses, Anbieter: DariusGoetsch, gelistet seit 2025-11-21
-- Wie viel kostet es? — 233.95124400000003 USD
+- Wie viel kostet es? — 234.097712 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Masterclass „Die Kunst nachhaltiger (Selbst)Führung“ Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/650117
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/650117/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Masterclass%20%E2%80%9EDie%20Kunst%20nachhaltiger%20(Selbst)F%C3%BChrung%E2%80%9C
 
 ## 4. Editorial notes

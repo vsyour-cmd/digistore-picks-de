@@ -4,40 +4,40 @@ digistore24_product_id: 709305
 title: "Regelmäßige MaBV-Weiterbildung für Wohn­immobilien­verwalter"
 vendor: "sachkundeak"
 product_type: "Member area and video courses"
-price: 111.8
+price: 111.87
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 33.54
+earnings_per_sale: 33.56
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Profession & Job","Personal Development"]
+categories: ["Personal Development","Profession & Job","Education"]
 listed_since: "2026-07-14"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/57525/adminstore/"
+promo_link: "https://sachkundelehrgaenge.de/digistore24-mabv-weiterbildung-fuer-wohnimmobilienverwalterinnen-%c2%a7-34c-gewo-mabv/?aff=adminstore#aff=adminstore"
 sales_page: "https://sachkundelehrgaenge.de/digistore24-mabv-weiterbildung-fuer-wohnimmobilienverwalterinnen-%c2%a7-34c-gewo-mabv/"
 language: "de"
 ---
 # Regelmäßige MaBV-Weiterbildung für Wohn­immobilien­verwalter
 
 > Product ID `57525` · Digistore24 productId `709305` · [HTML profile page](../../produkte/regelm-ige-mabv-weiterbildung-f-r-wohn-immobilien-verwalter-57525.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $111.80 (Single payment) |
+| Price | $111.87 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $33.54 |
+| Earnings/sale* | $33.56 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | sachkundeak |
 | Listed since | 2026-07-14 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Profession & Job, Personal Development |
+| Categories | Personal Development, Profession & Job, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/57525/adminstore/
+- **Promo link (affiliate):** https://sachkundelehrgaenge.de/digistore24-mabv-weiterbildung-fuer-wohnimmobilienverwalterinnen-%c2%a7-34c-gewo-mabv/?aff=adminstore#aff=adminstore
 - Sales page: https://sachkundelehrgaenge.de/digistore24-mabv-weiterbildung-fuer-wohnimmobilienverwalterinnen-%c2%a7-34c-gewo-mabv/
 - Vendor affiliate support: https://sachkundelehrgaenge.de/bewerben-sie-die-regelmaessige-weiterbildung-fuer-wohnimmobilienverwalterinnen-nach-%c2%a7-34c-g
 - Canonical redirect: https://www.digistore24.com/redir/709305/adminstore
@@ -87,14 +87,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Regelmäßige MaBV-Weiterbildung für Wohn­immobilien­verwalter? — Typ: Member area and video courses, Anbieter: sachkundeak, gelistet seit 2026-07-14
-- Wie viel kostet es? — 111.79881900000001 USD
+- Wie viel kostet es? — 111.86881199999999 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Regelmäßige MaBV-Weiterbildung für Wohn­immobilien­verwalter Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/709305
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/709305/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Regelm%C3%A4%C3%9Fige%20MaBV-Weiterbildung%20f%C3%BCr%20Wohn%C2%ADimmobilien%C2%ADverwalter
 
 ## 4. Editorial notes

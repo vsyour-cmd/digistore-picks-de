@@ -4,34 +4,34 @@ digistore24_product_id: 663323
 title: "Freemor Breathing® — Teacher Modul für verbundenen Atem und neurogenes Zittern"
 vendor: "BeamdreamBreathworks"
 product_type: "Member area and video courses"
-price: 479.18
+price: 479.48
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 47.92
+earnings_per_sale: 47.95
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2026-08-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/58403/adminstore/"
+promo_link: "https://www.beamdream.com/freemor-breathing-teacher-modul?aff=adminstore#aff=adminstore"
 sales_page: "https://www.beamdream.com/freemor-breathing-teacher-modul"
 language: "de"
 ---
 # Freemor Breathing® — Teacher Modul für verbundenen Atem und neurogenes Zittern
 
 > Product ID `58403` · Digistore24 productId `663323` · [HTML profile page](../../produkte/freemor-breathing-teacher-modul-f-r-verbundenen-atem-und-neurogenes-zittern-58403.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $479.18 (Single payment, Installment) |
+| Price | $479.48 (Single payment, Installment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $47.92 |
+| Earnings/sale* | $47.95 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | BeamdreamBreathworks |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58403/adminstore/
+- **Promo link (affiliate):** https://www.beamdream.com/freemor-breathing-teacher-modul?aff=adminstore#aff=adminstore
 - Sales page: https://www.beamdream.com/freemor-breathing-teacher-modul
 - Canonical redirect: https://www.digistore24.com/redir/663323/adminstore
 
@@ -96,14 +96,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Freemor Breathing® — Teacher Modul für verbundenen Atem und neurogenes Zittern? — Typ: Member area and video courses, Anbieter: BeamdreamBreathworks, gelistet seit 2026-08-16
-- Wie viel kostet es? — 479.184117 USD
+- Wie viel kostet es? — 479.484116 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Freemor Breathing® — Teacher Modul für verbundenen Atem und neurogenes Zittern Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/663323
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/663323/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Freemor%20Breathing%C2%AE%20%E2%80%94%20Teacher%20Modul%20f%C3%BCr%20verbundenen%20Atem%20und%20neurogenes%20Zittern
 
 ## 4. Editorial notes

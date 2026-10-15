@@ -4,16 +4,16 @@ digistore24_product_id: 267756
 title: "54000 WordPress Plugins + Klick Tipp verbinden"
 vendor: "Tobias-Conrad"
 product_type: "Software"
-price: 432.7
+price: 432.98
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 108.18
+earnings_per_sale: 108.24
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Email Marketing"]
 listed_since: "2019-04-12"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/redir/267756/adminstore"
 sales_page: "https://wp2leads.com/?aff=[AFFILIATE]&affiliate=[AFFILIATE]&campaign=[CAMPAIGNKEY]&cam=[CAMPAIGNKEY]&utm_source=Digistore24-plg-267756-WP2Leads"
@@ -22,16 +22,16 @@ language: "de"
 # 54000 WordPress Plugins + Klick Tipp verbinden
 
 > Product ID `28256` · Digistore24 productId `267756` · [HTML profile page](../../produkte/54000-wordpress-plugins-klick-tipp-verbinden-28256.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $432.70 (Subscription) |
+| Price | $432.98 (Subscription) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $108.18 |
+| Earnings/sale* | $108.24 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Tobias-Conrad |
@@ -89,14 +89,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 54000 WordPress Plugins + Klick Tipp verbinden? — Typ: Software, Anbieter: Tobias-Conrad, gelistet seit 2019-04-12
-- Wie viel kostet es? — 432.70470000000006 USD
+- Wie viel kostet es? — 432.9756 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 54000 WordPress Plugins + Klick Tipp verbinden Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/267756
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/267756/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=54000%20WordPress%20Plugins%20%2B%20Klick%20Tipp%20verbinden
 
 ## 4. Editorial notes

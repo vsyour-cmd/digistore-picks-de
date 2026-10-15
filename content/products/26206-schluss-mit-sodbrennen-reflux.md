@@ -4,16 +4,16 @@ digistore24_product_id: 167027
 title: "Schluss mit Sodbrennen (Reflux)"
 vendor: "Sanariver"
 product_type: "Downloads"
-price: 138.12
+price: 138.21
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 41.44
+earnings_per_sale: 41.46
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2017-10-02"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.refluxgate.de/schluss-mit-sodbrennen?aff=adminstore#aff=adminstore"
 sales_page: "https://www.refluxgate.de/schluss-mit-sodbrennen"
@@ -22,16 +22,16 @@ language: "de"
 # Schluss mit Sodbrennen (Reflux)
 
 > Product ID `26206` · Digistore24 productId `167027` · [HTML profile page](../../produkte/schluss-mit-sodbrennen-reflux-26206.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $138.12 (Single payment) |
+| Price | $138.21 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $41.44 |
+| Earnings/sale* | $41.46 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Sanariver |
@@ -100,14 +100,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Schluss mit Sodbrennen (Reflux)? — Typ: Downloads, Anbieter: Sanariver, gelistet seit 2017-10-02
-- Wie viel kostet es? — 138.118893 USD
+- Wie viel kostet es? — 138.205364 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Schluss mit Sodbrennen (Reflux) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/167027
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/167027/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Schluss%20mit%20Sodbrennen%20(Reflux)
 
 ## 4. Editorial notes

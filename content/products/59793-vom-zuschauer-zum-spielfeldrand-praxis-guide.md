@@ -4,40 +4,40 @@ digistore24_product_id: 735851
 title: "Vom Zuschauer zum Spielfeldrand | Praxis-Guide"
 vendor: "dkzmedia2025"
 product_type: "E-books"
-price: 31.34
+price: 31.36
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 9.4
+earnings_per_sale: 9.41
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Photography & Film","Sport"]
+categories: ["Sport","Photography & Film"]
 listed_since: "2026-09-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/59793/adminstore/"
+promo_link: "https://www.dkzmedia.com/ebook?aff=adminstore#aff=adminstore"
 sales_page: "https://www.dkzmedia.com/ebook"
 language: "de"
 ---
 # Vom Zuschauer zum Spielfeldrand | Praxis-Guide
 
 > Product ID `59793` · Digistore24 productId `735851` · [HTML profile page](../../produkte/vom-zuschauer-zum-spielfeldrand-praxis-guide-59793.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $31.34 (Single payment) |
+| Price | $31.36 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $9.40 |
+| Earnings/sale* | $9.41 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | dkzmedia2025 |
 | Listed since | 2026-09-26 |
 | Auto-accept affiliates | yes |
-| Categories | Photography & Film, Sport |
+| Categories | Sport, Photography & Film |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59793/adminstore/
+- **Promo link (affiliate):** https://www.dkzmedia.com/ebook?aff=adminstore#aff=adminstore
 - Sales page: https://www.dkzmedia.com/ebook
 - Canonical redirect: https://www.digistore24.com/redir/735851/adminstore
 
@@ -90,14 +90,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Vom Zuschauer zum Spielfeldrand | Praxis-Guide? — Typ: E-books, Anbieter: dkzmedia2025, gelistet seit 2026-09-26
-- Wie viel kostet es? — 31.340343000000004 USD
+- Wie viel kostet es? — 31.359964 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Vom Zuschauer zum Spielfeldrand | Praxis-Guide Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/735851
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/735851/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Vom%20Zuschauer%20zum%20Spielfeldrand%20%7C%20Praxis-Guide
 
 ## 4. Editorial notes

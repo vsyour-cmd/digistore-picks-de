@@ -4,7 +4,7 @@ digistore24_product_id: 743612
 title: "130 High-Converting KI-Prompts für Produkttexte"
 vendor: "DaveCrypto"
 product_type: "Downloads"
-price: 14
+price: 14.01
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 7
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2026-10-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/60417/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/743612?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/743612"
 language: "de"
 ---
 # 130 High-Converting KI-Prompts für Produkttexte
 
 > Product ID `60417` · Digistore24 productId `743612` · [HTML profile page](../../produkte/130-high-converting-ki-prompts-f-r-produkttexte-60417.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $14.00 (Single payment) |
+| Price | $14.01 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $7.00 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/60417/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/743612?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/743612
 - Canonical redirect: https://www.digistore24.com/redir/743612/adminstore
 
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 130 High-Converting KI-Prompts für Produkttexte? — Typ: Downloads, Anbieter: DaveCrypto, gelistet seit 2026-10-08
-- Wie viel kostet es? — 13.998612000000001 USD
+- Wie viel kostet es? — 14.007375999999999 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 130 High-Converting KI-Prompts für Produkttexte Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/743612
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/743612/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=130%20High-Converting%20KI-Prompts%20f%C3%BCr%20Produkttexte
 
 ## 4. Editorial notes

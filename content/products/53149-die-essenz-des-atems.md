@@ -4,34 +4,34 @@ digistore24_product_id: 621331
 title: "Die Essenz des Atems"
 vendor: "MyhappyCoach"
 product_type: "Member area and video courses"
-price: 36.64
+price: 36.66
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 10.99
+earnings_per_sale: 11
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2025-06-30"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/53149/adminstore/"
+promo_link: "https://muttererde-transformation-days.net/?aff=adminstore#aff=adminstore"
 sales_page: "https://muttererde-transformation-days.net/"
 language: "de"
 ---
 # Die Essenz des Atems
 
 > Product ID `53149` · Digistore24 productId `621331` · [HTML profile page](../../produkte/die-essenz-des-atems-53149.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $36.64 (Single payment) |
+| Price | $36.66 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $10.99 |
+| Earnings/sale* | $11.00 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MyhappyCoach |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/53149/adminstore/
+- **Promo link (affiliate):** https://muttererde-transformation-days.net/?aff=adminstore#aff=adminstore
 - Sales page: https://muttererde-transformation-days.net/
 - Vendor affiliate support: https://muttererde-transformation-days.net/partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/621331/adminstore
@@ -84,14 +84,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die Essenz des Atems? — Typ: Member area and video courses, Anbieter: MyhappyCoach, gelistet seit 2025-06-30
-- Wie viel kostet es? — 36.64013700000001 USD
+- Wie viel kostet es? — 36.663076000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Die Essenz des Atems Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/621331
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/621331/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Die%20Essenz%20des%20Atems
 
 ## 4. Editorial notes

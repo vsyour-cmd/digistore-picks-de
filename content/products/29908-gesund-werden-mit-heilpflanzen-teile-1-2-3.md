@@ -4,16 +4,16 @@ digistore24_product_id: 285007
 title: "Gesund werden mit Heilpflanzen Teile 1 + 2 + 3"
 vendor: "aquarius"
 product_type: "Downloads"
-price: 25.37
+price: 25.39
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 12.69
+earnings_per_sale: 12.7
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2019-09-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://pflanzenmedizin.phytocontentus.eu/landingpage/?aff=adminstore#aff=adminstore"
 sales_page: "https://pflanzenmedizin.phytocontentus.eu/landingpage/"
@@ -22,16 +22,16 @@ language: "de"
 # Gesund werden mit Heilpflanzen Teile 1 + 2 + 3
 
 > Product ID `29908` · Digistore24 productId `285007` · [HTML profile page](../../produkte/gesund-werden-mit-heilpflanzen-teile-1-2-3-29908.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $25.37 (Single payment) |
+| Price | $25.39 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $12.69 |
+| Earnings/sale* | $12.70 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | aquarius |
@@ -64,14 +64,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Gesund werden mit Heilpflanzen Teile 1 + 2 + 3? — Typ: Downloads, Anbieter: aquarius, gelistet seit 2019-09-01
-- Wie viel kostet es? — 25.369689000000005 USD
+- Wie viel kostet es? — 25.385572000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Gesund werden mit Heilpflanzen Teile 1 + 2 + 3 Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/285007
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/285007/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Gesund%20werden%20mit%20Heilpflanzen%20Teile%201%20%2B%202%20%2B%203
 
 ## 4. Editorial notes

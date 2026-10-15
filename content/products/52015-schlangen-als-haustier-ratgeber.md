@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets","Hobby & Craft"]
 listed_since: "2025-03-12"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/52015/adminstore/"
+promo_link: "https://www.digistore24.com/product/601255?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/601255"
 language: "de"
 ---
 # Schlangen als Haustier - Ratgeber
 
 > Product ID `52015` · Digistore24 productId `601255` · [HTML profile page](../../produkte/schlangen-als-haustier-ratgeber-52015.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/52015/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/601255?aff=adminstore
 - Sales page: https://www.digistore24.com/product/601255
 - Canonical redirect: https://www.digistore24.com/redir/601255/adminstore
 
@@ -70,14 +70,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Schlangen als Haustier - Ratgeber? — Typ: E-books, Anbieter: NaranNelson, gelistet seit 2025-03-12
-- Wie viel kostet es? — 2.0796660000000005 USD
+- Wie viel kostet es? — 2.080968 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Schlangen als Haustier - Ratgeber Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/601255
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/601255/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Schlangen%20als%20Haustier%20-%20Ratgeber
 
 ## 4. Editorial notes

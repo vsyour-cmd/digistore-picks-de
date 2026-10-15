@@ -4,16 +4,16 @@ digistore24_product_id: 309523
 title: "Optionsgewinne mit System: Wie jeder an der Börse mit Option"
 vendor: "r2finance"
 product_type: "Book (printed)"
-price: 45.6
+price: 45.62
 currency: "USD"
 affiliate_commission_pct: 20
 earnings_per_sale: 5.57
 cart_conversion_pct: 5
 cancel_rate_pct: 2.16
-categories: ["Business & Investment","Education","Trading Products"]
+categories: ["Trading Products","Business & Investment","Education"]
 listed_since: "2020-02-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://duo-strategie.com/buch-kaufen/?aff=adminstore#aff=adminstore"
 sales_page: "https://duo-strategie.com/buch-kaufen/"
@@ -22,14 +22,14 @@ language: "de"
 # Optionsgewinne mit System: Wie jeder an der Börse mit Option
 
 > Product ID `48800` · Digistore24 productId `309523` · [HTML profile page](../../produkte/optionsgewinne-mit-system-wie-jeder-an-der-b-rse-mit-option-48800.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $45.60 (Single payment) |
+| Price | $45.62 (Single payment) |
 | Affiliate commission | 20% |
 | Earnings/sale* | $5.57 |
 | Cart conversion* | 5% |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | r2finance |
 | Listed since | 2020-02-24 |
 | Auto-accept affiliates | no (approval required) |
-| Categories | Business & Investment, Education, Trading Products |
+| Categories | Trading Products, Business & Investment, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -70,14 +70,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Optionsgewinne mit System: Wie jeder an der Börse mit Option? — Typ: Book (printed), Anbieter: r2finance, gelistet seit 2020-02-24
-- Wie viel kostet es? — 45.596118000000004 USD
+- Wie viel kostet es? — 45.624664 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Optionsgewinne mit System: Wie jeder an der Börse mit Option Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/309523
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/309523/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Optionsgewinne%20mit%20System%3A%20Wie%20jeder%20an%20der%20B%C3%B6rse%20mit%20Option
 
 ## 4. Editorial notes

@@ -4,34 +4,34 @@ digistore24_product_id: 308794
 title: "[NEU] Passives Einkommen: Kickstart (aktueller Bestseller)"
 vendor: "digitalbeat"
 product_type: "Book (printed)"
-price: 908.89
+price: 909.46
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 31.82
+earnings_per_sale: 31.84
 cart_conversion_pct: 9
 cancel_rate_pct: 6.98
 categories: ["Online Marketing & E-Business"]
 listed_since: "2020-02-19"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/32177/adminstore/"
+promo_link: "https://www.digistore24.com/redir/308794/adminstore"
 sales_page: "https://start.gruender.de/kickstart-buch/?utm_source=Digistore24&utm_medium=Affiliate&utm_campaign=Aff%3A%20[AFFILIATE]&utm_content=Cam%3A%20[CAMPAIGNKEY]&dbtr=aff_[AFFILIATE]"
 language: "de"
 ---
 # [NEU] Passives Einkommen: Kickstart (aktueller Bestseller)
 
 > Product ID `32177` · Digistore24 productId `308794` · [HTML profile page](../../produkte/neu-passives-einkommen-kickstart-aktueller-bestseller-32177.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $908.89 (Single payment) |
+| Price | $909.46 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $31.82 |
+| Earnings/sale* | $31.84 |
 | Cart conversion* | 9% |
 | Cancel rate* | 6.98% |
 | Vendor | digitalbeat |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/32177/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/redir/308794/adminstore
 - Sales page: https://start.gruender.de/kickstart-buch/?utm_source=Digistore24&utm_medium=Affiliate&utm_campaign=Aff%3A%20[AFFILIATE]&utm_content=Cam%3A%20[CAMPAIGNKEY]&dbtr=aff_[AFFILIATE]
 - Vendor affiliate support: https://start.gruender.de/partner/kickstart-passives-einkommen-partner/
 - Canonical redirect: https://www.digistore24.com/redir/308794/adminstore
@@ -82,14 +82,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist [NEU] Passives Einkommen: Kickstart (aktueller Bestseller)? — Typ: Book (printed), Anbieter: digitalbeat, gelistet seit 2020-02-19
-- Wie viel kostet es? — 908.8923090000001 USD
+- Wie viel kostet es? — 909.461332 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: [NEU] Passives Einkommen: Kickstart (aktueller Bestseller) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/308794
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/308794/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=%5BNEU%5D%20Passives%20Einkommen%3A%20Kickstart%20(aktueller%20Bestseller)
 
 ## 4. Editorial notes

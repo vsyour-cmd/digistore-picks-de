@@ -4,34 +4,34 @@ digistore24_product_id: 733803
 title: "Die Youtube Analytics Guide"
 vendor: "AndreasLang"
 product_type: "E-books"
-price: 314.76
+price: 314.95
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 157.38
+earnings_per_sale: 157.48
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Social Media"]
 listed_since: "2024-09-25"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/50019/adminstore/"
+promo_link: "https://www.andreaslangdigital.com/YoutubeAnalyticsGuide/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.andreaslangdigital.com/YoutubeAnalyticsGuide/"
 language: "de"
 ---
 # Die Youtube Analytics Guide
 
 > Product ID `50019` · Digistore24 productId `733803` · [HTML profile page](../../produkte/die-youtube-analytics-guide-50019.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $314.76 (Single payment) |
+| Price | $314.95 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $157.38 |
+| Earnings/sale* | $157.48 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | AndreasLang |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/50019/adminstore/
+- **Promo link (affiliate):** https://www.andreaslangdigital.com/YoutubeAnalyticsGuide/?aff=adminstore#aff=adminstore
 - Sales page: https://www.andreaslangdigital.com/YoutubeAnalyticsGuide/
 - Vendor affiliate support: https://affiliateking.net/
 - Canonical redirect: https://www.digistore24.com/redir/733803/adminstore
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die Youtube Analytics Guide? — Typ: E-books, Anbieter: AndreasLang, gelistet seit 2024-09-25
-- Wie viel kostet es? — 314.756331 USD
+- Wie viel kostet es? — 314.953388 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Die Youtube Analytics Guide Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/733803
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/733803/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Die%20Youtube%20Analytics%20Guide
 
 ## 4. Editorial notes

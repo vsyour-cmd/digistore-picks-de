@@ -4,16 +4,16 @@ digistore24_product_id: 718278
 title: "Das 90/10-System – Band II: Sichtbar verkaufen"
 vendor: "rs-onlineagentur"
 product_type: "Downloads"
-price: 15.98
+price: 15.99
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 7.99
+earnings_per_sale: 8
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2026-08-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://rita-scheer.de/90-10-system-band2-verkaufsseite/?aff=adminstore#aff=adminstore"
 sales_page: "https://rita-scheer.de/90-10-system-band2-verkaufsseite/"
@@ -22,16 +22,16 @@ language: "de"
 # Das 90/10-System – Band II: Sichtbar verkaufen
 
 > Product ID `58134` · Digistore24 productId `718278` · [HTML profile page](../../produkte/das-90-10-system-band-ii-sichtbar-verkaufen-58134.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $15.98 (Single payment) |
+| Price | $15.99 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $7.99 |
+| Earnings/sale* | $8.00 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | rs-onlineagentur |
@@ -74,14 +74,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das 90/10-System – Band II: Sichtbar verkaufen? — Typ: Downloads, Anbieter: rs-onlineagentur, gelistet seit 2026-08-04
-- Wie viel kostet es? — 15.977649 USD
+- Wie viel kostet es? — 15.987651999999999 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Das 90/10-System – Band II: Sichtbar verkaufen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/718278
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/718278/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Das%2090%2F10-System%20%E2%80%93%20Band%20II%3A%20Sichtbar%20verkaufen
 
 ## 4. Editorial notes

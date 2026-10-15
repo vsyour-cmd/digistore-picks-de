@@ -4,16 +4,16 @@ digistore24_product_id: 546392
 title: "Rauchfrei für immer - Rauchstopp Programm"
 vendor: "MoruecoCoaching"
 product_type: "Downloads"
-price: 156.91
+price: 157.01
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 78.46
+earnings_per_sale: 78.51
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Fun & Games","Health & Fitness","Personal Development"]
+categories: ["Health & Fitness","Personal Development","Fun & Games"]
 listed_since: "2024-04-02"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.aufhoeren-rauchen.com/rauchstopp?aff=adminstore#aff=adminstore"
 sales_page: "https://www.aufhoeren-rauchen.com/rauchstopp"
@@ -22,22 +22,22 @@ language: "de"
 # Rauchfrei für immer - Rauchstopp Programm
 
 > Product ID `56144` · Digistore24 productId `546392` · [HTML profile page](../../produkte/rauchfrei-f-r-immer-rauchstopp-programm-56144.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $156.91 (Single payment) |
+| Price | $157.01 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $78.46 |
+| Earnings/sale* | $78.51 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MoruecoCoaching |
 | Listed since | 2024-04-02 |
 | Auto-accept affiliates | yes |
-| Categories | Fun & Games, Health & Fitness, Personal Development |
+| Categories | Health & Fitness, Personal Development, Fun & Games |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -103,14 +103,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Rauchfrei für immer - Rauchstopp Programm? — Typ: Downloads, Anbieter: MoruecoCoaching, gelistet seit 2024-04-02
-- Wie viel kostet es? — 156.91415400000002 USD
+- Wie viel kostet es? — 157.012392 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Rauchfrei für immer - Rauchstopp Programm Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/546392
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/546392/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Rauchfrei%20f%C3%BCr%20immer%20-%20Rauchstopp%20Programm
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 642951
 title: "PR Paket für Unternehmen und Dienstleister B2B und B2C"
 vendor: "LidoConsultingAps"
 product_type: "Remote service provided electronically"
-price: 166.6
+price: 166.7
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 33.32
+earnings_per_sale: 33.34
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Email Marketing","Profession & Job","Marketing Services"]
+categories: ["Profession & Job","Email Marketing","Marketing Services"]
 listed_since: "2025-10-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/642951?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/642951"
@@ -22,22 +22,22 @@ language: "de"
 # PR Paket für Unternehmen und Dienstleister B2B und B2C
 
 > Product ID `54488` · Digistore24 productId `642951` · [HTML profile page](../../produkte/pr-paket-f-r-unternehmen-und-dienstleister-b2b-und-b2c-54488.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $166.60 (Single payment) |
+| Price | $166.70 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $33.32 |
+| Earnings/sale* | $33.34 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | LidoConsultingAps |
 | Listed since | 2025-10-22 |
 | Auto-accept affiliates | yes |
-| Categories | Email Marketing, Profession & Job, Marketing Services |
+| Categories | Profession & Job, Email Marketing, Marketing Services |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -84,14 +84,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist PR Paket für Unternehmen und Dienstleister B2B und B2C? — Typ: Remote service provided electronically, Anbieter: LidoConsultingAps, gelistet seit 2025-10-22
-- Wie viel kostet es? — 166.5969 USD
+- Wie viel kostet es? — 166.7012 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: PR Paket für Unternehmen und Dienstleister B2B und B2C Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/642951
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/642951/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=PR%20Paket%20f%C3%BCr%20Unternehmen%20und%20Dienstleister%20B2B%20und%20B2C
 
 ## 4. Editorial notes

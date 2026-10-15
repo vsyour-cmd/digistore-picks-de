@@ -4,16 +4,16 @@ digistore24_product_id: 728515
 title: "GlobalLinkPageBio PRO –v1"
 vendor: "manuelcosta"
 product_type: "Software"
-price: 29.04
+price: 29.06
 currency: "USD"
 affiliate_commission_pct: 51
-earnings_per_sale: 14.8
+earnings_per_sale: 14.81
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Online Marketing & E-Business","Social Media","Software"]
+categories: ["Software","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-09-03"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
 promo_link: "https://globallinkpagebio-sales.netlify.app/?aff=adminstore#aff=adminstore"
 sales_page: "https://globallinkpagebio-sales.netlify.app/"
@@ -22,22 +22,22 @@ language: "de"
 # GlobalLinkPageBio PRO –v1
 
 > Product ID `58890` · Digistore24 productId `728515` · [HTML profile page](../../produkte/globallinkpagebio-pro-v1-58890.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $29.04 (Single payment) |
+| Price | $29.06 (Single payment) |
 | Affiliate commission | 51% |
-| Earnings/sale* | $14.80 |
+| Earnings/sale* | $14.81 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | manuelcosta |
 | Listed since | 2026-09-03 |
 | Auto-accept affiliates | yes |
-| Categories | Online Marketing & E-Business, Social Media, Software |
+| Categories | Software, Online Marketing & E-Business, Social Media |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -69,14 +69,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist GlobalLinkPageBio PRO –v1? — Typ: Software, Anbieter: manuelcosta, gelistet seit 2026-09-03
-- Wie viel kostet es? — 29.037057 USD
+- Wie viel kostet es? — 29.055236 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: GlobalLinkPageBio PRO –v1 Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/728515
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/728515/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=GlobalLinkPageBio%20PRO%20%E2%80%93v1
 
 ## 4. Editorial notes

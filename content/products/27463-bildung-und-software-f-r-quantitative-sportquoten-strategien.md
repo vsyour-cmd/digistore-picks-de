@@ -4,34 +4,34 @@ digistore24_product_id: 439870
 title: "Bildung und Software für quantitative Sportquoten-Strategien"
 vendor: "sportsbettingacademy"
 product_type: "Member area and video courses"
-price: 2817.8
+price: 2819.57
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 234.49
+earnings_per_sale: 234.63
 cart_conversion_pct: 7
 cancel_rate_pct: 3.08
 categories: ["Betting Systems"]
 listed_since: "2022-04-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/27463/adminstore/"
+promo_link: "https://www.digistore24.com/product/439870?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/439870"
 language: "de"
 ---
 # Bildung und Software für quantitative Sportquoten-Strategien
 
 > Product ID `27463` · Digistore24 productId `439870` · [HTML profile page](../../produkte/bildung-und-software-f-r-quantitative-sportquoten-strategien-27463.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $2817.80 (Single payment, Installment) |
+| Price | $2819.57 (Single payment, Installment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $234.49 |
+| Earnings/sale* | $234.63 |
 | Cart conversion* | 7% |
 | Cancel rate* | 3.08% |
 | Vendor | sportsbettingacademy |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/27463/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/439870?aff=adminstore
 - Sales page: https://www.digistore24.com/product/439870
 - Vendor affiliate support: https://sportsbettingacademy.coachy.net/lp/affiliate-support-seite/
 - Canonical redirect: https://www.digistore24.com/redir/439870/adminstore
@@ -93,14 +93,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Bildung und Software für quantitative Sportquoten-Strategien? — Typ: Member area and video courses, Anbieter: sportsbettingacademy, gelistet seit 2022-04-22
-- Wie viel kostet es? — 2817.8020770000003 USD
+- Wie viel kostet es? — 2819.566196 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Bildung und Software für quantitative Sportquoten-Strategien Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/439870
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/439870/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Bildung%20und%20Software%20f%C3%BCr%20quantitative%20Sportquoten-Strategien
 
 ## 4. Editorial notes

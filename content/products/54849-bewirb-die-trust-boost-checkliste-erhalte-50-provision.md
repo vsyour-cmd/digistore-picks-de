@@ -4,40 +4,40 @@ digistore24_product_id: 640065
 title: "Bewirb die Trust-Boost-Checkliste. Erhalte 50% Provision."
 vendor: "onlinemarketingwoman"
 product_type: "E-books"
-price: 40.75
+price: 40.78
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 20.38
+earnings_per_sale: 20.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Computer & Internet","Education","Online Marketing & E-Business"]
+categories: ["Computer & Internet","Online Marketing & E-Business","Education"]
 listed_since: "2025-10-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/54849/adminstore/"
+promo_link: "https://www.online-marketing-woman.de/60-trust-boost-checkliste-anmeldung?aff=adminstore#aff=adminstore"
 sales_page: "https://www.online-marketing-woman.de/60-trust-boost-checkliste-anmeldung"
 language: "de"
 ---
 # Bewirb die Trust-Boost-Checkliste. Erhalte 50% Provision.
 
 > Product ID `54849` · Digistore24 productId `640065` · [HTML profile page](../../produkte/bewirb-die-trust-boost-checkliste-erhalte-50-provision-54849.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $40.75 (Single payment) |
+| Price | $40.78 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $20.38 |
+| Earnings/sale* | $20.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | onlinemarketingwoman |
 | Listed since | 2025-10-07 |
 | Auto-accept affiliates | yes |
-| Categories | Computer & Internet, Education, Online Marketing & E-Business |
+| Categories | Computer & Internet, Online Marketing & E-Business, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/54849/adminstore/
+- **Promo link (affiliate):** https://www.online-marketing-woman.de/60-trust-boost-checkliste-anmeldung?aff=adminstore#aff=adminstore
 - Sales page: https://www.online-marketing-woman.de/60-trust-boost-checkliste-anmeldung
 - Vendor affiliate support: https://www.online-marketing-woman.de/55-59-60-61-affiliate-support-seite
 - Canonical redirect: https://www.digistore24.com/redir/640065/adminstore
@@ -87,14 +87,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Bewirb die Trust-Boost-Checkliste. Erhalte 50% Provision.? — Typ: E-books, Anbieter: onlinemarketingwoman, gelistet seit 2025-10-07
-- Wie viel kostet es? — 40.75474500000001 USD
+- Wie viel kostet es? — 40.780260000000006 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Bewirb die Trust-Boost-Checkliste. Erhalte 50% Provision. Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/640065
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/640065/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Bewirb%20die%20Trust-Boost-Checkliste.%20Erhalte%2050%25%20Provision.
 
 ## 4. Editorial notes

@@ -4,34 +4,34 @@ digistore24_product_id: 716340
 title: "ME-DARK SYSTEM  - Dein Online-Business starten"
 vendor: "medarksystem"
 product_type: "E-books"
-price: 103.45
+price: 103.51
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 51.72
+earnings_per_sale: 51.76
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing"]
 listed_since: "2026-08-12"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/58294/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/716340?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/716340"
 language: "de"
 ---
 # ME-DARK SYSTEM  - Dein Online-Business starten
 
 > Product ID `58294` · Digistore24 productId `716340` · [HTML profile page](../../produkte/me-dark-system-dein-online-business-starten-58294.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $103.45 (Single payment) |
+| Price | $103.51 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $51.72 |
+| Earnings/sale* | $51.76 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | medarksystem |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58294/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/716340?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/716340
 - Vendor affiliate support: https://me-dark.de/affiliate-bereich
 - Canonical redirect: https://www.digistore24.com/redir/716340/adminstore
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist ME-DARK SYSTEM  - Dein Online-Business starten? — Typ: E-books, Anbieter: medarksystem, gelistet seit 2026-08-12
-- Wie viel kostet es? — 103.446612 USD
+- Wie viel kostet es? — 103.511376 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: ME-DARK SYSTEM  - Dein Online-Business starten Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/716340
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/716340/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=ME-DARK%20SYSTEM%20%20-%20Dein%20Online-Business%20starten
 
 ## 4. Editorial notes

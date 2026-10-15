@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2024-12-02"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/50603/adminstore/"
+promo_link: "https://page.funnelcockpit.com/iwEdniEo5w5PTM28F?aff=adminstore#aff=adminstore"
 sales_page: "https://page.funnelcockpit.com/iwEdniEo5w5PTM28F"
 language: "de"
 ---
 # Dein Erfolgsleitfaden: In 5 Schritten zum profitablen...
 
 > Product ID `50603` · Digistore24 productId `583870` · [HTML profile page](../../produkte/dein-erfolgsleitfaden-in-5-schritten-zum-profitablen-50603.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/50603/adminstore/
+- **Promo link (affiliate):** https://page.funnelcockpit.com/iwEdniEo5w5PTM28F?aff=adminstore#aff=adminstore
 - Sales page: https://page.funnelcockpit.com/iwEdniEo5w5PTM28F
 - Vendor affiliate support: https://page.funnelcockpit.com/msNLW2FYWJ9dBKkxn
 - Canonical redirect: https://www.digistore24.com/redir/583870/adminstore
@@ -66,7 +66,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Dein Erfolgsleitfaden: In 5 Schritten zum profitablen... Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/583870
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/583870/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Dein%20Erfolgsleitfaden%3A%20In%205%20Schritten%20zum%20profitablen...
 
 ## 4. Editorial notes

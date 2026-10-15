@@ -4,16 +4,16 @@ digistore24_product_id: 725025
 title: "\" LandingPage \" erstellen günstig mit 99"
 vendor: "Skenteridis"
 product_type: "Remote service provided electronically"
-price: 110.69
+price: 110.76
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 27.67
+earnings_per_sale: 27.69
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Services","Marketing Services"]
 listed_since: "2026-08-25"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://robotics-marketing.com/de-landing/webseite-landingpage-erstellen-guenstig-digistore24-landing/?aff=adminstore#aff=adminstore"
 sales_page: "https://robotics-marketing.com/de-landing/webseite-landingpage-erstellen-guenstig-digistore24-landing/"
@@ -22,16 +22,16 @@ language: "de"
 # " LandingPage " erstellen günstig mit 99
 
 > Product ID `58664` · Digistore24 productId `725025` · [HTML profile page](../../produkte/landingpage-erstellen-g-nstig-mit-99-58664.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $110.69 (Single payment) |
+| Price | $110.76 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $27.67 |
+| Earnings/sale* | $27.69 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Skenteridis |
@@ -96,14 +96,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist " LandingPage " erstellen günstig mit 99? — Typ: Remote service provided electronically, Anbieter: Skenteridis, gelistet seit 2026-08-25
-- Wie viel kostet es? — 110.6919 USD
+- Wie viel kostet es? — 110.7612 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: " LandingPage " erstellen günstig mit 99 Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/725025
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/725025/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=%22%20LandingPage%20%22%20erstellen%20g%C3%BCnstig%20mit%2099
 
 ## 4. Editorial notes

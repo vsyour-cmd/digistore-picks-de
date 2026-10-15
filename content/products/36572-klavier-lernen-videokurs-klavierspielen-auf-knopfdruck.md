@@ -4,16 +4,16 @@ digistore24_product_id: 323603
 title: "Klavier lernen - Videokurs 'Klavierspielen auf Knopfdruck'"
 vendor: "modernmusic"
 product_type: "Member area and video courses"
-price: 185.1
+price: 185.22
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 92.56
+earnings_per_sale: 92.61
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dancing & Music"]
 listed_since: "2020-04-28"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.modern-music.org/klavierspielen-auf-knopfdruck?aff=adminstore#aff=adminstore"
 sales_page: "https://www.modern-music.org/klavierspielen-auf-knopfdruck"
@@ -22,16 +22,16 @@ language: "de"
 # Klavier lernen - Videokurs 'Klavierspielen auf Knopfdruck'
 
 > Product ID `36572` · Digistore24 productId `323603` · [HTML profile page](../../produkte/klavier-lernen-videokurs-klavierspielen-auf-knopfdruck-36572.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $185.10 (Single payment, Installment) |
+| Price | $185.22 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $92.56 |
+| Earnings/sale* | $92.61 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | modernmusic |
@@ -104,14 +104,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Klavier lernen - Videokurs 'Klavierspielen auf Knopfdruck'? — Typ: Member area and video courses, Anbieter: modernmusic, gelistet seit 2020-04-28
-- Wie viel kostet es? — 185.10145500000002 USD
+- Wie viel kostet es? — 185.21734 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Klavier lernen - Videokurs 'Klavierspielen auf Knopfdruck' Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/323603
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/323603/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Klavier%20lernen%20-%20Videokurs%20'Klavierspielen%20auf%20Knopfdruck'
 
 ## 4. Editorial notes

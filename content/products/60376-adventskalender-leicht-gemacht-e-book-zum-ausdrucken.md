@@ -4,16 +4,16 @@ digistore24_product_id: 742582
 title: "Adventskalender leicht gemacht – E-Book zum Ausdrucken"
 vendor: "ratgeberleichtgemacht"
 product_type: "Downloads"
-price: 9.3
+price: 9.31
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 3.72
+earnings_per_sale: 3.73
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2026-10-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/742582?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/742582"
@@ -22,16 +22,16 @@ language: "de"
 # Adventskalender leicht gemacht – E-Book zum Ausdrucken
 
 > Product ID `60376` · Digistore24 productId `742582` · [HTML profile page](../../produkte/adventskalender-leicht-gemacht-e-book-zum-ausdrucken-60376.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $9.30 (Single payment) |
+| Price | $9.31 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $3.72 |
+| Earnings/sale* | $3.73 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ratgeberleichtgemacht |
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Adventskalender leicht gemacht – E-Book zum Ausdrucken? — Typ: Downloads, Anbieter: ratgeberleichtgemacht, gelistet seit 2026-10-07
-- Wie viel kostet es? — 9.302592 USD
+- Wie viel kostet es? — 9.308416000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Adventskalender leicht gemacht – E-Book zum Ausdrucken Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/742582
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/742582/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Adventskalender%20leicht%20gemacht%20%E2%80%93%20E-Book%20zum%20Ausdrucken
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 33459
 title: "Selbstbewusstseins-Direkt-Premium"
 vendor: "Erfolg-Intuitiv"
 product_type: "Downloads"
-price: 92.18
+price: 92.23
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 46.09
+earnings_per_sale: 46.12
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2014-09-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://erfolg-intuitiv.de/selbstbewusstsein-direkt/?aff=adminstore#aff=adminstore"
 sales_page: "https://erfolg-intuitiv.de/selbstbewusstsein-direkt/"
@@ -22,16 +22,16 @@ language: "de"
 # Selbstbewusstseins-Direkt-Premium
 
 > Product ID `4969` · Digistore24 productId `33459` · [HTML profile page](../../produkte/selbstbewusstseins-direkt-premium-4969.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $92.18 (Single payment, Installment) |
+| Price | $92.23 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $46.09 |
+| Earnings/sale* | $46.12 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Erfolg-Intuitiv |
@@ -95,14 +95,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Selbstbewusstseins-Direkt-Premium? — Typ: Downloads, Anbieter: Erfolg-Intuitiv, gelistet seit 2014-09-24
-- Wie viel kostet es? — 92.176164 USD
+- Wie viel kostet es? — 92.233872 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Selbstbewusstseins-Direkt-Premium Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/33459
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/33459/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Selbstbewusstseins-Direkt-Premium
 
 ## 4. Editorial notes

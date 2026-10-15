@@ -4,34 +4,34 @@ digistore24_product_id: 410602
 title: "Egregoren - Wie wir seit 10.000 Jahren kontrolliert werden"
 vendor: "Thuphi888"
 product_type: "Webinar"
-price: 279.06
+price: 279.23
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 139.53
+earnings_per_sale: 139.62
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2021-10-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/38151/adminstore/"
+promo_link: "https://spirit-food.com/klarer-verstand/?aff=adminstore#aff=adminstore"
 sales_page: "https://spirit-food.com/klarer-verstand/"
 language: "de"
 ---
 # Egregoren - Wie wir seit 10.000 Jahren kontrolliert werden
 
 > Product ID `38151` · Digistore24 productId `410602` · [HTML profile page](../../produkte/egregoren-wie-wir-seit-10-000-jahren-kontrolliert-werden-38151.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Webinar |
-| Price | $279.06 (Single payment, Installment) |
+| Price | $279.23 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $139.53 |
+| Earnings/sale* | $139.62 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Thuphi888 |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/38151/adminstore/
+- **Promo link (affiliate):** https://spirit-food.com/klarer-verstand/?aff=adminstore#aff=adminstore
 - Sales page: https://spirit-food.com/klarer-verstand/
 - Canonical redirect: https://www.digistore24.com/redir/410602/adminstore
 
@@ -80,14 +80,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Egregoren - Wie wir seit 10.000 Jahren kontrolliert werden? — Typ: Webinar, Anbieter: Thuphi888, gelistet seit 2021-10-04
-- Wie viel kostet es? — 279.055398 USD
+- Wie viel kostet es? — 279.23010400000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Egregoren - Wie wir seit 10.000 Jahren kontrolliert werden Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/410602
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/410602/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Egregoren%20-%20Wie%20wir%20seit%2010.000%20Jahren%20kontrolliert%20werden
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 99407
 title: "meinOnlineBüro"
 vendor: "rbirgmeier"
 product_type: "Remote service provided electronically"
-price: 782.67
+price: 783.16
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 313.07
+earnings_per_sale: 313.26
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2016-10-12"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.meinonlinebuero.de/features-und-preise-3/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.meinonlinebuero.de/features-und-preise-3/"
@@ -22,16 +22,16 @@ language: "de"
 # meinOnlineBüro
 
 > Product ID `45788` · Digistore24 productId `99407` · [HTML profile page](../../produkte/meinonlineb-ro-45788.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $782.67 (Subscription) |
+| Price | $783.16 (Subscription) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $313.07 |
+| Earnings/sale* | $313.26 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | rbirgmeier |
@@ -84,14 +84,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist meinOnlineBüro? — Typ: Remote service provided electronically, Anbieter: rbirgmeier, gelistet seit 2016-10-12
-- Wie viel kostet es? — 782.6700000000001 USD
+- Wie viel kostet es? — 783.16 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: meinOnlineBüro Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/99407
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/99407/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=meinOnlineB%C3%BCro
 
 ## 4. Editorial notes

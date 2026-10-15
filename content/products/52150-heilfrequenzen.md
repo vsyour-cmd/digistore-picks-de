@@ -4,16 +4,16 @@ digistore24_product_id: 608566
 title: "Heilfrequenzen"
 vendor: "Empfehlungsmeister"
 product_type: "E-books"
-price: 15.4
+price: 15.41
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 7.7
+earnings_per_sale: 7.71
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2025-04-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "http://heilfrequenzen.empfehlungsmeister.com?aff=adminstore#aff=adminstore"
 sales_page: "http://heilfrequenzen.empfehlungsmeister.com"
@@ -22,16 +22,16 @@ language: "de"
 # Heilfrequenzen
 
 > Product ID `52150` · Digistore24 productId `608566` · [HTML profile page](../../produkte/heilfrequenzen-52150.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $15.40 (Single payment) |
+| Price | $15.41 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $7.70 |
+| Earnings/sale* | $7.71 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Empfehlungsmeister |
@@ -73,14 +73,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Heilfrequenzen? — Typ: E-books, Anbieter: Empfehlungsmeister, gelistet seit 2025-04-22
-- Wie viel kostet es? — 15.396237000000001 USD
+- Wie viel kostet es? — 15.405876 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Heilfrequenzen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/608566
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/608566/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Heilfrequenzen
 
 ## 4. Editorial notes

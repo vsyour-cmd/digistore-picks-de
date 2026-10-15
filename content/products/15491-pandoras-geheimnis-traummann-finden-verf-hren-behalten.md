@@ -4,34 +4,34 @@ digistore24_product_id: 98885
 title: "Pandoras Geheimnis - Traummann finden, verführen, behalten"
 vendor: "PetraSerena"
 product_type: "E-books"
-price: 41.69
+price: 41.72
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 20.85
+earnings_per_sale: 20.87
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2016-10-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/15491/adminstore/"
+promo_link: "https://www.soulmatecoaching.de/pandoras-geheimnis/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.soulmatecoaching.de/pandoras-geheimnis/"
 language: "de"
 ---
 # Pandoras Geheimnis - Traummann finden, verführen, behalten
 
 > Product ID `15491` · Digistore24 productId `98885` · [HTML profile page](../../produkte/pandoras-geheimnis-traummann-finden-verf-hren-behalten-15491.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $41.69 (Single payment) |
+| Price | $41.72 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $20.85 |
+| Earnings/sale* | $20.87 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | PetraSerena |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/15491/adminstore/
+- **Promo link (affiliate):** https://www.soulmatecoaching.de/pandoras-geheimnis/?aff=adminstore#aff=adminstore
 - Sales page: https://www.soulmatecoaching.de/pandoras-geheimnis/
 - Vendor affiliate support: https://www.soulmatecoaching.de/partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/98885/adminstore
@@ -76,14 +76,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Pandoras Geheimnis - Traummann finden, verführen, behalten? — Typ: E-books, Anbieter: PetraSerena, gelistet seit 2016-10-09
-- Wie viel kostet es? — 41.693949 USD
+- Wie viel kostet es? — 41.720052 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Pandoras Geheimnis - Traummann finden, verführen, behalten Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/98885
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/98885/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Pandoras%20Geheimnis%20-%20Traummann%20finden%2C%20verf%C3%BChren%2C%20behalten
 
 ## 4. Editorial notes

@@ -12,17 +12,17 @@ cart_conversion_pct: 41
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2025-01-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.checkout-ds24.com/redir/51007/adminstore/"
+promo_link: "https://www.cash-unity.de/nischenpower/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.cash-unity.de/nischenpower/"
 language: "de"
 ---
 # Nischen-Power Affiliate Marketing
 
 > Product ID `51007` · Digistore24 productId `590936` · [HTML profile page](../../produkte/nischen-power-affiliate-marketing-51007.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/redir/51007/adminstore/
+- **Promo link (affiliate):** https://www.cash-unity.de/nischenpower/?aff=adminstore#aff=adminstore
 - Sales page: https://www.cash-unity.de/nischenpower/
 - Vendor affiliate support: https://www.cash-unity.de/werbemittel-nischen-power/
 - Canonical redirect: https://www.digistore24.com/redir/590936/adminstore
@@ -66,7 +66,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Nischen-Power Affiliate Marketing Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/590936
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/590936/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Nischen-Power%20Affiliate%20Marketing
 
 ## 4. Editorial notes

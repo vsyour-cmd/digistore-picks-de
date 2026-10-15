@@ -4,40 +4,40 @@ digistore24_product_id: 734143
 title: "Windows 11 Komplettkurs für Einsteiger"
 vendor: "AndreasLang"
 product_type: "Member area and video courses"
-price: 44.16
+price: 44.19
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 22.08
+earnings_per_sale: 22.1
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Computer & Internet","Education","Software"]
+categories: ["Software","Computer & Internet","Education"]
 listed_since: "2026-09-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/59639/adminstore/"
+promo_link: "https://www.digistore24.com/product/734143?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/734143"
 language: "de"
 ---
 # Windows 11 Komplettkurs für Einsteiger
 
 > Product ID `59639` · Digistore24 productId `734143` · [HTML profile page](../../produkte/windows-11-komplettkurs-f-r-einsteiger-59639.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $44.16 (Single payment) |
+| Price | $44.19 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $22.08 |
+| Earnings/sale* | $22.10 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | AndreasLang |
 | Listed since | 2026-09-24 |
 | Auto-accept affiliates | yes |
-| Categories | Computer & Internet, Education, Software |
+| Categories | Software, Computer & Internet, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59639/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/734143?aff=adminstore
 - Sales page: https://www.digistore24.com/product/734143
 - Vendor affiliate support: https://affiliateking.net/
 - Canonical redirect: https://www.digistore24.com/redir/734143/adminstore
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Windows 11 Komplettkurs für Einsteiger? — Typ: Member area and video courses, Anbieter: AndreasLang, gelistet seit 2026-09-24
-- Wie viel kostet es? — 44.164950000000005 USD
+- Wie viel kostet es? — 44.1926 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Windows 11 Komplettkurs für Einsteiger Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/734143
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/734143/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Windows%2011%20Komplettkurs%20f%C3%BCr%20Einsteiger
 
 ## 4. Editorial notes

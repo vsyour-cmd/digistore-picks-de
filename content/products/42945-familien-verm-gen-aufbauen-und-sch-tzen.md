@@ -4,7 +4,7 @@ digistore24_product_id: 474862
 title: "Familien Vermögen aufbauen und schützen"
 vendor: "Professor-Money"
 product_type: "Book (printed)"
-price: 20.8
+price: 20.81
 currency: "USD"
 affiliate_commission_pct: 0
 earnings_per_sale: 7.83
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2022-12-14"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/42945/adminstore/"
+promo_link: "https://www.professor-money.de/finanzwissen/familienvermoegen?utm_source=meta&utm_medium=Ad&utm_campaign=B01FV&aff=adminstore#aff=adminstore"
 sales_page: "https://www.professor-money.de/finanzwissen/familienvermoegen?utm_source=meta&utm_medium=Ad&utm_campaign=B01FV"
 language: "de"
 ---
 # Familien Vermögen aufbauen und schützen
 
 > Product ID `42945` · Digistore24 productId `474862` · [HTML profile page](../../produkte/familien-verm-gen-aufbauen-und-sch-tzen-42945.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $20.80 (Single payment) |
+| Price | $20.81 (Single payment) |
 | Affiliate commission | 0% |
 | Earnings/sale* | $7.83 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/42945/adminstore/
+- **Promo link (affiliate):** https://www.professor-money.de/finanzwissen/familienvermoegen?utm_source=meta&utm_medium=Ad&utm_campaign=B01FV&aff=adminstore#aff=adminstore
 - Sales page: https://www.professor-money.de/finanzwissen/familienvermoegen?utm_source=meta&utm_medium=Ad&utm_campaign=B01FV
 - Vendor affiliate support: https://www.professor-money.de/lp/affiliate-support
 - Canonical redirect: https://www.digistore24.com/redir/474862/adminstore
@@ -77,14 +77,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Familien Vermögen aufbauen und schützen? — Typ: Book (printed), Anbieter: Professor-Money, gelistet seit 2022-12-14
-- Wie viel kostet es? — 20.796660000000003 USD
+- Wie viel kostet es? — 20.80968 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Familien Vermögen aufbauen und schützen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/474862
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/474862/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Familien%20Verm%C3%B6gen%20aufbauen%20und%20sch%C3%BCtzen
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 689739
 title: "InnenWerk-System – Werde, wer Du wirklich bist"
 vendor: "JuergenBraun-Mentoring"
 product_type: "Member area and video courses"
-price: 972.75
+price: 973.36
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 291.82
+earnings_per_sale: 292.01
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Profession & Job","Leadership & Management"]
 listed_since: "2026-07-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://innenwerk-system.systeme.io/?aff=adminstore#aff=adminstore"
 sales_page: "https://innenwerk-system.systeme.io/"
@@ -22,16 +22,16 @@ language: "de"
 # InnenWerk-System – Werde, wer Du wirklich bist
 
 > Product ID `57668` · Digistore24 productId `689739` · [HTML profile page](../../produkte/innenwerk-system-werde-wer-du-wirklich-bist-57668.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $972.75 (Single payment, Installment) |
+| Price | $973.36 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $291.82 |
+| Earnings/sale* | $292.01 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | JuergenBraun-Mentoring |
@@ -93,14 +93,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist InnenWerk-System – Werde, wer Du wirklich bist? — Typ: Member area and video courses, Anbieter: JuergenBraun-Mentoring, gelistet seit 2026-07-22
-- Wie viel kostet es? — 972.7470000000001 USD
+- Wie viel kostet es? — 973.356 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: InnenWerk-System – Werde, wer Du wirklich bist Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/689739
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/689739/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=InnenWerk-System%20%E2%80%93%20Werde%2C%20wer%20Du%20wirklich%20bist
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 621434
 title: "Tage der Entscheidung"
 vendor: "Joerg-Loehr-ET"
 product_type: "Seminar/event for recreation"
-price: 2106.5
+price: 2107.82
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 559.05
+earnings_per_sale: 559.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Marketing Services"]
 listed_since: "2025-06-30"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://partner.joerg-loehr.com/seminare/tagederentscheidung?aff=adminstore#aff=adminstore"
 sales_page: "https://partner.joerg-loehr.com/seminare/tagederentscheidung"
@@ -22,16 +22,16 @@ language: "de"
 # Tage der Entscheidung
 
 > Product ID `55200` · Digistore24 productId `621434` · [HTML profile page](../../produkte/tage-der-entscheidung-55200.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Seminar/event for recreation |
-| Price | $2106.50 (Single payment, Installment) |
+| Price | $2107.82 (Single payment, Installment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $559.05 |
+| Earnings/sale* | $559.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Joerg-Loehr-ET |
@@ -88,14 +88,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Tage der Entscheidung? — Typ: Seminar/event for recreation, Anbieter: Joerg-Loehr-ET, gelistet seit 2025-06-30
-- Wie viel kostet es? — 2106.5004000000004 USD
+- Wie viel kostet es? — 2107.8192 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Tage der Entscheidung Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/621434
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/621434/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Tage%20der%20Entscheidung
 
 ## 4. Editorial notes

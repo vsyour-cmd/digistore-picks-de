@@ -4,7 +4,7 @@ digistore24_product_id: 716974
 title: "Die Hosts  Datei"
 vendor: "Novaris_web"
 product_type: "Downloads"
-price: 8.45
+price: 8.46
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 0.85
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet"]
 listed_since: "2026-08-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/58723/adminstore/"
+promo_link: "https://novaris.de.cool/hosts.php?aff=adminstore#aff=adminstore"
 sales_page: "https://novaris.de.cool/hosts.php"
 language: "de"
 ---
 # Die Hosts  Datei
 
 > Product ID `58723` · Digistore24 productId `716974` · [HTML profile page](../../produkte/die-hosts-datei-58723.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $8.45 (Single payment) |
+| Price | $8.46 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $0.85 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58723/adminstore/
+- **Promo link (affiliate):** https://novaris.de.cool/hosts.php?aff=adminstore#aff=adminstore
 - Sales page: https://novaris.de.cool/hosts.php
 - Canonical redirect: https://www.digistore24.com/redir/716974/adminstore
 
@@ -70,14 +70,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die Hosts  Datei? — Typ: Downloads, Anbieter: Novaris_web, gelistet seit 2026-08-27
-- Wie viel kostet es? — 8.452836 USD
+- Wie viel kostet es? — 8.458128 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Die Hosts  Datei Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/716974
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/716974/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Die%20Hosts%20%20Datei
 
 ## 4. Editorial notes

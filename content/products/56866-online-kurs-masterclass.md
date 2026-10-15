@@ -4,16 +4,16 @@ digistore24_product_id: 444328
 title: "Online Kurs Masterclass"
 vendor: "anchukoegl"
 product_type: "Member area and video courses"
-price: 2676.73
+price: 2678.41
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 669.18
+earnings_per_sale: 669.6
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Marketing Services"]
 listed_since: "2026-06-12"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://anchukoegl.com/obm-sonderpreis/?aff=adminstore#aff=adminstore"
 sales_page: "https://anchukoegl.com/obm-sonderpreis/"
@@ -22,16 +22,16 @@ language: "de"
 # Online Kurs Masterclass
 
 > Product ID `56866` · Digistore24 productId `444328` · [HTML profile page](../../produkte/online-kurs-masterclass-56866.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich (browser-rendered)**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $2676.73 (Single payment, Installment) |
+| Price | $2678.41 (Single payment, Installment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $669.18 |
+| Earnings/sale* | $669.60 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | anchukoegl |
@@ -102,14 +102,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online Kurs Masterclass? — Typ: Member area and video courses, Anbieter: anchukoegl, gelistet seit 2026-06-12
-- Wie viel kostet es? — 2676.7314 USD
+- Wie viel kostet es? — 2678.4072 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Online Kurs Masterclass Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/444328
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/444328/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Online%20Kurs%20Masterclass
 
 ## 4. Editorial notes

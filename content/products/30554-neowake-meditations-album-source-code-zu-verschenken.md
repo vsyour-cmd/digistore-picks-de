@@ -4,16 +4,16 @@ digistore24_product_id: 287998
 title: "neowake® Meditations Album Source Code - zu verschenken"
 vendor: "EnergeticTernity"
 product_type: "Downloads"
-price: 266.51
+price: 266.68
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 98.5
+earnings_per_sale: 98.57
 cart_conversion_pct: 8
 cancel_rate_pct: 3.18
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2019-09-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://neowake.de/source-code/?aff=adminstore#aff=adminstore"
 sales_page: "https://neowake.de/source-code/"
@@ -22,16 +22,16 @@ language: "de"
 # neowake® Meditations Album Source Code - zu verschenken
 
 > Product ID `30554` · Digistore24 productId `287998` · [HTML profile page](../../produkte/neowake-meditations-album-source-code-zu-verschenken-30554.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $266.51 (Single payment) |
+| Price | $266.68 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $98.50 |
+| Earnings/sale* | $98.57 |
 | Cart conversion* | 8% |
 | Cancel rate* | 3.18% |
 | Vendor | EnergeticTernity |
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist neowake® Meditations Album Source Code - zu verschenken? — Typ: Downloads, Anbieter: EnergeticTernity, gelistet seit 2019-09-24
-- Wie viel kostet es? — 266.51031600000005 USD
+- Wie viel kostet es? — 266.677168 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: neowake® Meditations Album Source Code - zu verschenken Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/287998
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/287998/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=neowake%C2%AE%20Meditations%20Album%20Source%20Code%20-%20zu%20verschenken
 
 ## 4. Editorial notes

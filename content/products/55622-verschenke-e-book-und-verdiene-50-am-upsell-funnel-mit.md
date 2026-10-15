@@ -4,16 +4,16 @@ digistore24_product_id: 563358
 title: "Verschenke E-Book und verdiene 50% am Upsell Funnel mit"
 vendor: "MSFS_2218"
 product_type: "E-books"
-price: 7.31
+price: 7.32
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 0.79
 cart_conversion_pct: 36
 cancel_rate_pct: 0.11
-categories: ["Computer & Internet","Education","Online Marketing & E-Business"]
+categories: ["Computer & Internet","Online Marketing & E-Business","Education"]
 listed_since: "2024-07-30"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://byebyehamsterrad.de/die-macht-der-bilder/?aff=adminstore#aff=adminstore"
 sales_page: "https://byebyehamsterrad.de/die-macht-der-bilder/"
@@ -22,14 +22,14 @@ language: "de"
 # Verschenke E-Book und verdiene 50% am Upsell Funnel mit
 
 > Product ID `55622` · Digistore24 productId `563358` · [HTML profile page](../../produkte/verschenke-e-book-und-verdiene-50-am-upsell-funnel-mit-55622.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $7.31 (Single payment) |
+| Price | $7.32 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $0.79 |
 | Cart conversion* | 36% |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | MSFS_2218 |
 | Listed since | 2024-07-30 |
 | Auto-accept affiliates | yes |
-| Categories | Computer & Internet, Education, Online Marketing & E-Business |
+| Categories | Computer & Internet, Online Marketing & E-Business, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -80,14 +80,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Verschenke E-Book und verdiene 50% am Upsell Funnel mit? — Typ: E-books, Anbieter: MSFS_2218, gelistet seit 2024-07-30
-- Wie viel kostet es? — 7.312374000000001 USD
+- Wie viel kostet es? — 7.316952000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Verschenke E-Book und verdiene 50% am Upsell Funnel mit Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/563358
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/563358/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Verschenke%20E-Book%20und%20verdiene%2050%25%20am%20Upsell%20Funnel%20mit
 
 ## 4. Editorial notes

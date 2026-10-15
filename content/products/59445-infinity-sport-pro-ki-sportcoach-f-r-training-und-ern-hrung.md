@@ -4,34 +4,34 @@ digistore24_product_id: 726292
 title: "INFINITY SPORT PRO  KI-Sportcoach für Training und Ernährung"
 vendor: "uweboehle47cf"
 product_type: "Software"
-price: 32.79
+price: 32.81
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 11.48
+earnings_per_sale: 11.49
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Sport"]
 listed_since: "2026-09-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/59445/adminstore/"
+promo_link: "https://infinity-sport.business-coach-uwe-boehle.ch/guthaben-sport.php?aff=adminstore#aff=adminstore"
 sales_page: "https://infinity-sport.business-coach-uwe-boehle.ch/guthaben-sport.php"
 language: "de"
 ---
 # INFINITY SPORT PRO  KI-Sportcoach für Training und Ernährung
 
 > Product ID `59445` · Digistore24 productId `726292` · [HTML profile page](../../produkte/infinity-sport-pro-ki-sportcoach-f-r-training-und-ern-hrung-59445.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $32.79 (Single payment) |
+| Price | $32.81 (Single payment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $11.48 |
+| Earnings/sale* | $11.49 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | uweboehle47cf |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59445/adminstore/
+- **Promo link (affiliate):** https://infinity-sport.business-coach-uwe-boehle.ch/guthaben-sport.php?aff=adminstore#aff=adminstore
 - Sales page: https://infinity-sport.business-coach-uwe-boehle.ch/guthaben-sport.php
 - Vendor affiliate support: https://infinity-sport.business-coach-uwe-boehle.ch/affiliate.html
 - Canonical redirect: https://www.digistore24.com/redir/726292/adminstore
@@ -74,14 +74,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist INFINITY SPORT PRO  KI-Sportcoach für Training und Ernährung? — Typ: Software, Anbieter: uweboehle47cf, gelistet seit 2026-09-21
-- Wie viel kostet es? — 32.793873 USD
+- Wie viel kostet es? — 32.814403999999996 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: INFINITY SPORT PRO  KI-Sportcoach für Training und Ernährung Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/726292
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/726292/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=INFINITY%20SPORT%20PRO%20%20KI-Sportcoach%20f%C3%BCr%20Training%20und%20Ern%C3%A4hrung
 
 ## 4. Editorial notes

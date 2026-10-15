@@ -12,8 +12,8 @@ cart_conversion_pct: 50
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Email Marketing"]
 listed_since: "2024-07-19"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://www.meinneuerlifestyle.vip/chat-gpt-beginner/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.meinneuerlifestyle.vip/chat-gpt-beginner/"
@@ -22,7 +22,7 @@ language: "de"
 # Chat GPT - Dein Anfänger Guide
 
 > Product ID `48736` · Digistore24 productId `561894` · [HTML profile page](../../produkte/chat-gpt-dein-anf-nger-guide-48736.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -59,14 +59,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Chat GPT - Dein Anfänger Guide? — Typ: E-books, Anbieter: Spekulatius, gelistet seit 2024-07-19
-- Wie viel kostet es? — 0.41369700000000004 USD
+- Wie viel kostet es? — 0.413956 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Chat GPT - Dein Anfänger Guide Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/561894
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/561894/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Chat%20GPT%20-%20Dein%20Anf%C3%A4nger%20Guide
 
 ## 4. Editorial notes

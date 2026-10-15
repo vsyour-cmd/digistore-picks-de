@@ -4,7 +4,7 @@ digistore24_product_id: 596477
 title: "eBook „Die Pinterest Geldmaschine“"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 15.62
+price: 15.63
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 7.82
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2025-02-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://michael-kotzur.de/ebook-pinterest/?aff=adminstore#aff=adminstore"
 sales_page: "https://michael-kotzur.de/ebook-pinterest/"
@@ -22,14 +22,14 @@ language: "de"
 # eBook „Die Pinterest Geldmaschine“
 
 > Product ID `51634` · Digistore24 productId `596477` · [HTML profile page](../../produkte/ebook-die-pinterest-geldmaschine-51634.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $15.62 (Single payment) |
+| Price | $15.63 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $7.82 |
 | Cart conversion* | — |
@@ -78,14 +78,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist eBook „Die Pinterest Geldmaschine“? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2025-02-15
-- Wie viel kostet es? — 15.619857000000001 USD
+- Wie viel kostet es? — 15.629636000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: eBook „Die Pinterest Geldmaschine“ Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/596477
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/596477/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=eBook%20%E2%80%9EDie%20Pinterest%20Geldmaschine%E2%80%9C
 
 ## 4. Editorial notes

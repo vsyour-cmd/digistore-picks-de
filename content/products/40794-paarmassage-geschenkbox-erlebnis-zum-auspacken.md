@@ -4,16 +4,16 @@ digistore24_product_id: 450935
 title: "Paarmassage Geschenkbox – Erlebnis zum Auspacken"
 vendor: "magoody"
 product_type: "Deliverable"
-price: 58.23
+price: 58.27
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 24.91
+earnings_per_sale: 24.93
 cart_conversion_pct: 10
 cancel_rate_pct: 1.73
 categories: ["Health & Fitness"]
 listed_since: "2022-07-13"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://magoody.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://magoody.de/"
@@ -22,16 +22,16 @@ language: "de"
 # Paarmassage Geschenkbox – Erlebnis zum Auspacken
 
 > Product ID `40794` · Digistore24 productId `450935` · [HTML profile page](../../produkte/paarmassage-geschenkbox-erlebnis-zum-auspacken-40794.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Deliverable |
-| Price | $58.23 (Single payment) |
+| Price | $58.27 (Single payment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $24.91 |
+| Earnings/sale* | $24.93 |
 | Cart conversion* | 10% |
 | Cancel rate* | 1.73% |
 | Vendor | magoody |
@@ -85,14 +85,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Paarmassage Geschenkbox – Erlebnis zum Auspacken? — Typ: Deliverable, Anbieter: magoody, gelistet seit 2022-07-13
-- Wie viel kostet es? — 58.230648 USD
+- Wie viel kostet es? — 58.267103999999996 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Paarmassage Geschenkbox – Erlebnis zum Auspacken Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/450935
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/450935/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Paarmassage%20Geschenkbox%20%E2%80%93%20Erlebnis%20zum%20Auspacken
 
 ## 4. Editorial notes

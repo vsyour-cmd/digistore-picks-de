@@ -4,16 +4,16 @@ digistore24_product_id: 583561
 title: "The Affiliate Academy Pro"
 vendor: "marketingmarko"
 product_type: "Member area and video courses"
-price: 1409
+price: 1409.88
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 284.06
+earnings_per_sale: 284.24
 cart_conversion_pct: 3
 cancel_rate_pct: 9.28
 categories: ["Business & Investment","Social Media"]
 listed_since: "2024-11-30"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://www.theaffiliateacademy.de/taapro/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.theaffiliateacademy.de/taapro/"
@@ -22,16 +22,16 @@ language: "de"
 # The Affiliate Academy Pro
 
 > Product ID `51270` · Digistore24 productId `583561` · [HTML profile page](../../produkte/the-affiliate-academy-pro-51270.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1409.00 (Installment) |
+| Price | $1409.88 (Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $284.06 |
+| Earnings/sale* | $284.24 |
 | Cart conversion* | 3% |
 | Cancel rate* | 9.28% |
 | Vendor | marketingmarko |
@@ -66,14 +66,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist The Affiliate Academy Pro? — Typ: Member area and video courses, Anbieter: marketingmarko, gelistet seit 2024-11-30
-- Wie viel kostet es? — 1408.9960770000002 USD
+- Wie viel kostet es? — 1409.8781960000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The Affiliate Academy Pro Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/583561
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/583561/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=The%20Affiliate%20Academy%20Pro
 
 ## 4. Editorial notes

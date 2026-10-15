@@ -4,16 +4,16 @@ digistore24_product_id: 572157
 title: "Das Gesetz der Verdauung"
 vendor: "AndreasLang"
 product_type: "Member area and video courses"
-price: 148.73
+price: 148.82
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 94.56
+earnings_per_sale: 94.62
 cart_conversion_pct: 5
 cancel_rate_pct: 5.63
-categories: ["Food & Drink","Health & Fitness"]
+categories: ["Health & Fitness","Food & Drink"]
 listed_since: "2024-09-25"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://billionenmarkt.com/lp-direct?group=affiliates&aff=adminstore#aff=adminstore"
 sales_page: "https://billionenmarkt.com/lp-direct?group=affiliates"
@@ -22,22 +22,22 @@ language: "de"
 # Das Gesetz der Verdauung
 
 > Product ID `50218` · Digistore24 productId `572157` · [HTML profile page](../../produkte/das-gesetz-der-verdauung-50218.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $148.73 (Single payment) |
+| Price | $148.82 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $94.56 |
+| Earnings/sale* | $94.62 |
 | Cart conversion* | 5% |
 | Cancel rate* | 5.63% |
 | Vendor | AndreasLang |
 | Listed since | 2024-09-25 |
 | Auto-accept affiliates | yes |
-| Categories | Food & Drink, Health & Fitness |
+| Categories | Health & Fitness, Food & Drink |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -89,14 +89,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Gesetz der Verdauung? — Typ: Member area and video courses, Anbieter: AndreasLang, gelistet seit 2024-09-25
-- Wie viel kostet es? — 148.72966200000002 USD
+- Wie viel kostet es? — 148.822776 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Das Gesetz der Verdauung Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/572157
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/572157/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Das%20Gesetz%20der%20Verdauung
 
 ## 4. Editorial notes

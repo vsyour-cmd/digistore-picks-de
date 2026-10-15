@@ -4,7 +4,7 @@ digistore24_product_id: 134769
 title: "Überleben in der Krise"
 vendor: "am-publishing"
 product_type: "E-books"
-price: 31.04
+price: 31.06
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 3.11
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2017-04-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/20759/adminstore/"
+promo_link: "https://www.digistore24.com/product/134769?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/134769"
 language: "de"
 ---
 # Überleben in der Krise
 
 > Product ID `20759` · Digistore24 productId `134769` · [HTML profile page](../../produkte/berleben-in-der-krise-20759.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $31.04 (Single payment) |
+| Price | $31.06 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $3.11 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/20759/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/134769?aff=adminstore
 - Sales page: https://www.digistore24.com/product/134769
 - Canonical redirect: https://www.digistore24.com/redir/134769/adminstore
 
@@ -73,14 +73,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Überleben in der Krise? — Typ: E-books, Anbieter: am-publishing, gelistet seit 2017-04-26
-- Wie viel kostet es? — 31.038456000000004 USD
+- Wie viel kostet es? — 31.057888000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Überleben in der Krise Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/134769
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/134769/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=%C3%9Cberleben%20in%20der%20Krise
 
 ## 4. Editorial notes

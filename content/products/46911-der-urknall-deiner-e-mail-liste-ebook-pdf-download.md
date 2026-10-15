@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Email Marketing"]
 listed_since: "2024-01-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/46911/adminstore/"
+promo_link: "https://mariokozlowski2.funnelcockpit.com/sq2/?aff=adminstore#aff=adminstore"
 sales_page: "https://mariokozlowski2.funnelcockpit.com/sq2/"
 language: "de"
 ---
 # Der Urknall Deiner E-Mail-Liste eBook PDF-Download
 
 > Product ID `46911` · Digistore24 productId `535694` · [HTML profile page](../../produkte/der-urknall-deiner-e-mail-liste-ebook-pdf-download-46911.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/46911/adminstore/
+- **Promo link (affiliate):** https://mariokozlowski2.funnelcockpit.com/sq2/?aff=adminstore#aff=adminstore
 - Sales page: https://mariokozlowski2.funnelcockpit.com/sq2/
 - Vendor affiliate support: https://mariokozlowski2.funnelcockpit.com/partnerseite/
 - Canonical redirect: https://www.digistore24.com/redir/535694/adminstore
@@ -66,7 +66,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Der Urknall Deiner E-Mail-Liste eBook PDF-Download Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/535694
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/535694/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%20Urknall%20Deiner%20E-Mail-Liste%20eBook%20PDF-Download
 
 ## 4. Editorial notes

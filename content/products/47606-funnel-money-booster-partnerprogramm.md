@@ -10,10 +10,10 @@ affiliate_commission_pct: 50
 earnings_per_sale: 3.56
 cart_conversion_pct: 20
 cancel_rate_pct: 0.24
-categories: ["Business & Investment","Email Marketing","Online Marketing & E-Business"]
+categories: ["Business & Investment","Online Marketing & E-Business","Email Marketing"]
 listed_since: "2022-11-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/redir/468689/adminstore"
 sales_page: "https://www.profitbuddies.de/funnel-money-booster?voucher=FMB-Special&aff=[AFFILIATE]"
@@ -22,7 +22,7 @@ language: "de"
 # Funnel Money Booster | Partnerprogramm
 
 > Product ID `47606` · Digistore24 productId `468689` · [HTML profile page](../../produkte/funnel-money-booster-partnerprogramm-47606.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | profitbuddies |
 | Listed since | 2022-11-08 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Email Marketing, Online Marketing & E-Business |
+| Categories | Business & Investment, Online Marketing & E-Business, Email Marketing |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -74,14 +74,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Funnel Money Booster | Partnerprogramm? — Typ: Member area and video courses, Anbieter: profitbuddies, gelistet seit 2022-11-08
-- Wie viel kostet es? — 2.135571 USD
+- Wie viel kostet es? — 2.136908 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Funnel Money Booster | Partnerprogramm Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/468689
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/468689/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Funnel%20Money%20Booster%20%7C%20Partnerprogramm
 
 ## 4. Editorial notes

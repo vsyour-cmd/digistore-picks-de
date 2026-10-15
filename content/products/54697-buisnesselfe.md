@@ -4,34 +4,34 @@ digistore24_product_id: 616060
 title: "BuisnessElfe"
 vendor: "DreamElfe"
 product_type: "E-books"
-price: 205.85
+price: 205.98
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 41.17
+earnings_per_sale: 41.19
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2025-06-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/54697/adminstore/"
+promo_link: "https://dreamelfes-buisness.systeme.io/business-elfe-ds?aff=adminstore#aff=adminstore"
 sales_page: "https://dreamelfes-buisness.systeme.io/business-elfe-ds"
 language: "de"
 ---
 # BuisnessElfe
 
 > Product ID `54697` · Digistore24 productId `616060` · [HTML profile page](../../produkte/buisnesselfe-54697.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $205.85 (Single payment) |
+| Price | $205.98 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $41.17 |
+| Earnings/sale* | $41.19 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DreamElfe |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/54697/adminstore/
+- **Promo link (affiliate):** https://dreamelfes-buisness.systeme.io/business-elfe-ds?aff=adminstore#aff=adminstore
 - Sales page: https://dreamelfes-buisness.systeme.io/business-elfe-ds
 - Canonical redirect: https://www.digistore24.com/redir/616060/adminstore
 
@@ -78,14 +78,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist BuisnessElfe? — Typ: E-books, Anbieter: DreamElfe, gelistet seit 2025-06-01
-- Wie viel kostet es? — 205.85339100000004 USD
+- Wie viel kostet es? — 205.982268 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: BuisnessElfe Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/616060
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/616060/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=BuisnessElfe
 
 ## 4. Editorial notes

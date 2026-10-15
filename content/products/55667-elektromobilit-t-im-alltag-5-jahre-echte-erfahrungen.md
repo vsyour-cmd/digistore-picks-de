@@ -4,32 +4,32 @@ digistore24_product_id: 670155
 title: "Elektromobilität im Alltag – 5 Jahre echte Erfahrungen"
 vendor: "wallerjung"
 product_type: "E-books"
-price: 10.44
+price: 10.45
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 5.22
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Green Products & Environmental Protection","Social Media","Travel & Culture"]
+categories: ["Travel & Culture","Green Products & Environmental Protection","Social Media"]
 listed_since: "2026-02-19"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/55667/adminstore/"
+promo_link: "https://www.digistore24.com/product/670155?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/670155"
 language: "de"
 ---
 # Elektromobilität im Alltag – 5 Jahre echte Erfahrungen
 
 > Product ID `55667` · Digistore24 productId `670155` · [HTML profile page](../../produkte/elektromobilit-t-im-alltag-5-jahre-echte-erfahrungen-55667.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.44 (Single payment) |
+| Price | $10.45 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $5.22 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | wallerjung |
 | Listed since | 2026-02-19 |
 | Auto-accept affiliates | yes |
-| Categories | Green Products & Environmental Protection, Social Media, Travel & Culture |
+| Categories | Travel & Culture, Green Products & Environmental Protection, Social Media |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55667/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/670155?aff=adminstore
 - Sales page: https://www.digistore24.com/product/670155
 - Canonical redirect: https://www.digistore24.com/redir/670155/adminstore
 
@@ -70,14 +70,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Elektromobilität im Alltag – 5 Jahre echte Erfahrungen? — Typ: E-books, Anbieter: wallerjung, gelistet seit 2026-02-19
-- Wie viel kostet es? — 10.443054 USD
+- Wie viel kostet es? — 10.449592 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Elektromobilität im Alltag – 5 Jahre echte Erfahrungen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/670155
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/670155/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Elektromobilit%C3%A4t%20im%20Alltag%20%E2%80%93%205%20Jahre%20echte%20Erfahrungen
 
 ## 4. Editorial notes

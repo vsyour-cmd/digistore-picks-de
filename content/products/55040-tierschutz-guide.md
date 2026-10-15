@@ -4,16 +4,16 @@ digistore24_product_id: 614526
 title: "Tierschutz-Guide"
 vendor: "Tierheimsponsoring"
 product_type: "E-books"
-price: 87.77
+price: 87.83
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 21.95
+earnings_per_sale: 21.96
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets","Food & Drink","Animals & Pets"]
 listed_since: "2025-05-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/614526?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/614526"
@@ -22,16 +22,16 @@ language: "de"
 # Tierschutz-Guide
 
 > Product ID `55040` · Digistore24 productId `614526` · [HTML profile page](../../produkte/tierschutz-guide-55040.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $87.77 (Subscription) |
+| Price | $87.83 (Subscription) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $21.95 |
+| Earnings/sale* | $21.96 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Tierheimsponsoring |
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Tierschutz-Guide? — Typ: E-books, Anbieter: Tierheimsponsoring, gelistet seit 2025-05-23
-- Wie viel kostet es? — 87.77085000000001 USD
+- Wie viel kostet es? — 87.8258 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Tierschutz-Guide Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/614526
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/614526/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Tierschutz-Guide
 
 ## 4. Editorial notes

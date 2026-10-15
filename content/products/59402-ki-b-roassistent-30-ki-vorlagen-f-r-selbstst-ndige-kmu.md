@@ -4,16 +4,16 @@ digistore24_product_id: 734669
 title: "KI-Büroassistent: 30 KI-Vorlagen für Selbstständige& KMU"
 vendor: "norialo"
 product_type: "E-books"
-price: 41.69
+price: 41.72
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 16.68
+earnings_per_sale: 16.69
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Computer & Internet"]
 listed_since: "2026-09-19"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://norialo.de/produkt/ki-bueroassistent/?aff=adminstore#aff=adminstore"
 sales_page: "https://norialo.de/produkt/ki-bueroassistent/"
@@ -22,16 +22,16 @@ language: "de"
 # KI-Büroassistent: 30 KI-Vorlagen für Selbstständige& KMU
 
 > Product ID `59402` · Digistore24 productId `734669` · [HTML profile page](../../produkte/ki-b-roassistent-30-ki-vorlagen-f-r-selbstst-ndige-kmu-59402.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $41.69 (Single payment) |
+| Price | $41.72 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $16.68 |
+| Earnings/sale* | $16.69 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | norialo |
@@ -92,14 +92,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI-Büroassistent: 30 KI-Vorlagen für Selbstständige& KMU? — Typ: E-books, Anbieter: norialo, gelistet seit 2026-09-19
-- Wie viel kostet es? — 41.693949 USD
+- Wie viel kostet es? — 41.720052 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: KI-Büroassistent: 30 KI-Vorlagen für Selbstständige& KMU Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/734669
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/734669/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=KI-B%C3%BCroassistent%3A%2030%20KI-Vorlagen%20f%C3%BCr%20Selbstst%C3%A4ndige%26%20KMU
 
 ## 4. Editorial notes

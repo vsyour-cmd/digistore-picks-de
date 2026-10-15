@@ -4,16 +4,16 @@ digistore24_product_id: 287138
 title: "Trade Management System"
 vendor: "SK-VOLUME"
 product_type: "Member area and video courses"
-price: 503.13
+price: 503.45
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 301.88
+earnings_per_sale: 302.06
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2019-09-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://serdar-karaca.de/tms/?aff=adminstore#aff=adminstore"
 sales_page: "https://serdar-karaca.de/tms/"
@@ -22,16 +22,16 @@ language: "de"
 # Trade Management System
 
 > Product ID `33316` · Digistore24 productId `287138` · [HTML profile page](../../produkte/trade-management-system-33316.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $503.13 (Subscription) |
+| Price | $503.45 (Subscription) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $301.88 |
+| Earnings/sale* | $302.06 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SK-VOLUME |
@@ -84,14 +84,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Trade Management System? — Typ: Member area and video courses, Anbieter: SK-VOLUME, gelistet seit 2019-09-17
-- Wie viel kostet es? — 503.1338190000001 USD
+- Wie viel kostet es? — 503.44881200000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Trade Management System Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/287138
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/287138/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Trade%20Management%20System
 
 ## 4. Editorial notes

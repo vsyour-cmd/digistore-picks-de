@@ -4,34 +4,34 @@ digistore24_product_id: 661727
 title: "Affiliatemarketing mit KI"
 vendor: "rs-onlineagentur"
 product_type: "E-books"
-price: 30.19
+price: 30.21
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 15.09
+earnings_per_sale: 15.1
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2026-01-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
-promo_link: "https://www.digistore24.com/redir/56075/adminstore/"
+promo_link: "http://ritascheer.online?aff=adminstore#aff=adminstore"
 sales_page: "http://ritascheer.online"
 language: "de"
 ---
 # Affiliatemarketing mit KI
 
 > Product ID `56075` · Digistore24 productId `661727` · [HTML profile page](../../produkte/affiliatemarketing-mit-ki-56075.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $30.19 (Single payment) |
+| Price | $30.21 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $15.09 |
+| Earnings/sale* | $15.10 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | rs-onlineagentur |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56075/adminstore/
+- **Promo link (affiliate):** http://ritascheer.online?aff=adminstore#aff=adminstore
 - Sales page: http://ritascheer.online
 - Vendor affiliate support: https://rita-scheer.de/affiliate-support/
 - Canonical redirect: https://www.digistore24.com/redir/661727/adminstore
@@ -72,14 +72,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Affiliatemarketing mit KI? — Typ: E-books, Anbieter: rs-onlineagentur, gelistet seit 2026-01-15
-- Wie viel kostet es? — 30.188700000000004 USD
+- Wie viel kostet es? — 30.2076 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Affiliatemarketing mit KI Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/661727
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/661727/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Affiliatemarketing%20mit%20KI
 
 ## 4. Editorial notes

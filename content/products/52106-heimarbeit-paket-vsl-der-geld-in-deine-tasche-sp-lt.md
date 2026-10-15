@@ -4,16 +4,16 @@ digistore24_product_id: 600240
 title: "Heimarbeit Paket - VSL der Geld in deine Tasche spült"
 vendor: "Moneycashnow"
 product_type: "Member area and video courses"
-price: 90.99
+price: 91.05
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 40.11
+earnings_per_sale: 40.13
 cart_conversion_pct: 8
 cancel_rate_pct: 11.41
 categories: ["Computer & Internet","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2025-03-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://heimarbeit-taetigkeiten.funnelcockpit.com/heimarbeit-vsl-2/?aff=adminstore#aff=adminstore"
 sales_page: "https://heimarbeit-taetigkeiten.funnelcockpit.com/heimarbeit-vsl-2/"
@@ -22,16 +22,16 @@ language: "de"
 # Heimarbeit Paket - VSL der Geld in deine Tasche spült
 
 > Product ID `52106` · Digistore24 productId `600240` · [HTML profile page](../../produkte/heimarbeit-paket-vsl-der-geld-in-deine-tasche-sp-lt-52106.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $90.99 (Single payment, Installment) |
+| Price | $91.05 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $40.11 |
+| Earnings/sale* | $40.13 |
 | Cart conversion* | 8% |
 | Cancel rate* | 11.41% |
 | Vendor | Moneycashnow |
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Heimarbeit Paket - VSL der Geld in deine Tasche spült? — Typ: Member area and video courses, Anbieter: Moneycashnow, gelistet seit 2025-03-06
-- Wie viel kostet es? — 90.990978 USD
+- Wie viel kostet es? — 91.047944 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Heimarbeit Paket - VSL der Geld in deine Tasche spült Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/600240
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/600240/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Heimarbeit%20Paket%20-%20VSL%20der%20Geld%20in%20deine%20Tasche%20sp%C3%BClt
 
 ## 4. Editorial notes

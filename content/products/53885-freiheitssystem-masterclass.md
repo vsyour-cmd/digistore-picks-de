@@ -4,34 +4,34 @@ digistore24_product_id: 634143
 title: "Freiheitssystem Masterclass"
 vendor: "online-sales"
 product_type: "Member area and video courses"
-price: 338.25
+price: 338.46
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 202.95
+earnings_per_sale: 203.07
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media","Online Marketing"]
 listed_since: "2025-09-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
-research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/53885/adminstore/"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
+research_quality: "medium"
+promo_link: "https://www.freiheitssystem.de/gratis-liveworkshop/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.freiheitssystem.de/gratis-liveworkshop/"
 language: "de"
 ---
 # Freiheitssystem Masterclass
 
 > Product ID `53885` · Digistore24 productId `634143` · [HTML profile page](../../produkte/freiheitssystem-masterclass-53885.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $338.25 (Single payment, Installment) |
+| Price | $338.46 (Single payment, Installment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $202.95 |
+| Earnings/sale* | $203.07 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | online-sales |
@@ -45,13 +45,22 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/53885/adminstore/
+- **Promo link (affiliate):** https://www.freiheitssystem.de/gratis-liveworkshop/?aff=adminstore#aff=adminstore
 - Sales page: https://www.freiheitssystem.de/gratis-liveworkshop/
 - Canonical redirect: https://www.digistore24.com/redir/634143/adminstore
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Kostenloser Live-Workshop
+- **Opening copy (first paragraphs):**
+  > Die bisher nie veröffentlichte "AIS" Methode, mit der du dein erstes Geld online verdienst - ohne Vorerfahrung & ohne ein eigenes Produkt
+  > Die bisher nie veröffentlichte "AIS" Methode, mit der du dein erstes Geld online verdienst - ohne Vorerfahrung & ohne ein eigenes Produkt
+  > Die bisher nie veröffentlichte "AIS" Methode, mit der du dein erstes Geld online verdienst - ohne Vorerfahrung & ohne ein eigenes Produkt
+  > Die bisher nie veröffentlichte "AIS" Methode, mit der du dein erstes Geld online verdienst - ohne Vorerfahrung & ohne ein eigenes Produkt
+- **Questions the sales page answers:**
+  - und warum solltest du auf keinen Fall den Live-Workshop mit ihm verpassen?
+  - Wohin soll ich dir das kostenlose Video schicken, in dem ich dir zeige wie du deine ersten 100-200€ pro Tag verdienst?
+- **Page word count:** 777
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
@@ -66,14 +75,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Freiheitssystem Masterclass? — Typ: Member area and video courses, Anbieter: online-sales, gelistet seit 2025-09-06
-- Wie viel kostet es? — 338.247612 USD
+- Wie viel kostet es? — 338.45937599999996 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Freiheitssystem Masterclass Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/634143
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/634143/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Freiheitssystem%20Masterclass
 
 ## 4. Editorial notes

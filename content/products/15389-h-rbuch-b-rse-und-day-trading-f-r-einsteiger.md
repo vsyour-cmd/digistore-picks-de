@@ -4,34 +4,34 @@ digistore24_product_id: 122973
 title: "Hörbuch Börse und (Day) - Trading für Einsteiger"
 vendor: "Wirtschaftverstehen"
 product_type: "Downloads"
-price: 12.16
+price: 12.17
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 6.08
+earnings_per_sale: 6.09
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2017-03-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/redir/15389/adminstore/"
+promo_link: "https://www.wirtschaftleichtverstehen.de/hoerbuch-boerse/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.wirtschaftleichtverstehen.de/hoerbuch-boerse/"
 language: "de"
 ---
 # Hörbuch Börse und (Day) - Trading für Einsteiger
 
 > Product ID `15389` · Digistore24 productId `122973` · [HTML profile page](../../produkte/h-rbuch-b-rse-und-day-trading-f-r-einsteiger-15389.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $12.16 (Single payment) |
+| Price | $12.17 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $6.08 |
+| Earnings/sale* | $6.09 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Wirtschaftverstehen |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/redir/15389/adminstore/
+- **Promo link (affiliate):** https://www.wirtschaftleichtverstehen.de/hoerbuch-boerse/?aff=adminstore#aff=adminstore
 - Sales page: https://www.wirtschaftleichtverstehen.de/hoerbuch-boerse/
 - Canonical redirect: https://www.digistore24.com/redir/122973/adminstore
 
@@ -73,14 +73,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Hörbuch Börse und (Day) - Trading für Einsteiger? — Typ: Downloads, Anbieter: Wirtschaftverstehen, gelistet seit 2017-03-01
-- Wie viel kostet es? — 12.164928000000002 USD
+- Wie viel kostet es? — 12.172544 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Hörbuch Börse und (Day) - Trading für Einsteiger Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/122973
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/122973/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=H%C3%B6rbuch%20B%C3%B6rse%20und%20(Day)%20-%20Trading%20f%C3%BCr%20Einsteiger
 
 ## 4. Editorial notes

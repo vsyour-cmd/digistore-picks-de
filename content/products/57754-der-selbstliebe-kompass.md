@@ -4,16 +4,16 @@ digistore24_product_id: 713293
 title: "Der Selbstliebe-Kompass"
 vendor: "GoodLifeHarmony"
 product_type: "Downloads"
-price: 17.86
+price: 17.87
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 8.93
+earnings_per_sale: 8.94
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Personal Development","Spiri­tua­lity & Esotericism"]
+categories: ["Personal Development","Spiri­tua­lity & Esotericism","Education"]
 listed_since: "2026-07-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/713293?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/713293"
@@ -22,22 +22,22 @@ language: "de"
 # Der Selbstliebe-Kompass
 
 > Product ID `57754` · Digistore24 productId `713293` · [HTML profile page](../../produkte/der-selbstliebe-kompass-57754.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $17.86 (Single payment) |
+| Price | $17.87 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $8.93 |
+| Earnings/sale* | $8.94 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | GoodLifeHarmony |
 | Listed since | 2026-07-26 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Personal Development, Spiri­tua­lity & Esotericism |
+| Categories | Personal Development, Spiri­tua­lity & Esotericism, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -74,14 +74,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Selbstliebe-Kompass? — Typ: Downloads, Anbieter: GoodLifeHarmony, gelistet seit 2026-07-26
-- Wie viel kostet es? — 17.856057000000003 USD
+- Wie viel kostet es? — 17.867236000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Der Selbstliebe-Kompass Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/713293
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/713293/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%20Selbstliebe-Kompass
 
 ## 4. Editorial notes

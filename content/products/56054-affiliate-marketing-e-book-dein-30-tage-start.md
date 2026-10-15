@@ -12,8 +12,8 @@ cart_conversion_pct: 58
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-03-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://page.funnelcockpit.com/Kb3oTxM2EDpny4pdq?aff=adminstore#aff=adminstore"
 sales_page: "https://page.funnelcockpit.com/Kb3oTxM2EDpny4pdq"
@@ -22,7 +22,7 @@ language: "de"
 # Affiliate Marketing E-Book– Dein 30-Tage-Start
 
 > Product ID `56054` · Digistore24 productId `679965` · [HTML profile page](../../produkte/affiliate-marketing-e-book-dein-30-tage-start-56054.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -66,7 +66,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Affiliate Marketing E-Book– Dein 30-Tage-Start Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/679965
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/679965/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Affiliate%20Marketing%20E-Book%E2%80%93%20Dein%2030-Tage-Start
 
 ## 4. Editorial notes

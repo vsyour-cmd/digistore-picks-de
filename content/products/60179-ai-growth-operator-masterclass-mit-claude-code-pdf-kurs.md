@@ -4,34 +4,34 @@ digistore24_product_id: 741766
 title: "AI Growth Operator Masterclass mit Claude Code PDF-Kurs"
 vendor: "digitale24"
 product_type: "E-books"
-price: 38.66
+price: 38.69
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 19.33
+earnings_per_sale: 19.34
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing"]
 listed_since: "2026-10-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/60179/adminstore/"
+promo_link: "https://www.digistore24.com/product/741766?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/741766"
 language: "de"
 ---
 # AI Growth Operator Masterclass mit Claude Code PDF-Kurs
 
 > Product ID `60179` · Digistore24 productId `741766` · [HTML profile page](../../produkte/ai-growth-operator-masterclass-mit-claude-code-pdf-kurs-60179.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $38.66 (Single payment) |
+| Price | $38.69 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $19.33 |
+| Earnings/sale* | $19.34 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | digitale24 |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/60179/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/741766?aff=adminstore
 - Sales page: https://www.digistore24.com/product/741766
 - Canonical redirect: https://www.digistore24.com/redir/741766/adminstore
 
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist AI Growth Operator Masterclass mit Claude Code PDF-Kurs? — Typ: E-books, Anbieter: digitale24, gelistet seit 2026-10-04
-- Wie viel kostet es? — 38.663898 USD
+- Wie viel kostet es? — 38.688103999999996 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: AI Growth Operator Masterclass mit Claude Code PDF-Kurs Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/741766
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/741766/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=AI%20Growth%20Operator%20Masterclass%20mit%20Claude%20Code%20PDF-Kurs
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 717830
 title: "30-Tage-Rauchfrei-Challenge – 30 Schritte + 50 % Provision"
 vendor: "HeikoBoos"
 product_type: "E-books"
-price: 28.21
+price: 28.23
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 14.11
+earnings_per_sale: 14.12
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2026-08-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://nichtraucherzone.de/die-30-tage-rauchfrei-challenge?aff=adminstore#aff=adminstore"
 sales_page: "https://nichtraucherzone.de/die-30-tage-rauchfrei-challenge"
@@ -22,16 +22,16 @@ language: "de"
 # 30-Tage-Rauchfrei-Challenge – 30 Schritte + 50 % Provision
 
 > Product ID `58240` · Digistore24 productId `717830` · [HTML profile page](../../produkte/30-tage-rauchfrei-challenge-30-schritte-50-provision-58240.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $28.21 (Single payment) |
+| Price | $28.23 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $14.11 |
+| Earnings/sale* | $14.12 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | HeikoBoos |
@@ -103,14 +103,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 30-Tage-Rauchfrei-Challenge – 30 Schritte + 50 % Provision? — Typ: E-books, Anbieter: HeikoBoos, gelistet seit 2026-08-09
-- Wie viel kostet es? — 28.209663000000003 USD
+- Wie viel kostet es? — 28.227324 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 30-Tage-Rauchfrei-Challenge – 30 Schritte + 50 % Provision Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/717830
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/717830/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=30-Tage-Rauchfrei-Challenge%20%E2%80%93%2030%20Schritte%20%2B%2050%20%25%20Provision
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 641753
 title: "1 Millionen Views Partnerprogramm"
 vendor: "MediaMende"
 product_type: "Downloads"
-price: 72.35
+price: 72.4
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 36.18
+earnings_per_sale: 36.2
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Services","Social Media"]
 listed_since: "2025-10-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "http://www.viralclipz.de/?aff=adminstore#aff=adminstore"
 sales_page: "http://www.viralclipz.de/"
@@ -22,16 +22,16 @@ language: "de"
 # 1 Millionen Views Partnerprogramm
 
 > Product ID `54444` · Digistore24 productId `641753` · [HTML profile page](../../produkte/1-millionen-views-partnerprogramm-54444.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $72.35 (Single payment) |
+| Price | $72.40 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $36.18 |
+| Earnings/sale* | $36.20 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MediaMende |
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 1 Millionen Views Partnerprogramm? — Typ: Downloads, Anbieter: MediaMende, gelistet seit 2025-10-16
-- Wie viel kostet es? — 72.352251 USD
+- Wie viel kostet es? — 72.397548 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 1 Millionen Views Partnerprogramm Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/641753
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/641753/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=1%20Millionen%20Views%20Partnerprogramm
 
 ## 4. Editorial notes

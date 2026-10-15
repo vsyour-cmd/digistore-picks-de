@@ -4,7 +4,7 @@ digistore24_product_id: 671753
 title: "Selbststudium Maderotherapie"
 vendor: "xxbeautyliciousbysun8aec"
 product_type: "Downloads"
-price: 37.58
+price: 37.6
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 3.76
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2026-02-25"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/55715/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/671753?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/671753"
 language: "de"
 ---
 # Selbststudium Maderotherapie
 
 > Product ID `55715` · Digistore24 productId `671753` · [HTML profile page](../../produkte/selbststudium-maderotherapie-55715.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $37.58 (Single payment) |
+| Price | $37.60 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $3.76 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55715/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/671753?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/671753
 - Canonical redirect: https://www.digistore24.com/redir/671753/adminstore
 
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Selbststudium Maderotherapie? — Typ: Downloads, Anbieter: xxbeautyliciousbysun8aec, gelistet seit 2026-02-25
-- Wie viel kostet es? — 37.579341 USD
+- Wie viel kostet es? — 37.602868 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Selbststudium Maderotherapie Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/671753
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/671753/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Selbststudium%20Maderotherapie
 
 ## 4. Editorial notes

@@ -4,34 +4,34 @@ digistore24_product_id: 196471
 title: "Wie Sie Verkäufer machen (Download)"
 vendor: "saxerumberto"
 product_type: "Downloads"
-price: 87.38
+price: 87.43
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 30.58
+earnings_per_sale: 30.6
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2018-01-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.checkout-ds24.com/redir/26537/adminstore/"
+promo_link: "http://verkaufskybernetik.com/produkt/wie-sie-verkaeufer-machen-download/?aff=adminstore#aff=adminstore"
 sales_page: "http://verkaufskybernetik.com/produkt/wie-sie-verkaeufer-machen-download/"
 language: "de"
 ---
 # Wie Sie Verkäufer machen (Download)
 
 > Product ID `26537` · Digistore24 productId `196471` · [HTML profile page](../../produkte/wie-sie-verk-ufer-machen-download-26537.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $87.38 (Single payment) |
+| Price | $87.43 (Single payment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $30.58 |
+| Earnings/sale* | $30.60 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | saxerumberto |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/redir/26537/adminstore/
+- **Promo link (affiliate):** http://verkaufskybernetik.com/produkt/wie-sie-verkaeufer-machen-download/?aff=adminstore#aff=adminstore
 - Sales page: http://verkaufskybernetik.com/produkt/wie-sie-verkaeufer-machen-download/
 - Vendor affiliate support: https://verkaufskybernetik.com/partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/196471/adminstore
@@ -88,14 +88,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Wie Sie Verkäufer machen (Download)? — Typ: Downloads, Anbieter: saxerumberto, gelistet seit 2018-01-26
-- Wie viel kostet es? — 87.37951500000001 USD
+- Wie viel kostet es? — 87.43422000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Wie Sie Verkäufer machen (Download) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/196471
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/196471/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Wie%20Sie%20Verk%C3%A4ufer%20machen%20(Download)
 
 ## 4. Editorial notes

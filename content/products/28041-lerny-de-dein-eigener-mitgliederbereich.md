@@ -4,34 +4,34 @@ digistore24_product_id: 259134
 title: "Lerny.de - dein eigener Mitgliederbereich"
 vendor: "webagentur"
 product_type: "Downloads"
-price: 684.28
+price: 684.71
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 171.07
+earnings_per_sale: 171.18
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2019-02-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/redir/28041/adminstore/"
+promo_link: "https://lerny.de?aff=adminstore#aff=adminstore"
 sales_page: "https://lerny.de"
 language: "de"
 ---
 # Lerny.de - dein eigener Mitgliederbereich
 
 > Product ID `28041` · Digistore24 productId `259134` · [HTML profile page](../../produkte/lerny-de-dein-eigener-mitgliederbereich-28041.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $684.28 (Subscription) |
+| Price | $684.71 (Subscription) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $171.07 |
+| Earnings/sale* | $171.18 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | webagentur |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/redir/28041/adminstore/
+- **Promo link (affiliate):** https://lerny.de?aff=adminstore#aff=adminstore
 - Sales page: https://lerny.de
 - Vendor affiliate support: https://lerny.de/partnerprogramm
 - Canonical redirect: https://www.digistore24.com/redir/259134/adminstore
@@ -83,14 +83,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Lerny.de - dein eigener Mitgliederbereich? — Typ: Downloads, Anbieter: webagentur, gelistet seit 2019-02-04
-- Wie viel kostet es? — 684.2772000000001 USD
+- Wie viel kostet es? — 684.7056 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Lerny.de - dein eigener Mitgliederbereich Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/259134
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/259134/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Lerny.de%20-%20dein%20eigener%20Mitgliederbereich
 
 ## 4. Editorial notes

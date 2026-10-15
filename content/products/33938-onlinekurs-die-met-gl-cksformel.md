@@ -4,16 +4,16 @@ digistore24_product_id: 38629
 title: "Onlinekurs \"Die MET-Glücksformel\""
 vendor: "franke2met"
 product_type: "Member area and video courses"
-price: 189.76
+price: 189.88
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 32.02
+earnings_per_sale: 32.04
 cart_conversion_pct: 21
 cancel_rate_pct: 7.17
 categories: ["Health & Fitness"]
 listed_since: "2014-12-14"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://franke-akademie.de/met-gluecksformel/?aff=adminstore#aff=adminstore"
 sales_page: "https://franke-akademie.de/met-gluecksformel/"
@@ -22,16 +22,16 @@ language: "de"
 # Onlinekurs "Die MET-Glücksformel"
 
 > Product ID `33938` · Digistore24 productId `38629` · [HTML profile page](../../produkte/onlinekurs-die-met-gl-cksformel-33938.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $189.76 (Single payment) |
+| Price | $189.88 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $32.02 |
+| Earnings/sale* | $32.04 |
 | Cart conversion* | 21% |
 | Cancel rate* | 7.17% |
 | Vendor | franke2met |
@@ -88,14 +88,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Onlinekurs "Die MET-Glücksformel"? — Typ: Member area and video courses, Anbieter: franke2met, gelistet seit 2014-12-14
-- Wie viel kostet es? — 189.763932 USD
+- Wie viel kostet es? — 189.882736 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Onlinekurs "Die MET-Glücksformel" Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/38629
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/38629/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Onlinekurs%20%22Die%20MET-Gl%C3%BCcksformel%22
 
 ## 4. Editorial notes

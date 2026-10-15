@@ -4,34 +4,34 @@ digistore24_product_id: 741568
 title: "Digitale Speisekarte mit QR-Code für italienischsprachige Betriebe: 240 €, ca. 45 € Provision"
 vendor: "massarocalogero19976adc"
 product_type: "Remote service provided electronically"
-price: 268.34
+price: 268.51
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 53.67
+earnings_per_sale: 53.7
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2026-10-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/60299/adminstore/"
+promo_link: "https://www.direzionex.com/offerta/menu-con-qr?aff=adminstore#aff=adminstore"
 sales_page: "https://www.direzionex.com/offerta/menu-con-qr"
 language: "de"
 ---
 # Digitale Speisekarte mit QR-Code für italienischsprachige Betriebe: 240 €, ca. 45 € Provision
 
 > Product ID `60299` · Digistore24 productId `741568` · [HTML profile page](../../produkte/digitale-speisekarte-mit-qr-code-f-r-italienischsprachige-betriebe-240-ca-45-provision-60299.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $268.34 (Single payment) |
+| Price | $268.51 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $53.67 |
+| Earnings/sale* | $53.70 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | massarocalogero19976adc |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/60299/adminstore/
+- **Promo link (affiliate):** https://www.direzionex.com/offerta/menu-con-qr?aff=adminstore#aff=adminstore
 - Sales page: https://www.direzionex.com/offerta/menu-con-qr
 - Canonical redirect: https://www.digistore24.com/redir/741568/adminstore
 
@@ -85,14 +85,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Digitale Speisekarte mit QR-Code für italienischsprachige Betriebe: 240 €, ca. 45 € Provision? — Typ: Remote service provided electronically, Anbieter: massarocalogero19976adc, gelistet seit 2026-10-07
-- Wie viel kostet es? — 268.34400000000005 USD
+- Wie viel kostet es? — 268.512 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Digitale Speisekarte mit QR-Code für italienischsprachige Betriebe: 240 €, ca. 45 € Provision Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/741568
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/741568/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Digitale%20Speisekarte%20mit%20QR-Code%20f%C3%BCr%20italienischsprachige%20Betriebe%3A%20240%20%E2%82%AC%2C%20ca.%2045%20%E2%82%AC%20Provision
 
 ## 4. Editorial notes

@@ -4,7 +4,7 @@ digistore24_product_id: 731756
 title: "„Keine Panik! – Hilfe für den Umgang mit Panik und Angst"
 vendor: "atelierlichtgestalt"
 product_type: "Downloads"
-price: 32.88
+price: 32.9
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 3.29
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2026-09-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://atelierlichtgestalt.de/keine-panik-onlinekurs?aff=adminstore#aff=adminstore"
 sales_page: "https://atelierlichtgestalt.de/keine-panik-onlinekurs"
@@ -22,14 +22,14 @@ language: "de"
 # „Keine Panik! – Hilfe für den Umgang mit Panik und Angst
 
 > Product ID `59294` · Digistore24 productId `731756` · [HTML profile page](../../produkte/keine-panik-hilfe-f-r-den-umgang-mit-panik-und-angst-59294.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $32.88 (Single payment) |
+| Price | $32.90 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $3.29 |
 | Cart conversion* | — |
@@ -74,14 +74,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist „Keine Panik! – Hilfe für den Umgang mit Panik und Angst? — Typ: Downloads, Anbieter: atelierlichtgestalt, gelistet seit 2026-09-16
-- Wie viel kostet es? — 32.883321 USD
+- Wie viel kostet es? — 32.903908 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: „Keine Panik! – Hilfe für den Umgang mit Panik und Angst Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/731756
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/731756/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=%E2%80%9EKeine%20Panik!%20%E2%80%93%20Hilfe%20f%C3%BCr%20den%20Umgang%20mit%20Panik%20und%20Angst
 
 ## 4. Editorial notes

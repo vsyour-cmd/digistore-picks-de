@@ -4,34 +4,34 @@ digistore24_product_id: 294993
 title: "DER MUSTERVERTRAG - Eine Vertragsvorlage für Trauredner"
 vendor: "martinredet"
 product_type: "Downloads"
-price: 149.39
+price: 149.48
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 59.75
+earnings_per_sale: 59.79
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2019-11-13"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/30387/adminstore/"
+promo_link: "http://www.martinredet.de/trauredner-vertrag-vorlage?aff=adminstore#aff=adminstore"
 sales_page: "http://www.martinredet.de/trauredner-vertrag-vorlage"
 language: "de"
 ---
 # DER MUSTERVERTRAG - Eine Vertragsvorlage für Trauredner
 
 > Product ID `30387` · Digistore24 productId `294993` · [HTML profile page](../../produkte/der-mustervertrag-eine-vertragsvorlage-f-r-trauredner-30387.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $149.39 (Single payment) |
+| Price | $149.48 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $59.75 |
+| Earnings/sale* | $59.79 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | martinredet |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/30387/adminstore/
+- **Promo link (affiliate):** http://www.martinredet.de/trauredner-vertrag-vorlage?aff=adminstore#aff=adminstore
 - Sales page: http://www.martinredet.de/trauredner-vertrag-vorlage
 - Canonical redirect: https://www.digistore24.com/redir/294993/adminstore
 
@@ -95,14 +95,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist DER MUSTERVERTRAG - Eine Vertragsvorlage für Trauredner? — Typ: Downloads, Anbieter: martinredet, gelistet seit 2019-11-13
-- Wie viel kostet es? — 149.38934100000003 USD
+- Wie viel kostet es? — 149.48286800000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: DER MUSTERVERTRAG - Eine Vertragsvorlage für Trauredner Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/294993
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/294993/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=DER%20MUSTERVERTRAG%20-%20Eine%20Vertragsvorlage%20f%C3%BCr%20Trauredner
 
 ## 4. Editorial notes

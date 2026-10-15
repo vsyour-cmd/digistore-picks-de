@@ -4,16 +4,16 @@ digistore24_product_id: 528498
 title: "Biogas im Garten - Bauanleitung für Selbstversorger"
 vendor: "gehtanders"
 product_type: "E-books"
-price: 20.8
+price: 20.81
 currency: "USD"
 affiliate_commission_pct: 25
 earnings_per_sale: 5.2
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Green Products & Environmental Protection","Hobby & Craft","Home & Garden"]
+categories: ["Home & Garden","Green Products & Environmental Protection","Hobby & Craft"]
 listed_since: "2023-12-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://geheimnisfreieenergie.de/biogas-dig/?aff=adminstore#aff=adminstore"
 sales_page: "https://geheimnisfreieenergie.de/biogas-dig/"
@@ -22,14 +22,14 @@ language: "de"
 # Biogas im Garten - Bauanleitung für Selbstversorger
 
 > Product ID `46464` · Digistore24 productId `528498` · [HTML profile page](../../produkte/biogas-im-garten-bauanleitung-f-r-selbstversorger-46464.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.80 (Single payment) |
+| Price | $20.81 (Single payment) |
 | Affiliate commission | 25% |
 | Earnings/sale* | $5.20 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | gehtanders |
 | Listed since | 2023-12-06 |
 | Auto-accept affiliates | yes |
-| Categories | Green Products & Environmental Protection, Hobby & Craft, Home & Garden |
+| Categories | Home & Garden, Green Products & Environmental Protection, Hobby & Craft |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -77,14 +77,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Biogas im Garten - Bauanleitung für Selbstversorger? — Typ: E-books, Anbieter: gehtanders, gelistet seit 2023-12-06
-- Wie viel kostet es? — 20.796660000000003 USD
+- Wie viel kostet es? — 20.80968 USD
 - Garantie? — 14
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Biogas im Garten - Bauanleitung für Selbstversorger Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/528498
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/528498/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Biogas%20im%20Garten%20-%20Bauanleitung%20f%C3%BCr%20Selbstversorger
 
 ## 4. Editorial notes

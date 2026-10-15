@@ -4,16 +4,16 @@ digistore24_product_id: 138897
 title: "5 Schritte zur eigenen E-Mail-Liste"
 vendor: "KundenFinder"
 product_type: "Online coaching"
-price: 15.98
+price: 15.99
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 7.99
+earnings_per_sale: 8
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Email Marketing","Online Marketing & E-Business"]
+categories: ["Online Marketing & E-Business","Email Marketing"]
 listed_since: "2017-05-19"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://klick-jetzt-hier.net/441684/3116323/DS24?aff=adminstore#aff=adminstore"
 sales_page: "https://klick-jetzt-hier.net/441684/3116323/DS24"
@@ -22,22 +22,22 @@ language: "de"
 # 5 Schritte zur eigenen E-Mail-Liste
 
 > Product ID `47914` · Digistore24 productId `138897` · [HTML profile page](../../produkte/5-schritte-zur-eigenen-e-mail-liste-47914.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $15.98 (Single payment) |
+| Price | $15.99 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $7.99 |
+| Earnings/sale* | $8.00 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | KundenFinder |
 | Listed since | 2017-05-19 |
 | Auto-accept affiliates | yes |
-| Categories | Email Marketing, Online Marketing & E-Business |
+| Categories | Online Marketing & E-Business, Email Marketing |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -77,14 +77,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 5 Schritte zur eigenen E-Mail-Liste? — Typ: Online coaching, Anbieter: KundenFinder, gelistet seit 2017-05-19
-- Wie viel kostet es? — 15.977649 USD
+- Wie viel kostet es? — 15.987651999999999 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 5 Schritte zur eigenen E-Mail-Liste Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/138897
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/138897/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=5%20Schritte%20zur%20eigenen%20E-Mail-Liste
 
 ## 4. Editorial notes

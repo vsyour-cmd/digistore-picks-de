@@ -4,32 +4,32 @@ digistore24_product_id: 742280
 title: "AI Business Playbook 2027 – 50 % Provision"
 vendor: "christian0b0c"
 product_type: "Downloads"
-price: 16.76
+price: 16.77
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 8.39
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: []
+categories: ["Business & Investment","Online Marketing & E-Business"]
 listed_since: "2026-10-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/60255/adminstore/"
+promo_link: "https://kiplanerstudio.koeniqsoftware.de/playbook.html?aff=adminstore#aff=adminstore"
 sales_page: "https://kiplanerstudio.koeniqsoftware.de/playbook.html"
 language: "de"
 ---
 # AI Business Playbook 2027 – 50 % Provision
 
 > Product ID `60255` · Digistore24 productId `742280` · [HTML profile page](../../produkte/ai-business-playbook-2027-50-provision-60255.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $16.76 (Single payment) |
+| Price | $16.77 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $8.39 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | christian0b0c |
 | Listed since | 2026-10-06 |
 | Auto-accept affiliates | yes |
-| Categories | Uncategorized |
+| Categories | Business & Investment, Online Marketing & E-Business |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/60255/adminstore/
+- **Promo link (affiliate):** https://kiplanerstudio.koeniqsoftware.de/playbook.html?aff=adminstore#aff=adminstore
 - Sales page: https://kiplanerstudio.koeniqsoftware.de/playbook.html
 - Vendor affiliate support: https://kiplanerstudio.koeniqsoftware.de/affiliate-planner.html
 - Canonical redirect: https://www.digistore24.com/redir/742280/adminstore
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist AI Business Playbook 2027 – 50 % Provision? — Typ: Downloads, Anbieter: christian0b0c, gelistet seit 2026-10-06
-- Wie viel kostet es? — 16.760319000000003 USD
+- Wie viel kostet es? — 16.770812 USD
 - Garantie? — 14
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: AI Business Playbook 2027 – 50 % Provision Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/742280
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/742280/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=AI%20Business%20Playbook%202027%20%E2%80%93%2050%20%25%20Provision
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 23599
 title: "Pilates&Friends Abo - Das Online Pilates Paket"
 vendor: "rudingo"
 product_type: "Member area and video courses"
-price: 404.99
+price: 405.24
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 214.88
+earnings_per_sale: 215.01
 cart_conversion_pct: 15
 cancel_rate_pct: 0.71
 categories: ["Health & Fitness","Sport"]
 listed_since: "2014-04-03"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://pilatesandfriends.com/abo?aff=adminstore#aff=adminstore"
 sales_page: "https://pilatesandfriends.com/abo"
@@ -22,16 +22,16 @@ language: "de"
 # Pilates&Friends Abo - Das Online Pilates Paket
 
 > Product ID `3663` · Digistore24 productId `23599` · [HTML profile page](../../produkte/pilates-friends-abo-das-online-pilates-paket-3663.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $404.99 (Subscription) |
+| Price | $405.24 (Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $214.88 |
+| Earnings/sale* | $215.01 |
 | Cart conversion* | 15% |
 | Cancel rate* | 0.71% |
 | Vendor | rudingo |
@@ -101,14 +101,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Pilates&Friends Abo - Das Online Pilates Paket? — Typ: Member area and video courses, Anbieter: rudingo, gelistet seit 2014-04-03
-- Wie viel kostet es? — 404.987001 USD
+- Wie viel kostet es? — 405.240548 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Pilates&Friends Abo - Das Online Pilates Paket Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/23599
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/23599/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Pilates%26Friends%20Abo%20-%20Das%20Online%20Pilates%20Paket
 
 ## 4. Editorial notes

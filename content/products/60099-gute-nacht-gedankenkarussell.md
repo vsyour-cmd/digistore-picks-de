@@ -4,34 +4,34 @@ digistore24_product_id: 738790
 title: "Gute Nacht Gedankenkarussell"
 vendor: "AdrianaLichtenstein"
 product_type: "Member area and video courses"
-price: 62.95
+price: 62.99
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 31.47
+earnings_per_sale: 31.49
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2026-10-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/60099/adminstore/"
+promo_link: "https://46d7-info.systeme.io/gute-nacht-gedankenkarussell?aff=adminstore#aff=adminstore"
 sales_page: "https://46d7-info.systeme.io/gute-nacht-gedankenkarussell"
 language: "de"
 ---
 # Gute Nacht Gedankenkarussell
 
 > Product ID `60099` · Digistore24 productId `738790` · [HTML profile page](../../produkte/gute-nacht-gedankenkarussell-60099.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $62.95 (Single payment) |
+| Price | $62.99 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $31.47 |
+| Earnings/sale* | $31.49 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | AdrianaLichtenstein |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/60099/adminstore/
+- **Promo link (affiliate):** https://46d7-info.systeme.io/gute-nacht-gedankenkarussell?aff=adminstore#aff=adminstore
 - Sales page: https://46d7-info.systeme.io/gute-nacht-gedankenkarussell
 - Vendor affiliate support: https://46d7-info.systeme.io/gute-nacht-gedankenkarussell-affiliate
 - Canonical redirect: https://www.digistore24.com/redir/738790/adminstore
@@ -83,14 +83,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Gute Nacht Gedankenkarussell? — Typ: Member area and video courses, Anbieter: AdrianaLichtenstein, gelistet seit 2026-10-01
-- Wie viel kostet es? — 62.94903 USD
+- Wie viel kostet es? — 62.98844 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Gute Nacht Gedankenkarussell Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/738790
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/738790/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Gute%20Nacht%20Gedankenkarussell
 
 ## 4. Editorial notes

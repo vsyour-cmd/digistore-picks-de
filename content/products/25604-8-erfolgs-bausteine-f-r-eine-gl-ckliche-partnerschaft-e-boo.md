@@ -4,16 +4,16 @@ digistore24_product_id: 217161
 title: "8 Erfolgs-Bausteine für eine glückliche Partnerschaft [E-Boo"
 vendor: "rheinrost"
 product_type: "E-books"
-price: 11.39
+price: 11.4
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 5.7
+earnings_per_sale: 5.71
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2018-04-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.beziehungsratgeber.net/shop/8-erfolgs-bausteine-fuer-eine-glueckliche-partnerschaft/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.beziehungsratgeber.net/shop/8-erfolgs-bausteine-fuer-eine-glueckliche-partnerschaft/"
@@ -22,16 +22,16 @@ language: "de"
 # 8 Erfolgs-Bausteine für eine glückliche Partnerschaft [E-Boo
 
 > Product ID `25604` · Digistore24 productId `217161` · [HTML profile page](../../produkte/8-erfolgs-bausteine-f-r-eine-gl-ckliche-partnerschaft-e-boo-25604.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $11.39 (Single payment) |
+| Price | $11.40 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $5.70 |
+| Earnings/sale* | $5.71 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | rheinrost |
@@ -77,14 +77,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 8 Erfolgs-Bausteine für eine glückliche Partnerschaft [E-Boo? — Typ: E-books, Anbieter: rheinrost, gelistet seit 2018-04-24
-- Wie viel kostet es? — 11.393439 USD
+- Wie viel kostet es? — 11.400572 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 8 Erfolgs-Bausteine für eine glückliche Partnerschaft [E-Boo Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/217161
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/217161/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=8%20Erfolgs-Bausteine%20f%C3%BCr%20eine%20gl%C3%BCckliche%20Partnerschaft%20%5BE-Boo
 
 ## 4. Editorial notes

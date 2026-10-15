@@ -4,16 +4,16 @@ digistore24_product_id: 722494
 title: "CloverHand CRM – Vertriebs-CRM mit 25 % Provision"
 vendor: "hihdigital"
 product_type: "Software"
-price: 177.78
+price: 177.89
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 44.44
+earnings_per_sale: 44.47
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: []
+categories: ["Software","Computer & Internet","Project Management"]
 listed_since: "2026-08-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://cloverhand.com/order.html?aff=adminstore#aff=adminstore"
 sales_page: "https://cloverhand.com/order.html"
@@ -22,22 +22,22 @@ language: "de"
 # CloverHand CRM – Vertriebs-CRM mit 25 % Provision
 
 > Product ID `58622` · Digistore24 productId `722494` · [HTML profile page](../../produkte/cloverhand-crm-vertriebs-crm-mit-25-provision-58622.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $177.78 (Subscription) |
+| Price | $177.89 (Subscription) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $44.44 |
+| Earnings/sale* | $44.47 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | hihdigital |
 | Listed since | 2026-08-24 |
 | Auto-accept affiliates | yes |
-| Categories | Uncategorized |
+| Categories | Software, Computer & Internet, Project Management |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -75,14 +75,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist CloverHand CRM – Vertriebs-CRM mit 25 % Provision? — Typ: Software, Anbieter: hihdigital, gelistet seit 2026-08-24
-- Wie viel kostet es? — 177.77790000000002 USD
+- Wie viel kostet es? — 177.88920000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: CloverHand CRM – Vertriebs-CRM mit 25 % Provision Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/722494
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/722494/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=CloverHand%20CRM%20%E2%80%93%20Vertriebs-CRM%20mit%2025%20%25%20Provision
 
 ## 4. Editorial notes

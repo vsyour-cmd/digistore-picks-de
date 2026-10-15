@@ -4,40 +4,40 @@ digistore24_product_id: 625087
 title: "Marketing-Masterpaket (10 PDFs) 500 € Provision pro VK"
 vendor: "JumbMedia-Store"
 product_type: "E-books"
-price: 1397.61
+price: 1398.49
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 559.05
+earnings_per_sale: 559.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Business & Investment","Education","Online Marketing & E-Business"]
+categories: ["Business & Investment","Online Marketing & E-Business","Education"]
 listed_since: "2025-07-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/53249/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/625087?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/625087"
 language: "de"
 ---
 # Marketing-Masterpaket (10 PDFs) 500 € Provision pro VK
 
 > Product ID `53249` · Digistore24 productId `625087` · [HTML profile page](../../produkte/marketing-masterpaket-10-pdfs-500-provision-pro-vk-53249.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $1397.61 (Single payment) |
+| Price | $1398.49 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $559.05 |
+| Earnings/sale* | $559.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | JumbMedia-Store |
 | Listed since | 2025-07-21 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Education, Online Marketing & E-Business |
+| Categories | Business & Investment, Online Marketing & E-Business, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/53249/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/625087?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/625087
 - Canonical redirect: https://www.digistore24.com/redir/625087/adminstore
 
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Marketing-Masterpaket (10 PDFs) 500 € Provision pro VK? — Typ: E-books, Anbieter: JumbMedia-Store, gelistet seit 2025-07-21
-- Wie viel kostet es? — 1397.6138190000001 USD
+- Wie viel kostet es? — 1398.488812 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Marketing-Masterpaket (10 PDFs) 500 € Provision pro VK Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/625087
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/625087/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Marketing-Masterpaket%20(10%20PDFs)%20500%E2%80%AF%E2%82%AC%20Provision%20pro%20VK
 
 ## 4. Editorial notes

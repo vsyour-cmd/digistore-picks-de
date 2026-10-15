@@ -4,34 +4,34 @@ digistore24_product_id: 585772
 title: "Fotografie Grundkurs - In 7 Wochen zu deinen Traum-Bildern"
 vendor: "ChristofArnold"
 product_type: "Member area and video courses"
-price: 346.7
+price: 346.92
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 166.6
+earnings_per_sale: 166.7
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Photography & Film"]
 listed_since: "2024-12-13"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/50875/adminstore/"
+promo_link: "https://christofarnold.com/fotografie-grundkurs/?aff=adminstore#aff=adminstore"
 sales_page: "https://christofarnold.com/fotografie-grundkurs/"
 language: "de"
 ---
 # Fotografie Grundkurs - In 7 Wochen zu deinen Traum-Bildern
 
 > Product ID `50875` · Digistore24 productId `585772` · [HTML profile page](../../produkte/fotografie-grundkurs-in-7-wochen-zu-deinen-traum-bildern-50875.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $346.70 (Single payment) |
+| Price | $346.92 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $166.60 |
+| Earnings/sale* | $166.70 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ChristofArnold |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/50875/adminstore/
+- **Promo link (affiliate):** https://christofarnold.com/fotografie-grundkurs/?aff=adminstore#aff=adminstore
 - Sales page: https://christofarnold.com/fotografie-grundkurs/
 - Vendor affiliate support: https://christofarnold.com/affiliate-partner/
 - Canonical redirect: https://www.digistore24.com/redir/585772/adminstore
@@ -93,14 +93,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Fotografie Grundkurs - In 7 Wochen zu deinen Traum-Bildern? — Typ: Member area and video courses, Anbieter: ChristofArnold, gelistet seit 2024-12-13
-- Wie viel kostet es? — 346.700448 USD
+- Wie viel kostet es? — 346.917504 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Fotografie Grundkurs - In 7 Wochen zu deinen Traum-Bildern Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/585772
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/585772/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Fotografie%20Grundkurs%20-%20In%207%20Wochen%20zu%20deinen%20Traum-Bildern
 
 ## 4. Editorial notes

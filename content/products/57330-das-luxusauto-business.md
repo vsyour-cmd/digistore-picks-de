@@ -4,16 +4,16 @@ digistore24_product_id: 706659
 title: "Das Luxusauto-Business"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 36.52
+price: 36.54
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 18.26
+earnings_per_sale: 18.27
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2026-07-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://ratgeberplatz.de/ratgeber/luxusauto-business?aff=adminstore#aff=adminstore"
 sales_page: "https://ratgeberplatz.de/ratgeber/luxusauto-business"
@@ -22,16 +22,16 @@ language: "de"
 # Das Luxusauto-Business
 
 > Product ID `57330` · Digistore24 productId `706659` · [HTML profile page](../../produkte/das-luxusauto-business-57330.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $36.52 (Single payment) |
+| Price | $36.54 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $18.26 |
+| Earnings/sale* | $18.27 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pixonmedia |
@@ -95,14 +95,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Luxusauto-Business? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-07-01
-- Wie viel kostet es? — 36.517146 USD
+- Wie viel kostet es? — 36.540008 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Das Luxusauto-Business Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/706659
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/706659/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Das%20Luxusauto-Business
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 704232
 title: "Dividenden-Strategie"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 36.47
+price: 36.5
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 18.24
+earnings_per_sale: 18.25
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Finances"]
 listed_since: "2026-06-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://ratgeberplatz.de/ratgeber/dividenden-strategie?aff=adminstore#aff=adminstore"
 sales_page: "https://ratgeberplatz.de/ratgeber/dividenden-strategie"
@@ -22,16 +22,16 @@ language: "de"
 # Dividenden-Strategie
 
 > Product ID `57254` · Digistore24 productId `704232` · [HTML profile page](../../produkte/dividenden-strategie-57254.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $36.47 (Single payment) |
+| Price | $36.50 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $18.24 |
+| Earnings/sale* | $18.25 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pixonmedia |
@@ -93,14 +93,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Dividenden-Strategie? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-06-29
-- Wie viel kostet es? — 36.472422 USD
+- Wie viel kostet es? — 36.495256 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Dividenden-Strategie Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/704232
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/704232/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Dividenden-Strategie
 
 ## 4. Editorial notes

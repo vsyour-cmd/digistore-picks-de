@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Law & Justice"]
 listed_since: "2026-10-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/741722?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/741722"
@@ -22,7 +22,7 @@ language: "de"
 # Erben und Testament leicht gemacht – mit Erb-Rechner
 
 > Product ID `60342` · Digistore24 productId `741722` · [HTML profile page](../../produkte/erben-und-testament-leicht-gemacht-mit-erb-rechner-60342.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -81,14 +81,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Erben und Testament leicht gemacht – mit Erb-Rechner? — Typ: E-books, Anbieter: ratgeberleichtgemacht, gelistet seit 2026-10-07
-- Wie viel kostet es? — 15.575133000000001 USD
+- Wie viel kostet es? — 15.584884 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Erben und Testament leicht gemacht – mit Erb-Rechner Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/741722
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/741722/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Erben%20und%20Testament%20leicht%20gemacht%20%E2%80%93%20mit%20Erb-Rechner
 
 ## 4. Editorial notes

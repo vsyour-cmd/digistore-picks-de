@@ -4,16 +4,16 @@ digistore24_product_id: 683531
 title: "Fitness Bundle - Deine 4 eBooks zum Erfolg"
 vendor: "Freifone"
 product_type: "E-books"
-price: 62.65
+price: 62.69
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 31.33
+earnings_per_sale: 31.35
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Sport"]
 listed_since: "2026-04-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://designs-nf.com/ebooks/fitness-bundle?aff=adminstore#aff=adminstore"
 sales_page: "https://designs-nf.com/ebooks/fitness-bundle"
@@ -22,16 +22,16 @@ language: "de"
 # Fitness Bundle - Deine 4 eBooks zum Erfolg
 
 > Product ID `56200` · Digistore24 productId `683531` · [HTML profile page](../../produkte/fitness-bundle-deine-4-ebooks-zum-erfolg-56200.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $62.65 (Single payment) |
+| Price | $62.69 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $31.33 |
+| Earnings/sale* | $31.35 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Freifone |
@@ -88,14 +88,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Fitness Bundle - Deine 4 eBooks zum Erfolg? — Typ: E-books, Anbieter: Freifone, gelistet seit 2026-04-09
-- Wie viel kostet es? — 62.64714300000001 USD
+- Wie viel kostet es? — 62.686364000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Fitness Bundle - Deine 4 eBooks zum Erfolg Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/683531
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/683531/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Fitness%20Bundle%20-%20Deine%204%20eBooks%20zum%20Erfolg
 
 ## 4. Editorial notes

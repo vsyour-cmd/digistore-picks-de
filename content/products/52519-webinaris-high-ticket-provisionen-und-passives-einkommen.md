@@ -4,40 +4,40 @@ digistore24_product_id: 602426
 title: "Webinaris - High-Ticket-Provisionen und passives Einkommen"
 vendor: "Webinaris"
 product_type: "Member area and video courses"
-price: 1197.49
+price: 1198.23
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 598.74
+earnings_per_sale: 599.12
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Email Marketing","Online Marketing & E-Business","Marketing Services"]
+categories: ["Online Marketing & E-Business","Email Marketing","Marketing Services"]
 listed_since: "2025-03-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/52519/adminstore/"
+promo_link: "https://webinaris.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://webinaris.com/"
 language: "de"
 ---
 # Webinaris - High-Ticket-Provisionen und passives Einkommen
 
 > Product ID `52519` · Digistore24 productId `602426` · [HTML profile page](../../produkte/webinaris-high-ticket-provisionen-und-passives-einkommen-52519.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1197.49 (Single payment, Installment) |
+| Price | $1198.23 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $598.74 |
+| Earnings/sale* | $599.12 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Webinaris |
 | Listed since | 2025-03-18 |
 | Auto-accept affiliates | no (approval required) |
-| Categories | Email Marketing, Online Marketing & E-Business, Marketing Services |
+| Categories | Online Marketing & E-Business, Email Marketing, Marketing Services |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/52519/adminstore/
+- **Promo link (affiliate):** https://webinaris.com/?aff=adminstore#aff=adminstore
 - Sales page: https://webinaris.com/
 - Vendor affiliate support: https://docs.google.com/document/d/1NSgq0237kRylDjepK7lsBDeLVgC0Hccjlzga_Sakx2c/edit?usp=sharing
 - Canonical redirect: https://www.digistore24.com/redir/602426/adminstore
@@ -89,14 +89,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Webinaris - High-Ticket-Provisionen und passives Einkommen? — Typ: Member area and video courses, Anbieter: Webinaris, gelistet seit 2025-03-18
-- Wie viel kostet es? — 1197.4851 USD
+- Wie viel kostet es? — 1198.2348 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Webinaris - High-Ticket-Provisionen und passives Einkommen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/602426
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/602426/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Webinaris%20-%20High-Ticket-Provisionen%20und%20passives%20Einkommen
 
 ## 4. Editorial notes

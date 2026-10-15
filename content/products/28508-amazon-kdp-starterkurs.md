@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2019-04-03"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://lp.incomebutler.com/self-publisher-masterkurs-kostenlos-lp?aff=adminstore#aff=adminstore"
 sales_page: "https://lp.incomebutler.com/self-publisher-masterkurs-kostenlos-lp"
@@ -22,7 +22,7 @@ language: "de"
 # Amazon KDP Starterkurs
 
 > Product ID `28508` · Digistore24 productId `266561` · [HTML profile page](../../produkte/amazon-kdp-starterkurs-28508.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -66,14 +66,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Amazon KDP Starterkurs? — Typ: Downloads, Anbieter: seotech, gelistet seit 2019-04-03
-- Wie viel kostet es? — 1.867227 USD
+- Wie viel kostet es? — 1.868396 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Amazon KDP Starterkurs Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/266561
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/266561/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Amazon%20KDP%20Starterkurs
 
 ## 4. Editorial notes

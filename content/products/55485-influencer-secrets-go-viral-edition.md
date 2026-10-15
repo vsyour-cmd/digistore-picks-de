@@ -12,17 +12,17 @@ cart_conversion_pct: 62
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media"]
 listed_since: "2026-02-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "http://www.werdemusiker.de/musiktheorie-for-fun-ng3/#aff=adminstore"
+promo_link: "https://www.meinneuerlifestyle.vip/Influencer-Secrets/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.meinneuerlifestyle.vip/Influencer-Secrets/"
 language: "de"
 ---
 # Influencer Secrets - GO Viral Edition
 
 > Product ID `55485` · Digistore24 productId `667052` · [HTML profile page](../../produkte/influencer-secrets-go-viral-edition-55485.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://www.werdemusiker.de/musiktheorie-for-fun-ng3/#aff=adminstore
+- **Promo link (affiliate):** https://www.meinneuerlifestyle.vip/Influencer-Secrets/?aff=adminstore#aff=adminstore
 - Sales page: https://www.meinneuerlifestyle.vip/Influencer-Secrets/
 - Vendor affiliate support: https://www.meinneuerlifestyle.vip/werbemittel-influencer-secrets/
 - Canonical redirect: https://www.digistore24.com/redir/667052/adminstore
@@ -59,14 +59,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Influencer Secrets - GO Viral Edition? — Typ: Member area and video courses, Anbieter: Spekulatius, gelistet seit 2026-02-06
-- Wie viel kostet es? — 0.033543 USD
+- Wie viel kostet es? — 0.033564 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Influencer Secrets - GO Viral Edition Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/667052
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/667052/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Influencer%20Secrets%20-%20GO%20Viral%20Edition
 
 ## 4. Editorial notes

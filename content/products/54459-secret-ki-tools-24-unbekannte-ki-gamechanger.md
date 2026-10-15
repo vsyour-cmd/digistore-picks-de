@@ -10,19 +10,19 @@ affiliate_commission_pct: 30
 earnings_per_sale: 3.13
 cart_conversion_pct: 2
 cancel_rate_pct: 0
-categories: ["Computer & Internet","Email Marketing","Online Marketing & E-Business"]
+categories: ["Computer & Internet","Online Marketing & E-Business","Email Marketing"]
 listed_since: "2024-10-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
-promo_link: "https://www.digistore24.com/redir/54459/adminstore/"
+promo_link: "https://secretkitools.ygn-onlinemarketing.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://secretkitools.ygn-onlinemarketing.de/"
 language: "de"
 ---
 # Secret KI-Tools – 24 unbekannte KI-Gamechanger
 
 > Product ID `54459` · Digistore24 productId `574381` · [HTML profile page](../../produkte/secret-ki-tools-24-unbekannte-ki-gamechanger-54459.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | yugeen77 |
 | Listed since | 2024-10-09 |
 | Auto-accept affiliates | yes |
-| Categories | Computer & Internet, Email Marketing, Online Marketing & E-Business |
+| Categories | Computer & Internet, Online Marketing & E-Business, Email Marketing |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/54459/adminstore/
+- **Promo link (affiliate):** https://secretkitools.ygn-onlinemarketing.de/?aff=adminstore#aff=adminstore
 - Sales page: https://secretkitools.ygn-onlinemarketing.de/
 - Vendor affiliate support: https://secretkitools.ygn-onlinemarketing.de/affiliate
 - Canonical redirect: https://www.digistore24.com/redir/574381/adminstore
@@ -62,14 +62,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Secret KI-Tools – 24 unbekannte KI-Gamechanger? — Typ: E-books, Anbieter: yugeen77, gelistet seit 2024-10-09
-- Wie viel kostet es? — 3.0188700000000006 USD
+- Wie viel kostet es? — 3.02076 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Secret KI-Tools – 24 unbekannte KI-Gamechanger Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/574381
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/574381/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Secret%20KI-Tools%20%E2%80%93%2024%20unbekannte%20KI-Gamechanger
 
 ## 4. Editorial notes

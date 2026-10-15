@@ -4,34 +4,34 @@ digistore24_product_id: 729589
 title: "Online Business - Start System"
 vendor: "jaqui19926004"
 product_type: "Downloads"
-price: 186.98
+price: 187.1
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 121.54
+earnings_per_sale: 121.61
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-09-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
-promo_link: "https://www.digistore24.com/redir/59279/adminstore/"
+promo_link: "https://ki-richtig-nutzen.my.canva.site/online-business-start-system?aff=adminstore#aff=adminstore"
 sales_page: "https://ki-richtig-nutzen.my.canva.site/online-business-start-system"
 language: "de"
 ---
 # Online Business - Start System
 
 > Product ID `59279` · Digistore24 productId `729589` · [HTML profile page](../../produkte/online-business-start-system-59279.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $186.98 (Single payment) |
+| Price | $187.10 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $121.54 |
+| Earnings/sale* | $121.61 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | jaqui19926004 |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59279/adminstore/
+- **Promo link (affiliate):** https://ki-richtig-nutzen.my.canva.site/online-business-start-system?aff=adminstore#aff=adminstore
 - Sales page: https://ki-richtig-nutzen.my.canva.site/online-business-start-system
 - Canonical redirect: https://www.digistore24.com/redir/729589/adminstore
 
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online Business - Start System? — Typ: Downloads, Anbieter: jaqui19926004, gelistet seit 2026-09-16
-- Wie viel kostet es? — 186.979863 USD
+- Wie viel kostet es? — 187.096924 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Online Business - Start System Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/729589
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/729589/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Online%20Business%20-%20Start%20System
 
 ## 4. Editorial notes

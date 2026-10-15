@@ -4,34 +4,34 @@ digistore24_product_id: 24421
 title: "PowerSubliminals"
 vendor: "Insider-Media"
 product_type: "Downloads"
-price: 202.01
+price: 202.13
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 101.01
+earnings_per_sale: 101.07
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2014-04-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/14047/adminstore/"
+promo_link: "https://www.powersubliminals.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.powersubliminals.de/"
 language: "de"
 ---
 # PowerSubliminals
 
 > Product ID `14047` · Digistore24 productId `24421` · [HTML profile page](../../produkte/powersubliminals-14047.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $202.01 (Single payment, Subscription) |
+| Price | $202.13 (Single payment, Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $101.01 |
+| Earnings/sale* | $101.07 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Insider-Media |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/14047/adminstore/
+- **Promo link (affiliate):** https://www.powersubliminals.de/?aff=adminstore#aff=adminstore
 - Sales page: https://www.powersubliminals.de/
 - Vendor affiliate support: http://www.lerntipp.com/affiliate
 - Canonical redirect: https://www.digistore24.com/redir/24421/adminstore
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist PowerSubliminals? — Typ: Downloads, Anbieter: Insider-Media, gelistet seit 2014-04-20
-- Wie viel kostet es? — 202.007127 USD
+- Wie viel kostet es? — 202.13359599999998 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: PowerSubliminals Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/24421
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/24421/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=PowerSubliminals
 
 ## 4. Editorial notes

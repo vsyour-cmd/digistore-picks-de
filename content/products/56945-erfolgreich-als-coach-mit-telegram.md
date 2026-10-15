@@ -4,34 +4,34 @@ digistore24_product_id: 701375
 title: "Erfolgreich als Coach mit Telegram"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 30.3
+price: 30.32
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 15.15
+earnings_per_sale: 15.16
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2026-06-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/56945/adminstore/"
+promo_link: "https://social-media-planer.de/ebooks/erfolgreich-als-coach-mit-telegram?aff=adminstore#aff=adminstore"
 sales_page: "https://social-media-planer.de/ebooks/erfolgreich-als-coach-mit-telegram"
 language: "de"
 ---
 # Erfolgreich als Coach mit Telegram
 
 > Product ID `56945` · Digistore24 productId `701375` · [HTML profile page](../../produkte/erfolgreich-als-coach-mit-telegram-56945.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $30.30 (Single payment) |
+| Price | $30.32 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $15.15 |
+| Earnings/sale* | $15.16 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pixonmedia |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56945/adminstore/
+- **Promo link (affiliate):** https://social-media-planer.de/ebooks/erfolgreich-als-coach-mit-telegram?aff=adminstore#aff=adminstore
 - Sales page: https://social-media-planer.de/ebooks/erfolgreich-als-coach-mit-telegram
 - Vendor affiliate support: https://social-media-planer.de/partnerprogramm
 - Canonical redirect: https://www.digistore24.com/redir/701375/adminstore
@@ -98,14 +98,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Erfolgreich als Coach mit Telegram? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-06-15
-- Wie viel kostet es? — 30.300510000000003 USD
+- Wie viel kostet es? — 30.319480000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Erfolgreich als Coach mit Telegram Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/701375
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/701375/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Erfolgreich%20als%20Coach%20mit%20Telegram
 
 ## 4. Editorial notes

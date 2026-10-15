@@ -4,7 +4,7 @@ digistore24_product_id: 332807
 title: "ONLINE TANZKURS DISCOFOX 1.0 | ANFÄNGER und WIEDEREINSTEIGER"
 vendor: "andyandkellykainz"
 product_type: "Member area and video courses"
-price: 14.69
+price: 14.7
 currency: "USD"
 affiliate_commission_pct: 20
 earnings_per_sale: 5.58
@@ -12,8 +12,8 @@ cart_conversion_pct: 10
 cancel_rate_pct: 2.26
 categories: ["Dancing & Music"]
 listed_since: "2020-06-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://andyandkellykainz.com/pakete/?aff=adminstore#aff=adminstore"
 sales_page: "https://andyandkellykainz.com/pakete/"
@@ -22,14 +22,14 @@ language: "de"
 # ONLINE TANZKURS DISCOFOX 1.0 | ANFÄNGER und WIEDEREINSTEIGER
 
 > Product ID `36100` · Digistore24 productId `332807` · [HTML profile page](../../produkte/online-tanzkurs-discofox-1-0-anf-nger-und-wiedereinsteiger-36100.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $14.69 (Single payment) |
+| Price | $14.70 (Single payment) |
 | Affiliate commission | 20% |
 | Earnings/sale* | $5.58 |
 | Cart conversion* | 10% |
@@ -81,14 +81,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist ONLINE TANZKURS DISCOFOX 1.0 | ANFÄNGER und WIEDEREINSTEIGER? — Typ: Member area and video courses, Anbieter: andyandkellykainz, gelistet seit 2020-06-22
-- Wie viel kostet es? — 14.691834000000002 USD
+- Wie viel kostet es? — 14.701032000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: ONLINE TANZKURS DISCOFOX 1.0 | ANFÄNGER und WIEDEREINSTEIGER Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/332807
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/332807/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=ONLINE%20TANZKURS%20DISCOFOX%201.0%20%7C%20ANF%C3%84NGER%20und%20WIEDEREINSTEIGER
 
 ## 4. Editorial notes

@@ -4,7 +4,7 @@ digistore24_product_id: 497041
 title: "Online Fitness Programme von Nina Graber"
 vendor: "NinaundSusannevendor"
 product_type: "Downloads"
-price: 9.38
+price: 9.39
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 4.7
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2023-05-02"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/44435/adminstore/"
+promo_link: "https://bodyfitundgesund.com/training/4-wochen-zu-deinem-beweglichen-k-rper?aff=adminstore#aff=adminstore"
 sales_page: "https://bodyfitundgesund.com/training/4-wochen-zu-deinem-beweglichen-k-rper"
 language: "de"
 ---
 # Online Fitness Programme von Nina Graber
 
 > Product ID `44435` · Digistore24 productId `497041` · [HTML profile page](../../produkte/online-fitness-programme-von-nina-graber-44435.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $9.38 (Single payment) |
+| Price | $9.39 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $4.70 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/44435/adminstore/
+- **Promo link (affiliate):** https://bodyfitundgesund.com/training/4-wochen-zu-deinem-beweglichen-k-rper?aff=adminstore#aff=adminstore
 - Sales page: https://bodyfitundgesund.com/training/4-wochen-zu-deinem-beweglichen-k-rper
 - Vendor affiliate support: https://bodyfitundgesund.com/affiliate
 - Canonical redirect: https://www.digistore24.com/redir/497041/adminstore
@@ -73,14 +73,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online Fitness Programme von Nina Graber? — Typ: Downloads, Anbieter: NinaundSusannevendor, gelistet seit 2023-05-02
-- Wie viel kostet es? — 9.380859000000001 USD
+- Wie viel kostet es? — 9.386732 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Online Fitness Programme von Nina Graber Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/497041
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/497041/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Online%20Fitness%20Programme%20von%20Nina%20Graber
 
 ## 4. Editorial notes

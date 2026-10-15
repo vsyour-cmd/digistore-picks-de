@@ -4,16 +4,16 @@ digistore24_product_id: 705615
 title: "ETERNUM KI-Komplettsystem – 99 € | 50 % Provision"
 vendor: "megareichtum"
 product_type: "Downloads"
-price: 93.01
+price: 93.07
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 55.8
+earnings_per_sale: 55.84
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Online Marketing"]
 listed_since: "2026-06-25"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://eternumtech.eu/ki-komplettsystem?aff=adminstore#aff=adminstore"
 sales_page: "https://eternumtech.eu/ki-komplettsystem"
@@ -22,16 +22,16 @@ language: "de"
 # ETERNUM KI-Komplettsystem – 99 € | 50 % Provision
 
 > Product ID `57136` · Digistore24 productId `705615` · [HTML profile page](../../produkte/eternum-ki-komplettsystem-99-50-provision-57136.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $93.01 (Single payment) |
+| Price | $93.07 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $55.80 |
+| Earnings/sale* | $55.84 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | megareichtum |
@@ -96,14 +96,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist ETERNUM KI-Komplettsystem – 99 € | 50 % Provision? — Typ: Downloads, Anbieter: megareichtum, gelistet seit 2026-06-25
-- Wie viel kostet es? — 93.014739 USD
+- Wie viel kostet es? — 93.072972 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: ETERNUM KI-Komplettsystem – 99 € | 50 % Provision Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/705615
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/705615/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=ETERNUM%20KI-Komplettsystem%20%E2%80%93%2099%20%E2%82%AC%20%7C%2050%20%25%20Provision
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 614532
 title: "Mit Online-Umfragen Geld verdienen! | Brandneuer VSL!"
 vendor: "CyrilCash"
 product_type: "Member area and video courses"
-price: 212.39
+price: 212.53
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 156.09
+earnings_per_sale: 156.18
 cart_conversion_pct: 7
 cancel_rate_pct: 1.99
 categories: ["Computer & Internet","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2025-05-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://umfragen-system.de/komplettpaket-start-2/?aff=adminstore#aff=adminstore"
 sales_page: "https://umfragen-system.de/komplettpaket-start-2/"
@@ -22,16 +22,16 @@ language: "de"
 # Mit Online-Umfragen Geld verdienen! | Brandneuer VSL!
 
 > Product ID `54232` · Digistore24 productId `614532` · [HTML profile page](../../produkte/mit-online-umfragen-geld-verdienen-brandneuer-vsl-54232.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $212.39 (Single payment, Installment) |
+| Price | $212.53 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $156.09 |
+| Earnings/sale* | $156.18 |
 | Cart conversion* | 7% |
 | Cancel rate* | 1.99% |
 | Vendor | CyrilCash |
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mit Online-Umfragen Geld verdienen! | Brandneuer VSL!? — Typ: Member area and video courses, Anbieter: CyrilCash, gelistet seit 2025-05-23
-- Wie viel kostet es? — 212.39427600000002 USD
+- Wie viel kostet es? — 212.52724800000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Mit Online-Umfragen Geld verdienen! | Brandneuer VSL! Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/614532
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/614532/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Mit%20Online-Umfragen%20Geld%20verdienen!%20%7C%20Brandneuer%20VSL!
 
 ## 4. Editorial notes

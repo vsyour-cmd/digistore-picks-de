@@ -4,40 +4,40 @@ digistore24_product_id: 194275
 title: "Ethisch Geld anlegen: 35% Provision"
 vendor: "vaupel"
 product_type: "Downloads"
-price: 55.44
+price: 55.47
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 16.63
+earnings_per_sale: 16.64
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Business & Investment","Personal Development"]
+categories: ["Personal Development","Business & Investment"]
 listed_since: "2018-01-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/46547/adminstore/"
+promo_link: "https://www.ethische-rendite.de/premiumbereich/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.ethische-rendite.de/premiumbereich/"
 language: "de"
 ---
 # Ethisch Geld anlegen: 35% Provision
 
 > Product ID `46547` · Digistore24 productId `194275` · [HTML profile page](../../produkte/ethisch-geld-anlegen-35-provision-46547.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $55.44 (Subscription) |
+| Price | $55.47 (Subscription) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $16.63 |
+| Earnings/sale* | $16.64 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | vaupel |
 | Listed since | 2018-01-16 |
 | Auto-accept affiliates | no (approval required) |
-| Categories | Business & Investment, Personal Development |
+| Categories | Personal Development, Business & Investment |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/46547/adminstore/
+- **Promo link (affiliate):** https://www.ethische-rendite.de/premiumbereich/?aff=adminstore#aff=adminstore
 - Sales page: https://www.ethische-rendite.de/premiumbereich/
 - Vendor affiliate support: https://www.digistore24-app.com/account/partnerarea/232845/de
 - Canonical redirect: https://www.digistore24.com/redir/194275/adminstore
@@ -95,14 +95,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ethisch Geld anlegen: 35% Provision? — Typ: Downloads, Anbieter: vaupel, gelistet seit 2018-01-16
-- Wie viel kostet es? — 55.435398 USD
+- Wie viel kostet es? — 55.470104 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Ethisch Geld anlegen: 35% Provision Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/194275
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/194275/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Ethisch%20Geld%20anlegen%3A%2035%25%20Provision
 
 ## 4. Editorial notes

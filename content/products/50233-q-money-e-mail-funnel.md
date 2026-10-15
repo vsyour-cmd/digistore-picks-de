@@ -4,34 +4,34 @@ digistore24_product_id: 569951
 title: "Q-Money + E-Mail Funnel"
 vendor: "AndreasLang"
 product_type: "Member area and video courses"
-price: 141.38
+price: 141.47
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 86.24
+earnings_per_sale: 86.29
 cart_conversion_pct: 5
 cancel_rate_pct: 5.86
 categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2024-09-11"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/50233/adminstore/"
+promo_link: "https://www.q-money.de/mailfunnel/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.q-money.de/mailfunnel/"
 language: "de"
 ---
 # Q-Money + E-Mail Funnel
 
 > Product ID `50233` · Digistore24 productId `569951` · [HTML profile page](../../produkte/q-money-e-mail-funnel-50233.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $141.38 (Single payment, Installment) |
+| Price | $141.47 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $86.24 |
+| Earnings/sale* | $86.29 |
 | Cart conversion* | 5% |
 | Cancel rate* | 5.86% |
 | Vendor | AndreasLang |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/50233/adminstore/
+- **Promo link (affiliate):** https://www.q-money.de/mailfunnel/?aff=adminstore#aff=adminstore
 - Sales page: https://www.q-money.de/mailfunnel/
 - Vendor affiliate support: https://affiliateking.net/
 - Canonical redirect: https://www.digistore24.com/redir/569951/adminstore
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Q-Money + E-Mail Funnel? — Typ: Member area and video courses, Anbieter: AndreasLang, gelistet seit 2024-09-11
-- Wie viel kostet es? — 141.383745 USD
+- Wie viel kostet es? — 141.47226 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Q-Money + E-Mail Funnel Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/569951
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/569951/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Q-Money%20%2B%20E-Mail%20Funnel
 
 ## 4. Editorial notes

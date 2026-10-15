@@ -4,16 +4,16 @@ digistore24_product_id: 735106
 title: "Im Lotto gewonnen? Risiken vermeiden – 50 % Provision"
 vendor: "meinradmueller"
 product_type: "E-books"
-price: 20.68
+price: 20.7
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 10.34
+earnings_per_sale: 10.35
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Personal Development"]
+categories: ["Personal Development","Education"]
 listed_since: "2026-09-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://info333.de/millionen-was-nun/?aff=adminstore#aff=adminstore"
 sales_page: "https://info333.de/millionen-was-nun/"
@@ -22,22 +22,22 @@ language: "de"
 # Im Lotto gewonnen? Risiken vermeiden – 50 % Provision
 
 > Product ID `59478` · Digistore24 productId `735106` · [HTML profile page](../../produkte/im-lotto-gewonnen-risiken-vermeiden-50-provision-59478.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.68 (Single payment) |
+| Price | $20.70 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $10.34 |
+| Earnings/sale* | $10.35 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | meinradmueller |
 | Listed since | 2026-09-21 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Personal Development |
+| Categories | Personal Development, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -78,14 +78,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Im Lotto gewonnen? Risiken vermeiden – 50 % Provision? — Typ: E-books, Anbieter: meinradmueller, gelistet seit 2026-09-21
-- Wie viel kostet es? — 20.68485 USD
+- Wie viel kostet es? — 20.6978 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Im Lotto gewonnen? Risiken vermeiden – 50 % Provision Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/735106
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/735106/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Im%20Lotto%20gewonnen%3F%20Risiken%20vermeiden%20%E2%80%93%2050%20%25%20Provision
 
 ## 4. Editorial notes

@@ -4,34 +4,34 @@ digistore24_product_id: 728106
 title: "Das Uhrwerk-Prinzip – Vom Nadelöhr zum Architekten"
 vendor: "JuergenBraun-Mentoring"
 product_type: "Member area and video courses"
-price: 1106.92
+price: 1107.61
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 332.08
+earnings_per_sale: 332.28
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Leadership & Management","Office Organization"]
 listed_since: "2026-09-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/58907/adminstore/"
+promo_link: "https://lehrgang.uhrwerk-prinzip.com/lehrgang?aff=adminstore#aff=adminstore"
 sales_page: "https://lehrgang.uhrwerk-prinzip.com/lehrgang"
 language: "de"
 ---
 # Das Uhrwerk-Prinzip – Vom Nadelöhr zum Architekten
 
 > Product ID `58907` · Digistore24 productId `728106` · [HTML profile page](../../produkte/das-uhrwerk-prinzip-vom-nadel-hr-zum-architekten-58907.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1106.92 (Single payment) |
+| Price | $1107.61 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $332.08 |
+| Earnings/sale* | $332.28 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | JuergenBraun-Mentoring |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58907/adminstore/
+- **Promo link (affiliate):** https://lehrgang.uhrwerk-prinzip.com/lehrgang?aff=adminstore#aff=adminstore
 - Sales page: https://lehrgang.uhrwerk-prinzip.com/lehrgang
 - Vendor affiliate support: https://lehrgang.uhrwerk-prinzip.com/affiliate
 - Canonical redirect: https://www.digistore24.com/redir/728106/adminstore
@@ -104,14 +104,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Uhrwerk-Prinzip – Vom Nadelöhr zum Architekten? — Typ: Member area and video courses, Anbieter: JuergenBraun-Mentoring, gelistet seit 2026-09-04
-- Wie viel kostet es? — 1106.919 USD
+- Wie viel kostet es? — 1107.612 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Das Uhrwerk-Prinzip – Vom Nadelöhr zum Architekten Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/728106
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/728106/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Das%20Uhrwerk-Prinzip%20%E2%80%93%20Vom%20Nadel%C3%B6hr%20zum%20Architekten
 
 ## 4. Editorial notes

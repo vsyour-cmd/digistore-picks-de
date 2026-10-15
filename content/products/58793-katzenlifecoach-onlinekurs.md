@@ -4,40 +4,40 @@ digistore24_product_id: 677027
 title: "KATZENLIFECOACH® Onlinekurs"
 vendor: "aCATemy-Katzenschule-Petra-Ott"
 product_type: "Member area and video courses"
-price: 466.97
+price: 467.27
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 93.39
+earnings_per_sale: 93.45
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Animals & Pets","Education","Family & Children"]
+categories: ["Family & Children","Animals & Pets","Education"]
 listed_since: "2026-08-31"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/58793/adminstore/"
+promo_link: "https://acatemy-katzen.app.mentortools.com/katzenlifecoach?aff=adminstore#aff=adminstore"
 sales_page: "https://acatemy-katzen.app.mentortools.com/katzenlifecoach"
 language: "de"
 ---
 # KATZENLIFECOACH® Onlinekurs
 
 > Product ID `58793` · Digistore24 productId `677027` · [HTML profile page](../../produkte/katzenlifecoach-onlinekurs-58793.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $466.97 (Single payment, Installment) |
+| Price | $467.27 (Single payment, Installment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $93.39 |
+| Earnings/sale* | $93.45 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | aCATemy-Katzenschule-Petra-Ott |
 | Listed since | 2026-08-31 |
 | Auto-accept affiliates | yes |
-| Categories | Animals & Pets, Education, Family & Children |
+| Categories | Family & Children, Animals & Pets, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58793/adminstore/
+- **Promo link (affiliate):** https://acatemy-katzen.app.mentortools.com/katzenlifecoach?aff=adminstore#aff=adminstore
 - Sales page: https://acatemy-katzen.app.mentortools.com/katzenlifecoach
 - Vendor affiliate support: https://acatemy-katzen.app.mentortools.com/acatemy-affiliate-support
 - Canonical redirect: https://www.digistore24.com/redir/677027/adminstore
@@ -96,14 +96,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KATZENLIFECOACH® Onlinekurs? — Typ: Member area and video courses, Anbieter: aCATemy-Katzenschule-Petra-Ott, gelistet seit 2026-08-31
-- Wie viel kostet es? — 466.974465 USD
+- Wie viel kostet es? — 467.26682 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: KATZENLIFECOACH® Onlinekurs Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/677027
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/677027/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=KATZENLIFECOACH%C2%AE%20Onlinekurs
 
 ## 4. Editorial notes

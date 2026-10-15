@@ -4,16 +4,16 @@ digistore24_product_id: 689909
 title: "Nexus Academy - New Era x Ultimate Scale"
 vendor: "bandolero"
 product_type: "Member area and video courses"
-price: 146.57
+price: 146.66
 currency: "USD"
 affiliate_commission_pct: 45
-earnings_per_sale: 65.96
+earnings_per_sale: 66
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media","Online Marketing"]
 listed_since: "2026-07-13"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/689909?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/689909"
@@ -22,16 +22,16 @@ language: "de"
 # Nexus Academy - New Era x Ultimate Scale
 
 > Product ID `57512` · Digistore24 productId `689909` · [HTML profile page](../../produkte/nexus-academy-new-era-x-ultimate-scale-57512.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $146.57 (Single payment, Installment) |
+| Price | $146.66 (Single payment, Installment) |
 | Affiliate commission | 45% |
-| Earnings/sale* | $65.96 |
+| Earnings/sale* | $66.00 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | bandolero |
@@ -88,14 +88,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Nexus Academy - New Era x Ultimate Scale? — Typ: Member area and video courses, Anbieter: bandolero, gelistet seit 2026-07-13
-- Wie viel kostet es? — 146.571729 USD
+- Wie viel kostet es? — 146.66349200000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Nexus Academy - New Era x Ultimate Scale Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/689909
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/689909/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Nexus%20Academy%20-%20New%20Era%20x%20Ultimate%20Scale
 
 ## 4. Editorial notes

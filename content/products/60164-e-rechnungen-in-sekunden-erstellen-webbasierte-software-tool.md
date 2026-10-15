@@ -4,16 +4,16 @@ digistore24_product_id: 738530
 title: "E-Rechnungen in Sekunden erstellen Webbasierte Software Tool"
 vendor: "digitale24"
 product_type: "Software"
-price: 34.76
+price: 34.78
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 17.39
+earnings_per_sale: 17.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2026-10-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/738530?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/738530"
@@ -22,16 +22,16 @@ language: "de"
 # E-Rechnungen in Sekunden erstellen Webbasierte Software Tool
 
 > Product ID `60164` · Digistore24 productId `738530` · [HTML profile page](../../produkte/e-rechnungen-in-sekunden-erstellen-webbasierte-software-tool-60164.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $34.76 (Single payment) |
+| Price | $34.78 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $17.39 |
+| Earnings/sale* | $17.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | digitale24 |
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist E-Rechnungen in Sekunden erstellen Webbasierte Software Tool? — Typ: Software, Anbieter: digitale24, gelistet seit 2026-10-04
-- Wie viel kostet es? — 34.761729 USD
+- Wie viel kostet es? — 34.783492 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: E-Rechnungen in Sekunden erstellen Webbasierte Software Tool Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/738530
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/738530/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=E-Rechnungen%20in%20Sekunden%20erstellen%20Webbasierte%20Software%20Tool
 
 ## 4. Editorial notes

@@ -4,40 +4,40 @@ digistore24_product_id: 722511
 title: "CloverSafe – Passwort-Tresor, 25 % auf die Lizenz"
 vendor: "hihdigital"
 product_type: "Software"
-price: 37.58
+price: 37.6
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 9.39
+earnings_per_sale: 9.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: []
+categories: ["Software","Computer & Internet"]
 listed_since: "2026-08-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/58627/adminstore/"
+promo_link: "https://cloversafe.org/order.html?aff=adminstore#aff=adminstore"
 sales_page: "https://cloversafe.org/order.html"
 language: "de"
 ---
 # CloverSafe – Passwort-Tresor, 25 % auf die Lizenz
 
 > Product ID `58627` · Digistore24 productId `722511` · [HTML profile page](../../produkte/cloversafe-passwort-tresor-25-auf-die-lizenz-58627.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $37.58 (Single payment) |
+| Price | $37.60 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $9.39 |
+| Earnings/sale* | $9.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | hihdigital |
 | Listed since | 2026-08-24 |
 | Auto-accept affiliates | yes |
-| Categories | Uncategorized |
+| Categories | Software, Computer & Internet |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58627/adminstore/
+- **Promo link (affiliate):** https://cloversafe.org/order.html?aff=adminstore#aff=adminstore
 - Sales page: https://cloversafe.org/order.html
 - Vendor affiliate support: https://hih-digital.com/affiliates/cloversafe.html
 - Canonical redirect: https://www.digistore24.com/redir/722511/adminstore
@@ -74,14 +74,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist CloverSafe – Passwort-Tresor, 25 % auf die Lizenz? — Typ: Software, Anbieter: hihdigital, gelistet seit 2026-08-24
-- Wie viel kostet es? — 37.579341 USD
+- Wie viel kostet es? — 37.602868 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: CloverSafe – Passwort-Tresor, 25 % auf die Lizenz Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/722511
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/722511/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=CloverSafe%20%E2%80%93%20Passwort-Tresor%2C%2025%20%25%20auf%20die%20Lizenz
 
 ## 4. Editorial notes

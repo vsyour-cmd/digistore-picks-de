@@ -4,40 +4,40 @@ digistore24_product_id: 659605
 title: "FutureMate - Dein eigener KI Mitarbeiter"
 vendor: "AndreasLang"
 product_type: "Member area and video courses"
-price: 141.38
+price: 141.47
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 86.24
+earnings_per_sale: 86.29
 cart_conversion_pct: 5
 cancel_rate_pct: 5.86
-categories: ["Computer & Internet","Education","Profession & Job"]
+categories: ["Computer & Internet","Profession & Job","Education"]
 listed_since: "2026-01-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/50725/adminstore/"
+promo_link: "https://www.andreaslangdigital.com/futuremate/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.andreaslangdigital.com/futuremate/"
 language: "de"
 ---
 # FutureMate - Dein eigener KI Mitarbeiter
 
 > Product ID `50725` · Digistore24 productId `659605` · [HTML profile page](../../produkte/futuremate-dein-eigener-ki-mitarbeiter-50725.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $141.38 (Single payment) |
+| Price | $141.47 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $86.24 |
+| Earnings/sale* | $86.29 |
 | Cart conversion* | 5% |
 | Cancel rate* | 5.86% |
 | Vendor | AndreasLang |
 | Listed since | 2026-01-07 |
 | Auto-accept affiliates | yes |
-| Categories | Computer & Internet, Education, Profession & Job |
+| Categories | Computer & Internet, Profession & Job, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/50725/adminstore/
+- **Promo link (affiliate):** https://www.andreaslangdigital.com/futuremate/?aff=adminstore#aff=adminstore
 - Sales page: https://www.andreaslangdigital.com/futuremate/
 - Vendor affiliate support: https://affiliateking.net/
 - Canonical redirect: https://www.digistore24.com/redir/659605/adminstore
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist FutureMate - Dein eigener KI Mitarbeiter? — Typ: Member area and video courses, Anbieter: AndreasLang, gelistet seit 2026-01-07
-- Wie viel kostet es? — 141.383745 USD
+- Wie viel kostet es? — 141.47226 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: FutureMate - Dein eigener KI Mitarbeiter Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/659605
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/659605/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=FutureMate%20-%20Dein%20eigener%20KI%20Mitarbeiter
 
 ## 4. Editorial notes

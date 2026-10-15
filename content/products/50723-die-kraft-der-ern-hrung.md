@@ -4,40 +4,40 @@ digistore24_product_id: 659609
 title: "Die Kraft der Ernährung"
 vendor: "AndreasLang"
 product_type: "E-books"
-price: 141.6
+price: 141.68
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 86.69
+earnings_per_sale: 86.74
 cart_conversion_pct: 5
 cancel_rate_pct: 5.85
-categories: ["Food & Drink","Health & Fitness"]
+categories: ["Health & Fitness","Food & Drink"]
 listed_since: "2026-01-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/50723/adminstore/"
+promo_link: "https://www.zielgesundheit.de/diekraftderernaehrung/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.zielgesundheit.de/diekraftderernaehrung/"
 language: "de"
 ---
 # Die Kraft der Ernährung
 
 > Product ID `50723` · Digistore24 productId `659609` · [HTML profile page](../../produkte/die-kraft-der-ern-hrung-50723.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $141.60 (Single payment) |
+| Price | $141.68 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $86.69 |
+| Earnings/sale* | $86.74 |
 | Cart conversion* | 5% |
 | Cancel rate* | 5.85% |
 | Vendor | AndreasLang |
 | Listed since | 2026-01-07 |
 | Auto-accept affiliates | yes |
-| Categories | Food & Drink, Health & Fitness |
+| Categories | Health & Fitness, Food & Drink |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/50723/adminstore/
+- **Promo link (affiliate):** https://www.zielgesundheit.de/diekraftderernaehrung/?aff=adminstore#aff=adminstore
 - Sales page: https://www.zielgesundheit.de/diekraftderernaehrung/
 - Vendor affiliate support: https://affiliateking.net/
 - Canonical redirect: https://www.digistore24.com/redir/659609/adminstore
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die Kraft der Ernährung? — Typ: E-books, Anbieter: AndreasLang, gelistet seit 2026-01-07
-- Wie viel kostet es? — 141.59618400000002 USD
+- Wie viel kostet es? — 141.684832 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Die Kraft der Ernährung Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/659609
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/659609/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Die%20Kraft%20der%20Ern%C3%A4hrung
 
 ## 4. Editorial notes

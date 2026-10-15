@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Sport"]
 listed_since: "2016-06-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/11937/adminstore/"
+promo_link: "http://charter-logbuch.de/index.php/logbuch-vorlage-pdf-ebook?aff=adminstore#aff=adminstore"
 sales_page: "http://charter-logbuch.de/index.php/logbuch-vorlage-pdf-ebook"
 language: "de"
 ---
 # Logbuch Segeln. Puro.
 
 > Product ID `11937` · Digistore24 productId `83121` · [HTML profile page](../../produkte/logbuch-segeln-puro-11937.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/11937/adminstore/
+- **Promo link (affiliate):** http://charter-logbuch.de/index.php/logbuch-vorlage-pdf-ebook?aff=adminstore#aff=adminstore
 - Sales page: http://charter-logbuch.de/index.php/logbuch-vorlage-pdf-ebook
 - Canonical redirect: https://www.digistore24.com/redir/83121/adminstore
 
@@ -83,14 +83,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Logbuch Segeln. Puro.? — Typ: Downloads, Anbieter: Ludwig-Brackmann, gelistet seit 2016-06-04
-- Wie viel kostet es? — 2.806431 USD
+- Wie viel kostet es? — 2.808188 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Logbuch Segeln. Puro. Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/83121
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/83121/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Logbuch%20Segeln.%20Puro.
 
 ## 4. Editorial notes

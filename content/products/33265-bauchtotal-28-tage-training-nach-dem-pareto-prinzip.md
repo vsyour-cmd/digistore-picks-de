@@ -4,7 +4,7 @@ digistore24_product_id: 668972
 title: "BauchTOTAL - 28 Tage-Training nach dem Pareto-Prinzip !"
 vendor: "australia1011"
 product_type: "Downloads"
-price: 26.71
+price: 26.73
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 11.62
@@ -12,24 +12,24 @@ cart_conversion_pct: 30
 cancel_rate_pct: 2.1
 categories: ["Health & Fitness"]
 listed_since: "2020-06-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/33265/adminstore/"
+promo_link: "https://pilates4life.lpages.co/salespage-bauchtotal-neuauflage/?aff=adminstore#aff=adminstore"
 sales_page: "https://pilates4life.lpages.co/salespage-bauchtotal-neuauflage/"
 language: "de"
 ---
 # BauchTOTAL - 28 Tage-Training nach dem Pareto-Prinzip !
 
 > Product ID `33265` · Digistore24 productId `668972` · [HTML profile page](../../produkte/bauchtotal-28-tage-training-nach-dem-pareto-prinzip-33265.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $26.71 (Single payment) |
+| Price | $26.73 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $11.62 |
 | Cart conversion* | 30% |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/33265/adminstore/
+- **Promo link (affiliate):** https://pilates4life.lpages.co/salespage-bauchtotal-neuauflage/?aff=adminstore#aff=adminstore
 - Sales page: https://pilates4life.lpages.co/salespage-bauchtotal-neuauflage/
 - Canonical redirect: https://www.digistore24.com/redir/668972/adminstore
 
@@ -74,14 +74,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist BauchTOTAL - 28 Tage-Training nach dem Pareto-Prinzip !? — Typ: Downloads, Anbieter: australia1011, gelistet seit 2020-06-26
-- Wie viel kostet es? — 26.711409000000003 USD
+- Wie viel kostet es? — 26.728132000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: BauchTOTAL - 28 Tage-Training nach dem Pareto-Prinzip ! Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/668972
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/668972/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=BauchTOTAL%20-%2028%20Tage-Training%20nach%20dem%20Pareto-Prinzip%20!
 
 ## 4. Editorial notes

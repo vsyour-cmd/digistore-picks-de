@@ -4,16 +4,16 @@ digistore24_product_id: 721044
 title: "KI-Anfrage-Manager"
 vendor: "MichaMH"
 product_type: "Remote service provided electronically"
-price: 883.3
+price: 883.85
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 176.66
+earnings_per_sale: 176.77
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: []
+categories: ["Online Marketing & E-Business","Services"]
 listed_since: "2026-08-12"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://affyro.com/ki-automatisierung.html?aff=adminstore#aff=adminstore"
 sales_page: "https://affyro.com/ki-automatisierung.html"
@@ -22,22 +22,22 @@ language: "de"
 # KI-Anfrage-Manager
 
 > Product ID `58314` · Digistore24 productId `721044` · [HTML profile page](../../produkte/ki-anfrage-manager-58314.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $883.30 (Single payment) |
+| Price | $883.85 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $176.66 |
+| Earnings/sale* | $176.77 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MichaMH |
 | Listed since | 2026-08-12 |
 | Auto-accept affiliates | yes |
-| Categories | Uncategorized |
+| Categories | Online Marketing & E-Business, Services |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -85,14 +85,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI-Anfrage-Manager? — Typ: Remote service provided electronically, Anbieter: MichaMH, gelistet seit 2026-08-12
-- Wie viel kostet es? — 883.2990000000001 USD
+- Wie viel kostet es? — 883.852 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: KI-Anfrage-Manager Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/721044
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/721044/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=KI-Anfrage-Manager
 
 ## 4. Editorial notes

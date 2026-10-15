@@ -4,16 +4,16 @@ digistore24_product_id: 382617
 title: "Crashkurs Steuern für Selbstständige - frei von Amtsdeutsch!"
 vendor: "Steuernaberlustig"
 product_type: "Member area and video courses"
-price: 62.95
+price: 62.99
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 31.47
+earnings_per_sale: 31.49
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2021-04-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://kleingewerbe-anmelden.org/steuerspar-crashkurs/?aff=adminstore#aff=adminstore"
 sales_page: "https://kleingewerbe-anmelden.org/steuerspar-crashkurs/"
@@ -22,16 +22,16 @@ language: "de"
 # Crashkurs Steuern für Selbstständige - frei von Amtsdeutsch!
 
 > Product ID `36680` · Digistore24 productId `382617` · [HTML profile page](../../produkte/crashkurs-steuern-f-r-selbstst-ndige-frei-von-amtsdeutsch-36680.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $62.95 (Single payment) |
+| Price | $62.99 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $31.47 |
+| Earnings/sale* | $31.49 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Steuernaberlustig |
@@ -97,14 +97,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Crashkurs Steuern für Selbstständige - frei von Amtsdeutsch!? — Typ: Member area and video courses, Anbieter: Steuernaberlustig, gelistet seit 2021-04-05
-- Wie viel kostet es? — 62.94903 USD
+- Wie viel kostet es? — 62.98844 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Crashkurs Steuern für Selbstständige - frei von Amtsdeutsch! Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/382617
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/382617/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Crashkurs%20Steuern%20f%C3%BCr%20Selbstst%C3%A4ndige%20-%20frei%20von%20Amtsdeutsch!
 
 ## 4. Editorial notes

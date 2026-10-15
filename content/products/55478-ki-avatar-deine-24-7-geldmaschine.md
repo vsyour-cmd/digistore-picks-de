@@ -10,10 +10,10 @@ affiliate_commission_pct: 60
 earnings_per_sale: 0.1
 cart_conversion_pct: 62
 cancel_rate_pct: 0
-categories: ["Computer & Internet","Email Marketing","Online Marketing & E-Business"]
+categories: ["Computer & Internet","Online Marketing & E-Business","Email Marketing"]
 listed_since: "2026-01-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://www.meinneuerlifestyle.vip/Dein-KI-Avatar-Deine-24-7-Geldmaschine/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.meinneuerlifestyle.vip/Dein-KI-Avatar-Deine-24-7-Geldmaschine/"
@@ -22,7 +22,7 @@ language: "de"
 # KI Avatar - Deine 24/7 Geldmaschine
 
 > Product ID `55478` · Digistore24 productId `662769` · [HTML profile page](../../produkte/ki-avatar-deine-24-7-geldmaschine-55478.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | Spekulatius |
 | Listed since | 2026-01-20 |
 | Auto-accept affiliates | yes |
-| Categories | Computer & Internet, Email Marketing, Online Marketing & E-Business |
+| Categories | Computer & Internet, Online Marketing & E-Business, Email Marketing |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -59,14 +59,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI Avatar - Deine 24/7 Geldmaschine? — Typ: E-books, Anbieter: Spekulatius, gelistet seit 2026-01-20
-- Wie viel kostet es? — 0.20125800000000002 USD
+- Wie viel kostet es? — 0.201384 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: KI Avatar - Deine 24/7 Geldmaschine Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/662769
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/662769/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=KI%20Avatar%20-%20Deine%2024%2F7%20Geldmaschine
 
 ## 4. Editorial notes

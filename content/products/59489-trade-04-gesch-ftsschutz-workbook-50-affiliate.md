@@ -4,34 +4,34 @@ digistore24_product_id: 735841
 title: "TRADE 04 – Geschäftsschutz-Workbook · 50 % Affiliate"
 vendor: "lvlBoZzlvl"
 product_type: "E-books"
-price: 52.04
+price: 52.07
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 26.02
+earnings_per_sale: 26.03
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2026-09-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/59489/adminstore/"
+promo_link: "https://trade-04.pages.dev/?aff=adminstore#aff=adminstore"
 sales_page: "https://trade-04.pages.dev/"
 language: "de"
 ---
 # TRADE 04 – Geschäftsschutz-Workbook · 50 % Affiliate
 
 > Product ID `59489` · Digistore24 productId `735841` · [HTML profile page](../../produkte/trade-04-gesch-ftsschutz-workbook-50-affiliate-59489.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $52.04 (Single payment) |
+| Price | $52.07 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $26.02 |
+| Earnings/sale* | $26.03 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | lvlBoZzlvl |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59489/adminstore/
+- **Promo link (affiliate):** https://trade-04.pages.dev/?aff=adminstore#aff=adminstore
 - Sales page: https://trade-04.pages.dev/
 - Vendor affiliate support: https://trade-04.pages.dev/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/735841/adminstore
@@ -96,14 +96,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist TRADE 04 – Geschäftsschutz-Workbook · 50 % Affiliate? — Typ: E-books, Anbieter: lvlBoZzlvl, gelistet seit 2026-09-21
-- Wie viel kostet es? — 52.036374 USD
+- Wie viel kostet es? — 52.068952 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: TRADE 04 – Geschäftsschutz-Workbook · 50 % Affiliate Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/735841
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/735841/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=TRADE%2004%20%E2%80%93%20Gesch%C3%A4ftsschutz-Workbook%20%C2%B7%2050%20%25%20Affiliate
 
 ## 4. Editorial notes

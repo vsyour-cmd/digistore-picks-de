@@ -4,34 +4,34 @@ digistore24_product_id: 195109
 title: "Die Over/Under Wettformel!"
 vendor: "ttservice"
 product_type: "Downloads"
-price: 37.58
+price: 37.6
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 18.8
+earnings_per_sale: 18.81
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Betting Systems"]
 listed_since: "2018-01-19"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.checkout-ds24.com/redir/22137/adminstore/"
+promo_link: "http://www.sportwetten-formel.gr8.com?aff=adminstore#aff=adminstore"
 sales_page: "http://www.sportwetten-formel.gr8.com"
 language: "de"
 ---
 # Die Over/Under Wettformel!
 
 > Product ID `22137` · Digistore24 productId `195109` · [HTML profile page](../../produkte/die-over-under-wettformel-22137.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $37.58 (Single payment) |
+| Price | $37.60 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $18.80 |
+| Earnings/sale* | $18.81 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ttservice |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/redir/22137/adminstore/
+- **Promo link (affiliate):** http://www.sportwetten-formel.gr8.com?aff=adminstore#aff=adminstore
 - Sales page: http://www.sportwetten-formel.gr8.com
 - Vendor affiliate support: https://www.wettformel-affiliate.gr8.com
 - Canonical redirect: https://www.digistore24.com/redir/195109/adminstore
@@ -75,14 +75,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die Over/Under Wettformel!? — Typ: Downloads, Anbieter: ttservice, gelistet seit 2018-01-19
-- Wie viel kostet es? — 37.579341 USD
+- Wie viel kostet es? — 37.602868 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Die Over/Under Wettformel! Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/195109
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/195109/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Die%20Over%2FUnder%20Wettformel!
 
 ## 4. Editorial notes

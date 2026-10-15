@@ -4,16 +4,16 @@ digistore24_product_id: 364175
 title: "Kursleiter Ayurveda-Babymassage – Kumara-Abhyanga"
 vendor: "Ayurvedaschule"
 product_type: "Member area and video courses"
-price: 296.91
+price: 297.1
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 89.08
+earnings_per_sale: 89.13
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2020-12-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://schule-fuer-ayurveda.de/kursleiter-ayurveda-babymassage/?aff=adminstore#aff=adminstore"
 sales_page: "https://schule-fuer-ayurveda.de/kursleiter-ayurveda-babymassage/"
@@ -22,16 +22,16 @@ language: "de"
 # Kursleiter Ayurveda-Babymassage – Kumara-Abhyanga
 
 > Product ID `37462` · Digistore24 productId `364175` · [HTML profile page](../../produkte/kursleiter-ayurveda-babymassage-kumara-abhyanga-37462.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $296.91 (Single payment, Installment) |
+| Price | $297.10 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $89.08 |
+| Earnings/sale* | $89.13 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Ayurvedaschule |
@@ -97,14 +97,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Kursleiter Ayurveda-Babymassage – Kumara-Abhyanga? — Typ: Member area and video courses, Anbieter: Ayurvedaschule, gelistet seit 2020-12-22
-- Wie viel kostet es? — 296.91145500000005 USD
+- Wie viel kostet es? — 297.09734000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Kursleiter Ayurveda-Babymassage – Kumara-Abhyanga Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/364175
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/364175/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Kursleiter%20Ayurveda-Babymassage%20%E2%80%93%20Kumara-Abhyanga
 
 ## 4. Editorial notes

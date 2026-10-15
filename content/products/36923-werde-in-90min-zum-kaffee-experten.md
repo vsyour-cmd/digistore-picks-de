@@ -4,34 +4,34 @@ digistore24_product_id: 708642
 title: "Werde in 90min. zum KAFFEE EXPERTEN!"
 vendor: "Coffeeman"
 product_type: "Member area and video courses"
-price: 74.23
+price: 74.28
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 14.85
+earnings_per_sale: 14.86
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink"]
 listed_since: "2021-05-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/36923/adminstore/"
+promo_link: "https://www.digistore24.com/product/708642?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/708642"
 language: "de"
 ---
 # Werde in 90min. zum KAFFEE EXPERTEN!
 
 > Product ID `36923` · Digistore24 productId `708642` · [HTML profile page](../../produkte/werde-in-90min-zum-kaffee-experten-36923.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $74.23 (Single payment) |
+| Price | $74.28 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $14.85 |
+| Earnings/sale* | $14.86 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Coffeeman |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/36923/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/708642?aff=adminstore
 - Sales page: https://www.digistore24.com/product/708642
 - Canonical redirect: https://www.digistore24.com/redir/708642/adminstore
 
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Werde in 90min. zum KAFFEE EXPERTEN!? — Typ: Member area and video courses, Anbieter: Coffeeman, gelistet seit 2021-05-22
-- Wie viel kostet es? — 74.230659 USD
+- Wie viel kostet es? — 74.27713200000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Werde in 90min. zum KAFFEE EXPERTEN! Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/708642
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/708642/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Werde%20in%2090min.%20zum%20KAFFEE%20EXPERTEN!
 
 ## 4. Editorial notes

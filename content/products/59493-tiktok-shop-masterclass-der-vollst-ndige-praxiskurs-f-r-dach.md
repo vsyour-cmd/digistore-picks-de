@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Social Media","Online Marketing"]
 listed_since: "2026-09-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/59493/adminstore/"
+promo_link: "https://www.digistore24.com/product/735755?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/735755"
 language: "de"
 ---
 # TIKTOK SHOP MASTERCLASS der vollständige Praxiskurs für Dach
 
 > Product ID `59493` · Digistore24 productId `735755` · [HTML profile page](../../produkte/tiktok-shop-masterclass-der-vollst-ndige-praxiskurs-f-r-dach-59493.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59493/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/735755?aff=adminstore
 - Sales page: https://www.digistore24.com/product/735755
 - Canonical redirect: https://www.digistore24.com/redir/735755/adminstore
 
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist TIKTOK SHOP MASTERCLASS der vollständige Praxiskurs für Dach? — Typ: E-books, Anbieter: digitale24, gelistet seit 2026-09-22
-- Wie viel kostet es? — 10.398330000000001 USD
+- Wie viel kostet es? — 10.40484 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: TIKTOK SHOP MASTERCLASS der vollständige Praxiskurs für Dach Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/735755
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/735755/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=TIKTOK%20SHOP%20MASTERCLASS%20der%20vollst%C3%A4ndige%20Praxiskurs%20f%C3%BCr%20Dach
 
 ## 4. Editorial notes

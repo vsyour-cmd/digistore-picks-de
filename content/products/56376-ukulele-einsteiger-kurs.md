@@ -4,16 +4,16 @@ digistore24_product_id: 687223
 title: "Ukulele Einsteiger-Kurs"
 vendor: "Musikbegleiter"
 product_type: "Member area and video courses"
-price: 46.88
+price: 46.91
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 18.75
+earnings_per_sale: 18.76
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Dancing & Music","Education","Software"]
+categories: ["Software","Dancing & Music","Education"]
 listed_since: "2026-04-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://www.musikbegleiter.de/einsteiger-kurs-ds?aff=adminstore#aff=adminstore"
 sales_page: "https://www.musikbegleiter.de/einsteiger-kurs-ds"
@@ -22,22 +22,22 @@ language: "de"
 # Ukulele Einsteiger-Kurs
 
 > Product ID `56376` · Digistore24 productId `687223` · [HTML profile page](../../produkte/ukulele-einsteiger-kurs-56376.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $46.88 (Single payment) |
+| Price | $46.91 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $18.75 |
+| Earnings/sale* | $18.76 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Musikbegleiter |
 | Listed since | 2026-04-24 |
 | Auto-accept affiliates | yes |
-| Categories | Dancing & Music, Education, Software |
+| Categories | Software, Dancing & Music, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -66,14 +66,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ukulele Einsteiger-Kurs? — Typ: Member area and video courses, Anbieter: Musikbegleiter, gelistet seit 2026-04-24
-- Wie viel kostet es? — 46.881933000000004 USD
+- Wie viel kostet es? — 46.911284 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Ukulele Einsteiger-Kurs Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/687223
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/687223/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Ukulele%20Einsteiger-Kurs
 
 ## 4. Editorial notes

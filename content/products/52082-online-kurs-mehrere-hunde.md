@@ -4,16 +4,16 @@ digistore24_product_id: 564188
 title: "Online Kurs Mehrere Hunde"
 vendor: "KarineMastroleo"
 product_type: "Member area and video courses"
-price: 184.94
+price: 185.06
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 61.09
+earnings_per_sale: 61.13
 cart_conversion_pct: 12
 cancel_rate_pct: 2.11
 categories: ["Animals & Pets"]
 listed_since: "2024-08-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://www.mehrerehunde-einteam.de/mehrerehunde-einteam/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.mehrerehunde-einteam.de/mehrerehunde-einteam/"
@@ -22,16 +22,16 @@ language: "de"
 # Online Kurs Mehrere Hunde
 
 > Product ID `52082` · Digistore24 productId `564188` · [HTML profile page](../../produkte/online-kurs-mehrere-hunde-52082.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $184.94 (Single payment, Installment) |
+| Price | $185.06 (Single payment, Installment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $61.09 |
+| Earnings/sale* | $61.13 |
 | Cart conversion* | 12% |
 | Cancel rate* | 2.11% |
 | Vendor | KarineMastroleo |
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online Kurs Mehrere Hunde? — Typ: Member area and video courses, Anbieter: KarineMastroleo, gelistet seit 2024-08-06
-- Wie viel kostet es? — 184.94492100000002 USD
+- Wie viel kostet es? — 185.060708 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Online Kurs Mehrere Hunde Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/564188
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/564188/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Online%20Kurs%20Mehrere%20Hunde
 
 ## 4. Editorial notes

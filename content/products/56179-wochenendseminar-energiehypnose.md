@@ -4,34 +4,34 @@ digistore24_product_id: 575305
 title: "Wochenendseminar EnergieHypnose"
 vendor: "hh-akademie"
 product_type: "Seminar for business customers"
-price: 742.61
+price: 743.07
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 64.86
+earnings_per_sale: 64.9
 cart_conversion_pct: 3
 cancel_rate_pct: 4.27
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2024-10-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/56179/adminstore/"
+promo_link: "https://www.digistore24.com/product/575305?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/575305"
 language: "de"
 ---
 # Wochenendseminar EnergieHypnose
 
 > Product ID `56179` · Digistore24 productId `575305` · [HTML profile page](../../produkte/wochenendseminar-energiehypnose-56179.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Seminar for business customers |
-| Price | $742.61 (Single payment, Installment) |
+| Price | $743.07 (Single payment, Installment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $64.86 |
+| Earnings/sale* | $64.90 |
 | Cart conversion* | 3% |
 | Cancel rate* | 4.27% |
 | Vendor | hh-akademie |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56179/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/575305?aff=adminstore
 - Sales page: https://www.digistore24.com/product/575305
 - Vendor affiliate support: https://hh-akademie.at/digistore24-support-affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/575305/adminstore
@@ -93,14 +93,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Wochenendseminar EnergieHypnose? — Typ: Seminar for business customers, Anbieter: hh-akademie, gelistet seit 2024-10-15
-- Wie viel kostet es? — 742.608477 USD
+- Wie viel kostet es? — 743.073396 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Wochenendseminar EnergieHypnose Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/575305
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/575305/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Wochenendseminar%20EnergieHypnose
 
 ## 4. Editorial notes

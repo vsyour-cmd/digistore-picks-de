@@ -4,7 +4,7 @@ digistore24_product_id: 455087
 title: "Exit Gaslighting - Ausstieg aus psychischer Manipulation"
 vendor: "psySOULogy"
 product_type: "E-books"
-price: 13.57
+price: 13.58
 currency: "USD"
 affiliate_commission_pct: 35
 earnings_per_sale: 4.75
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2022-08-11"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/40913/adminstore/"
+promo_link: "https://www.digistore24.com/product/455087?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/455087"
 language: "de"
 ---
 # Exit Gaslighting - Ausstieg aus psychischer Manipulation
 
 > Product ID `40913` · Digistore24 productId `455087` · [HTML profile page](../../produkte/exit-gaslighting-ausstieg-aus-psychischer-manipulation-40913.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $13.57 (Single payment) |
+| Price | $13.58 (Single payment) |
 | Affiliate commission | 35% |
 | Earnings/sale* | $4.75 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/40913/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/455087?aff=adminstore
 - Sales page: https://www.digistore24.com/product/455087
 - Vendor affiliate support: https://www.exit-gaslighting.com/das-exit-gaslighting-partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/455087/adminstore
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Exit Gaslighting - Ausstieg aus psychischer Manipulation? — Typ: E-books, Anbieter: psySOULogy, gelistet seit 2022-08-11
-- Wie viel kostet es? — 13.573734000000002 USD
+- Wie viel kostet es? — 13.582232000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Exit Gaslighting - Ausstieg aus psychischer Manipulation Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/455087
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/455087/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Exit%20Gaslighting%20-%20Ausstieg%20aus%20psychischer%20Manipulation
 
 ## 4. Editorial notes

@@ -4,7 +4,7 @@ digistore24_product_id: 416351
 title: "\"Rette Herrn Rumpelpumpel\" FABI's erstes Kreativ-Abenteuer"
 vendor: "FABISDESIGNkids"
 product_type: "Member area and video courses"
-price: 25.37
+price: 25.39
 currency: "USD"
 affiliate_commission_pct: 0
 earnings_per_sale: 5.59
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2021-11-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/38979/adminstore/"
+promo_link: "https://fabisdesign-kids.com/de/kreativabenteuer-lp2-1490e/?aff=adminstore#aff=adminstore"
 sales_page: "https://fabisdesign-kids.com/de/kreativabenteuer-lp2-1490e/"
 language: "de"
 ---
 # "Rette Herrn Rumpelpumpel" FABI's erstes Kreativ-Abenteuer
 
 > Product ID `38979` · Digistore24 productId `416351` · [HTML profile page](../../produkte/rette-herrn-rumpelpumpel-fabi-s-erstes-kreativ-abenteuer-38979.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $25.37 (Single payment) |
+| Price | $25.39 (Single payment) |
 | Affiliate commission | 0% |
 | Earnings/sale* | $5.59 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/38979/adminstore/
+- **Promo link (affiliate):** https://fabisdesign-kids.com/de/kreativabenteuer-lp2-1490e/?aff=adminstore#aff=adminstore
 - Sales page: https://fabisdesign-kids.com/de/kreativabenteuer-lp2-1490e/
 - Vendor affiliate support: https://fabisdesign-kids.com/de/affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/416351/adminstore
@@ -80,14 +80,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist "Rette Herrn Rumpelpumpel" FABI's erstes Kreativ-Abenteuer? — Typ: Member area and video courses, Anbieter: FABISDESIGNkids, gelistet seit 2021-11-16
-- Wie viel kostet es? — 25.369689000000005 USD
+- Wie viel kostet es? — 25.385572000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: "Rette Herrn Rumpelpumpel" FABI's erstes Kreativ-Abenteuer Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/416351
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/416351/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=%22Rette%20Herrn%20Rumpelpumpel%22%20FABI's%20erstes%20Kreativ-Abenteuer
 
 ## 4. Editorial notes

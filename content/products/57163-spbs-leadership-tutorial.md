@@ -4,40 +4,40 @@ digistore24_product_id: 703031
 title: "SPBS Leadership Tutorial"
 vendor: "SPBS-Business"
 product_type: "Downloads"
-price: 112.66
+price: 112.73
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 11.27
+earnings_per_sale: 11.28
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Business & Investment","Education","Profession & Job"]
+categories: ["Business & Investment","Profession & Job","Education"]
 listed_since: "2026-06-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/57163/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/703031?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/703031"
 language: "de"
 ---
 # SPBS Leadership Tutorial
 
 > Product ID `57163` · Digistore24 productId `703031` · [HTML profile page](../../produkte/spbs-leadership-tutorial-57163.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $112.66 (Single payment) |
+| Price | $112.73 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $11.27 |
+| Earnings/sale* | $11.28 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SPBS-Business |
 | Listed since | 2026-06-29 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Education, Profession & Job |
+| Categories | Business & Investment, Profession & Job, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/57163/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/703031?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/703031
 - Canonical redirect: https://www.digistore24.com/redir/703031/adminstore
 
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist SPBS Leadership Tutorial? — Typ: Downloads, Anbieter: SPBS-Business, gelistet seit 2026-06-29
-- Wie viel kostet es? — 112.65975600000002 USD
+- Wie viel kostet es? — 112.730288 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: SPBS Leadership Tutorial Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/703031
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/703031/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=SPBS%20Leadership%20Tutorial
 
 ## 4. Editorial notes

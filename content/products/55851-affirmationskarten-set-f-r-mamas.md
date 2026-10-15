@@ -4,40 +4,40 @@ digistore24_product_id: 672302
 title: "Affirmationskarten-Set für Mamas"
 vendor: "HolistischMama"
 product_type: "Downloads"
-price: 17.84
+price: 17.86
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 7.13
+earnings_per_sale: 7.14
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Family & Children","Personal Development","Spiri­tua­lity & Esotericism"]
+categories: ["Personal Development","Spiri­tua­lity & Esotericism","Family & Children"]
 listed_since: "2026-02-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/55851/adminstore/"
+promo_link: "https://holistischmama.de/affirmationskarten/?aff=adminstore#aff=adminstore"
 sales_page: "https://holistischmama.de/affirmationskarten/"
 language: "de"
 ---
 # Affirmationskarten-Set für Mamas
 
 > Product ID `55851` · Digistore24 productId `672302` · [HTML profile page](../../produkte/affirmationskarten-set-f-r-mamas-55851.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $17.84 (Single payment) |
+| Price | $17.86 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $7.13 |
+| Earnings/sale* | $7.14 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | HolistischMama |
 | Listed since | 2026-02-27 |
 | Auto-accept affiliates | yes |
-| Categories | Family & Children, Personal Development, Spiri­tua­lity & Esotericism |
+| Categories | Personal Development, Spiri­tua­lity & Esotericism, Family & Children |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55851/adminstore/
+- **Promo link (affiliate):** https://holistischmama.de/affirmationskarten/?aff=adminstore#aff=adminstore
 - Sales page: https://holistischmama.de/affirmationskarten/
 - Canonical redirect: https://www.digistore24.com/redir/672302/adminstore
 
@@ -84,14 +84,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Affirmationskarten-Set für Mamas? — Typ: Downloads, Anbieter: HolistischMama, gelistet seit 2026-02-27
-- Wie viel kostet es? — 17.844876000000003 USD
+- Wie viel kostet es? — 17.856048 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Affirmationskarten-Set für Mamas Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/672302
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/672302/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Affirmationskarten-Set%20f%C3%BCr%20Mamas
 
 ## 4. Editorial notes

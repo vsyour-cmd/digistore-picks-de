@@ -4,7 +4,7 @@ digistore24_product_id: 281004
 title: "POSING CLASS für Fotografen"
 vendor: "juliaundgil"
 product_type: "Member area and video courses"
-price: 184.79
+price: 184.9
 currency: "USD"
 affiliate_commission_pct: 0
 earnings_per_sale: 0.46
@@ -12,24 +12,24 @@ cart_conversion_pct: 16
 cancel_rate_pct: 3.96
 categories: ["Profession & Job"]
 listed_since: "2019-07-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/43527/adminstore/"
+promo_link: "https://juliaandgil.education/live-shoots-workshop/?aff=adminstore#aff=adminstore"
 sales_page: "https://juliaandgil.education/live-shoots-workshop/"
 language: "de"
 ---
 # POSING CLASS für Fotografen
 
 > Product ID `43527` · Digistore24 productId `281004` · [HTML profile page](../../produkte/posing-class-f-r-fotografen-43527.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $184.79 (Single payment, Installment) |
+| Price | $184.90 (Single payment, Installment) |
 | Affiliate commission | 0% |
 | Earnings/sale* | $0.46 |
 | Cart conversion* | 16% |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/43527/adminstore/
+- **Promo link (affiliate):** https://juliaandgil.education/live-shoots-workshop/?aff=adminstore#aff=adminstore
 - Sales page: https://juliaandgil.education/live-shoots-workshop/
 - Canonical redirect: https://www.digistore24.com/redir/281004/adminstore
 
@@ -80,14 +80,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist POSING CLASS für Fotografen? — Typ: Member area and video courses, Anbieter: juliaundgil, gelistet seit 2019-07-29
-- Wie viel kostet es? — 184.78838700000003 USD
+- Wie viel kostet es? — 184.904076 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: POSING CLASS für Fotografen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/281004
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/281004/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=POSING%20CLASS%20f%C3%BCr%20Fotografen
 
 ## 4. Editorial notes

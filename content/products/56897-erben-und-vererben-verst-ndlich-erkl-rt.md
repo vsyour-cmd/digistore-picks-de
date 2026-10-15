@@ -4,34 +4,34 @@ digistore24_product_id: 697599
 title: "Erben und Vererben verständlich erklärt"
 vendor: "Rechtsanwaltskanzlei-Guenther"
 product_type: "Downloads"
-price: 14.04
+price: 14.05
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 7.02
+earnings_per_sale: 7.03
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children","Law & Justice"]
 listed_since: "2026-06-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/56897/adminstore/"
+promo_link: "https://kanzlei-guenther.de/downloads/?aff=adminstore#aff=adminstore"
 sales_page: "https://kanzlei-guenther.de/downloads/"
 language: "de"
 ---
 # Erben und Vererben verständlich erklärt
 
 > Product ID `56897` · Digistore24 productId `697599` · [HTML profile page](../../produkte/erben-und-vererben-verst-ndlich-erkl-rt-56897.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $14.04 (Single payment) |
+| Price | $14.05 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $7.02 |
+| Earnings/sale* | $7.03 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Rechtsanwaltskanzlei-Guenther |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56897/adminstore/
+- **Promo link (affiliate):** https://kanzlei-guenther.de/downloads/?aff=adminstore#aff=adminstore
 - Sales page: https://kanzlei-guenther.de/downloads/
 - Vendor affiliate support: https://kanzlei-guenther.de/affiliate-support/
 - Canonical redirect: https://www.digistore24.com/redir/697599/adminstore
@@ -74,14 +74,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Erben und Vererben verständlich erklärt? — Typ: Downloads, Anbieter: Rechtsanwaltskanzlei-Guenther, gelistet seit 2026-06-15
-- Wie viel kostet es? — 14.043336000000002 USD
+- Wie viel kostet es? — 14.052128000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Erben und Vererben verständlich erklärt Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/697599
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/697599/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Erben%20und%20Vererben%20verst%C3%A4ndlich%20erkl%C3%A4rt
 
 ## 4. Editorial notes

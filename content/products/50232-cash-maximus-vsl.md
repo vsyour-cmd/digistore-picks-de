@@ -4,16 +4,16 @@ digistore24_product_id: 563094
 title: "Cash Maximus VSL"
 vendor: "AndreasLang"
 product_type: "Member area and video courses"
-price: 314.76
+price: 314.95
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 157.38
+earnings_per_sale: 157.48
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2024-09-25"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://www.cashmaximus.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.cashmaximus.de/"
@@ -22,16 +22,16 @@ language: "de"
 # Cash Maximus VSL
 
 > Product ID `50232` · Digistore24 productId `563094` · [HTML profile page](../../produkte/cash-maximus-vsl-50232.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $314.76 (Single payment, Installment) |
+| Price | $314.95 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $157.38 |
+| Earnings/sale* | $157.48 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | AndreasLang |
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Cash Maximus VSL? — Typ: Member area and video courses, Anbieter: AndreasLang, gelistet seit 2024-09-25
-- Wie viel kostet es? — 314.756331 USD
+- Wie viel kostet es? — 314.953388 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Cash Maximus VSL Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/563094
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/563094/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Cash%20Maximus%20VSL
 
 ## 4. Editorial notes

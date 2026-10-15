@@ -4,7 +4,7 @@ digistore24_product_id: 634968
 title: "ADHS bei Erwachsenen – Gesegnet und Verflucht | Hörbuch"
 vendor: "Keto-Fasten"
 product_type: "Audio book (download)"
-price: 20.8
+price: 20.81
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 10.4
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2025-09-10"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.keto.jetzt/adhs-gesegnet-und-verflucht-das-hoerbuch/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.keto.jetzt/adhs-gesegnet-und-verflucht-das-hoerbuch/"
@@ -22,14 +22,14 @@ language: "de"
 # ADHS bei Erwachsenen – Gesegnet und Verflucht | Hörbuch
 
 > Product ID `53998` · Digistore24 productId `634968` · [HTML profile page](../../produkte/adhs-bei-erwachsenen-gesegnet-und-verflucht-h-rbuch-53998.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Audio book (download) |
-| Price | $20.80 (Single payment) |
+| Price | $20.81 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $10.40 |
 | Cart conversion* | — |
@@ -74,14 +74,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist ADHS bei Erwachsenen – Gesegnet und Verflucht | Hörbuch? — Typ: Audio book (download), Anbieter: Keto-Fasten, gelistet seit 2025-09-10
-- Wie viel kostet es? — 20.796660000000003 USD
+- Wie viel kostet es? — 20.80968 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: ADHS bei Erwachsenen – Gesegnet und Verflucht | Hörbuch Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/634968
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/634968/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=ADHS%20bei%20Erwachsenen%20%E2%80%93%20Gesegnet%20und%20Verflucht%20%7C%20H%C3%B6rbuch
 
 ## 4. Editorial notes

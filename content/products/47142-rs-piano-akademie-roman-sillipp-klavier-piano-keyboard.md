@@ -4,16 +4,16 @@ digistore24_product_id: 604618
 title: "RS-Piano-Akademie-Roman Sillipp (Klavier, Piano, Keyboard)"
 vendor: "Roman_Sillipp"
 product_type: "Member area and video courses"
-price: 1307.9
+price: 1308.72
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 653.95
+earnings_per_sale: 654.36
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Fun & Games","Profession & Job"]
+categories: ["Profession & Job","Education","Fun & Games"]
 listed_since: "2025-03-30"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
 promo_link: "https://romansillipp.com/mitgliederbereich/kursvorstellung/kurs-a-grundlagenkurs/?aff=adminstore#aff=adminstore"
 sales_page: "https://romansillipp.com/mitgliederbereich/kursvorstellung/kurs-a-grundlagenkurs/"
@@ -22,22 +22,22 @@ language: "de"
 # RS-Piano-Akademie-Roman Sillipp (Klavier, Piano, Keyboard)
 
 > Product ID `47142` · Digistore24 productId `604618` · [HTML profile page](../../produkte/rs-piano-akademie-roman-sillipp-klavier-piano-keyboard-47142.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin (browser-rendered)**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1307.90 (Single payment, Installment) |
+| Price | $1308.72 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $653.95 |
+| Earnings/sale* | $654.36 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Roman_Sillipp |
 | Listed since | 2025-03-30 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Fun & Games, Profession & Job |
+| Categories | Profession & Job, Education, Fun & Games |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -73,14 +73,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist RS-Piano-Akademie-Roman Sillipp (Klavier, Piano, Keyboard)? — Typ: Member area and video courses, Anbieter: Roman_Sillipp, gelistet seit 2025-03-30
-- Wie viel kostet es? — 1307.8974750000002 USD
+- Wie viel kostet es? — 1308.7163 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: RS-Piano-Akademie-Roman Sillipp (Klavier, Piano, Keyboard) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/604618
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/604618/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=RS-Piano-Akademie-Roman%20Sillipp%20(Klavier%2C%20Piano%2C%20Keyboard)
 
 ## 4. Editorial notes

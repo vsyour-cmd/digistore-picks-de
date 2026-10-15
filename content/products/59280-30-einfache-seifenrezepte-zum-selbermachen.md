@@ -4,16 +4,16 @@ digistore24_product_id: 733779
 title: "30 einfache Seifenrezepte zum Selbermachen"
 vendor: "Book2Book"
 product_type: "E-books"
-price: 20.11
+price: 20.13
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 13.07
+earnings_per_sale: 13.08
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft"]
 listed_since: "2026-09-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/733779?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/733779"
@@ -22,16 +22,16 @@ language: "de"
 # 30 einfache Seifenrezepte zum Selbermachen
 
 > Product ID `59280` · Digistore24 productId `733779` · [HTML profile page](../../produkte/30-einfache-seifenrezepte-zum-selbermachen-59280.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.11 (Single payment) |
+| Price | $20.13 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $13.07 |
+| Earnings/sale* | $13.08 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Book2Book |
@@ -81,14 +81,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 30 einfache Seifenrezepte zum Selbermachen? — Typ: E-books, Anbieter: Book2Book, gelistet seit 2026-09-16
-- Wie viel kostet es? — 20.114619 USD
+- Wie viel kostet es? — 20.127212 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 30 einfache Seifenrezepte zum Selbermachen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/733779
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/733779/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=30%20einfache%20Seifenrezepte%20zum%20Selbermachen
 
 ## 4. Editorial notes

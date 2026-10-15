@@ -4,34 +4,34 @@ digistore24_product_id: 449107
 title: "33 fertige Email-Vorlagen (geniales Newsletter-Bundle)"
 vendor: "dennistr1"
 product_type: "Downloads"
-price: 31
+price: 31.02
 currency: "USD"
 affiliate_commission_pct: 90
-earnings_per_sale: 27.91
+earnings_per_sale: 27.93
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2022-06-30"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/40645/adminstore/"
+promo_link: "https://onlinebusinesspilot.com/33-fertige-email-vorlagen/?aff=adminstore#aff=adminstore"
 sales_page: "https://onlinebusinesspilot.com/33-fertige-email-vorlagen/"
 language: "de"
 ---
 # 33 fertige Email-Vorlagen (geniales Newsletter-Bundle)
 
 > Product ID `40645` · Digistore24 productId `449107` · [HTML profile page](../../produkte/33-fertige-email-vorlagen-geniales-newsletter-bundle-40645.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $31.00 (Single payment) |
+| Price | $31.02 (Single payment) |
 | Affiliate commission | 90% |
-| Earnings/sale* | $27.91 |
+| Earnings/sale* | $27.93 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | dennistr1 |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/40645/adminstore/
+- **Promo link (affiliate):** https://onlinebusinesspilot.com/33-fertige-email-vorlagen/?aff=adminstore#aff=adminstore
 - Sales page: https://onlinebusinesspilot.com/33-fertige-email-vorlagen/
 - Canonical redirect: https://www.digistore24.com/redir/449107/adminstore
 
@@ -99,14 +99,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 33 fertige Email-Vorlagen (geniales Newsletter-Bundle)? — Typ: Downloads, Anbieter: dennistr1, gelistet seit 2022-06-30
-- Wie viel kostet es? — 31.004913000000002 USD
+- Wie viel kostet es? — 31.024324 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 33 fertige Email-Vorlagen (geniales Newsletter-Bundle) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/449107
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/449107/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=33%20fertige%20Email-Vorlagen%20(geniales%20Newsletter-Bundle)
 
 ## 4. Editorial notes

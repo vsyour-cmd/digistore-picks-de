@@ -4,16 +4,16 @@ digistore24_product_id: 375502
 title: "Survival Feuertechniken / Feuer machen wie ein Pro"
 vendor: "ypsilon"
 product_type: "E-books"
-price: 22.99
+price: 23
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 11.49
+earnings_per_sale: 11.5
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Survival"]
 listed_since: "2021-02-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://ousuca.com/buecher/feuer-buch/?aff=adminstore#aff=adminstore"
 sales_page: "https://ousuca.com/buecher/feuer-buch/"
@@ -22,16 +22,16 @@ language: "de"
 # Survival Feuertechniken / Feuer machen wie ein Pro
 
 > Product ID `35874` · Digistore24 productId `375502` · [HTML profile page](../../produkte/survival-feuertechniken-feuer-machen-wie-ein-pro-35874.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $22.99 (Single payment) |
+| Price | $23.00 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $11.49 |
+| Earnings/sale* | $11.50 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ypsilon |
@@ -78,14 +78,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Survival Feuertechniken / Feuer machen wie ein Pro? — Typ: E-books, Anbieter: ypsilon, gelistet seit 2021-02-23
-- Wie viel kostet es? — 22.988136 USD
+- Wie viel kostet es? — 23.002527999999998 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Survival Feuertechniken / Feuer machen wie ein Pro Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/375502
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/375502/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Survival%20Feuertechniken%20%2F%20Feuer%20machen%20wie%20ein%20Pro
 
 ## 4. Editorial notes

@@ -7,13 +7,13 @@ product_type: "E-books"
 price: 0
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 3.26
+earnings_per_sale: 3.27
 cart_conversion_pct: 48
 cancel_rate_pct: 0
 categories: ["Business & Investment","Computer & Internet","Profession & Job"]
 listed_since: "2024-03-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/545678?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/545678"
@@ -22,7 +22,7 @@ language: "de"
 # Reseller werden - erfolgreich mit eBay
 
 > Product ID `47603` · Digistore24 productId `545678` · [HTML profile page](../../produkte/reseller-werden-erfolgreich-mit-ebay-47603.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,7 @@ language: "de"
 | Product type | E-books |
 | Price | $0.00 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $3.26 |
+| Earnings/sale* | $3.27 |
 | Cart conversion* | 48% |
 | Cancel rate* | 0% |
 | Vendor | Packleader |
@@ -76,7 +76,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Reseller werden - erfolgreich mit eBay Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/545678
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/545678/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Reseller%20werden%20-%20erfolgreich%20mit%20eBay
 
 ## 4. Editorial notes

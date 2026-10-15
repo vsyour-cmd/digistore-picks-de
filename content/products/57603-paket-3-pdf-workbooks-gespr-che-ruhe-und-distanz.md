@@ -4,34 +4,34 @@ digistore24_product_id: 707365
 title: "Paket 3 PDF-Workbooks: Gespräche, Ruhe und Distanz"
 vendor: "mathiaswalecki190574dc"
 product_type: "Downloads"
-price: 20.8
+price: 20.81
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 12.48
+earnings_per_sale: 12.49
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2026-07-19"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/57603/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/707365?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/707365"
 language: "de"
 ---
 # Paket 3 PDF-Workbooks: Gespräche, Ruhe und Distanz
 
 > Product ID `57603` · Digistore24 productId `707365` · [HTML profile page](../../produkte/paket-3-pdf-workbooks-gespr-che-ruhe-und-distanz-57603.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $20.80 (Single payment) |
+| Price | $20.81 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $12.48 |
+| Earnings/sale* | $12.49 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | mathiaswalecki190574dc |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/57603/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/707365?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/707365
 - Canonical redirect: https://www.digistore24.com/redir/707365/adminstore
 
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Paket 3 PDF-Workbooks: Gespräche, Ruhe und Distanz? — Typ: Downloads, Anbieter: mathiaswalecki190574dc, gelistet seit 2026-07-19
-- Wie viel kostet es? — 20.796660000000003 USD
+- Wie viel kostet es? — 20.80968 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Paket 3 PDF-Workbooks: Gespräche, Ruhe und Distanz Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/707365
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/707365/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Paket%203%20PDF-Workbooks%3A%20Gespr%C3%A4che%2C%20Ruhe%20und%20Distanz
 
 ## 4. Editorial notes

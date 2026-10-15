@@ -4,16 +4,16 @@ digistore24_product_id: 611383
 title: "KI POWER-erstelle deinen KI-Zwilling oder eine KI-Influencer"
 vendor: "AnneWuensche"
 product_type: "Member area and video courses"
-price: 48.35
+price: 48.38
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 11.56
+earnings_per_sale: 11.57
 cart_conversion_pct: 2
 cancel_rate_pct: 5.01
 categories: ["Online Marketing & E-Business"]
 listed_since: "2025-05-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/611383?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/611383"
@@ -22,16 +22,16 @@ language: "de"
 # KI POWER-erstelle deinen KI-Zwilling oder eine KI-Influencer
 
 > Product ID `52470` · Digistore24 productId `611383` · [HTML profile page](../../produkte/ki-power-erstelle-deinen-ki-zwilling-oder-eine-ki-influencer-52470.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $48.35 (Single payment) |
+| Price | $48.38 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $11.56 |
+| Earnings/sale* | $11.57 |
 | Cart conversion* | 2% |
 | Cancel rate* | 5.01% |
 | Vendor | AnneWuensche |
@@ -81,14 +81,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI POWER-erstelle deinen KI-Zwilling oder eine KI-Influencer? — Typ: Member area and video courses, Anbieter: AnneWuensche, gelistet seit 2025-05-07
-- Wie viel kostet es? — 48.346644000000005 USD
+- Wie viel kostet es? — 48.376912000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: KI POWER-erstelle deinen KI-Zwilling oder eine KI-Influencer Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/611383
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/611383/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=KI%20POWER-erstelle%20deinen%20KI-Zwilling%20oder%20eine%20KI-Influencer
 
 ## 4. Editorial notes

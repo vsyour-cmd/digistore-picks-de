@@ -4,16 +4,16 @@ digistore24_product_id: 475255
 title: "So besteht jede/r die Theorieprüfung"
 vendor: "Verkehrsguru"
 product_type: "Member area and video courses"
-price: 35.8
+price: 35.82
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 15.82
+earnings_per_sale: 15.83
 cart_conversion_pct: 5
 cancel_rate_pct: 3.13
 categories: ["Education"]
 listed_since: "2022-12-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/475255?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/475255"
@@ -22,16 +22,16 @@ language: "de"
 # So besteht jede/r die Theorieprüfung
 
 > Product ID `45042` · Digistore24 productId `475255` · [HTML profile page](../../produkte/so-besteht-jede-r-die-theoriepr-fung-45042.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $35.80 (Single payment) |
+| Price | $35.82 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $15.82 |
+| Earnings/sale* | $15.83 |
 | Cart conversion* | 5% |
 | Cancel rate* | 3.13% |
 | Vendor | Verkehrsguru |
@@ -89,14 +89,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist So besteht jede/r die Theorieprüfung? — Typ: Member area and video courses, Anbieter: Verkehrsguru, gelistet seit 2022-12-16
-- Wie viel kostet es? — 35.801562000000004 USD
+- Wie viel kostet es? — 35.823976 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: So besteht jede/r die Theorieprüfung Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/475255
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/475255/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=So%20besteht%20jede%2Fr%20die%20Theoriepr%C3%BCfung
 
 ## 4. Editorial notes

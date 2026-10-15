@@ -4,16 +4,16 @@ digistore24_product_id: 616656
 title: "Tierschutz-Guide – inkl. Premium Plus Paket"
 vendor: "Tierheimsponsoring"
 product_type: "Downloads"
-price: 473.55
+price: 473.85
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 118.38
+earnings_per_sale: 118.46
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2025-06-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/616656?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/616656"
@@ -22,16 +22,16 @@ language: "de"
 # Tierschutz-Guide – inkl. Premium Plus Paket
 
 > Product ID `55212` · Digistore24 productId `616656` · [HTML profile page](../../produkte/tierschutz-guide-inkl-premium-plus-paket-55212.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $473.55 (Subscription) |
+| Price | $473.85 (Subscription) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $118.38 |
+| Earnings/sale* | $118.46 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Tierheimsponsoring |
@@ -86,14 +86,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Tierschutz-Guide – inkl. Premium Plus Paket? — Typ: Downloads, Anbieter: Tierheimsponsoring, gelistet seit 2025-06-04
-- Wie viel kostet es? — 473.548893 USD
+- Wie viel kostet es? — 473.84536399999996 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Tierschutz-Guide – inkl. Premium Plus Paket Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/616656
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/616656/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Tierschutz-Guide%20%E2%80%93%20inkl.%20Premium%20Plus%20Paket
 
 ## 4. Editorial notes

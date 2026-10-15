@@ -12,8 +12,8 @@ cart_conversion_pct: 18
 cancel_rate_pct: 2.71
 categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2025-07-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://michael-schlinder.com/Nischen-Kompass?aff=adminstore#aff=adminstore"
 sales_page: "https://michael-schlinder.com/Nischen-Kompass"
@@ -22,7 +22,7 @@ language: "de"
 # Der Nischen Kompass - Finde Deinen lukrativen Markt
 
 > Product ID `53322` · Digistore24 productId `626641` · [HTML profile page](../../produkte/der-nischen-kompass-finde-deinen-lukrativen-markt-53322.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -77,14 +77,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Nischen Kompass - Finde Deinen lukrativen Markt? — Typ: Member area and video courses, Anbieter: AffiliForge, gelistet seit 2025-07-29
-- Wie viel kostet es? — 2.448639 USD
+- Wie viel kostet es? — 2.450172 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Der Nischen Kompass - Finde Deinen lukrativen Markt Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/626641
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/626641/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%20Nischen%20Kompass%20-%20Finde%20Deinen%20lukrativen%20Markt
 
 ## 4. Editorial notes

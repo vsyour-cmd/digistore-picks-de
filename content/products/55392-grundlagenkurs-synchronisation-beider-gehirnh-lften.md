@@ -4,16 +4,16 @@ digistore24_product_id: 517322
 title: "Grundlagenkurs Synchronisation beider Gehirnhälften"
 vendor: "danielamokros"
 product_type: "Member area and video courses"
-price: 169.12
+price: 169.23
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 84.56
+earnings_per_sale: 84.61
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Health & Fitness","Personal Development"]
+categories: ["Health & Fitness","Personal Development","Education"]
 listed_since: "2023-09-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/517322?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/517322"
@@ -22,22 +22,22 @@ language: "de"
 # Grundlagenkurs Synchronisation beider Gehirnhälften
 
 > Product ID `55392` · Digistore24 productId `517322` · [HTML profile page](../../produkte/grundlagenkurs-synchronisation-beider-gehirnh-lften-55392.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $169.12 (Single payment, Installment) |
+| Price | $169.23 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $84.56 |
+| Earnings/sale* | $84.61 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | danielamokros |
 | Listed since | 2023-09-20 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Health & Fitness, Personal Development |
+| Categories | Health & Fitness, Personal Development, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -89,14 +89,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Grundlagenkurs Synchronisation beider Gehirnhälften? — Typ: Member area and video courses, Anbieter: danielamokros, gelistet seit 2023-09-20
-- Wie viel kostet es? — 169.123806 USD
+- Wie viel kostet es? — 169.22968799999998 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Grundlagenkurs Synchronisation beider Gehirnhälften Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/517322
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/517322/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Grundlagenkurs%20Synchronisation%20beider%20Gehirnh%C3%A4lften
 
 ## 4. Editorial notes

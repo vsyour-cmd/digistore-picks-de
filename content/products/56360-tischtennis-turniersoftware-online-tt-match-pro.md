@@ -4,16 +4,16 @@ digistore24_product_id: 686195
 title: "Tischtennis-Turniersoftware (online) | TT-Match PRO"
 vendor: "linguatools"
 product_type: "Software"
-price: 93.01
+price: 93.07
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 46.51
+earnings_per_sale: 46.54
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software","Sport"]
 listed_since: "2026-04-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://tt-match.net/de/sites/dg24_turnier-software?aff=adminstore#aff=adminstore"
 sales_page: "https://tt-match.net/de/sites/dg24_turnier-software"
@@ -22,16 +22,16 @@ language: "de"
 # Tischtennis-Turniersoftware (online) | TT-Match PRO
 
 > Product ID `56360` · Digistore24 productId `686195` · [HTML profile page](../../produkte/tischtennis-turniersoftware-online-tt-match-pro-56360.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $93.01 (Single payment) |
+| Price | $93.07 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $46.51 |
+| Earnings/sale* | $46.54 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | linguatools |
@@ -91,14 +91,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Tischtennis-Turniersoftware (online) | TT-Match PRO? — Typ: Software, Anbieter: linguatools, gelistet seit 2026-04-20
-- Wie viel kostet es? — 93.014739 USD
+- Wie viel kostet es? — 93.072972 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Tischtennis-Turniersoftware (online) | TT-Match PRO Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/686195
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/686195/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Tischtennis-Turniersoftware%20(online)%20%7C%20TT-Match%20PRO
 
 ## 4. Editorial notes

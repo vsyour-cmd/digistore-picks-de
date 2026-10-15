@@ -4,7 +4,7 @@ digistore24_product_id: 736807
 title: "Jakobsweg-Guide Spanien"
 vendor: "blockchainmediagroupes"
 product_type: "E-books"
-price: 10.34
+price: 10.35
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 5.18
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Travel & Culture","Marketing Services"]
 listed_since: "2026-09-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/736807?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/736807"
@@ -22,14 +22,14 @@ language: "de"
 # Jakobsweg-Guide Spanien
 
 > Product ID `59646` · Digistore24 productId `736807` · [HTML profile page](../../produkte/jakobsweg-guide-spanien-59646.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.34 (Single payment) |
+| Price | $10.35 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $5.18 |
 | Cart conversion* | — |
@@ -72,14 +72,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Jakobsweg-Guide Spanien? — Typ: E-books, Anbieter: blockchainmediagroupes, gelistet seit 2026-09-24
-- Wie viel kostet es? — 10.342425 USD
+- Wie viel kostet es? — 10.3489 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Jakobsweg-Guide Spanien Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/736807
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/736807/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Jakobsweg-Guide%20Spanien
 
 ## 4. Editorial notes

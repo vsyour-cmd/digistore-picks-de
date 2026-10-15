@@ -4,34 +4,34 @@ digistore24_product_id: 732572
 title: "Stromkosten runter – ohne Verzicht"
 vendor: "Book2Book"
 product_type: "Downloads"
-price: 20.11
+price: 20.13
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 10.06
+earnings_per_sale: 10.07
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Green Products & Environmental Protection"]
 listed_since: "2026-09-12"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/59139/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/732572?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/732572"
 language: "de"
 ---
 # Stromkosten runter – ohne Verzicht
 
 > Product ID `59139` · Digistore24 productId `732572` · [HTML profile page](../../produkte/stromkosten-runter-ohne-verzicht-59139.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $20.11 (Single payment) |
+| Price | $20.13 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $10.06 |
+| Earnings/sale* | $10.07 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Book2Book |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59139/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/732572?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/732572
 - Vendor affiliate support: https://book2bookaffiliatesupport.blogspot.com/2026/09/stromkosten-runter-ohne-verzicht.html
 - Canonical redirect: https://www.digistore24.com/redir/732572/adminstore
@@ -88,14 +88,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Stromkosten runter – ohne Verzicht? — Typ: Downloads, Anbieter: Book2Book, gelistet seit 2026-09-12
-- Wie viel kostet es? — 20.114619 USD
+- Wie viel kostet es? — 20.127212 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Stromkosten runter – ohne Verzicht Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/732572
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/732572/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Stromkosten%20runter%20%E2%80%93%20ohne%20Verzicht
 
 ## 4. Editorial notes

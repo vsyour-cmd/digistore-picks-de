@@ -4,16 +4,16 @@ digistore24_product_id: 412043
 title: "Online-Kurs: Grundlagen der Schüßler Salze (für Laien)"
 vendor: "thopuh"
 product_type: "Member area and video courses"
-price: 61.05
+price: 61.09
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 19.71
+earnings_per_sale: 19.72
 cart_conversion_pct: 13
 cancel_rate_pct: 1.59
-categories: ["Family & Children","Health & Fitness","Spiri­tua­lity & Esotericism"]
+categories: ["Health & Fitness","Spiri­tua­lity & Esotericism","Family & Children"]
 listed_since: "2021-10-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://akademie.hallo-homoeopathie.de/grundkurs-schuessler-salze?aff=adminstore#aff=adminstore"
 sales_page: "https://akademie.hallo-homoeopathie.de/grundkurs-schuessler-salze"
@@ -22,22 +22,22 @@ language: "de"
 # Online-Kurs: Grundlagen der Schüßler Salze (für Laien)
 
 > Product ID `38188` · Digistore24 productId `412043` · [HTML profile page](../../produkte/online-kurs-grundlagen-der-sch-ler-salze-f-r-laien-38188.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $61.05 (Single payment) |
+| Price | $61.09 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $19.71 |
+| Earnings/sale* | $19.72 |
 | Cart conversion* | 13% |
 | Cancel rate* | 1.59% |
 | Vendor | thopuh |
 | Listed since | 2021-10-15 |
 | Auto-accept affiliates | yes |
-| Categories | Family & Children, Health & Fitness, Spiri­tua­lity & Esotericism |
+| Categories | Health & Fitness, Spiri­tua­lity & Esotericism, Family & Children |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -90,14 +90,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online-Kurs: Grundlagen der Schüßler Salze (für Laien)? — Typ: Member area and video courses, Anbieter: thopuh, gelistet seit 2021-10-15
-- Wie viel kostet es? — 61.048260000000006 USD
+- Wie viel kostet es? — 61.08648 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Online-Kurs: Grundlagen der Schüßler Salze (für Laien) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/412043
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/412043/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Online-Kurs%3A%20Grundlagen%20der%20Sch%C3%BC%C3%9Fler%20Salze%20(f%C3%BCr%20Laien)
 
 ## 4. Editorial notes

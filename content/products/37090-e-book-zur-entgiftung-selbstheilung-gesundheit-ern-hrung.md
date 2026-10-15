@@ -4,7 +4,7 @@ digistore24_product_id: 396921
 title: "E-Book zur Entgiftung, Selbstheilung, Gesundheit + Ernährung"
 vendor: "Uwi2016"
 product_type: "E-books"
-price: 11.07
+price: 11.08
 currency: "USD"
 affiliate_commission_pct: 80
 earnings_per_sale: 8.86
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink"]
 listed_since: "2021-07-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.mhs-4-you.com/entgiftungsplan?aff=adminstore#aff=adminstore"
 sales_page: "https://www.mhs-4-you.com/entgiftungsplan"
@@ -22,14 +22,14 @@ language: "de"
 # E-Book zur Entgiftung, Selbstheilung, Gesundheit + Ernährung
 
 > Product ID `37090` · Digistore24 productId `396921` · [HTML profile page](../../produkte/e-book-zur-entgiftung-selbstheilung-gesundheit-ern-hrung-37090.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $11.07 (Single payment) |
+| Price | $11.08 (Single payment) |
 | Affiliate commission | 80% |
 | Earnings/sale* | $8.86 |
 | Cart conversion* | — |
@@ -86,14 +86,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist E-Book zur Entgiftung, Selbstheilung, Gesundheit + Ernährung? — Typ: E-books, Anbieter: Uwi2016, gelistet seit 2021-07-05
-- Wie viel kostet es? — 11.06919 USD
+- Wie viel kostet es? — 11.076120000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: E-Book zur Entgiftung, Selbstheilung, Gesundheit + Ernährung Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/396921
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/396921/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=E-Book%20zur%20Entgiftung%2C%20Selbstheilung%2C%20Gesundheit%20%2B%20Ern%C3%A4hrung
 
 ## 4. Editorial notes

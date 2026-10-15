@@ -4,34 +4,34 @@ digistore24_product_id: 104181
 title: "12 Wochen Fatburner Abnehmprogramm"
 vendor: "amg-onlinekonzepte"
 product_type: "Downloads"
-price: 83.62
+price: 83.68
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 20.91
+earnings_per_sale: 20.92
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Sport"]
 listed_since: "2016-11-14"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/14549/adminstore/"
+promo_link: "http://fatburner-programm.de/?aff=adminstore#aff=adminstore"
 sales_page: "http://fatburner-programm.de/"
 language: "de"
 ---
 # 12 Wochen Fatburner Abnehmprogramm
 
 > Product ID `14549` · Digistore24 productId `104181` · [HTML profile page](../../produkte/12-wochen-fatburner-abnehmprogramm-14549.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $83.62 (Subscription) |
+| Price | $83.68 (Subscription) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $20.91 |
+| Earnings/sale* | $20.92 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | amg-onlinekonzepte |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/14549/adminstore/
+- **Promo link (affiliate):** http://fatburner-programm.de/?aff=adminstore#aff=adminstore
 - Sales page: http://fatburner-programm.de/
 - Vendor affiliate support: http://fatburner-programm.de/affiliates
 - Canonical redirect: https://www.digistore24.com/redir/104181/adminstore
@@ -89,14 +89,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 12 Wochen Fatburner Abnehmprogramm? — Typ: Downloads, Anbieter: amg-onlinekonzepte, gelistet seit 2016-11-14
-- Wie viel kostet es? — 83.62269900000001 USD
+- Wie viel kostet es? — 83.67505200000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 12 Wochen Fatburner Abnehmprogramm Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/104181
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/104181/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=12%20Wochen%20Fatburner%20Abnehmprogramm
 
 ## 4. Editorial notes

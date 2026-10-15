@@ -7,22 +7,22 @@ product_type: "E-books"
 price: 15.58
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 7.79
+earnings_per_sale: 7.8
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2026-06-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/57183/adminstore/"
+promo_link: "https://ratgeberplatz.de/ratgeber/dating-fehler?aff=adminstore#aff=adminstore"
 sales_page: "https://ratgeberplatz.de/ratgeber/dating-fehler"
 language: "de"
 ---
 # Dating-Fehler, die fast jeder macht
 
 > Product ID `57183` · Digistore24 productId `701941` · [HTML profile page](../../produkte/dating-fehler-die-fast-jeder-macht-57183.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,7 @@ language: "de"
 | Product type | E-books |
 | Price | $15.58 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $7.79 |
+| Earnings/sale* | $7.80 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pixonmedia |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/57183/adminstore/
+- **Promo link (affiliate):** https://ratgeberplatz.de/ratgeber/dating-fehler?aff=adminstore#aff=adminstore
 - Sales page: https://ratgeberplatz.de/ratgeber/dating-fehler
 - Canonical redirect: https://www.digistore24.com/redir/701941/adminstore
 
@@ -85,14 +85,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Dating-Fehler, die fast jeder macht? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-06-29
-- Wie viel kostet es? — 15.575133000000001 USD
+- Wie viel kostet es? — 15.584884 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Dating-Fehler, die fast jeder macht Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/701941
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/701941/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Dating-Fehler%2C%20die%20fast%20jeder%20macht
 
 ## 4. Editorial notes

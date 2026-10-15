@@ -4,16 +4,16 @@ digistore24_product_id: 627890
 title: "Content CreAItor Clone | KI-Fotos und Videos | 70 % Provision"
 vendor: "jusaconsulting"
 product_type: "Member area and video courses"
-price: 241.32
+price: 241.47
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 71.25
+earnings_per_sale: 71.29
 cart_conversion_pct: 7
 cancel_rate_pct: 7.53
 categories: ["Social Media"]
 listed_since: "2025-08-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://contentcreaitorclone.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://contentcreaitorclone.com/"
@@ -22,16 +22,16 @@ language: "de"
 # Content CreAItor Clone | KI-Fotos und Videos | 70 % Provision
 
 > Product ID `53596` · Digistore24 productId `627890` · [HTML profile page](../../produkte/content-creaitor-clone-ki-fotos-und-videos-70-provision-53596.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $241.32 (Single payment) |
+| Price | $241.47 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $71.25 |
+| Earnings/sale* | $71.29 |
 | Cart conversion* | 7% |
 | Cancel rate* | 7.53% |
 | Vendor | jusaconsulting |
@@ -95,14 +95,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Content CreAItor Clone | KI-Fotos und Videos | 70 % Provision? — Typ: Member area and video courses, Anbieter: jusaconsulting, gelistet seit 2025-08-05
-- Wie viel kostet es? — 241.31952300000003 USD
+- Wie viel kostet es? — 241.470604 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Content CreAItor Clone | KI-Fotos und Videos | 70 % Provision Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/627890
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/627890/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Content%20CreAItor%20Clone%20%7C%20KI-Fotos%20und%20Videos%20%7C%2070%20%25%20Provision
 
 ## 4. Editorial notes

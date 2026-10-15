@@ -4,34 +4,34 @@ digistore24_product_id: 245625
 title: "ABJETZT/YOGA - Der Yogakurs für Zuhause"
 vendor: "abjetzt-daag"
 product_type: "Member area and video courses"
-price: 83.62
+price: 83.68
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 33.45
+earnings_per_sale: 33.47
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2018-10-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/redir/27397/adminstore/"
+promo_link: "https://www.digistore24.com/redir/245625/adminstore"
 sales_page: "https://abjetztyoga.de/?aff=[AFFILIATE]&cam=[CAMPAIGNKEY]"
 language: "de"
 ---
 # ABJETZT/YOGA - Der Yogakurs für Zuhause
 
 > Product ID `27397` · Digistore24 productId `245625` · [HTML profile page](../../produkte/abjetzt-yoga-der-yogakurs-f-r-zuhause-27397.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $83.62 (Single payment) |
+| Price | $83.68 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $33.45 |
+| Earnings/sale* | $33.47 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | abjetzt-daag |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/redir/27397/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/redir/245625/adminstore
 - Sales page: https://abjetztyoga.de/?aff=[AFFILIATE]&cam=[CAMPAIGNKEY]
 - Vendor affiliate support: https://abjetztyoga.de/affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/245625/adminstore
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist ABJETZT/YOGA - Der Yogakurs für Zuhause? — Typ: Member area and video courses, Anbieter: abjetzt-daag, gelistet seit 2018-10-29
-- Wie viel kostet es? — 83.62269900000001 USD
+- Wie viel kostet es? — 83.67505200000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: ABJETZT/YOGA - Der Yogakurs für Zuhause Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/245625
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/245625/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=ABJETZT%2FYOGA%20-%20Der%20Yogakurs%20f%C3%BCr%20Zuhause
 
 ## 4. Editorial notes

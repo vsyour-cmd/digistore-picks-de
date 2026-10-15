@@ -4,16 +4,16 @@ digistore24_product_id: 361952
 title: "Online-Hundetrainingsplattform - mydog365"
 vendor: "mydog365"
 product_type: "Member area and video courses"
-price: 225.58
+price: 225.72
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 9.29
+earnings_per_sale: 9.3
 cart_conversion_pct: 21
 cancel_rate_pct: 3.51
 categories: ["Animals & Pets"]
 listed_since: "2020-12-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://mydog365.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://mydog365.de/"
@@ -22,16 +22,16 @@ language: "de"
 # Online-Hundetrainingsplattform - mydog365
 
 > Product ID `37712` · Digistore24 productId `361952` · [HTML profile page](../../produkte/online-hundetrainingsplattform-mydog365-37712.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $225.58 (Subscription) |
+| Price | $225.72 (Subscription) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $9.29 |
+| Earnings/sale* | $9.30 |
 | Cart conversion* | 21% |
 | Cancel rate* | 3.51% |
 | Vendor | mydog365 |
@@ -84,14 +84,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online-Hundetrainingsplattform - mydog365? — Typ: Member area and video courses, Anbieter: mydog365, gelistet seit 2020-12-09
-- Wie viel kostet es? — 225.57667500000002 USD
+- Wie viel kostet es? — 225.71790000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Online-Hundetrainingsplattform - mydog365 Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/361952
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/361952/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Online-Hundetrainingsplattform%20-%20mydog365
 
 ## 4. Editorial notes

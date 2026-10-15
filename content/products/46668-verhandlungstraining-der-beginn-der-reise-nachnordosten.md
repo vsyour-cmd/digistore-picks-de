@@ -4,16 +4,16 @@ digistore24_product_id: 529562
 title: "Verhandlungstraining - Der Beginn der Reise nachnordosten"
 vendor: "nachnordosten"
 product_type: "Seminar for business customers"
-price: 1220.52
+price: 1221.28
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 244.1
+earnings_per_sale: 244.26
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Business & Investment","Leadership & Management","Personal Development"]
+categories: ["Personal Development","Business & Investment","Leadership & Management"]
 listed_since: "2023-12-13"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://nachnordosten.de/beginn-der-reise/?aff=adminstore#aff=adminstore"
 sales_page: "https://nachnordosten.de/beginn-der-reise/"
@@ -22,22 +22,22 @@ language: "de"
 # Verhandlungstraining - Der Beginn der Reise nachnordosten
 
 > Product ID `46668` · Digistore24 productId `529562` · [HTML profile page](../../produkte/verhandlungstraining-der-beginn-der-reise-nachnordosten-46668.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Seminar for business customers |
-| Price | $1220.52 (Single payment) |
+| Price | $1221.28 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $244.10 |
+| Earnings/sale* | $244.26 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | nachnordosten |
 | Listed since | 2023-12-13 |
 | Auto-accept affiliates | no (approval required) |
-| Categories | Business & Investment, Leadership & Management, Personal Development |
+| Categories | Personal Development, Business & Investment, Leadership & Management |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -88,14 +88,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Verhandlungstraining - Der Beginn der Reise nachnordosten? — Typ: Seminar for business customers, Anbieter: nachnordosten, gelistet seit 2023-12-13
-- Wie viel kostet es? — 1220.51796 USD
+- Wie viel kostet es? — 1221.28208 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Verhandlungstraining - Der Beginn der Reise nachnordosten Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/529562
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/529562/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Verhandlungstraining%20-%20Der%20Beginn%20der%20Reise%20nachnordosten
 
 ## 4. Editorial notes

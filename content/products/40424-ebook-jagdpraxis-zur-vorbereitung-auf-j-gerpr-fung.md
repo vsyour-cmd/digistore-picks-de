@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2022-04-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/438049?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/438049"
@@ -22,7 +22,7 @@ language: "de"
 # eBook Jagdpraxis zur Vorbereitung auf Jägerprüfung
 
 > Product ID `40424` · Digistore24 productId `438049` · [HTML profile page](../../produkte/ebook-jagdpraxis-zur-vorbereitung-auf-j-gerpr-fung-40424.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -72,14 +72,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist eBook Jagdpraxis zur Vorbereitung auf Jägerprüfung? — Typ: E-books, Anbieter: BenediktAltrogge, gelistet seit 2022-04-08
-- Wie viel kostet es? — 5.210346 USD
+- Wie viel kostet es? — 5.213608 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: eBook Jagdpraxis zur Vorbereitung auf Jägerprüfung Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/438049
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/438049/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=eBook%20Jagdpraxis%20zur%20Vorbereitung%20auf%20J%C3%A4gerpr%C3%BCfung
 
 ## 4. Editorial notes

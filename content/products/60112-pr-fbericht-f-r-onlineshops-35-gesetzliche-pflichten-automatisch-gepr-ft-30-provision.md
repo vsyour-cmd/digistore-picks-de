@@ -4,7 +4,7 @@ digistore24_product_id: 732126
 title: "Prüfbericht für Onlineshops: 35 gesetzliche Pflichten automatisch geprüft – 30 % Provision"
 vendor: "rechtsklar24"
 product_type: "Remote service provided electronically"
-price: 17.86
+price: 17.87
 currency: "USD"
 affiliate_commission_pct: 30
 earnings_per_sale: 5.36
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Law & Justice"]
 listed_since: "2026-10-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://rechtsklar24.de/pruefbericht.html?aff=adminstore#aff=adminstore"
 sales_page: "https://rechtsklar24.de/pruefbericht.html"
@@ -22,14 +22,14 @@ language: "de"
 # Prüfbericht für Onlineshops: 35 gesetzliche Pflichten automatisch geprüft – 30 % Provision
 
 > Product ID `60112` · Digistore24 productId `732126` · [HTML profile page](../../produkte/pr-fbericht-f-r-onlineshops-35-gesetzliche-pflichten-automatisch-gepr-ft-30-provision-60112.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $17.86 (Single payment) |
+| Price | $17.87 (Single payment) |
 | Affiliate commission | 30% |
 | Earnings/sale* | $5.36 |
 | Cart conversion* | — |
@@ -73,14 +73,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Prüfbericht für Onlineshops: 35 gesetzliche Pflichten automatisch geprüft – 30 % Provision? — Typ: Remote service provided electronically, Anbieter: rechtsklar24, gelistet seit 2026-10-01
-- Wie viel kostet es? — 17.856057000000003 USD
+- Wie viel kostet es? — 17.867236000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Prüfbericht für Onlineshops: 35 gesetzliche Pflichten automatisch geprüft – 30 % Provision Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/732126
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/732126/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Pr%C3%BCfbericht%20f%C3%BCr%20Onlineshops%3A%2035%20gesetzliche%20Pflichten%20automatisch%20gepr%C3%BCft%20%E2%80%93%2030%20%25%20Provision
 
 ## 4. Editorial notes

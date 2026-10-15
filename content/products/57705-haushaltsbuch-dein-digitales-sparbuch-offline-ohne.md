@@ -4,7 +4,7 @@ digistore24_product_id: 703464
 title: "Haushaltsbuch – Dein digitales Sparbuch, offline & ohne"
 vendor: "gzaistacks2aae"
 product_type: "Software"
-price: 12.12
+price: 12.13
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 6.06
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Finances"]
 listed_since: "2026-07-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "http://www.fishing-king.de#aff=adminstore"
+promo_link: "https://www.gz-ai-stacks.de/Haushaltsbuch/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.gz-ai-stacks.de/Haushaltsbuch/"
 language: "de"
 ---
 # Haushaltsbuch – Dein digitales Sparbuch, offline & ohne
 
 > Product ID `57705` · Digistore24 productId `703464` · [HTML profile page](../../produkte/haushaltsbuch-dein-digitales-sparbuch-offline-ohne-57705.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $12.12 (Single payment) |
+| Price | $12.13 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $6.06 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://www.fishing-king.de#aff=adminstore
+- **Promo link (affiliate):** https://www.gz-ai-stacks.de/Haushaltsbuch/?aff=adminstore#aff=adminstore
 - Sales page: https://www.gz-ai-stacks.de/Haushaltsbuch/
 - Canonical redirect: https://www.digistore24.com/redir/703464/adminstore
 
@@ -73,14 +73,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Haushaltsbuch – Dein digitales Sparbuch, offline & ohne? — Typ: Software, Anbieter: gzaistacks2aae, gelistet seit 2026-07-23
-- Wie viel kostet es? — 12.120204000000001 USD
+- Wie viel kostet es? — 12.127792 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Haushaltsbuch – Dein digitales Sparbuch, offline & ohne Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/703464
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/703464/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Haushaltsbuch%20%E2%80%93%20Dein%20digitales%20Sparbuch%2C%20offline%20%26%20ohne
 
 ## 4. Editorial notes

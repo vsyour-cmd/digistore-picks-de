@@ -12,17 +12,17 @@ cart_conversion_pct: 18
 cancel_rate_pct: 2.71
 categories: ["Business & Investment","Online Marketing & E-Business","Online Marketing"]
 listed_since: "2025-04-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/52079/adminstore/"
+promo_link: "https://affiliforge.net/erotik-nische-ratgeber?aff=adminstore#aff=adminstore"
 sales_page: "https://affiliforge.net/erotik-nische-ratgeber"
 language: "de"
 ---
 # Erotik als Business – Der Einsteiger-Guide
 
 > Product ID `52079` · Digistore24 productId `605665` · [HTML profile page](../../produkte/erotik-als-business-der-einsteiger-guide-52079.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/52079/adminstore/
+- **Promo link (affiliate):** https://affiliforge.net/erotik-nische-ratgeber?aff=adminstore#aff=adminstore
 - Sales page: https://affiliforge.net/erotik-nische-ratgeber
 - Vendor affiliate support: https://affiliforge.net/AffiliForge-Partnerportal
 - Canonical redirect: https://www.digistore24.com/redir/605665/adminstore
@@ -73,14 +73,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Erotik als Business – Der Einsteiger-Guide? — Typ: Member area and video courses, Anbieter: AffiliForge, gelistet seit 2025-04-06
-- Wie viel kostet es? — 2.448639 USD
+- Wie viel kostet es? — 2.450172 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Erotik als Business – Der Einsteiger-Guide Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/605665
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/605665/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Erotik%20als%20Business%20%E2%80%93%20Der%20Einsteiger-Guide
 
 ## 4. Editorial notes

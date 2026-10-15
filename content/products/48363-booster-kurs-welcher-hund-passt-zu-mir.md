@@ -4,40 +4,40 @@ digistore24_product_id: 556112
 title: "Booster-Kurs \"Welcher Hund passt zu mir?\""
 vendor: "NinaNowak"
 product_type: "Member area and video courses"
-price: 33.82
+price: 33.84
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 16.92
+earnings_per_sale: 16.93
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Animals & Pets","Dating, Relationships & Romance","Personal Development"]
+categories: ["Personal Development","Dating, Relationships & Romance","Animals & Pets"]
 listed_since: "2024-06-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/48363/adminstore/"
+promo_link: "https://www.hundesozialisation.de/ds24-welcher-hund-passt-zu-mir/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.hundesozialisation.de/ds24-welcher-hund-passt-zu-mir/"
 language: "de"
 ---
 # Booster-Kurs "Welcher Hund passt zu mir?"
 
 > Product ID `48363` · Digistore24 productId `556112` · [HTML profile page](../../produkte/booster-kurs-welcher-hund-passt-zu-mir-48363.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $33.82 (Single payment, Installment) |
+| Price | $33.84 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $16.92 |
+| Earnings/sale* | $16.93 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | NinaNowak |
 | Listed since | 2024-06-09 |
 | Auto-accept affiliates | yes |
-| Categories | Animals & Pets, Dating, Relationships & Romance, Personal Development |
+| Categories | Personal Development, Dating, Relationships & Romance, Animals & Pets |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/48363/adminstore/
+- **Promo link (affiliate):** https://www.hundesozialisation.de/ds24-welcher-hund-passt-zu-mir/?aff=adminstore#aff=adminstore
 - Sales page: https://www.hundesozialisation.de/ds24-welcher-hund-passt-zu-mir/
 - Vendor affiliate support: https://www.hundesozialisation.de/digistore24-affiliateprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/556112/adminstore
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Booster-Kurs "Welcher Hund passt zu mir?"? — Typ: Member area and video courses, Anbieter: NinaNowak, gelistet seit 2024-06-09
-- Wie viel kostet es? — 33.822525000000006 USD
+- Wie viel kostet es? — 33.8437 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Booster-Kurs "Welcher Hund passt zu mir?" Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/556112
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/556112/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Booster-Kurs%20%22Welcher%20Hund%20passt%20zu%20mir%3F%22
 
 ## 4. Editorial notes

@@ -4,40 +4,40 @@ digistore24_product_id: 538540
 title: "Traumjob Leitfaden"
 vendor: "Till-NiklasJacke"
 product_type: "E-books"
-price: 20.9
+price: 20.91
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 10.45
+earnings_per_sale: 10.46
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Personal Development","Profession & Job"]
+categories: ["Personal Development","Profession & Job","Education"]
 listed_since: "2024-02-11"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/47181/adminstore/"
+promo_link: "https://www.der-moeglich-macher.com/mein-buch?aff=adminstore#aff=adminstore"
 sales_page: "https://www.der-moeglich-macher.com/mein-buch"
 language: "de"
 ---
 # Traumjob Leitfaden
 
 > Product ID `47181` · Digistore24 productId `538540` · [HTML profile page](../../produkte/traumjob-leitfaden-47181.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.90 (Single payment) |
+| Price | $20.91 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $10.45 |
+| Earnings/sale* | $10.46 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Till-NiklasJacke |
 | Listed since | 2024-02-11 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Personal Development, Profession & Job |
+| Categories | Personal Development, Profession & Job, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/47181/adminstore/
+- **Promo link (affiliate):** https://www.der-moeglich-macher.com/mein-buch?aff=adminstore#aff=adminstore
 - Sales page: https://www.der-moeglich-macher.com/mein-buch
 - Canonical redirect: https://www.digistore24.com/redir/538540/adminstore
 
@@ -76,14 +76,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Traumjob Leitfaden? — Typ: E-books, Anbieter: Till-NiklasJacke, gelistet seit 2024-02-11
-- Wie viel kostet es? — 20.897289000000004 USD
+- Wie viel kostet es? — 20.910372000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Traumjob Leitfaden Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/538540
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/538540/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Traumjob%20Leitfaden
 
 ## 4. Editorial notes

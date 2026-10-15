@@ -4,32 +4,32 @@ digistore24_product_id: 660528
 title: "Zeitmanagement / Selbstmanagement ebook"
 vendor: "hartmut-sieck"
 product_type: "E-books"
-price: 10.34
+price: 10.35
 currency: "USD"
 affiliate_commission_pct: 20
 earnings_per_sale: 6.79
 cart_conversion_pct: 31
 cancel_rate_pct: 6.24
-categories: ["Education","Profession & Job"]
+categories: ["Profession & Job","Education"]
 listed_since: "2026-01-11"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/55303/adminstore/"
+promo_link: "https://www.sieck-consulting.de/ebook-zeitmanagement/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.sieck-consulting.de/ebook-zeitmanagement/"
 language: "de"
 ---
 # Zeitmanagement / Selbstmanagement ebook
 
 > Product ID `55303` · Digistore24 productId `660528` · [HTML profile page](../../produkte/zeitmanagement-selbstmanagement-ebook-55303.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.34 (Single payment) |
+| Price | $10.35 (Single payment) |
 | Affiliate commission | 20% |
 | Earnings/sale* | $6.79 |
 | Cart conversion* | 31% |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | hartmut-sieck |
 | Listed since | 2026-01-11 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Profession & Job |
+| Categories | Profession & Job, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55303/adminstore/
+- **Promo link (affiliate):** https://www.sieck-consulting.de/ebook-zeitmanagement/?aff=adminstore#aff=adminstore
 - Sales page: https://www.sieck-consulting.de/ebook-zeitmanagement/
 - Vendor affiliate support: https://www.sieck-consulting.de/affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/660528/adminstore
@@ -59,14 +59,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Zeitmanagement / Selbstmanagement ebook? — Typ: E-books, Anbieter: hartmut-sieck, gelistet seit 2026-01-11
-- Wie viel kostet es? — 10.342425 USD
+- Wie viel kostet es? — 10.3489 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Zeitmanagement / Selbstmanagement ebook Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/660528
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/660528/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Zeitmanagement%20%2F%20Selbstmanagement%20ebook
 
 ## 4. Editorial notes

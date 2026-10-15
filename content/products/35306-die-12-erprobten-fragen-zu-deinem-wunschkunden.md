@@ -4,16 +4,16 @@ digistore24_product_id: 416183
 title: "Die 12 erprobten Fragen zu Deinem Wunschkunden"
 vendor: "ChrisdaS"
 product_type: "Downloads"
-price: 23.46
+price: 23.47
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 9.38
+earnings_per_sale: 9.39
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2021-11-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://www.ad-campus.com/wunschkunde?aff=adminstore#aff=adminstore"
 sales_page: "https://www.ad-campus.com/wunschkunde"
@@ -22,16 +22,16 @@ language: "de"
 # Die 12 erprobten Fragen zu Deinem Wunschkunden
 
 > Product ID `35306` · Digistore24 productId `416183` · [HTML profile page](../../produkte/die-12-erprobten-fragen-zu-deinem-wunschkunden-35306.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $23.46 (Single payment) |
+| Price | $23.47 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $9.38 |
+| Earnings/sale* | $9.39 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ChrisdaS |
@@ -59,14 +59,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die 12 erprobten Fragen zu Deinem Wunschkunden? — Typ: Downloads, Anbieter: ChrisdaS, gelistet seit 2021-11-15
-- Wie viel kostet es? — 23.457738000000003 USD
+- Wie viel kostet es? — 23.472424 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Die 12 erprobten Fragen zu Deinem Wunschkunden Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/416183
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/416183/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Die%2012%20erprobten%20Fragen%20zu%20Deinem%20Wunschkunden
 
 ## 4. Editorial notes

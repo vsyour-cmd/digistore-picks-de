@@ -4,34 +4,34 @@ digistore24_product_id: 369487
 title: "Die 9 Elemente der perfekten Liedbegleitung für Gitarre"
 vendor: "BlueGecko"
 product_type: "Member area and video courses"
-price: 81.74
+price: 81.8
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 40.88
+earnings_per_sale: 40.9
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dancing & Music"]
 listed_since: "2021-01-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/36689/adminstore/"
+promo_link: "http://gitarren-onlinekurse.at/gitarre-lernen-die-9-elemente/?aff=adminstore#aff=adminstore"
 sales_page: "http://gitarren-onlinekurse.at/gitarre-lernen-die-9-elemente/"
 language: "de"
 ---
 # Die 9 Elemente der perfekten Liedbegleitung für Gitarre
 
 > Product ID `36689` · Digistore24 productId `369487` · [HTML profile page](../../produkte/die-9-elemente-der-perfekten-liedbegleitung-f-r-gitarre-36689.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $81.74 (Single payment) |
+| Price | $81.80 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $40.88 |
+| Earnings/sale* | $40.90 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | BlueGecko |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/36689/adminstore/
+- **Promo link (affiliate):** http://gitarren-onlinekurse.at/gitarre-lernen-die-9-elemente/?aff=adminstore#aff=adminstore
 - Sales page: http://gitarren-onlinekurse.at/gitarre-lernen-die-9-elemente/
 - Canonical redirect: https://www.digistore24.com/redir/369487/adminstore
 
@@ -96,14 +96,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die 9 Elemente der perfekten Liedbegleitung für Gitarre? — Typ: Member area and video courses, Anbieter: BlueGecko, gelistet seit 2021-01-22
-- Wie viel kostet es? — 81.744291 USD
+- Wie viel kostet es? — 81.795468 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Die 9 Elemente der perfekten Liedbegleitung für Gitarre Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/369487
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/369487/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Die%209%20Elemente%20der%20perfekten%20Liedbegleitung%20f%C3%BCr%20Gitarre
 
 ## 4. Editorial notes

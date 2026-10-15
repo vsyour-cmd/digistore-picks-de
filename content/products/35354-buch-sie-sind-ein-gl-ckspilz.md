@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2020-09-28"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://www.akademie-fsl.de/buch-glueckspilz-349940/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.akademie-fsl.de/buch-glueckspilz-349940/"
@@ -22,7 +22,7 @@ language: "de"
 # Buch: Sie sind ein Glückspilz
 
 > Product ID `35354` · Digistore24 productId `349940` · [HTML profile page](../../produkte/buch-sie-sind-ein-gl-ckspilz-35354.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -58,14 +58,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Buch: Sie sind ein Glückspilz? — Typ: Book (printed), Anbieter: Lichtkraftquelle, gelistet seit 2020-09-28
-- Wie viel kostet es? — 15.575133000000001 USD
+- Wie viel kostet es? — 15.584884 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Buch: Sie sind ein Glückspilz Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/349940
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/349940/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Buch%3A%20Sie%20sind%20ein%20Gl%C3%BCckspilz
 
 ## 4. Editorial notes

@@ -4,40 +4,40 @@ digistore24_product_id: 711557
 title: "Weiterbildung zur Geldwäscheprävention (GWG) in Unternehmen"
 vendor: "sachkundeak"
 product_type: "Member area and video courses"
-price: 54.79
+price: 54.82
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 16.44
+earnings_per_sale: 16.45
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Business & Investment","Law & Justice","Personal Development"]
+categories: ["Personal Development","Business & Investment","Law & Justice"]
 listed_since: "2026-07-14"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/57523/adminstore/"
+promo_link: "https://sachkundelehrgaenge.de/digistore24-weiterbildung-zur-geldwaeschepraevention-gwg/?aff=adminstore#aff=adminstore"
 sales_page: "https://sachkundelehrgaenge.de/digistore24-weiterbildung-zur-geldwaeschepraevention-gwg/"
 language: "de"
 ---
 # Weiterbildung zur Geldwäscheprävention (GWG) in Unternehmen
 
 > Product ID `57523` · Digistore24 productId `711557` · [HTML profile page](../../produkte/weiterbildung-zur-geldw-schepr-vention-gwg-in-unternehmen-57523.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $54.79 (Single payment) |
+| Price | $54.82 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $16.44 |
+| Earnings/sale* | $16.45 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | sachkundeak |
 | Listed since | 2026-07-14 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Law & Justice, Personal Development |
+| Categories | Personal Development, Business & Investment, Law & Justice |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/57523/adminstore/
+- **Promo link (affiliate):** https://sachkundelehrgaenge.de/digistore24-weiterbildung-zur-geldwaeschepraevention-gwg/?aff=adminstore#aff=adminstore
 - Sales page: https://sachkundelehrgaenge.de/digistore24-weiterbildung-zur-geldwaeschepraevention-gwg/
 - Vendor affiliate support: https://sachkundelehrgaenge.de/bewerben-sie-den-kompakten-onlinekurs-zur-geldwaeschepraevention/
 - Canonical redirect: https://www.digistore24.com/redir/711557/adminstore
@@ -87,14 +87,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Weiterbildung zur Geldwäscheprävention (GWG) in Unternehmen? — Typ: Member area and video courses, Anbieter: sachkundeak, gelistet seit 2026-07-14
-- Wie viel kostet es? — 54.7869 USD
+- Wie viel kostet es? — 54.8212 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Weiterbildung zur Geldwäscheprävention (GWG) in Unternehmen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/711557
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/711557/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Weiterbildung%20zur%20Geldw%C3%A4schepr%C3%A4vention%20(GWG)%20in%20Unternehmen
 
 ## 4. Editorial notes

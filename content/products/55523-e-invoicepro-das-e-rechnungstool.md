@@ -4,34 +4,34 @@ digistore24_product_id: 663219
 title: "e-InvoicePro - das E-Rechnungstool"
 vendor: "Kaiwgt"
 product_type: "Downloads"
-price: 121.2
+price: 121.28
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 16.77
+earnings_per_sale: 16.78
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software","Office Organization"]
 listed_since: "2026-01-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/55523/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/663219?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/663219"
 language: "de"
 ---
 # e-InvoicePro - das E-Rechnungstool
 
 > Product ID `55523` · Digistore24 productId `663219` · [HTML profile page](../../produkte/e-invoicepro-das-e-rechnungstool-55523.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $121.20 (Single payment) |
+| Price | $121.28 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $16.77 |
+| Earnings/sale* | $16.78 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Kaiwgt |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55523/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/663219?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/663219
 - Canonical redirect: https://www.digistore24.com/redir/663219/adminstore
 
@@ -82,14 +82,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist e-InvoicePro - das E-Rechnungstool? — Typ: Downloads, Anbieter: Kaiwgt, gelistet seit 2026-01-21
-- Wie viel kostet es? — 121.20204000000001 USD
+- Wie viel kostet es? — 121.27792000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: e-InvoicePro - das E-Rechnungstool Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/663219
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/663219/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=e-InvoicePro%20-%20das%20E-Rechnungstool
 
 ## 4. Editorial notes

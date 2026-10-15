@@ -4,34 +4,34 @@ digistore24_product_id: 55185
 title: "DAX-Index Trading Signale"
 vendor: "kagels-trading"
 product_type: "Remote service provided electronically"
-price: 190.27
+price: 190.39
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 89.69
+earnings_per_sale: 89.75
 cart_conversion_pct: 8
 cancel_rate_pct: 11.25
 categories: ["Trading Products"]
 listed_since: "2015-07-25"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/13487/adminstore/"
+promo_link: "http://www.kagels-trading.de/dax-signale-vom-profi-trader-nutzen/?aff=adminstore#aff=adminstore"
 sales_page: "http://www.kagels-trading.de/dax-signale-vom-profi-trader-nutzen/"
 language: "de"
 ---
 # DAX-Index Trading Signale
 
 > Product ID `13487` · Digistore24 productId `55185` · [HTML profile page](../../produkte/dax-index-trading-signale-13487.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $190.27 (Subscription) |
+| Price | $190.39 (Subscription) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $89.69 |
+| Earnings/sale* | $89.75 |
 | Cart conversion* | 8% |
 | Cancel rate* | 11.25% |
 | Vendor | kagels-trading |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/13487/adminstore/
+- **Promo link (affiliate):** http://www.kagels-trading.de/dax-signale-vom-profi-trader-nutzen/?aff=adminstore#aff=adminstore
 - Sales page: http://www.kagels-trading.de/dax-signale-vom-profi-trader-nutzen/
 - Vendor affiliate support: https://www.kagels-trading.de/affiliate-registrierung/
 - Canonical redirect: https://www.digistore24.com/redir/55185/adminstore
@@ -103,14 +103,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist DAX-Index Trading Signale? — Typ: Remote service provided electronically, Anbieter: kagels-trading, gelistet seit 2015-07-25
-- Wie viel kostet es? — 190.267077 USD
+- Wie viel kostet es? — 190.38619599999998 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: DAX-Index Trading Signale Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/55185
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/55185/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=DAX-Index%20Trading%20Signale
 
 ## 4. Editorial notes

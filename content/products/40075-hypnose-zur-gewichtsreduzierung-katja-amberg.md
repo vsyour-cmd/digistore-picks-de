@@ -4,7 +4,7 @@ digistore24_product_id: 308411
 title: "HYPNOSE ZUR GEWICHTSREDUZIERUNG | Katja Amberg"
 vendor: "Mariposa75"
 product_type: "Downloads"
-price: 28.1
+price: 28.12
 currency: "USD"
 affiliate_commission_pct: 5
 earnings_per_sale: 1.41
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2020-02-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/40075/adminstore/"
+promo_link: "http://katja-amberg-shop.de/gewichtsreduzierung?aff=adminstore#aff=adminstore"
 sales_page: "http://katja-amberg-shop.de/gewichtsreduzierung"
 language: "de"
 ---
 # HYPNOSE ZUR GEWICHTSREDUZIERUNG | Katja Amberg
 
 > Product ID `40075` · Digistore24 productId `308411` · [HTML profile page](../../produkte/hypnose-zur-gewichtsreduzierung-katja-amberg-40075.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $28.10 (Single payment) |
+| Price | $28.12 (Single payment) |
 | Affiliate commission | 5% |
 | Earnings/sale* | $1.41 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/40075/adminstore/
+- **Promo link (affiliate):** http://katja-amberg-shop.de/gewichtsreduzierung?aff=adminstore#aff=adminstore
 - Sales page: http://katja-amberg-shop.de/gewichtsreduzierung
 - Canonical redirect: https://www.digistore24.com/redir/308411/adminstore
 
@@ -77,14 +77,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist HYPNOSE ZUR GEWICHTSREDUZIERUNG | Katja Amberg? — Typ: Downloads, Anbieter: Mariposa75, gelistet seit 2020-02-16
-- Wie viel kostet es? — 28.097853 USD
+- Wie viel kostet es? — 28.115444 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: HYPNOSE ZUR GEWICHTSREDUZIERUNG | Katja Amberg Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/308411
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/308411/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=HYPNOSE%20ZUR%20GEWICHTSREDUZIERUNG%20%7C%20Katja%20Amberg
 
 ## 4. Editorial notes

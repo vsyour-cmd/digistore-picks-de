@@ -4,34 +4,34 @@ digistore24_product_id: 701381
 title: "Neukundengewinnung über Twitch"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 40.75
+price: 40.78
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 20.38
+earnings_per_sale: 20.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2026-06-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/56947/adminstore/"
+promo_link: "https://social-media-planer.de/ebooks/neukundengewinnung-ueber-twitch?aff=adminstore#aff=adminstore"
 sales_page: "https://social-media-planer.de/ebooks/neukundengewinnung-ueber-twitch"
 language: "de"
 ---
 # Neukundengewinnung über Twitch
 
 > Product ID `56947` · Digistore24 productId `701381` · [HTML profile page](../../produkte/neukundengewinnung-ber-twitch-56947.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $40.75 (Single payment) |
+| Price | $40.78 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $20.38 |
+| Earnings/sale* | $20.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pixonmedia |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56947/adminstore/
+- **Promo link (affiliate):** https://social-media-planer.de/ebooks/neukundengewinnung-ueber-twitch?aff=adminstore#aff=adminstore
 - Sales page: https://social-media-planer.de/ebooks/neukundengewinnung-ueber-twitch
 - Vendor affiliate support: https://social-media-planer.de/partnerprogramm
 - Canonical redirect: https://www.digistore24.com/redir/701381/adminstore
@@ -97,14 +97,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Neukundengewinnung über Twitch? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-06-15
-- Wie viel kostet es? — 40.75474500000001 USD
+- Wie viel kostet es? — 40.780260000000006 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Neukundengewinnung über Twitch Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/701381
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/701381/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Neukundengewinnung%20%C3%BCber%20Twitch
 
 ## 4. Editorial notes

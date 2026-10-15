@@ -4,16 +4,16 @@ digistore24_product_id: 646454
 title: "SPRACHSOFTWARE verschenken + 450€ über Upsell verdienen"
 vendor: "Magnodesign"
 product_type: "Member area and video courses"
-price: 74.16
+price: 74.21
 currency: "USD"
 affiliate_commission_pct: 100
-earnings_per_sale: 18.58
+earnings_per_sale: 18.59
 cart_conversion_pct: 14
 cancel_rate_pct: 3.3
 categories: ["Online Marketing & E-Business","Social Media","Marketing Services"]
 listed_since: "2025-11-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://voicefixx.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://voicefixx.com/"
@@ -22,16 +22,16 @@ language: "de"
 # SPRACHSOFTWARE verschenken + 450€ über Upsell verdienen
 
 > Product ID `55264` · Digistore24 productId `646454` · [HTML profile page](../../produkte/sprachsoftware-verschenken-450-ber-upsell-verdienen-55264.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $74.16 (Single payment) |
+| Price | $74.21 (Single payment) |
 | Affiliate commission | 100% |
-| Earnings/sale* | $18.58 |
+| Earnings/sale* | $18.59 |
 | Cart conversion* | 14% |
 | Cancel rate* | 3.3% |
 | Vendor | Magnodesign |
@@ -85,14 +85,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist SPRACHSOFTWARE verschenken + 450€ über Upsell verdienen? — Typ: Member area and video courses, Anbieter: Magnodesign, gelistet seit 2025-11-05
-- Wie viel kostet es? — 74.163573 USD
+- Wie viel kostet es? — 74.210004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: SPRACHSOFTWARE verschenken + 450€ über Upsell verdienen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/646454
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/646454/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=SPRACHSOFTWARE%20verschenken%20%2B%20450%E2%82%AC%20%C3%BCber%20Upsell%20verdienen
 
 ## 4. Editorial notes

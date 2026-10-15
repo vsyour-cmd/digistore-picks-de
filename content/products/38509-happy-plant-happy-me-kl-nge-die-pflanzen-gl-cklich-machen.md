@@ -4,40 +4,40 @@ digistore24_product_id: 417713
 title: "Happy Plant - Happy Me -Klänge die Pflanzen glücklich machen"
 vendor: "OKsuccess"
 product_type: "Downloads"
-price: 37.99
+price: 38.02
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 27.23
+earnings_per_sale: 27.24
 cart_conversion_pct: 3
 cancel_rate_pct: 0.26
-categories: ["Home & Garden","Spiri­tua­lity & Esotericism"]
+categories: ["Spiri­tua­lity & Esotericism","Home & Garden"]
 listed_since: "2021-11-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/38509/adminstore/"
+promo_link: "https://brainfood4you.com/lp-happy-plant-happy-me-bundle?aff=adminstore#aff=adminstore"
 sales_page: "https://brainfood4you.com/lp-happy-plant-happy-me-bundle"
 language: "de"
 ---
 # Happy Plant - Happy Me -Klänge die Pflanzen glücklich machen
 
 > Product ID `38509` · Digistore24 productId `417713` · [HTML profile page](../../produkte/happy-plant-happy-me-kl-nge-die-pflanzen-gl-cklich-machen-38509.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $37.99 (Single payment, Installment) |
+| Price | $38.02 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $27.23 |
+| Earnings/sale* | $27.24 |
 | Cart conversion* | 3% |
 | Cancel rate* | 0.26% |
 | Vendor | OKsuccess |
 | Listed since | 2021-11-24 |
 | Auto-accept affiliates | yes |
-| Categories | Home & Garden, Spiri­tua­lity & Esotericism |
+| Categories | Spiri­tua­lity & Esotericism, Home & Garden |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/38509/adminstore/
+- **Promo link (affiliate):** https://brainfood4you.com/lp-happy-plant-happy-me-bundle?aff=adminstore#aff=adminstore
 - Sales page: https://brainfood4you.com/lp-happy-plant-happy-me-bundle
 - Vendor affiliate support: http://brainfood4you.com/affiliate-happy-plant-happy-me-bundle
 - Canonical redirect: https://www.digistore24.com/redir/417713/adminstore
@@ -103,14 +103,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Happy Plant - Happy Me -Klänge die Pflanzen glücklich machen? — Typ: Downloads, Anbieter: OKsuccess, gelistet seit 2021-11-24
-- Wie viel kostet es? — 37.993038 USD
+- Wie viel kostet es? — 38.016824 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Happy Plant - Happy Me -Klänge die Pflanzen glücklich machen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/417713
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/417713/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Happy%20Plant%20-%20Happy%20Me%20-Kl%C3%A4nge%20die%20Pflanzen%20gl%C3%BCcklich%20machen
 
 ## 4. Editorial notes

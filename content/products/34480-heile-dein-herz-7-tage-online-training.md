@@ -4,16 +4,16 @@ digistore24_product_id: 280929
 title: "„Heile-Dein-Herz“-7-Tage-Online-Training"
 vendor: "Katerina_DLK"
 product_type: "Member area and video courses"
-price: 288.45
+price: 288.63
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 86.53
+earnings_per_sale: 86.58
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2019-07-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://katerinastruhovska.de/heile-dein-herz-7-tage-online-training/?aff=adminstore#aff=adminstore"
 sales_page: "https://katerinastruhovska.de/heile-dein-herz-7-tage-online-training/"
@@ -22,16 +22,16 @@ language: "de"
 # „Heile-Dein-Herz“-7-Tage-Online-Training
 
 > Product ID `34480` · Digistore24 productId `280929` · [HTML profile page](../../produkte/heile-dein-herz-7-tage-online-training-34480.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $288.45 (Single payment, Installment) |
+| Price | $288.63 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $86.53 |
+| Earnings/sale* | $86.58 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Katerina_DLK |
@@ -91,14 +91,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist „Heile-Dein-Herz“-7-Tage-Online-Training? — Typ: Member area and video courses, Anbieter: Katerina_DLK, gelistet seit 2019-07-29
-- Wie viel kostet es? — 288.44743800000003 USD
+- Wie viel kostet es? — 288.62802400000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: „Heile-Dein-Herz“-7-Tage-Online-Training Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/280929
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/280929/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=%E2%80%9EHeile-Dein-Herz%E2%80%9C-7-Tage-Online-Training
 
 ## 4. Editorial notes

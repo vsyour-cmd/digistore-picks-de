@@ -4,34 +4,34 @@ digistore24_product_id: 653513
 title: "Party DJ Setbook - Business ENTERPRISE-Lizenz (B2B)"
 vendor: "djnicogoetze"
 product_type: "Downloads"
-price: 3353.18
+price: 3355.28
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 1005.95
+earnings_per_sale: 1006.58
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dancing & Music"]
 listed_since: "2026-06-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/57143/adminstore/"
+promo_link: "https://www.dj-setbook.com/lizenzmodelle?aff=adminstore#aff=adminstore"
 sales_page: "https://www.dj-setbook.com/lizenzmodelle"
 language: "de"
 ---
 # Party DJ Setbook - Business ENTERPRISE-Lizenz (B2B)
 
 > Product ID `57143` · Digistore24 productId `653513` · [HTML profile page](../../produkte/party-dj-setbook-business-enterprise-lizenz-b2b-57143.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $3353.18 (Single payment) |
+| Price | $3355.28 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $1005.95 |
+| Earnings/sale* | $1006.58 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | djnicogoetze |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/57143/adminstore/
+- **Promo link (affiliate):** https://www.dj-setbook.com/lizenzmodelle?aff=adminstore#aff=adminstore
 - Sales page: https://www.dj-setbook.com/lizenzmodelle
 - Vendor affiliate support: https://www.dropbox.com/scl/fo/h3f3h91ytirtzelj38xo6/AFxvV7BbchloOLOoYDm3pcQ?rlkey=xgjn86xx4tovx800izhr6uby6&st=s33ntleq&dl=0
 - Canonical redirect: https://www.digistore24.com/redir/653513/adminstore
@@ -88,14 +88,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Party DJ Setbook - Business ENTERPRISE-Lizenz (B2B)? — Typ: Downloads, Anbieter: djnicogoetze, gelistet seit 2026-06-26
-- Wie viel kostet es? — 3353.1819000000005 USD
+- Wie viel kostet es? — 3355.2812 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Party DJ Setbook - Business ENTERPRISE-Lizenz (B2B) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/653513
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/653513/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Party%20DJ%20Setbook%20-%20Business%20ENTERPRISE-Lizenz%20(B2B)
 
 ## 4. Editorial notes

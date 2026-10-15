@@ -4,7 +4,7 @@ digistore24_product_id: 339401
 title: "Der Yoni-Talk (Audio-Kurs als mp3)"
 vendor: "Nhanga"
 product_type: "Downloads"
-price: 23.49
+price: 23.51
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 2.35
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2020-08-03"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://nhanga.de/audio-kurse/yoni-talk/?aff=adminstore#aff=adminstore"
 sales_page: "https://nhanga.de/audio-kurse/yoni-talk/"
@@ -22,14 +22,14 @@ language: "de"
 # Der Yoni-Talk (Audio-Kurs als mp3)
 
 > Product ID `35872` · Digistore24 productId `339401` · [HTML profile page](../../produkte/der-yoni-talk-audio-kurs-als-mp3-35872.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $23.49 (Single payment) |
+| Price | $23.51 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $2.35 |
 | Cart conversion* | — |
@@ -77,14 +77,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Yoni-Talk (Audio-Kurs als mp3)? — Typ: Downloads, Anbieter: Nhanga, gelistet seit 2020-08-03
-- Wie viel kostet es? — 23.491281000000004 USD
+- Wie viel kostet es? — 23.505988000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Der Yoni-Talk (Audio-Kurs als mp3) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/339401
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/339401/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%20Yoni-Talk%20(Audio-Kurs%20als%20mp3)
 
 ## 4. Editorial notes

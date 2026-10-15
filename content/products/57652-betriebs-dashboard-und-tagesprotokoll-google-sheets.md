@@ -4,16 +4,16 @@ digistore24_product_id: 713823
 title: "Betriebs-Dashboard und Tagesprotokoll (Google Sheets)"
 vendor: "DeinKiService"
 product_type: "Downloads"
-price: 17.86
+price: 17.87
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 7.14
+earnings_per_sale: 7.15
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Computer & Internet","Software","Marketing Services"]
+categories: ["Software","Computer & Internet","Marketing Services"]
 listed_since: "2026-07-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/713823?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/713823"
@@ -22,22 +22,22 @@ language: "de"
 # Betriebs-Dashboard und Tagesprotokoll (Google Sheets)
 
 > Product ID `57652` · Digistore24 productId `713823` · [HTML profile page](../../produkte/betriebs-dashboard-und-tagesprotokoll-google-sheets-57652.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $17.86 (Single payment) |
+| Price | $17.87 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $7.14 |
+| Earnings/sale* | $7.15 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DeinKiService |
 | Listed since | 2026-07-21 |
 | Auto-accept affiliates | yes |
-| Categories | Computer & Internet, Software, Marketing Services |
+| Categories | Software, Computer & Internet, Marketing Services |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -74,14 +74,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Betriebs-Dashboard und Tagesprotokoll (Google Sheets)? — Typ: Downloads, Anbieter: DeinKiService, gelistet seit 2026-07-21
-- Wie viel kostet es? — 17.856057000000003 USD
+- Wie viel kostet es? — 17.867236000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Betriebs-Dashboard und Tagesprotokoll (Google Sheets) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/713823
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/713823/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Betriebs-Dashboard%20und%20Tagesprotokoll%20(Google%20Sheets)
 
 ## 4. Editorial notes

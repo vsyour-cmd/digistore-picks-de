@@ -4,34 +4,34 @@ digistore24_product_id: 687847
 title: "DIE GEFÄHRLICHSTEN WAHRHEITEN SIND DIE, DIE SICH RICHTIG ANF"
 vendor: "SabineBartl"
 product_type: "E-books"
-price: 28.21
+price: 28.23
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 14.11
+earnings_per_sale: 14.12
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2026-04-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/56367/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/687847?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/687847"
 language: "de"
 ---
 # DIE GEFÄHRLICHSTEN WAHRHEITEN SIND DIE, DIE SICH RICHTIG ANF
 
 > Product ID `56367` · Digistore24 productId `687847` · [HTML profile page](../../produkte/die-gef-hrlichsten-wahrheiten-sind-die-die-sich-richtig-anf-56367.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $28.21 (Single payment) |
+| Price | $28.23 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $14.11 |
+| Earnings/sale* | $14.12 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SabineBartl |
@@ -43,7 +43,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56367/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/687847?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/687847
 - Canonical redirect: https://www.digistore24.com/redir/687847/adminstore
 
@@ -76,14 +76,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist DIE GEFÄHRLICHSTEN WAHRHEITEN SIND DIE, DIE SICH RICHTIG ANF? — Typ: E-books, Anbieter: SabineBartl, gelistet seit 2026-04-26
-- Wie viel kostet es? — 28.209663000000003 USD
+- Wie viel kostet es? — 28.227324 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: DIE GEFÄHRLICHSTEN WAHRHEITEN SIND DIE, DIE SICH RICHTIG ANF Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/687847
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/687847/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=DIE%20GEF%C3%84HRLICHSTEN%20WAHRHEITEN%20SIND%20DIE%2C%20DIE%20SICH%20RICHTIG%20ANF
 
 ## 4. Editorial notes

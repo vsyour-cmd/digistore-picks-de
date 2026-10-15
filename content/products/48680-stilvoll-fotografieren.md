@@ -4,7 +4,7 @@ digistore24_product_id: 559832
 title: "Stilvoll Fotografieren"
 vendor: "ChristofArnold"
 product_type: "Book (printed)"
-price: 32.25
+price: 32.27
 currency: "USD"
 affiliate_commission_pct: 0
 earnings_per_sale: 3.98
@@ -12,8 +12,8 @@ cart_conversion_pct: 27
 cancel_rate_pct: 0.61
 categories: ["Education","Photography & Film"]
 listed_since: "2024-07-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://stilvollfotografieren.de/buchfunnel-startseite/?aff=adminstore#aff=adminstore"
 sales_page: "https://stilvollfotografieren.de/buchfunnel-startseite/"
@@ -22,14 +22,14 @@ language: "de"
 # Stilvoll Fotografieren
 
 > Product ID `48680` · Digistore24 productId `559832` · [HTML profile page](../../produkte/stilvoll-fotografieren-48680.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $32.25 (Single payment) |
+| Price | $32.27 (Single payment) |
 | Affiliate commission | 0% |
 | Earnings/sale* | $3.98 |
 | Cart conversion* | 27% |
@@ -81,14 +81,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Stilvoll Fotografieren? — Typ: Book (printed), Anbieter: ChristofArnold, gelistet seit 2024-07-04
-- Wie viel kostet es? — 32.246004 USD
+- Wie viel kostet es? — 32.266192000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Stilvoll Fotografieren Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/559832
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/559832/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Stilvoll%20Fotografieren
 
 ## 4. Editorial notes

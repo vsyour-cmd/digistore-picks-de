@@ -4,34 +4,34 @@ digistore24_product_id: 655460
 title: "12 Power Prinzipien – Bob Proctor (The Secret)"
 vendor: "lsmedia"
 product_type: "Downloads"
-price: 138.12
+price: 138.21
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 48.35
+earnings_per_sale: 48.38
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2026-07-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/57339/adminstore/"
+promo_link: "https://www.bobproctor.de/produkt/12-power-prinzipien/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.bobproctor.de/produkt/12-power-prinzipien/"
 language: "de"
 ---
 # 12 Power Prinzipien – Bob Proctor (The Secret)
 
 > Product ID `57339` · Digistore24 productId `655460` · [HTML profile page](../../produkte/12-power-prinzipien-bob-proctor-the-secret-57339.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $138.12 (Single payment) |
+| Price | $138.21 (Single payment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $48.35 |
+| Earnings/sale* | $48.38 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | lsmedia |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/57339/adminstore/
+- **Promo link (affiliate):** https://www.bobproctor.de/produkt/12-power-prinzipien/?aff=adminstore#aff=adminstore
 - Sales page: https://www.bobproctor.de/produkt/12-power-prinzipien/
 - Vendor affiliate support: https://www.bobproctor.de/affiliates/produkte/
 - Canonical redirect: https://www.digistore24.com/redir/655460/adminstore
@@ -86,14 +86,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 12 Power Prinzipien – Bob Proctor (The Secret)? — Typ: Downloads, Anbieter: lsmedia, gelistet seit 2026-07-01
-- Wie viel kostet es? — 138.118893 USD
+- Wie viel kostet es? — 138.205364 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 12 Power Prinzipien – Bob Proctor (The Secret) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/655460
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/655460/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=12%20Power%20Prinzipien%20%E2%80%93%20Bob%20Proctor%20(The%20Secret)
 
 ## 4. Editorial notes

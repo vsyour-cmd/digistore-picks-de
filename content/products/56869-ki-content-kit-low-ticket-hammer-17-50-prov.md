@@ -4,7 +4,7 @@ digistore24_product_id: 699135
 title: "KI-Content Kit: Low-Ticket Hammer (17€) | 50% Prov"
 vendor: "megareichtum"
 product_type: "E-books"
-price: 17.77
+price: 17.78
 currency: "USD"
 affiliate_commission_pct: 60
 earnings_per_sale: 10.66
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media","Online Marketing"]
 listed_since: "2026-06-12"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/56869/adminstore/"
+promo_link: "https://eternumtech.eu/system/content-ignition-kit?aff=adminstore#aff=adminstore"
 sales_page: "https://eternumtech.eu/system/content-ignition-kit"
 language: "de"
 ---
 # KI-Content Kit: Low-Ticket Hammer (17€) | 50% Prov
 
 > Product ID `56869` · Digistore24 productId `699135` · [HTML profile page](../../produkte/ki-content-kit-low-ticket-hammer-17-50-prov-56869.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $17.77 (Single payment) |
+| Price | $17.78 (Single payment) |
 | Affiliate commission | 60% |
 | Earnings/sale* | $10.66 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56869/adminstore/
+- **Promo link (affiliate):** https://eternumtech.eu/system/content-ignition-kit?aff=adminstore#aff=adminstore
 - Sales page: https://eternumtech.eu/system/content-ignition-kit
 - Vendor affiliate support: https://eternumtech.eu/partner
 - Canonical redirect: https://www.digistore24.com/redir/699135/adminstore
@@ -76,14 +76,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI-Content Kit: Low-Ticket Hammer (17€) | 50% Prov? — Typ: E-books, Anbieter: megareichtum, gelistet seit 2026-06-12
-- Wie viel kostet es? — 17.766609000000003 USD
+- Wie viel kostet es? — 17.777732 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: KI-Content Kit: Low-Ticket Hammer (17€) | 50% Prov Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/699135
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/699135/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=KI-Content%20Kit%3A%20Low-Ticket%20Hammer%20(17%E2%82%AC)%20%7C%2050%25%20Prov
 
 ## 4. Editorial notes

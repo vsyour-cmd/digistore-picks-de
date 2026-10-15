@@ -4,16 +4,16 @@ digistore24_product_id: 244166
 title: "megamemory Gedächtnistraining Videokurs von Gregor Staub"
 vendor: "megamemory"
 product_type: "Downloads"
-price: 239.6
+price: 239.75
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 47.92
+earnings_per_sale: 47.95
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2018-10-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/244166?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/244166"
@@ -22,16 +22,16 @@ language: "de"
 # megamemory Gedächtnistraining Videokurs von Gregor Staub
 
 > Product ID `33528` · Digistore24 productId `244166` · [HTML profile page](../../produkte/megamemory-ged-chtnistraining-videokurs-von-gregor-staub-33528.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $239.60 (Single payment, Installment) |
+| Price | $239.75 (Single payment, Installment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $47.92 |
+| Earnings/sale* | $47.95 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | megamemory |
@@ -85,14 +85,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist megamemory Gedächtnistraining Videokurs von Gregor Staub? — Typ: Downloads, Anbieter: megamemory, gelistet seit 2018-10-16
-- Wie viel kostet es? — 239.59764900000002 USD
+- Wie viel kostet es? — 239.747652 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: megamemory Gedächtnistraining Videokurs von Gregor Staub Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/244166
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/244166/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=megamemory%20Ged%C3%A4chtnistraining%20Videokurs%20von%20Gregor%20Staub
 
 ## 4. Editorial notes

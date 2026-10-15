@@ -4,34 +4,34 @@ digistore24_product_id: 504474
 title: "WutPower 20%"
 vendor: "Elternkunst"
 product_type: "Member area and video courses"
-price: 138.12
+price: 138.21
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 27.63
+earnings_per_sale: 27.65
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2023-06-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/45471/adminstore/"
+promo_link: "https://www.digistore24.com/product/504474?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/504474"
 language: "de"
 ---
 # WutPower 20%
 
 > Product ID `45471` · Digistore24 productId `504474` · [HTML profile page](../../produkte/wutpower-20-45471.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $138.12 (Single payment) |
+| Price | $138.21 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $27.63 |
+| Earnings/sale* | $27.65 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Elternkunst |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/45471/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/504474?aff=adminstore
 - Sales page: https://www.digistore24.com/product/504474
 - Canonical redirect: https://www.digistore24.com/redir/504474/adminstore
 
@@ -85,14 +85,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist WutPower 20%? — Typ: Member area and video courses, Anbieter: Elternkunst, gelistet seit 2023-06-24
-- Wie viel kostet es? — 138.118893 USD
+- Wie viel kostet es? — 138.205364 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: WutPower 20% Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/504474
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/504474/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=WutPower%2020%25
 
 ## 4. Editorial notes

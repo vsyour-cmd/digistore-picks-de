@@ -7,22 +7,22 @@ product_type: "Downloads"
 price: 1.19
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 12.58
+earnings_per_sale: 12.59
 cart_conversion_pct: 44
 cancel_rate_pct: 4.14
 categories: ["Online Marketing & E-Business"]
 listed_since: "2016-08-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/redir/12971/adminstore/"
+promo_link: "http://lp.larspilawski.de/die-automatische-verkaufsmaschine?aff=adminstore#aff=adminstore"
 sales_page: "http://lp.larspilawski.de/die-automatische-verkaufsmaschine"
 language: "de"
 ---
 # Die Perfekte Verkaufsmaschine
 
 > Product ID `12971` · Digistore24 productId `91963` · [HTML profile page](../../produkte/die-perfekte-verkaufsmaschine-12971.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,7 @@ language: "de"
 | Product type | Downloads |
 | Price | $1.19 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $12.58 |
+| Earnings/sale* | $12.59 |
 | Cart conversion* | 44% |
 | Cancel rate* | 4.14% |
 | Vendor | Cleriker |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/redir/12971/adminstore/
+- **Promo link (affiliate):** http://lp.larspilawski.de/die-automatische-verkaufsmaschine?aff=adminstore#aff=adminstore
 - Sales page: http://lp.larspilawski.de/die-automatische-verkaufsmaschine
 - Vendor affiliate support: https://vip.larspilawski.de/die-automatische-verkaufsmaschine/index.php?id=331
 - Canonical redirect: https://www.digistore24.com/redir/91963/adminstore
@@ -74,14 +74,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die Perfekte Verkaufsmaschine? — Typ: Downloads, Anbieter: Cleriker, gelistet seit 2016-08-18
-- Wie viel kostet es? — 1.185186 USD
+- Wie viel kostet es? — 1.185928 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Die Perfekte Verkaufsmaschine Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/91963
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/91963/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Die%20Perfekte%20Verkaufsmaschine
 
 ## 4. Editorial notes

@@ -10,19 +10,19 @@ affiliate_commission_pct: 0
 earnings_per_sale: 5.97
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Family & Children","Personal Development"]
+categories: ["Personal Development","Family & Children","Education"]
 listed_since: "2023-11-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/46021/adminstore/"
+promo_link: "https://femiotherik.de/digistore-partnerbereich/digi-ebook-kurs-wieso-deine-gedanken-deinen-kinderwunsch-sabotieren-koennen/?aff=adminstore#aff=adminstore"
 sales_page: "https://femiotherik.de/digistore-partnerbereich/digi-ebook-kurs-wieso-deine-gedanken-deinen-kinderwunsch-sabotieren-koennen/"
 language: "de"
 ---
 # [NEU] FEMIOTHERIK Mentalkurs - bei Unerfülltem Kinderwunsch!
 
 > Product ID `46021` · Digistore24 productId `525669` · [HTML profile page](../../produkte/neu-femiotherik-mentalkurs-bei-unerf-lltem-kinderwunsch-46021.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | rkovarik |
 | Listed since | 2023-11-16 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Family & Children, Personal Development |
+| Categories | Personal Development, Family & Children, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/46021/adminstore/
+- **Promo link (affiliate):** https://femiotherik.de/digistore-partnerbereich/digi-ebook-kurs-wieso-deine-gedanken-deinen-kinderwunsch-sabotieren-koennen/?aff=adminstore#aff=adminstore
 - Sales page: https://femiotherik.de/digistore-partnerbereich/digi-ebook-kurs-wieso-deine-gedanken-deinen-kinderwunsch-sabotieren-koennen/
 - Vendor affiliate support: https://www.digistore24-app.com/account/partnerarea/236841/de
 - Canonical redirect: https://www.digistore24.com/redir/525669/adminstore
@@ -84,14 +84,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist [NEU] FEMIOTHERIK Mentalkurs - bei Unerfülltem Kinderwunsch!? — Typ: E-books, Anbieter: rkovarik, gelistet seit 2023-11-16
-- Wie viel kostet es? — 9.917547 USD
+- Wie viel kostet es? — 9.923756 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: [NEU] FEMIOTHERIK Mentalkurs - bei Unerfülltem Kinderwunsch! Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/525669
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/525669/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=%5BNEU%5D%20FEMIOTHERIK%20Mentalkurs%20-%20bei%20Unerf%C3%BClltem%20Kinderwunsch!
 
 ## 4. Editorial notes

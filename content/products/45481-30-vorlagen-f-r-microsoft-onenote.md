@@ -4,7 +4,7 @@ digistore24_product_id: 503462
 title: "30+ Vorlagen für Microsoft OneNote"
 vendor: "stm1978"
 product_type: "Downloads"
-price: 9.38
+price: 9.39
 currency: "USD"
 affiliate_commission_pct: 20
 earnings_per_sale: 1.88
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Profession & Job"]
 listed_since: "2023-06-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/45481/adminstore/"
+promo_link: "https://www.digistore24.com/product/503462?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/503462"
 language: "de"
 ---
 # 30+ Vorlagen für Microsoft OneNote
 
 > Product ID `45481` · Digistore24 productId `503462` · [HTML profile page](../../produkte/30-vorlagen-f-r-microsoft-onenote-45481.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $9.38 (Single payment) |
+| Price | $9.39 (Single payment) |
 | Affiliate commission | 20% |
 | Earnings/sale* | $1.88 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/45481/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/503462?aff=adminstore
 - Sales page: https://www.digistore24.com/product/503462
 - Canonical redirect: https://www.digistore24.com/redir/503462/adminstore
 
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 30+ Vorlagen für Microsoft OneNote? — Typ: Downloads, Anbieter: stm1978, gelistet seit 2023-06-17
-- Wie viel kostet es? — 9.380859000000001 USD
+- Wie viel kostet es? — 9.386732 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 30+ Vorlagen für Microsoft OneNote Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/503462
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/503462/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=30%2B%20Vorlagen%20f%C3%BCr%20Microsoft%20OneNote
 
 ## 4. Editorial notes

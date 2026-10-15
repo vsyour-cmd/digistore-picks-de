@@ -4,16 +4,16 @@ digistore24_product_id: 729747
 title: "Feine Antennen – Hochsensibilität verstehen"
 vendor: "mlangbein51cce0"
 product_type: "E-books"
-price: 28.21
+price: 28.23
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 14.11
+earnings_per_sale: 14.12
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Leadership & Management","Personal Development"]
+categories: ["Personal Development","Education","Leadership & Management"]
 listed_since: "2026-09-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/729747?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/729747"
@@ -22,22 +22,22 @@ language: "de"
 # Feine Antennen – Hochsensibilität verstehen
 
 > Product ID `58920` · Digistore24 productId `729747` · [HTML profile page](../../produkte/feine-antennen-hochsensibilit-t-verstehen-58920.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $28.21 (Single payment) |
+| Price | $28.23 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $14.11 |
+| Earnings/sale* | $14.12 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | mlangbein51cce0 |
 | Listed since | 2026-09-04 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Leadership & Management, Personal Development |
+| Categories | Personal Development, Education, Leadership & Management |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Feine Antennen – Hochsensibilität verstehen? — Typ: E-books, Anbieter: mlangbein51cce0, gelistet seit 2026-09-04
-- Wie viel kostet es? — 28.209663000000003 USD
+- Wie viel kostet es? — 28.227324 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Feine Antennen – Hochsensibilität verstehen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/729747
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/729747/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Feine%20Antennen%20%E2%80%93%20Hochsensibilit%C3%A4t%20verstehen
 
 ## 4. Editorial notes

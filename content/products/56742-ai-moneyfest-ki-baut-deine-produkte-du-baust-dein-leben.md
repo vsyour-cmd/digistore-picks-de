@@ -4,7 +4,7 @@ digistore24_product_id: 694733
 title: "AI MONEYFEST – KI baut deine Produkte, du baust dein Leben |"
 vendor: "AIMONEYFEST"
 product_type: "Downloads"
-price: 9.38
+price: 9.39
 currency: "USD"
 affiliate_commission_pct: 40
 earnings_per_sale: 3.76
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Marketing Services"]
 listed_since: "2026-05-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/694733?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/694733"
@@ -22,14 +22,14 @@ language: "de"
 # AI MONEYFEST – KI baut deine Produkte, du baust dein Leben |
 
 > Product ID `56742` · Digistore24 productId `694733` · [HTML profile page](../../produkte/ai-moneyfest-ki-baut-deine-produkte-du-baust-dein-leben-56742.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $9.38 (Single payment) |
+| Price | $9.39 (Single payment) |
 | Affiliate commission | 40% |
 | Earnings/sale* | $3.76 |
 | Cart conversion* | — |
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist AI MONEYFEST – KI baut deine Produkte, du baust dein Leben |? — Typ: Downloads, Anbieter: AIMONEYFEST, gelistet seit 2026-05-29
-- Wie viel kostet es? — 9.380859000000001 USD
+- Wie viel kostet es? — 9.386732 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: AI MONEYFEST – KI baut deine Produkte, du baust dein Leben | Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/694733
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/694733/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=AI%20MONEYFEST%20%E2%80%93%20KI%20baut%20deine%20Produkte%2C%20du%20baust%20dein%20Leben%20%7C
 
 ## 4. Editorial notes

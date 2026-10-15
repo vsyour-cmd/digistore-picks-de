@@ -4,7 +4,7 @@ digistore24_product_id: 701406
 title: "Mein erster Skool-Account"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 19.86
+price: 19.87
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 9.93
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2026-06-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://social-media-planer.de/ebooks/mein-erster-skool-account?aff=adminstore#aff=adminstore"
 sales_page: "https://social-media-planer.de/ebooks/mein-erster-skool-account"
@@ -22,14 +22,14 @@ language: "de"
 # Mein erster Skool-Account
 
 > Product ID `56986` · Digistore24 productId `701406` · [HTML profile page](../../produkte/mein-erster-skool-account-56986.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $19.86 (Single payment) |
+| Price | $19.87 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $9.93 |
 | Cart conversion* | — |
@@ -82,14 +82,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mein erster Skool-Account? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-06-16
-- Wie viel kostet es? — 19.857456000000003 USD
+- Wie viel kostet es? — 19.869888000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Mein erster Skool-Account Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/701406
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/701406/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Mein%20erster%20Skool-Account
 
 ## 4. Editorial notes

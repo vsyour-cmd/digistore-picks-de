@@ -4,32 +4,32 @@ digistore24_product_id: 710690
 title: "Trauerbegleitung für Witwen im DACH-Raum für Zuhause"
 vendor: "danachblog"
 product_type: "Member area and video courses"
-price: 27.25
+price: 27.27
 currency: "USD"
 affiliate_commission_pct: 20
 earnings_per_sale: 5.45
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Family & Children","Health & Fitness"]
+categories: ["Health & Fitness","Family & Children"]
 listed_since: "2026-08-12"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/58303/adminstore/"
+promo_link: "https://www.danaheidrich.com/zuhause-kurs/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.danaheidrich.com/zuhause-kurs/"
 language: "de"
 ---
 # Trauerbegleitung für Witwen im DACH-Raum für Zuhause
 
 > Product ID `58303` · Digistore24 productId `710690` · [HTML profile page](../../produkte/trauerbegleitung-f-r-witwen-im-dach-raum-f-r-zuhause-58303.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $27.25 (Single payment, Installment) |
+| Price | $27.27 (Single payment, Installment) |
 | Affiliate commission | 20% |
 | Earnings/sale* | $5.45 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | danachblog |
 | Listed since | 2026-08-12 |
 | Auto-accept affiliates | yes |
-| Categories | Family & Children, Health & Fitness |
+| Categories | Health & Fitness, Family & Children |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58303/adminstore/
+- **Promo link (affiliate):** https://www.danaheidrich.com/zuhause-kurs/?aff=adminstore#aff=adminstore
 - Sales page: https://www.danaheidrich.com/zuhause-kurs/
 - Vendor affiliate support: https://www.danaheidrich.com/start/affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/710690/adminstore
@@ -88,14 +88,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Trauerbegleitung für Witwen im DACH-Raum für Zuhause? — Typ: Member area and video courses, Anbieter: danachblog, gelistet seit 2026-08-12
-- Wie viel kostet es? — 27.248097000000005 USD
+- Wie viel kostet es? — 27.265156 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Trauerbegleitung für Witwen im DACH-Raum für Zuhause Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/710690
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/710690/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Trauerbegleitung%20f%C3%BCr%20Witwen%20im%20DACH-Raum%20f%C3%BCr%20Zuhause
 
 ## 4. Editorial notes

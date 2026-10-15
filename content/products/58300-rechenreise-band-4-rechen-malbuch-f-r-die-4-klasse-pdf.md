@@ -4,40 +4,40 @@ digistore24_product_id: 720431
 title: "Rechenreise Band 4 – Rechen-Malbuch für die 4. Klasse (PDF)"
 vendor: "silviodante"
 product_type: "E-books"
-price: 40.75
+price: 40.78
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 20.38
+earnings_per_sale: 20.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Family & Children"]
+categories: ["Family & Children","Education"]
 listed_since: "2026-08-12"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/58300/adminstore/"
+promo_link: "https://www.digistore24.com/product/720431?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/720431"
 language: "de"
 ---
 # Rechenreise Band 4 – Rechen-Malbuch für die 4. Klasse (PDF)
 
 > Product ID `58300` · Digistore24 productId `720431` · [HTML profile page](../../produkte/rechenreise-band-4-rechen-malbuch-f-r-die-4-klasse-pdf-58300.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $40.75 (Single payment) |
+| Price | $40.78 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $20.38 |
+| Earnings/sale* | $20.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | silviodante |
 | Listed since | 2026-08-12 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Family & Children |
+| Categories | Family & Children, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58300/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/720431?aff=adminstore
 - Sales page: https://www.digistore24.com/product/720431
 - Canonical redirect: https://www.digistore24.com/redir/720431/adminstore
 
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Rechenreise Band 4 – Rechen-Malbuch für die 4. Klasse (PDF)? — Typ: E-books, Anbieter: silviodante, gelistet seit 2026-08-12
-- Wie viel kostet es? — 40.75474500000001 USD
+- Wie viel kostet es? — 40.780260000000006 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Rechenreise Band 4 – Rechen-Malbuch für die 4. Klasse (PDF) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/720431
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/720431/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Rechenreise%20Band%204%20%E2%80%93%20Rechen-Malbuch%20f%C3%BCr%20die%204.%20Klasse%20(PDF)
 
 ## 4. Editorial notes

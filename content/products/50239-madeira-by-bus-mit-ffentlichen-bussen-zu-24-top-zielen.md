@@ -4,34 +4,34 @@ digistore24_product_id: 569177
 title: "Madeira by Bus - mit öffentlichen Bussen zu 24 Top-Zielen"
 vendor: "madeira-bus"
 product_type: "E-books"
-price: 20.01
+price: 20.03
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 4.39
+earnings_per_sale: 4.4
 cart_conversion_pct: 4
 cancel_rate_pct: 1.44
 categories: ["Travel & Culture"]
 listed_since: "2024-09-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/50239/adminstore/"
+promo_link: "https://www.madeira-bus.com/pdf?aff=adminstore#aff=adminstore"
 sales_page: "https://www.madeira-bus.com/pdf"
 language: "de"
 ---
 # Madeira by Bus - mit öffentlichen Bussen zu 24 Top-Zielen
 
 > Product ID `50239` · Digistore24 productId `569177` · [HTML profile page](../../produkte/madeira-by-bus-mit-ffentlichen-bussen-zu-24-top-zielen-50239.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.01 (Single payment) |
+| Price | $20.03 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $4.39 |
+| Earnings/sale* | $4.40 |
 | Cart conversion* | 4% |
 | Cancel rate* | 1.44% |
 | Vendor | madeira-bus |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/50239/adminstore/
+- **Promo link (affiliate):** https://www.madeira-bus.com/pdf?aff=adminstore#aff=adminstore
 - Sales page: https://www.madeira-bus.com/pdf
 - Canonical redirect: https://www.digistore24.com/redir/569177/adminstore
 
@@ -76,14 +76,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Madeira by Bus - mit öffentlichen Bussen zu 24 Top-Zielen? — Typ: E-books, Anbieter: madeira-bus, gelistet seit 2024-09-08
-- Wie viel kostet es? — 20.01399 USD
+- Wie viel kostet es? — 20.026519999999998 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Madeira by Bus - mit öffentlichen Bussen zu 24 Top-Zielen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/569177
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/569177/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Madeira%20by%20Bus%20-%20mit%20%C3%B6ffentlichen%20Bussen%20zu%2024%20Top-Zielen
 
 ## 4. Editorial notes

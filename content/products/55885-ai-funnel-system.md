@@ -12,17 +12,17 @@ cart_conversion_pct: 32
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2026-01-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/55885/adminstore/"
+promo_link: "https://shop.growverse.de/funnels/ai-funnel-system/freebie?aff=adminstore#aff=adminstore"
 sales_page: "https://shop.growverse.de/funnels/ai-funnel-system/freebie"
 language: "de"
 ---
 # AI Funnel System
 
 > Product ID `55885` · Digistore24 productId `662015` · [HTML profile page](../../produkte/ai-funnel-system-55885.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55885/adminstore/
+- **Promo link (affiliate):** https://shop.growverse.de/funnels/ai-funnel-system/freebie?aff=adminstore#aff=adminstore
 - Sales page: https://shop.growverse.de/funnels/ai-funnel-system/freebie
 - Canonical redirect: https://www.digistore24.com/redir/662015/adminstore
 
@@ -81,7 +81,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: AI Funnel System Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/662015
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/662015/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=AI%20Funnel%20System
 
 ## 4. Editorial notes

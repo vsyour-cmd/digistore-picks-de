@@ -4,16 +4,16 @@ digistore24_product_id: 250026
 title: "Neurostreams™ Morphium Jacuzzi (Fibromyalgie) in 432 Hertz"
 vendor: "newdimension"
 product_type: "Downloads"
-price: 15.98
+price: 15.99
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 7.99
+earnings_per_sale: 8
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Profession & Job"]
 listed_since: "2018-11-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.neurostreams.de/produkte/labor/fibromyalgie-hilfe/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.neurostreams.de/produkte/labor/fibromyalgie-hilfe/"
@@ -22,16 +22,16 @@ language: "de"
 # Neurostreams™ Morphium Jacuzzi (Fibromyalgie) in 432 Hertz
 
 > Product ID `47042` · Digistore24 productId `250026` · [HTML profile page](../../produkte/neurostreams-morphium-jacuzzi-fibromyalgie-in-432-hertz-47042.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $15.98 (Single payment) |
+| Price | $15.99 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $7.99 |
+| Earnings/sale* | $8.00 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | newdimension |
@@ -80,14 +80,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Neurostreams™ Morphium Jacuzzi (Fibromyalgie) in 432 Hertz? — Typ: Downloads, Anbieter: newdimension, gelistet seit 2018-11-27
-- Wie viel kostet es? — 15.977649 USD
+- Wie viel kostet es? — 15.987651999999999 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Neurostreams™ Morphium Jacuzzi (Fibromyalgie) in 432 Hertz Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/250026
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/250026/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Neurostreams%E2%84%A2%20Morphium%20Jacuzzi%20(Fibromyalgie)%20in%20432%20Hertz
 
 ## 4. Editorial notes

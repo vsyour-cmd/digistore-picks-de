@@ -4,34 +4,34 @@ digistore24_product_id: 698672
 title: "Wichtel Briefe Set"
 vendor: "MaRa01"
 product_type: "Downloads"
-price: 12.12
+price: 12.13
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 3.63
+earnings_per_sale: 3.64
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2026-06-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/57091/adminstore/"
+promo_link: "https://fraueinfach.com/wichtel-briefe-set?aff=adminstore#aff=adminstore"
 sales_page: "https://fraueinfach.com/wichtel-briefe-set"
 language: "de"
 ---
 # Wichtel Briefe Set
 
 > Product ID `57091` · Digistore24 productId `698672` · [HTML profile page](../../produkte/wichtel-briefe-set-57091.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $12.12 (Single payment) |
+| Price | $12.13 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $3.63 |
+| Earnings/sale* | $3.64 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MaRa01 |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/57091/adminstore/
+- **Promo link (affiliate):** https://fraueinfach.com/wichtel-briefe-set?aff=adminstore#aff=adminstore
 - Sales page: https://fraueinfach.com/wichtel-briefe-set
 - Canonical redirect: https://www.digistore24.com/redir/698672/adminstore
 
@@ -85,14 +85,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Wichtel Briefe Set? — Typ: Downloads, Anbieter: MaRa01, gelistet seit 2026-06-21
-- Wie viel kostet es? — 12.120204000000001 USD
+- Wie viel kostet es? — 12.127792 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Wichtel Briefe Set Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/698672
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/698672/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Wichtel%20Briefe%20Set
 
 ## 4. Editorial notes

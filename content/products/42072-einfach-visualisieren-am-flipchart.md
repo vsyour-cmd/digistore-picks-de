@@ -4,16 +4,16 @@ digistore24_product_id: 472315
 title: "Einfach visualisieren am Flipchart"
 vendor: "JoergSchmidt"
 product_type: "Member area and video courses"
-price: 110.69
+price: 110.76
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 44.28
+earnings_per_sale: 44.3
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Profession & Job"]
+categories: ["Profession & Job","Education"]
 listed_since: "2022-11-28"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://einfach-visualisieren.coachy.net/lp/einfach-visualisieren-kurs/?aff=adminstore#aff=adminstore"
 sales_page: "https://einfach-visualisieren.coachy.net/lp/einfach-visualisieren-kurs/"
@@ -22,22 +22,22 @@ language: "de"
 # Einfach visualisieren am Flipchart
 
 > Product ID `42072` · Digistore24 productId `472315` · [HTML profile page](../../produkte/einfach-visualisieren-am-flipchart-42072.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $110.69 (Single payment) |
+| Price | $110.76 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $44.28 |
+| Earnings/sale* | $44.30 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | JoergSchmidt |
 | Listed since | 2022-11-28 |
 | Auto-accept affiliates | no (approval required) |
-| Categories | Education, Profession & Job |
+| Categories | Profession & Job, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -75,14 +75,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Einfach visualisieren am Flipchart? — Typ: Member area and video courses, Anbieter: JoergSchmidt, gelistet seit 2022-11-28
-- Wie viel kostet es? — 110.6919 USD
+- Wie viel kostet es? — 110.7612 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Einfach visualisieren am Flipchart Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/472315
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/472315/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Einfach%20visualisieren%20am%20Flipchart
 
 ## 4. Editorial notes

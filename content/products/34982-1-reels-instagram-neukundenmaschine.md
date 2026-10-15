@@ -4,16 +4,16 @@ digistore24_product_id: 352053
 title: "1% Reels| Instagram Neukundenmaschine"
 vendor: "moserda"
 product_type: "Member area and video courses"
-price: 35.88
+price: 35.9
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 28.61
+earnings_per_sale: 28.63
 cart_conversion_pct: 9
 cancel_rate_pct: 1.23
 categories: ["Business & Investment"]
 listed_since: "2020-10-13"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://einprozentclub.com/reels-neukundenmaschine/?aff=adminstore#aff=adminstore"
 sales_page: "https://einprozentclub.com/reels-neukundenmaschine/"
@@ -22,16 +22,16 @@ language: "de"
 # 1% Reels| Instagram Neukundenmaschine
 
 > Product ID `34982` · Digistore24 productId `352053` · [HTML profile page](../../produkte/1-reels-instagram-neukundenmaschine-34982.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $35.88 (Single payment, Installment) |
+| Price | $35.90 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $28.61 |
+| Earnings/sale* | $28.63 |
 | Cart conversion* | 9% |
 | Cancel rate* | 1.23% |
 | Vendor | moserda |
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 1% Reels| Instagram Neukundenmaschine? — Typ: Member area and video courses, Anbieter: moserda, gelistet seit 2020-10-13
-- Wie viel kostet es? — 35.87982900000001 USD
+- Wie viel kostet es? — 35.902292 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 1% Reels| Instagram Neukundenmaschine Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/352053
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/352053/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=1%25%20Reels%7C%20Instagram%20Neukundenmaschine
 
 ## 4. Editorial notes

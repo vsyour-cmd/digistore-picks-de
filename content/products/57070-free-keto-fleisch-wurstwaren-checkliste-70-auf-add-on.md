@@ -4,16 +4,16 @@ digistore24_product_id: 674678
 title: "Free Keto Fleisch / Wurstwaren Checkliste 70% auf Add-on"
 vendor: "Ketogen-Ratgeber"
 product_type: "Downloads"
-price: 4.68
+price: 4.69
 currency: "USD"
 affiliate_commission_pct: 70
 earnings_per_sale: 3.28
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Food & Drink","Health & Fitness"]
+categories: ["Health & Fitness","Food & Drink"]
 listed_since: "2026-06-19"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://ketogen-ratgeber.de/keto-check-fleisch-und-wurstwaren/?aff=adminstore#aff=adminstore"
 sales_page: "https://ketogen-ratgeber.de/keto-check-fleisch-und-wurstwaren/"
@@ -22,14 +22,14 @@ language: "de"
 # Free Keto Fleisch / Wurstwaren Checkliste 70% auf Add-on
 
 > Product ID `57070` · Digistore24 productId `674678` · [HTML profile page](../../produkte/free-keto-fleisch-wurstwaren-checkliste-70-auf-add-on-57070.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $4.68 (Single payment) |
+| Price | $4.69 (Single payment) |
 | Affiliate commission | 70% |
 | Earnings/sale* | $3.28 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | Ketogen-Ratgeber |
 | Listed since | 2026-06-19 |
 | Auto-accept affiliates | yes |
-| Categories | Food & Drink, Health & Fitness |
+| Categories | Health & Fitness, Food & Drink |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -64,14 +64,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Free Keto Fleisch / Wurstwaren Checkliste 70% auf Add-on? — Typ: Downloads, Anbieter: Ketogen-Ratgeber, gelistet seit 2026-06-19
-- Wie viel kostet es? — 4.684839000000001 USD
+- Wie viel kostet es? — 4.687772000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Free Keto Fleisch / Wurstwaren Checkliste 70% auf Add-on Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/674678
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/674678/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Free%20Keto%20Fleisch%20%2F%20Wurstwaren%20Checkliste%2070%25%20auf%20Add-on
 
 ## 4. Editorial notes

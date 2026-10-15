@@ -4,16 +4,16 @@ digistore24_product_id: 682814
 title: "Inner Circle - Die Community für Event-/Hochzeitsdienstl."
 vendor: "eventworker"
 product_type: "Member area and video courses"
-price: 121.2
+price: 121.28
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 24.24
+earnings_per_sale: 24.26
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Marketing Services"]
 listed_since: "2026-07-13"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.eventworker.net/inner-circle?aff=adminstore#aff=adminstore"
 sales_page: "https://www.eventworker.net/inner-circle"
@@ -22,16 +22,16 @@ language: "de"
 # Inner Circle - Die Community für Event-/Hochzeitsdienstl.
 
 > Product ID `57504` · Digistore24 productId `682814` · [HTML profile page](../../produkte/inner-circle-die-community-f-r-event-hochzeitsdienstl-57504.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $121.20 (Subscription) |
+| Price | $121.28 (Subscription) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $24.24 |
+| Earnings/sale* | $24.26 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | eventworker |
@@ -87,14 +87,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Inner Circle - Die Community für Event-/Hochzeitsdienstl.? — Typ: Member area and video courses, Anbieter: eventworker, gelistet seit 2026-07-13
-- Wie viel kostet es? — 121.20204000000001 USD
+- Wie viel kostet es? — 121.27792000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Inner Circle - Die Community für Event-/Hochzeitsdienstl. Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/682814
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/682814/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Inner%20Circle%20-%20Die%20Community%20f%C3%BCr%20Event-%2FHochzeitsdienstl.
 
 ## 4. Editorial notes

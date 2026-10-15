@@ -4,16 +4,16 @@ digistore24_product_id: 12747
 title: "BaseCamp Handbuch V4"
 vendor: "MBMweb"
 product_type: "E-books"
-price: 26.07
+price: 26.09
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 13.04
+earnings_per_sale: 13.05
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft"]
 listed_since: "2013-06-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "http://basecamphandbuch.de?aff=adminstore#aff=adminstore"
 sales_page: "http://basecamphandbuch.de"
@@ -22,16 +22,16 @@ language: "de"
 # BaseCamp Handbuch V4
 
 > Product ID `3379` · Digistore24 productId `12747` · [HTML profile page](../../produkte/basecamp-handbuch-v4-3379.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $26.07 (Single payment) |
+| Price | $26.09 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $13.04 |
+| Earnings/sale* | $13.05 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MBMweb |
@@ -86,14 +86,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist BaseCamp Handbuch V4? — Typ: E-books, Anbieter: MBMweb, gelistet seit 2013-06-06
-- Wie viel kostet es? — 26.074092000000004 USD
+- Wie viel kostet es? — 26.090416 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: BaseCamp Handbuch V4 Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/12747
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/12747/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=BaseCamp%20Handbuch%20V4
 
 ## 4. Editorial notes

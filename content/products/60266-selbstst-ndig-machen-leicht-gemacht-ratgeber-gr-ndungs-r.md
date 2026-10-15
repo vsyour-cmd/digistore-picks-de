@@ -4,7 +4,7 @@ digistore24_product_id: 741103
 title: "Selbstständig machen leicht gemacht – Ratgeber + Gründungs-R"
 vendor: "ratgeberleichtgemacht"
 product_type: "E-books"
-price: 20.8
+price: 20.81
 currency: "USD"
 affiliate_commission_pct: 40
 earnings_per_sale: 8.32
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Profession & Job","Finances"]
 listed_since: "2026-10-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/741103?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/741103"
@@ -22,14 +22,14 @@ language: "de"
 # Selbstständig machen leicht gemacht – Ratgeber + Gründungs-R
 
 > Product ID `60266` · Digistore24 productId `741103` · [HTML profile page](../../produkte/selbstst-ndig-machen-leicht-gemacht-ratgeber-gr-ndungs-r-60266.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.80 (Single payment) |
+| Price | $20.81 (Single payment) |
 | Affiliate commission | 40% |
 | Earnings/sale* | $8.32 |
 | Cart conversion* | — |
@@ -81,14 +81,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Selbstständig machen leicht gemacht – Ratgeber + Gründungs-R? — Typ: E-books, Anbieter: ratgeberleichtgemacht, gelistet seit 2026-10-06
-- Wie viel kostet es? — 20.796660000000003 USD
+- Wie viel kostet es? — 20.80968 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Selbstständig machen leicht gemacht – Ratgeber + Gründungs-R Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/741103
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/741103/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Selbstst%C3%A4ndig%20machen%20leicht%20gemacht%20%E2%80%93%20Ratgeber%20%2B%20Gr%C3%BCndungs-R
 
 ## 4. Editorial notes

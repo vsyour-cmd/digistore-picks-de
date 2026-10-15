@@ -4,16 +4,16 @@ digistore24_product_id: 736463
 title: "Starter Paket für Handwerker 6 professionelle Bürovorlagen"
 vendor: "kkaufmehl16fe"
 product_type: "Downloads"
-price: 18.69
+price: 18.71
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 3.73
+earnings_per_sale: 3.74
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Services"]
 listed_since: "2026-09-28"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://ks-studiobusiness.carrd.co/?aff=adminstore#aff=adminstore"
 sales_page: "https://ks-studiobusiness.carrd.co/"
@@ -22,16 +22,16 @@ language: "de"
 # Starter Paket für Handwerker 6 professionelle Bürovorlagen
 
 > Product ID `59996` · Digistore24 productId `736463` · [HTML profile page](../../produkte/starter-paket-f-r-handwerker-6-professionelle-b-rovorlagen-59996.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $18.69 (Single payment) |
+| Price | $18.71 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $3.73 |
+| Earnings/sale* | $3.74 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | kkaufmehl16fe |
@@ -59,14 +59,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Starter Paket für Handwerker 6 professionelle Bürovorlagen? — Typ: Downloads, Anbieter: kkaufmehl16fe, gelistet seit 2026-09-28
-- Wie viel kostet es? — 18.694632 USD
+- Wie viel kostet es? — 18.706336 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Starter Paket für Handwerker 6 professionelle Bürovorlagen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/736463
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/736463/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Starter%20Paket%20f%C3%BCr%20Handwerker%206%20professionelle%20B%C3%BCrovorlagen
 
 ## 4. Editorial notes

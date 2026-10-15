@@ -4,7 +4,7 @@ digistore24_product_id: 717826
 title: "Rauchfrei-Rückfall-Reset – 103 Seiten + 50 % Provision"
 vendor: "HeikoBoos"
 product_type: "E-books"
-price: 17.77
+price: 17.78
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 8.89
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2026-08-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://nichtraucherzone.de/der-rauchfrei-rueckfall-reset?aff=adminstore#aff=adminstore"
 sales_page: "https://nichtraucherzone.de/der-rauchfrei-rueckfall-reset"
@@ -22,14 +22,14 @@ language: "de"
 # Rauchfrei-Rückfall-Reset – 103 Seiten + 50 % Provision
 
 > Product ID `58236` · Digistore24 productId `717826` · [HTML profile page](../../produkte/rauchfrei-r-ckfall-reset-103-seiten-50-provision-58236.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $17.77 (Single payment) |
+| Price | $17.78 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $8.89 |
 | Cart conversion* | — |
@@ -86,14 +86,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Rauchfrei-Rückfall-Reset – 103 Seiten + 50 % Provision? — Typ: E-books, Anbieter: HeikoBoos, gelistet seit 2026-08-09
-- Wie viel kostet es? — 17.766609000000003 USD
+- Wie viel kostet es? — 17.777732 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Rauchfrei-Rückfall-Reset – 103 Seiten + 50 % Provision Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/717826
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/717826/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Rauchfrei-R%C3%BCckfall-Reset%20%E2%80%93%20103%20Seiten%20%2B%2050%20%25%20Provision
 
 ## 4. Editorial notes

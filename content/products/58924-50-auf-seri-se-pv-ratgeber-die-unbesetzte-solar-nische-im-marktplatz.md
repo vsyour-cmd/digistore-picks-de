@@ -4,16 +4,16 @@ digistore24_product_id: 721062
 title: "50 % auf seriöse PV-Ratgeber — die unbesetzte Solar-Nische im Marktplatz"
 vendor: "Feo-Media"
 product_type: "Member area and video courses"
-price: 46.04
+price: 46.07
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 23.02
+earnings_per_sale: 23.04
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Green Products & Environmental Protection","Home & Garden"]
+categories: ["Home & Garden","Green Products & Environmental Protection"]
 listed_since: "2026-09-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://wattvoll.de/produkt/komplett-paket?aff=adminstore#aff=adminstore"
 sales_page: "https://wattvoll.de/produkt/komplett-paket"
@@ -22,22 +22,22 @@ language: "de"
 # 50 % auf seriöse PV-Ratgeber — die unbesetzte Solar-Nische im Marktplatz
 
 > Product ID `58924` · Digistore24 productId `721062` · [HTML profile page](../../produkte/50-auf-seri-se-pv-ratgeber-die-unbesetzte-solar-nische-im-marktplatz-58924.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $46.04 (Single payment) |
+| Price | $46.07 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $23.02 |
+| Earnings/sale* | $23.04 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Feo-Media |
 | Listed since | 2026-09-04 |
 | Auto-accept affiliates | yes |
-| Categories | Green Products & Environmental Protection, Home & Garden |
+| Categories | Home & Garden, Green Products & Environmental Protection |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -88,14 +88,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 50 % auf seriöse PV-Ratgeber — die unbesetzte Solar-Nische im Marktplatz? — Typ: Member area and video courses, Anbieter: Feo-Media, gelistet seit 2026-09-04
-- Wie viel kostet es? — 46.043358000000005 USD
+- Wie viel kostet es? — 46.072184 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 50 % auf seriöse PV-Ratgeber — die unbesetzte Solar-Nische im Marktplatz Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/721062
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/721062/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=50%20%25%20auf%20seri%C3%B6se%20PV-Ratgeber%20%E2%80%94%20die%20unbesetzte%20Solar-Nische%20im%20Marktplatz
 
 ## 4. Editorial notes

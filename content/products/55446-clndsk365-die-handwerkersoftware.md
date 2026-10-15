@@ -4,16 +4,16 @@ digistore24_product_id: 638846
 title: "CLNDSK365 - Die Handwerkersoftware"
 vendor: "Cleandesk365"
 product_type: "Software"
-price: 443.89
+price: 444.16
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 133.17
+earnings_per_sale: 133.25
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Services","Software"]
+categories: ["Software","Services"]
 listed_since: "2025-09-30"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/638846?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/638846"
@@ -22,22 +22,22 @@ language: "de"
 # CLNDSK365 - Die Handwerkersoftware
 
 > Product ID `55446` · Digistore24 productId `638846` · [HTML profile page](../../produkte/clndsk365-die-handwerkersoftware-55446.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $443.89 (Subscription) |
+| Price | $444.16 (Subscription) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $133.17 |
+| Earnings/sale* | $133.25 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Cleandesk365 |
 | Listed since | 2025-09-30 |
 | Auto-accept affiliates | no (approval required) |
-| Categories | Services, Software |
+| Categories | Software, Services |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -89,14 +89,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist CLNDSK365 - Die Handwerkersoftware? — Typ: Software, Anbieter: Cleandesk365, gelistet seit 2025-09-30
-- Wie viel kostet es? — 443.88570000000004 USD
+- Wie viel kostet es? — 444.16360000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: CLNDSK365 - Die Handwerkersoftware Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/638846
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/638846/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=CLNDSK365%20-%20Die%20Handwerkersoftware
 
 ## 4. Editorial notes

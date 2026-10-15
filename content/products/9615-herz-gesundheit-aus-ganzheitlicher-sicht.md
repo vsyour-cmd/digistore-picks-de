@@ -4,16 +4,16 @@ digistore24_product_id: 67593
 title: "HERZ Gesundheit aus ganzheitlicher Sicht"
 vendor: "RaGarve"
 product_type: "Downloads"
-price: 187.89
+price: 188
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 55.21
+earnings_per_sale: 55.25
 cart_conversion_pct: 31
 cancel_rate_pct: 5.11
 categories: ["Health & Fitness"]
 listed_since: "2016-01-02"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://raikgarve.de/irrtuemer-der-medizin/die-4-irrtuemer-der-modernen-herz-medizin/?aff=adminstore#aff=adminstore"
 sales_page: "https://raikgarve.de/irrtuemer-der-medizin/die-4-irrtuemer-der-modernen-herz-medizin/"
@@ -22,16 +22,16 @@ language: "de"
 # HERZ Gesundheit aus ganzheitlicher Sicht
 
 > Product ID `9615` · Digistore24 productId `67593` · [HTML profile page](../../produkte/herz-gesundheit-aus-ganzheitlicher-sicht-9615.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $187.89 (Single payment) |
+| Price | $188.00 (Single payment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $55.21 |
+| Earnings/sale* | $55.25 |
 | Cart conversion* | 31% |
 | Cancel rate* | 5.11% |
 | Vendor | RaGarve |
@@ -81,14 +81,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist HERZ Gesundheit aus ganzheitlicher Sicht? — Typ: Downloads, Anbieter: RaGarve, gelistet seit 2016-01-02
-- Wie viel kostet es? — 187.885524 USD
+- Wie viel kostet es? — 188.003152 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: HERZ Gesundheit aus ganzheitlicher Sicht Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/67593
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/67593/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=HERZ%20Gesundheit%20aus%20ganzheitlicher%20Sicht
 
 ## 4. Editorial notes

@@ -4,7 +4,7 @@ digistore24_product_id: 426640
 title: "Kinderbuch - Familie ist besonders, einzigartig, ganz normal"
 vendor: "franziboerner"
 product_type: "Book (printed)"
-price: 15.68
+price: 15.69
 currency: "USD"
 affiliate_commission_pct: 30
 earnings_per_sale: 4.71
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2022-01-25"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "http://www.franziboerner.de?aff=adminstore#aff=adminstore"
 sales_page: "http://www.franziboerner.de"
@@ -22,14 +22,14 @@ language: "de"
 # Kinderbuch - Familie ist besonders, einzigartig, ganz normal
 
 > Product ID `39076` · Digistore24 productId `426640` · [HTML profile page](../../produkte/kinderbuch-familie-ist-besonders-einzigartig-ganz-normal-39076.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $15.68 (Single payment) |
+| Price | $15.69 (Single payment) |
 | Affiliate commission | 30% |
 | Earnings/sale* | $4.71 |
 | Cart conversion* | — |
@@ -76,14 +76,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Kinderbuch - Familie ist besonders, einzigartig, ganz normal? — Typ: Book (printed), Anbieter: franziboerner, gelistet seit 2022-01-25
-- Wie viel kostet es? — 15.675762 USD
+- Wie viel kostet es? — 15.685576 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Kinderbuch - Familie ist besonders, einzigartig, ganz normal Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/426640
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/426640/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Kinderbuch%20-%20Familie%20ist%20besonders%2C%20einzigartig%2C%20ganz%20normal
 
 ## 4. Editorial notes

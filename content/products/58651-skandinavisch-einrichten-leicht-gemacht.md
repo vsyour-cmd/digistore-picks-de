@@ -4,40 +4,40 @@ digistore24_product_id: 712577
 title: "Skandinavisch einrichten leicht gemacht"
 vendor: "ramonakrenn923f"
 product_type: "Downloads"
-price: 46.97
+price: 47
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 23.49
+earnings_per_sale: 23.51
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Hobby & Craft","Home & Garden"]
+categories: ["Home & Garden","Hobby & Craft"]
 listed_since: "2026-08-25"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/58651/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/712577?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/712577"
 language: "de"
 ---
 # Skandinavisch einrichten leicht gemacht
 
 > Product ID `58651` · Digistore24 productId `712577` · [HTML profile page](../../produkte/skandinavisch-einrichten-leicht-gemacht-58651.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $46.97 (Single payment) |
+| Price | $47.00 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $23.49 |
+| Earnings/sale* | $23.51 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ramonakrenn923f |
 | Listed since | 2026-08-25 |
 | Auto-accept affiliates | yes |
-| Categories | Hobby & Craft, Home & Garden |
+| Categories | Home & Garden, Hobby & Craft |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58651/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/712577?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/712577
 - Canonical redirect: https://www.digistore24.com/redir/712577/adminstore
 
@@ -91,14 +91,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Skandinavisch einrichten leicht gemacht? — Typ: Downloads, Anbieter: ramonakrenn923f, gelistet seit 2026-08-25
-- Wie viel kostet es? — 46.971381 USD
+- Wie viel kostet es? — 47.000788 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Skandinavisch einrichten leicht gemacht Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/712577
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/712577/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Skandinavisch%20einrichten%20leicht%20gemacht
 
 ## 4. Editorial notes

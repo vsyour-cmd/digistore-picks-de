@@ -12,8 +12,8 @@ cart_conversion_pct: 35
 cancel_rate_pct: 1.23
 categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2026-05-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://byebyehamsterrad.de/easy-business-der-5-stufen-business-check/?aff=adminstore#aff=adminstore"
 sales_page: "https://byebyehamsterrad.de/easy-business-der-5-stufen-business-check/"
@@ -22,7 +22,7 @@ language: "de"
 # Verschenke Business Check und verdiene automatisch mit
 
 > Product ID `56462` · Digistore24 productId `689864` · [HTML profile page](../../produkte/verschenke-business-check-und-verdiene-automatisch-mit-56462.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -78,14 +78,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Verschenke Business Check und verdiene automatisch mit? — Typ: E-books, Anbieter: MSFS_2218, gelistet seit 2026-05-04
-- Wie viel kostet es? — 5.881206000000001 USD
+- Wie viel kostet es? — 5.884888 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Verschenke Business Check und verdiene automatisch mit Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/689864
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/689864/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Verschenke%20Business%20Check%20und%20verdiene%20automatisch%20mit
 
 ## 4. Editorial notes

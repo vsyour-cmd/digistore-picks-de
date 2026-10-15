@@ -4,34 +4,34 @@ digistore24_product_id: 148733
 title: "Spritverbrauch jedes Autos halbieren - dank HHO Wasserauto24"
 vendor: "gunkes"
 product_type: "Downloads"
-price: 44.67
+price: 44.7
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 22.34
+earnings_per_sale: 22.35
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Green Products & Environmental Protection"]
 listed_since: "2017-07-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/17739/adminstore/"
+promo_link: "https://wasserauto24.net/?aff=adminstore#aff=adminstore"
 sales_page: "https://wasserauto24.net/"
 language: "de"
 ---
 # Spritverbrauch jedes Autos halbieren - dank HHO Wasserauto24
 
 > Product ID `17739` · Digistore24 productId `148733` · [HTML profile page](../../produkte/spritverbrauch-jedes-autos-halbieren-dank-hho-wasserauto24-17739.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $44.67 (Single payment) |
+| Price | $44.70 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $22.34 |
+| Earnings/sale* | $22.35 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | gunkes |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/17739/adminstore/
+- **Promo link (affiliate):** https://wasserauto24.net/?aff=adminstore#aff=adminstore
 - Sales page: https://wasserauto24.net/
 - Vendor affiliate support: http://wasserauto24.net/partner/
 - Canonical redirect: https://www.digistore24.com/redir/148733/adminstore
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Spritverbrauch jedes Autos halbieren - dank HHO Wasserauto24? — Typ: Downloads, Anbieter: gunkes, gelistet seit 2017-07-07
-- Wie viel kostet es? — 44.66809500000001 USD
+- Wie viel kostet es? — 44.69606 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Spritverbrauch jedes Autos halbieren - dank HHO Wasserauto24 Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/148733
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/148733/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Spritverbrauch%20jedes%20Autos%20halbieren%20-%20dank%20HHO%20Wasserauto24
 
 ## 4. Editorial notes

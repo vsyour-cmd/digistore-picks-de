@@ -4,16 +4,16 @@ digistore24_product_id: 736267
 title: "Homöopathie Für Hunde"
 vendor: "Book2Book"
 product_type: "E-books"
-price: 20.11
+price: 20.13
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 12.06
+earnings_per_sale: 12.07
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2026-09-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/736267?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/736267"
@@ -22,16 +22,16 @@ language: "de"
 # Homöopathie Für Hunde
 
 > Product ID `59560` · Digistore24 productId `736267` · [HTML profile page](../../produkte/hom-opathie-f-r-hunde-59560.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.11 (Single payment) |
+| Price | $20.13 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $12.06 |
+| Earnings/sale* | $12.07 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Book2Book |
@@ -82,14 +82,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Homöopathie Für Hunde? — Typ: E-books, Anbieter: Book2Book, gelistet seit 2026-09-22
-- Wie viel kostet es? — 20.114619 USD
+- Wie viel kostet es? — 20.127212 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Homöopathie Für Hunde Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/736267
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/736267/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Hom%C3%B6opathie%20F%C3%BCr%20Hunde
 
 ## 4. Editorial notes

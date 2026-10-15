@@ -4,16 +4,16 @@ digistore24_product_id: 664496
 title: "Der Lifehack bei der Einkommensanrechnung"
 vendor: "verwitwet-leben"
 product_type: "Member area and video courses"
-price: 46
+price: 46.03
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 37.39
+earnings_per_sale: 37.41
 cart_conversion_pct: 23
 cancel_rate_pct: 0
 categories: ["Business & Investment","Education"]
 listed_since: "2026-01-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://verwitwet-leben.de/videokurs-lifehack-witwenrente/?aff=adminstore#aff=adminstore"
 sales_page: "https://verwitwet-leben.de/videokurs-lifehack-witwenrente/"
@@ -22,16 +22,16 @@ language: "de"
 # Der Lifehack bei der Einkommensanrechnung
 
 > Product ID `55960` · Digistore24 productId `664496` · [HTML profile page](../../produkte/der-lifehack-bei-der-einkommensanrechnung-55960.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $46.00 (Single payment) |
+| Price | $46.03 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $37.39 |
+| Earnings/sale* | $37.41 |
 | Cart conversion* | 23% |
 | Cancel rate* | 0% |
 | Vendor | verwitwet-leben |
@@ -84,14 +84,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Lifehack bei der Einkommensanrechnung? — Typ: Member area and video courses, Anbieter: verwitwet-leben, gelistet seit 2026-01-27
-- Wie viel kostet es? — 45.998634 USD
+- Wie viel kostet es? — 46.027432000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Der Lifehack bei der Einkommensanrechnung Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/664496
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/664496/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%20Lifehack%20bei%20der%20Einkommensanrechnung
 
 ## 4. Editorial notes

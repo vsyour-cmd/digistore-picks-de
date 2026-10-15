@@ -4,34 +4,34 @@ digistore24_product_id: 542601
 title: "KI CASH TSUNAMI"
 vendor: "Spekulatius"
 product_type: "Member area and video courses"
-price: 53.56
+price: 53.59
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 26.78
+earnings_per_sale: 26.8
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2024-03-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/47737/adminstore/"
+promo_link: "https://www.meinneuerlifestyle.vip/goldmine-chat-gpt/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.meinneuerlifestyle.vip/goldmine-chat-gpt/"
 language: "de"
 ---
 # KI CASH TSUNAMI
 
 > Product ID `47737` · Digistore24 productId `542601` · [HTML profile page](../../produkte/ki-cash-tsunami-47737.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $53.56 (Single payment) |
+| Price | $53.59 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $26.78 |
+| Earnings/sale* | $26.80 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Spekulatius |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/47737/adminstore/
+- **Promo link (affiliate):** https://www.meinneuerlifestyle.vip/goldmine-chat-gpt/?aff=adminstore#aff=adminstore
 - Sales page: https://www.meinneuerlifestyle.vip/goldmine-chat-gpt/
 - Canonical redirect: https://www.digistore24.com/redir/542601/adminstore
 
@@ -66,14 +66,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI CASH TSUNAMI? — Typ: Member area and video courses, Anbieter: Spekulatius, gelistet seit 2024-03-07
-- Wie viel kostet es? — 53.556990000000006 USD
+- Wie viel kostet es? — 53.59052 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: KI CASH TSUNAMI Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/542601
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/542601/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=KI%20CASH%20TSUNAMI
 
 ## 4. Editorial notes

@@ -12,8 +12,8 @@ cart_conversion_pct: 18
 cancel_rate_pct: 2.71
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2025-01-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://affiliforge.net/Boost-Your-Facebook?aff=adminstore#aff=adminstore"
 sales_page: "https://affiliforge.net/Boost-Your-Facebook"
@@ -22,7 +22,7 @@ language: "de"
 # E-Book - Boost Your Facebook - Schritt für Schritt Guide
 
 > Product ID `50896` · Digistore24 productId `589513` · [HTML profile page](../../produkte/e-book-boost-your-facebook-schritt-f-r-schritt-guide-50896.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -77,14 +77,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist E-Book - Boost Your Facebook - Schritt für Schritt Guide? — Typ: Member area and video courses, Anbieter: AffiliForge, gelistet seit 2025-01-09
-- Wie viel kostet es? — 2.448639 USD
+- Wie viel kostet es? — 2.450172 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: E-Book - Boost Your Facebook - Schritt für Schritt Guide Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/589513
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/589513/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=E-Book%20-%20Boost%20Your%20Facebook%20-%20Schritt%20f%C3%BCr%20Schritt%20Guide
 
 ## 4. Editorial notes

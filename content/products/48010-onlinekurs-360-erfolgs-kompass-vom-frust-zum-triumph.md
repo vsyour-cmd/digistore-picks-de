@@ -4,16 +4,16 @@ digistore24_product_id: 548110
 title: "Onlinekurs | 360° Erfolgs-Kompass: Vom Frust zum Triumph!"
 vendor: "experten-tools"
 product_type: "Member area and video courses"
-price: 75.07
+price: 75.12
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 11.26
+earnings_per_sale: 11.27
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Business & Investment","Personal Development","Profession & Job"]
+categories: ["Personal Development","Business & Investment","Profession & Job"]
 listed_since: "2024-04-14"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://expertentools.shop/360-erfolgskompass/?aff=adminstore#aff=adminstore"
 sales_page: "https://expertentools.shop/360-erfolgskompass/"
@@ -22,22 +22,22 @@ language: "de"
 # Onlinekurs | 360° Erfolgs-Kompass: Vom Frust zum Triumph!
 
 > Product ID `48010` · Digistore24 productId `548110` · [HTML profile page](../../produkte/onlinekurs-360-erfolgs-kompass-vom-frust-zum-triumph-48010.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $75.07 (Single payment) |
+| Price | $75.12 (Single payment) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $11.26 |
+| Earnings/sale* | $11.27 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | experten-tools |
 | Listed since | 2024-04-14 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Personal Development, Profession & Job |
+| Categories | Personal Development, Business & Investment, Profession & Job |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -76,14 +76,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Onlinekurs | 360° Erfolgs-Kompass: Vom Frust zum Triumph!? — Typ: Member area and video courses, Anbieter: experten-tools, gelistet seit 2024-04-14
-- Wie viel kostet es? — 75.06923400000001 USD
+- Wie viel kostet es? — 75.116232 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Onlinekurs | 360° Erfolgs-Kompass: Vom Frust zum Triumph! Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/548110
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/548110/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Onlinekurs%20%7C%20360%C2%B0%20Erfolgs-Kompass%3A%20Vom%20Frust%20zum%20Triumph!
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 368033
 title: "Liebeskummer stoppen | Hypnose Audio"
 vendor: "HypnoseC"
 product_type: "Downloads"
-price: 24.43
+price: 24.45
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 12.22
+earnings_per_sale: 12.23
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2021-01-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://rdmmdl.wixsite.com/liebeskummer-stoppen?aff=adminstore#aff=adminstore"
 sales_page: "https://rdmmdl.wixsite.com/liebeskummer-stoppen"
@@ -22,16 +22,16 @@ language: "de"
 # Liebeskummer stoppen | Hypnose Audio
 
 > Product ID `38504` · Digistore24 productId `368033` · [HTML profile page](../../produkte/liebeskummer-stoppen-hypnose-audio-38504.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $24.43 (Single payment, Installment) |
+| Price | $24.45 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $12.22 |
+| Earnings/sale* | $12.23 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | HypnoseC |
@@ -58,14 +58,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Liebeskummer stoppen | Hypnose Audio? — Typ: Downloads, Anbieter: HypnoseC, gelistet seit 2021-01-15
-- Wie viel kostet es? — 24.430485000000004 USD
+- Wie viel kostet es? — 24.445780000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Liebeskummer stoppen | Hypnose Audio Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/368033
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/368033/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Liebeskummer%20stoppen%20%7C%20Hypnose%20Audio
 
 ## 4. Editorial notes

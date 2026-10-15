@@ -4,34 +4,34 @@ digistore24_product_id: 614344
 title: "Neurostreams™ ALLES ( Download)"
 vendor: "newdimension"
 product_type: "Downloads"
-price: 280.93
+price: 281.11
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 140.47
+earnings_per_sale: 140.55
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2025-05-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/47007/adminstore/"
+promo_link: "https://www.neurostreams.de/produkte/neurostreams-alles/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.neurostreams.de/produkte/neurostreams-alles/"
 language: "de"
 ---
 # Neurostreams™ ALLES ( Download)
 
 > Product ID `47007` · Digistore24 productId `614344` · [HTML profile page](../../produkte/neurostreams-alles-download-47007.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $280.93 (Single payment, Installment) |
+| Price | $281.11 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $140.47 |
+| Earnings/sale* | $140.55 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | newdimension |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/47007/adminstore/
+- **Promo link (affiliate):** https://www.neurostreams.de/produkte/neurostreams-alles/?aff=adminstore#aff=adminstore
 - Sales page: https://www.neurostreams.de/produkte/neurostreams-alles/
 - Vendor affiliate support: https://www.timdaugs.com/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/614344/adminstore
@@ -88,14 +88,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Neurostreams™ ALLES ( Download)? — Typ: Downloads, Anbieter: newdimension, gelistet seit 2025-05-22
-- Wie viel kostet es? — 280.933806 USD
+- Wie viel kostet es? — 281.109688 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Neurostreams™ ALLES ( Download) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/614344
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/614344/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Neurostreams%E2%84%A2%20ALLES%20(%20Download)
 
 ## 4. Editorial notes

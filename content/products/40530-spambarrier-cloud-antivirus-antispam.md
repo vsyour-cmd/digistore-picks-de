@@ -4,16 +4,16 @@ digistore24_product_id: 449534
 title: "Spambarrier Cloud Antivirus / Antispam"
 vendor: "huestel"
 product_type: "Remote service provided electronically"
-price: 62.39
+price: 62.43
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 22.5
+earnings_per_sale: 22.51
 cart_conversion_pct: 26
 cancel_rate_pct: 1.58
 categories: ["Software"]
 listed_since: "2022-07-02"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://blog.spambarrier.de/spambarrier-pro-im-jahrespaket/?aff=adminstore#aff=adminstore"
 sales_page: "https://blog.spambarrier.de/spambarrier-pro-im-jahrespaket/"
@@ -22,16 +22,16 @@ language: "de"
 # Spambarrier Cloud Antivirus / Antispam
 
 > Product ID `40530` · Digistore24 productId `449534` · [HTML profile page](../../produkte/spambarrier-cloud-antivirus-antispam-40530.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $62.39 (Single payment) |
+| Price | $62.43 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $22.50 |
+| Earnings/sale* | $22.51 |
 | Cart conversion* | 26% |
 | Cancel rate* | 1.58% |
 | Vendor | huestel |
@@ -75,14 +75,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Spambarrier Cloud Antivirus / Antispam? — Typ: Remote service provided electronically, Anbieter: huestel, gelistet seit 2022-07-02
-- Wie viel kostet es? — 62.38998 USD
+- Wie viel kostet es? — 62.42904 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Spambarrier Cloud Antivirus / Antispam Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/449534
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/449534/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Spambarrier%20Cloud%20Antivirus%20%2F%20Antispam
 
 ## 4. Editorial notes

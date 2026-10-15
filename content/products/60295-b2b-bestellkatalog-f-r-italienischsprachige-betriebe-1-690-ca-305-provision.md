@@ -4,34 +4,34 @@ digistore24_product_id: 741562
 title: "B2B-Bestellkatalog für italienischsprachige Betriebe: 1.690 €, ca. 305 € Provision"
 vendor: "massarocalogero19976adc"
 product_type: "Remote service provided electronically"
-price: 1889.59
+price: 1890.77
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 377.92
+earnings_per_sale: 378.15
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2026-10-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/60295/adminstore/"
+promo_link: "https://www.direzionex.com/offerta/catalogo-per-le-ditte?aff=adminstore#aff=adminstore"
 sales_page: "https://www.direzionex.com/offerta/catalogo-per-le-ditte"
 language: "de"
 ---
 # B2B-Bestellkatalog für italienischsprachige Betriebe: 1.690 €, ca. 305 € Provision
 
 > Product ID `60295` · Digistore24 productId `741562` · [HTML profile page](../../produkte/b2b-bestellkatalog-f-r-italienischsprachige-betriebe-1-690-ca-305-provision-60295.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $1889.59 (Single payment) |
+| Price | $1890.77 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $377.92 |
+| Earnings/sale* | $378.15 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | massarocalogero19976adc |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/60295/adminstore/
+- **Promo link (affiliate):** https://www.direzionex.com/offerta/catalogo-per-le-ditte?aff=adminstore#aff=adminstore
 - Sales page: https://www.direzionex.com/offerta/catalogo-per-le-ditte
 - Canonical redirect: https://www.digistore24.com/redir/741562/adminstore
 
@@ -82,14 +82,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist B2B-Bestellkatalog für italienischsprachige Betriebe: 1.690 €, ca. 305 € Provision? — Typ: Remote service provided electronically, Anbieter: massarocalogero19976adc, gelistet seit 2026-10-07
-- Wie viel kostet es? — 1889.5890000000002 USD
+- Wie viel kostet es? — 1890.772 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: B2B-Bestellkatalog für italienischsprachige Betriebe: 1.690 €, ca. 305 € Provision Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/741562
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/741562/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=B2B-Bestellkatalog%20f%C3%BCr%20italienischsprachige%20Betriebe%3A%201.690%20%E2%82%AC%2C%20ca.%20305%20%E2%82%AC%20Provision
 
 ## 4. Editorial notes

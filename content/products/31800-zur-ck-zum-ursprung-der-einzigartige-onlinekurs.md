@@ -4,16 +4,16 @@ digistore24_product_id: 472467
 title: "„Zurück zum Ursprung“ - Der einzigartige Onlinekurs"
 vendor: "phoenix999"
 product_type: "Member area and video courses"
-price: 241.01
+price: 241.16
 currency: "USD"
 affiliate_commission_pct: 33
-earnings_per_sale: 31.72
+earnings_per_sale: 31.74
 cart_conversion_pct: 23
 cancel_rate_pct: 3.56
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2022-11-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://andreas-goldemann.mykajabi.com/zurueck-zum-ursprung-e?aff=adminstore#aff=adminstore"
 sales_page: "https://andreas-goldemann.mykajabi.com/zurueck-zum-ursprung-e"
@@ -22,16 +22,16 @@ language: "de"
 # „Zurück zum Ursprung“ - Der einzigartige Onlinekurs
 
 > Product ID `31800` · Digistore24 productId `472467` · [HTML profile page](../../produkte/zur-ck-zum-ursprung-der-einzigartige-onlinekurs-31800.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $241.01 (Single payment, Installment) |
+| Price | $241.16 (Single payment, Installment) |
 | Affiliate commission | 33% |
-| Earnings/sale* | $31.72 |
+| Earnings/sale* | $31.74 |
 | Cart conversion* | 23% |
 | Cancel rate* | 3.56% |
 | Vendor | phoenix999 |
@@ -102,14 +102,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist „Zurück zum Ursprung“ - Der einzigartige Onlinekurs? — Typ: Member area and video courses, Anbieter: phoenix999, gelistet seit 2022-11-29
-- Wie viel kostet es? — 241.00645500000005 USD
+- Wie viel kostet es? — 241.15734 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: „Zurück zum Ursprung“ - Der einzigartige Onlinekurs Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/472467
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/472467/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=%E2%80%9EZur%C3%BCck%20zum%20Ursprung%E2%80%9C%20-%20Der%20einzigartige%20Onlinekurs
 
 ## 4. Editorial notes

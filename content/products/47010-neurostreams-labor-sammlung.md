@@ -4,16 +4,16 @@ digistore24_product_id: 258316
 title: "Neurostreams™ LABOR (Sammlung)"
 vendor: "newdimension"
 product_type: "Downloads"
-price: 149.39
+price: 149.48
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 74.7
+earnings_per_sale: 74.75
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2019-01-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.neurostreams.de/produkte/labor/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.neurostreams.de/produkte/labor/"
@@ -22,16 +22,16 @@ language: "de"
 # Neurostreams™ LABOR (Sammlung)
 
 > Product ID `47010` · Digistore24 productId `258316` · [HTML profile page](../../produkte/neurostreams-labor-sammlung-47010.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $149.39 (Single payment, Installment) |
+| Price | $149.48 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $74.70 |
+| Earnings/sale* | $74.75 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | newdimension |
@@ -97,14 +97,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Neurostreams™ LABOR (Sammlung)? — Typ: Downloads, Anbieter: newdimension, gelistet seit 2019-01-29
-- Wie viel kostet es? — 149.38934100000003 USD
+- Wie viel kostet es? — 149.48286800000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Neurostreams™ LABOR (Sammlung) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/258316
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/258316/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Neurostreams%E2%84%A2%20LABOR%20(Sammlung)
 
 ## 4. Editorial notes

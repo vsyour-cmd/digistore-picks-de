@@ -4,16 +4,16 @@ digistore24_product_id: 558753
 title: "Leichtigkeit im Studium - Wohlbefinden für Studierende"
 vendor: "OKsuccess"
 product_type: "Downloads"
-price: 35.25
+price: 35.28
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 9.07
 cart_conversion_pct: 3
 cancel_rate_pct: 0.17
-categories: ["Education","Personal Development"]
+categories: ["Personal Development","Education"]
 listed_since: "2024-06-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://brainfood4you.com/lp-leichtigkeit-im-studium-album?aff=adminstore#aff=adminstore"
 sales_page: "https://brainfood4you.com/lp-leichtigkeit-im-studium-album"
@@ -22,14 +22,14 @@ language: "de"
 # Leichtigkeit im Studium - Wohlbefinden für Studierende
 
 > Product ID `48990` · Digistore24 productId `558753` · [HTML profile page](../../produkte/leichtigkeit-im-studium-wohlbefinden-f-r-studierende-48990.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $35.25 (Single payment) |
+| Price | $35.28 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $9.07 |
 | Cart conversion* | 3% |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | OKsuccess |
 | Listed since | 2024-06-27 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Personal Development |
+| Categories | Personal Development, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -90,14 +90,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Leichtigkeit im Studium - Wohlbefinden für Studierende? — Typ: Downloads, Anbieter: OKsuccess, gelistet seit 2024-06-27
-- Wie viel kostet es? — 35.253693000000005 USD
+- Wie viel kostet es? — 35.275764 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Leichtigkeit im Studium - Wohlbefinden für Studierende Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/558753
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/558753/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Leichtigkeit%20im%20Studium%20-%20Wohlbefinden%20f%C3%BCr%20Studierende
 
 ## 4. Editorial notes

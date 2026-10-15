@@ -4,7 +4,7 @@ digistore24_product_id: 726315
 title: "Affiliate Marketing 2.0: Entkomme dem Preiskampf und dominie"
 vendor: "stellenmanufaktur"
 product_type: "E-books"
-price: 22.25
+price: 22.26
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 11.13
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job","Social Media","Online Marketing"]
 listed_since: "2026-08-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/726315?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/726315"
@@ -22,14 +22,14 @@ language: "de"
 # Affiliate Marketing 2.0: Entkomme dem Preiskampf und dominie
 
 > Product ID `58736` · Digistore24 productId `726315` · [HTML profile page](../../produkte/affiliate-marketing-2-0-entkomme-dem-preiskampf-und-dominie-58736.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $22.25 (Single payment) |
+| Price | $22.26 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $11.13 |
 | Cart conversion* | — |
@@ -72,14 +72,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Affiliate Marketing 2.0: Entkomme dem Preiskampf und dominie? — Typ: E-books, Anbieter: stellenmanufaktur, gelistet seit 2026-08-27
-- Wie viel kostet es? — 22.25019 USD
+- Wie viel kostet es? — 22.26412 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Affiliate Marketing 2.0: Entkomme dem Preiskampf und dominie Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/726315
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/726315/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Affiliate%20Marketing%202.0%3A%20Entkomme%20dem%20Preiskampf%20und%20dominie
 
 ## 4. Editorial notes

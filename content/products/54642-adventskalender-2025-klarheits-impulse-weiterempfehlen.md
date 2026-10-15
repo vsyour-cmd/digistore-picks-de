@@ -12,8 +12,8 @@ cart_conversion_pct: 58
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2025-11-13"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://silviaschaefer.com/adventskalender?aff=adminstore#aff=adminstore"
 sales_page: "https://silviaschaefer.com/adventskalender"
@@ -22,7 +22,7 @@ language: "de"
 # Adventskalender 2025 – Klarheits-Impulse weiterempfehlen
 
 > Product ID `54642` · Digistore24 productId `648171` · [HTML profile page](../../produkte/adventskalender-2025-klarheits-impulse-weiterempfehlen-54642.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -80,7 +80,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Adventskalender 2025 – Klarheits-Impulse weiterempfehlen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/648171
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/648171/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Adventskalender%202025%20%E2%80%93%20Klarheits-Impulse%20weiterempfehlen
 
 ## 4. Editorial notes

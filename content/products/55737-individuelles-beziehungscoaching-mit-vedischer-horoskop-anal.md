@@ -4,34 +4,34 @@ digistore24_product_id: 663079
 title: "Individuelles Beziehungscoaching mit vedischer Horoskop-Anal"
 vendor: "HeidiPro"
 product_type: "Telephone coaching"
-price: 186.98
+price: 187.1
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 56.1
+earnings_per_sale: 56.13
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Services"]
 listed_since: "2026-01-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/55737/adminstore/"
+promo_link: "https://hpheidi-hoeck.systeme.io/e143f52a?aff=adminstore#aff=adminstore"
 sales_page: "https://hpheidi-hoeck.systeme.io/e143f52a"
 language: "de"
 ---
 # Individuelles Beziehungscoaching mit vedischer Horoskop-Anal
 
 > Product ID `55737` · Digistore24 productId `663079` · [HTML profile page](../../produkte/individuelles-beziehungscoaching-mit-vedischer-horoskop-anal-55737.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Telephone coaching |
-| Price | $186.98 (Single payment) |
+| Price | $187.10 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $56.10 |
+| Earnings/sale* | $56.13 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | HeidiPro |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55737/adminstore/
+- **Promo link (affiliate):** https://hpheidi-hoeck.systeme.io/e143f52a?aff=adminstore#aff=adminstore
 - Sales page: https://hpheidi-hoeck.systeme.io/e143f52a
 - Vendor affiliate support: https://hpheidi-hoeck.systeme.io/204eccb5
 - Canonical redirect: https://www.digistore24.com/redir/663079/adminstore
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Individuelles Beziehungscoaching mit vedischer Horoskop-Anal? — Typ: Telephone coaching, Anbieter: HeidiPro, gelistet seit 2026-01-21
-- Wie viel kostet es? — 186.979863 USD
+- Wie viel kostet es? — 187.096924 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Individuelles Beziehungscoaching mit vedischer Horoskop-Anal Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/663079
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/663079/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Individuelles%20Beziehungscoaching%20mit%20vedischer%20Horoskop-Anal
 
 ## 4. Editorial notes

@@ -4,7 +4,7 @@ digistore24_product_id: 701951
 title: "Die Kunst des ersten Dates"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 18.71
+price: 18.72
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 9.36
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2026-06-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/57193/adminstore/"
+promo_link: "https://ratgeberplatz.de/ratgeber/kunst-des-ersten-dates?aff=adminstore#aff=adminstore"
 sales_page: "https://ratgeberplatz.de/ratgeber/kunst-des-ersten-dates"
 language: "de"
 ---
 # Die Kunst des ersten Dates
 
 > Product ID `57193` · Digistore24 productId `701951` · [HTML profile page](../../produkte/die-kunst-des-ersten-dates-57193.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $18.71 (Single payment) |
+| Price | $18.72 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $9.36 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/57193/adminstore/
+- **Promo link (affiliate):** https://ratgeberplatz.de/ratgeber/kunst-des-ersten-dates?aff=adminstore#aff=adminstore
 - Sales page: https://ratgeberplatz.de/ratgeber/kunst-des-ersten-dates
 - Canonical redirect: https://www.digistore24.com/redir/701951/adminstore
 
@@ -85,14 +85,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die Kunst des ersten Dates? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-06-29
-- Wie viel kostet es? — 18.705813000000003 USD
+- Wie viel kostet es? — 18.717524 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Die Kunst des ersten Dates Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/701951
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/701951/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Die%20Kunst%20des%20ersten%20Dates
 
 ## 4. Editorial notes

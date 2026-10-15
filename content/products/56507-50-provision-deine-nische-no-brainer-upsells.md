@@ -4,7 +4,7 @@ digistore24_product_id: 691097
 title: "50% Provision: \"Deine Nische\" (No-Brainer + Upsells)"
 vendor: "SiNagel01"
 product_type: "E-books"
-price: 7.31
+price: 7.32
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 3.66
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media"]
 listed_since: "2026-05-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/56507/adminstore/"
+promo_link: "http://deine-nische.dein-socialmedia-erfolg.de?aff=adminstore#aff=adminstore"
 sales_page: "http://deine-nische.dein-socialmedia-erfolg.de"
 language: "de"
 ---
 # 50% Provision: "Deine Nische" (No-Brainer + Upsells)
 
 > Product ID `56507` · Digistore24 productId `691097` · [HTML profile page](../../produkte/50-provision-deine-nische-no-brainer-upsells-56507.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $7.31 (Single payment) |
+| Price | $7.32 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $3.66 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56507/adminstore/
+- **Promo link (affiliate):** http://deine-nische.dein-socialmedia-erfolg.de?aff=adminstore#aff=adminstore
 - Sales page: http://deine-nische.dein-socialmedia-erfolg.de
 - Vendor affiliate support: http://affiliate.dein-socialmedia-erfolg.de
 - Canonical redirect: https://www.digistore24.com/redir/691097/adminstore
@@ -64,14 +64,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 50% Provision: "Deine Nische" (No-Brainer + Upsells)? — Typ: E-books, Anbieter: SiNagel01, gelistet seit 2026-05-07
-- Wie viel kostet es? — 7.312374000000001 USD
+- Wie viel kostet es? — 7.316952000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 50% Provision: "Deine Nische" (No-Brainer + Upsells) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/691097
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/691097/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=50%25%20Provision%3A%20%22Deine%20Nische%22%20(No-Brainer%20%2B%20Upsells)
 
 ## 4. Editorial notes

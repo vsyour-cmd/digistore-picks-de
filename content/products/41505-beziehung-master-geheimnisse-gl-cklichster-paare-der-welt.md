@@ -4,34 +4,34 @@ digistore24_product_id: 454935
 title: "Beziehung Master: Geheimnisse glücklichster Paare der Welt"
 vendor: "Koepfe-der-Genies"
 product_type: "Webinar"
-price: 276.69
+price: 276.86
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 55.93
+earnings_per_sale: 55.96
 cart_conversion_pct: 2
 cancel_rate_pct: 5.73
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2022-08-10"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/41505/adminstore/"
+promo_link: "https://akademie.maximmankevich.com/beziehung-master?aff=adminstore#aff=adminstore"
 sales_page: "https://akademie.maximmankevich.com/beziehung-master"
 language: "de"
 ---
 # Beziehung Master: Geheimnisse glücklichster Paare der Welt
 
 > Product ID `41505` · Digistore24 productId `454935` · [HTML profile page](../../produkte/beziehung-master-geheimnisse-gl-cklichster-paare-der-welt-41505.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Webinar |
-| Price | $276.69 (Single payment, Installment) |
+| Price | $276.86 (Single payment, Installment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $55.93 |
+| Earnings/sale* | $55.96 |
 | Cart conversion* | 2% |
 | Cancel rate* | 5.73% |
 | Vendor | Koepfe-der-Genies |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/41505/adminstore/
+- **Promo link (affiliate):** https://akademie.maximmankevich.com/beziehung-master?aff=adminstore#aff=adminstore
 - Sales page: https://akademie.maximmankevich.com/beziehung-master
 - Vendor affiliate support: https://maximmankevich.com/partnerprogramm
 - Canonical redirect: https://www.digistore24.com/redir/454935/adminstore
@@ -86,14 +86,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Beziehung Master: Geheimnisse glücklichster Paare der Welt? — Typ: Webinar, Anbieter: Koepfe-der-Genies, gelistet seit 2022-08-10
-- Wie viel kostet es? — 276.68502600000005 USD
+- Wie viel kostet es? — 276.858248 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Beziehung Master: Geheimnisse glücklichster Paare der Welt Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/454935
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/454935/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Beziehung%20Master%3A%20Geheimnisse%20gl%C3%BCcklichster%20Paare%20der%20Welt
 
 ## 4. Editorial notes

@@ -4,7 +4,7 @@ digistore24_product_id: 713047
 title: "70K 4K Luxury Videos Bundle + PLR"
 vendor: "MoneyCreators"
 product_type: "E-books"
-price: 15.66
+price: 15.67
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 7.84
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-07-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
-promo_link: "https://www.digistore24.com/redir/57647/adminstore/"
+promo_link: "https://vierstelligimmonat.de/70kreels?aff=adminstore#aff=adminstore"
 sales_page: "https://vierstelligimmonat.de/70kreels"
 language: "de"
 ---
 # 70K 4K Luxury Videos Bundle + PLR
 
 > Product ID `57647` · Digistore24 productId `713047` · [HTML profile page](../../produkte/70k-4k-luxury-videos-bundle-plr-57647.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $15.66 (Single payment) |
+| Price | $15.67 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $7.84 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/57647/adminstore/
+- **Promo link (affiliate):** https://vierstelligimmonat.de/70kreels?aff=adminstore#aff=adminstore
 - Sales page: https://vierstelligimmonat.de/70kreels
 - Canonical redirect: https://www.digistore24.com/redir/713047/adminstore
 
@@ -61,14 +61,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 70K 4K Luxury Videos Bundle + PLR? — Typ: E-books, Anbieter: MoneyCreators, gelistet seit 2026-07-21
-- Wie viel kostet es? — 15.664581000000002 USD
+- Wie viel kostet es? — 15.674388 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 70K 4K Luxury Videos Bundle + PLR Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/713047
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/713047/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=70K%204K%20Luxury%20Videos%20Bundle%20%2B%20PLR
 
 ## 4. Editorial notes

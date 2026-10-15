@@ -4,34 +4,34 @@ digistore24_product_id: 325707
 title: "Das Partnerprogramm von Maxim Mankevich"
 vendor: "Koepfe-der-Genies"
 product_type: "Member area and video courses"
-price: 275.99
+price: 276.16
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 63.44
+earnings_per_sale: 63.48
 cart_conversion_pct: 1
 cancel_rate_pct: 7.32
 categories: ["Personal Development"]
 listed_since: "2020-05-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "http://www.lenormand-online24.de/ebook-leno7#aff=adminstore"
+promo_link: "https://akademie.maximmankevich.com/soulmaster?aff=adminstore#aff=adminstore"
 sales_page: "https://akademie.maximmankevich.com/soulmaster"
 language: "de"
 ---
 # Das Partnerprogramm von Maxim Mankevich
 
 > Product ID `30123` · Digistore24 productId `325707` · [HTML profile page](../../produkte/das-partnerprogramm-von-maxim-mankevich-30123.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $275.99 (Single payment, Installment) |
+| Price | $276.16 (Single payment, Installment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $63.44 |
+| Earnings/sale* | $63.48 |
 | Cart conversion* | 1% |
 | Cancel rate* | 7.32% |
 | Vendor | Koepfe-der-Genies |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://www.lenormand-online24.de/ebook-leno7#aff=adminstore
+- **Promo link (affiliate):** https://akademie.maximmankevich.com/soulmaster?aff=adminstore#aff=adminstore
 - Sales page: https://akademie.maximmankevich.com/soulmaster
 - Vendor affiliate support: https://maximmankevich.com/partnerprogramm
 - Canonical redirect: https://www.digistore24.com/redir/325707/adminstore
@@ -89,14 +89,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Partnerprogramm von Maxim Mankevich? — Typ: Member area and video courses, Anbieter: Koepfe-der-Genies, gelistet seit 2020-05-09
-- Wie viel kostet es? — 275.991804 USD
+- Wie viel kostet es? — 276.164592 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Das Partnerprogramm von Maxim Mankevich Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/325707
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/325707/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Das%20Partnerprogramm%20von%20Maxim%20Mankevich
 
 ## 4. Editorial notes

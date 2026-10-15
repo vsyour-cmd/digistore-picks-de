@@ -4,16 +4,16 @@ digistore24_product_id: 731286
 title: "Dorian – Verhaltensmuster erkennen und bewusster handeln"
 vendor: "Doriansway"
 product_type: "Online coaching"
-price: 280.93
+price: 281.11
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 70.24
+earnings_per_sale: 70.28
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Personal Development"]
+categories: ["Personal Development","Education"]
 listed_since: "2026-09-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://doriansway.app/options/?aff=adminstore#aff=adminstore"
 sales_page: "https://doriansway.app/options/"
@@ -22,22 +22,22 @@ language: "de"
 # Dorian – Verhaltensmuster erkennen und bewusster handeln
 
 > Product ID `59600` · Digistore24 productId `731286` · [HTML profile page](../../produkte/dorian-verhaltensmuster-erkennen-und-bewusster-handeln-59600.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $280.93 (Subscription) |
+| Price | $281.11 (Subscription) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $70.24 |
+| Earnings/sale* | $70.28 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Doriansway |
 | Listed since | 2026-09-23 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Personal Development |
+| Categories | Personal Development, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -86,14 +86,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Dorian – Verhaltensmuster erkennen und bewusster handeln? — Typ: Online coaching, Anbieter: Doriansway, gelistet seit 2026-09-23
-- Wie viel kostet es? — 280.933806 USD
+- Wie viel kostet es? — 281.109688 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Dorian – Verhaltensmuster erkennen und bewusster handeln Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/731286
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/731286/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Dorian%20%E2%80%93%20Verhaltensmuster%20erkennen%20und%20bewusster%20handeln
 
 ## 4. Editorial notes

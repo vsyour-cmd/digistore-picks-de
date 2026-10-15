@@ -4,34 +4,34 @@ digistore24_product_id: 353302
 title: "1% ELITE | Instagram - Verkaufen meistern"
 vendor: "moserda"
 product_type: "Member area and video courses"
-price: 35.88
+price: 35.9
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 49.8
+earnings_per_sale: 49.83
 cart_conversion_pct: 8
 cancel_rate_pct: 1.22
 categories: ["Profession & Job"]
 listed_since: "2020-10-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/32869/adminstore/"
+promo_link: "https://einprozentclub.com/elite2024/?aff=adminstore#aff=adminstore"
 sales_page: "https://einprozentclub.com/elite2024/"
 language: "de"
 ---
 # 1% ELITE | Instagram - Verkaufen meistern
 
 > Product ID `32869` · Digistore24 productId `353302` · [HTML profile page](../../produkte/1-elite-instagram-verkaufen-meistern-32869.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $35.88 (Single payment, Installment) |
+| Price | $35.90 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $49.80 |
+| Earnings/sale* | $49.83 |
 | Cart conversion* | 8% |
 | Cancel rate* | 1.22% |
 | Vendor | moserda |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/32869/adminstore/
+- **Promo link (affiliate):** https://einprozentclub.com/elite2024/?aff=adminstore#aff=adminstore
 - Sales page: https://einprozentclub.com/elite2024/
 - Vendor affiliate support: https://einprozentclub.com/Affiliate-Support/
 - Canonical redirect: https://www.digistore24.com/redir/353302/adminstore
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 1% ELITE | Instagram - Verkaufen meistern? — Typ: Member area and video courses, Anbieter: moserda, gelistet seit 2020-10-20
-- Wie viel kostet es? — 35.87982900000001 USD
+- Wie viel kostet es? — 35.902292 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 1% ELITE | Instagram - Verkaufen meistern Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/353302
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/353302/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=1%25%20ELITE%20%7C%20Instagram%20-%20Verkaufen%20meistern
 
 ## 4. Editorial notes

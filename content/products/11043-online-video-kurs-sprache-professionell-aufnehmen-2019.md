@@ -4,34 +4,34 @@ digistore24_product_id: 59355
 title: "Online-Video-Kurs \"Sprache professionell aufnehmen\" 2019"
 vendor: "isidde"
 product_type: "Downloads"
-price: 91.14
+price: 91.19
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 45.57
+earnings_per_sale: 45.6
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2015-09-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/redir/11043/adminstore/"
+promo_link: "https://www.isid.de/sprachaufnahme/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.isid.de/sprachaufnahme/"
 language: "de"
 ---
 # Online-Video-Kurs "Sprache professionell aufnehmen" 2019
 
 > Product ID `11043` · Digistore24 productId `59355` · [HTML profile page](../../produkte/online-video-kurs-sprache-professionell-aufnehmen-2019-11043.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $91.14 (Single payment) |
+| Price | $91.19 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $45.57 |
+| Earnings/sale* | $45.60 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | isidde |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/redir/11043/adminstore/
+- **Promo link (affiliate):** https://www.isid.de/sprachaufnahme/?aff=adminstore#aff=adminstore
 - Sales page: https://www.isid.de/sprachaufnahme/
 - Vendor affiliate support: https://www.isid.de/sprache-professionell-aufnehmen-affiliate-support-seite/
 - Canonical redirect: https://www.digistore24.com/redir/59355/adminstore
@@ -85,14 +85,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online-Video-Kurs "Sprache professionell aufnehmen" 2019? — Typ: Downloads, Anbieter: isidde, gelistet seit 2015-09-21
-- Wie viel kostet es? — 91.13633100000001 USD
+- Wie viel kostet es? — 91.19338800000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Online-Video-Kurs "Sprache professionell aufnehmen" 2019 Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/59355
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/59355/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Online-Video-Kurs%20%22Sprache%20professionell%20aufnehmen%22%202019
 
 ## 4. Editorial notes

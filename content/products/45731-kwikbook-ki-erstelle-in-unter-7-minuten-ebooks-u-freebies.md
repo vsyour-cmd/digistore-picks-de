@@ -4,40 +4,40 @@ digistore24_product_id: 523987
 title: "KwikBook \"KI\" Erstelle in unter 7 Minuten eBooks u. Freebies"
 vendor: "sattelitevendor"
 product_type: "Member area and video courses"
-price: 164.36
+price: 164.46
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 41.09
+earnings_per_sale: 41.12
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Email Marketing","Online Marketing & E-Business"]
+categories: ["Online Marketing & E-Business","Email Marketing"]
 listed_since: "2023-11-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/45731/adminstore/"
+promo_link: "https://www.kwik-book.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.kwik-book.com/"
 language: "de"
 ---
 # KwikBook "KI" Erstelle in unter 7 Minuten eBooks u. Freebies
 
 > Product ID `45731` · Digistore24 productId `523987` · [HTML profile page](../../produkte/kwikbook-ki-erstelle-in-unter-7-minuten-ebooks-u-freebies-45731.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $164.36 (Single payment) |
+| Price | $164.46 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $41.09 |
+| Earnings/sale* | $41.12 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | sattelitevendor |
 | Listed since | 2023-11-06 |
 | Auto-accept affiliates | yes |
-| Categories | Email Marketing, Online Marketing & E-Business |
+| Categories | Online Marketing & E-Business, Email Marketing |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/45731/adminstore/
+- **Promo link (affiliate):** https://www.kwik-book.com/?aff=adminstore#aff=adminstore
 - Sales page: https://www.kwik-book.com/
 - Vendor affiliate support: https://www.kwik-book.com/partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/523987/adminstore
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KwikBook "KI" Erstelle in unter 7 Minuten eBooks u. Freebies? — Typ: Member area and video courses, Anbieter: sattelitevendor, gelistet seit 2023-11-06
-- Wie viel kostet es? — 164.3607 USD
+- Wie viel kostet es? — 164.4636 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: KwikBook "KI" Erstelle in unter 7 Minuten eBooks u. Freebies Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/523987
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/523987/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=KwikBook%20%22KI%22%20Erstelle%20in%20unter%207%20Minuten%20eBooks%20u.%20Freebies
 
 ## 4. Editorial notes

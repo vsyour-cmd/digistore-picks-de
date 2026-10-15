@@ -4,16 +4,16 @@ digistore24_product_id: 412952
 title: "Q-Mailings (Erfolgreiches E-Mail-Marketing mit Quentn)"
 vendor: "Ararembe"
 product_type: "Member area and video courses"
-price: 71.23
+price: 71.28
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 13.56
+earnings_per_sale: 13.57
 cart_conversion_pct: 6
 cancel_rate_pct: 4.08
 categories: ["Email Marketing"]
 listed_since: "2021-10-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://onlinekurse-von-experten.com/qm-fe/?aff=adminstore#aff=adminstore"
 sales_page: "https://onlinekurse-von-experten.com/qm-fe/"
@@ -22,16 +22,16 @@ language: "de"
 # Q-Mailings (Erfolgreiches E-Mail-Marketing mit Quentn)
 
 > Product ID `38122` · Digistore24 productId `412952` · [HTML profile page](../../produkte/q-mailings-erfolgreiches-e-mail-marketing-mit-quentn-38122.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $71.23 (Single payment) |
+| Price | $71.28 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $13.56 |
+| Earnings/sale* | $13.57 |
 | Cart conversion* | 6% |
 | Cancel rate* | 4.08% |
 | Vendor | Ararembe |
@@ -85,14 +85,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Q-Mailings (Erfolgreiches E-Mail-Marketing mit Quentn)? — Typ: Member area and video courses, Anbieter: Ararembe, gelistet seit 2021-10-21
-- Wie viel kostet es? — 71.23415100000001 USD
+- Wie viel kostet es? — 71.27874800000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Q-Mailings (Erfolgreiches E-Mail-Marketing mit Quentn) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/412952
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/412952/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Q-Mailings%20(Erfolgreiches%20E-Mail-Marketing%20mit%20Quentn)
 
 ## 4. Editorial notes

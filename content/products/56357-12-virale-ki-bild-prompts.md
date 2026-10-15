@@ -4,32 +4,32 @@ digistore24_product_id: 687367
 title: "12 virale KI-Bild-Prompts"
 vendor: "nadine_business__reichweite"
 product_type: "E-books"
-price: 8.36
+price: 8.37
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 0.84
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Fun & Games","Photography & Film"]
+categories: ["Photography & Film","Fun & Games"]
 listed_since: "2026-04-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/56357/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/687367?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/687367"
 language: "de"
 ---
 # 12 virale KI-Bild-Prompts
 
 > Product ID `56357` · Digistore24 productId `687367` · [HTML profile page](../../produkte/12-virale-ki-bild-prompts-56357.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $8.36 (Single payment) |
+| Price | $8.37 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $0.84 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | nadine_business__reichweite |
 | Listed since | 2026-04-24 |
 | Auto-accept affiliates | yes |
-| Categories | Fun & Games, Photography & Film |
+| Categories | Photography & Film, Fun & Games |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56357/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/687367?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/687367
 - Canonical redirect: https://www.digistore24.com/redir/687367/adminstore
 
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 12 virale KI-Bild-Prompts? — Typ: E-books, Anbieter: nadine_business__reichweite, gelistet seit 2026-04-24
-- Wie viel kostet es? — 8.363388 USD
+- Wie viel kostet es? — 8.368624 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 12 virale KI-Bild-Prompts Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/687367
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/687367/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=12%20virale%20KI-Bild-Prompts
 
 ## 4. Editorial notes

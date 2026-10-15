@@ -10,10 +10,10 @@ affiliate_commission_pct: 50
 earnings_per_sale: 6
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Computer & Internet","Software"]
+categories: ["Software","Computer & Internet"]
 listed_since: "2026-09-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://hunterdiskcleaner.com/de-de/pro.html?aff=adminstore#aff=adminstore"
 sales_page: "https://hunterdiskcleaner.com/de-de/pro.html"
@@ -22,7 +22,7 @@ language: "de"
 # Hunter Disk Cleaner Pro Lizenzschlüssel
 
 > Product ID `59032` · Digistore24 productId `728123` · [HTML profile page](../../produkte/hunter-disk-cleaner-pro-lizenzschl-ssel-59032.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | workflowtech |
 | Listed since | 2026-09-08 |
 | Auto-accept affiliates | yes |
-| Categories | Computer & Internet, Software |
+| Categories | Software, Computer & Internet |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -80,7 +80,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Hunter Disk Cleaner Pro Lizenzschlüssel Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/728123
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/728123/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Hunter%20Disk%20Cleaner%20Pro%20Lizenzschl%C3%BCssel
 
 ## 4. Editorial notes

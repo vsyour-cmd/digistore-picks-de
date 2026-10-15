@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2023-09-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://antonia-conzett.coachy.net/lp/spazieren-das-reinste-erlebnis?aff=adminstore#aff=adminstore"
 sales_page: "https://antonia-conzett.coachy.net/lp/spazieren-das-reinste-erlebnis"
@@ -22,7 +22,7 @@ language: "de"
 # Online Videokurs
 
 > Product ID `45526` · Digistore24 productId `517496` · [HTML profile page](../../produkte/online-videokurs-45526.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -86,7 +86,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Online Videokurs Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/517496
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/517496/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Online%20Videokurs
 
 ## 4. Editorial notes

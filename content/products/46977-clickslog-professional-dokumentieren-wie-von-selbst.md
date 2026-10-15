@@ -4,34 +4,34 @@ digistore24_product_id: 533821
 title: "ClicksLog Professional - Dokumentieren wie von selbst"
 vendor: "Cridal"
 product_type: "Software"
-price: 313.07
+price: 313.26
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 46.96
+earnings_per_sale: 46.99
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2024-01-11"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/46977/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/533821?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/533821"
 language: "de"
 ---
 # ClicksLog Professional - Dokumentieren wie von selbst
 
 > Product ID `46977` · Digistore24 productId `533821` · [HTML profile page](../../produkte/clickslog-professional-dokumentieren-wie-von-selbst-46977.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $313.07 (Subscription) |
+| Price | $313.26 (Subscription) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $46.96 |
+| Earnings/sale* | $46.99 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Cridal |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/46977/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/533821?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/533821
 - Canonical redirect: https://www.digistore24.com/redir/533821/adminstore
 
@@ -83,14 +83,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist ClicksLog Professional - Dokumentieren wie von selbst? — Typ: Software, Anbieter: Cridal, gelistet seit 2024-01-11
-- Wie viel kostet es? — 313.06800000000004 USD
+- Wie viel kostet es? — 313.264 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: ClicksLog Professional - Dokumentieren wie von selbst Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/533821
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/533821/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=ClicksLog%20Professional%20-%20Dokumentieren%20wie%20von%20selbst
 
 ## 4. Editorial notes

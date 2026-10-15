@@ -4,40 +4,40 @@ digistore24_product_id: 734107
 title: "50 Rezepte - antientzündlich und hormonfreundlich"
 vendor: "natuerlich-hormonisch"
 product_type: "E-books"
-price: 20.89
+price: 20.9
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 10.44
+earnings_per_sale: 10.45
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Food & Drink","Health & Fitness"]
+categories: ["Health & Fitness","Food & Drink"]
 listed_since: "2026-09-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
-promo_link: "https://www.digistore24.com/redir/59613/adminstore/"
+promo_link: "https://www.natuerlich-hormonisch.de/digitales-rezeptbuch-digistore?aff=adminstore#aff=adminstore"
 sales_page: "https://www.natuerlich-hormonisch.de/digitales-rezeptbuch-digistore"
 language: "de"
 ---
 # 50 Rezepte - antientzündlich und hormonfreundlich
 
 > Product ID `59613` · Digistore24 productId `734107` · [HTML profile page](../../produkte/50-rezepte-antientz-ndlich-und-hormonfreundlich-59613.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.89 (Single payment) |
+| Price | $20.90 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $10.44 |
+| Earnings/sale* | $10.45 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | natuerlich-hormonisch |
 | Listed since | 2026-09-23 |
 | Auto-accept affiliates | yes |
-| Categories | Food & Drink, Health & Fitness |
+| Categories | Health & Fitness, Food & Drink |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59613/adminstore/
+- **Promo link (affiliate):** https://www.natuerlich-hormonisch.de/digitales-rezeptbuch-digistore?aff=adminstore#aff=adminstore
 - Sales page: https://www.natuerlich-hormonisch.de/digitales-rezeptbuch-digistore
 - Vendor affiliate support: https://www.natuerlich-hormonisch.de/affiliate-digistore-rezeptbuch
 - Canonical redirect: https://www.digistore24.com/redir/734107/adminstore
@@ -62,14 +62,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 50 Rezepte - antientzündlich und hormonfreundlich? — Typ: E-books, Anbieter: natuerlich-hormonisch, gelistet seit 2026-09-23
-- Wie viel kostet es? — 20.886108 USD
+- Wie viel kostet es? — 20.899184 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 50 Rezepte - antientzündlich und hormonfreundlich Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/734107
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/734107/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=50%20Rezepte%20-%20antientz%C3%BCndlich%20und%20hormonfreundlich
 
 ## 4. Editorial notes

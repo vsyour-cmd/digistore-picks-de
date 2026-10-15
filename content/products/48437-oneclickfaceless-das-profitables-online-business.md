@@ -4,34 +4,34 @@ digistore24_product_id: 547368
 title: "OneClickFaceless - das profitables Online-Business"
 vendor: "dooplix"
 product_type: "Member area and video courses"
-price: 2232.85
+price: 2234.24
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 558.21
+earnings_per_sale: 558.56
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Social Media","Marketing Services"]
 listed_since: "2024-04-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
-promo_link: "https://www.digistore24.com/redir/48437/adminstore/"
+promo_link: "https://www.daswebinar.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.daswebinar.com/"
 language: "de"
 ---
 # OneClickFaceless - das profitables Online-Business
 
 > Product ID `48437` · Digistore24 productId `547368` · [HTML profile page](../../produkte/oneclickfaceless-das-profitables-online-business-48437.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin (browser-rendered)**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $2232.85 (Single payment, Installment) |
+| Price | $2234.24 (Single payment, Installment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $558.21 |
+| Earnings/sale* | $558.56 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | dooplix |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/48437/adminstore/
+- **Promo link (affiliate):** https://www.daswebinar.com/?aff=adminstore#aff=adminstore
 - Sales page: https://www.daswebinar.com/
 - Canonical redirect: https://www.digistore24.com/redir/547368/adminstore
 
@@ -75,14 +75,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist OneClickFaceless - das profitables Online-Business? — Typ: Member area and video courses, Anbieter: dooplix, gelistet seit 2024-04-09
-- Wie viel kostet es? — 2232.8457000000003 USD
+- Wie viel kostet es? — 2234.2436000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: OneClickFaceless - das profitables Online-Business Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/547368
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/547368/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=OneClickFaceless%20-%20das%20profitables%20Online-Business
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 676802
 title: "PRIXUS EASY5.5 – Betriebskostenabrechnung für Vermieter | 30% Provision"
 vendor: "PRIXUS-UG"
 product_type: "Software"
-price: 93.01
+price: 93.07
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 27.91
+earnings_per_sale: 27.93
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software","Real Estate"]
 listed_since: "2026-03-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/676802?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/676802"
@@ -22,16 +22,16 @@ language: "de"
 # PRIXUS EASY5.5 – Betriebskostenabrechnung für Vermieter | 30% Provision
 
 > Product ID `55968` · Digistore24 productId `676802` · [HTML profile page](../../produkte/prixus-easy5-5-betriebskostenabrechnung-f-r-vermieter-30-provision-55968.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $93.01 (Single payment) |
+| Price | $93.07 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $27.91 |
+| Earnings/sale* | $27.93 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | PRIXUS-UG |
@@ -87,14 +87,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist PRIXUS EASY5.5 – Betriebskostenabrechnung für Vermieter | 30% Provision? — Typ: Software, Anbieter: PRIXUS-UG, gelistet seit 2026-03-16
-- Wie viel kostet es? — 93.014739 USD
+- Wie viel kostet es? — 93.072972 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: PRIXUS EASY5.5 – Betriebskostenabrechnung für Vermieter | 30% Provision Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/676802
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/676802/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=PRIXUS%20EASY5.5%20%E2%80%93%20Betriebskostenabrechnung%20f%C3%BCr%20Vermieter%20%7C%2030%25%20Provision
 
 ## 4. Editorial notes

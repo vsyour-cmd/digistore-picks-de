@@ -4,32 +4,32 @@ digistore24_product_id: 647379
 title: "KI Praxisleitfaden für moderne Ausbildung: Das digitale PDF-"
 vendor: "Unternehmensberatung_Springer"
 product_type: "E-books"
-price: 15.68
+price: 15.69
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 7.84
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Profession & Job"]
+categories: ["Profession & Job","Education"]
 listed_since: "2025-11-10"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/54649/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/647379?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/647379"
 language: "de"
 ---
 # KI Praxisleitfaden für moderne Ausbildung: Das digitale PDF-
 
 > Product ID `54649` · Digistore24 productId `647379` · [HTML profile page](../../produkte/ki-praxisleitfaden-f-r-moderne-ausbildung-das-digitale-pdf-54649.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $15.68 (Single payment) |
+| Price | $15.69 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $7.84 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | Unternehmensberatung_Springer |
 | Listed since | 2025-11-10 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Profession & Job |
+| Categories | Profession & Job, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/54649/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/647379?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/647379
 - Canonical redirect: https://www.digistore24.com/redir/647379/adminstore
 
@@ -73,14 +73,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI Praxisleitfaden für moderne Ausbildung: Das digitale PDF-? — Typ: E-books, Anbieter: Unternehmensberatung_Springer, gelistet seit 2025-11-10
-- Wie viel kostet es? — 15.675762 USD
+- Wie viel kostet es? — 15.685576 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: KI Praxisleitfaden für moderne Ausbildung: Das digitale PDF- Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/647379
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/647379/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=KI%20Praxisleitfaden%20f%C3%BCr%20moderne%20Ausbildung%3A%20Das%20digitale%20PDF-
 
 ## 4. Editorial notes

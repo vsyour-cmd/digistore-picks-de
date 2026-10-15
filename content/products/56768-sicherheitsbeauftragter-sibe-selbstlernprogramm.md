@@ -4,16 +4,16 @@ digistore24_product_id: 697156
 title: "Sicherheitsbeauftragter (SiBe) – Selbstlernprogramm"
 vendor: "PERSOFIT"
 product_type: "Remote service provided electronically"
-price: 110.69
+price: 110.76
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 33.21
+earnings_per_sale: 33.23
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Services","Office Organization"]
 listed_since: "2026-06-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/697156?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/697156"
@@ -22,16 +22,16 @@ language: "de"
 # Sicherheitsbeauftragter (SiBe) – Selbstlernprogramm
 
 > Product ID `56768` · Digistore24 productId `697156` · [HTML profile page](../../produkte/sicherheitsbeauftragter-sibe-selbstlernprogramm-56768.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $110.69 (Single payment) |
+| Price | $110.76 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $33.21 |
+| Earnings/sale* | $33.23 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | PERSOFIT |
@@ -91,14 +91,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Sicherheitsbeauftragter (SiBe) – Selbstlernprogramm? — Typ: Remote service provided electronically, Anbieter: PERSOFIT, gelistet seit 2026-06-01
-- Wie viel kostet es? — 110.6919 USD
+- Wie viel kostet es? — 110.7612 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Sicherheitsbeauftragter (SiBe) – Selbstlernprogramm Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/697156
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/697156/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Sicherheitsbeauftragter%20(SiBe)%20%E2%80%93%20Selbstlernprogramm
 
 ## 4. Editorial notes

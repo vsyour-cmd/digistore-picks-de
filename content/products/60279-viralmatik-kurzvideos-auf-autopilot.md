@@ -4,40 +4,40 @@ digistore24_product_id: 730765
 title: "Viralmatik – Kurzvideos auf Autopilot"
 vendor: "sattelitevendor"
 product_type: "Member area and video courses"
-price: 186.98
+price: 187.1
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 46.75
+earnings_per_sale: 46.78
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Online Marketing & E-Business","Social Media","Software"]
+categories: ["Software","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-10-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/60279/adminstore/"
+promo_link: "https://viralmatik.com?aff=adminstore#aff=adminstore"
 sales_page: "https://viralmatik.com"
 language: "de"
 ---
 # Viralmatik – Kurzvideos auf Autopilot
 
 > Product ID `60279` · Digistore24 productId `730765` · [HTML profile page](../../produkte/viralmatik-kurzvideos-auf-autopilot-60279.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $186.98 (Subscription) |
+| Price | $187.10 (Subscription) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $46.75 |
+| Earnings/sale* | $46.78 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | sattelitevendor |
 | Listed since | 2026-10-07 |
 | Auto-accept affiliates | yes |
-| Categories | Online Marketing & E-Business, Social Media, Software |
+| Categories | Software, Online Marketing & E-Business, Social Media |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/60279/adminstore/
+- **Promo link (affiliate):** https://viralmatik.com?aff=adminstore#aff=adminstore
 - Sales page: https://viralmatik.com
 - Vendor affiliate support: https://viralmatik.com/partnerprogramm
 - Canonical redirect: https://www.digistore24.com/redir/730765/adminstore
@@ -93,14 +93,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Viralmatik – Kurzvideos auf Autopilot? — Typ: Member area and video courses, Anbieter: sattelitevendor, gelistet seit 2026-10-07
-- Wie viel kostet es? — 186.979863 USD
+- Wie viel kostet es? — 187.096924 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Viralmatik – Kurzvideos auf Autopilot Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/730765
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/730765/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Viralmatik%20%E2%80%93%20Kurzvideos%20auf%20Autopilot
 
 ## 4. Editorial notes

@@ -4,34 +4,34 @@ digistore24_product_id: 741791
 title: "Nichtraucher – dein Weg mit Online-Hypnose | 35 % Provision"
 vendor: "linalind1"
 product_type: "Downloads"
-price: 158.79
+price: 158.89
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 47.64
+earnings_per_sale: 47.67
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Services"]
 listed_since: "2026-10-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/60383/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/741791?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/741791"
 language: "de"
 ---
 # Nichtraucher – dein Weg mit Online-Hypnose | 35 % Provision
 
 > Product ID `60383` · Digistore24 productId `741791` · [HTML profile page](../../produkte/nichtraucher-dein-weg-mit-online-hypnose-35-provision-60383.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $158.79 (Single payment) |
+| Price | $158.89 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $47.64 |
+| Earnings/sale* | $47.67 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | linalind1 |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/60383/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/741791?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/741791
 - Canonical redirect: https://www.digistore24.com/redir/741791/adminstore
 
@@ -82,14 +82,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Nichtraucher – dein Weg mit Online-Hypnose | 35 % Provision? — Typ: Downloads, Anbieter: linalind1, gelistet seit 2026-10-07
-- Wie viel kostet es? — 158.79256200000003 USD
+- Wie viel kostet es? — 158.891976 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Nichtraucher – dein Weg mit Online-Hypnose | 35 % Provision Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/741791
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/741791/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Nichtraucher%20%E2%80%93%20dein%20Weg%20mit%20Online-Hypnose%20%7C%2035%20%25%20Provision
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 260422
 title: "Die Befreiungs-Energie Gnade"
 vendor: "Musik-Apotheke"
 product_type: "Downloads"
-price: 42.29
+price: 42.31
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 12.69
+earnings_per_sale: 12.7
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2019-02-14"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.compose-media.de/die-befreiungsenergie-gnade-musik-fuer-die-seele/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.compose-media.de/die-befreiungsenergie-gnade-musik-fuer-die-seele/"
@@ -22,16 +22,16 @@ language: "de"
 # Die Befreiungs-Energie Gnade
 
 > Product ID `28106` · Digistore24 productId `260422` · [HTML profile page](../../produkte/die-befreiungs-energie-gnade-28106.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $42.29 (Single payment) |
+| Price | $42.31 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $12.69 |
+| Earnings/sale* | $12.70 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Musik-Apotheke |
@@ -70,14 +70,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die Befreiungs-Energie Gnade? — Typ: Downloads, Anbieter: Musik-Apotheke, gelistet seit 2019-02-14
-- Wie viel kostet es? — 42.286542000000004 USD
+- Wie viel kostet es? — 42.313016 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Die Befreiungs-Energie Gnade Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/260422
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/260422/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Die%20Befreiungs-Energie%20Gnade
 
 ## 4. Editorial notes

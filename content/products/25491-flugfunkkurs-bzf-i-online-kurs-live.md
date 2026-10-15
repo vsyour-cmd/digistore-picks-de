@@ -4,7 +4,7 @@ digistore24_product_id: 230707
 title: "Flugfunkkurs BZF I Online-Kurs (Live)"
 vendor: "Fluglehrer"
 product_type: "Online coaching"
-price: 198.82
+price: 198.95
 currency: "USD"
 affiliate_commission_pct: 0
 earnings_per_sale: 0.34
@@ -12,24 +12,24 @@ cart_conversion_pct: 21
 cancel_rate_pct: 1.55
 categories: ["Education"]
 listed_since: "2018-06-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/25491/adminstore/"
+promo_link: "https://fluglehrerteam.com/de/onlinekurse/online-flugfunkkurs-bzf-i-de-en?aff=adminstore#aff=adminstore"
 sales_page: "https://fluglehrerteam.com/de/onlinekurse/online-flugfunkkurs-bzf-i-de-en"
 language: "de"
 ---
 # Flugfunkkurs BZF I Online-Kurs (Live)
 
 > Product ID `25491` · Digistore24 productId `230707` · [HTML profile page](../../produkte/flugfunkkurs-bzf-i-online-kurs-live-25491.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $198.82 (Single payment) |
+| Price | $198.95 (Single payment) |
 | Affiliate commission | 0% |
 | Earnings/sale* | $0.34 |
 | Cart conversion* | 21% |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/25491/adminstore/
+- **Promo link (affiliate):** https://fluglehrerteam.com/de/onlinekurse/online-flugfunkkurs-bzf-i-de-en?aff=adminstore#aff=adminstore
 - Sales page: https://fluglehrerteam.com/de/onlinekurse/online-flugfunkkurs-bzf-i-de-en
 - Canonical redirect: https://www.digistore24.com/redir/230707/adminstore
 
@@ -72,14 +72,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Flugfunkkurs BZF I Online-Kurs (Live)? — Typ: Online coaching, Anbieter: Fluglehrer, gelistet seit 2018-06-27
-- Wie viel kostet es? — 198.82054200000002 USD
+- Wie viel kostet es? — 198.94501599999998 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Flugfunkkurs BZF I Online-Kurs (Live) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/230707
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/230707/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Flugfunkkurs%20BZF%20I%20Online-Kurs%20(Live)
 
 ## 4. Editorial notes

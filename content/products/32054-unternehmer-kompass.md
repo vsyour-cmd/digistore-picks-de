@@ -4,16 +4,16 @@ digistore24_product_id: 303498
 title: "Unternehmer Kompass"
 vendor: "FischerAcademy"
 product_type: "Member area and video courses"
-price: 280.93
+price: 281.11
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 140.47
+earnings_per_sale: 140.55
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2020-01-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://mike-fischer-unternehmer-kompass.coachy.net/lp/unternehmer-kompass?aff=adminstore#aff=adminstore"
 sales_page: "https://mike-fischer-unternehmer-kompass.coachy.net/lp/unternehmer-kompass"
@@ -22,16 +22,16 @@ language: "de"
 # Unternehmer Kompass
 
 > Product ID `32054` · Digistore24 productId `303498` · [HTML profile page](../../produkte/unternehmer-kompass-32054.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $280.93 (Single payment, Installment) |
+| Price | $281.11 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $140.47 |
+| Earnings/sale* | $140.55 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | FischerAcademy |
@@ -85,14 +85,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Unternehmer Kompass? — Typ: Member area and video courses, Anbieter: FischerAcademy, gelistet seit 2020-01-16
-- Wie viel kostet es? — 280.933806 USD
+- Wie viel kostet es? — 281.109688 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Unternehmer Kompass Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/303498
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/303498/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Unternehmer%20Kompass
 
 ## 4. Editorial notes

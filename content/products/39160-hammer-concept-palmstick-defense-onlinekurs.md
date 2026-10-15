@@ -4,16 +4,16 @@ digistore24_product_id: 391973
 title: "Hammer Concept Palmstick Defense Onlinekurs"
 vendor: "fma24_com"
 product_type: "Member area and video courses"
-price: 95.83
+price: 95.89
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 47.92
+earnings_per_sale: 47.95
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Sport","Survival"]
 listed_since: "2021-05-28"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.fma24.com/onlinekurse/palmstick-defense/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.fma24.com/onlinekurse/palmstick-defense/"
@@ -22,16 +22,16 @@ language: "de"
 # Hammer Concept Palmstick Defense Onlinekurs
 
 > Product ID `39160` · Digistore24 productId `391973` · [HTML profile page](../../produkte/hammer-concept-palmstick-defense-onlinekurs-39160.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $95.83 (Single payment, Installment) |
+| Price | $95.89 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $47.92 |
+| Earnings/sale* | $47.95 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | fma24_com |
@@ -86,14 +86,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Hammer Concept Palmstick Defense Onlinekurs? — Typ: Member area and video courses, Anbieter: fma24_com, gelistet seit 2021-05-28
-- Wie viel kostet es? — 95.832351 USD
+- Wie viel kostet es? — 95.892348 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Hammer Concept Palmstick Defense Onlinekurs Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/391973
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/391973/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Hammer%20Concept%20Palmstick%20Defense%20Onlinekurs
 
 ## 4. Editorial notes

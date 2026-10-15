@@ -4,7 +4,7 @@ digistore24_product_id: 53165
 title: "Lehr DVD Pferdetraining / Problempferde / Horsemanship"
 vendor: "Linnon"
 product_type: "Deliverable"
-price: 38.47
+price: 38.5
 currency: "USD"
 affiliate_commission_pct: 25
 earnings_per_sale: 9.62
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2015-06-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.martinkreuzer.com/produkte/lehr-dvds/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.martinkreuzer.com/produkte/lehr-dvds/"
@@ -22,14 +22,14 @@ language: "de"
 # Lehr DVD Pferdetraining / Problempferde / Horsemanship
 
 > Product ID `7997` · Digistore24 productId `53165` · [HTML profile page](../../produkte/lehr-dvd-pferdetraining-problempferde-horsemanship-7997.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Deliverable |
-| Price | $38.47 (Single payment) |
+| Price | $38.50 (Single payment) |
 | Affiliate commission | 25% |
 | Earnings/sale* | $9.62 |
 | Cart conversion* | — |
@@ -81,14 +81,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Lehr DVD Pferdetraining / Problempferde / Horsemanship? — Typ: Deliverable, Anbieter: Linnon, gelistet seit 2015-06-29
-- Wie viel kostet es? — 38.473821 USD
+- Wie viel kostet es? — 38.497907999999995 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Lehr DVD Pferdetraining / Problempferde / Horsemanship Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/53165
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/53165/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Lehr%20DVD%20Pferdetraining%20%2F%20Problempferde%20%2F%20Horsemanship
 
 ## 4. Editorial notes

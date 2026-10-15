@@ -4,16 +4,16 @@ digistore24_product_id: 682173
 title: "„Echte Energie. Echter Genuss.\" – 50 % Provision auf einen E"
 vendor: "ak2210"
 product_type: "E-books"
-price: 10.34
+price: 10.35
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 5.18
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Food & Drink","Health & Fitness"]
+categories: ["Health & Fitness","Food & Drink"]
 listed_since: "2026-06-19"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/682173?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/682173"
@@ -22,14 +22,14 @@ language: "de"
 # „Echte Energie. Echter Genuss." – 50 % Provision auf einen E
 
 > Product ID `57074` · Digistore24 productId `682173` · [HTML profile page](../../produkte/echte-energie-echter-genuss-50-provision-auf-einen-e-57074.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.34 (Single payment) |
+| Price | $10.35 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $5.18 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | ak2210 |
 | Listed since | 2026-06-19 |
 | Auto-accept affiliates | yes |
-| Categories | Food & Drink, Health & Fitness |
+| Categories | Health & Fitness, Food & Drink |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist „Echte Energie. Echter Genuss." – 50 % Provision auf einen E? — Typ: E-books, Anbieter: ak2210, gelistet seit 2026-06-19
-- Wie viel kostet es? — 10.342425 USD
+- Wie viel kostet es? — 10.3489 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: „Echte Energie. Echter Genuss." – 50 % Provision auf einen E Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/682173
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/682173/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=%E2%80%9EEchte%20Energie.%20Echter%20Genuss.%22%20%E2%80%93%2050%20%25%20Provision%20auf%20einen%20E
 
 ## 4. Editorial notes

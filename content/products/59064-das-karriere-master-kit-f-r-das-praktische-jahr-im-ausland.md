@@ -4,16 +4,16 @@ digistore24_product_id: 727265
 title: "Das Karriere Master-Kit für das praktische Jahr im Ausland"
 vendor: "VeloxForge"
 product_type: "E-books"
-price: 82.55
+price: 82.6
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 41.28
+earnings_per_sale: 41.31
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2026-09-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://auranit.de/praktisches-jahr-im-ausland/?aff=adminstore#aff=adminstore"
 sales_page: "https://auranit.de/praktisches-jahr-im-ausland/"
@@ -22,16 +22,16 @@ language: "de"
 # Das Karriere Master-Kit für das praktische Jahr im Ausland
 
 > Product ID `59064` · Digistore24 productId `727265` · [HTML profile page](../../produkte/das-karriere-master-kit-f-r-das-praktische-jahr-im-ausland-59064.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $82.55 (Single payment) |
+| Price | $82.60 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $41.28 |
+| Earnings/sale* | $41.31 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | VeloxForge |
@@ -80,14 +80,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Karriere Master-Kit für das praktische Jahr im Ausland? — Typ: E-books, Anbieter: VeloxForge, gelistet seit 2026-09-09
-- Wie viel kostet es? — 82.549323 USD
+- Wie viel kostet es? — 82.601004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Das Karriere Master-Kit für das praktische Jahr im Ausland Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/727265
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/727265/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Das%20Karriere%20Master-Kit%20f%C3%BCr%20das%20praktische%20Jahr%20im%20Ausland
 
 ## 4. Editorial notes

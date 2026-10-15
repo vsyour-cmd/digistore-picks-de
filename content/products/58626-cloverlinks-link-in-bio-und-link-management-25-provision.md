@@ -4,16 +4,16 @@ digistore24_product_id: 722509
 title: "CloverLinks – Link-in-Bio und Link-Management, 25 % Provision"
 vendor: "hihdigital"
 product_type: "Software"
-price: 100.63
+price: 100.69
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 25.16
+earnings_per_sale: 25.17
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: []
+categories: ["Software","Computer & Internet","Social Media"]
 listed_since: "2026-08-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://cloverlinks.com/order.html?aff=adminstore#aff=adminstore"
 sales_page: "https://cloverlinks.com/order.html"
@@ -22,22 +22,22 @@ language: "de"
 # CloverLinks – Link-in-Bio und Link-Management, 25 % Provision
 
 > Product ID `58626` · Digistore24 productId `722509` · [HTML profile page](../../produkte/cloverlinks-link-in-bio-und-link-management-25-provision-58626.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $100.63 (Subscription) |
+| Price | $100.69 (Subscription) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $25.16 |
+| Earnings/sale* | $25.17 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | hihdigital |
 | Listed since | 2026-08-24 |
 | Auto-accept affiliates | yes |
-| Categories | Uncategorized |
+| Categories | Software, Computer & Internet, Social Media |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -74,14 +74,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist CloverLinks – Link-in-Bio und Link-Management, 25 % Provision? — Typ: Software, Anbieter: hihdigital, gelistet seit 2026-08-24
-- Wie viel kostet es? — 100.629 USD
+- Wie viel kostet es? — 100.69200000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: CloverLinks – Link-in-Bio und Link-Management, 25 % Provision Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/722509
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/722509/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=CloverLinks%20%E2%80%93%20Link-in-Bio%20und%20Link-Management%2C%2025%20%25%20Provision
 
 ## 4. Editorial notes

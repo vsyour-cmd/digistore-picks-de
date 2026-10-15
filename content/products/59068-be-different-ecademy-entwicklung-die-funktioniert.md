@@ -4,16 +4,16 @@ digistore24_product_id: 645039
 title: "Be Different ecademy – Entwicklung, die funktioniert"
 vendor: "ecademy"
 product_type: "Member area and video courses"
-price: 507.37
+price: 507.69
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 101.48
+earnings_per_sale: 101.54
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Personal Development"]
+categories: ["Personal Development","Education"]
 listed_since: "2026-09-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://be-different-ecademy.com/member?aff=adminstore#aff=adminstore"
 sales_page: "https://be-different-ecademy.com/member"
@@ -22,22 +22,22 @@ language: "de"
 # Be Different ecademy – Entwicklung, die funktioniert
 
 > Product ID `59068` · Digistore24 productId `645039` · [HTML profile page](../../produkte/be-different-ecademy-entwicklung-die-funktioniert-59068.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $507.37 (Subscription) |
+| Price | $507.69 (Subscription) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $101.48 |
+| Earnings/sale* | $101.54 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ecademy |
 | Listed since | 2026-09-09 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Personal Development |
+| Categories | Personal Development, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -94,14 +94,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Be Different ecademy – Entwicklung, die funktioniert? — Typ: Member area and video courses, Anbieter: ecademy, gelistet seit 2026-09-09
-- Wie viel kostet es? — 507.371418 USD
+- Wie viel kostet es? — 507.689064 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Be Different ecademy – Entwicklung, die funktioniert Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/645039
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/645039/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Be%20Different%20ecademy%20%E2%80%93%20Entwicklung%2C%20die%20funktioniert
 
 ## 4. Editorial notes

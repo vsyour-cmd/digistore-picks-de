@@ -4,16 +4,16 @@ digistore24_product_id: 743068
 title: "Raus aus der Selbstsabotage – 5-Tage-Seminar per E-Mail mit KI-Begleiter"
 vendor: "Kyra-Coaching"
 product_type: "Downloads"
-price: 34.76
+price: 34.78
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 13.91
+earnings_per_sale: 13.92
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: []
+categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-10-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://kyra-lebensberatung.de/raus-aus-der-selbstsabotage?aff=adminstore#aff=adminstore"
 sales_page: "https://kyra-lebensberatung.de/raus-aus-der-selbstsabotage"
@@ -22,22 +22,22 @@ language: "de"
 # Raus aus der Selbstsabotage – 5-Tage-Seminar per E-Mail mit KI-Begleiter
 
 > Product ID `60440` · Digistore24 productId `743068` · [HTML profile page](../../produkte/raus-aus-der-selbstsabotage-5-tage-seminar-per-e-mail-mit-ki-begleiter-60440.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $34.76 (Single payment) |
+| Price | $34.78 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $13.91 |
+| Earnings/sale* | $13.92 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Kyra-Coaching |
 | Listed since | 2026-10-09 |
 | Auto-accept affiliates | no (approval required) |
-| Categories | Uncategorized |
+| Categories | Personal Development, Spiri­tua­lity & Esotericism |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -70,14 +70,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Raus aus der Selbstsabotage – 5-Tage-Seminar per E-Mail mit KI-Begleiter? — Typ: Downloads, Anbieter: Kyra-Coaching, gelistet seit 2026-10-09
-- Wie viel kostet es? — 34.761729 USD
+- Wie viel kostet es? — 34.783492 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Raus aus der Selbstsabotage – 5-Tage-Seminar per E-Mail mit KI-Begleiter Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/743068
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/743068/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Raus%20aus%20der%20Selbstsabotage%20%E2%80%93%205-Tage-Seminar%20per%20E-Mail%20mit%20KI-Begleiter
 
 ## 4. Editorial notes

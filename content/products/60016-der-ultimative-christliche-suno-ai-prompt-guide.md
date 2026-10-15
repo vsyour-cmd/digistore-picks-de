@@ -4,16 +4,16 @@ digistore24_product_id: 738557
 title: "Der ultimative christliche Suno AI Prompt Guide"
 vendor: "Daniyel-Ela"
 product_type: "E-books"
-price: 20.84
+price: 20.85
 currency: "USD"
 affiliate_commission_pct: 45
-earnings_per_sale: 9.38
+earnings_per_sale: 9.39
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dancing & Music"]
 listed_since: "2026-09-28"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/738557?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/738557"
@@ -22,16 +22,16 @@ language: "de"
 # Der ultimative christliche Suno AI Prompt Guide
 
 > Product ID `60016` · Digistore24 productId `738557` · [HTML profile page](../../produkte/der-ultimative-christliche-suno-ai-prompt-guide-60016.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.84 (Single payment) |
+| Price | $20.85 (Single payment) |
 | Affiliate commission | 45% |
-| Earnings/sale* | $9.38 |
+| Earnings/sale* | $9.39 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Daniyel-Ela |
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der ultimative christliche Suno AI Prompt Guide? — Typ: E-books, Anbieter: Daniyel-Ela, gelistet seit 2026-09-28
-- Wie viel kostet es? — 20.841384 USD
+- Wie viel kostet es? — 20.854432 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Der ultimative christliche Suno AI Prompt Guide Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/738557
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/738557/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%20ultimative%20christliche%20Suno%20AI%20Prompt%20Guide
 
 ## 4. Editorial notes

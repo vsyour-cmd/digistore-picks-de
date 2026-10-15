@@ -4,16 +4,16 @@ digistore24_product_id: 292330
 title: "UMBAUHELD UNI MITGLIEDERBEREICH"
 vendor: "Kamille69"
 product_type: "Member area and video courses"
-price: 157.65
+price: 157.75
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 78.83
+earnings_per_sale: 78.88
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft"]
 listed_since: "2019-10-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://page.funnelcockpit.com/d3RpNiXYshZro6Hk7?aff=adminstore#aff=adminstore"
 sales_page: "https://page.funnelcockpit.com/d3RpNiXYshZro6Hk7"
@@ -22,16 +22,16 @@ language: "de"
 # UMBAUHELD UNI MITGLIEDERBEREICH
 
 > Product ID `30318` · Digistore24 productId `292330` · [HTML profile page](../../produkte/umbauheld-uni-mitgliederbereich-30318.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $157.65 (Single payment, Installment) |
+| Price | $157.75 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $78.83 |
+| Earnings/sale* | $78.88 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Kamille69 |
@@ -66,14 +66,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist UMBAUHELD UNI MITGLIEDERBEREICH? — Typ: Member area and video courses, Anbieter: Kamille69, gelistet seit 2019-10-27
-- Wie viel kostet es? — 157.65210000000002 USD
+- Wie viel kostet es? — 157.7508 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: UMBAUHELD UNI MITGLIEDERBEREICH Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/292330
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/292330/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=UMBAUHELD%20UNI%20MITGLIEDERBEREICH
 
 ## 4. Editorial notes

@@ -10,10 +10,10 @@ affiliate_commission_pct: 50
 earnings_per_sale: 0
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Email Marketing","Online Marketing & E-Business"]
+categories: ["Online Marketing & E-Business","Education","Email Marketing"]
 listed_since: "2026-09-25"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://25minuten.carstenfeuerbach.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://25minuten.carstenfeuerbach.com/"
@@ -22,7 +22,7 @@ language: "de"
 # 25 Minuten – Wie Du Dein eigenes Hörbuch mit KI erstellst
 
 > Product ID `59692` · Digistore24 productId `727975` · [HTML profile page](../../produkte/25-minuten-wie-du-dein-eigenes-h-rbuch-mit-ki-erstellst-59692.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | carstenfeuerbach |
 | Listed since | 2026-09-25 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Email Marketing, Online Marketing & E-Business |
+| Categories | Online Marketing & E-Business, Education, Email Marketing |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -80,7 +80,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 25 Minuten – Wie Du Dein eigenes Hörbuch mit KI erstellst Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/727975
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/727975/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=25%20Minuten%20%E2%80%93%20Wie%20Du%20Dein%20eigenes%20H%C3%B6rbuch%20mit%20KI%20erstellst
 
 ## 4. Editorial notes

@@ -4,34 +4,34 @@ digistore24_product_id: 356056
 title: "Kreativer Malkurs für Kinder \"Bunte Tiere\""
 vendor: "kolibrischool"
 product_type: "Member area and video courses"
-price: 23.39
+price: 23.41
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 4.67
+earnings_per_sale: 4.68
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2020-11-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/37781/adminstore/"
+promo_link: "https://kolibri-school.de/kurse/tiere-malen-mit-kindern/?aff=adminstore#aff=adminstore"
 sales_page: "https://kolibri-school.de/kurse/tiere-malen-mit-kindern/"
 language: "de"
 ---
 # Kreativer Malkurs für Kinder "Bunte Tiere"
 
 > Product ID `37781` · Digistore24 productId `356056` · [HTML profile page](../../produkte/kreativer-malkurs-f-r-kinder-bunte-tiere-37781.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $23.39 (Single payment) |
+| Price | $23.41 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $4.67 |
+| Earnings/sale* | $4.68 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | kolibrischool |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/37781/adminstore/
+- **Promo link (affiliate):** https://kolibri-school.de/kurse/tiere-malen-mit-kindern/?aff=adminstore#aff=adminstore
 - Sales page: https://kolibri-school.de/kurse/tiere-malen-mit-kindern/
 - Canonical redirect: https://www.digistore24.com/redir/356056/adminstore
 
@@ -69,14 +69,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Kreativer Malkurs für Kinder "Bunte Tiere"? — Typ: Member area and video courses, Anbieter: kolibrischool, gelistet seit 2020-11-06
-- Wie viel kostet es? — 23.390652000000003 USD
+- Wie viel kostet es? — 23.405296000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Kreativer Malkurs für Kinder "Bunte Tiere" Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/356056
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/356056/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Kreativer%20Malkurs%20f%C3%BCr%20Kinder%20%22Bunte%20Tiere%22
 
 ## 4. Editorial notes

@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2026-05-12"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/56523/adminstore/"
+promo_link: "https://page.funnelcockpit.com/GS8iWqjRYzGA6DPeu?aff=adminstore#aff=adminstore"
 sales_page: "https://page.funnelcockpit.com/GS8iWqjRYzGA6DPeu"
 language: "de"
 ---
 # Amazon FBA Anfänger-Ebook
 
 > Product ID `56523` · Digistore24 productId `692005` · [HTML profile page](../../produkte/amazon-fba-anf-nger-ebook-56523.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56523/adminstore/
+- **Promo link (affiliate):** https://page.funnelcockpit.com/GS8iWqjRYzGA6DPeu?aff=adminstore#aff=adminstore
 - Sales page: https://page.funnelcockpit.com/GS8iWqjRYzGA6DPeu
 - Vendor affiliate support: https://page.funnelcockpit.com/4vj52wFP75RPFHMvq
 - Canonical redirect: https://www.digistore24.com/redir/692005/adminstore
@@ -66,7 +66,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Amazon FBA Anfänger-Ebook Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/692005
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/692005/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Amazon%20FBA%20Anf%C3%A4nger-Ebook
 
 ## 4. Editorial notes

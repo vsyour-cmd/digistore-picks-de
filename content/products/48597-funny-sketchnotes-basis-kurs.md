@@ -4,16 +4,16 @@ digistore24_product_id: 235281
 title: "Funny Sketchnotes Basis Kurs"
 vendor: "Abelmann"
 product_type: "Member area and video courses"
-price: 71.06
+price: 71.1
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 45.98
+earnings_per_sale: 46.01
 cart_conversion_pct: 1
 cancel_rate_pct: 1.7
-categories: ["Fun & Games","Hobby & Craft"]
+categories: ["Hobby & Craft","Fun & Games"]
 listed_since: "2018-08-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.simoneabelmann.com/basis-ebook-start-angebot/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.simoneabelmann.com/basis-ebook-start-angebot/"
@@ -22,22 +22,22 @@ language: "de"
 # Funny Sketchnotes Basis Kurs
 
 > Product ID `48597` · Digistore24 productId `235281` · [HTML profile page](../../produkte/funny-sketchnotes-basis-kurs-48597.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $71.06 (Single payment, Installment) |
+| Price | $71.10 (Single payment, Installment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $45.98 |
+| Earnings/sale* | $46.01 |
 | Cart conversion* | 1% |
 | Cancel rate* | 1.7% |
 | Vendor | Abelmann |
 | Listed since | 2018-08-01 |
 | Auto-accept affiliates | yes |
-| Categories | Fun & Games, Hobby & Craft |
+| Categories | Hobby & Craft, Fun & Games |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -90,14 +90,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Funny Sketchnotes Basis Kurs? — Typ: Member area and video courses, Anbieter: Abelmann, gelistet seit 2018-08-01
-- Wie viel kostet es? — 71.055255 USD
+- Wie viel kostet es? — 71.09974 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Funny Sketchnotes Basis Kurs Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/235281
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/235281/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Funny%20Sketchnotes%20Basis%20Kurs
 
 ## 4. Editorial notes

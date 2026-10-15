@@ -4,34 +4,34 @@ digistore24_product_id: 481172
 title: "Provi Hero"
 vendor: "seotech"
 product_type: "Member area and video courses"
-price: 261.86
+price: 262.02
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 12.04
+earnings_per_sale: 12.05
 cart_conversion_pct: 3
 cancel_rate_pct: 1.61
 categories: ["Online Marketing & E-Business"]
 listed_since: "2023-01-25"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/44117/adminstore/"
+promo_link: "https://www.provi-magnet.de/ph?aff=adminstore#aff=adminstore"
 sales_page: "https://www.provi-magnet.de/ph"
 language: "de"
 ---
 # Provi Hero
 
 > Product ID `44117` · Digistore24 productId `481172` · [HTML profile page](../../produkte/provi-hero-44117.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $261.86 (Single payment) |
+| Price | $262.02 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $12.04 |
+| Earnings/sale* | $12.05 |
 | Cart conversion* | 3% |
 | Cancel rate* | 1.61% |
 | Vendor | seotech |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/44117/adminstore/
+- **Promo link (affiliate):** https://www.provi-magnet.de/ph?aff=adminstore#aff=adminstore
 - Sales page: https://www.provi-magnet.de/ph
 - Vendor affiliate support: https://www.incomebutler.com/provi-hero-affiliate-supportseite/
 - Canonical redirect: https://www.digistore24.com/redir/481172/adminstore
@@ -59,14 +59,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Provi Hero? — Typ: Member area and video courses, Anbieter: seotech, gelistet seit 2023-01-25
-- Wie viel kostet es? — 261.85902 USD
+- Wie viel kostet es? — 262.02296 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Provi Hero Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/481172
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/481172/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Provi%20Hero
 
 ## 4. Editorial notes

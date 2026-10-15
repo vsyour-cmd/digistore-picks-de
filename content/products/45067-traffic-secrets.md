@@ -7,22 +7,22 @@ product_type: "E-books"
 price: 0
 currency: "USD"
 affiliate_commission_pct: 55
-earnings_per_sale: 8.16
+earnings_per_sale: 8.17
 cart_conversion_pct: 46
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2023-08-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/45067/adminstore/"
+promo_link: "https://page.funnelcockpit.com/zFrFLmFNGHvH2G64a?aff=adminstore#aff=adminstore"
 sales_page: "https://page.funnelcockpit.com/zFrFLmFNGHvH2G64a"
 language: "de"
 ---
 # Traffic Secrets
 
 > Product ID `45067` · Digistore24 productId `512445` · [HTML profile page](../../produkte/traffic-secrets-45067.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,7 @@ language: "de"
 | Product type | E-books |
 | Price | $0.00 (Single payment) |
 | Affiliate commission | 55% |
-| Earnings/sale* | $8.16 |
+| Earnings/sale* | $8.17 |
 | Cart conversion* | 46% |
 | Cancel rate* | 0% |
 | Vendor | kpsecrets |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/45067/adminstore/
+- **Promo link (affiliate):** https://page.funnelcockpit.com/zFrFLmFNGHvH2G64a?aff=adminstore#aff=adminstore
 - Sales page: https://page.funnelcockpit.com/zFrFLmFNGHvH2G64a
 - Canonical redirect: https://www.digistore24.com/redir/512445/adminstore
 
@@ -65,7 +65,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Traffic Secrets Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/512445
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/512445/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Traffic%20Secrets
 
 ## 4. Editorial notes

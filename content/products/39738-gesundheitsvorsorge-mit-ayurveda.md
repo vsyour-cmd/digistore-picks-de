@@ -4,16 +4,16 @@ digistore24_product_id: 364188
 title: "Gesundheitsvorsorge mit Ayurveda"
 vendor: "Ayurvedaschule"
 product_type: "Member area and video courses"
-price: 146.57
+price: 146.66
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 43.97
+earnings_per_sale: 44
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2020-12-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://schule-fuer-ayurveda.de/gesundheitsvorsorge-mit-ayurveda/?aff=adminstore#aff=adminstore"
 sales_page: "https://schule-fuer-ayurveda.de/gesundheitsvorsorge-mit-ayurveda/"
@@ -22,16 +22,16 @@ language: "de"
 # Gesundheitsvorsorge mit Ayurveda
 
 > Product ID `39738` · Digistore24 productId `364188` · [HTML profile page](../../produkte/gesundheitsvorsorge-mit-ayurveda-39738.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $146.57 (Single payment, Installment) |
+| Price | $146.66 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $43.97 |
+| Earnings/sale* | $44.00 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Ayurvedaschule |
@@ -87,14 +87,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Gesundheitsvorsorge mit Ayurveda? — Typ: Member area and video courses, Anbieter: Ayurvedaschule, gelistet seit 2020-12-22
-- Wie viel kostet es? — 146.571729 USD
+- Wie viel kostet es? — 146.66349200000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Gesundheitsvorsorge mit Ayurveda Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/364188
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/364188/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Gesundheitsvorsorge%20mit%20Ayurveda
 
 ## 4. Editorial notes

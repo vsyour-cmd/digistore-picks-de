@@ -10,10 +10,10 @@ affiliate_commission_pct: 50
 earnings_per_sale: 0
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Family & Children","Personal Development"]
+categories: ["Personal Development","Family & Children","Education"]
 listed_since: "2026-07-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/706605?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/706605"
@@ -22,7 +22,7 @@ language: "de"
 # Deutschland für kleine Entdecker – Mal-PDF (Kostenl
 
 > Product ID `57394` · Digistore24 productId `706605` · [HTML profile page](../../produkte/deutschland-f-r-kleine-entdecker-mal-pdf-kostenl-57394.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | manuelcosta |
 | Listed since | 2026-07-04 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Family & Children, Personal Development |
+| Categories | Personal Development, Family & Children, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -78,7 +78,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Deutschland für kleine Entdecker – Mal-PDF (Kostenl Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/706605
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/706605/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Deutschland%20f%C3%BCr%20kleine%20Entdecker%20%E2%80%93%20Mal-PDF%20(Kostenl
 
 ## 4. Editorial notes

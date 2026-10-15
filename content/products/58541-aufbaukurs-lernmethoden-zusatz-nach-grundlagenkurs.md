@@ -4,40 +4,40 @@ digistore24_product_id: 684871
 title: "Aufbaukurs Lernmethoden | Zusatz nach Grundlagenkurs"
 vendor: "danielamokros"
 product_type: "Online coaching"
-price: 168.18
+price: 168.29
 currency: "USD"
 affiliate_commission_pct: 9
-earnings_per_sale: 15.14
+earnings_per_sale: 15.15
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Dating, Relationships & Romance","Education","Personal Development"]
+categories: ["Personal Development","Dating, Relationships & Romance","Education"]
 listed_since: "2026-08-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/58541/adminstore/"
+promo_link: "https://www.digistore24.com/product/684871?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/684871"
 language: "de"
 ---
 # Aufbaukurs Lernmethoden | Zusatz nach Grundlagenkurs
 
 > Product ID `58541` · Digistore24 productId `684871` · [HTML profile page](../../produkte/aufbaukurs-lernmethoden-zusatz-nach-grundlagenkurs-58541.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $168.18 (Single payment) |
+| Price | $168.29 (Single payment) |
 | Affiliate commission | 9% |
-| Earnings/sale* | $15.14 |
+| Earnings/sale* | $15.15 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | danielamokros |
 | Listed since | 2026-08-23 |
 | Auto-accept affiliates | yes |
-| Categories | Dating, Relationships & Romance, Education, Personal Development |
+| Categories | Personal Development, Dating, Relationships & Romance, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58541/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/684871?aff=adminstore
 - Sales page: https://www.digistore24.com/product/684871
 - Canonical redirect: https://www.digistore24.com/redir/684871/adminstore
 
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Aufbaukurs Lernmethoden | Zusatz nach Grundlagenkurs? — Typ: Online coaching, Anbieter: danielamokros, gelistet seit 2026-08-23
-- Wie viel kostet es? — 168.184602 USD
+- Wie viel kostet es? — 168.289896 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Aufbaukurs Lernmethoden | Zusatz nach Grundlagenkurs Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/684871
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/684871/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Aufbaukurs%20Lernmethoden%20%7C%20Zusatz%20nach%20Grundlagenkurs
 
 ## 4. Editorial notes

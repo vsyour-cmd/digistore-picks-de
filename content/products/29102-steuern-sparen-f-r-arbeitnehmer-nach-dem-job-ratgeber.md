@@ -4,16 +4,16 @@ digistore24_product_id: 274687
 title: "Steuern sparen für Arbeitnehmer - nach dem Job (Ratgeber)"
 vendor: "TEESchulze"
 product_type: "E-books"
-price: 72.11
+price: 72.15
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 36.06
+earnings_per_sale: 36.08
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Law & Justice","Profession & Job"]
 listed_since: "2019-06-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.abfindunginfo.de/abfindungsrechner-mein-persoenliches-dankeschoen.html/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.abfindunginfo.de/abfindungsrechner-mein-persoenliches-dankeschoen.html/"
@@ -22,16 +22,16 @@ language: "de"
 # Steuern sparen für Arbeitnehmer - nach dem Job (Ratgeber)
 
 > Product ID `29102` · Digistore24 productId `274687` · [HTML profile page](../../produkte/steuern-sparen-f-r-arbeitnehmer-nach-dem-job-ratgeber-29102.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $72.11 (Single payment) |
+| Price | $72.15 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $36.06 |
+| Earnings/sale* | $36.08 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | TEESchulze |
@@ -93,14 +93,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Steuern sparen für Arbeitnehmer - nach dem Job (Ratgeber)? — Typ: E-books, Anbieter: TEESchulze, gelistet seit 2019-06-06
-- Wie viel kostet es? — 72.106269 USD
+- Wie viel kostet es? — 72.151412 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Steuern sparen für Arbeitnehmer - nach dem Job (Ratgeber) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/274687
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/274687/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Steuern%20sparen%20f%C3%BCr%20Arbeitnehmer%20-%20nach%20dem%20Job%20(Ratgeber)
 
 ## 4. Editorial notes

@@ -4,34 +4,34 @@ digistore24_product_id: 706654
 title: "Leben ohne festen Wohnsitz"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 38.66
+price: 38.69
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 19.33
+earnings_per_sale: 19.34
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Travel & Culture"]
 listed_since: "2026-07-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/57325/adminstore/"
+promo_link: "https://ratgeberplatz.de/ratgeber/leben-ohne-festen-wohnsitz?aff=adminstore#aff=adminstore"
 sales_page: "https://ratgeberplatz.de/ratgeber/leben-ohne-festen-wohnsitz"
 language: "de"
 ---
 # Leben ohne festen Wohnsitz
 
 > Product ID `57325` · Digistore24 productId `706654` · [HTML profile page](../../produkte/leben-ohne-festen-wohnsitz-57325.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $38.66 (Single payment) |
+| Price | $38.69 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $19.33 |
+| Earnings/sale* | $19.34 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pixonmedia |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/57325/adminstore/
+- **Promo link (affiliate):** https://ratgeberplatz.de/ratgeber/leben-ohne-festen-wohnsitz?aff=adminstore#aff=adminstore
 - Sales page: https://ratgeberplatz.de/ratgeber/leben-ohne-festen-wohnsitz
 - Vendor affiliate support: https://www.ratgeberplatz.de/partnerprogramm
 - Canonical redirect: https://www.digistore24.com/redir/706654/adminstore
@@ -94,14 +94,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Leben ohne festen Wohnsitz? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-07-01
-- Wie viel kostet es? — 38.663898 USD
+- Wie viel kostet es? — 38.688103999999996 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Leben ohne festen Wohnsitz Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/706654
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/706654/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Leben%20ohne%20festen%20Wohnsitz
 
 ## 4. Editorial notes

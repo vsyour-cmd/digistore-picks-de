@@ -4,34 +4,34 @@ digistore24_product_id: 595777
 title: "Reich mit Weite – Die Social-Media-Strategie, die verkauft!"
 vendor: "powerupbusiness"
 product_type: "Member area and video courses"
-price: 1328.3
+price: 1329.13
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 664.15
+earnings_per_sale: 664.57
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Online Marketing & E-Business","Social Media"]
 listed_since: "2025-02-12"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/51995/adminstore/"
+promo_link: "https://www.digistore24.com/redir/595777/adminstore"
 sales_page: "https://www.reichmitweite.com/?utm_source=affiliate&utm_content=[AFFILIATE]"
 language: "de"
 ---
 # Reich mit Weite – Die Social-Media-Strategie, die verkauft!
 
 > Product ID `51995` · Digistore24 productId `595777` · [HTML profile page](../../produkte/reich-mit-weite-die-social-media-strategie-die-verkauft-51995.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium (browser-rendered)**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1328.30 (Single payment, Installment) |
+| Price | $1329.13 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $664.15 |
+| Earnings/sale* | $664.57 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | powerupbusiness |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/51995/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/redir/595777/adminstore
 - Sales page: https://www.reichmitweite.com/?utm_source=affiliate&utm_content=[AFFILIATE]
 - Vendor affiliate support: https://reichmitweite.com/partnerprogramm
 - Canonical redirect: https://www.digistore24.com/redir/595777/adminstore
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Reich mit Weite – Die Social-Media-Strategie, die verkauft!? — Typ: Member area and video courses, Anbieter: powerupbusiness, gelistet seit 2025-02-12
-- Wie viel kostet es? — 1328.3028000000002 USD
+- Wie viel kostet es? — 1329.1344 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Reich mit Weite – Die Social-Media-Strategie, die verkauft! Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/595777
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/595777/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Reich%20mit%20Weite%20%E2%80%93%20Die%20Social-Media-Strategie%2C%20die%20verkauft!
 
 ## 4. Editorial notes

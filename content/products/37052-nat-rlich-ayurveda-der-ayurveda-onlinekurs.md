@@ -4,16 +4,16 @@ digistore24_product_id: 387003
 title: "Natürlich Ayurveda - Der Ayurveda Onlinekurs"
 vendor: "tastykaty"
 product_type: "Member area and video courses"
-price: 271.54
+price: 271.71
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 81.46
+earnings_per_sale: 81.52
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2021-04-28"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://na.tastykatykurse.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://na.tastykatykurse.de/"
@@ -22,16 +22,16 @@ language: "de"
 # Natürlich Ayurveda - Der Ayurveda Onlinekurs
 
 > Product ID `37052` · Digistore24 productId `387003` · [HTML profile page](../../produkte/nat-rlich-ayurveda-der-ayurveda-onlinekurs-37052.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $271.54 (Single payment, Installment) |
+| Price | $271.71 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $81.46 |
+| Earnings/sale* | $81.52 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | tastykaty |
@@ -96,14 +96,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Natürlich Ayurveda - Der Ayurveda Onlinekurs? — Typ: Member area and video courses, Anbieter: tastykaty, gelistet seit 2021-04-28
-- Wie viel kostet es? — 271.54176600000005 USD
+- Wie viel kostet es? — 271.711768 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Natürlich Ayurveda - Der Ayurveda Onlinekurs Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/387003
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/387003/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Nat%C3%BCrlich%20Ayurveda%20-%20Der%20Ayurveda%20Onlinekurs
 
 ## 4. Editorial notes

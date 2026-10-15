@@ -4,16 +4,16 @@ digistore24_product_id: 240803
 title: "Bloomyytraining Gesichts- und Verjüngungsgymnastik online"
 vendor: "bloomyycom"
 product_type: "Member area and video courses"
-price: 1918.63
+price: 1919.83
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 383.72
+earnings_per_sale: 383.96
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2018-09-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://bloomyytraining.coachy.net/lp/bloomyys-beauty-und-facelift-studio?aff=adminstore#aff=adminstore"
 sales_page: "https://bloomyytraining.coachy.net/lp/bloomyys-beauty-und-facelift-studio"
@@ -22,16 +22,16 @@ language: "de"
 # Bloomyytraining Gesichts- und Verjüngungsgymnastik online
 
 > Product ID `26570` · Digistore24 productId `240803` · [HTML profile page](../../produkte/bloomyytraining-gesichts-und-verj-ngungsgymnastik-online-26570.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1918.63 (Single payment) |
+| Price | $1919.83 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $383.72 |
+| Earnings/sale* | $383.96 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | bloomyycom |
@@ -96,14 +96,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Bloomyytraining Gesichts- und Verjüngungsgymnastik online? — Typ: Member area and video courses, Anbieter: bloomyycom, gelistet seit 2018-09-20
-- Wie viel kostet es? — 1918.6260570000002 USD
+- Wie viel kostet es? — 1919.827236 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Bloomyytraining Gesichts- und Verjüngungsgymnastik online Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/240803
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/240803/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Bloomyytraining%20Gesichts-%20und%20Verj%C3%BCngungsgymnastik%20online
 
 ## 4. Editorial notes

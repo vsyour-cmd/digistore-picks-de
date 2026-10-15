@@ -4,16 +4,16 @@ digistore24_product_id: 697038
 title: "E-Book + 33 Satzkarten für Selbstwert + Grenzen - Angstfrei"
 vendor: "Seelendank"
 product_type: "Downloads"
-price: 7.3
+price: 7.31
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 3.66
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Health & Fitness","Personal Development"]
+categories: ["Health & Fitness","Personal Development","Education"]
 listed_since: "2026-05-31"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://angstfrei.shop/produkt/bei-mir-bleiben-ebook-33-satzkarten/?aff=adminstore#aff=adminstore"
 sales_page: "https://angstfrei.shop/produkt/bei-mir-bleiben-ebook-33-satzkarten/"
@@ -22,14 +22,14 @@ language: "de"
 # E-Book + 33 Satzkarten für Selbstwert + Grenzen - Angstfrei
 
 > Product ID `56762` · Digistore24 productId `697038` · [HTML profile page](../../produkte/e-book-33-satzkarten-f-r-selbstwert-grenzen-angstfrei-56762.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $7.30 (Single payment) |
+| Price | $7.31 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $3.66 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | Seelendank |
 | Listed since | 2026-05-31 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Health & Fitness, Personal Development |
+| Categories | Health & Fitness, Personal Development, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -82,14 +82,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist E-Book + 33 Satzkarten für Selbstwert + Grenzen - Angstfrei? — Typ: Downloads, Anbieter: Seelendank, gelistet seit 2026-05-31
-- Wie viel kostet es? — 7.3011930000000005 USD
+- Wie viel kostet es? — 7.305764000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: E-Book + 33 Satzkarten für Selbstwert + Grenzen - Angstfrei Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/697038
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/697038/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=E-Book%20%2B%2033%20Satzkarten%20f%C3%BCr%20Selbstwert%20%2B%20Grenzen%20-%20Angstfrei
 
 ## 4. Editorial notes

@@ -4,40 +4,40 @@ digistore24_product_id: 730831
 title: "Der Weg zum Traumhaus"
 vendor: "ramonakrenn923f"
 product_type: "Downloads"
-price: 22.35
+price: 22.36
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 11.18
+earnings_per_sale: 11.19
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Hobby & Craft","Home & Garden"]
+categories: ["Home & Garden","Hobby & Craft"]
 listed_since: "2026-09-13"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/59179/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/730831?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/730831"
 language: "de"
 ---
 # Der Weg zum Traumhaus
 
 > Product ID `59179` · Digistore24 productId `730831` · [HTML profile page](../../produkte/der-weg-zum-traumhaus-59179.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $22.35 (Single payment) |
+| Price | $22.36 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $11.18 |
+| Earnings/sale* | $11.19 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ramonakrenn923f |
 | Listed since | 2026-09-13 |
 | Auto-accept affiliates | yes |
-| Categories | Hobby & Craft, Home & Garden |
+| Categories | Home & Garden, Hobby & Craft |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59179/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/730831?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/730831
 - Canonical redirect: https://www.digistore24.com/redir/730831/adminstore
 
@@ -78,14 +78,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Weg zum Traumhaus? — Typ: Downloads, Anbieter: ramonakrenn923f, gelistet seit 2026-09-13
-- Wie viel kostet es? — 22.350819 USD
+- Wie viel kostet es? — 22.364811999999997 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Der Weg zum Traumhaus Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/730831
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/730831/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%20Weg%20zum%20Traumhaus
 
 ## 4. Editorial notes

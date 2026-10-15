@@ -4,34 +4,34 @@ digistore24_product_id: 430475
 title: "Online Minikurs \"Dein Pferd dein Coach\""
 vendor: "AlexandraLohr"
 product_type: "Webinar"
-price: 215.17
+price: 215.3
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 43.04
+earnings_per_sale: 43.06
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2022-02-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/39339/adminstore/"
+promo_link: "https://www.digistore24.com/product/430475?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/430475"
 language: "de"
 ---
 # Online Minikurs "Dein Pferd dein Coach"
 
 > Product ID `39339` · Digistore24 productId `430475` · [HTML profile page](../../produkte/online-minikurs-dein-pferd-dein-coach-39339.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Webinar |
-| Price | $215.17 (Single payment) |
+| Price | $215.30 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $43.04 |
+| Earnings/sale* | $43.06 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | AlexandraLohr |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/39339/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/430475?aff=adminstore
 - Sales page: https://www.digistore24.com/product/430475
 - Canonical redirect: https://www.digistore24.com/redir/430475/adminstore
 
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online Minikurs "Dein Pferd dein Coach"? — Typ: Webinar, Anbieter: AlexandraLohr, gelistet seit 2022-02-18
-- Wie viel kostet es? — 215.167164 USD
+- Wie viel kostet es? — 215.301872 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Online Minikurs "Dein Pferd dein Coach" Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/430475
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/430475/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Online%20Minikurs%20%22Dein%20Pferd%20dein%20Coach%22
 
 ## 4. Editorial notes

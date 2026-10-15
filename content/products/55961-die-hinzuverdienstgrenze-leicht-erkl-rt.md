@@ -4,34 +4,34 @@ digistore24_product_id: 645534
 title: "Die Hinzuverdienstgrenze leicht erklärt"
 vendor: "verwitwet-leben"
 product_type: "Member area and video courses"
-price: 41.11
+price: 41.14
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 37.22
+earnings_per_sale: 37.24
 cart_conversion_pct: 18
 cancel_rate_pct: 0.45
 categories: ["Business & Investment","Education"]
 listed_since: "2025-11-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/55961/adminstore/"
+promo_link: "https://verwitwet-leben.de/videokurs-hinzuverdienstgrenze-leicht-erklaert/?aff=adminstore#aff=adminstore"
 sales_page: "https://verwitwet-leben.de/videokurs-hinzuverdienstgrenze-leicht-erklaert/"
 language: "de"
 ---
 # Die Hinzuverdienstgrenze leicht erklärt
 
 > Product ID `55961` · Digistore24 productId `645534` · [HTML profile page](../../produkte/die-hinzuverdienstgrenze-leicht-erkl-rt-55961.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $41.11 (Single payment) |
+| Price | $41.14 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $37.22 |
+| Earnings/sale* | $37.24 |
 | Cart conversion* | 18% |
 | Cancel rate* | 0.45% |
 | Vendor | verwitwet-leben |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55961/adminstore/
+- **Promo link (affiliate):** https://verwitwet-leben.de/videokurs-hinzuverdienstgrenze-leicht-erklaert/?aff=adminstore#aff=adminstore
 - Sales page: https://verwitwet-leben.de/videokurs-hinzuverdienstgrenze-leicht-erklaert/
 - Canonical redirect: https://www.digistore24.com/redir/645534/adminstore
 
@@ -83,14 +83,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die Hinzuverdienstgrenze leicht erklärt? — Typ: Member area and video courses, Anbieter: verwitwet-leben, gelistet seit 2025-11-01
-- Wie viel kostet es? — 41.11253700000001 USD
+- Wie viel kostet es? — 41.138276000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Die Hinzuverdienstgrenze leicht erklärt Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/645534
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/645534/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Die%20Hinzuverdienstgrenze%20leicht%20erkl%C3%A4rt
 
 ## 4. Editorial notes

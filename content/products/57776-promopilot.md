@@ -4,16 +4,16 @@ digistore24_product_id: 715442
 title: "PromoPilot"
 vendor: "MoneyCreators"
 product_type: "Member area and video courses"
-price: 155.04
+price: 155.13
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 62.01
+earnings_per_sale: 62.05
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-07-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://promopilot.at/salesbasic3?aff=adminstore#aff=adminstore"
 sales_page: "https://promopilot.at/salesbasic3"
@@ -22,16 +22,16 @@ language: "de"
 # PromoPilot
 
 > Product ID `57776` · Digistore24 productId `715442` · [HTML profile page](../../produkte/promopilot-57776.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $155.04 (Single payment, Installment) |
+| Price | $155.13 (Single payment, Installment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $62.01 |
+| Earnings/sale* | $62.05 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MoneyCreators |
@@ -87,14 +87,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist PromoPilot? — Typ: Member area and video courses, Anbieter: MoneyCreators, gelistet seit 2026-07-27
-- Wie viel kostet es? — 155.03574600000002 USD
+- Wie viel kostet es? — 155.132808 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: PromoPilot Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/715442
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/715442/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=PromoPilot
 
 ## 4. Editorial notes

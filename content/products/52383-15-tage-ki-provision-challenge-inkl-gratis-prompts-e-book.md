@@ -10,19 +10,19 @@ affiliate_commission_pct: 60
 earnings_per_sale: 3.14
 cart_conversion_pct: 19
 cancel_rate_pct: 0.65
-categories: ["Computer & Internet","Software"]
+categories: ["Software","Computer & Internet"]
 listed_since: "2025-05-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/52383/adminstore/"
+promo_link: "https://www.webpirat.de/15-tage-ki-provision-challenge/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.webpirat.de/15-tage-ki-provision-challenge/"
 language: "de"
 ---
 # 15 Tage KI Provision Challenge inkl. Gratis Prompts (E-Book)
 
 > Product ID `52383` · Digistore24 productId `611531` · [HTML profile page](../../produkte/15-tage-ki-provision-challenge-inkl-gratis-prompts-e-book-52383.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | webpirat |
 | Listed since | 2025-05-08 |
 | Auto-accept affiliates | yes |
-| Categories | Computer & Internet, Software |
+| Categories | Software, Computer & Internet |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/52383/adminstore/
+- **Promo link (affiliate):** https://www.webpirat.de/15-tage-ki-provision-challenge/?aff=adminstore#aff=adminstore
 - Sales page: https://www.webpirat.de/15-tage-ki-provision-challenge/
 - Vendor affiliate support: https://www.webpirat.de/werde-affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/611531/adminstore
@@ -73,14 +73,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 15 Tage KI Provision Challenge inkl. Gratis Prompts (E-Book)? — Typ: E-books, Anbieter: webpirat, gelistet seit 2025-05-08
-- Wie viel kostet es? — 1.7218740000000001 USD
+- Wie viel kostet es? — 1.722952 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 15 Tage KI Provision Challenge inkl. Gratis Prompts (E-Book) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/611531
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/611531/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=15%20Tage%20KI%20Provision%20Challenge%20inkl.%20Gratis%20Prompts%20(E-Book)
 
 ## 4. Editorial notes

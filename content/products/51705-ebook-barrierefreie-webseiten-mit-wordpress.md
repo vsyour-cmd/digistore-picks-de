@@ -4,32 +4,32 @@ digistore24_product_id: 601199
 title: "eBOOK: Barrierefreie Webseiten mit WordPress"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 20.8
+price: 20.81
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 10.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Computer & Internet","Law & Justice","Online Marketing & E-Business"]
+categories: ["Law & Justice","Computer & Internet","Online Marketing & E-Business"]
 listed_since: "2025-03-12"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/51705/adminstore/"
+promo_link: "https://michael-kotzur.de/barrierefreie-webseiten-mit-wordpress/?aff=adminstore#aff=adminstore"
 sales_page: "https://michael-kotzur.de/barrierefreie-webseiten-mit-wordpress/"
 language: "de"
 ---
 # eBOOK: Barrierefreie Webseiten mit WordPress
 
 > Product ID `51705` · Digistore24 productId `601199` · [HTML profile page](../../produkte/ebook-barrierefreie-webseiten-mit-wordpress-51705.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.80 (Single payment) |
+| Price | $20.81 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $10.40 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | pixonmedia |
 | Listed since | 2025-03-12 |
 | Auto-accept affiliates | yes |
-| Categories | Computer & Internet, Law & Justice, Online Marketing & E-Business |
+| Categories | Law & Justice, Computer & Internet, Online Marketing & E-Business |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/51705/adminstore/
+- **Promo link (affiliate):** https://michael-kotzur.de/barrierefreie-webseiten-mit-wordpress/?aff=adminstore#aff=adminstore
 - Sales page: https://michael-kotzur.de/barrierefreie-webseiten-mit-wordpress/
 - Vendor affiliate support: https://michaelpartner.com/
 - Canonical redirect: https://www.digistore24.com/redir/601199/adminstore
@@ -77,14 +77,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist eBOOK: Barrierefreie Webseiten mit WordPress? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2025-03-12
-- Wie viel kostet es? — 20.796660000000003 USD
+- Wie viel kostet es? — 20.80968 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: eBOOK: Barrierefreie Webseiten mit WordPress Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/601199
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/601199/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=eBOOK%3A%20Barrierefreie%20Webseiten%20mit%20WordPress
 
 ## 4. Editorial notes

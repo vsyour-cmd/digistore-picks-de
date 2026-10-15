@@ -4,34 +4,34 @@ digistore24_product_id: 526339
 title: "Money Magnet 2.0 - Einzigartige VSL im DACH Raum"
 vendor: "funnelprofits"
 product_type: "Member area and video courses"
-price: 63.75
+price: 63.79
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 40.68
+earnings_per_sale: 40.7
 cart_conversion_pct: 12
 cancel_rate_pct: 8.44
 categories: ["Business & Investment","Computer & Internet","Online Marketing & E-Business"]
 listed_since: "2023-11-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/46119/adminstore/"
+promo_link: "https://moneymagnet.funnelcockpit.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://moneymagnet.funnelcockpit.com/"
 language: "de"
 ---
 # Money Magnet 2.0 - Einzigartige VSL im DACH Raum
 
 > Product ID `46119` · Digistore24 productId `526339` · [HTML profile page](../../produkte/money-magnet-2-0-einzigartige-vsl-im-dach-raum-46119.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $63.75 (Single payment, Installment) |
+| Price | $63.79 (Single payment, Installment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $40.68 |
+| Earnings/sale* | $40.70 |
 | Cart conversion* | 12% |
 | Cancel rate* | 8.44% |
 | Vendor | funnelprofits |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/46119/adminstore/
+- **Promo link (affiliate):** https://moneymagnet.funnelcockpit.com/?aff=adminstore#aff=adminstore
 - Sales page: https://moneymagnet.funnelcockpit.com/
 - Vendor affiliate support: https://moneymagnet.funnelcockpit.com/partnerseite-2-2/
 - Canonical redirect: https://www.digistore24.com/redir/526339/adminstore
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Money Magnet 2.0 - Einzigartige VSL im DACH Raum? — Typ: Member area and video courses, Anbieter: funnelprofits, gelistet seit 2023-11-21
-- Wie viel kostet es? — 63.75406200000001 USD
+- Wie viel kostet es? — 63.79397600000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Money Magnet 2.0 - Einzigartige VSL im DACH Raum Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/526339
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/526339/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Money%20Magnet%202.0%20-%20Einzigartige%20VSL%20im%20DACH%20Raum
 
 ## 4. Editorial notes

@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dancing & Music","Services","Marketing Services"]
 listed_since: "2026-01-02"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
 promo_link: "https://m.karikaturen-service.de/sonne-karikatur-verkaufseite.htm?aff=adminstore#aff=adminstore"
 sales_page: "https://m.karikaturen-service.de/sonne-karikatur-verkaufseite.htm"
@@ -22,7 +22,7 @@ language: "de"
 # Punker Karikatur Grafik
 
 > Product ID `55080` · Digistore24 productId `658579` · [HTML profile page](../../produkte/punker-karikatur-grafik-55080.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -62,14 +62,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Punker Karikatur Grafik? — Typ: Downloads, Anbieter: Karikaturen-Service, gelistet seit 2026-01-02
-- Wie viel kostet es? — 2.8176120000000004 USD
+- Wie viel kostet es? — 2.819376 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Punker Karikatur Grafik Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/658579
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/658579/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Punker%20Karikatur%20Grafik
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 358850
 title: "Videokurs: Wirtschaft verstehen"
 vendor: "Staatenlos"
 product_type: "Downloads"
-price: 61.5
+price: 61.53
 currency: "USD"
 affiliate_commission_pct: 51
-earnings_per_sale: 31.36
+earnings_per_sale: 31.38
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2020-11-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://staatenlos.ch/firma-gruenden/wirtschaft-verstehen/?aff=adminstore#aff=adminstore"
 sales_page: "https://staatenlos.ch/firma-gruenden/wirtschaft-verstehen/"
@@ -22,16 +22,16 @@ language: "de"
 # Videokurs: Wirtschaft verstehen
 
 > Product ID `39450` · Digistore24 productId `358850` · [HTML profile page](../../produkte/videokurs-wirtschaft-verstehen-39450.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $61.50 (Single payment) |
+| Price | $61.53 (Single payment) |
 | Affiliate commission | 51% |
-| Earnings/sale* | $31.36 |
+| Earnings/sale* | $31.38 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Staatenlos |
@@ -96,14 +96,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Videokurs: Wirtschaft verstehen? — Typ: Downloads, Anbieter: Staatenlos, gelistet seit 2020-11-21
-- Wie viel kostet es? — 61.49550000000001 USD
+- Wie viel kostet es? — 61.534 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Videokurs: Wirtschaft verstehen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/358850
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/358850/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Videokurs%3A%20Wirtschaft%20verstehen
 
 ## 4. Editorial notes

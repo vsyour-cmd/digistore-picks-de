@@ -4,34 +4,34 @@ digistore24_product_id: 476406
 title: "DJ Kurs für Fortgeschrittene"
 vendor: "djmikehoffmann"
 product_type: "Member area and video courses"
-price: 93.95
+price: 94.01
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 23.48
+earnings_per_sale: 23.49
 cart_conversion_pct: 10
 cancel_rate_pct: 4.91
 categories: ["Education"]
 listed_since: "2022-12-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/42525/adminstore/"
+promo_link: "https://www.djmikehoffmann.de/552/dj-kurs.html?aff=adminstore#aff=adminstore"
 sales_page: "https://www.djmikehoffmann.de/552/dj-kurs.html"
 language: "de"
 ---
 # DJ Kurs für Fortgeschrittene
 
 > Product ID `42525` · Digistore24 productId `476406` · [HTML profile page](../../produkte/dj-kurs-f-r-fortgeschrittene-42525.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $93.95 (Single payment) |
+| Price | $94.01 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $23.48 |
+| Earnings/sale* | $23.49 |
 | Cart conversion* | 10% |
 | Cancel rate* | 4.91% |
 | Vendor | djmikehoffmann |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/42525/adminstore/
+- **Promo link (affiliate):** https://www.djmikehoffmann.de/552/dj-kurs.html?aff=adminstore#aff=adminstore
 - Sales page: https://www.djmikehoffmann.de/552/dj-kurs.html
 - Canonical redirect: https://www.digistore24.com/redir/476406/adminstore
 
@@ -66,14 +66,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist DJ Kurs für Fortgeschrittene? — Typ: Member area and video courses, Anbieter: djmikehoffmann, gelistet seit 2022-12-23
-- Wie viel kostet es? — 93.95394300000001 USD
+- Wie viel kostet es? — 94.012764 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: DJ Kurs für Fortgeschrittene Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/476406
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/476406/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=DJ%20Kurs%20f%C3%BCr%20Fortgeschrittene
 
 ## 4. Editorial notes

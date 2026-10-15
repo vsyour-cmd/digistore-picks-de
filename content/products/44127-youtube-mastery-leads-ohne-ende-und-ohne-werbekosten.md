@@ -4,34 +4,34 @@ digistore24_product_id: 482119
 title: "YouTube Mastery - Leads ohne Ende und ohne Werbekosten"
 vendor: "seotech"
 product_type: "Member area and video courses"
-price: 261.86
+price: 262.02
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 186.48
+earnings_per_sale: 186.59
 cart_conversion_pct: 3
 cancel_rate_pct: 1.76
 categories: ["Profession & Job"]
 listed_since: "2023-01-31"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
-research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/44127/adminstore/"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
+research_quality: "thin"
+promo_link: "https://www.provi-magnet.de/ytvkslp/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.provi-magnet.de/ytvkslp/"
 language: "de"
 ---
 # YouTube Mastery - Leads ohne Ende und ohne Werbekosten
 
 > Product ID `44127` · Digistore24 productId `482119` · [HTML profile page](../../produkte/youtube-mastery-leads-ohne-ende-und-ohne-werbekosten-44127.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $261.86 (Single payment, Installment) |
+| Price | $262.02 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $186.48 |
+| Earnings/sale* | $186.59 |
 | Cart conversion* | 3% |
 | Cancel rate* | 1.76% |
 | Vendor | seotech |
@@ -45,14 +45,28 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/44127/adminstore/
+- **Promo link (affiliate):** https://www.provi-magnet.de/ytvkslp/?aff=adminstore#aff=adminstore
 - Sales page: https://www.provi-magnet.de/ytvkslp/
 - Vendor affiliate support: https://www.incomebutler.com/youtube-masterclass-affiliate-supportseite/
 - Canonical redirect: https://www.digistore24.com/redir/482119/adminstore
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** YouTube Mastery - Leads und Sales mit deinem YouTube Kanal
+- **Meta description:** Leads und Sales mit deinem YouTube Kanal generieren. Verwandle deinen YouTube Kanal in eine wahre Salesmaschine, ohne Werbeausgaben.
+- **Opening copy (first paragraphs):**
+  > Erfahre, wie ich damit eine Trafficmaschine erstellt habe, die mir Leads und Sales generiert und ich dafür sogar noch bezahlt werde.
+  > Die perfekte Komplettlösung für Anfänger und Neulinge, um endlich online Geld zu verdienen:
+  > Genau deshalb gibt es die YouTube Mastery! Hier bekommst du alle notwendigen Vorlagen, Checklisten, Partnerprogramme und vieles mehr. Bereits über mehrere Jahre erprobt und funktioniert hervorragend.
+  > Die meisten, die einen neuen Traffic-Kanal, speziell YouTube-Kanal aufbauen wollen, haben eine innere Stimme im Kopf, die vielleicht sagt "das ist nichts für mich", "ich brauche das nicht". Aber, wie weit hat dich das in deinem Vorhaben gebracht?
+- **Questions the sales page answers:**
+  - Auf welche Stimme hörst du?
+  - Ist das ein Abo?
+  - Wie viele Stunden muss ich pro Woche aufwenden?
+  - Wie und wann bekomme ich meinen Zugang?
+  - Gibt es einen Haken?
+  - Wann sehe ich erste Ergebnisse?
+- **Page word count:** 91
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
@@ -67,14 +81,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist YouTube Mastery - Leads ohne Ende und ohne Werbekosten? — Typ: Member area and video courses, Anbieter: seotech, gelistet seit 2023-01-31
-- Wie viel kostet es? — 261.85902 USD
+- Wie viel kostet es? — 262.02296 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: YouTube Mastery - Leads ohne Ende und ohne Werbekosten Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/482119
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/482119/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=YouTube%20Mastery%20-%20Leads%20ohne%20Ende%20und%20ohne%20Werbekosten
 
 ## 4. Editorial notes

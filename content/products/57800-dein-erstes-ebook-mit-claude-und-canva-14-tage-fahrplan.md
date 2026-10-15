@@ -4,16 +4,16 @@ digistore24_product_id: 716190
 title: "Dein erstes eBook mit Claude und Canva | 14-Tage-Fahrplan"
 vendor: "webtrafficde"
 product_type: "E-books"
-price: 17.77
+price: 17.78
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 5.33
+earnings_per_sale: 5.34
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Computer & Internet","Profession & Job"]
 listed_since: "2026-07-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://success.webtraffic.de/ebooks/claude_canva/?aff=adminstore#aff=adminstore"
 sales_page: "https://success.webtraffic.de/ebooks/claude_canva/"
@@ -22,16 +22,16 @@ language: "de"
 # Dein erstes eBook mit Claude und Canva | 14-Tage-Fahrplan
 
 > Product ID `57800` · Digistore24 productId `716190` · [HTML profile page](../../produkte/dein-erstes-ebook-mit-claude-und-canva-14-tage-fahrplan-57800.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $17.77 (Single payment) |
+| Price | $17.78 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $5.33 |
+| Earnings/sale* | $5.34 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | webtrafficde |
@@ -80,14 +80,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Dein erstes eBook mit Claude und Canva | 14-Tage-Fahrplan? — Typ: E-books, Anbieter: webtrafficde, gelistet seit 2026-07-29
-- Wie viel kostet es? — 17.766609000000003 USD
+- Wie viel kostet es? — 17.777732 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Dein erstes eBook mit Claude und Canva | 14-Tage-Fahrplan Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/716190
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/716190/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Dein%20erstes%20eBook%20mit%20Claude%20und%20Canva%20%7C%2014-Tage-Fahrplan
 
 ## 4. Editorial notes

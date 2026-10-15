@@ -4,40 +4,40 @@ digistore24_product_id: 738064
 title: "KI-Einkommenssystem 2026 – 89 €, 50 % Provision"
 vendor: "influexai"
 product_type: "Downloads"
-price: 83.62
+price: 83.68
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 41.82
+earnings_per_sale: 41.84
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Online Marketing & E-Business"]
+categories: ["Online Marketing & E-Business","Education"]
 listed_since: "2026-09-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/59973/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/738064?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/738064"
 language: "de"
 ---
 # KI-Einkommenssystem 2026 – 89 €, 50 % Provision
 
 > Product ID `59973` · Digistore24 productId `738064` · [HTML profile page](../../produkte/ki-einkommenssystem-2026-89-50-provision-59973.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $83.62 (Single payment) |
+| Price | $83.68 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $41.82 |
+| Earnings/sale* | $41.84 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | influexai |
 | Listed since | 2026-09-27 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Online Marketing & E-Business |
+| Categories | Online Marketing & E-Business, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59973/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/738064?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/738064
 - Canonical redirect: https://www.digistore24.com/redir/738064/adminstore
 
@@ -78,14 +78,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI-Einkommenssystem 2026 – 89 €, 50 % Provision? — Typ: Downloads, Anbieter: influexai, gelistet seit 2026-09-27
-- Wie viel kostet es? — 83.62269900000001 USD
+- Wie viel kostet es? — 83.67505200000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: KI-Einkommenssystem 2026 – 89 €, 50 % Provision Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/738064
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/738064/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=KI-Einkommenssystem%202026%20%E2%80%93%2089%20%E2%82%AC%2C%2050%20%25%20Provision
 
 ## 4. Editorial notes

@@ -4,40 +4,40 @@ digistore24_product_id: 706244
 title: "Die Landingpage-Formel"
 vendor: "ManfredKloos"
 product_type: "Downloads"
-price: 52.55
+price: 52.58
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 21.02
+earnings_per_sale: 21.03
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Online Marketing","Marketing Services"]
+categories: ["Marketing Services","Online Marketing"]
 listed_since: "2026-08-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/58443/adminstore/"
+promo_link: "https://copykraft.de/landingpage/?aff=adminstore#aff=adminstore"
 sales_page: "https://copykraft.de/landingpage/"
 language: "de"
 ---
 # Die Landingpage-Formel
 
 > Product ID `58443` · Digistore24 productId `706244` · [HTML profile page](../../produkte/die-landingpage-formel-58443.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $52.55 (Single payment) |
+| Price | $52.58 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $21.02 |
+| Earnings/sale* | $21.03 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ManfredKloos |
 | Listed since | 2026-08-18 |
 | Auto-accept affiliates | yes |
-| Categories | Online Marketing, Marketing Services |
+| Categories | Marketing Services, Online Marketing |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58443/adminstore/
+- **Promo link (affiliate):** https://copykraft.de/landingpage/?aff=adminstore#aff=adminstore
 - Sales page: https://copykraft.de/landingpage/
 - Canonical redirect: https://www.digistore24.com/redir/706244/adminstore
 
@@ -86,14 +86,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die Landingpage-Formel? — Typ: Downloads, Anbieter: ManfredKloos, gelistet seit 2026-08-18
-- Wie viel kostet es? — 52.550700000000006 USD
+- Wie viel kostet es? — 52.583600000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Die Landingpage-Formel Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/706244
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/706244/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Die%20Landingpage-Formel
 
 ## 4. Editorial notes

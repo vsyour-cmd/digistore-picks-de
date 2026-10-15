@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Online Marketing & E-Business"]
 listed_since: "2024-12-19"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/50805/adminstore/"
+promo_link: "https://digiportale.de/chatgpt-digistore24-guide/?aff=adminstore#aff=adminstore"
 sales_page: "https://digiportale.de/chatgpt-digistore24-guide/"
 language: "de"
 ---
 # ChatGPT & Digistore24 Guide (Freebie Gratis Buch)
 
 > Product ID `50805` · Digistore24 productId `586949` · [HTML profile page](../../produkte/chatgpt-digistore24-guide-freebie-gratis-buch-50805.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/50805/adminstore/
+- **Promo link (affiliate):** https://digiportale.de/chatgpt-digistore24-guide/?aff=adminstore#aff=adminstore
 - Sales page: https://digiportale.de/chatgpt-digistore24-guide/
 - Canonical redirect: https://www.digistore24.com/redir/586949/adminstore
 
@@ -76,7 +76,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: ChatGPT & Digistore24 Guide (Freebie Gratis Buch) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/586949
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/586949/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=ChatGPT%20%26%20Digistore24%20Guide%20(Freebie%20Gratis%20Buch)
 
 ## 4. Editorial notes

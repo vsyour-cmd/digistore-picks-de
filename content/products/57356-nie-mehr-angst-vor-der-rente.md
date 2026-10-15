@@ -4,7 +4,7 @@ digistore24_product_id: 707524
 title: "Nie mehr Angst vor der Rente"
 vendor: "buergelconsulting"
 product_type: "E-books"
-price: 29.2
+price: 29.22
 currency: "USD"
 affiliate_commission_pct: 30
 earnings_per_sale: 8.77
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Finances"]
 listed_since: "2026-07-02"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/707524?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/707524"
@@ -22,14 +22,14 @@ language: "de"
 # Nie mehr Angst vor der Rente
 
 > Product ID `57356` · Digistore24 productId `707524` · [HTML profile page](../../produkte/nie-mehr-angst-vor-der-rente-57356.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $29.20 (Single payment) |
+| Price | $29.22 (Single payment) |
 | Affiliate commission | 30% |
 | Earnings/sale* | $8.77 |
 | Cart conversion* | — |
@@ -73,14 +73,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Nie mehr Angst vor der Rente? — Typ: E-books, Anbieter: buergelconsulting, gelistet seit 2026-07-02
-- Wie viel kostet es? — 29.204772000000002 USD
+- Wie viel kostet es? — 29.223056000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Nie mehr Angst vor der Rente Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/707524
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/707524/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Nie%20mehr%20Angst%20vor%20der%20Rente
 
 ## 4. Editorial notes

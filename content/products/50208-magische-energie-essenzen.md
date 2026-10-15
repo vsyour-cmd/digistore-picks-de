@@ -4,16 +4,16 @@ digistore24_product_id: 575794
 title: "Magische Energie Essenzen"
 vendor: "JonathanDilas"
 product_type: "Remote service provided electronically"
-price: 311.95
+price: 312.15
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 109.18
+earnings_per_sale: 109.25
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Services","Spiri­tua­lity & Esotericism"]
+categories: ["Spiri­tua­lity & Esotericism","Services"]
 listed_since: "2024-10-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://matrixxer.com/produkt/vitazen-energetische-essenz-gesundheit/?aff=adminstore#aff=adminstore"
 sales_page: "https://matrixxer.com/produkt/vitazen-energetische-essenz-gesundheit/"
@@ -22,22 +22,22 @@ language: "de"
 # Magische Energie Essenzen
 
 > Product ID `50208` · Digistore24 productId `575794` · [HTML profile page](../../produkte/magische-energie-essenzen-50208.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $311.95 (Single payment) |
+| Price | $312.15 (Single payment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $109.18 |
+| Earnings/sale* | $109.25 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | JonathanDilas |
 | Listed since | 2024-10-17 |
 | Auto-accept affiliates | yes |
-| Categories | Services, Spiri­tua­lity & Esotericism |
+| Categories | Spiri­tua­lity & Esotericism, Services |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Magische Energie Essenzen? — Typ: Remote service provided electronically, Anbieter: JonathanDilas, gelistet seit 2024-10-17
-- Wie viel kostet es? — 311.9499 USD
+- Wie viel kostet es? — 312.1452 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Magische Energie Essenzen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/575794
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/575794/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Magische%20Energie%20Essenzen
 
 ## 4. Editorial notes

@@ -12,8 +12,8 @@ cart_conversion_pct: 59
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2026-01-10"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://page.funnelcockpit.com/gLdy7ikLBXmHjXeEW?aff=adminstore#aff=adminstore"
 sales_page: "https://page.funnelcockpit.com/gLdy7ikLBXmHjXeEW"
@@ -22,7 +22,7 @@ language: "de"
 # 50 Möglichkeiten wie Du Chat GPT nutzen kannst
 
 > Product ID `55222` · Digistore24 productId `660484` · [HTML profile page](../../produkte/50-m-glichkeiten-wie-du-chat-gpt-nutzen-kannst-55222.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -59,14 +59,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 50 Möglichkeiten wie Du Chat GPT nutzen kannst? — Typ: E-books, Anbieter: werni1, gelistet seit 2026-01-10
-- Wie viel kostet es? — 0.067086 USD
+- Wie viel kostet es? — 0.067128 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 50 Möglichkeiten wie Du Chat GPT nutzen kannst Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/660484
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/660484/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=50%20M%C3%B6glichkeiten%20wie%20Du%20Chat%20GPT%20nutzen%20kannst
 
 ## 4. Editorial notes

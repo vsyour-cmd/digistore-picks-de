@@ -4,16 +4,16 @@ digistore24_product_id: 38219
 title: "Das Partnerprogramm von KlickTipp. Das Beste oder nichts."
 vendor: "klick-tipp"
 product_type: "Downloads"
-price: 1199.29
+price: 1200.04
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 349.38
+earnings_per_sale: 349.6
 cart_conversion_pct: 39
 cancel_rate_pct: 11.78
 categories: ["Email Marketing"]
 listed_since: "2014-12-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.klicktipp.com?aff=adminstore#aff=adminstore"
 sales_page: "https://www.klicktipp.com"
@@ -22,16 +22,16 @@ language: "de"
 # Das Partnerprogramm von KlickTipp. Das Beste oder nichts.
 
 > Product ID `5609` · Digistore24 productId `38219` · [HTML profile page](../../produkte/das-partnerprogramm-von-klicktipp-das-beste-oder-nichts-5609.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $1199.29 (Subscription) |
+| Price | $1200.04 (Subscription) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $349.38 |
+| Earnings/sale* | $349.60 |
 | Cart conversion* | 39% |
 | Cancel rate* | 11.78% |
 | Vendor | klick-tipp |
@@ -97,14 +97,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Partnerprogramm von KlickTipp. Das Beste oder nichts.? — Typ: Downloads, Anbieter: klick-tipp, gelistet seit 2014-12-08
-- Wie viel kostet es? — 1199.285241 USD
+- Wie viel kostet es? — 1200.036068 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Das Partnerprogramm von KlickTipp. Das Beste oder nichts. Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/38219
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/38219/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Das%20Partnerprogramm%20von%20KlickTipp.%20Das%20Beste%20oder%20nichts.
 
 ## 4. Editorial notes

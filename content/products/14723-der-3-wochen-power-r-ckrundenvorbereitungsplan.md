@@ -4,34 +4,34 @@ digistore24_product_id: 104389
 title: "Der 3 Wochen Power Rückrundenvorbereitungsplan"
 vendor: "fussballtraining-renno"
 product_type: "Downloads"
-price: 28.14
+price: 28.16
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 9.85
+earnings_per_sale: 9.86
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Sport"]
 listed_since: "2016-11-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/14723/adminstore/"
+promo_link: "http://www.produkte.fussballtraining-renno.de/rueckrundenvorbereitung-3?aff=adminstore#aff=adminstore"
 sales_page: "http://www.produkte.fussballtraining-renno.de/rueckrundenvorbereitung-3"
 language: "de"
 ---
 # Der 3 Wochen Power Rückrundenvorbereitungsplan
 
 > Product ID `14723` · Digistore24 productId `104389` · [HTML profile page](../../produkte/der-3-wochen-power-r-ckrundenvorbereitungsplan-14723.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $28.14 (Single payment) |
+| Price | $28.16 (Single payment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $9.85 |
+| Earnings/sale* | $9.86 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | fussballtraining-renno |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/14723/adminstore/
+- **Promo link (affiliate):** http://www.produkte.fussballtraining-renno.de/rueckrundenvorbereitung-3?aff=adminstore#aff=adminstore
 - Sales page: http://www.produkte.fussballtraining-renno.de/rueckrundenvorbereitung-3
 - Canonical redirect: https://www.digistore24.com/redir/104389/adminstore
 
@@ -70,14 +70,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der 3 Wochen Power Rückrundenvorbereitungsplan? — Typ: Downloads, Anbieter: fussballtraining-renno, gelistet seit 2016-11-15
-- Wie viel kostet es? — 28.142577000000003 USD
+- Wie viel kostet es? — 28.160196000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Der 3 Wochen Power Rückrundenvorbereitungsplan Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/104389
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/104389/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%203%20Wochen%20Power%20R%C3%BCckrundenvorbereitungsplan
 
 ## 4. Editorial notes

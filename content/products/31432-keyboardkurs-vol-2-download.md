@@ -4,16 +4,16 @@ digistore24_product_id: 95933
 title: "Keyboardkurs Vol. 2 / Download"
 vendor: "PeterNeuhof"
 product_type: "Downloads"
-price: 93.01
+price: 93.07
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 46.51
+earnings_per_sale: 46.54
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dancing & Music"]
 listed_since: "2016-09-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.p-neuhof.de/keyboardkurs-vol-2-landingpage/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.p-neuhof.de/keyboardkurs-vol-2-landingpage/"
@@ -22,16 +22,16 @@ language: "de"
 # Keyboardkurs Vol. 2 / Download
 
 > Product ID `31432` · Digistore24 productId `95933` · [HTML profile page](../../produkte/keyboardkurs-vol-2-download-31432.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $93.01 (Single payment, Installment) |
+| Price | $93.07 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $46.51 |
+| Earnings/sale* | $46.54 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | PeterNeuhof |
@@ -80,14 +80,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Keyboardkurs Vol. 2 / Download? — Typ: Downloads, Anbieter: PeterNeuhof, gelistet seit 2016-09-18
-- Wie viel kostet es? — 93.014739 USD
+- Wie viel kostet es? — 93.072972 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Keyboardkurs Vol. 2 / Download Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/95933
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/95933/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Keyboardkurs%20Vol.%202%20%2F%20Download
 
 ## 4. Editorial notes

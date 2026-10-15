@@ -4,34 +4,34 @@ digistore24_product_id: 212591
 title: "Build a Powerful Body"
 vendor: "raigeki-fitness"
 product_type: "Member area and video courses"
-price: 93.01
+price: 93.07
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 55.8
+earnings_per_sale: 55.84
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2018-04-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/26261/adminstore/"
+promo_link: "https://raigeki-fitness.de/build-a-powerful-body?aff=adminstore#aff=adminstore"
 sales_page: "https://raigeki-fitness.de/build-a-powerful-body"
 language: "de"
 ---
 # Build a Powerful Body
 
 > Product ID `26261` · Digistore24 productId `212591` · [HTML profile page](../../produkte/build-a-powerful-body-26261.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $93.01 (Single payment, Installment) |
+| Price | $93.07 (Single payment, Installment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $55.80 |
+| Earnings/sale* | $55.84 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | raigeki-fitness |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/26261/adminstore/
+- **Promo link (affiliate):** https://raigeki-fitness.de/build-a-powerful-body?aff=adminstore#aff=adminstore
 - Sales page: https://raigeki-fitness.de/build-a-powerful-body
 - Vendor affiliate support: https://member.raigeki-fitness.de/partnerprogramm
 - Canonical redirect: https://www.digistore24.com/redir/212591/adminstore
@@ -96,14 +96,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Build a Powerful Body? — Typ: Member area and video courses, Anbieter: raigeki-fitness, gelistet seit 2018-04-04
-- Wie viel kostet es? — 93.014739 USD
+- Wie viel kostet es? — 93.072972 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Build a Powerful Body Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/212591
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/212591/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Build%20a%20Powerful%20Body
 
 ## 4. Editorial notes

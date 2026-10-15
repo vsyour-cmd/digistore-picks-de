@@ -4,16 +4,16 @@ digistore24_product_id: 328028
 title: "Das Mach dich schlank Programm von MDS"
 vendor: "produktmanagerin"
 product_type: "Member area and video courses"
-price: 34.76
+price: 34.78
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 26.07
+earnings_per_sale: 26.09
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Food & Drink","Health & Fitness","Marketing Services"]
+categories: ["Health & Fitness","Marketing Services","Food & Drink"]
 listed_since: "2026-06-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://mach-dich-schlank-programm.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://mach-dich-schlank-programm.com/"
@@ -22,22 +22,22 @@ language: "de"
 # Das Mach dich schlank Programm von MDS
 
 > Product ID `57106` · Digistore24 productId `328028` · [HTML profile page](../../produkte/das-mach-dich-schlank-programm-von-mds-57106.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $34.76 (Single payment) |
+| Price | $34.78 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $26.07 |
+| Earnings/sale* | $26.09 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | produktmanagerin |
 | Listed since | 2026-06-22 |
 | Auto-accept affiliates | yes |
-| Categories | Food & Drink, Health & Fitness, Marketing Services |
+| Categories | Health & Fitness, Marketing Services, Food & Drink |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -88,14 +88,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Mach dich schlank Programm von MDS? — Typ: Member area and video courses, Anbieter: produktmanagerin, gelistet seit 2026-06-22
-- Wie viel kostet es? — 34.761729 USD
+- Wie viel kostet es? — 34.783492 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Das Mach dich schlank Programm von MDS Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/328028
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/328028/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Das%20Mach%20dich%20schlank%20Programm%20von%20MDS
 
 ## 4. Editorial notes

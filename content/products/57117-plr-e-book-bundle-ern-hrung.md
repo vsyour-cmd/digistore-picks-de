@@ -4,34 +4,34 @@ digistore24_product_id: 699700
 title: "PLR-E-Book-Bundle-Ernährung"
 vendor: "onlineratgeber24"
 product_type: "Member area and video courses"
-price: 222.5
+price: 222.64
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 43.61
+earnings_per_sale: 43.63
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-06-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/57117/adminstore/"
+promo_link: "https://www.startimpulse.online/bundle-plr-business-ernaehrung/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.startimpulse.online/bundle-plr-business-ernaehrung/"
 language: "de"
 ---
 # PLR-E-Book-Bundle-Ernährung
 
 > Product ID `57117` · Digistore24 productId `699700` · [HTML profile page](../../produkte/plr-e-book-bundle-ern-hrung-57117.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $222.50 (Single payment) |
+| Price | $222.64 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $43.61 |
+| Earnings/sale* | $43.63 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | onlineratgeber24 |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/57117/adminstore/
+- **Promo link (affiliate):** https://www.startimpulse.online/bundle-plr-business-ernaehrung/?aff=adminstore#aff=adminstore
 - Sales page: https://www.startimpulse.online/bundle-plr-business-ernaehrung/
 - Vendor affiliate support: https://www.startimpulse.online/partnerprogramm-plr-bundle-marketing-ernaehrung/
 - Canonical redirect: https://www.digistore24.com/redir/699700/adminstore
@@ -100,14 +100,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist PLR-E-Book-Bundle-Ernährung? — Typ: Member area and video courses, Anbieter: onlineratgeber24, gelistet seit 2026-06-23
-- Wie viel kostet es? — 222.5019 USD
+- Wie viel kostet es? — 222.6412 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: PLR-E-Book-Bundle-Ernährung Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/699700
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/699700/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=PLR-E-Book-Bundle-Ern%C3%A4hrung
 
 ## 4. Editorial notes

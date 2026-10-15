@@ -4,34 +4,34 @@ digistore24_product_id: 695002
 title: "Die 7 Bausteine unabhängiger Kundengewinnung"
 vendor: "office0144"
 product_type: "Member area and video courses"
-price: 46.04
+price: 46.07
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 23.02
+earnings_per_sale: 23.04
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2026-05-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/56709/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/695002?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/695002"
 language: "de"
 ---
 # Die 7 Bausteine unabhängiger Kundengewinnung
 
 > Product ID `56709` · Digistore24 productId `695002` · [HTML profile page](../../produkte/die-7-bausteine-unabh-ngiger-kundengewinnung-56709.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $46.04 (Single payment) |
+| Price | $46.07 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $23.02 |
+| Earnings/sale* | $23.04 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | office0144 |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56709/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/695002?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/695002
 - Vendor affiliate support: https://www.digistore24-app.com/account/partnerarea/5562430/de
 - Canonical redirect: https://www.digistore24.com/redir/695002/adminstore
@@ -80,14 +80,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die 7 Bausteine unabhängiger Kundengewinnung? — Typ: Member area and video courses, Anbieter: office0144, gelistet seit 2026-05-27
-- Wie viel kostet es? — 46.043358000000005 USD
+- Wie viel kostet es? — 46.072184 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Die 7 Bausteine unabhängiger Kundengewinnung Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/695002
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/695002/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Die%207%20Bausteine%20unabh%C3%A4ngiger%20Kundengewinnung
 
 ## 4. Editorial notes

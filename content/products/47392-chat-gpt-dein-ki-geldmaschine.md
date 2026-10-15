@@ -7,13 +7,13 @@ product_type: "Member area and video courses"
 price: 0
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 9.76
+earnings_per_sale: 9.77
 cart_conversion_pct: 23
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2024-03-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://www.meinneuerlifestyle.vip/geldmaschine-chat-gpt/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.meinneuerlifestyle.vip/geldmaschine-chat-gpt/"
@@ -22,7 +22,7 @@ language: "de"
 # Chat GPT - Dein KI Geldmaschine
 
 > Product ID `47392` · Digistore24 productId `542502` · [HTML profile page](../../produkte/chat-gpt-dein-ki-geldmaschine-47392.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,7 @@ language: "de"
 | Product type | Member area and video courses |
 | Price | $0.00 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $9.76 |
+| Earnings/sale* | $9.77 |
 | Cart conversion* | 23% |
 | Cancel rate* | 0% |
 | Vendor | Spekulatius |
@@ -65,7 +65,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Chat GPT - Dein KI Geldmaschine Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/542502
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/542502/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Chat%20GPT%20-%20Dein%20KI%20Geldmaschine
 
 ## 4. Editorial notes

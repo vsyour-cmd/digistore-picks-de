@@ -10,19 +10,19 @@ affiliate_commission_pct: 15
 earnings_per_sale: 1.64
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Health & Fitness","Food Supplements"]
+categories: ["Health & Fitness","Education","Food Supplements"]
 listed_since: "2024-01-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/46719/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/532258?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/532258"
 language: "de"
 ---
 # Kräuterheilmittel für Frauenleiden
 
 > Product ID `46719` · Digistore24 productId `532258` · [HTML profile page](../../produkte/kr-uterheilmittel-f-r-frauenleiden-46719.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | Bauchkompass |
 | Listed since | 2024-01-01 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Health & Fitness, Food Supplements |
+| Categories | Health & Fitness, Education, Food Supplements |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/46719/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/532258?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/532258
 - Canonical redirect: https://www.digistore24.com/redir/532258/adminstore
 
@@ -70,14 +70,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Kräuterheilmittel für Frauenleiden? — Typ: E-books, Anbieter: Bauchkompass, gelistet seit 2024-01-01
-- Wie viel kostet es? — 10.957380000000002 USD
+- Wie viel kostet es? — 10.96424 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Kräuterheilmittel für Frauenleiden Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/532258
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/532258/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Kr%C3%A4uterheilmittel%20f%C3%BCr%20Frauenleiden
 
 ## 4. Editorial notes

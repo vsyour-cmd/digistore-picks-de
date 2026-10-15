@@ -12,17 +12,17 @@ cart_conversion_pct: 18
 cancel_rate_pct: 2.71
 categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2025-02-02"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/51217/adminstore/"
+promo_link: "https://affiliforge.net/Digital-Genius-Pro?aff=adminstore#aff=adminstore"
 sales_page: "https://affiliforge.net/Digital-Genius-Pro"
 language: "de"
 ---
 # Digital Genius Pro - Digital-Produktgenerator
 
 > Product ID `51217` · Digistore24 productId `593791` · [HTML profile page](../../produkte/digital-genius-pro-digital-produktgenerator-51217.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/51217/adminstore/
+- **Promo link (affiliate):** https://affiliforge.net/Digital-Genius-Pro?aff=adminstore#aff=adminstore
 - Sales page: https://affiliforge.net/Digital-Genius-Pro
 - Vendor affiliate support: https://affiliforge.net/AffiliForge-Partnerportal
 - Canonical redirect: https://www.digistore24.com/redir/593791/adminstore
@@ -84,14 +84,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Digital Genius Pro - Digital-Produktgenerator? — Typ: Member area and video courses, Anbieter: AffiliForge, gelistet seit 2025-02-02
-- Wie viel kostet es? — 2.448639 USD
+- Wie viel kostet es? — 2.450172 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Digital Genius Pro - Digital-Produktgenerator Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/593791
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/593791/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Digital%20Genius%20Pro%20-%20Digital-Produktgenerator
 
 ## 4. Editorial notes

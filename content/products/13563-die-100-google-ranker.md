@@ -4,34 +4,34 @@ digistore24_product_id: 98545
 title: "Die 100 Google Ranker"
 vendor: "Cleriker"
 product_type: "Downloads"
-price: 53.56
+price: 53.59
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 32.13
+earnings_per_sale: 32.15
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2016-10-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/13563/adminstore/"
+promo_link: "https://lp.larspilawski.de/google-unendlichkeits-traffic-durch-die-200-ranking-faktoren/?aff=adminstore#aff=adminstore"
 sales_page: "https://lp.larspilawski.de/google-unendlichkeits-traffic-durch-die-200-ranking-faktoren/"
 language: "de"
 ---
 # Die 100 Google Ranker
 
 > Product ID `13563` · Digistore24 productId `98545` · [HTML profile page](../../produkte/die-100-google-ranker-13563.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $53.56 (Single payment) |
+| Price | $53.59 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $32.13 |
+| Earnings/sale* | $32.15 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Cleriker |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/13563/adminstore/
+- **Promo link (affiliate):** https://lp.larspilawski.de/google-unendlichkeits-traffic-durch-die-200-ranking-faktoren/?aff=adminstore#aff=adminstore
 - Sales page: https://lp.larspilawski.de/google-unendlichkeits-traffic-durch-die-200-ranking-faktoren/
 - Vendor affiliate support: http://www.larspilawski.de/affiliate-partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/98545/adminstore
@@ -82,14 +82,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die 100 Google Ranker? — Typ: Downloads, Anbieter: Cleriker, gelistet seit 2016-10-07
-- Wie viel kostet es? — 53.556990000000006 USD
+- Wie viel kostet es? — 53.59052 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Die 100 Google Ranker Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/98545
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/98545/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Die%20100%20Google%20Ranker
 
 ## 4. Editorial notes

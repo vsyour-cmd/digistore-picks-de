@@ -4,16 +4,16 @@ digistore24_product_id: 659619
 title: "Pain Zero - Verspannungskopfschmerzen in den Griff kriegen"
 vendor: "AndreasLang"
 product_type: "Member area and video courses"
-price: 301.61
+price: 301.8
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 94.56
+earnings_per_sale: 94.62
 cart_conversion_pct: 5
 cancel_rate_pct: 5.63
 categories: ["Health & Fitness","Sport"]
 listed_since: "2024-09-25"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/659619?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/659619"
@@ -22,16 +22,16 @@ language: "de"
 # Pain Zero - Verspannungskopfschmerzen in den Griff kriegen
 
 > Product ID `48988` · Digistore24 productId `659619` · [HTML profile page](../../produkte/pain-zero-verspannungskopfschmerzen-in-den-griff-kriegen-48988.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $301.61 (Single payment, Installment) |
+| Price | $301.80 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $94.56 |
+| Earnings/sale* | $94.62 |
 | Cart conversion* | 5% |
 | Cancel rate* | 5.63% |
 | Vendor | AndreasLang |
@@ -89,14 +89,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Pain Zero - Verspannungskopfschmerzen in den Griff kriegen? — Typ: Member area and video courses, Anbieter: AndreasLang, gelistet seit 2024-09-25
-- Wie viel kostet es? — 301.607475 USD
+- Wie viel kostet es? — 301.79630000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Pain Zero - Verspannungskopfschmerzen in den Griff kriegen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/659619
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/659619/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Pain%20Zero%20-%20Verspannungskopfschmerzen%20in%20den%20Griff%20kriegen
 
 ## 4. Editorial notes

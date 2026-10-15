@@ -4,34 +4,34 @@ digistore24_product_id: 270885
 title: "Die Büro-Kaizen Akademie"
 vendor: "buero-kaizen"
 product_type: "Member area and video courses"
-price: 1284.78
+price: 1285.58
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 86.13
+earnings_per_sale: 86.18
 cart_conversion_pct: 9
 cancel_rate_pct: 6.83
 categories: ["Profession & Job"]
 listed_since: "2019-05-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/30189/adminstore/"
+promo_link: "https://www.digistore24.com/redir/270885/adminstore"
 sales_page: "https://www.buero-kaizen.de/buerokaizenakademie/?aff=[AFFILIATE]&cam=[CAMPAIGNKEY]"
 language: "de"
 ---
 # Die Büro-Kaizen Akademie
 
 > Product ID `30189` · Digistore24 productId `270885` · [HTML profile page](../../produkte/die-b-ro-kaizen-akademie-30189.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1284.78 (Subscription) |
+| Price | $1285.58 (Subscription) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $86.13 |
+| Earnings/sale* | $86.18 |
 | Cart conversion* | 9% |
 | Cancel rate* | 6.83% |
 | Vendor | buero-kaizen |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/30189/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/redir/270885/adminstore
 - Sales page: https://www.buero-kaizen.de/buerokaizenakademie/?aff=[AFFILIATE]&cam=[CAMPAIGNKEY]
 - Vendor affiliate support: https://akademie.buero-kaizen.de/affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/270885/adminstore
@@ -81,14 +81,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die Büro-Kaizen Akademie? — Typ: Member area and video courses, Anbieter: buero-kaizen, gelistet seit 2019-05-07
-- Wie viel kostet es? — 1284.775167 USD
+- Wie viel kostet es? — 1285.579516 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Die Büro-Kaizen Akademie Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/270885
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/270885/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Die%20B%C3%BCro-Kaizen%20Akademie
 
 ## 4. Editorial notes

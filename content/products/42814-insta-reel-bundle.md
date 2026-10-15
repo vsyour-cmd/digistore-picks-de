@@ -12,8 +12,8 @@ cart_conversion_pct: 51
 cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2023-02-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
 promo_link: "https://insta-reels-bundle.digitalkigeldzauber.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://insta-reels-bundle.digitalkigeldzauber.de/"
@@ -22,7 +22,7 @@ language: "de"
 # Insta Reel Bundle
 
 > Product ID `42814` · Digistore24 productId `484620` · [HTML profile page](../../produkte/insta-reel-bundle-42814.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -62,14 +62,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Insta Reel Bundle? — Typ: Downloads, Anbieter: DigiInfoMichl, gelistet seit 2023-02-15
-- Wie viel kostet es? — 0.40251600000000004 USD
+- Wie viel kostet es? — 0.402768 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Insta Reel Bundle Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/484620
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/484620/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Insta%20Reel%20Bundle
 
 ## 4. Editorial notes

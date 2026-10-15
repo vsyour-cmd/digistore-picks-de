@@ -4,34 +4,34 @@ digistore24_product_id: 265593
 title: "Online Kurs: Home Staging Starter - Heike Uhlemann"
 vendor: "HomeStagingDE"
 product_type: "Member area and video courses"
-price: 1787.84
+price: 1788.96
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 357.57
+earnings_per_sale: 357.79
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Home & Garden"]
 listed_since: "2019-03-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/29273/adminstore/"
+promo_link: "https://www.staging-akademie.de/homestaging-experte/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.staging-akademie.de/homestaging-experte/"
 language: "de"
 ---
 # Online Kurs: Home Staging Starter - Heike Uhlemann
 
 > Product ID `29273` · Digistore24 productId `265593` · [HTML profile page](../../produkte/online-kurs-home-staging-starter-heike-uhlemann-29273.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1787.84 (Single payment, Installment) |
+| Price | $1788.96 (Single payment, Installment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $357.57 |
+| Earnings/sale* | $357.79 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | HomeStagingDE |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/29273/adminstore/
+- **Promo link (affiliate):** https://www.staging-akademie.de/homestaging-experte/?aff=adminstore#aff=adminstore
 - Sales page: https://www.staging-akademie.de/homestaging-experte/
 - Vendor affiliate support: https://www.staging-akademie.de/affiliate-supportseite/
 - Canonical redirect: https://www.digistore24.com/redir/265593/adminstore
@@ -94,14 +94,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online Kurs: Home Staging Starter - Heike Uhlemann? — Typ: Member area and video courses, Anbieter: HomeStagingDE, gelistet seit 2019-03-26
-- Wie viel kostet es? — 1787.8419000000001 USD
+- Wie viel kostet es? — 1788.9612 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Online Kurs: Home Staging Starter - Heike Uhlemann Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/265593
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/265593/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Online%20Kurs%3A%20Home%20Staging%20Starter%20-%20Heike%20Uhlemann
 
 ## 4. Editorial notes

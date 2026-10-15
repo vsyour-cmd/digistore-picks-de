@@ -4,34 +4,34 @@ digistore24_product_id: 729163
 title: "Overlock-Grundlagen für Anfänger"
 vendor: "Book2Book"
 product_type: "E-books"
-price: 20.11
+price: 20.13
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 14.08
+earnings_per_sale: 14.09
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft"]
 listed_since: "2026-09-03"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/58889/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/729163?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/729163"
 language: "de"
 ---
 # Overlock-Grundlagen für Anfänger
 
 > Product ID `58889` · Digistore24 productId `729163` · [HTML profile page](../../produkte/overlock-grundlagen-f-r-anf-nger-58889.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.11 (Single payment) |
+| Price | $20.13 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $14.08 |
+| Earnings/sale* | $14.09 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Book2Book |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58889/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/729163?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/729163
 - Vendor affiliate support: https://book2bookaffiliatesupport.blogspot.com/2026/09/overlock-grundlagen-fur-anfanger.html
 - Canonical redirect: https://www.digistore24.com/redir/729163/adminstore
@@ -89,14 +89,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Overlock-Grundlagen für Anfänger? — Typ: E-books, Anbieter: Book2Book, gelistet seit 2026-09-03
-- Wie viel kostet es? — 20.114619 USD
+- Wie viel kostet es? — 20.127212 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Overlock-Grundlagen für Anfänger Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/729163
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/729163/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Overlock-Grundlagen%20f%C3%BCr%20Anf%C3%A4nger
 
 ## 4. Editorial notes

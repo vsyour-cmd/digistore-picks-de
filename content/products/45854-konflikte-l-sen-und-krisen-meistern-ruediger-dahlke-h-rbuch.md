@@ -4,16 +4,16 @@ digistore24_product_id: 522089
 title: "Konflikte lösen und Krisen meistern-Ruediger Dahlke-Hörbuch"
 vendor: "isidde"
 product_type: "Audio book (download)"
-price: 20.89
+price: 20.9
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 10.44
+earnings_per_sale: 10.45
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Family & Children","Personal Development"]
+categories: ["Personal Development","Family & Children"]
 listed_since: "2023-10-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.isid.de/konflikte-loesen-und-krisen-meistern-ruediger-dahlke-hoerbuch-download/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.isid.de/konflikte-loesen-und-krisen-meistern-ruediger-dahlke-hoerbuch-download/"
@@ -22,22 +22,22 @@ language: "de"
 # Konflikte lösen und Krisen meistern-Ruediger Dahlke-Hörbuch
 
 > Product ID `45854` · Digistore24 productId `522089` · [HTML profile page](../../produkte/konflikte-l-sen-und-krisen-meistern-ruediger-dahlke-h-rbuch-45854.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Audio book (download) |
-| Price | $20.89 (Single payment) |
+| Price | $20.90 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $10.44 |
+| Earnings/sale* | $10.45 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | isidde |
 | Listed since | 2023-10-23 |
 | Auto-accept affiliates | yes |
-| Categories | Family & Children, Personal Development |
+| Categories | Personal Development, Family & Children |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Konflikte lösen und Krisen meistern-Ruediger Dahlke-Hörbuch? — Typ: Audio book (download), Anbieter: isidde, gelistet seit 2023-10-23
-- Wie viel kostet es? — 20.886108 USD
+- Wie viel kostet es? — 20.899184 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Konflikte lösen und Krisen meistern-Ruediger Dahlke-Hörbuch Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/522089
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/522089/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Konflikte%20l%C3%B6sen%20und%20Krisen%20meistern-Ruediger%20Dahlke-H%C3%B6rbuch
 
 ## 4. Editorial notes

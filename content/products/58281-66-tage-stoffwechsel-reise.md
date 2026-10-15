@@ -4,34 +4,34 @@ digistore24_product_id: 720178
 title: "66 Tage Stoffwechsel Reise"
 vendor: "mutpunkt-pro"
 product_type: "Member area and video courses"
-price: 111.81
+price: 111.88
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 55.91
+earnings_per_sale: 55.94
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2026-08-11"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/58281/adminstore/"
+promo_link: "https://www.digistore24.com/product/720178?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/720178"
 language: "de"
 ---
 # 66 Tage Stoffwechsel Reise
 
 > Product ID `58281` · Digistore24 productId `720178` · [HTML profile page](../../produkte/66-tage-stoffwechsel-reise-58281.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $111.81 (Single payment) |
+| Price | $111.88 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $55.91 |
+| Earnings/sale* | $55.94 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | mutpunkt-pro |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58281/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/720178?aff=adminstore
 - Sales page: https://www.digistore24.com/product/720178
 - Vendor affiliate support: https://mutpunkt.pro/affiliate-support-werbemittel
 - Canonical redirect: https://www.digistore24.com/redir/720178/adminstore
@@ -92,14 +92,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 66 Tage Stoffwechsel Reise? — Typ: Member area and video courses, Anbieter: mutpunkt-pro, gelistet seit 2026-08-11
-- Wie viel kostet es? — 111.81 USD
+- Wie viel kostet es? — 111.88 USD
 - Garantie? — 14
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 66 Tage Stoffwechsel Reise Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/720178
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/720178/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=66%20Tage%20Stoffwechsel%20Reise
 
 ## 4. Editorial notes

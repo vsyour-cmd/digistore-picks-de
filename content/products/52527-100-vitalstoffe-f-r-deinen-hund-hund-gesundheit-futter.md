@@ -4,40 +4,40 @@ digistore24_product_id: 546521
 title: "100 Vitalstoffe für deinen Hund - Hund Gesundheit Futter"
 vendor: "Loverie"
 product_type: "E-books"
-price: 41.78
+price: 41.81
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 20.9
+earnings_per_sale: 20.91
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Animals & Pets","Health & Fitness"]
+categories: ["Health & Fitness","Animals & Pets"]
 listed_since: "2024-04-02"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/52527/adminstore/"
+promo_link: "https://hundegesundheit.little-lovin.de/98046383-2639-4610-ae66-ad5926cba02a/?aff=adminstore#aff=adminstore"
 sales_page: "https://hundegesundheit.little-lovin.de/98046383-2639-4610-ae66-ad5926cba02a/"
 language: "de"
 ---
 # 100 Vitalstoffe für deinen Hund - Hund Gesundheit Futter
 
 > Product ID `52527` · Digistore24 productId `546521` · [HTML profile page](../../produkte/100-vitalstoffe-f-r-deinen-hund-hund-gesundheit-futter-52527.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $41.78 (Single payment, Installment) |
+| Price | $41.81 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $20.90 |
+| Earnings/sale* | $20.91 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Loverie |
 | Listed since | 2024-04-02 |
 | Auto-accept affiliates | yes |
-| Categories | Animals & Pets, Health & Fitness |
+| Categories | Health & Fitness, Animals & Pets |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/52527/adminstore/
+- **Promo link (affiliate):** https://hundegesundheit.little-lovin.de/98046383-2639-4610-ae66-ad5926cba02a/?aff=adminstore#aff=adminstore
 - Sales page: https://hundegesundheit.little-lovin.de/98046383-2639-4610-ae66-ad5926cba02a/
 - Canonical redirect: https://www.digistore24.com/redir/546521/adminstore
 
@@ -74,14 +74,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 100 Vitalstoffe für deinen Hund - Hund Gesundheit Futter? — Typ: E-books, Anbieter: Loverie, gelistet seit 2024-04-02
-- Wie viel kostet es? — 41.783397 USD
+- Wie viel kostet es? — 41.809556 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 100 Vitalstoffe für deinen Hund - Hund Gesundheit Futter Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/546521
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/546521/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=100%20Vitalstoffe%20f%C3%BCr%20deinen%20Hund%20-%20Hund%20Gesundheit%20Futter
 
 ## 4. Editorial notes

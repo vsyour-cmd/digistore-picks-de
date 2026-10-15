@@ -4,16 +4,16 @@ digistore24_product_id: 611450
 title: "Der Performance Code –  Produktivität auf Autopilot, Erfolg"
 vendor: "Snatchez"
 product_type: "Member area and video courses"
-price: 206.7
+price: 206.83
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 103.36
+earnings_per_sale: 103.42
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Profession & Job"]
 listed_since: "2025-05-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/product/611450?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/611450"
@@ -22,16 +22,16 @@ language: "de"
 # Der Performance Code –  Produktivität auf Autopilot, Erfolg
 
 > Product ID `52435` · Digistore24 productId `611450` · [HTML profile page](../../produkte/der-performance-code-produktivit-t-auf-autopilot-erfolg-52435.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $206.70 (Single payment, Installment) |
+| Price | $206.83 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $103.36 |
+| Earnings/sale* | $103.42 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Snatchez |
@@ -91,14 +91,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Performance Code –  Produktivität auf Autopilot, Erfolg? — Typ: Member area and video courses, Anbieter: Snatchez, gelistet seit 2025-05-07
-- Wie viel kostet es? — 206.70314700000003 USD
+- Wie viel kostet es? — 206.832556 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Der Performance Code –  Produktivität auf Autopilot, Erfolg Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/611450
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/611450/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%20Performance%20Code%20%E2%80%93%20%20Produktivit%C3%A4t%20auf%20Autopilot%2C%20Erfolg
 
 ## 4. Editorial notes

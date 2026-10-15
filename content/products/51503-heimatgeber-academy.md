@@ -4,34 +4,34 @@ digistore24_product_id: 508997
 title: "Heimatgeber Academy"
 vendor: "AndreHerrmann007"
 product_type: "Member area and video courses"
-price: 165.48
+price: 165.58
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 49.64
+earnings_per_sale: 49.67
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Education","Real Estate"]
 listed_since: "2023-07-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/51503/adminstore/"
+promo_link: "https://heimatgeber.academy/gelbgurt?aff=adminstore#aff=adminstore"
 sales_page: "https://heimatgeber.academy/gelbgurt"
 language: "de"
 ---
 # Heimatgeber Academy
 
 > Product ID `51503` · Digistore24 productId `508997` · [HTML profile page](../../produkte/heimatgeber-academy-51503.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $165.48 (Subscription) |
+| Price | $165.58 (Subscription) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $49.64 |
+| Earnings/sale* | $49.67 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | AndreHerrmann007 |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/51503/adminstore/
+- **Promo link (affiliate):** https://heimatgeber.academy/gelbgurt?aff=adminstore#aff=adminstore
 - Sales page: https://heimatgeber.academy/gelbgurt
 - Vendor affiliate support: https://heimatgeber.academy/partner
 - Canonical redirect: https://www.digistore24.com/redir/508997/adminstore
@@ -74,14 +74,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Heimatgeber Academy? — Typ: Member area and video courses, Anbieter: AndreHerrmann007, gelistet seit 2023-07-26
-- Wie viel kostet es? — 165.4788 USD
+- Wie viel kostet es? — 165.5824 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Heimatgeber Academy Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/508997
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/508997/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Heimatgeber%20Academy
 
 ## 4. Editorial notes

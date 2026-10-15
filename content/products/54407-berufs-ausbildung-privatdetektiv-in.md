@@ -4,40 +4,40 @@ digistore24_product_id: 632952
 title: "Berufs-Ausbildung Privatdetektiv/in"
 vendor: "LBBBildungsmanagement"
 product_type: "Member area and video courses"
-price: 488.58
+price: 488.88
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 97.71
+earnings_per_sale: 97.77
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Profession & Job"]
+categories: ["Profession & Job","Education"]
 listed_since: "2025-09-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/54407/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/632952?voucher=ROCKSBERG-2026&aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/632952?voucher=ROCKSBERG-2026"
 language: "de"
 ---
 # Berufs-Ausbildung Privatdetektiv/in
 
 > Product ID `54407` · Digistore24 productId `632952` · [HTML profile page](../../produkte/berufs-ausbildung-privatdetektiv-in-54407.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $488.58 (Single payment, Installment) |
+| Price | $488.88 (Single payment, Installment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $97.71 |
+| Earnings/sale* | $97.77 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | LBBBildungsmanagement |
 | Listed since | 2025-09-01 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Profession & Job |
+| Categories | Profession & Job, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/54407/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/632952?voucher=ROCKSBERG-2026&aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/632952?voucher=ROCKSBERG-2026
 - Canonical redirect: https://www.digistore24.com/redir/632952/adminstore
 
@@ -89,14 +89,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Berufs-Ausbildung Privatdetektiv/in? — Typ: Member area and video courses, Anbieter: LBBBildungsmanagement, gelistet seit 2025-09-01
-- Wie viel kostet es? — 488.5761570000001 USD
+- Wie viel kostet es? — 488.882036 USD
 - Garantie? — 14
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Berufs-Ausbildung Privatdetektiv/in Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/632952
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/632952/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Berufs-Ausbildung%20Privatdetektiv%2Fin
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 625079
 title: "High-Ticket PDF: \"Werbesystem statt Zufall\" – 40% Provision"
 vendor: "JumbMedia-Store"
 product_type: "E-books"
-price: 167.7
+price: 167.81
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 67.09
+earnings_per_sale: 67.13
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Business & Investment","Education","Online Marketing & E-Business"]
+categories: ["Business & Investment","Online Marketing & E-Business","Education"]
 listed_since: "2025-07-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/625079?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/625079"
@@ -22,22 +22,22 @@ language: "de"
 # High-Ticket PDF: "Werbesystem statt Zufall" – 40% Provision
 
 > Product ID `53246` · Digistore24 productId `625079` · [HTML profile page](../../produkte/high-ticket-pdf-werbesystem-statt-zufall-40-provision-53246.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $167.70 (Single payment) |
+| Price | $167.81 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $67.09 |
+| Earnings/sale* | $67.13 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | JumbMedia-Store |
 | Listed since | 2025-07-21 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Education, Online Marketing & E-Business |
+| Categories | Business & Investment, Online Marketing & E-Business, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -90,14 +90,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist High-Ticket PDF: "Werbesystem statt Zufall" – 40% Provision? — Typ: E-books, Anbieter: JumbMedia-Store, gelistet seit 2025-07-21
-- Wie viel kostet es? — 167.70381900000004 USD
+- Wie viel kostet es? — 167.80881200000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: High-Ticket PDF: "Werbesystem statt Zufall" – 40% Provision Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/625079
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/625079/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=High-Ticket%20PDF%3A%20%22Werbesystem%20statt%20Zufall%22%20%E2%80%93%2040%25%20Provision
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 681858
 title: "Finanz-Boost-Bundle | 5-Produkt-Funnel | 50% Provision"
 vendor: "HeikoBoos"
 product_type: "E-books"
-price: 142.11
+price: 142.2
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 71.06
+earnings_per_sale: 71.1
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Personal Development","Finances"]
+categories: ["Personal Development","Education","Finances"]
 listed_since: "2026-04-03"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://heikoboos.com/finanz-boost-bundle-ds24?aff=adminstore#aff=adminstore"
 sales_page: "https://heikoboos.com/finanz-boost-bundle-ds24"
@@ -22,22 +22,22 @@ language: "de"
 # Finanz-Boost-Bundle | 5-Produkt-Funnel | 50% Provision
 
 > Product ID `56166` · Digistore24 productId `681858` · [HTML profile page](../../produkte/finanz-boost-bundle-5-produkt-funnel-50-provision-56166.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $142.11 (Single payment, Installment) |
+| Price | $142.20 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $71.06 |
+| Earnings/sale* | $71.10 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | HeikoBoos |
 | Listed since | 2026-04-03 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Personal Development, Finances |
+| Categories | Personal Development, Education, Finances |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -101,14 +101,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Finanz-Boost-Bundle | 5-Produkt-Funnel | 50% Provision? — Typ: E-books, Anbieter: HeikoBoos, gelistet seit 2026-04-03
-- Wie viel kostet es? — 142.11051 USD
+- Wie viel kostet es? — 142.19948 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Finanz-Boost-Bundle | 5-Produkt-Funnel | 50% Provision Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/681858
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/681858/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Finanz-Boost-Bundle%20%7C%205-Produkt-Funnel%20%7C%2050%25%20Provision
 
 ## 4. Editorial notes

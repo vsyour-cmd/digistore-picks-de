@@ -4,16 +4,16 @@ digistore24_product_id: 44409
 title: "Digital Money Maker Club - von Gunnar Kessler"
 vendor: "GTK-littlefreilich"
 product_type: "Member area and video courses"
-price: 125.36
+price: 125.44
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 239.97
+earnings_per_sale: 240.12
 cart_conversion_pct: 2
 cancel_rate_pct: 10.14
 categories: ["Profession & Job"]
 listed_since: "2015-03-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://byebyeschufterei.de/dmmc-7500/?aff=adminstore#aff=adminstore"
 sales_page: "https://byebyeschufterei.de/dmmc-7500/"
@@ -22,16 +22,16 @@ language: "de"
 # Digital Money Maker Club - von Gunnar Kessler
 
 > Product ID `6671` · Digistore24 productId `44409` · [HTML profile page](../../produkte/digital-money-maker-club-von-gunnar-kessler-6671.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $125.36 (Subscription) |
+| Price | $125.44 (Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $239.97 |
+| Earnings/sale* | $240.12 |
 | Cart conversion* | 2% |
 | Cancel rate* | 10.14% |
 | Vendor | GTK-littlefreilich |
@@ -87,14 +87,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Digital Money Maker Club - von Gunnar Kessler? — Typ: Member area and video courses, Anbieter: GTK-littlefreilich, gelistet seit 2015-03-05
-- Wie viel kostet es? — 125.36137200000002 USD
+- Wie viel kostet es? — 125.439856 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Digital Money Maker Club - von Gunnar Kessler Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/44409
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/44409/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Digital%20Money%20Maker%20Club%20-%20von%20Gunnar%20Kessler
 
 ## 4. Editorial notes

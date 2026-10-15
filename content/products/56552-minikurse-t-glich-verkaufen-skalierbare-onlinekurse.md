@@ -4,16 +4,16 @@ digistore24_product_id: 688026
 title: "Minikurse täglich verkaufen, skalierbare Onlinekurse"
 vendor: "Jyotima"
 product_type: "Member area and video courses"
-price: 63.73
+price: 63.77
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 19.12
+earnings_per_sale: 19.13
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Marketing Services"]
 listed_since: "2026-05-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://jyotimaflak.com/minikurs-hotcake/?aff=adminstore#aff=adminstore"
 sales_page: "https://jyotimaflak.com/minikurs-hotcake/"
@@ -22,16 +22,16 @@ language: "de"
 # Minikurse täglich verkaufen, skalierbare Onlinekurse
 
 > Product ID `56552` · Digistore24 productId `688026` · [HTML profile page](../../produkte/minikurse-t-glich-verkaufen-skalierbare-onlinekurse-56552.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $63.73 (Single payment, Installment) |
+| Price | $63.77 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $19.12 |
+| Earnings/sale* | $19.13 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Jyotima |
@@ -82,14 +82,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Minikurse täglich verkaufen, skalierbare Onlinekurse? — Typ: Member area and video courses, Anbieter: Jyotima, gelistet seit 2026-05-18
-- Wie viel kostet es? — 63.731700000000004 USD
+- Wie viel kostet es? — 63.7716 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Minikurse täglich verkaufen, skalierbare Onlinekurse Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/688026
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/688026/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Minikurse%20t%C3%A4glich%20verkaufen%2C%20skalierbare%20Onlinekurse
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 742561
 title: "C-Level Kommunikation. The Personal Branding Program."
 vendor: "sonjakopplin"
 product_type: "Member area and video courses"
-price: 657.71
+price: 658.12
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 65.77
+earnings_per_sale: 65.81
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: []
+categories: ["Profession & Job","Social Media","Marketing Services"]
 listed_since: "2026-10-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://sonja-kopplin.jimdofree.com/beratung/personal-branding/?aff=adminstore#aff=adminstore"
 sales_page: "https://sonja-kopplin.jimdofree.com/beratung/personal-branding/"
@@ -22,22 +22,22 @@ language: "de"
 # C-Level Kommunikation. The Personal Branding Program.
 
 > Product ID `60416` · Digistore24 productId `742561` · [HTML profile page](../../produkte/c-level-kommunikation-the-personal-branding-program-60416.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $657.71 (Single payment, Installment) |
+| Price | $658.12 (Single payment, Installment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $65.77 |
+| Earnings/sale* | $65.81 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | sonjakopplin |
 | Listed since | 2026-10-08 |
 | Auto-accept affiliates | no (approval required) |
-| Categories | Uncategorized |
+| Categories | Profession & Job, Social Media, Marketing Services |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -66,14 +66,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist C-Level Kommunikation. The Personal Branding Program.? — Typ: Member area and video courses, Anbieter: sonjakopplin, gelistet seit 2026-10-08
-- Wie viel kostet es? — 657.7111440000001 USD
+- Wie viel kostet es? — 658.122912 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: C-Level Kommunikation. The Personal Branding Program. Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/742561
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/742561/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=C-Level%20Kommunikation.%20The%20Personal%20Branding%20Program.
 
 ## 4. Editorial notes

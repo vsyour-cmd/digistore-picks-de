@@ -4,34 +4,34 @@ digistore24_product_id: 537143
 title: "QUICKPIX AI - \"KI\" Kreativität für deine Grafiken und Bilder"
 vendor: "sattelitevendor"
 product_type: "Member area and video courses"
-price: 127.46
+price: 127.54
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 50.99
+earnings_per_sale: 51.02
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Online Marketing"]
 listed_since: "2024-02-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/47135/adminstore/"
+promo_link: "https://www.quickpixai.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.quickpixai.com/"
 language: "de"
 ---
 # QUICKPIX AI - "KI" Kreativität für deine Grafiken und Bilder
 
 > Product ID `47135` · Digistore24 productId `537143` · [HTML profile page](../../produkte/quickpix-ai-ki-kreativit-t-f-r-deine-grafiken-und-bilder-47135.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $127.46 (Single payment, Installment) |
+| Price | $127.54 (Single payment, Installment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $50.99 |
+| Earnings/sale* | $51.02 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | sattelitevendor |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/47135/adminstore/
+- **Promo link (affiliate):** https://www.quickpixai.com/?aff=adminstore#aff=adminstore
 - Sales page: https://www.quickpixai.com/
 - Vendor affiliate support: https://quickpixai.com/partnerprogramm
 - Canonical redirect: https://www.digistore24.com/redir/537143/adminstore
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist QUICKPIX AI - "KI" Kreativität für deine Grafiken und Bilder? — Typ: Member area and video courses, Anbieter: sattelitevendor, gelistet seit 2024-02-01
-- Wie viel kostet es? — 127.46340000000001 USD
+- Wie viel kostet es? — 127.5432 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: QUICKPIX AI - "KI" Kreativität für deine Grafiken und Bilder Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/537143
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/537143/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=QUICKPIX%20AI%20-%20%22KI%22%20Kreativit%C3%A4t%20f%C3%BCr%20deine%20Grafiken%20und%20Bilder
 
 ## 4. Editorial notes

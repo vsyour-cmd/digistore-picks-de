@@ -4,16 +4,16 @@ digistore24_product_id: 264869
 title: "Onlinebusiness-Heldin: Dein Onlinebusiness in 3 Monaten"
 vendor: "growstudio"
 product_type: "Member area and video courses"
-price: 417.17
+price: 417.44
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 125.15
+earnings_per_sale: 125.23
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2019-03-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.businessheldinnen.com/onlinebusinessheldin/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.businessheldinnen.com/onlinebusinessheldin/"
@@ -22,16 +22,16 @@ language: "de"
 # Onlinebusiness-Heldin: Dein Onlinebusiness in 3 Monaten
 
 > Product ID `47774` · Digistore24 productId `264869` · [HTML profile page](../../produkte/onlinebusiness-heldin-dein-onlinebusiness-in-3-monaten-47774.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $417.17 (Single payment, Installment) |
+| Price | $417.44 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $125.15 |
+| Earnings/sale* | $125.23 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | growstudio |
@@ -88,14 +88,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Onlinebusiness-Heldin: Dein Onlinebusiness in 3 Monaten? — Typ: Member area and video courses, Anbieter: growstudio, gelistet seit 2019-03-21
-- Wie viel kostet es? — 417.17429100000004 USD
+- Wie viel kostet es? — 417.435468 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Onlinebusiness-Heldin: Dein Onlinebusiness in 3 Monaten Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/264869
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/264869/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Onlinebusiness-Heldin%3A%20Dein%20Onlinebusiness%20in%203%20Monaten
 
 ## 4. Editorial notes

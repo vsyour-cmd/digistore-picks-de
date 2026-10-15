@@ -4,34 +4,34 @@ digistore24_product_id: 495370
 title: "Work Life Balance 2023 (Ebook)"
 vendor: "RSMedicalWorldwide"
 product_type: "E-books"
-price: 15.66
+price: 15.67
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 4.47
+earnings_per_sale: 4.48
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2023-04-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/43697/adminstore/"
+promo_link: "https://www.digistore24.com/product/495370?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/495370"
 language: "de"
 ---
 # Work Life Balance 2023 (Ebook)
 
 > Product ID `43697` · Digistore24 productId `495370` · [HTML profile page](../../produkte/work-life-balance-2023-ebook-43697.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $15.66 (Single payment) |
+| Price | $15.67 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $4.47 |
+| Earnings/sale* | $4.48 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | RSMedicalWorldwide |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/43697/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/495370?aff=adminstore
 - Sales page: https://www.digistore24.com/product/495370
 - Canonical redirect: https://www.digistore24.com/redir/495370/adminstore
 
@@ -68,14 +68,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Work Life Balance 2023 (Ebook)? — Typ: E-books, Anbieter: RSMedicalWorldwide, gelistet seit 2023-04-21
-- Wie viel kostet es? — 15.664581000000002 USD
+- Wie viel kostet es? — 15.674388 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Work Life Balance 2023 (Ebook) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/495370
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/495370/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Work%20Life%20Balance%202023%20(Ebook)
 
 ## 4. Editorial notes

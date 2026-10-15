@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Services","Marketing Services"]
 listed_since: "2025-12-03"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://robotics-marketing.com/de-landing/2euro-zoom-meeting-qa-digistore24/?aff=adminstore#aff=adminstore"
 sales_page: "https://robotics-marketing.com/de-landing/2euro-zoom-meeting-qa-digistore24/"
@@ -22,7 +22,7 @@ language: "de"
 # Info-Meeting buchen für Dienstleistungen Webpages Eshops Ema
 
 > Product ID `54834` · Digistore24 productId `652834` · [HTML profile page](../../produkte/info-meeting-buchen-f-r-dienstleistungen-webpages-eshops-ema-54834.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -78,14 +78,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Info-Meeting buchen für Dienstleistungen Webpages Eshops Ema? — Typ: Online coaching, Anbieter: Skenteridis, gelistet seit 2025-12-03
-- Wie viel kostet es? — 2.2362 USD
+- Wie viel kostet es? — 2.2376 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Info-Meeting buchen für Dienstleistungen Webpages Eshops Ema Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/652834
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/652834/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Info-Meeting%20buchen%20f%C3%BCr%20Dienstleistungen%20Webpages%20Eshops%20Ema
 
 ## 4. Editorial notes

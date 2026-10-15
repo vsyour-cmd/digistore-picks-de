@@ -4,34 +4,34 @@ digistore24_product_id: 368373
 title: "ClickSummits - All-In-One Kongress Software"
 vendor: "clicksummits"
 product_type: "Software"
-price: 878.96
+price: 879.51
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 152.45
+earnings_per_sale: 152.55
 cart_conversion_pct: 37
 cancel_rate_pct: 3.67
 categories: ["Software"]
 listed_since: "2021-01-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/40527/adminstore/"
+promo_link: "https://clicksummits.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://clicksummits.com/"
 language: "de"
 ---
 # ClickSummits - All-In-One Kongress Software
 
 > Product ID `40527` · Digistore24 productId `368373` · [HTML profile page](../../produkte/clicksummits-all-in-one-kongress-software-40527.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $878.96 (Subscription) |
+| Price | $879.51 (Subscription) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $152.45 |
+| Earnings/sale* | $152.55 |
 | Cart conversion* | 37% |
 | Cancel rate* | 3.67% |
 | Vendor | clicksummits |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/40527/adminstore/
+- **Promo link (affiliate):** https://clicksummits.com/?aff=adminstore#aff=adminstore
 - Sales page: https://clicksummits.com/
 - Vendor affiliate support: https://clicksummits.com/partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/368373/adminstore
@@ -98,14 +98,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist ClickSummits - All-In-One Kongress Software? — Typ: Software, Anbieter: clicksummits, gelistet seit 2021-01-18
-- Wie viel kostet es? — 878.9607720000001 USD
+- Wie viel kostet es? — 879.511056 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: ClickSummits - All-In-One Kongress Software Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/368373
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/368373/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=ClickSummits%20-%20All-In-One%20Kongress%20Software
 
 ## 4. Editorial notes

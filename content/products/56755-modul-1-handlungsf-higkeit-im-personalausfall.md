@@ -4,34 +4,34 @@ digistore24_product_id: 669458
 title: "Modul 1 – Handlungsfähigkeit im Personalausfall"
 vendor: "weipert-consulting-gmbh"
 product_type: "Downloads"
-price: 233.95
+price: 234.1
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 46.79
+earnings_per_sale: 46.82
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Politics & Economy","Leadership & Management"]
 listed_since: "2026-05-31"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/56755/adminstore/"
+promo_link: "https://weipert-consulting.de/handlungsfaehigkeit-im-personalausfall/?aff=adminstore#aff=adminstore"
 sales_page: "https://weipert-consulting.de/handlungsfaehigkeit-im-personalausfall/"
 language: "de"
 ---
 # Modul 1 – Handlungsfähigkeit im Personalausfall
 
 > Product ID `56755` · Digistore24 productId `669458` · [HTML profile page](../../produkte/modul-1-handlungsf-higkeit-im-personalausfall-56755.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $233.95 (Single payment) |
+| Price | $234.10 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $46.79 |
+| Earnings/sale* | $46.82 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | weipert-consulting-gmbh |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56755/adminstore/
+- **Promo link (affiliate):** https://weipert-consulting.de/handlungsfaehigkeit-im-personalausfall/?aff=adminstore#aff=adminstore
 - Sales page: https://weipert-consulting.de/handlungsfaehigkeit-im-personalausfall/
 - Canonical redirect: https://www.digistore24.com/redir/669458/adminstore
 
@@ -77,14 +77,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Modul 1 – Handlungsfähigkeit im Personalausfall? — Typ: Downloads, Anbieter: weipert-consulting-gmbh, gelistet seit 2026-05-31
-- Wie viel kostet es? — 233.95124400000003 USD
+- Wie viel kostet es? — 234.097712 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Modul 1 – Handlungsfähigkeit im Personalausfall Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/669458
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/669458/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Modul%201%20%E2%80%93%20Handlungsf%C3%A4higkeit%20im%20Personalausfall
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 666030
 title: "AI SEO GEO \"Level1\". Mehr Sichtbar an LLM KI-Systeme Modelle"
 vendor: "Skenteridis"
 product_type: "Remote service provided electronically"
-price: 167.72
+price: 167.82
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 50.31
+earnings_per_sale: 50.35
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Services","Marketing Services"]
 listed_since: "2026-02-02"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://robotics-marketing.com/de-landing/ai-seo-geo-digistore24-level1/?aff=adminstore#aff=adminstore"
 sales_page: "https://robotics-marketing.com/de-landing/ai-seo-geo-digistore24-level1/"
@@ -22,16 +22,16 @@ language: "de"
 # AI SEO GEO "Level1". Mehr Sichtbar an LLM KI-Systeme Modelle
 
 > Product ID `55464` · Digistore24 productId `666030` · [HTML profile page](../../produkte/ai-seo-geo-level1-mehr-sichtbar-an-llm-ki-systeme-modelle-55464.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $167.72 (Single payment, Installment) |
+| Price | $167.82 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $50.31 |
+| Earnings/sale* | $50.35 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Skenteridis |
@@ -93,14 +93,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist AI SEO GEO "Level1". Mehr Sichtbar an LLM KI-Systeme Modelle? — Typ: Remote service provided electronically, Anbieter: Skenteridis, gelistet seit 2026-02-02
-- Wie viel kostet es? — 167.715 USD
+- Wie viel kostet es? — 167.82 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: AI SEO GEO "Level1". Mehr Sichtbar an LLM KI-Systeme Modelle Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/666030
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/666030/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=AI%20SEO%20GEO%20%22Level1%22.%20Mehr%20Sichtbar%20an%20LLM%20KI-Systeme%20Modelle
 
 ## 4. Editorial notes

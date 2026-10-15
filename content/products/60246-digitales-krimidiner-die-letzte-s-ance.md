@@ -4,16 +4,16 @@ digistore24_product_id: 742050
 title: "Digitales Krimidiner - Die letzte Séance"
 vendor: "krimery"
 product_type: "Software"
-price: 15.97
+price: 15.98
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 11.97
+earnings_per_sale: 11.98
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children","Fun & Games"]
 listed_since: "2026-10-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
 promo_link: "https://www.digistore24.com/redir/742050/adminstore"
 sales_page: "https://krimery.de/angebot/die-letzte-seance?aff=[AFFILIATE]&cam=[CAMPAIGNKEY]&ds24tr=[TRACKINGKEY]"
@@ -22,16 +22,16 @@ language: "de"
 # Digitales Krimidiner - Die letzte Séance
 
 > Product ID `60246` · Digistore24 productId `742050` · [HTML profile page](../../produkte/digitales-krimidiner-die-letzte-s-ance-60246.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $15.97 (Single payment) |
+| Price | $15.98 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $11.97 |
+| Earnings/sale* | $11.98 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | krimery |
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Digitales Krimidiner - Die letzte Séance? — Typ: Software, Anbieter: krimery, gelistet seit 2026-10-06
-- Wie viel kostet es? — 15.966468 USD
+- Wie viel kostet es? — 15.976464 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Digitales Krimidiner - Die letzte Séance Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/742050
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/742050/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Digitales%20Krimidiner%20-%20Die%20letzte%20S%C3%A9ance
 
 ## 4. Editorial notes

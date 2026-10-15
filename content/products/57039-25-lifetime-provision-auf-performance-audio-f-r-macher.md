@@ -4,34 +4,34 @@ digistore24_product_id: 697850
 title: "25 % Lifetime-Provision auf Performance-Audio für Macher!"
 vendor: "iQVibesPro"
 product_type: "Member area and video courses"
-price: 62.95
+price: 62.99
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 15.74
+earnings_per_sale: 15.75
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Profession & Job"]
 listed_since: "2026-06-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/57039/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/697850?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/697850"
 language: "de"
 ---
 # 25 % Lifetime-Provision auf Performance-Audio für Macher!
 
 > Product ID `57039` · Digistore24 productId `697850` · [HTML profile page](../../produkte/25-lifetime-provision-auf-performance-audio-f-r-macher-57039.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $62.95 (Subscription) |
+| Price | $62.99 (Subscription) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $15.74 |
+| Earnings/sale* | $15.75 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | iQVibesPro |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/57039/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/697850?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/697850
 - Vendor affiliate support: https://iqvibestune.com/affiliate
 - Canonical redirect: https://www.digistore24.com/redir/697850/adminstore
@@ -80,14 +80,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 25 % Lifetime-Provision auf Performance-Audio für Macher!? — Typ: Member area and video courses, Anbieter: iQVibesPro, gelistet seit 2026-06-17
-- Wie viel kostet es? — 62.94903 USD
+- Wie viel kostet es? — 62.98844 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 25 % Lifetime-Provision auf Performance-Audio für Macher! Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/697850
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/697850/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=25%20%25%20Lifetime-Provision%20auf%20Performance-Audio%20f%C3%BCr%20Macher!
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 401127
 title: "Leadership-Akademie mit 9 x Zoom in der Gruppe"
 vendor: "MENSCHLICHERFOLGREICH"
 product_type: "Member area and video courses"
-price: 2482.18
+price: 2483.74
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 248.22
+earnings_per_sale: 248.37
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2021-08-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://online-akademie.angela-dietz.de/?page_id=7960&aff=adminstore#aff=adminstore"
 sales_page: "https://online-akademie.angela-dietz.de/?page_id=7960"
@@ -22,16 +22,16 @@ language: "de"
 # Leadership-Akademie mit 9 x Zoom in der Gruppe
 
 > Product ID `40826` · Digistore24 productId `401127` · [HTML profile page](../../produkte/leadership-akademie-mit-9-x-zoom-in-der-gruppe-40826.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $2482.18 (Single payment, Installment) |
+| Price | $2483.74 (Single payment, Installment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $248.22 |
+| Earnings/sale* | $248.37 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MENSCHLICHERFOLGREICH |
@@ -66,14 +66,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Leadership-Akademie mit 9 x Zoom in der Gruppe? — Typ: Member area and video courses, Anbieter: MENSCHLICHERFOLGREICH, gelistet seit 2021-08-05
-- Wie viel kostet es? — 2482.1820000000002 USD
+- Wie viel kostet es? — 2483.736 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Leadership-Akademie mit 9 x Zoom in der Gruppe Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/401127
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/401127/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Leadership-Akademie%20mit%209%20x%20Zoom%20in%20der%20Gruppe
 
 ## 4. Editorial notes

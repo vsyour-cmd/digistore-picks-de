@@ -4,34 +4,34 @@ digistore24_product_id: 608337
 title: "Lifestyle Rebell"
 vendor: "AndreasLang"
 product_type: "Member area and video courses"
-price: 141.38
+price: 141.47
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 86.24
+earnings_per_sale: 86.29
 cart_conversion_pct: 5
 cancel_rate_pct: 5.86
 categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2025-04-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/50017/adminstore/"
+promo_link: "https://www.lifestylerebell.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.lifestylerebell.de/"
 language: "de"
 ---
 # Lifestyle Rebell
 
 > Product ID `50017` · Digistore24 productId `608337` · [HTML profile page](../../produkte/lifestyle-rebell-50017.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $141.38 (Single payment) |
+| Price | $141.47 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $86.24 |
+| Earnings/sale* | $86.29 |
 | Cart conversion* | 5% |
 | Cancel rate* | 5.86% |
 | Vendor | AndreasLang |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/50017/adminstore/
+- **Promo link (affiliate):** https://www.lifestylerebell.de/?aff=adminstore#aff=adminstore
 - Sales page: https://www.lifestylerebell.de/
 - Vendor affiliate support: https://affiliateking.net/
 - Canonical redirect: https://www.digistore24.com/redir/608337/adminstore
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Lifestyle Rebell? — Typ: Member area and video courses, Anbieter: AndreasLang, gelistet seit 2025-04-20
-- Wie viel kostet es? — 141.383745 USD
+- Wie viel kostet es? — 141.47226 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Lifestyle Rebell Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/608337
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/608337/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Lifestyle%20Rebell
 
 ## 4. Editorial notes

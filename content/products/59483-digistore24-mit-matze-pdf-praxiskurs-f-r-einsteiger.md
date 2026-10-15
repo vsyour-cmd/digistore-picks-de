@@ -4,34 +4,34 @@ digistore24_product_id: 735782
 title: "Digistore24 mit Matze - PDF-Praxiskurs für Einsteiger"
 vendor: "einfachmitmatze"
 product_type: "E-books"
-price: 51.2
+price: 51.23
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 20.48
+earnings_per_sale: 20.5
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-09-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/59483/adminstore/"
+promo_link: "https://einfachmitmatze.de/digistore24/?aff=adminstore#aff=adminstore"
 sales_page: "https://einfachmitmatze.de/digistore24/"
 language: "de"
 ---
 # Digistore24 mit Matze - PDF-Praxiskurs für Einsteiger
 
 > Product ID `59483` · Digistore24 productId `735782` · [HTML profile page](../../produkte/digistore24-mit-matze-pdf-praxiskurs-f-r-einsteiger-59483.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $51.20 (Single payment) |
+| Price | $51.23 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $20.48 |
+| Earnings/sale* | $20.50 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | einfachmitmatze |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59483/adminstore/
+- **Promo link (affiliate):** https://einfachmitmatze.de/digistore24/?aff=adminstore#aff=adminstore
 - Sales page: https://einfachmitmatze.de/digistore24/
 - Vendor affiliate support: https://einfachmitmatze.de/partner-735782/
 - Canonical redirect: https://www.digistore24.com/redir/735782/adminstore
@@ -89,14 +89,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Digistore24 mit Matze - PDF-Praxiskurs für Einsteiger? — Typ: E-books, Anbieter: einfachmitmatze, gelistet seit 2026-09-21
-- Wie viel kostet es? — 51.197799 USD
+- Wie viel kostet es? — 51.229852 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Digistore24 mit Matze - PDF-Praxiskurs für Einsteiger Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/735782
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/735782/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Digistore24%20mit%20Matze%20-%20PDF-Praxiskurs%20f%C3%BCr%20Einsteiger
 
 ## 4. Editorial notes

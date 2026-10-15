@@ -4,16 +4,16 @@ digistore24_product_id: 736396
 title: "Faceless-Videos erstellen für Anfänger – Praxiskurs mit Matze"
 vendor: "einfachmitmatze"
 product_type: "Downloads"
-price: 74.23
+price: 74.28
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 29.7
+earnings_per_sale: 29.72
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-09-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/product/736396?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/736396"
@@ -22,16 +22,16 @@ language: "de"
 # Faceless-Videos erstellen für Anfänger – Praxiskurs mit Matze
 
 > Product ID `59576` · Digistore24 productId `736396` · [HTML profile page](../../produkte/faceless-videos-erstellen-f-r-anf-nger-praxiskurs-mit-matze-59576.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $74.23 (Single payment) |
+| Price | $74.28 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $29.70 |
+| Earnings/sale* | $29.72 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | einfachmitmatze |
@@ -88,14 +88,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Faceless-Videos erstellen für Anfänger – Praxiskurs mit Matze? — Typ: Downloads, Anbieter: einfachmitmatze, gelistet seit 2026-09-23
-- Wie viel kostet es? — 74.230659 USD
+- Wie viel kostet es? — 74.27713200000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Faceless-Videos erstellen für Anfänger – Praxiskurs mit Matze Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/736396
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/736396/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Faceless-Videos%20erstellen%20f%C3%BCr%20Anf%C3%A4nger%20%E2%80%93%20Praxiskurs%20mit%20Matze
 
 ## 4. Editorial notes

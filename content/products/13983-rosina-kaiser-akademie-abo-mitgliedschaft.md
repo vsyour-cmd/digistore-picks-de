@@ -4,34 +4,34 @@ digistore24_product_id: 100605
 title: "Rosina-Kaiser-Akademie (ABO-Mitgliedschaft)"
 vendor: "rosinakaiser"
 product_type: "Member area and video courses"
-price: 544.38
+price: 544.72
 currency: "USD"
 affiliate_commission_pct: 33
-earnings_per_sale: 47.09
+earnings_per_sale: 47.12
 cart_conversion_pct: 4
 cancel_rate_pct: 2.99
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2016-10-19"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.checkout-ds24.com/redir/13983/adminstore/"
+promo_link: "https://www.rosinakaiser.de/webinar?aff=adminstore#aff=adminstore"
 sales_page: "https://www.rosinakaiser.de/webinar"
 language: "de"
 ---
 # Rosina-Kaiser-Akademie (ABO-Mitgliedschaft)
 
 > Product ID `13983` · Digistore24 productId `100605` · [HTML profile page](../../produkte/rosina-kaiser-akademie-abo-mitgliedschaft-13983.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $544.38 (Subscription) |
+| Price | $544.72 (Subscription) |
 | Affiliate commission | 33% |
-| Earnings/sale* | $47.09 |
+| Earnings/sale* | $47.12 |
 | Cart conversion* | 4% |
 | Cancel rate* | 2.99% |
 | Vendor | rosinakaiser |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/redir/13983/adminstore/
+- **Promo link (affiliate):** https://www.rosinakaiser.de/webinar?aff=adminstore#aff=adminstore
 - Sales page: https://www.rosinakaiser.de/webinar
 - Vendor affiliate support: https://www.rosinakaiser.de/partnerprogramm
 - Canonical redirect: https://www.digistore24.com/redir/100605/adminstore
@@ -81,14 +81,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Rosina-Kaiser-Akademie (ABO-Mitgliedschaft)? — Typ: Member area and video courses, Anbieter: rosinakaiser, gelistet seit 2016-10-19
-- Wie viel kostet es? — 544.380528 USD
+- Wie viel kostet es? — 544.721344 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Rosina-Kaiser-Akademie (ABO-Mitgliedschaft) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/100605
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/100605/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Rosina-Kaiser-Akademie%20(ABO-Mitgliedschaft)
 
 ## 4. Editorial notes

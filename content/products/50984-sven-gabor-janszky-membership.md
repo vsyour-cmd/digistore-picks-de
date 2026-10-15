@@ -4,16 +4,16 @@ digistore24_product_id: 574211
 title: "Sven Gabor Janszky - Membership"
 vendor: "SvenGaborJanszky"
 product_type: "Member area and video courses"
-price: 1114.51
+price: 1115.21
 currency: "USD"
 affiliate_commission_pct: 47.5
-earnings_per_sale: 418.93
+earnings_per_sale: 419.19
 cart_conversion_pct: 7
 cancel_rate_pct: 4.91
-categories: ["Education","Personal Development"]
+categories: ["Personal Development","Education"]
 listed_since: "2024-10-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/574211?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/574211"
@@ -22,22 +22,22 @@ language: "de"
 # Sven Gabor Janszky - Membership
 
 > Product ID `50984` · Digistore24 productId `574211` · [HTML profile page](../../produkte/sven-gabor-janszky-membership-50984.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1114.51 (Subscription) |
+| Price | $1115.21 (Subscription) |
 | Affiliate commission | 47.5% |
-| Earnings/sale* | $418.93 |
+| Earnings/sale* | $419.19 |
 | Cart conversion* | 7% |
 | Cancel rate* | 4.91% |
 | Vendor | SvenGaborJanszky |
 | Listed since | 2024-10-08 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Personal Development |
+| Categories | Personal Development, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -80,14 +80,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Sven Gabor Janszky - Membership? — Typ: Member area and video courses, Anbieter: SvenGaborJanszky, gelistet seit 2024-10-08
-- Wie viel kostet es? — 1114.510899 USD
+- Wie viel kostet es? — 1115.208652 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Sven Gabor Janszky - Membership Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/574211
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/574211/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Sven%20Gabor%20Janszky%20-%20Membership
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 508432
 title: "Krypto Trading Akademie Master-Gewinn Online Ausbildung"
 vendor: "myworldofwealth"
 product_type: "Member area and video courses"
-price: 911.4
+price: 911.97
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 364.56
+earnings_per_sale: 364.78
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Business & Investment","Trading Products"]
+categories: ["Trading Products","Business & Investment"]
 listed_since: "2023-07-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/508432?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/508432"
@@ -22,22 +22,22 @@ language: "de"
 # Krypto Trading Akademie Master-Gewinn Online Ausbildung
 
 > Product ID `36250` · Digistore24 productId `508432` · [HTML profile page](../../produkte/krypto-trading-akademie-master-gewinn-online-ausbildung-36250.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $911.40 (Subscription) |
+| Price | $911.97 (Subscription) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $364.56 |
+| Earnings/sale* | $364.78 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | myworldofwealth |
 | Listed since | 2023-07-22 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Trading Products |
+| Categories | Trading Products, Business & Investment |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -82,14 +82,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Krypto Trading Akademie Master-Gewinn Online Ausbildung? — Typ: Member area and video courses, Anbieter: myworldofwealth, gelistet seit 2023-07-22
-- Wie viel kostet es? — 911.3968530000001 USD
+- Wie viel kostet es? — 911.967444 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Krypto Trading Akademie Master-Gewinn Online Ausbildung Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/508432
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/508432/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Krypto%20Trading%20Akademie%20Master-Gewinn%20Online%20Ausbildung
 
 ## 4. Editorial notes

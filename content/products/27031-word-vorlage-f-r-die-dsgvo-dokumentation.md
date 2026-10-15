@@ -4,34 +4,34 @@ digistore24_product_id: 240342
 title: "Word-Vorlage für die DSGVO-Dokumentation"
 vendor: "oliengel"
 product_type: "Downloads"
-price: 390.22
+price: 390.46
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 117.07
+earnings_per_sale: 117.14
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Law & Justice"]
 listed_since: "2018-09-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/27031/adminstore/"
+promo_link: "https://shop.dsgvo-vorlagen.de/dsgvo-vorlagen-excel-und-word-preise?aff=adminstore#aff=adminstore"
 sales_page: "https://shop.dsgvo-vorlagen.de/dsgvo-vorlagen-excel-und-word-preise"
 language: "de"
 ---
 # Word-Vorlage für die DSGVO-Dokumentation
 
 > Product ID `27031` · Digistore24 productId `240342` · [HTML profile page](../../produkte/word-vorlage-f-r-die-dsgvo-dokumentation-27031.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $390.22 (Single payment) |
+| Price | $390.46 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $117.07 |
+| Earnings/sale* | $117.14 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | oliengel |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/27031/adminstore/
+- **Promo link (affiliate):** https://shop.dsgvo-vorlagen.de/dsgvo-vorlagen-excel-und-word-preise?aff=adminstore#aff=adminstore
 - Sales page: https://shop.dsgvo-vorlagen.de/dsgvo-vorlagen-excel-und-word-preise
 - Canonical redirect: https://www.digistore24.com/redir/240342/adminstore
 
@@ -99,14 +99,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Word-Vorlage für die DSGVO-Dokumentation? — Typ: Downloads, Anbieter: oliengel, gelistet seit 2018-09-17
-- Wie viel kostet es? — 390.2169 USD
+- Wie viel kostet es? — 390.4612 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Word-Vorlage für die DSGVO-Dokumentation Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/240342
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/240342/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Word-Vorlage%20f%C3%BCr%20die%20DSGVO-Dokumentation
 
 ## 4. Editorial notes

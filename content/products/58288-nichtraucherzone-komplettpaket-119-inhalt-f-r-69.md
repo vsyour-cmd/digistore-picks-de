@@ -4,40 +4,40 @@ digistore24_product_id: 719675
 title: "Nichtraucherzone-Komplettpaket – 119 € Inhalt für 69 €"
 vendor: "HeikoBoos"
 product_type: "E-books"
-price: 124.34
+price: 124.42
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 62.18
+earnings_per_sale: 62.22
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Family & Children","Health & Fitness","Personal Development"]
+categories: ["Health & Fitness","Personal Development","Family & Children"]
 listed_since: "2026-08-11"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/58288/adminstore/"
+promo_link: "https://nichtraucherzone.de/das-nichtraucherzone-komplettpaket?aff=adminstore#aff=adminstore"
 sales_page: "https://nichtraucherzone.de/das-nichtraucherzone-komplettpaket"
 language: "de"
 ---
 # Nichtraucherzone-Komplettpaket – 119 € Inhalt für 69 €
 
 > Product ID `58288` · Digistore24 productId `719675` · [HTML profile page](../../produkte/nichtraucherzone-komplettpaket-119-inhalt-f-r-69-58288.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $124.34 (Single payment) |
+| Price | $124.42 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $62.18 |
+| Earnings/sale* | $62.22 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | HeikoBoos |
 | Listed since | 2026-08-11 |
 | Auto-accept affiliates | yes |
-| Categories | Family & Children, Health & Fitness, Personal Development |
+| Categories | Health & Fitness, Personal Development, Family & Children |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58288/adminstore/
+- **Promo link (affiliate):** https://nichtraucherzone.de/das-nichtraucherzone-komplettpaket?aff=adminstore#aff=adminstore
 - Sales page: https://nichtraucherzone.de/das-nichtraucherzone-komplettpaket
 - Vendor affiliate support: http://nichtraucherzone.de/partnerprogramm
 - Canonical redirect: https://www.digistore24.com/redir/719675/adminstore
@@ -98,14 +98,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Nichtraucherzone-Komplettpaket – 119 € Inhalt für 69 €? — Typ: E-books, Anbieter: HeikoBoos, gelistet seit 2026-08-11
-- Wie viel kostet es? — 124.343901 USD
+- Wie viel kostet es? — 124.421748 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Nichtraucherzone-Komplettpaket – 119 € Inhalt für 69 € Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/719675
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/719675/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Nichtraucherzone-Komplettpaket%20%E2%80%93%20119%20%E2%82%AC%20Inhalt%20f%C3%BCr%2069%20%E2%82%AC
 
 ## 4. Editorial notes

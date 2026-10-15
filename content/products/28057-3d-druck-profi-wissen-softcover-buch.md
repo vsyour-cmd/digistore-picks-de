@@ -4,34 +4,34 @@ digistore24_product_id: 254355
 title: "3D-Druck Profi-Wissen Softcover Buch"
 vendor: "Johannes-Lutz"
 product_type: "Book (printed)"
-price: 40.7
+price: 40.72
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 6.1
+earnings_per_sale: 6.11
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2018-12-30"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/28057/adminstore/"
+promo_link: "https://www.buch.3ddruck-wissen.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.buch.3ddruck-wissen.de/"
 language: "de"
 ---
 # 3D-Druck Profi-Wissen Softcover Buch
 
 > Product ID `28057` · Digistore24 productId `254355` · [HTML profile page](../../produkte/3d-druck-profi-wissen-softcover-buch-28057.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $40.70 (Single payment) |
+| Price | $40.72 (Single payment) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $6.10 |
+| Earnings/sale* | $6.11 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Johannes-Lutz |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/28057/adminstore/
+- **Promo link (affiliate):** https://www.buch.3ddruck-wissen.de/?aff=adminstore#aff=adminstore
 - Sales page: https://www.buch.3ddruck-wissen.de/
 - Canonical redirect: https://www.digistore24.com/redir/254355/adminstore
 
@@ -58,14 +58,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 3D-Druck Profi-Wissen Softcover Buch? — Typ: Book (printed), Anbieter: Johannes-Lutz, gelistet seit 2018-12-30
-- Wie viel kostet es? — 40.698840000000004 USD
+- Wie viel kostet es? — 40.72432 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 3D-Druck Profi-Wissen Softcover Buch Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/254355
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/254355/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=3D-Druck%20Profi-Wissen%20Softcover%20Buch
 
 ## 4. Editorial notes

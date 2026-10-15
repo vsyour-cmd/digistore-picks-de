@@ -4,16 +4,16 @@ digistore24_product_id: 450204
 title: "Der Nr. 1 Sportwetten Tippgeber in Deutschland"
 vendor: "BelogoSports"
 product_type: "Telephone coaching"
-price: 322.14
+price: 322.34
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 194.26
+earnings_per_sale: 194.38
 cart_conversion_pct: 7
 cancel_rate_pct: 1.75
 categories: ["Betting Systems"]
 listed_since: "2022-07-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/450204?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/450204"
@@ -22,16 +22,16 @@ language: "de"
 # Der Nr. 1 Sportwetten Tippgeber in Deutschland
 
 > Product ID `41360` · Digistore24 productId `450204` · [HTML profile page](../../produkte/der-nr-1-sportwetten-tippgeber-in-deutschland-41360.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Telephone coaching |
-| Price | $322.14 (Subscription) |
+| Price | $322.34 (Subscription) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $194.26 |
+| Earnings/sale* | $194.38 |
 | Cart conversion* | 7% |
 | Cancel rate* | 1.75% |
 | Vendor | BelogoSports |
@@ -87,14 +87,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Nr. 1 Sportwetten Tippgeber in Deutschland? — Typ: Telephone coaching, Anbieter: BelogoSports, gelistet seit 2022-07-07
-- Wie viel kostet es? — 322.13579100000004 USD
+- Wie viel kostet es? — 322.337468 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Der Nr. 1 Sportwetten Tippgeber in Deutschland Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/450204
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/450204/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%20Nr.%201%20Sportwetten%20Tippgeber%20in%20Deutschland
 
 ## 4. Editorial notes

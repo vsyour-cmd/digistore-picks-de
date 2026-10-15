@@ -4,16 +4,16 @@ digistore24_product_id: 668236
 title: "More than MONEY. More than HYPE."
 vendor: "MF-Digital-Solutions"
 product_type: "E-books"
-price: 20.8
+price: 20.81
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 12.48
+earnings_per_sale: 12.49
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2026-02-11"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/668236?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/668236"
@@ -22,16 +22,16 @@ language: "de"
 # More than MONEY. More than HYPE.
 
 > Product ID `55618` · Digistore24 productId `668236` · [HTML profile page](../../produkte/more-than-money-more-than-hype-55618.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.80 (Single payment) |
+| Price | $20.81 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $12.48 |
+| Earnings/sale* | $12.49 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MF-Digital-Solutions |
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist More than MONEY. More than HYPE.? — Typ: E-books, Anbieter: MF-Digital-Solutions, gelistet seit 2026-02-11
-- Wie viel kostet es? — 20.796660000000003 USD
+- Wie viel kostet es? — 20.80968 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: More than MONEY. More than HYPE. Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/668236
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/668236/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=More%20than%20MONEY.%20More%20than%20HYPE.
 
 ## 4. Editorial notes

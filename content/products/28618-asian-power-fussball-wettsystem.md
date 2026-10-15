@@ -4,16 +4,16 @@ digistore24_product_id: 266994
 title: "Asian Power (Fussball) Wettsystem"
 vendor: "kwugge"
 product_type: "Member area and video courses"
-price: 183.22
+price: 183.34
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 91.62
+earnings_per_sale: 91.67
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Betting Systems","Fun & Games","Sport"]
+categories: ["Betting Systems","Sport","Fun & Games"]
 listed_since: "2019-04-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://www.betrevolutionclub.com/asian-power-strategie-anleitung/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.betrevolutionclub.com/asian-power-strategie-anleitung/"
@@ -22,22 +22,22 @@ language: "de"
 # Asian Power (Fussball) Wettsystem
 
 > Product ID `28618` · Digistore24 productId `266994` · [HTML profile page](../../produkte/asian-power-fussball-wettsystem-28618.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $183.22 (Subscription) |
+| Price | $183.34 (Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $91.62 |
+| Earnings/sale* | $91.67 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | kwugge |
 | Listed since | 2019-04-06 |
 | Auto-accept affiliates | yes |
-| Categories | Betting Systems, Fun & Games, Sport |
+| Categories | Betting Systems, Sport, Fun & Games |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Asian Power (Fussball) Wettsystem? — Typ: Member area and video courses, Anbieter: kwugge, gelistet seit 2019-04-06
-- Wie viel kostet es? — 183.223047 USD
+- Wie viel kostet es? — 183.337756 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Asian Power (Fussball) Wettsystem Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/266994
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/266994/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Asian%20Power%20(Fussball)%20Wettsystem
 
 ## 4. Editorial notes

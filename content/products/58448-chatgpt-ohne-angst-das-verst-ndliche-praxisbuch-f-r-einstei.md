@@ -4,7 +4,7 @@ digistore24_product_id: 721041
 title: "ChatGPT ohne Angst: Das verständliche Praxisbuch für Einstei"
 vendor: "rs-onlineagentur"
 product_type: "E-books"
-price: 20.8
+price: 20.81
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 10.4
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2026-08-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://rita-scheer.de/chatgpt-ohne-angst/?aff=adminstore#aff=adminstore"
 sales_page: "https://rita-scheer.de/chatgpt-ohne-angst/"
@@ -22,14 +22,14 @@ language: "de"
 # ChatGPT ohne Angst: Das verständliche Praxisbuch für Einstei
 
 > Product ID `58448` · Digistore24 productId `721041` · [HTML profile page](../../produkte/chatgpt-ohne-angst-das-verst-ndliche-praxisbuch-f-r-einstei-58448.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.80 (Single payment) |
+| Price | $20.81 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $10.40 |
 | Cart conversion* | — |
@@ -81,14 +81,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist ChatGPT ohne Angst: Das verständliche Praxisbuch für Einstei? — Typ: E-books, Anbieter: rs-onlineagentur, gelistet seit 2026-08-18
-- Wie viel kostet es? — 20.796660000000003 USD
+- Wie viel kostet es? — 20.80968 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: ChatGPT ohne Angst: Das verständliche Praxisbuch für Einstei Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/721041
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/721041/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=ChatGPT%20ohne%20Angst%3A%20Das%20verst%C3%A4ndliche%20Praxisbuch%20f%C3%BCr%20Einstei
 
 ## 4. Editorial notes

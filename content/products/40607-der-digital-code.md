@@ -4,40 +4,40 @@ digistore24_product_id: 416984
 title: "DER DIGITAL CODE"
 vendor: "cduffner"
 product_type: "Member area and video courses"
-price: 512.07
+price: 512.39
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 51.21
+earnings_per_sale: 51.24
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Online Marketing & E-Business","Profession & Job"]
+categories: ["Online Marketing & E-Business","Profession & Job","Education"]
 listed_since: "2021-11-19"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/40607/adminstore/"
+promo_link: "https://digitalcode.funnelcockpit.com/lpor/?aff=adminstore#aff=adminstore"
 sales_page: "https://digitalcode.funnelcockpit.com/lpor/"
 language: "de"
 ---
 # DER DIGITAL CODE
 
 > Product ID `40607` · Digistore24 productId `416984` · [HTML profile page](../../produkte/der-digital-code-40607.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $512.07 (Single payment, Installment) |
+| Price | $512.39 (Single payment, Installment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $51.21 |
+| Earnings/sale* | $51.24 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | cduffner |
 | Listed since | 2021-11-19 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Online Marketing & E-Business, Profession & Job |
+| Categories | Online Marketing & E-Business, Profession & Job, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/40607/adminstore/
+- **Promo link (affiliate):** https://digitalcode.funnelcockpit.com/lpor/?aff=adminstore#aff=adminstore
 - Sales page: https://digitalcode.funnelcockpit.com/lpor/
 - Vendor affiliate support: https://dhba.funnelcockpit.com/partner
 - Canonical redirect: https://www.digistore24.com/redir/416984/adminstore
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist DER DIGITAL CODE? — Typ: Member area and video courses, Anbieter: cduffner, gelistet seit 2021-11-19
-- Wie viel kostet es? — 512.067438 USD
+- Wie viel kostet es? — 512.388024 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: DER DIGITAL CODE Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/416984
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/416984/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=DER%20DIGITAL%20CODE
 
 ## 4. Editorial notes

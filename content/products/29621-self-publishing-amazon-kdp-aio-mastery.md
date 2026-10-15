@@ -4,34 +4,34 @@ digistore24_product_id: 275608
 title: "Self Publishing Amazon KDP AIO Mastery!"
 vendor: "seotech"
 product_type: "Member area and video courses"
-price: 1002.53
+price: 1003.16
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 401.02
+earnings_per_sale: 401.27
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2019-06-13"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
-research_quality: "none"
-promo_link: "https://www.checkout-ds24.com/redir/29621/adminstore/"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
+research_quality: "medium"
+promo_link: "https://dein.hamsterradausstieg.de/kdmot/?aff=adminstore#aff=adminstore"
 sales_page: "https://dein.hamsterradausstieg.de/kdmot/"
 language: "de"
 ---
 # Self Publishing Amazon KDP AIO Mastery!
 
 > Product ID `29621` · Digistore24 productId `275608` · [HTML profile page](../../produkte/self-publishing-amazon-kdp-aio-mastery-29621.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1002.53 (Single payment, Installment) |
+| Price | $1003.16 (Single payment, Installment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $401.02 |
+| Earnings/sale* | $401.27 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | seotech |
@@ -45,14 +45,20 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/redir/29621/adminstore/
+- **Promo link (affiliate):** https://dein.hamsterradausstieg.de/kdmot/?aff=adminstore#aff=adminstore
 - Sales page: https://dein.hamsterradausstieg.de/kdmot/
 - Vendor affiliate support: https://www.incomebutler.com/affiliate-supportseite/
 - Canonical redirect: https://www.digistore24.com/redir/275608/adminstore
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Online Training Amazon Steinzeit Business
+- **Meta description:** Online Training Amazon Steinzeit Business
+- **Opening copy (first paragraphs):**
+  > Wie Anfänger ohne Webseite, Technik oder Social Media, anonym Geld verdienen, mit einfachen PDF-Dateien...
+  > Jetzt einen der letzten Plätze zum kostenfreien Online-Training sichern und erfahren, wie du das einfachste System für dein eigenes Online Business nutzt.
+  > STOP! Du begehst gerade einen großen Fehler. Erfahre kostenlos, wie du dir ein 4-5 stelliges Einkommen mit einfachen PDF-Dateien aufbaue kannst... Sichere dir daher jetzt einen der heiß begehrten Plätze und danke dir später.
+- **Page word count:** 364
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
@@ -67,14 +73,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Self Publishing Amazon KDP AIO Mastery!? — Typ: Member area and video courses, Anbieter: seotech, gelistet seit 2019-06-13
-- Wie viel kostet es? — 1002.5331840000001 USD
+- Wie viel kostet es? — 1003.160832 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Self Publishing Amazon KDP AIO Mastery! Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/275608
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/275608/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Self%20Publishing%20Amazon%20KDP%20AIO%20Mastery!
 
 ## 4. Editorial notes

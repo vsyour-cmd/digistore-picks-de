@@ -4,16 +4,16 @@ digistore24_product_id: 521851
 title: "Kommunikative und gymnastische Bodenarbeit"
 vendor: "Horse-Balance"
 product_type: "Member area and video courses"
-price: 46.88
+price: 46.91
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 4.68
+earnings_per_sale: 4.69
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets","Animals & Pets"]
 listed_since: "2023-10-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/521851?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/521851"
@@ -22,16 +22,16 @@ language: "de"
 # Kommunikative und gymnastische Bodenarbeit
 
 > Product ID `53350` · Digistore24 productId `521851` · [HTML profile page](../../produkte/kommunikative-und-gymnastische-bodenarbeit-53350.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $46.88 (Single payment) |
+| Price | $46.91 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $4.68 |
+| Earnings/sale* | $4.69 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Horse-Balance |
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Kommunikative und gymnastische Bodenarbeit? — Typ: Member area and video courses, Anbieter: Horse-Balance, gelistet seit 2023-10-20
-- Wie viel kostet es? — 46.881933000000004 USD
+- Wie viel kostet es? — 46.911284 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Kommunikative und gymnastische Bodenarbeit Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/521851
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/521851/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Kommunikative%20und%20gymnastische%20Bodenarbeit
 
 ## 4. Editorial notes

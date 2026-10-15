@@ -4,16 +4,16 @@ digistore24_product_id: 502326
 title: "SECRETS OF ALGO-TRADING - UNDERGROUND-TRADERS.COM"
 vendor: "UGT2022"
 product_type: "Member area and video courses"
-price: 357.03
+price: 357.26
 currency: "USD"
 affiliate_commission_pct: 45
-earnings_per_sale: 281.73
+earnings_per_sale: 281.9
 cart_conversion_pct: 2
 cancel_rate_pct: 1.93
 categories: ["Trading Products"]
 listed_since: "2023-06-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://underground-traders.com/secrets-of-algotrading/?aff=adminstore#aff=adminstore"
 sales_page: "https://underground-traders.com/secrets-of-algotrading/"
@@ -22,16 +22,16 @@ language: "de"
 # SECRETS OF ALGO-TRADING - UNDERGROUND-TRADERS.COM
 
 > Product ID `45352` · Digistore24 productId `502326` · [HTML profile page](../../produkte/secrets-of-algo-trading-underground-traders-com-45352.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $357.03 (Single payment, Installment) |
+| Price | $357.26 (Single payment, Installment) |
 | Affiliate commission | 45% |
-| Earnings/sale* | $281.73 |
+| Earnings/sale* | $281.90 |
 | Cart conversion* | 2% |
 | Cancel rate* | 1.93% |
 | Vendor | UGT2022 |
@@ -86,14 +86,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist SECRETS OF ALGO-TRADING - UNDERGROUND-TRADERS.COM? — Typ: Member area and video courses, Anbieter: UGT2022, gelistet seit 2023-06-08
-- Wie viel kostet es? — 357.031692 USD
+- Wie viel kostet es? — 357.255216 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: SECRETS OF ALGO-TRADING - UNDERGROUND-TRADERS.COM Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/502326
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/502326/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=SECRETS%20OF%20ALGO-TRADING%20-%20UNDERGROUND-TRADERS.COM
 
 ## 4. Editorial notes

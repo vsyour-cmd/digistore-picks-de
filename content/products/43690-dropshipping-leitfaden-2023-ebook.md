@@ -4,16 +4,16 @@ digistore24_product_id: 495399
 title: "Dropshipping Leitfaden 2023 (Ebook)"
 vendor: "RSMedicalWorldwide"
 product_type: "E-books"
-price: 52.24
+price: 52.27
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 27.95
+earnings_per_sale: 27.97
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2023-04-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/495399?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/495399"
@@ -22,16 +22,16 @@ language: "de"
 # Dropshipping Leitfaden 2023 (Ebook)
 
 > Product ID `43690` · Digistore24 productId `495399` · [HTML profile page](../../produkte/dropshipping-leitfaden-2023-ebook-43690.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $52.24 (Single payment) |
+| Price | $52.27 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $27.95 |
+| Earnings/sale* | $27.97 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | RSMedicalWorldwide |
@@ -88,14 +88,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Dropshipping Leitfaden 2023 (Ebook)? — Typ: E-books, Anbieter: RSMedicalWorldwide, gelistet seit 2023-04-21
-- Wie viel kostet es? — 52.237632000000005 USD
+- Wie viel kostet es? — 52.270336 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Dropshipping Leitfaden 2023 (Ebook) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/495399
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/495399/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Dropshipping%20Leitfaden%202023%20(Ebook)
 
 ## 4. Editorial notes

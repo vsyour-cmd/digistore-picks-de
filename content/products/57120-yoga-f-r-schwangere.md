@@ -4,16 +4,16 @@ digistore24_product_id: 705010
 title: "Yoga für Schwangere"
 vendor: "ersanfidan6767c470"
 product_type: "Downloads"
-price: 46.97
+price: 47
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 23.49
+earnings_per_sale: 23.51
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children","Sport"]
 listed_since: "2026-06-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://yoga-erfidn-schwanger.lovable.app/?aff=adminstore#aff=adminstore"
 sales_page: "https://yoga-erfidn-schwanger.lovable.app/"
@@ -22,16 +22,16 @@ language: "de"
 # Yoga für Schwangere
 
 > Product ID `57120` · Digistore24 productId `705010` · [HTML profile page](../../produkte/yoga-f-r-schwangere-57120.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $46.97 (Single payment) |
+| Price | $47.00 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $23.49 |
+| Earnings/sale* | $23.51 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ersanfidan6767c470 |
@@ -85,14 +85,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Yoga für Schwangere? — Typ: Downloads, Anbieter: ersanfidan6767c470, gelistet seit 2026-06-24
-- Wie viel kostet es? — 46.971381 USD
+- Wie viel kostet es? — 47.000788 USD
 - Garantie? — 14
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Yoga für Schwangere Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/705010
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/705010/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Yoga%20f%C3%BCr%20Schwangere
 
 ## 4. Editorial notes

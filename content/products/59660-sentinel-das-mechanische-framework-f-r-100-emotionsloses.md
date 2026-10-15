@@ -4,16 +4,16 @@ digistore24_product_id: 736790
 title: "Sentinel – Das mechanische Framework für 100 % emotionsloses"
 vendor: "sentinelsystem"
 product_type: "E-books"
-price: 40.75
+price: 40.78
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 20.38
+earnings_per_sale: 20.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Business & Investment","Trading Products"]
+categories: ["Trading Products","Business & Investment"]
 listed_since: "2026-09-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/736790?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/736790"
@@ -22,22 +22,22 @@ language: "de"
 # Sentinel – Das mechanische Framework für 100 % emotionsloses
 
 > Product ID `59660` · Digistore24 productId `736790` · [HTML profile page](../../produkte/sentinel-das-mechanische-framework-f-r-100-emotionsloses-59660.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $40.75 (Single payment) |
+| Price | $40.78 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $20.38 |
+| Earnings/sale* | $20.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | sentinelsystem |
 | Listed since | 2026-09-24 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Trading Products |
+| Categories | Trading Products, Business & Investment |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Sentinel – Das mechanische Framework für 100 % emotionsloses? — Typ: E-books, Anbieter: sentinelsystem, gelistet seit 2026-09-24
-- Wie viel kostet es? — 40.75474500000001 USD
+- Wie viel kostet es? — 40.780260000000006 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Sentinel – Das mechanische Framework für 100 % emotionsloses Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/736790
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/736790/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Sentinel%20%E2%80%93%20Das%20mechanische%20Framework%20f%C3%BCr%20100%20%25%20emotionsloses
 
 ## 4. Editorial notes

@@ -4,40 +4,40 @@ digistore24_product_id: 228023
 title: "Impressum und Datenschutz für Agenturen automatisiert"
 vendor: "Paragraf7"
 product_type: "Member area and video courses"
-price: 267
+price: 267.17
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 53.4
+earnings_per_sale: 53.43
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Computer & Internet","Law & Justice"]
+categories: ["Law & Justice","Computer & Internet"]
 listed_since: "2018-06-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/45625/adminstore/"
+promo_link: "https://easyrechtssicher.de/webdesigner-agenturen-3/?aff=adminstore#aff=adminstore"
 sales_page: "https://easyrechtssicher.de/webdesigner-agenturen-3/"
 language: "de"
 ---
 # Impressum und Datenschutz für Agenturen automatisiert
 
 > Product ID `45625` · Digistore24 productId `228023` · [HTML profile page](../../produkte/impressum-und-datenschutz-f-r-agenturen-automatisiert-45625.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $267.00 (Subscription) |
+| Price | $267.17 (Subscription) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $53.40 |
+| Earnings/sale* | $53.43 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Paragraf7 |
 | Listed since | 2018-06-15 |
 | Auto-accept affiliates | yes |
-| Categories | Computer & Internet, Law & Justice |
+| Categories | Law & Justice, Computer & Internet |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/45625/adminstore/
+- **Promo link (affiliate):** https://easyrechtssicher.de/webdesigner-agenturen-3/?aff=adminstore#aff=adminstore
 - Sales page: https://easyrechtssicher.de/webdesigner-agenturen-3/
 - Vendor affiliate support: https://easyrechtssicher.de/partner-programm-ihre-vorteile
 - Canonical redirect: https://www.digistore24.com/redir/228023/adminstore
@@ -93,14 +93,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Impressum und Datenschutz für Agenturen automatisiert? — Typ: Member area and video courses, Anbieter: Paragraf7, gelistet seit 2018-06-15
-- Wie viel kostet es? — 267.00228000000004 USD
+- Wie viel kostet es? — 267.16944 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Impressum und Datenschutz für Agenturen automatisiert Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/228023
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/228023/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Impressum%20und%20Datenschutz%20f%C3%BCr%20Agenturen%20automatisiert
 
 ## 4. Editorial notes

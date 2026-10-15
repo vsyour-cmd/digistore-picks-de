@@ -4,34 +4,34 @@ digistore24_product_id: 690562
 title: "Zukunftsangst loslassen"
 vendor: "mars86"
 product_type: "E-books"
-price: 19.86
+price: 19.87
 currency: "USD"
 affiliate_commission_pct: 33
-earnings_per_sale: 6.55
+earnings_per_sale: 6.56
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-05-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/56501/adminstore/"
+promo_link: "https://akoaylife.com/zukunftsangst-loslassen/?aff=adminstore#aff=adminstore"
 sales_page: "https://akoaylife.com/zukunftsangst-loslassen/"
 language: "de"
 ---
 # Zukunftsangst loslassen
 
 > Product ID `56501` · Digistore24 productId `690562` · [HTML profile page](../../produkte/zukunftsangst-loslassen-56501.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $19.86 (Single payment) |
+| Price | $19.87 (Single payment) |
 | Affiliate commission | 33% |
-| Earnings/sale* | $6.55 |
+| Earnings/sale* | $6.56 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | mars86 |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56501/adminstore/
+- **Promo link (affiliate):** https://akoaylife.com/zukunftsangst-loslassen/?aff=adminstore#aff=adminstore
 - Sales page: https://akoaylife.com/zukunftsangst-loslassen/
 - Canonical redirect: https://www.digistore24.com/redir/690562/adminstore
 
@@ -85,14 +85,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Zukunftsangst loslassen? — Typ: E-books, Anbieter: mars86, gelistet seit 2026-05-06
-- Wie viel kostet es? — 19.857456000000003 USD
+- Wie viel kostet es? — 19.869888000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Zukunftsangst loslassen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/690562
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/690562/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Zukunftsangst%20loslassen
 
 ## 4. Editorial notes

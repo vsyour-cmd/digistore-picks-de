@@ -4,7 +4,7 @@ digistore24_product_id: 713116
 title: "Digitaler Notfall-Kompass – Das Must-Have für digitale Vorso"
 vendor: "DeinKiService"
 product_type: "Downloads"
-price: 8.45
+price: 8.46
 currency: "USD"
 affiliate_commission_pct: 40
 earnings_per_sale: 3.38
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-07-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/713116?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/713116"
@@ -22,14 +22,14 @@ language: "de"
 # Digitaler Notfall-Kompass – Das Must-Have für digitale Vorso
 
 > Product ID `57644` · Digistore24 productId `713116` · [HTML profile page](../../produkte/digitaler-notfall-kompass-das-must-have-f-r-digitale-vorso-57644.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $8.45 (Single payment) |
+| Price | $8.46 (Single payment) |
 | Affiliate commission | 40% |
 | Earnings/sale* | $3.38 |
 | Cart conversion* | — |
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Digitaler Notfall-Kompass – Das Must-Have für digitale Vorso? — Typ: Downloads, Anbieter: DeinKiService, gelistet seit 2026-07-21
-- Wie viel kostet es? — 8.452836 USD
+- Wie viel kostet es? — 8.458128 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Digitaler Notfall-Kompass – Das Must-Have für digitale Vorso Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/713116
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/713116/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Digitaler%20Notfall-Kompass%20%E2%80%93%20Das%20Must-Have%20f%C3%BCr%20digitale%20Vorso
 
 ## 4. Editorial notes

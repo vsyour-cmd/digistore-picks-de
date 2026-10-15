@@ -4,34 +4,34 @@ digistore24_product_id: 335967
 title: "Kreativer online Malkurs für Kinder \"Sommer Motive\""
 vendor: "kolibrischool"
 product_type: "Member area and video courses"
-price: 28.1
+price: 28.12
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 5.62
+earnings_per_sale: 5.63
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2020-07-10"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/37475/adminstore/"
+promo_link: "https://kolibri-school.de/sommer-motive?aff=adminstore#aff=adminstore"
 sales_page: "https://kolibri-school.de/sommer-motive"
 language: "de"
 ---
 # Kreativer online Malkurs für Kinder "Sommer Motive"
 
 > Product ID `37475` · Digistore24 productId `335967` · [HTML profile page](../../produkte/kreativer-online-malkurs-f-r-kinder-sommer-motive-37475.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $28.10 (Single payment) |
+| Price | $28.12 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $5.62 |
+| Earnings/sale* | $5.63 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | kolibrischool |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/37475/adminstore/
+- **Promo link (affiliate):** https://kolibri-school.de/sommer-motive?aff=adminstore#aff=adminstore
 - Sales page: https://kolibri-school.de/sommer-motive
 - Canonical redirect: https://www.digistore24.com/redir/335967/adminstore
 
@@ -70,14 +70,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Kreativer online Malkurs für Kinder "Sommer Motive"? — Typ: Member area and video courses, Anbieter: kolibrischool, gelistet seit 2020-07-10
-- Wie viel kostet es? — 28.097853 USD
+- Wie viel kostet es? — 28.115444 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Kreativer online Malkurs für Kinder "Sommer Motive" Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/335967
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/335967/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Kreativer%20online%20Malkurs%20f%C3%BCr%20Kinder%20%22Sommer%20Motive%22
 
 ## 4. Editorial notes

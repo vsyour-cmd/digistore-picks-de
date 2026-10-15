@@ -4,34 +4,34 @@ digistore24_product_id: 742021
 title: "Mitarbeitergespräche klar führen – Praxis-Toolkit"
 vendor: "markplenert7400"
 product_type: "Downloads"
-price: 36.64
+price: 36.66
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 18.33
+earnings_per_sale: 18.34
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Leadership & Management"]
 listed_since: "2026-10-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
-promo_link: "https://www.digistore24.com/redir/60197/adminstore/"
+promo_link: "https://fuehrung.markplenert.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://fuehrung.markplenert.de/"
 language: "de"
 ---
 # Mitarbeitergespräche klar führen – Praxis-Toolkit
 
 > Product ID `60197` · Digistore24 productId `742021` · [HTML profile page](../../produkte/mitarbeitergespr-che-klar-f-hren-praxis-toolkit-60197.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $36.64 (Single payment) |
+| Price | $36.66 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $18.33 |
+| Earnings/sale* | $18.34 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | markplenert7400 |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/60197/adminstore/
+- **Promo link (affiliate):** https://fuehrung.markplenert.de/?aff=adminstore#aff=adminstore
 - Sales page: https://fuehrung.markplenert.de/
 - Canonical redirect: https://www.digistore24.com/redir/742021/adminstore
 
@@ -69,14 +69,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mitarbeitergespräche klar führen – Praxis-Toolkit? — Typ: Downloads, Anbieter: markplenert7400, gelistet seit 2026-10-05
-- Wie viel kostet es? — 36.64013700000001 USD
+- Wie viel kostet es? — 36.663076000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Mitarbeitergespräche klar führen – Praxis-Toolkit Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/742021
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/742021/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Mitarbeitergespr%C3%A4che%20klar%20f%C3%BChren%20%E2%80%93%20Praxis-Toolkit
 
 ## 4. Editorial notes

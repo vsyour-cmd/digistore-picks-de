@@ -4,16 +4,16 @@ digistore24_product_id: 700673
 title: "Magnetische Frau"
 vendor: "cleitonpaulino"
 product_type: "E-books"
-price: 38.66
+price: 38.69
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 23.2
+earnings_per_sale: 23.22
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2026-07-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://elevenmarketingdigital.com/magnetische-frau/?aff=adminstore#aff=adminstore"
 sales_page: "https://elevenmarketingdigital.com/magnetische-frau/"
@@ -22,16 +22,16 @@ language: "de"
 # Magnetische Frau
 
 > Product ID `57334` · Digistore24 productId `700673` · [HTML profile page](../../produkte/magnetische-frau-57334.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $38.66 (Single payment) |
+| Price | $38.69 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $23.20 |
+| Earnings/sale* | $23.22 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | cleitonpaulino |
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Magnetische Frau? — Typ: E-books, Anbieter: cleitonpaulino, gelistet seit 2026-07-01
-- Wie viel kostet es? — 38.663898 USD
+- Wie viel kostet es? — 38.688103999999996 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Magnetische Frau Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/700673
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/700673/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Magnetische%20Frau
 
 ## 4. Editorial notes

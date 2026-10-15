@@ -12,17 +12,17 @@ cart_conversion_pct: 40
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2025-04-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/52239/adminstore/"
+promo_link: "https://page.funnelcockpit.com/gaJerak6CekEB9e8z?aff=adminstore#aff=adminstore"
 sales_page: "https://page.funnelcockpit.com/gaJerak6CekEB9e8z"
 language: "de"
 ---
 # Affiliate 18+
 
 > Product ID `52239` · Digistore24 productId `608162` · [HTML profile page](../../produkte/affiliate-18-52239.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/52239/adminstore/
+- **Promo link (affiliate):** https://page.funnelcockpit.com/gaJerak6CekEB9e8z?aff=adminstore#aff=adminstore
 - Sales page: https://page.funnelcockpit.com/gaJerak6CekEB9e8z
 - Vendor affiliate support: https://page.funnelcockpit.com/4vj52wFP75RPFHMvq
 - Canonical redirect: https://www.digistore24.com/redir/608162/adminstore
@@ -66,7 +66,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Affiliate 18+ Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/608162
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/608162/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Affiliate%2018%2B
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 741552
 title: "Kunden-App mit Treuekarte für italienischsprachige Betriebe: 3.499 €, ca. 635 € Provision"
 vendor: "massarocalogero19976adc"
 product_type: "Remote service provided electronically"
-price: 3912.23
+price: 3914.68
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 782.45
+earnings_per_sale: 782.94
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2026-10-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.direzionex.com/offerta/app?aff=adminstore#aff=adminstore"
 sales_page: "https://www.direzionex.com/offerta/app"
@@ -22,16 +22,16 @@ language: "de"
 # Kunden-App mit Treuekarte für italienischsprachige Betriebe: 3.499 €, ca. 635 € Provision
 
 > Product ID `60292` · Digistore24 productId `741552` · [HTML profile page](../../produkte/kunden-app-mit-treuekarte-f-r-italienischsprachige-betriebe-3-499-ca-635-provision-60292.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium (browser-rendered)**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $3912.23 (Single payment) |
+| Price | $3914.68 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $782.45 |
+| Earnings/sale* | $782.94 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | massarocalogero19976adc |
@@ -80,14 +80,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Kunden-App mit Treuekarte für italienischsprachige Betriebe: 3.499 €, ca. 635 € Provision? — Typ: Remote service provided electronically, Anbieter: massarocalogero19976adc, gelistet seit 2026-10-07
-- Wie viel kostet es? — 3912.2319 USD
+- Wie viel kostet es? — 3914.6812 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Kunden-App mit Treuekarte für italienischsprachige Betriebe: 3.499 €, ca. 635 € Provision Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/741552
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/741552/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Kunden-App%20mit%20Treuekarte%20f%C3%BCr%20italienischsprachige%20Betriebe%3A%203.499%20%E2%82%AC%2C%20ca.%20635%20%E2%82%AC%20Provision
 
 ## 4. Editorial notes

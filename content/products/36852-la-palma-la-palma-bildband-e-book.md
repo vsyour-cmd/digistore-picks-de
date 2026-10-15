@@ -4,16 +4,16 @@ digistore24_product_id: 392067
 title: "LA PALMA: La Palma Bildband [E-Book]"
 vendor: "rheinrost"
 product_type: "E-books"
-price: 14.4
+price: 14.41
 currency: "USD"
 affiliate_commission_pct: 35
 earnings_per_sale: 2.95
 cart_conversion_pct: 31
 cancel_rate_pct: 0.77
-categories: ["Hobby & Craft","Photography & Film","Travel & Culture"]
+categories: ["Travel & Culture","Hobby & Craft","Photography & Film"]
 listed_since: "2021-05-28"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.unaufschiebbar.de/la-palma-bildband/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.unaufschiebbar.de/la-palma-bildband/"
@@ -22,14 +22,14 @@ language: "de"
 # LA PALMA: La Palma Bildband [E-Book]
 
 > Product ID `36852` · Digistore24 productId `392067` · [HTML profile page](../../produkte/la-palma-la-palma-bildband-e-book-36852.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $14.40 (Single payment) |
+| Price | $14.41 (Single payment) |
 | Affiliate commission | 35% |
 | Earnings/sale* | $2.95 |
 | Cart conversion* | 31% |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | rheinrost |
 | Listed since | 2021-05-28 |
 | Auto-accept affiliates | yes |
-| Categories | Hobby & Craft, Photography & Film, Travel & Culture |
+| Categories | Travel & Culture, Hobby & Craft, Photography & Film |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -80,14 +80,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist LA PALMA: La Palma Bildband [E-Book]? — Typ: E-books, Anbieter: rheinrost, gelistet seit 2021-05-28
-- Wie viel kostet es? — 14.401128000000002 USD
+- Wie viel kostet es? — 14.410144 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: LA PALMA: La Palma Bildband [E-Book] Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/392067
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/392067/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=LA%20PALMA%3A%20La%20Palma%20Bildband%20%5BE-Book%5D
 
 ## 4. Editorial notes

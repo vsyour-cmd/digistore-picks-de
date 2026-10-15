@@ -4,16 +4,16 @@ digistore24_product_id: 586934
 title: "Das Führungsdreieck – Können, Wollen, Dürfen Video und Workb"
 vendor: "PFEOS-Kraemer"
 product_type: "Member area and video courses"
-price: 14
+price: 14.01
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 4.2
+earnings_per_sale: 4.21
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Profession & Job","Leadership & Management"]
+categories: ["Profession & Job","Education","Leadership & Management"]
 listed_since: "2024-12-19"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/586934?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/586934"
@@ -22,22 +22,22 @@ language: "de"
 # Das Führungsdreieck – Können, Wollen, Dürfen Video und Workb
 
 > Product ID `50784` · Digistore24 productId `586934` · [HTML profile page](../../produkte/das-f-hrungsdreieck-k-nnen-wollen-d-rfen-video-und-workb-50784.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $14.00 (Single payment) |
+| Price | $14.01 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $4.20 |
+| Earnings/sale* | $4.21 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | PFEOS-Kraemer |
 | Listed since | 2024-12-19 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Profession & Job, Leadership & Management |
+| Categories | Profession & Job, Education, Leadership & Management |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Führungsdreieck – Können, Wollen, Dürfen Video und Workb? — Typ: Member area and video courses, Anbieter: PFEOS-Kraemer, gelistet seit 2024-12-19
-- Wie viel kostet es? — 13.998612000000001 USD
+- Wie viel kostet es? — 14.007375999999999 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Das Führungsdreieck – Können, Wollen, Dürfen Video und Workb Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/586934
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/586934/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Das%20F%C3%BChrungsdreieck%20%E2%80%93%20K%C3%B6nnen%2C%20Wollen%2C%20D%C3%BCrfen%20Video%20und%20Workb
 
 ## 4. Editorial notes

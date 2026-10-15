@@ -4,16 +4,16 @@ digistore24_product_id: 663320
 title: "Slow Breathing — Teacher Modul für Nervensystemregulation"
 vendor: "BeamdreamBreathworks"
 product_type: "Member area and video courses"
-price: 394.62
+price: 394.87
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 39.46
+earnings_per_sale: 39.48
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-08-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.beamdream.com/relax-breathwork-ausbildung?aff=adminstore#aff=adminstore"
 sales_page: "https://www.beamdream.com/relax-breathwork-ausbildung"
@@ -22,16 +22,16 @@ language: "de"
 # Slow Breathing — Teacher Modul für Nervensystemregulation
 
 > Product ID `58402` · Digistore24 productId `663320` · [HTML profile page](../../produkte/slow-breathing-teacher-modul-f-r-nervensystemregulation-58402.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $394.62 (Single payment, Installment) |
+| Price | $394.87 (Single payment, Installment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $39.46 |
+| Earnings/sale* | $39.48 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | BeamdreamBreathworks |
@@ -96,14 +96,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Slow Breathing — Teacher Modul für Nervensystemregulation? — Typ: Member area and video courses, Anbieter: BeamdreamBreathworks, gelistet seit 2026-08-16
-- Wie viel kostet es? — 394.62221400000004 USD
+- Wie viel kostet es? — 394.869272 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Slow Breathing — Teacher Modul für Nervensystemregulation Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/663320
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/663320/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Slow%20Breathing%20%E2%80%94%20Teacher%20Modul%20f%C3%BCr%20Nervensystemregulation
 
 ## 4. Editorial notes

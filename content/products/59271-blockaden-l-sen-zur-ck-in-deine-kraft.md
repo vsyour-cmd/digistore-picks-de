@@ -4,34 +4,34 @@ digistore24_product_id: 723885
 title: "Blockaden lösen - zurück in Deine Kraft"
 vendor: "StefanieLange"
 product_type: "E-books"
-price: 29.26
+price: 29.28
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 14.64
+earnings_per_sale: 14.65
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-09-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/59271/adminstore/"
+promo_link: "https://chakra-stark.de/blockaden-loesen/?aff=adminstore#aff=adminstore"
 sales_page: "https://chakra-stark.de/blockaden-loesen/"
 language: "de"
 ---
 # Blockaden lösen - zurück in Deine Kraft
 
 > Product ID `59271` · Digistore24 productId `723885` · [HTML profile page](../../produkte/blockaden-l-sen-zur-ck-in-deine-kraft-59271.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $29.26 (Single payment) |
+| Price | $29.28 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $14.64 |
+| Earnings/sale* | $14.65 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | StefanieLange |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59271/adminstore/
+- **Promo link (affiliate):** https://chakra-stark.de/blockaden-loesen/?aff=adminstore#aff=adminstore
 - Sales page: https://chakra-stark.de/blockaden-loesen/
 - Vendor affiliate support: https://chakra-stark.de/affiliate-blockaden-loesen/
 - Canonical redirect: https://www.digistore24.com/redir/723885/adminstore
@@ -83,14 +83,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Blockaden lösen - zurück in Deine Kraft? — Typ: E-books, Anbieter: StefanieLange, gelistet seit 2026-09-16
-- Wie viel kostet es? — 29.260677000000005 USD
+- Wie viel kostet es? — 29.278996000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Blockaden lösen - zurück in Deine Kraft Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/723885
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/723885/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Blockaden%20l%C3%B6sen%20-%20zur%C3%BCck%20in%20Deine%20Kraft
 
 ## 4. Editorial notes

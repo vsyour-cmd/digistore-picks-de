@@ -4,16 +4,16 @@ digistore24_product_id: 605375
 title: "Raus aus der Erschöpfung - mehr Energie + Leichtigkeit"
 vendor: "aktiv-entspannt-eifel"
 product_type: "E-books"
-price: 13.06
+price: 13.07
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 3.91
+earnings_per_sale: 3.92
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2025-04-03"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://natuerlich-einfach.de/erschoepfung-ebook/?aff=adminstore#aff=adminstore"
 sales_page: "https://natuerlich-einfach.de/erschoepfung-ebook/"
@@ -22,16 +22,16 @@ language: "de"
 # Raus aus der Erschöpfung - mehr Energie + Leichtigkeit
 
 > Product ID `55768` · Digistore24 productId `605375` · [HTML profile page](../../produkte/raus-aus-der-ersch-pfung-mehr-energie-leichtigkeit-55768.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $13.06 (Single payment) |
+| Price | $13.07 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $3.91 |
+| Earnings/sale* | $3.92 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | aktiv-entspannt-eifel |
@@ -72,14 +72,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Raus aus der Erschöpfung - mehr Energie + Leichtigkeit? — Typ: E-books, Anbieter: aktiv-entspannt-eifel, gelistet seit 2025-04-03
-- Wie viel kostet es? — 13.059408000000001 USD
+- Wie viel kostet es? — 13.067584 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Raus aus der Erschöpfung - mehr Energie + Leichtigkeit Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/605375
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/605375/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Raus%20aus%20der%20Ersch%C3%B6pfung%20-%20mehr%20Energie%20%2B%20Leichtigkeit
 
 ## 4. Editorial notes

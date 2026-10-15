@@ -4,7 +4,7 @@ digistore24_product_id: 482002
 title: "Onlyfans das Buch"
 vendor: "Sht-corporation"
 product_type: "Member area and video courses"
-price: 22.35
+price: 22.36
 currency: "USD"
 affiliate_commission_pct: 35
 earnings_per_sale: 7.83
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2023-01-31"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.social-media-agentur-mv.de/Digitales-COACHING-PREISE/Onlinekurse-Social-Media-Produkte/Online-Geld-verdienen/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.social-media-agentur-mv.de/Digitales-COACHING-PREISE/Onlinekurse-Social-Media-Produkte/Online-Geld-verdienen/"
@@ -22,14 +22,14 @@ language: "de"
 # Onlyfans das Buch
 
 > Product ID `42610` · Digistore24 productId `482002` · [HTML profile page](../../produkte/onlyfans-das-buch-42610.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $22.35 (Single payment) |
+| Price | $22.36 (Single payment) |
 | Affiliate commission | 35% |
 | Earnings/sale* | $7.83 |
 | Cart conversion* | — |
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Onlyfans das Buch? — Typ: Member area and video courses, Anbieter: Sht-corporation, gelistet seit 2023-01-31
-- Wie viel kostet es? — 22.350819 USD
+- Wie viel kostet es? — 22.364811999999997 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Onlyfans das Buch Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/482002
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/482002/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Onlyfans%20das%20Buch
 
 ## 4. Editorial notes

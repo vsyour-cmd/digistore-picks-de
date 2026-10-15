@@ -4,34 +4,34 @@ digistore24_product_id: 378778
 title: "Einsteiger Video Cellokurs"
 vendor: "Klassikwelt"
 product_type: "Member area and video courses"
-price: 55.44
+price: 55.47
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 19.4
+earnings_per_sale: 19.41
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dancing & Music"]
 listed_since: "2021-03-12"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/36125/adminstore/"
+promo_link: "https://cellocoach.de/einsteiger-video-cellokurs/?aff=adminstore#aff=adminstore"
 sales_page: "https://cellocoach.de/einsteiger-video-cellokurs/"
 language: "de"
 ---
 # Einsteiger Video Cellokurs
 
 > Product ID `36125` · Digistore24 productId `378778` · [HTML profile page](../../produkte/einsteiger-video-cellokurs-36125.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $55.44 (Single payment) |
+| Price | $55.47 (Single payment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $19.40 |
+| Earnings/sale* | $19.41 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Klassikwelt |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/36125/adminstore/
+- **Promo link (affiliate):** https://cellocoach.de/einsteiger-video-cellokurs/?aff=adminstore#aff=adminstore
 - Sales page: https://cellocoach.de/einsteiger-video-cellokurs/
 - Canonical redirect: https://www.digistore24.com/redir/378778/adminstore
 
@@ -94,14 +94,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Einsteiger Video Cellokurs? — Typ: Member area and video courses, Anbieter: Klassikwelt, gelistet seit 2021-03-12
-- Wie viel kostet es? — 55.435398 USD
+- Wie viel kostet es? — 55.470104 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Einsteiger Video Cellokurs Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/378778
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/378778/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Einsteiger%20Video%20Cellokurs
 
 ## 4. Editorial notes

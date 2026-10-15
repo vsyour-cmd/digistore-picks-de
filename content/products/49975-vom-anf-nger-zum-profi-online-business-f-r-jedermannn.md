@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2024-10-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/49975/adminstore/"
+promo_link: "https://page.funnelcockpit.com/4hRytGA9nSF4cqrr2?aff=adminstore#aff=adminstore"
 sales_page: "https://page.funnelcockpit.com/4hRytGA9nSF4cqrr2"
 language: "de"
 ---
 # Vom Anfänger zum Profi: Online-Business für Jedermannn
 
 > Product ID `49975` · Digistore24 productId `573840` · [HTML profile page](../../produkte/vom-anf-nger-zum-profi-online-business-f-r-jedermannn-49975.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/49975/adminstore/
+- **Promo link (affiliate):** https://page.funnelcockpit.com/4hRytGA9nSF4cqrr2?aff=adminstore#aff=adminstore
 - Sales page: https://page.funnelcockpit.com/4hRytGA9nSF4cqrr2
 - Vendor affiliate support: https://page.funnelcockpit.com/kz5phdF2QcXdLDmrK
 - Canonical redirect: https://www.digistore24.com/redir/573840/adminstore
@@ -66,7 +66,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Vom Anfänger zum Profi: Online-Business für Jedermannn Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/573840
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/573840/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Vom%20Anf%C3%A4nger%20zum%20Profi%3A%20Online-Business%20f%C3%BCr%20Jedermannn
 
 ## 4. Editorial notes

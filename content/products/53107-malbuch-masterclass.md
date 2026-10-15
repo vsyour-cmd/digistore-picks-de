@@ -4,40 +4,40 @@ digistore24_product_id: 620284
 title: "Malbuch Masterclass"
 vendor: "AlbertW"
 product_type: "Member area and video courses"
-price: 258.08
+price: 258.24
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 142.07
+earnings_per_sale: 142.15
 cart_conversion_pct: 11
 cancel_rate_pct: 6.16
-categories: ["Business & Investment","Education","Online Marketing & E-Business"]
+categories: ["Business & Investment","Online Marketing & E-Business","Education"]
 listed_since: "2025-06-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/53107/adminstore/"
+promo_link: "https://www.albertwagner.de/malbuch-workshop/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.albertwagner.de/malbuch-workshop/"
 language: "de"
 ---
 # Malbuch Masterclass
 
 > Product ID `53107` · Digistore24 productId `620284` · [HTML profile page](../../produkte/malbuch-masterclass-53107.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $258.08 (Single payment, Installment) |
+| Price | $258.24 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $142.07 |
+| Earnings/sale* | $142.15 |
 | Cart conversion* | 11% |
 | Cancel rate* | 6.16% |
 | Vendor | AlbertW |
 | Listed since | 2025-06-24 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Education, Online Marketing & E-Business |
+| Categories | Business & Investment, Online Marketing & E-Business, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/53107/adminstore/
+- **Promo link (affiliate):** https://www.albertwagner.de/malbuch-workshop/?aff=adminstore#aff=adminstore
 - Sales page: https://www.albertwagner.de/malbuch-workshop/
 - Canonical redirect: https://www.digistore24.com/redir/620284/adminstore
 
@@ -66,14 +66,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Malbuch Masterclass? — Typ: Member area and video courses, Anbieter: AlbertW, gelistet seit 2025-06-24
-- Wie viel kostet es? — 258.07984200000004 USD
+- Wie viel kostet es? — 258.241416 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Malbuch Masterclass Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/620284
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/620284/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Malbuch%20Masterclass
 
 ## 4. Editorial notes

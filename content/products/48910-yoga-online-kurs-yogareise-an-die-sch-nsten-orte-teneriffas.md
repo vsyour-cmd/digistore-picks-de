@@ -4,7 +4,7 @@ digistore24_product_id: 564083
 title: "Yoga Online Kurs: YogaReise an die schönsten Orte Teneriffas"
 vendor: "aufderSonnenseite"
 product_type: "Member area and video courses"
-price: 36.64
+price: 36.66
 currency: "USD"
 affiliate_commission_pct: 25
 earnings_per_sale: 9.16
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism","Sport"]
 listed_since: "2024-08-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://yoga-tenerife.com/de/yoga-online/?aff=adminstore#aff=adminstore"
 sales_page: "https://yoga-tenerife.com/de/yoga-online/"
@@ -22,14 +22,14 @@ language: "de"
 # Yoga Online Kurs: YogaReise an die schönsten Orte Teneriffas
 
 > Product ID `48910` · Digistore24 productId `564083` · [HTML profile page](../../produkte/yoga-online-kurs-yogareise-an-die-sch-nsten-orte-teneriffas-48910.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $36.64 (Single payment) |
+| Price | $36.66 (Single payment) |
 | Affiliate commission | 25% |
 | Earnings/sale* | $9.16 |
 | Cart conversion* | — |
@@ -80,14 +80,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Yoga Online Kurs: YogaReise an die schönsten Orte Teneriffas? — Typ: Member area and video courses, Anbieter: aufderSonnenseite, gelistet seit 2024-08-05
-- Wie viel kostet es? — 36.64013700000001 USD
+- Wie viel kostet es? — 36.663076000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Yoga Online Kurs: YogaReise an die schönsten Orte Teneriffas Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/564083
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/564083/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Yoga%20Online%20Kurs%3A%20YogaReise%20an%20die%20sch%C3%B6nsten%20Orte%20Teneriffas
 
 ## 4. Editorial notes

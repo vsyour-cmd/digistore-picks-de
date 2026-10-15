@@ -4,16 +4,16 @@ digistore24_product_id: 23585
 title: "FINANZ. FREIHEIT - LOTTO - u.  MACHT IHRES UNTERBEWUSSTSEINS"
 vendor: "joviojo"
 product_type: "Downloads"
-price: 37.3
+price: 37.32
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 18.65
+earnings_per_sale: 18.66
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Betting Systems"]
 listed_since: "2014-04-02"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "http://pendelsystem.de?aff=adminstore#aff=adminstore"
 sales_page: "http://pendelsystem.de"
@@ -22,16 +22,16 @@ language: "de"
 # FINANZ. FREIHEIT - LOTTO - u.  MACHT IHRES UNTERBEWUSSTSEINS
 
 > Product ID `2901` · Digistore24 productId `23585` · [HTML profile page](../../produkte/finanz-freiheit-lotto-u-macht-ihres-unterbewusstseins-2901.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $37.30 (Single payment) |
+| Price | $37.32 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $18.65 |
+| Earnings/sale* | $18.66 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | joviojo |
@@ -82,14 +82,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist FINANZ. FREIHEIT - LOTTO - u.  MACHT IHRES UNTERBEWUSSTSEINS? — Typ: Downloads, Anbieter: joviojo, gelistet seit 2014-04-02
-- Wie viel kostet es? — 37.299816 USD
+- Wie viel kostet es? — 37.323168 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: FINANZ. FREIHEIT - LOTTO - u.  MACHT IHRES UNTERBEWUSSTSEINS Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/23585
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/23585/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=FINANZ.%20FREIHEIT%20-%20LOTTO%20-%20u.%20%20MACHT%20IHRES%20UNTERBEWUSSTSEINS
 
 ## 4. Editorial notes

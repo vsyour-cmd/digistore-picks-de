@@ -4,7 +4,7 @@ digistore24_product_id: 354630
 title: "Tai Chi Grundform als Seminar"
 vendor: "WuWeiSchule"
 product_type: "Member area and video courses"
-price: 23.02
+price: 23.04
 currency: "USD"
 affiliate_commission_pct: 25
 earnings_per_sale: 5.76
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Sport"]
 listed_since: "2020-10-28"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/34871/adminstore/"
+promo_link: "https://www.wuwei-schule.de/lp/tai-chi-basis/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.wuwei-schule.de/lp/tai-chi-basis/"
 language: "de"
 ---
 # Tai Chi Grundform als Seminar
 
 > Product ID `34871` · Digistore24 productId `354630` · [HTML profile page](../../produkte/tai-chi-grundform-als-seminar-34871.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $23.02 (Single payment) |
+| Price | $23.04 (Single payment) |
 | Affiliate commission | 25% |
 | Earnings/sale* | $5.76 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/34871/adminstore/
+- **Promo link (affiliate):** https://www.wuwei-schule.de/lp/tai-chi-basis/?aff=adminstore#aff=adminstore
 - Sales page: https://www.wuwei-schule.de/lp/tai-chi-basis/
 - Canonical redirect: https://www.digistore24.com/redir/354630/adminstore
 
@@ -72,14 +72,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Tai Chi Grundform als Seminar? — Typ: Member area and video courses, Anbieter: WuWeiSchule, gelistet seit 2020-10-28
-- Wie viel kostet es? — 23.021679000000002 USD
+- Wie viel kostet es? — 23.036092 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Tai Chi Grundform als Seminar Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/354630
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/354630/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Tai%20Chi%20Grundform%20als%20Seminar
 
 ## 4. Editorial notes

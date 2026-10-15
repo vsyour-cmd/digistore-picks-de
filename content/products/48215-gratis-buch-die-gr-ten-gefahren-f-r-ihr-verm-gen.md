@@ -12,17 +12,17 @@ cart_conversion_pct: 36
 cancel_rate_pct: 1.86
 categories: ["Business & Investment","Education"]
 listed_since: "2024-09-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/48215/adminstore/"
+promo_link: "https://markusdan.com/neu/buch/spezialangebot/?aff=adminstore#aff=adminstore"
 sales_page: "https://markusdan.com/neu/buch/spezialangebot/"
 language: "de"
 ---
 # Gratis-Buch: "Die größten Gefahren für Ihr Vermögen"
 
 > Product ID `48215` · Digistore24 productId `568935` · [HTML profile page](../../produkte/gratis-buch-die-gr-ten-gefahren-f-r-ihr-verm-gen-48215.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/48215/adminstore/
+- **Promo link (affiliate):** https://markusdan.com/neu/buch/spezialangebot/?aff=adminstore#aff=adminstore
 - Sales page: https://markusdan.com/neu/buch/spezialangebot/
 - Vendor affiliate support: https://markusdan.com/affiliates-gratisbuch-groesste-gefahren/
 - Canonical redirect: https://www.digistore24.com/redir/568935/adminstore
@@ -85,14 +85,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Gratis-Buch: "Die größten Gefahren für Ihr Vermögen"? — Typ: Book (printed), Anbieter: deutschesedelsteinhaus, gelistet seit 2024-09-06
-- Wie viel kostet es? — 4.215237 USD
+- Wie viel kostet es? — 4.217876 USD
 - Garantie? — 14
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Gratis-Buch: "Die größten Gefahren für Ihr Vermögen" Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/568935
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/568935/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Gratis-Buch%3A%20%22Die%20gr%C3%B6%C3%9Ften%20Gefahren%20f%C3%BCr%20Ihr%20Verm%C3%B6gen%22
 
 ## 4. Editorial notes

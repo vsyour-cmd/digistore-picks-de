@@ -4,16 +4,16 @@ digistore24_product_id: 276717
 title: "Erste-Hilfe-Kurs Online inkl. Teilnahme Zertifikat"
 vendor: "G250273"
 product_type: "Member area and video courses"
-price: 39.46
+price: 39.48
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 12.32
+earnings_per_sale: 12.33
 cart_conversion_pct: 17
 cancel_rate_pct: 2.81
-categories: ["Education","Health & Fitness","Online Marketing & E-Business"]
+categories: ["Health & Fitness","Online Marketing & E-Business","Education"]
 listed_since: "2019-06-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://erste-hilfe-kurs-online.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://erste-hilfe-kurs-online.de/"
@@ -22,22 +22,22 @@ language: "de"
 # Erste-Hilfe-Kurs Online inkl. Teilnahme Zertifikat
 
 > Product ID `33190` · Digistore24 productId `276717` · [HTML profile page](../../produkte/erste-hilfe-kurs-online-inkl-teilnahme-zertifikat-33190.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $39.46 (Single payment) |
+| Price | $39.48 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $12.32 |
+| Earnings/sale* | $12.33 |
 | Cart conversion* | 17% |
 | Cancel rate* | 2.81% |
 | Vendor | G250273 |
 | Listed since | 2019-06-23 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Health & Fitness, Online Marketing & E-Business |
+| Categories | Health & Fitness, Online Marketing & E-Business, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -82,14 +82,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Erste-Hilfe-Kurs Online inkl. Teilnahme Zertifikat? — Typ: Member area and video courses, Anbieter: G250273, gelistet seit 2019-06-23
-- Wie viel kostet es? — 39.457749 USD
+- Wie viel kostet es? — 39.482452 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Erste-Hilfe-Kurs Online inkl. Teilnahme Zertifikat Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/276717
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/276717/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Erste-Hilfe-Kurs%20Online%20inkl.%20Teilnahme%20Zertifikat
 
 ## 4. Editorial notes

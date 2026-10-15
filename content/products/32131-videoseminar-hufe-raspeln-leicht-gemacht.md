@@ -4,7 +4,7 @@ digistore24_product_id: 232818
 title: "Videoseminar: Hufe raspeln leicht gemacht"
 vendor: "SandraFencl"
 product_type: "Downloads"
-price: 27.72
+price: 27.74
 currency: "USD"
 affiliate_commission_pct: 30
 earnings_per_sale: 8.32
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2018-07-11"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/32131/adminstore/"
+promo_link: "https://www.digistore24.com/product/232818?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/232818"
 language: "de"
 ---
 # Videoseminar: Hufe raspeln leicht gemacht
 
 > Product ID `32131` · Digistore24 productId `232818` · [HTML profile page](../../produkte/videoseminar-hufe-raspeln-leicht-gemacht-32131.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $27.72 (Single payment) |
+| Price | $27.74 (Single payment) |
 | Affiliate commission | 30% |
 | Earnings/sale* | $8.32 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/32131/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/232818?aff=adminstore
 - Sales page: https://www.digistore24.com/product/232818
 - Vendor affiliate support: https://www.sandrafencl.com/affiliate-bei-sandra-fencl/
 - Canonical redirect: https://www.digistore24.com/redir/232818/adminstore
@@ -76,14 +76,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Videoseminar: Hufe raspeln leicht gemacht? — Typ: Downloads, Anbieter: SandraFencl, gelistet seit 2018-07-11
-- Wie viel kostet es? — 27.717699 USD
+- Wie viel kostet es? — 27.735052 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Videoseminar: Hufe raspeln leicht gemacht Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/232818
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/232818/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Videoseminar%3A%20Hufe%20raspeln%20leicht%20gemacht
 
 ## 4. Editorial notes

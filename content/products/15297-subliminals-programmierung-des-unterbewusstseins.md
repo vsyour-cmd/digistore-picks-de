@@ -4,34 +4,34 @@ digistore24_product_id: 143175
 title: "Subliminals: Programmierung des Unterbewusstseins"
 vendor: "EnergeticTernity"
 product_type: "Downloads"
-price: 266.51
+price: 266.68
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 98.5
+earnings_per_sale: 98.57
 cart_conversion_pct: 8
 cancel_rate_pct: 3.18
 categories: ["Personal Development"]
 listed_since: "2017-06-11"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/15297/adminstore/"
+promo_link: "https://energetic-eternity.de/reality-shift-2-0/?aff=adminstore#aff=adminstore"
 sales_page: "https://energetic-eternity.de/reality-shift-2-0/"
 language: "de"
 ---
 # Subliminals: Programmierung des Unterbewusstseins
 
 > Product ID `15297` · Digistore24 productId `143175` · [HTML profile page](../../produkte/subliminals-programmierung-des-unterbewusstseins-15297.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $266.51 (Single payment, Installment) |
+| Price | $266.68 (Single payment, Installment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $98.50 |
+| Earnings/sale* | $98.57 |
 | Cart conversion* | 8% |
 | Cancel rate* | 3.18% |
 | Vendor | EnergeticTernity |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/15297/adminstore/
+- **Promo link (affiliate):** https://energetic-eternity.de/reality-shift-2-0/?aff=adminstore#aff=adminstore
 - Sales page: https://energetic-eternity.de/reality-shift-2-0/
 - Vendor affiliate support: http://energetic-eternity.de/affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/143175/adminstore
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Subliminals: Programmierung des Unterbewusstseins? — Typ: Downloads, Anbieter: EnergeticTernity, gelistet seit 2017-06-11
-- Wie viel kostet es? — 266.51031600000005 USD
+- Wie viel kostet es? — 266.677168 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Subliminals: Programmierung des Unterbewusstseins Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/143175
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/143175/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Subliminals%3A%20Programmierung%20des%20Unterbewusstseins
 
 ## 4. Editorial notes

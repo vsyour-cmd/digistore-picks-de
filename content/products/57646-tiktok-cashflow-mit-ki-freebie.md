@@ -10,10 +10,10 @@ affiliate_commission_pct: 50
 earnings_per_sale: 0
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Email Marketing","Online Marketing & E-Business","Social Media"]
+categories: ["Online Marketing & E-Business","Social Media","Email Marketing"]
 listed_since: "2026-07-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
 promo_link: "https://vierstelligimmonat.de/tiktokcashflow?aff=adminstore#aff=adminstore"
 sales_page: "https://vierstelligimmonat.de/tiktokcashflow"
@@ -22,7 +22,7 @@ language: "de"
 # TikTok Cashflow mit KI - Freebie
 
 > Product ID `57646` · Digistore24 productId `713053` · [HTML profile page](../../produkte/tiktok-cashflow-mit-ki-freebie-57646.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | MoneyCreators |
 | Listed since | 2026-07-21 |
 | Auto-accept affiliates | yes |
-| Categories | Email Marketing, Online Marketing & E-Business, Social Media |
+| Categories | Online Marketing & E-Business, Social Media, Email Marketing |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -68,7 +68,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: TikTok Cashflow mit KI - Freebie Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/713053
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/713053/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=TikTok%20Cashflow%20mit%20KI%20-%20Freebie
 
 ## 4. Editorial notes

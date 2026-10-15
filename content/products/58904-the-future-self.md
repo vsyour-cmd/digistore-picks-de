@@ -4,16 +4,16 @@ digistore24_product_id: 366081
 title: "THE FUTURE SELF"
 vendor: "Soulset"
 product_type: "Downloads"
-price: 208.58
+price: 208.71
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 156.43
+earnings_per_sale: 156.53
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Business & Investment","Personal Development"]
+categories: ["Personal Development","Business & Investment"]
 listed_since: "2026-09-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/366081?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/366081"
@@ -22,22 +22,22 @@ language: "de"
 # THE FUTURE SELF
 
 > Product ID `58904` · Digistore24 productId `366081` · [HTML profile page](../../produkte/the-future-self-58904.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $208.58 (Single payment) |
+| Price | $208.71 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $156.43 |
+| Earnings/sale* | $156.53 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Soulset |
 | Listed since | 2026-09-04 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Personal Development |
+| Categories | Personal Development, Business & Investment |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -87,14 +87,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist THE FUTURE SELF? — Typ: Downloads, Anbieter: Soulset, gelistet seit 2026-09-04
-- Wie viel kostet es? — 208.58155500000004 USD
+- Wie viel kostet es? — 208.71214 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: THE FUTURE SELF Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/366081
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/366081/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=THE%20FUTURE%20SELF
 
 ## 4. Editorial notes

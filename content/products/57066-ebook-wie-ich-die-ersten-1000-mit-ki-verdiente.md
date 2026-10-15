@@ -4,7 +4,7 @@ digistore24_product_id: 703407
 title: "eBook - Wie ich die ersten 1000 € mit KI verdiente"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 20.8
+price: 20.81
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 10.4
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2026-06-19"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://ratgeberplatz.de/ratgeber/erster-1000-euro-monat-ki?aff=adminstore#aff=adminstore"
 sales_page: "https://ratgeberplatz.de/ratgeber/erster-1000-euro-monat-ki"
@@ -22,14 +22,14 @@ language: "de"
 # eBook - Wie ich die ersten 1000 € mit KI verdiente
 
 > Product ID `57066` · Digistore24 productId `703407` · [HTML profile page](../../produkte/ebook-wie-ich-die-ersten-1000-mit-ki-verdiente-57066.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.80 (Single payment) |
+| Price | $20.81 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $10.40 |
 | Cart conversion* | — |
@@ -86,14 +86,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist eBook - Wie ich die ersten 1000 € mit KI verdiente? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-06-19
-- Wie viel kostet es? — 20.796660000000003 USD
+- Wie viel kostet es? — 20.80968 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: eBook - Wie ich die ersten 1000 € mit KI verdiente Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/703407
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/703407/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=eBook%20-%20Wie%20ich%20die%20ersten%201000%20%E2%82%AC%20mit%20KI%20verdiente
 
 ## 4. Editorial notes

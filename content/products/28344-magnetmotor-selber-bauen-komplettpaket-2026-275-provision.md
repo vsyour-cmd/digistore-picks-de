@@ -4,16 +4,16 @@ digistore24_product_id: 211195
 title: "Magnetmotor selber bauen Komplettpaket 2026 - 275€ Provision"
 vendor: "deinwissen"
 product_type: "Member area and video courses"
-price: 35.24
+price: 35.26
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 13.9
+earnings_per_sale: 13.91
 cart_conversion_pct: 3
 cancel_rate_pct: 7.97
-categories: ["Green Products & Environmental Protection","Hobby & Craft","Home & Garden"]
+categories: ["Home & Garden","Green Products & Environmental Protection","Hobby & Craft"]
 listed_since: "2018-03-28"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://www.magnet-motor4u.de/12-tage?aff=adminstore#aff=adminstore"
 sales_page: "https://www.magnet-motor4u.de/12-tage"
@@ -22,22 +22,22 @@ language: "de"
 # Magnetmotor selber bauen Komplettpaket 2026 - 275€ Provision
 
 > Product ID `28344` · Digistore24 productId `211195` · [HTML profile page](../../produkte/magnetmotor-selber-bauen-komplettpaket-2026-275-provision-28344.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $35.24 (Single payment) |
+| Price | $35.26 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $13.90 |
+| Earnings/sale* | $13.91 |
 | Cart conversion* | 3% |
 | Cancel rate* | 7.97% |
 | Vendor | deinwissen |
 | Listed since | 2018-03-28 |
 | Auto-accept affiliates | yes |
-| Categories | Green Products & Environmental Protection, Hobby & Craft, Home & Garden |
+| Categories | Home & Garden, Green Products & Environmental Protection, Hobby & Craft |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Magnetmotor selber bauen Komplettpaket 2026 - 275€ Provision? — Typ: Member area and video courses, Anbieter: deinwissen, gelistet seit 2018-03-28
-- Wie viel kostet es? — 35.242512000000005 USD
+- Wie viel kostet es? — 35.264576 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Magnetmotor selber bauen Komplettpaket 2026 - 275€ Provision Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/211195
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/211195/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Magnetmotor%20selber%20bauen%20Komplettpaket%202026%20-%20275%E2%82%AC%20Provision
 
 ## 4. Editorial notes

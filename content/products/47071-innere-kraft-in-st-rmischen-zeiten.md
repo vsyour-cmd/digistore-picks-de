@@ -4,34 +4,34 @@ digistore24_product_id: 13185
 title: "Innere Kraft in stürmischen Zeiten"
 vendor: "changenow"
 product_type: "Member area and video courses"
-price: 91.14
+price: 91.19
 currency: "USD"
 affiliate_commission_pct: 95
-earnings_per_sale: 86.57
+earnings_per_sale: 86.63
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Profession & Job"]
 listed_since: "2013-06-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/47071/adminstore/"
+promo_link: "https://event.webinarjam.com/register/18/y8y5nb1?aff=adminstore#aff=adminstore"
 sales_page: "https://event.webinarjam.com/register/18/y8y5nb1"
 language: "de"
 ---
 # Innere Kraft in stürmischen Zeiten
 
 > Product ID `47071` · Digistore24 productId `13185` · [HTML profile page](../../produkte/innere-kraft-in-st-rmischen-zeiten-47071.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $91.14 (Single payment) |
+| Price | $91.19 (Single payment) |
 | Affiliate commission | 95% |
-| Earnings/sale* | $86.57 |
+| Earnings/sale* | $86.63 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | changenow |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/47071/adminstore/
+- **Promo link (affiliate):** https://event.webinarjam.com/register/18/y8y5nb1?aff=adminstore#aff=adminstore
 - Sales page: https://event.webinarjam.com/register/18/y8y5nb1
 - Vendor affiliate support: https://pixa.me/partner
 - Canonical redirect: https://www.digistore24.com/redir/13185/adminstore
@@ -81,14 +81,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Innere Kraft in stürmischen Zeiten? — Typ: Member area and video courses, Anbieter: changenow, gelistet seit 2013-06-21
-- Wie viel kostet es? — 91.13633100000001 USD
+- Wie viel kostet es? — 91.19338800000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Innere Kraft in stürmischen Zeiten Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/13185
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/13185/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Innere%20Kraft%20in%20st%C3%BCrmischen%20Zeiten
 
 ## 4. Editorial notes

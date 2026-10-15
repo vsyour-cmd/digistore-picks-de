@@ -4,40 +4,40 @@ digistore24_product_id: 607751
 title: "Excel für AP1 – speziell für Kaufleute für Büromanagement"
 vendor: "wileleg"
 product_type: "Member area and video courses"
-price: 74.41
+price: 74.46
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 41.58
+earnings_per_sale: 41.61
 cart_conversion_pct: 13
 cancel_rate_pct: 0
-categories: ["Education","Profession & Job"]
+categories: ["Profession & Job","Education"]
 listed_since: "2025-04-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/52173/adminstore/"
+promo_link: "https://kostenrechnung-ganz-einfach.de/onlinekurs-excel-fur-kaufleute-fur-buromanagement-gaaanz-einfach-af?aff=adminstore#aff=adminstore"
 sales_page: "https://kostenrechnung-ganz-einfach.de/onlinekurs-excel-fur-kaufleute-fur-buromanagement-gaaanz-einfach-af"
 language: "de"
 ---
 # Excel für AP1 – speziell für Kaufleute für Büromanagement
 
 > Product ID `52173` · Digistore24 productId `607751` · [HTML profile page](../../produkte/excel-f-r-ap1-speziell-f-r-kaufleute-f-r-b-romanagement-52173.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $74.41 (Single payment) |
+| Price | $74.46 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $41.58 |
+| Earnings/sale* | $41.61 |
 | Cart conversion* | 13% |
 | Cancel rate* | 0% |
 | Vendor | wileleg |
 | Listed since | 2025-04-16 |
 | Auto-accept affiliates | no (approval required) |
-| Categories | Education, Profession & Job |
+| Categories | Profession & Job, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/52173/adminstore/
+- **Promo link (affiliate):** https://kostenrechnung-ganz-einfach.de/onlinekurs-excel-fur-kaufleute-fur-buromanagement-gaaanz-einfach-af?aff=adminstore#aff=adminstore
 - Sales page: https://kostenrechnung-ganz-einfach.de/onlinekurs-excel-fur-kaufleute-fur-buromanagement-gaaanz-einfach-af
 - Canonical redirect: https://www.digistore24.com/redir/607751/adminstore
 
@@ -66,14 +66,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Excel für AP1 – speziell für Kaufleute für Büromanagement? — Typ: Member area and video courses, Anbieter: wileleg, gelistet seit 2025-04-16
-- Wie viel kostet es? — 74.409555 USD
+- Wie viel kostet es? — 74.45614 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Excel für AP1 – speziell für Kaufleute für Büromanagement Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/607751
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/607751/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Excel%20f%C3%BCr%20AP1%20%E2%80%93%20speziell%20f%C3%BCr%20Kaufleute%20f%C3%BCr%20B%C3%BCromanagement
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 682622
 title: "MyDF-Alive Publish Studio-24 Monate Zugang"
 vendor: "Selfrealization"
 product_type: "Software"
-price: 374.89
+price: 375.12
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 112.47
+earnings_per_sale: 112.54
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software","Online Marketing"]
 listed_since: "2026-06-13"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
 promo_link: "https://mydayflow-ai.com/preise?aff=adminstore#aff=adminstore"
 sales_page: "https://mydayflow-ai.com/preise"
@@ -22,16 +22,16 @@ language: "de"
 # MyDF-Alive Publish Studio-24 Monate Zugang
 
 > Product ID `56876` · Digistore24 productId `682622` · [HTML profile page](../../produkte/mydf-alive-publish-studio-24-monate-zugang-56876.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $374.89 (Single payment, Installment) |
+| Price | $375.12 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $112.47 |
+| Earnings/sale* | $112.54 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Selfrealization |
@@ -72,14 +72,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist MyDF-Alive Publish Studio-24 Monate Zugang? — Typ: Software, Anbieter: Selfrealization, gelistet seit 2026-06-13
-- Wie viel kostet es? — 374.88774900000004 USD
+- Wie viel kostet es? — 375.122452 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: MyDF-Alive Publish Studio-24 Monate Zugang Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/682622
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/682622/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=MyDF-Alive%20Publish%20Studio-24%20Monate%20Zugang
 
 ## 4. Editorial notes

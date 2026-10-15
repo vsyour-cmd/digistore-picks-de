@@ -4,7 +4,7 @@ digistore24_product_id: 644165
 title: "Ola`s Dankbarkeitsbuch - gedrucktes Buch"
 vendor: "OlgaHein"
 product_type: "Book (printed)"
-price: 22.99
+price: 23
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 2.3
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2025-10-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/55037/adminstore/"
+promo_link: "https://holistic-life.coachy.net/lp/meine-coaching-mentoring-pakete/?aff=adminstore#aff=adminstore"
 sales_page: "https://holistic-life.coachy.net/lp/meine-coaching-mentoring-pakete/"
 language: "de"
 ---
 # Ola`s Dankbarkeitsbuch - gedrucktes Buch
 
 > Product ID `55037` · Digistore24 productId `644165` · [HTML profile page](../../produkte/ola-s-dankbarkeitsbuch-gedrucktes-buch-55037.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $22.99 (Single payment) |
+| Price | $23.00 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $2.30 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55037/adminstore/
+- **Promo link (affiliate):** https://holistic-life.coachy.net/lp/meine-coaching-mentoring-pakete/?aff=adminstore#aff=adminstore
 - Sales page: https://holistic-life.coachy.net/lp/meine-coaching-mentoring-pakete/
 - Canonical redirect: https://www.digistore24.com/redir/644165/adminstore
 
@@ -72,14 +72,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ola`s Dankbarkeitsbuch - gedrucktes Buch? — Typ: Book (printed), Anbieter: OlgaHein, gelistet seit 2025-10-26
-- Wie viel kostet es? — 22.988136 USD
+- Wie viel kostet es? — 23.002527999999998 USD
 - Garantie? — 14
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Ola`s Dankbarkeitsbuch - gedrucktes Buch Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/644165
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/644165/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Ola%60s%20Dankbarkeitsbuch%20-%20gedrucktes%20Buch
 
 ## 4. Editorial notes

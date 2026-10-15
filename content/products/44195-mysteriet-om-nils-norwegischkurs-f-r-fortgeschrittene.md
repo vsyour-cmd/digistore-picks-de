@@ -4,34 +4,34 @@ digistore24_product_id: 489138
 title: "Mysteriet om Nils – Norwegischkurs für Fortgeschrittene"
 vendor: "Skapago"
 product_type: "Member area and video courses"
-price: 233.95
+price: 234.1
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 70.18
+earnings_per_sale: 70.23
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Languages"]
 listed_since: "2023-03-14"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/44195/adminstore/"
+promo_link: "https://kurse.skapago.eu/lp/norskkurs-mysteriet-om-nils-ds?aff=adminstore#aff=adminstore"
 sales_page: "https://kurse.skapago.eu/lp/norskkurs-mysteriet-om-nils-ds"
 language: "de"
 ---
 # Mysteriet om Nils – Norwegischkurs für Fortgeschrittene
 
 > Product ID `44195` · Digistore24 productId `489138` · [HTML profile page](../../produkte/mysteriet-om-nils-norwegischkurs-f-r-fortgeschrittene-44195.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $233.95 (Subscription) |
+| Price | $234.10 (Subscription) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $70.18 |
+| Earnings/sale* | $70.23 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Skapago |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/44195/adminstore/
+- **Promo link (affiliate):** https://kurse.skapago.eu/lp/norskkurs-mysteriet-om-nils-ds?aff=adminstore#aff=adminstore
 - Sales page: https://kurse.skapago.eu/lp/norskkurs-mysteriet-om-nils-ds
 - Canonical redirect: https://www.digistore24.com/redir/489138/adminstore
 
@@ -92,14 +92,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mysteriet om Nils – Norwegischkurs für Fortgeschrittene? — Typ: Member area and video courses, Anbieter: Skapago, gelistet seit 2023-03-14
-- Wie viel kostet es? — 233.95124400000003 USD
+- Wie viel kostet es? — 234.097712 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Mysteriet om Nils – Norwegischkurs für Fortgeschrittene Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/489138
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/489138/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Mysteriet%20om%20Nils%20%E2%80%93%20Norwegischkurs%20f%C3%BCr%20Fortgeschrittene
 
 ## 4. Editorial notes

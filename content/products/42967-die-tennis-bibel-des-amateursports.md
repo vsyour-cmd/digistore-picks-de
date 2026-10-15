@@ -4,40 +4,40 @@ digistore24_product_id: 488060
 title: "Die Tennis Bibel des Amateursports"
 vendor: "Ronny84"
 product_type: "E-books"
-price: 36.56
+price: 36.58
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 10.97
+earnings_per_sale: 10.98
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Health & Fitness","Hobby & Craft","Sport"]
+categories: ["Health & Fitness","Sport","Hobby & Craft"]
 listed_since: "2023-03-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/42967/adminstore/"
+promo_link: "https://www.sandplatz-tennis.de/mein-tennis-ebook/?aff=AFFILIATE&aff=adminstore#aff=adminstore"
 sales_page: "https://www.sandplatz-tennis.de/mein-tennis-ebook/?aff=AFFILIATE"
 language: "de"
 ---
 # Die Tennis Bibel des Amateursports
 
 > Product ID `42967` · Digistore24 productId `488060` · [HTML profile page](../../produkte/die-tennis-bibel-des-amateursports-42967.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $36.56 (Single payment) |
+| Price | $36.58 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $10.97 |
+| Earnings/sale* | $10.98 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Ronny84 |
 | Listed since | 2023-03-08 |
 | Auto-accept affiliates | yes |
-| Categories | Health & Fitness, Hobby & Craft, Sport |
+| Categories | Health & Fitness, Sport, Hobby & Craft |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/42967/adminstore/
+- **Promo link (affiliate):** https://www.sandplatz-tennis.de/mein-tennis-ebook/?aff=AFFILIATE&aff=adminstore#aff=adminstore
 - Sales page: https://www.sandplatz-tennis.de/mein-tennis-ebook/?aff=AFFILIATE
 - Canonical redirect: https://www.digistore24.com/redir/488060/adminstore
 
@@ -95,14 +95,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die Tennis Bibel des Amateursports? — Typ: E-books, Anbieter: Ronny84, gelistet seit 2023-03-08
-- Wie viel kostet es? — 36.561870000000006 USD
+- Wie viel kostet es? — 36.58476 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Die Tennis Bibel des Amateursports Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/488060
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/488060/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Die%20Tennis%20Bibel%20des%20Amateursports
 
 ## 4. Editorial notes

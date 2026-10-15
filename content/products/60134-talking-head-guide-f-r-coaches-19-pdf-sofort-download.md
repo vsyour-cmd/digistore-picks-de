@@ -4,16 +4,16 @@ digistore24_product_id: 740688
 title: "Talking-Head-Guide für Coaches: 19 € PDF, Sofort-Download"
 vendor: "acmediagrafik"
 product_type: "E-books"
-price: 19.86
+price: 19.87
 currency: "USD"
 affiliate_commission_pct: 45
-earnings_per_sale: 8.93
+earnings_per_sale: 8.94
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-10-02"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://creatorhandbuch.de?aff=adminstore#aff=adminstore"
 sales_page: "https://creatorhandbuch.de"
@@ -22,16 +22,16 @@ language: "de"
 # Talking-Head-Guide für Coaches: 19 € PDF, Sofort-Download
 
 > Product ID `60134` · Digistore24 productId `740688` · [HTML profile page](../../produkte/talking-head-guide-f-r-coaches-19-pdf-sofort-download-60134.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $19.86 (Single payment) |
+| Price | $19.87 (Single payment) |
 | Affiliate commission | 45% |
-| Earnings/sale* | $8.93 |
+| Earnings/sale* | $8.94 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | acmediagrafik |
@@ -81,14 +81,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Talking-Head-Guide für Coaches: 19 € PDF, Sofort-Download? — Typ: E-books, Anbieter: acmediagrafik, gelistet seit 2026-10-02
-- Wie viel kostet es? — 19.857456000000003 USD
+- Wie viel kostet es? — 19.869888000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Talking-Head-Guide für Coaches: 19 € PDF, Sofort-Download Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/740688
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/740688/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Talking-Head-Guide%20f%C3%BCr%20Coaches%3A%2019%20%E2%82%AC%20PDF%2C%20Sofort-Download
 
 ## 4. Editorial notes

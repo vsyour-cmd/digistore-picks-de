@@ -12,17 +12,17 @@ cart_conversion_pct: 18
 cancel_rate_pct: 0.59
 categories: ["Education"]
 listed_since: "2022-07-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/40505/adminstore/"
+promo_link: "https://business-kickstart.de/erfolgsgeheimnis-lp1/?aff=adminstore#aff=adminstore"
 sales_page: "https://business-kickstart.de/erfolgsgeheimnis-lp1/"
 language: "de"
 ---
 # Sofort-Erfolgs-Geheimnis
 
 > Product ID `40505` · Digistore24 productId `449302` · [HTML profile page](../../produkte/sofort-erfolgs-geheimnis-40505.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/40505/adminstore/
+- **Promo link (affiliate):** https://business-kickstart.de/erfolgsgeheimnis-lp1/?aff=adminstore#aff=adminstore
 - Sales page: https://business-kickstart.de/erfolgsgeheimnis-lp1/
 - Vendor affiliate support: https://business-kickstart.de/erfolgsgeheimnis-partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/449302/adminstore
@@ -59,14 +59,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Sofort-Erfolgs-Geheimnis? — Typ: E-books, Anbieter: CyrilCash, gelistet seit 2022-07-01
-- Wie viel kostet es? — 2.560449 USD
+- Wie viel kostet es? — 2.562052 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Sofort-Erfolgs-Geheimnis Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/449302
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/449302/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Sofort-Erfolgs-Geheimnis
 
 ## 4. Editorial notes

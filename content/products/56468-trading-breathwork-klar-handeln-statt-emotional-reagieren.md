@@ -4,16 +4,16 @@ digistore24_product_id: 686937
 title: "Trading Breathwork – Klar handeln statt emotional reagieren."
 vendor: "BeamdreamBreathworks"
 product_type: "Member area and video courses"
-price: 250.87
+price: 251.03
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 75.26
+earnings_per_sale: 75.31
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2026-04-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.tradingbreathwork.com?aff=adminstore#aff=adminstore"
 sales_page: "https://www.tradingbreathwork.com"
@@ -22,16 +22,16 @@ language: "de"
 # Trading Breathwork – Klar handeln statt emotional reagieren.
 
 > Product ID `56468` · Digistore24 productId `686937` · [HTML profile page](../../produkte/trading-breathwork-klar-handeln-statt-emotional-reagieren-56468.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $250.87 (Single payment, Installment) |
+| Price | $251.03 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $75.26 |
+| Earnings/sale* | $75.31 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | BeamdreamBreathworks |
@@ -96,14 +96,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Trading Breathwork – Klar handeln statt emotional reagieren.? — Typ: Member area and video courses, Anbieter: BeamdreamBreathworks, gelistet seit 2026-04-23
-- Wie viel kostet es? — 250.86809700000003 USD
+- Wie viel kostet es? — 251.025156 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Trading Breathwork – Klar handeln statt emotional reagieren. Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/686937
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/686937/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Trading%20Breathwork%20%E2%80%93%20Klar%20handeln%20statt%20emotional%20reagieren.
 
 ## 4. Editorial notes

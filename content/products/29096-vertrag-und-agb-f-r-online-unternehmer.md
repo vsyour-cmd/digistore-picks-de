@@ -4,16 +4,16 @@ digistore24_product_id: 174749
 title: "Vertrag und AGB für Online Unternehmer"
 vendor: "Paragraf7"
 product_type: "Downloads"
-price: 890.38
+price: 890.93
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 83.95
+earnings_per_sale: 84
 cart_conversion_pct: 6
 cancel_rate_pct: 4.74
 categories: ["Law & Justice"]
 listed_since: "2017-10-28"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://easycontracts.de/vertraege/webservice/webdesign-vertrag/?aff=adminstore#aff=adminstore"
 sales_page: "https://easycontracts.de/vertraege/webservice/webdesign-vertrag/"
@@ -22,16 +22,16 @@ language: "de"
 # Vertrag und AGB für Online Unternehmer
 
 > Product ID `29096` · Digistore24 productId `174749` · [HTML profile page](../../produkte/vertrag-und-agb-f-r-online-unternehmer-29096.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $890.38 (Single payment) |
+| Price | $890.93 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $83.95 |
+| Earnings/sale* | $84.00 |
 | Cart conversion* | 6% |
 | Cancel rate* | 4.74% |
 | Vendor | Paragraf7 |
@@ -89,14 +89,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Vertrag und AGB für Online Unternehmer? — Typ: Downloads, Anbieter: Paragraf7, gelistet seit 2017-10-28
-- Wie viel kostet es? — 890.3765730000001 USD
+- Wie viel kostet es? — 890.9340040000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Vertrag und AGB für Online Unternehmer Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/174749
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/174749/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Vertrag%20und%20AGB%20f%C3%BCr%20Online%20Unternehmer
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 432363
 title: "Das optimierte Partnerprogramm von Webinaris. Die Nr. 1"
 vendor: "Webinaris"
 product_type: "Member area and video courses"
-price: 1582.54
+price: 1583.53
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 287.74
+earnings_per_sale: 287.92
 cart_conversion_pct: 13
 cancel_rate_pct: 3.04
 categories: ["Software"]
 listed_since: "2022-03-02"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.webinaris.com?aff=adminstore#aff=adminstore"
 sales_page: "https://www.webinaris.com"
@@ -22,16 +22,16 @@ language: "de"
 # Das optimierte Partnerprogramm von Webinaris. Die Nr. 1
 
 > Product ID `4133` · Digistore24 productId `432363` · [HTML profile page](../../produkte/das-optimierte-partnerprogramm-von-webinaris-die-nr-1-4133.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1582.54 (Subscription) |
+| Price | $1583.53 (Subscription) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $287.74 |
+| Earnings/sale* | $287.92 |
 | Cart conversion* | 13% |
 | Cancel rate* | 3.04% |
 | Vendor | Webinaris |
@@ -88,14 +88,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das optimierte Partnerprogramm von Webinaris. Die Nr. 1? — Typ: Member area and video courses, Anbieter: Webinaris, gelistet seit 2022-03-02
-- Wie viel kostet es? — 1582.5363780000002 USD
+- Wie viel kostet es? — 1583.5271440000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Das optimierte Partnerprogramm von Webinaris. Die Nr. 1 Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/432363
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/432363/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Das%20optimierte%20Partnerprogramm%20von%20Webinaris.%20Die%20Nr.%201
 
 ## 4. Editorial notes

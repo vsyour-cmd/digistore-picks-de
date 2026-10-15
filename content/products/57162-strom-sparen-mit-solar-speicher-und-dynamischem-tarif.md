@@ -4,16 +4,16 @@ digistore24_product_id: 699090
 title: "Strom sparen mit Solar, Speicher und dynamischem Tarif"
 vendor: "cihanoezkaya8087"
 product_type: "E-books"
-price: 20.8
+price: 20.81
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 10.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Hobby & Craft","Home & Garden","Finances"]
+categories: ["Home & Garden","Hobby & Craft","Finances"]
 listed_since: "2026-06-28"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "http://cihanoezkaya.de?aff=adminstore#aff=adminstore"
 sales_page: "http://cihanoezkaya.de"
@@ -22,14 +22,14 @@ language: "de"
 # Strom sparen mit Solar, Speicher und dynamischem Tarif
 
 > Product ID `57162` · Digistore24 productId `699090` · [HTML profile page](../../produkte/strom-sparen-mit-solar-speicher-und-dynamischem-tarif-57162.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.80 (Single payment) |
+| Price | $20.81 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $10.40 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | cihanoezkaya8087 |
 | Listed since | 2026-06-28 |
 | Auto-accept affiliates | no (approval required) |
-| Categories | Hobby & Craft, Home & Garden, Finances |
+| Categories | Home & Garden, Hobby & Craft, Finances |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -81,14 +81,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Strom sparen mit Solar, Speicher und dynamischem Tarif? — Typ: E-books, Anbieter: cihanoezkaya8087, gelistet seit 2026-06-28
-- Wie viel kostet es? — 20.796660000000003 USD
+- Wie viel kostet es? — 20.80968 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Strom sparen mit Solar, Speicher und dynamischem Tarif Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/699090
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/699090/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Strom%20sparen%20mit%20Solar%2C%20Speicher%20und%20dynamischem%20Tarif
 
 ## 4. Editorial notes

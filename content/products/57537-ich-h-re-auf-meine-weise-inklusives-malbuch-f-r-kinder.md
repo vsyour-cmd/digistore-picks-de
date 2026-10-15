@@ -4,32 +4,32 @@ digistore24_product_id: 711292
 title: "Ich höre auf meine Weise – Inklusives Malbuch für Kinder"
 vendor: "Herzenswelt"
 product_type: "E-books"
-price: 13.48
+price: 13.49
 currency: "USD"
 affiliate_commission_pct: 60
 earnings_per_sale: 8.1
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Family & Children","Health & Fitness","Hobby & Craft"]
+categories: ["Health & Fitness","Family & Children","Hobby & Craft"]
 listed_since: "2026-07-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/57537/adminstore/"
+promo_link: "https://gesundleben360.de/malbuch-fur-kinder-mit-horgerat-oder-cochlea-implantat/?aff=adminstore#aff=adminstore"
 sales_page: "https://gesundleben360.de/malbuch-fur-kinder-mit-horgerat-oder-cochlea-implantat/"
 language: "de"
 ---
 # Ich höre auf meine Weise – Inklusives Malbuch für Kinder
 
 > Product ID `57537` · Digistore24 productId `711292` · [HTML profile page](../../produkte/ich-h-re-auf-meine-weise-inklusives-malbuch-f-r-kinder-57537.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $13.48 (Single payment) |
+| Price | $13.49 (Single payment) |
 | Affiliate commission | 60% |
 | Earnings/sale* | $8.10 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | Herzenswelt |
 | Listed since | 2026-07-15 |
 | Auto-accept affiliates | yes |
-| Categories | Family & Children, Health & Fitness, Hobby & Craft |
+| Categories | Health & Fitness, Family & Children, Hobby & Craft |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/57537/adminstore/
+- **Promo link (affiliate):** https://gesundleben360.de/malbuch-fur-kinder-mit-horgerat-oder-cochlea-implantat/?aff=adminstore#aff=adminstore
 - Sales page: https://gesundleben360.de/malbuch-fur-kinder-mit-horgerat-oder-cochlea-implantat/
 - Canonical redirect: https://www.digistore24.com/redir/711292/adminstore
 
@@ -77,14 +77,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ich höre auf meine Weise – Inklusives Malbuch für Kinder? — Typ: E-books, Anbieter: Herzenswelt, gelistet seit 2026-07-15
-- Wie viel kostet es? — 13.484286 USD
+- Wie viel kostet es? — 13.492728000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Ich höre auf meine Weise – Inklusives Malbuch für Kinder Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/711292
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/711292/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Ich%20h%C3%B6re%20auf%20meine%20Weise%20%E2%80%93%20Inklusives%20Malbuch%20f%C3%BCr%20Kinder
 
 ## 4. Editorial notes

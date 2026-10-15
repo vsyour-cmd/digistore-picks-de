@@ -4,16 +4,16 @@ digistore24_product_id: 723860
 title: "Cortisol-Code-Diät"
 vendor: "mutpunkt-pro"
 product_type: "Member area and video courses"
-price: 12.16
+price: 12.17
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 6.08
+earnings_per_sale: 6.09
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Family & Children","Food & Drink","Health & Fitness"]
+categories: ["Health & Fitness","Family & Children","Food & Drink"]
 listed_since: "2026-08-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/723860?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/723860"
@@ -22,22 +22,22 @@ language: "de"
 # Cortisol-Code-Diät
 
 > Product ID `58496` · Digistore24 productId `723860` · [HTML profile page](../../produkte/cortisol-code-di-t-58496.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $12.16 (Single payment) |
+| Price | $12.17 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $6.08 |
+| Earnings/sale* | $6.09 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | mutpunkt-pro |
 | Listed since | 2026-08-21 |
 | Auto-accept affiliates | yes |
-| Categories | Family & Children, Food & Drink, Health & Fitness |
+| Categories | Health & Fitness, Family & Children, Food & Drink |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -82,14 +82,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Cortisol-Code-Diät? — Typ: Member area and video courses, Anbieter: mutpunkt-pro, gelistet seit 2026-08-21
-- Wie viel kostet es? — 12.164928000000002 USD
+- Wie viel kostet es? — 12.172544 USD
 - Garantie? — 14
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Cortisol-Code-Diät Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/723860
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/723860/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Cortisol-Code-Di%C3%A4t
 
 ## 4. Editorial notes

@@ -4,40 +4,40 @@ digistore24_product_id: 742697
 title: "P.A.R.A. Kontrolle"
 vendor: "manuelcosta"
 product_type: "Downloads"
-price: 122.14
+price: 122.22
 currency: "USD"
 affiliate_commission_pct: 91.54
-earnings_per_sale: 111.81
+earnings_per_sale: 111.88
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: []
+categories: ["Personal Development","Dating, Relationships & Romance","Education"]
 listed_since: "2026-10-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/60421/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/742697?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/742697"
 language: "de"
 ---
 # P.A.R.A. Kontrolle
 
 > Product ID `60421` · Digistore24 productId `742697` · [HTML profile page](../../produkte/p-a-r-a-kontrolle-60421.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $122.14 (Single payment) |
+| Price | $122.22 (Single payment) |
 | Affiliate commission | 91.54% |
-| Earnings/sale* | $111.81 |
+| Earnings/sale* | $111.88 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | manuelcosta |
 | Listed since | 2026-10-08 |
 | Auto-accept affiliates | yes |
-| Categories | Uncategorized |
+| Categories | Personal Development, Dating, Relationships & Romance, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/60421/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/742697?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/742697
 - Canonical redirect: https://www.digistore24.com/redir/742697/adminstore
 
@@ -78,14 +78,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist P.A.R.A. Kontrolle? — Typ: Downloads, Anbieter: manuelcosta, gelistet seit 2026-10-08
-- Wie viel kostet es? — 122.141244 USD
+- Wie viel kostet es? — 122.21771199999999 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: P.A.R.A. Kontrolle Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/742697
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/742697/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=P.A.R.A.%20Kontrolle
 
 ## 4. Editorial notes

@@ -4,7 +4,7 @@ digistore24_product_id: 721417
 title: "Affiliate-Website u. Verkaufsfunnel – technisch fertig einge"
 vendor: "rs-onlineagentur"
 product_type: "Downloads"
-price: 14
+price: 14.01
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 7
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Marketing Services"]
 listed_since: "2026-08-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "http://rita-scheer.de/50-pinterest-vorlagen/?aff=adminstore#aff=adminstore"
 sales_page: "http://rita-scheer.de/50-pinterest-vorlagen/"
@@ -22,14 +22,14 @@ language: "de"
 # Affiliate-Website u. Verkaufsfunnel – technisch fertig einge
 
 > Product ID `58380` · Digistore24 productId `721417` · [HTML profile page](../../produkte/affiliate-website-u-verkaufsfunnel-technisch-fertig-einge-58380.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $14.00 (Single payment) |
+| Price | $14.01 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $7.00 |
 | Cart conversion* | — |
@@ -80,14 +80,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Affiliate-Website u. Verkaufsfunnel – technisch fertig einge? — Typ: Downloads, Anbieter: rs-onlineagentur, gelistet seit 2026-08-15
-- Wie viel kostet es? — 13.998612000000001 USD
+- Wie viel kostet es? — 14.007375999999999 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Affiliate-Website u. Verkaufsfunnel – technisch fertig einge Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/721417
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/721417/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Affiliate-Website%20u.%20Verkaufsfunnel%20%E2%80%93%20technisch%20fertig%20einge
 
 ## 4. Editorial notes

@@ -4,7 +4,7 @@ digistore24_product_id: 341389
 title: "Instagram Business Coaching"
 vendor: "TanjaV"
 product_type: "Online coaching"
-price: 28.51
+price: 28.53
 currency: "USD"
 affiliate_commission_pct: 25
 earnings_per_sale: 3.98
@@ -12,24 +12,24 @@ cart_conversion_pct: 29
 cancel_rate_pct: 1.5
 categories: ["Profession & Job"]
 listed_since: "2020-08-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/33757/adminstore/"
+promo_link: "https://www.digistore24.com/product/341389?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/341389"
 language: "de"
 ---
 # Instagram Business Coaching
 
 > Product ID `33757` · Digistore24 productId `341389` · [HTML profile page](../../produkte/instagram-business-coaching-33757.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $28.51 (Single payment) |
+| Price | $28.53 (Single payment) |
 | Affiliate commission | 25% |
 | Earnings/sale* | $3.98 |
 | Cart conversion* | 29% |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/33757/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/341389?aff=adminstore
 - Sales page: https://www.digistore24.com/product/341389
 - Vendor affiliate support: https://www.ts-onlinemedia.de/affiliate-crash-kurs-instagram/
 - Canonical redirect: https://www.digistore24.com/redir/341389/adminstore
@@ -77,14 +77,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Instagram Business Coaching? — Typ: Online coaching, Anbieter: TanjaV, gelistet seit 2020-08-17
-- Wie viel kostet es? — 28.511550000000003 USD
+- Wie viel kostet es? — 28.5294 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Instagram Business Coaching Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/341389
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/341389/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Instagram%20Business%20Coaching
 
 ## 4. Editorial notes

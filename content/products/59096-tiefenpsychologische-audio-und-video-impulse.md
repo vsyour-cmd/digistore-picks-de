@@ -4,16 +4,16 @@ digistore24_product_id: 722640
 title: "Tiefenpsychologische Audio und Video Impulse"
 vendor: "polked521"
 product_type: "Downloads"
-price: 64.83
+price: 64.87
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 38.9
+earnings_per_sale: 38.92
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2026-09-10"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/722640?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/722640"
@@ -22,16 +22,16 @@ language: "de"
 # Tiefenpsychologische Audio und Video Impulse
 
 > Product ID `59096` · Digistore24 productId `722640` · [HTML profile page](../../produkte/tiefenpsychologische-audio-und-video-impulse-59096.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $64.83 (Single payment) |
+| Price | $64.87 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $38.90 |
+| Earnings/sale* | $38.92 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | polked521 |
@@ -78,14 +78,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Tiefenpsychologische Audio und Video Impulse? — Typ: Downloads, Anbieter: polked521, gelistet seit 2026-09-10
-- Wie viel kostet es? — 64.827438 USD
+- Wie viel kostet es? — 64.86802399999999 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Tiefenpsychologische Audio und Video Impulse Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/722640
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/722640/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Tiefenpsychologische%20Audio%20und%20Video%20Impulse
 
 ## 4. Editorial notes

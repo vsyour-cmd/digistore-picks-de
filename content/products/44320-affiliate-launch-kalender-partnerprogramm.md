@@ -10,10 +10,10 @@ affiliate_commission_pct: 50
 earnings_per_sale: 2.8
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Business & Investment","Email Marketing","Online Marketing & E-Business"]
+categories: ["Business & Investment","Online Marketing & E-Business","Email Marketing"]
 listed_since: "2023-05-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.profitbuddies.de/affiliate-launch-kalender?aff=adminstore#aff=adminstore"
 sales_page: "https://www.profitbuddies.de/affiliate-launch-kalender"
@@ -22,7 +22,7 @@ language: "de"
 # Affiliate Launch Kalender | Partnerprogramm
 
 > Product ID `44320` · Digistore24 productId `500221` · [HTML profile page](../../produkte/affiliate-launch-kalender-partnerprogramm-44320.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | profitbuddies |
 | Listed since | 2023-05-24 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Email Marketing, Online Marketing & E-Business |
+| Categories | Business & Investment, Online Marketing & E-Business, Email Marketing |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -74,14 +74,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Affiliate Launch Kalender | Partnerprogramm? — Typ: Member area and video courses, Anbieter: profitbuddies, gelistet seit 2023-05-24
-- Wie viel kostet es? — 5.5905000000000005 USD
+- Wie viel kostet es? — 5.594 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Affiliate Launch Kalender | Partnerprogramm Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/500221
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/500221/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Affiliate%20Launch%20Kalender%20%7C%20Partnerprogramm
 
 ## 4. Editorial notes

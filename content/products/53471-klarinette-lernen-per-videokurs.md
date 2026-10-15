@@ -4,34 +4,34 @@ digistore24_product_id: 510473
 title: "Klarinette lernen per Videokurs"
 vendor: "VSclarinet"
 product_type: "Member area and video courses"
-price: 74.8
+price: 74.85
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 12.88
+earnings_per_sale: 12.89
 cart_conversion_pct: 29
 cancel_rate_pct: 2.79
 categories: ["Education"]
 listed_since: "2023-08-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/53471/adminstore/"
+promo_link: "https://onlineklarinettelernen.com/videokurs-startklar-der-einstieg-ins-klarinettenspiel/?aff=adminstore#aff=adminstore"
 sales_page: "https://onlineklarinettelernen.com/videokurs-startklar-der-einstieg-ins-klarinettenspiel/"
 language: "de"
 ---
 # Klarinette lernen per Videokurs
 
 > Product ID `53471` · Digistore24 productId `510473` · [HTML profile page](../../produkte/klarinette-lernen-per-videokurs-53471.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $74.80 (Single payment) |
+| Price | $74.85 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $12.88 |
+| Earnings/sale* | $12.89 |
 | Cart conversion* | 29% |
 | Cancel rate* | 2.79% |
 | Vendor | VSclarinet |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/53471/adminstore/
+- **Promo link (affiliate):** https://onlineklarinettelernen.com/videokurs-startklar-der-einstieg-ins-klarinettenspiel/?aff=adminstore#aff=adminstore
 - Sales page: https://onlineklarinettelernen.com/videokurs-startklar-der-einstieg-ins-klarinettenspiel/
 - Canonical redirect: https://www.digistore24.com/redir/510473/adminstore
 
@@ -81,14 +81,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Klarinette lernen per Videokurs? — Typ: Member area and video courses, Anbieter: VSclarinet, gelistet seit 2023-08-06
-- Wie viel kostet es? — 74.80089000000001 USD
+- Wie viel kostet es? — 74.84772000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Klarinette lernen per Videokurs Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/510473
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/510473/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Klarinette%20lernen%20per%20Videokurs
 
 ## 4. Editorial notes

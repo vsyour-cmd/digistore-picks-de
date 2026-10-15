@@ -12,17 +12,17 @@ cart_conversion_pct: 53
 cancel_rate_pct: 1.68
 categories: ["Dating, Relationships & Romance","Online Marketing & E-Business"]
 listed_since: "2024-10-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/50189/adminstore/"
+promo_link: "https://page.funnelcockpit.com/bPMEQiw7SFyYQGQWE?aff=adminstore#aff=adminstore"
 sales_page: "https://page.funnelcockpit.com/bPMEQiw7SFyYQGQWE"
 language: "de"
 ---
 # FSK 18 Affiliate - Geldmaschine Erotik
 
 > Product ID `50189` · Digistore24 productId `576914` · [HTML profile page](../../produkte/fsk-18-affiliate-geldmaschine-erotik-50189.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/50189/adminstore/
+- **Promo link (affiliate):** https://page.funnelcockpit.com/bPMEQiw7SFyYQGQWE?aff=adminstore#aff=adminstore
 - Sales page: https://page.funnelcockpit.com/bPMEQiw7SFyYQGQWE
 - Vendor affiliate support: https://www.meinneuerlifestyle.vip/werbemittel-fsk-freebie/
 - Canonical redirect: https://www.digistore24.com/redir/576914/adminstore
@@ -59,14 +59,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist FSK 18 Affiliate - Geldmaschine Erotik? — Typ: Downloads, Anbieter: Spekulatius, gelistet seit 2024-10-24
-- Wie viel kostet es? — 0.022362000000000003 USD
+- Wie viel kostet es? — 0.022376 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: FSK 18 Affiliate - Geldmaschine Erotik Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/576914
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/576914/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=FSK%2018%20Affiliate%20-%20Geldmaschine%20Erotik
 
 ## 4. Editorial notes

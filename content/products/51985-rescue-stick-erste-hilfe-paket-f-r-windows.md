@@ -4,40 +4,40 @@ digistore24_product_id: 518675
 title: "Rescue Stick - Erste Hilfe Paket für Windows"
 vendor: "engelmann-software"
 product_type: "Software"
-price: 28.18
+price: 28.19
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 14.09
+earnings_per_sale: 14.1
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Computer & Internet","Hobby & Craft","Software"]
+categories: ["Software","Computer & Internet","Hobby & Craft"]
 listed_since: "2023-09-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/51985/adminstore/"
+promo_link: "https://www.digistore24.com/product/518675?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/518675"
 language: "de"
 ---
 # Rescue Stick - Erste Hilfe Paket für Windows
 
 > Product ID `51985` · Digistore24 productId `518675` · [HTML profile page](../../produkte/rescue-stick-erste-hilfe-paket-f-r-windows-51985.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $28.18 (Single payment) |
+| Price | $28.19 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $14.09 |
+| Earnings/sale* | $14.10 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | engelmann-software |
 | Listed since | 2023-09-29 |
 | Auto-accept affiliates | yes |
-| Categories | Computer & Internet, Hobby & Craft, Software |
+| Categories | Software, Computer & Internet, Hobby & Craft |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/51985/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/518675?aff=adminstore
 - Sales page: https://www.digistore24.com/product/518675
 - Canonical redirect: https://www.digistore24.com/redir/518675/adminstore
 
@@ -82,14 +82,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Rescue Stick - Erste Hilfe Paket für Windows? — Typ: Software, Anbieter: engelmann-software, gelistet seit 2023-09-29
-- Wie viel kostet es? — 28.17612 USD
+- Wie viel kostet es? — 28.19376 USD
 - Garantie? — 60
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Rescue Stick - Erste Hilfe Paket für Windows Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/518675
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/518675/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Rescue%20Stick%20-%20Erste%20Hilfe%20Paket%20f%C3%BCr%20Windows
 
 ## 4. Editorial notes

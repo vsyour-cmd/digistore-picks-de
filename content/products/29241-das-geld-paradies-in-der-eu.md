@@ -4,34 +4,34 @@ digistore24_product_id: 275520
 title: "DAS GELD-PARADIES IN DER EU"
 vendor: "BIGbenn1"
 product_type: "Downloads"
-price: 24.94
+price: 24.96
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 11.56
+earnings_per_sale: 11.57
 cart_conversion_pct: 8
 cancel_rate_pct: 2.93
 categories: ["Business & Investment"]
 listed_since: "2019-06-13"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/29241/adminstore/"
+promo_link: "http://www.benn-verlag.de/digi-gp/index.html?aff=adminstore#aff=adminstore"
 sales_page: "http://www.benn-verlag.de/digi-gp/index.html"
 language: "de"
 ---
 # DAS GELD-PARADIES IN DER EU
 
 > Product ID `29241` · Digistore24 productId `275520` · [HTML profile page](../../produkte/das-geld-paradies-in-der-eu-29241.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $24.94 (Single payment) |
+| Price | $24.96 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $11.56 |
+| Earnings/sale* | $11.57 |
 | Cart conversion* | 8% |
 | Cancel rate* | 2.93% |
 | Vendor | BIGbenn1 |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/29241/adminstore/
+- **Promo link (affiliate):** http://www.benn-verlag.de/digi-gp/index.html?aff=adminstore#aff=adminstore
 - Sales page: http://www.benn-verlag.de/digi-gp/index.html
 - Vendor affiliate support: http://www.benn-verlag.de/digi-gp/banner.html
 - Canonical redirect: https://www.digistore24.com/redir/275520/adminstore
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist DAS GELD-PARADIES IN DER EU? — Typ: Downloads, Anbieter: BIGbenn1, gelistet seit 2019-06-13
-- Wie viel kostet es? — 24.944811 USD
+- Wie viel kostet es? — 24.960428 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: DAS GELD-PARADIES IN DER EU Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/275520
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/275520/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=DAS%20GELD-PARADIES%20IN%20DER%20EU
 
 ## 4. Editorial notes

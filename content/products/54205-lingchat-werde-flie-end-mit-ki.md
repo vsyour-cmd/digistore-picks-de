@@ -4,40 +4,40 @@ digistore24_product_id: 629110
 title: "LingChat – Werde fließend mit KI"
 vendor: "secondwavetech"
 product_type: "Software"
-price: 78.26
+price: 78.3
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 46.95
+earnings_per_sale: 46.98
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Languages","Software"]
+categories: ["Software","Education","Languages"]
 listed_since: "2025-08-12"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
-promo_link: "https://www.digistore24.com/redir/54205/adminstore/"
+promo_link: "https://www.lingchat.pro/dg_sale.html?aff=adminstore#aff=adminstore"
 sales_page: "https://www.lingchat.pro/dg_sale.html"
 language: "de"
 ---
 # LingChat – Werde fließend mit KI
 
 > Product ID `54205` · Digistore24 productId `629110` · [HTML profile page](../../produkte/lingchat-werde-flie-end-mit-ki-54205.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $78.26 (Subscription) |
+| Price | $78.30 (Subscription) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $46.95 |
+| Earnings/sale* | $46.98 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | secondwavetech |
 | Listed since | 2025-08-12 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Languages, Software |
+| Categories | Software, Education, Languages |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/54205/adminstore/
+- **Promo link (affiliate):** https://www.lingchat.pro/dg_sale.html?aff=adminstore#aff=adminstore
 - Sales page: https://www.lingchat.pro/dg_sale.html
 - Vendor affiliate support: https://blossom-smash-236.notion.site/LingChat-Marketing-Support-Page-27b0ae6f539f80e7b47eff5881022315?source=copy_link
 - Canonical redirect: https://www.digistore24.com/redir/629110/adminstore
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist LingChat – Werde fließend mit KI? — Typ: Software, Anbieter: secondwavetech, gelistet seit 2025-08-12
-- Wie viel kostet es? — 78.255819 USD
+- Wie viel kostet es? — 78.304812 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: LingChat – Werde fließend mit KI Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/629110
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/629110/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=LingChat%20%E2%80%93%20Werde%20flie%C3%9Fend%20mit%20KI
 
 ## 4. Editorial notes

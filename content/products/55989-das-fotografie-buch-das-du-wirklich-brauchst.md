@@ -4,7 +4,7 @@ digistore24_product_id: 674419
 title: "Das Fotografie-Buch, das du wirklich brauchst"
 vendor: "nratko"
 product_type: "E-books"
-price: 19.86
+price: 19.87
 currency: "USD"
 affiliate_commission_pct: 30
 earnings_per_sale: 5.96
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Photography & Film"]
 listed_since: "2026-03-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/55989/adminstore/"
+promo_link: "https://nratkopictures.com/de/fotografie-buch/?aff=adminstore#aff=adminstore"
 sales_page: "https://nratkopictures.com/de/fotografie-buch/"
 language: "de"
 ---
 # Das Fotografie-Buch, das du wirklich brauchst
 
 > Product ID `55989` · Digistore24 productId `674419` · [HTML profile page](../../produkte/das-fotografie-buch-das-du-wirklich-brauchst-55989.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $19.86 (Single payment) |
+| Price | $19.87 (Single payment) |
 | Affiliate commission | 30% |
 | Earnings/sale* | $5.96 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55989/adminstore/
+- **Promo link (affiliate):** https://nratkopictures.com/de/fotografie-buch/?aff=adminstore#aff=adminstore
 - Sales page: https://nratkopictures.com/de/fotografie-buch/
 - Canonical redirect: https://www.digistore24.com/redir/674419/adminstore
 
@@ -72,14 +72,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Fotografie-Buch, das du wirklich brauchst? — Typ: E-books, Anbieter: nratko, gelistet seit 2026-03-07
-- Wie viel kostet es? — 19.857456000000003 USD
+- Wie viel kostet es? — 19.869888000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Das Fotografie-Buch, das du wirklich brauchst Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/674419
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/674419/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Das%20Fotografie-Buch%2C%20das%20du%20wirklich%20brauchst
 
 ## 4. Editorial notes

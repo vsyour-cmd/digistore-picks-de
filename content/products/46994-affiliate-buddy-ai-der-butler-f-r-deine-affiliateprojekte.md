@@ -4,16 +4,16 @@ digistore24_product_id: 529631
 title: "AFFILIATE BUDDY AI - Der Butler für deine Affiliateprojekte"
 vendor: "sattelitevendor"
 product_type: "Member area and video courses"
-price: 334.31
+price: 334.52
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 167.16
+earnings_per_sale: 167.26
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Computer & Internet","Email Marketing","Online Marketing & E-Business"]
+categories: ["Computer & Internet","Online Marketing & E-Business","Email Marketing"]
 listed_since: "2023-12-13"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://affiliatebuddyai.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://affiliatebuddyai.com/"
@@ -22,22 +22,22 @@ language: "de"
 # AFFILIATE BUDDY AI - Der Butler für deine Affiliateprojekte
 
 > Product ID `46994` · Digistore24 productId `529631` · [HTML profile page](../../produkte/affiliate-buddy-ai-der-butler-f-r-deine-affiliateprojekte-46994.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $334.31 (Subscription) |
+| Price | $334.52 (Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $167.16 |
+| Earnings/sale* | $167.26 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | sattelitevendor |
 | Listed since | 2023-12-13 |
 | Auto-accept affiliates | yes |
-| Categories | Computer & Internet, Email Marketing, Online Marketing & E-Business |
+| Categories | Computer & Internet, Online Marketing & E-Business, Email Marketing |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist AFFILIATE BUDDY AI - Der Butler für deine Affiliateprojekte? — Typ: Member area and video courses, Anbieter: sattelitevendor, gelistet seit 2023-12-13
-- Wie viel kostet es? — 334.31190000000004 USD
+- Wie viel kostet es? — 334.5212 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: AFFILIATE BUDDY AI - Der Butler für deine Affiliateprojekte Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/529631
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/529631/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=AFFILIATE%20BUDDY%20AI%20-%20Der%20Butler%20f%C3%BCr%20deine%20Affiliateprojekte
 
 ## 4. Editorial notes

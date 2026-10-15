@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Finances"]
 listed_since: "2026-10-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/741748?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/741748"
@@ -22,7 +22,7 @@ language: "de"
 # Rentenantrag leicht gemacht – mit Rentenbeginn-Rechner
 
 > Product ID `60348` · Digistore24 productId `741748` · [HTML profile page](../../produkte/rentenantrag-leicht-gemacht-mit-rentenbeginn-rechner-60348.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -80,14 +80,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Rentenantrag leicht gemacht – mit Rentenbeginn-Rechner? — Typ: E-books, Anbieter: ratgeberleichtgemacht, gelistet seit 2026-10-07
-- Wie viel kostet es? — 15.575133000000001 USD
+- Wie viel kostet es? — 15.584884 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Rentenantrag leicht gemacht – mit Rentenbeginn-Rechner Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/741748
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/741748/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Rentenantrag%20leicht%20gemacht%20%E2%80%93%20mit%20Rentenbeginn-Rechner
 
 ## 4. Editorial notes

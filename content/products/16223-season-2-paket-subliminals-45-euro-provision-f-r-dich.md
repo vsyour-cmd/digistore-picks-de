@@ -4,34 +4,34 @@ digistore24_product_id: 133191
 title: "Season 2 Paket (Subliminals) – 45 Euro Provision für dich!"
 vendor: "EnergeticTernity"
 product_type: "Downloads"
-price: 266.51
+price: 266.68
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 98.5
+earnings_per_sale: 98.57
 cart_conversion_pct: 8
 cancel_rate_pct: 3.18
 categories: ["Profession & Job"]
 listed_since: "2017-04-19"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/16223/adminstore/"
+promo_link: "http://energetic-eternity.de/produkt/season-2-paket/?aff=adminstore#aff=adminstore"
 sales_page: "http://energetic-eternity.de/produkt/season-2-paket/"
 language: "de"
 ---
 # Season 2 Paket (Subliminals) – 45 Euro Provision für dich!
 
 > Product ID `16223` · Digistore24 productId `133191` · [HTML profile page](../../produkte/season-2-paket-subliminals-45-euro-provision-f-r-dich-16223.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $266.51 (Single payment) |
+| Price | $266.68 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $98.50 |
+| Earnings/sale* | $98.57 |
 | Cart conversion* | 8% |
 | Cancel rate* | 3.18% |
 | Vendor | EnergeticTernity |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/16223/adminstore/
+- **Promo link (affiliate):** http://energetic-eternity.de/produkt/season-2-paket/?aff=adminstore#aff=adminstore
 - Sales page: http://energetic-eternity.de/produkt/season-2-paket/
 - Vendor affiliate support: https://energetic-eternity.de/affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/133191/adminstore
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Season 2 Paket (Subliminals) – 45 Euro Provision für dich!? — Typ: Downloads, Anbieter: EnergeticTernity, gelistet seit 2017-04-19
-- Wie viel kostet es? — 266.51031600000005 USD
+- Wie viel kostet es? — 266.677168 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Season 2 Paket (Subliminals) – 45 Euro Provision für dich! Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/133191
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/133191/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Season%202%20Paket%20(Subliminals)%20%E2%80%93%2045%20Euro%20Provision%20f%C3%BCr%20dich!
 
 ## 4. Editorial notes

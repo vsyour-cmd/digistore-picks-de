@@ -4,16 +4,16 @@ digistore24_product_id: 353359
 title: "\"1x1 Floristik - Querbeet für Einsteiger\""
 vendor: "Elobana"
 product_type: "Member area and video courses"
-price: 130.71
+price: 130.79
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 18.11
+earnings_per_sale: 18.12
 cart_conversion_pct: 13
 cancel_rate_pct: 0.72
 categories: ["Home & Garden"]
 listed_since: "2020-10-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://elobana.de/online-kurse/onlinekurs-1x1-floristik-querbeet-fuer-einsteiger/?aff=adminstore#aff=adminstore"
 sales_page: "https://elobana.de/online-kurse/onlinekurs-1x1-floristik-querbeet-fuer-einsteiger/"
@@ -22,16 +22,16 @@ language: "de"
 # "1x1 Floristik - Querbeet für Einsteiger"
 
 > Product ID `34592` · Digistore24 productId `353359` · [HTML profile page](../../produkte/1x1-floristik-querbeet-f-r-einsteiger-34592.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $130.71 (Single payment) |
+| Price | $130.79 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $18.11 |
+| Earnings/sale* | $18.12 |
 | Cart conversion* | 13% |
 | Cancel rate* | 0.72% |
 | Vendor | Elobana |
@@ -92,14 +92,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist "1x1 Floristik - Querbeet für Einsteiger"? — Typ: Member area and video courses, Anbieter: Elobana, gelistet seit 2020-10-20
-- Wie viel kostet es? — 130.70589 USD
+- Wie viel kostet es? — 130.78772 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: "1x1 Floristik - Querbeet für Einsteiger" Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/353359
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/353359/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=%221x1%20Floristik%20-%20Querbeet%20f%C3%BCr%20Einsteiger%22
 
 ## 4. Editorial notes

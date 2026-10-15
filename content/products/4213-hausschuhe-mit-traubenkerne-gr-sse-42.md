@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft"]
 listed_since: "2013-09-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "http://www.dots-designs.de/nie-wieder-kalte-fuesse/?aff=adminstore#aff=adminstore"
 sales_page: "http://www.dots-designs.de/nie-wieder-kalte-fuesse/"
@@ -22,7 +22,7 @@ language: "de"
 # Hausschuhe mit Traubenkerne Grösse: 42
 
 > Product ID `4213` · Digistore24 productId `15353` · [HTML profile page](../../produkte/hausschuhe-mit-traubenkerne-gr-sse-42-4213.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -76,14 +76,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Hausschuhe mit Traubenkerne Grösse: 42? — Typ: Downloads, Anbieter: DotsDesigns, gelistet seit 2013-09-06
-- Wie viel kostet es? — 3.7456350000000005 USD
+- Wie viel kostet es? — 3.74798 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Hausschuhe mit Traubenkerne Grösse: 42 Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/15353
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/15353/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Hausschuhe%20mit%20Traubenkerne%20Gr%C3%B6sse%3A%2042
 
 ## 4. Editorial notes

@@ -10,10 +10,10 @@ affiliate_commission_pct: 80
 earnings_per_sale: 0.83
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Email Marketing","Online Marketing & E-Business","Profession & Job"]
+categories: ["Online Marketing & E-Business","Profession & Job","Email Marketing"]
 listed_since: "2026-02-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://www.online-starten.info/checkliste-email-marketing/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.online-starten.info/checkliste-email-marketing/"
@@ -22,7 +22,7 @@ language: "de"
 # E-Mail Marketing für Affiliates - Verdiene 80% Provision
 
 > Product ID `55640` · Digistore24 productId `667708` · [HTML profile page](../../produkte/e-mail-marketing-f-r-affiliates-verdiene-80-provision-55640.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | onlinesuccess |
 | Listed since | 2026-02-09 |
 | Auto-accept affiliates | yes |
-| Categories | Email Marketing, Online Marketing & E-Business, Profession & Job |
+| Categories | Online Marketing & E-Business, Profession & Job, Email Marketing |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -59,14 +59,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist E-Mail Marketing für Affiliates - Verdiene 80% Provision? — Typ: E-books, Anbieter: onlinesuccess, gelistet seit 2026-02-09
-- Wie viel kostet es? — 1.0398330000000002 USD
+- Wie viel kostet es? — 1.040484 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: E-Mail Marketing für Affiliates - Verdiene 80% Provision Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/667708
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/667708/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=E-Mail%20Marketing%20f%C3%BCr%20Affiliates%20-%20Verdiene%2080%25%20Provision
 
 ## 4. Editorial notes

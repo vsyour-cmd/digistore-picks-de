@@ -4,40 +4,40 @@ digistore24_product_id: 688993
 title: "Kinderwunsch Kurs (199 €): Top-Nische Frauengesundheit, 50%"
 vendor: "travelmom89"
 product_type: "Member area and video courses"
-price: 187.87
+price: 187.99
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 93.94
+earnings_per_sale: 94
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Family & Children","Health & Fitness"]
+categories: ["Health & Fitness","Family & Children"]
 listed_since: "2026-06-10"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/56857/adminstore/"
+promo_link: "https://carolina-stephan.de/kinderwunsch/?aff=adminstore#aff=adminstore"
 sales_page: "https://carolina-stephan.de/kinderwunsch/"
 language: "de"
 ---
 # Kinderwunsch Kurs (199 €): Top-Nische Frauengesundheit, 50%
 
 > Product ID `56857` · Digistore24 productId `688993` · [HTML profile page](../../produkte/kinderwunsch-kurs-199-top-nische-frauengesundheit-50-56857.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $187.87 (Single payment, Installment) |
+| Price | $187.99 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $93.94 |
+| Earnings/sale* | $94.00 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | travelmom89 |
 | Listed since | 2026-06-10 |
 | Auto-accept affiliates | no (approval required) |
-| Categories | Family & Children, Health & Fitness |
+| Categories | Health & Fitness, Family & Children |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56857/adminstore/
+- **Promo link (affiliate):** https://carolina-stephan.de/kinderwunsch/?aff=adminstore#aff=adminstore
 - Sales page: https://carolina-stephan.de/kinderwunsch/
 - Canonical redirect: https://www.digistore24.com/redir/688993/adminstore
 
@@ -93,14 +93,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Kinderwunsch Kurs (199 €): Top-Nische Frauengesundheit, 50%? — Typ: Member area and video courses, Anbieter: travelmom89, gelistet seit 2026-06-10
-- Wie viel kostet es? — 187.874343 USD
+- Wie viel kostet es? — 187.991964 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Kinderwunsch Kurs (199 €): Top-Nische Frauengesundheit, 50% Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/688993
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/688993/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Kinderwunsch%20Kurs%20(199%20%E2%82%AC)%3A%20Top-Nische%20Frauengesundheit%2C%2050%25
 
 ## 4. Editorial notes

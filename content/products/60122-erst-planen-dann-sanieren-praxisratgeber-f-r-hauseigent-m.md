@@ -10,10 +10,10 @@ affiliate_commission_pct: 60
 earnings_per_sale: 9.35
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Hobby & Craft","Home & Garden","Marketing Services"]
+categories: ["Home & Garden","Hobby & Craft","Marketing Services"]
 listed_since: "2026-10-02"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://haus-energieberater.de/erst-planen-dann-sanieren/?aff=adminstore#aff=adminstore"
 sales_page: "https://haus-energieberater.de/erst-planen-dann-sanieren/"
@@ -22,7 +22,7 @@ language: "de"
 # Erst planen, dann sanieren | Praxisratgeber für Hauseigentüm
 
 > Product ID `60122` · Digistore24 productId `740513` · [HTML profile page](../../produkte/erst-planen-dann-sanieren-praxisratgeber-f-r-hauseigent-m-60122.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | Marketing17 |
 | Listed since | 2026-10-02 |
 | Auto-accept affiliates | yes |
-| Categories | Hobby & Craft, Home & Garden, Marketing Services |
+| Categories | Home & Garden, Hobby & Craft, Marketing Services |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Erst planen, dann sanieren | Praxisratgeber für Hauseigentüm? — Typ: E-books, Anbieter: Marketing17, gelistet seit 2026-10-02
-- Wie viel kostet es? — 15.575133000000001 USD
+- Wie viel kostet es? — 15.584884 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Erst planen, dann sanieren | Praxisratgeber für Hauseigentüm Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/740513
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/740513/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Erst%20planen%2C%20dann%20sanieren%20%7C%20Praxisratgeber%20f%C3%BCr%20Hauseigent%C3%BCm
 
 ## 4. Editorial notes

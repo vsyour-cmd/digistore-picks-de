@@ -10,10 +10,10 @@ affiliate_commission_pct: 50
 earnings_per_sale: 6.22
 cart_conversion_pct: 51
 cancel_rate_pct: 4.26
-categories: ["Email Marketing","Online Marketing & E-Business","Online Marketing"]
+categories: ["Online Marketing & E-Business","Email Marketing","Online Marketing"]
 listed_since: "2022-07-28"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://carsten-feuerbach-3.mstrpages.com/headline-generator?aff=adminstore#aff=adminstore"
 sales_page: "https://carsten-feuerbach-3.mstrpages.com/headline-generator"
@@ -22,7 +22,7 @@ language: "de"
 # Der Headline Generator (Yellow-Press-Methode)
 
 > Product ID `40766` · Digistore24 productId `453185` · [HTML profile page](../../produkte/der-headline-generator-yellow-press-methode-40766.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | carstenfeuerbach |
 | Listed since | 2022-07-28 |
 | Auto-accept affiliates | yes |
-| Categories | Email Marketing, Online Marketing & E-Business, Online Marketing |
+| Categories | Online Marketing & E-Business, Email Marketing, Online Marketing |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -74,14 +74,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Headline Generator (Yellow-Press-Methode)? — Typ: E-books, Anbieter: carstenfeuerbach, gelistet seit 2022-07-28
-- Wie viel kostet es? — 0.5031450000000001 USD
+- Wie viel kostet es? — 0.50346 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Der Headline Generator (Yellow-Press-Methode) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/453185
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/453185/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%20Headline%20Generator%20(Yellow-Press-Methode)
 
 ## 4. Editorial notes

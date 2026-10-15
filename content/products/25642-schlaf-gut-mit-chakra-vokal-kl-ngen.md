@@ -4,7 +4,7 @@ digistore24_product_id: 232178
 title: "Schlaf gut mit Chakra-Vokal-Klängen"
 vendor: "chakraklang"
 product_type: "Downloads"
-price: 14.1
+price: 14.11
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 7.06
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2018-07-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.chakraklang.de/106-2/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.chakraklang.de/106-2/"
@@ -22,14 +22,14 @@ language: "de"
 # Schlaf gut mit Chakra-Vokal-Klängen
 
 > Product ID `25642` · Digistore24 productId `232178` · [HTML profile page](../../produkte/schlaf-gut-mit-chakra-vokal-kl-ngen-25642.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $14.10 (Single payment) |
+| Price | $14.11 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $7.06 |
 | Cart conversion* | — |
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Schlaf gut mit Chakra-Vokal-Klängen? — Typ: Downloads, Anbieter: chakraklang, gelistet seit 2018-07-05
-- Wie viel kostet es? — 14.099241000000001 USD
+- Wie viel kostet es? — 14.108068 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Schlaf gut mit Chakra-Vokal-Klängen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/232178
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/232178/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Schlaf%20gut%20mit%20Chakra-Vokal-Kl%C3%A4ngen
 
 ## 4. Editorial notes

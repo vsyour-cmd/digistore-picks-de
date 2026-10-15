@@ -4,7 +4,7 @@ digistore24_product_id: 678181
 title: "KI TURBO: Ihr Produktivitäts-Booster im Arbeitsalltag – Jetz"
 vendor: "KI-Turbo"
 product_type: "E-books"
-price: 13.53
+price: 13.54
 currency: "USD"
 affiliate_commission_pct: 30
 earnings_per_sale: 4.06
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Profession & Job","Office Organization"]
 listed_since: "2026-03-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/678181?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/678181"
@@ -22,14 +22,14 @@ language: "de"
 # KI TURBO: Ihr Produktivitäts-Booster im Arbeitsalltag – Jetz
 
 > Product ID `55988` · Digistore24 productId `678181` · [HTML profile page](../../produkte/ki-turbo-ihr-produktivit-ts-booster-im-arbeitsalltag-jetz-55988.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $13.53 (Single payment) |
+| Price | $13.54 (Single payment) |
 | Affiliate commission | 30% |
 | Earnings/sale* | $4.06 |
 | Cart conversion* | — |
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI TURBO: Ihr Produktivitäts-Booster im Arbeitsalltag – Jetz? — Typ: E-books, Anbieter: KI-Turbo, gelistet seit 2026-03-22
-- Wie viel kostet es? — 13.529010000000001 USD
+- Wie viel kostet es? — 13.53748 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: KI TURBO: Ihr Produktivitäts-Booster im Arbeitsalltag – Jetz Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/678181
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/678181/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=KI%20TURBO%3A%20Ihr%20Produktivit%C3%A4ts-Booster%20im%20Arbeitsalltag%20%E2%80%93%20Jetz
 
 ## 4. Editorial notes

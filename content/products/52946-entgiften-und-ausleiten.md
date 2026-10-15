@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2025-06-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://natürlicheentgiftung.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://natürlicheentgiftung.de/"
@@ -22,7 +22,7 @@ language: "de"
 # Entgiften und Ausleiten
 
 > Product ID `52946` · Digistore24 productId `620139` · [HTML profile page](../../produkte/entgiften-und-ausleiten-52946.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -74,14 +74,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Entgiften und Ausleiten? — Typ: E-books, Anbieter: Impfausleitung, gelistet seit 2025-06-23
-- Wie viel kostet es? — 10.375968 USD
+- Wie viel kostet es? — 10.382463999999999 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Entgiften und Ausleiten Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/620139
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/620139/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Entgiften%20und%20Ausleiten
 
 ## 4. Editorial notes

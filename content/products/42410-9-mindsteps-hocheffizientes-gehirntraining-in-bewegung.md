@@ -4,16 +4,16 @@ digistore24_product_id: 468846
 title: "9 MINDsteps - Hocheffizientes Gehirntraining in Bewegung"
 vendor: "erich1702"
 product_type: "E-books"
-price: 40.75
+price: 40.78
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 12.23
+earnings_per_sale: 12.24
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Sport"]
 listed_since: "2022-11-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://erichfrischenschlager.com/9-mindsteps/?aff=adminstore#aff=adminstore"
 sales_page: "https://erichfrischenschlager.com/9-mindsteps/"
@@ -22,16 +22,16 @@ language: "de"
 # 9 MINDsteps - Hocheffizientes Gehirntraining in Bewegung
 
 > Product ID `42410` · Digistore24 productId `468846` · [HTML profile page](../../produkte/9-mindsteps-hocheffizientes-gehirntraining-in-bewegung-42410.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $40.75 (Single payment) |
+| Price | $40.78 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $12.23 |
+| Earnings/sale* | $12.24 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | erich1702 |
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 9 MINDsteps - Hocheffizientes Gehirntraining in Bewegung? — Typ: E-books, Anbieter: erich1702, gelistet seit 2022-11-09
-- Wie viel kostet es? — 40.75474500000001 USD
+- Wie viel kostet es? — 40.780260000000006 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 9 MINDsteps - Hocheffizientes Gehirntraining in Bewegung Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/468846
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/468846/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=9%20MINDsteps%20-%20Hocheffizientes%20Gehirntraining%20in%20Bewegung
 
 ## 4. Editorial notes

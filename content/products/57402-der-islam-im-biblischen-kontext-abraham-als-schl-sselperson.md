@@ -4,16 +4,16 @@ digistore24_product_id: 701592
 title: "Der Islam im biblischen Kontext- Abraham als Schlüsselperson"
 vendor: "Andermatti-Invest"
 product_type: "Software"
-price: 16.45
+price: 16.46
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 4.11
+earnings_per_sale: 4.12
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Spiri­tua­lity & Esotericism"]
+categories: ["Spiri­tua­lity & Esotericism","Education"]
 listed_since: "2026-07-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/701592?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/701592"
@@ -22,22 +22,22 @@ language: "de"
 # Der Islam im biblischen Kontext- Abraham als Schlüsselperson
 
 > Product ID `57402` · Digistore24 productId `701592` · [HTML profile page](../../produkte/der-islam-im-biblischen-kontext-abraham-als-schl-sselperson-57402.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $16.45 (Single payment) |
+| Price | $16.46 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $4.11 |
+| Earnings/sale* | $4.12 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Andermatti-Invest |
 | Listed since | 2026-07-05 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Spiri­tua­lity & Esotericism |
+| Categories | Spiri­tua­lity & Esotericism, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Islam im biblischen Kontext- Abraham als Schlüsselperson? — Typ: Software, Anbieter: Andermatti-Invest, gelistet seit 2026-07-05
-- Wie viel kostet es? — 16.447251 USD
+- Wie viel kostet es? — 16.457548000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Der Islam im biblischen Kontext- Abraham als Schlüsselperson Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/701592
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/701592/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%20Islam%20im%20biblischen%20Kontext-%20Abraham%20als%20Schl%C3%BCsselperson
 
 ## 4. Editorial notes

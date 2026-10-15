@@ -12,17 +12,17 @@ cart_conversion_pct: 24
 cancel_rate_pct: 5.78
 categories: ["Health & Fitness"]
 listed_since: "2022-02-11"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/42091/adminstore/"
+promo_link: "https://meine-strandfigur.com/101-gesunde-rezepte/?aff=adminstore#aff=adminstore"
 sales_page: "https://meine-strandfigur.com/101-gesunde-rezepte/"
 language: "de"
 ---
 # GRATIS Buch: 101 gesunde Rezepte für einen flachen Bauch
 
 > Product ID `42091` · Digistore24 productId `429212` · [HTML profile page](../../produkte/gratis-buch-101-gesunde-rezepte-f-r-einen-flachen-bauch-42091.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/42091/adminstore/
+- **Promo link (affiliate):** https://meine-strandfigur.com/101-gesunde-rezepte/?aff=adminstore#aff=adminstore
 - Sales page: https://meine-strandfigur.com/101-gesunde-rezepte/
 - Canonical redirect: https://www.digistore24.com/redir/429212/adminstore
 
@@ -68,14 +68,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist GRATIS Buch: 101 gesunde Rezepte für einen flachen Bauch? — Typ: E-books, Anbieter: Jonas_Feitsch, gelistet seit 2022-02-11
-- Wie viel kostet es? — 1.263453 USD
+- Wie viel kostet es? — 1.264244 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: GRATIS Buch: 101 gesunde Rezepte für einen flachen Bauch Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/429212
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/429212/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=GRATIS%20Buch%3A%20101%20gesunde%20Rezepte%20f%C3%BCr%20einen%20flachen%20Bauch
 
 ## 4. Editorial notes

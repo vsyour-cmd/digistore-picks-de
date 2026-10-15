@@ -12,8 +12,8 @@ cart_conversion_pct: 53
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2026-03-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://page.funnelcockpit.com/NZ5ozmhfW6BSTmYkM?aff=adminstore#aff=adminstore"
 sales_page: "https://page.funnelcockpit.com/NZ5ozmhfW6BSTmYkM"
@@ -22,7 +22,7 @@ language: "de"
 # Streaming Cashflow
 
 > Product ID `55918` · Digistore24 productId `676406` · [HTML profile page](../../produkte/streaming-cashflow-55918.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -66,7 +66,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Streaming Cashflow Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/676406
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/676406/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Streaming%20Cashflow
 
 ## 4. Editorial notes

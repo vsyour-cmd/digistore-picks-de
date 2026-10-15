@@ -4,7 +4,7 @@ digistore24_product_id: 636585
 title: "Ein Mann braucht drei Frauen"
 vendor: "MS-9Falken"
 product_type: "E-books"
-price: 12.53
+price: 12.54
 currency: "USD"
 affiliate_commission_pct: 40
 earnings_per_sale: 5.01
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2025-09-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/636585?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/636585"
@@ -22,14 +22,14 @@ language: "de"
 # Ein Mann braucht drei Frauen
 
 > Product ID `54214` · Digistore24 productId `636585` · [HTML profile page](../../produkte/ein-mann-braucht-drei-frauen-54214.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $12.53 (Single payment) |
+| Price | $12.54 (Single payment) |
 | Affiliate commission | 40% |
 | Earnings/sale* | $5.01 |
 | Cart conversion* | — |
@@ -72,14 +72,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ein Mann braucht drei Frauen? — Typ: E-books, Anbieter: MS-9Falken, gelistet seit 2025-09-18
-- Wie viel kostet es? — 12.533901000000002 USD
+- Wie viel kostet es? — 12.541748000000002 USD
 - Garantie? — 60
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Ein Mann braucht drei Frauen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/636585
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/636585/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Ein%20Mann%20braucht%20drei%20Frauen
 
 ## 4. Editorial notes

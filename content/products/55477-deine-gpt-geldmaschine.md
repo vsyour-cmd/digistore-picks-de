@@ -10,19 +10,19 @@ affiliate_commission_pct: 60
 earnings_per_sale: 0.1
 cart_conversion_pct: 62
 cancel_rate_pct: 0
-categories: ["Email Marketing","Online Marketing & E-Business"]
+categories: ["Online Marketing & E-Business","Email Marketing"]
 listed_since: "2026-01-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/55477/adminstore/"
+promo_link: "https://www.meinneuerlifestyle.vip/dein-erster-gpt/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.meinneuerlifestyle.vip/dein-erster-gpt/"
 language: "de"
 ---
 # Deine GPT Geldmaschine
 
 > Product ID `55477` · Digistore24 productId `660001` · [HTML profile page](../../produkte/deine-gpt-geldmaschine-55477.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | Spekulatius |
 | Listed since | 2026-01-08 |
 | Auto-accept affiliates | yes |
-| Categories | Email Marketing, Online Marketing & E-Business |
+| Categories | Online Marketing & E-Business, Email Marketing |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55477/adminstore/
+- **Promo link (affiliate):** https://www.meinneuerlifestyle.vip/dein-erster-gpt/?aff=adminstore#aff=adminstore
 - Sales page: https://www.meinneuerlifestyle.vip/dein-erster-gpt/
 - Vendor affiliate support: https://www.meinneuerlifestyle.vip/werbemittel-gpt-starter-guide/
 - Canonical redirect: https://www.digistore24.com/redir/660001/adminstore
@@ -59,14 +59,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Deine GPT Geldmaschine? — Typ: E-books, Anbieter: Spekulatius, gelistet seit 2026-01-08
-- Wie viel kostet es? — 0.20125800000000002 USD
+- Wie viel kostet es? — 0.201384 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Deine GPT Geldmaschine Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/660001
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/660001/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Deine%20GPT%20Geldmaschine
 
 ## 4. Editorial notes

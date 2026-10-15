@@ -4,16 +4,16 @@ digistore24_product_id: 439453
 title: "eBook Harz: Gold des Waldes"
 vendor: "ypsilon"
 product_type: "E-books"
-price: 18.81
+price: 18.82
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 9.4
+earnings_per_sale: 9.41
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Survival"]
 listed_since: "2022-04-19"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://ousuca.com/buecher/harz-ebook/?aff=adminstore#aff=adminstore"
 sales_page: "https://ousuca.com/buecher/harz-ebook/"
@@ -22,16 +22,16 @@ language: "de"
 # eBook Harz: Gold des Waldes
 
 > Product ID `39832` · Digistore24 productId `439453` · [HTML profile page](../../produkte/ebook-harz-gold-des-waldes-39832.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $18.81 (Single payment) |
+| Price | $18.82 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $9.40 |
+| Earnings/sale* | $9.41 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ypsilon |
@@ -75,14 +75,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist eBook Harz: Gold des Waldes? — Typ: E-books, Anbieter: ypsilon, gelistet seit 2022-04-19
-- Wie viel kostet es? — 18.806442 USD
+- Wie viel kostet es? — 18.818216 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: eBook Harz: Gold des Waldes Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/439453
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/439453/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=eBook%20Harz%3A%20Gold%20des%20Waldes
 
 ## 4. Editorial notes

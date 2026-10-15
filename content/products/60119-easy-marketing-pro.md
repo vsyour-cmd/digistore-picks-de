@@ -4,34 +4,34 @@ digistore24_product_id: 740180
 title: "Easy Marketing PRO"
 vendor: "easymarketingccaf"
 product_type: "Downloads"
-price: 75.16
+price: 75.21
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 37.58
+earnings_per_sale: 37.6
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2026-10-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/60119/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/740180?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/740180"
 language: "de"
 ---
 # Easy Marketing PRO
 
 > Product ID `60119` · Digistore24 productId `740180` · [HTML profile page](../../produkte/easy-marketing-pro-60119.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $75.16 (Single payment) |
+| Price | $75.21 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $37.58 |
+| Earnings/sale* | $37.60 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | easymarketingccaf |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/60119/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/740180?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/740180
 - Canonical redirect: https://www.digistore24.com/redir/740180/adminstore
 
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Easy Marketing PRO? — Typ: Downloads, Anbieter: easymarketingccaf, gelistet seit 2026-10-01
-- Wie viel kostet es? — 75.158682 USD
+- Wie viel kostet es? — 75.205736 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Easy Marketing PRO Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/740180
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/740180/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Easy%20Marketing%20PRO
 
 ## 4. Editorial notes

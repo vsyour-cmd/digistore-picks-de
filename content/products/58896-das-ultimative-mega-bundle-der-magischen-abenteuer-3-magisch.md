@@ -4,16 +4,16 @@ digistore24_product_id: 728676
 title: "Das ultimative Mega-Bundle der magischen Abenteuer 3 magisch"
 vendor: "a968403496d45"
 product_type: "Downloads"
-price: 22.35
+price: 22.36
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 15.64
+earnings_per_sale: 15.65
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2026-09-03"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/728676?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/728676"
@@ -22,16 +22,16 @@ language: "de"
 # Das ultimative Mega-Bundle der magischen Abenteuer 3 magisch
 
 > Product ID `58896` · Digistore24 productId `728676` · [HTML profile page](../../produkte/das-ultimative-mega-bundle-der-magischen-abenteuer-3-magisch-58896.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $22.35 (Single payment) |
+| Price | $22.36 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $15.64 |
+| Earnings/sale* | $15.65 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | a968403496d45 |
@@ -80,14 +80,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das ultimative Mega-Bundle der magischen Abenteuer 3 magisch? — Typ: Downloads, Anbieter: a968403496d45, gelistet seit 2026-09-03
-- Wie viel kostet es? — 22.350819 USD
+- Wie viel kostet es? — 22.364811999999997 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Das ultimative Mega-Bundle der magischen Abenteuer 3 magisch Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/728676
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/728676/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Das%20ultimative%20Mega-Bundle%20der%20magischen%20Abenteuer%203%20magisch
 
 ## 4. Editorial notes

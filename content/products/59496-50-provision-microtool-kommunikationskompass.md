@@ -4,16 +4,16 @@ digistore24_product_id: 735941
 title: "50% Provision: MicroTool KommunikationsKompass"
 vendor: "ralph70eb"
 product_type: "Downloads"
-price: 27.25
+price: 27.27
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 13.63
+earnings_per_sale: 13.64
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Leadership & Management","Project Management"]
 listed_since: "2026-09-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/735941?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/735941"
@@ -22,16 +22,16 @@ language: "de"
 # 50% Provision: MicroTool KommunikationsKompass
 
 > Product ID `59496` · Digistore24 productId `735941` · [HTML profile page](../../produkte/50-provision-microtool-kommunikationskompass-59496.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $27.25 (Single payment) |
+| Price | $27.27 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $13.63 |
+| Earnings/sale* | $13.64 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ralph70eb |
@@ -74,14 +74,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 50% Provision: MicroTool KommunikationsKompass? — Typ: Downloads, Anbieter: ralph70eb, gelistet seit 2026-09-22
-- Wie viel kostet es? — 27.248097000000005 USD
+- Wie viel kostet es? — 27.265156 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 50% Provision: MicroTool KommunikationsKompass Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/735941
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/735941/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=50%25%20Provision%3A%20MicroTool%20KommunikationsKompass
 
 ## 4. Editorial notes

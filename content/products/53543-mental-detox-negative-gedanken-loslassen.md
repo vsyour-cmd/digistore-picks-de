@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2025-08-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/53543/adminstore/"
+promo_link: "https://designs-nf.com/ebooks/mental-detox?aff=adminstore#aff=adminstore"
 sales_page: "https://designs-nf.com/ebooks/mental-detox"
 language: "de"
 ---
 # Mental Detox: Negative Gedanken loslassen
 
 > Product ID `53543` · Digistore24 productId `630209` · [HTML profile page](../../produkte/mental-detox-negative-gedanken-loslassen-53543.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/53543/adminstore/
+- **Promo link (affiliate):** https://designs-nf.com/ebooks/mental-detox?aff=adminstore#aff=adminstore
 - Sales page: https://designs-nf.com/ebooks/mental-detox
 - Vendor affiliate support: https://designs-nf.com/affiliate/links
 - Canonical redirect: https://www.digistore24.com/redir/630209/adminstore
@@ -80,14 +80,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mental Detox: Negative Gedanken loslassen? — Typ: E-books, Anbieter: Freifone, gelistet seit 2025-08-18
-- Wie viel kostet es? — 10.398330000000001 USD
+- Wie viel kostet es? — 10.40484 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Mental Detox: Negative Gedanken loslassen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/630209
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/630209/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Mental%20Detox%3A%20Negative%20Gedanken%20loslassen
 
 ## 4. Editorial notes

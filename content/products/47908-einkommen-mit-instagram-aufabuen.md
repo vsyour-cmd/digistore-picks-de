@@ -12,8 +12,8 @@ cart_conversion_pct: 28
 cancel_rate_pct: 2.33
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2024-04-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://michael-schlinder.com/Instagram-Strategie?aff=adminstore#aff=adminstore"
 sales_page: "https://michael-schlinder.com/Instagram-Strategie"
@@ -22,7 +22,7 @@ language: "de"
 # Einkommen mit Instagram aufabuen
 
 > Product ID `47908` · Digistore24 productId `548768` · [HTML profile page](../../produkte/einkommen-mit-instagram-aufabuen-47908.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -76,14 +76,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Einkommen mit Instagram aufabuen? — Typ: Member area and video courses, Anbieter: MSchlinder, gelistet seit 2024-04-18
-- Wie viel kostet es? — 0.268344 USD
+- Wie viel kostet es? — 0.268512 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Einkommen mit Instagram aufabuen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/548768
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/548768/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Einkommen%20mit%20Instagram%20aufabuen
 
 ## 4. Editorial notes

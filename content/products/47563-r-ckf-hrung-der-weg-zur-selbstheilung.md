@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Services"]
 listed_since: "2023-12-28"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/47563/adminstore/"
+promo_link: "https://vrf-rueckfuehrung.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://vrf-rueckfuehrung.de/"
 language: "de"
 ---
 # Rückführung - Der Weg zur Selbstheilung
 
 > Product ID `47563` · Digistore24 productId `531731` · [HTML profile page](../../produkte/r-ckf-hrung-der-weg-zur-selbstheilung-47563.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/47563/adminstore/
+- **Promo link (affiliate):** https://vrf-rueckfuehrung.de/?aff=adminstore#aff=adminstore
 - Sales page: https://vrf-rueckfuehrung.de/
 - Canonical redirect: https://www.digistore24.com/redir/531731/adminstore
 
@@ -75,14 +75,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Rückführung - Der Weg zur Selbstheilung? — Typ: Book (printed), Anbieter: ElenaSeeKraft, gelistet seit 2023-12-28
-- Wie viel kostet es? — 15.575133000000001 USD
+- Wie viel kostet es? — 15.584884 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Rückführung - Der Weg zur Selbstheilung Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/531731
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/531731/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=R%C3%BCckf%C3%BChrung%20-%20Der%20Weg%20zur%20Selbstheilung
 
 ## 4. Editorial notes

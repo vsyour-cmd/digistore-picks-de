@@ -4,7 +4,7 @@ digistore24_product_id: 701416
 title: "So wirst du sichtbar auf Clubhouse"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 25.08
+price: 25.09
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 12.55
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2026-06-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://social-media-planer.de/ebooks/so-wirst-du-sichtbar-auf-clubhouse?aff=adminstore#aff=adminstore"
 sales_page: "https://social-media-planer.de/ebooks/so-wirst-du-sichtbar-auf-clubhouse"
@@ -22,14 +22,14 @@ language: "de"
 # So wirst du sichtbar auf Clubhouse
 
 > Product ID `56996` · Digistore24 productId `701416` · [HTML profile page](../../produkte/so-wirst-du-sichtbar-auf-clubhouse-56996.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $25.08 (Single payment) |
+| Price | $25.09 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $12.55 |
 | Cart conversion* | — |
@@ -82,14 +82,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist So wirst du sichtbar auf Clubhouse? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-06-16
-- Wie viel kostet es? — 25.078983 USD
+- Wie viel kostet es? — 25.094684 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: So wirst du sichtbar auf Clubhouse Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/701416
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/701416/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=So%20wirst%20du%20sichtbar%20auf%20Clubhouse
 
 ## 4. Editorial notes

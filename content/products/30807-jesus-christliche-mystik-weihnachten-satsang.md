@@ -4,7 +4,7 @@ digistore24_product_id: 300439
 title: "Jesus, christliche Mystik & Weihnachten (Satsang)"
 vendor: "ediowk"
 product_type: "Downloads"
-price: 12.21
+price: 12.22
 currency: "USD"
 affiliate_commission_pct: 25
 earnings_per_sale: 3.05
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2019-12-19"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/30807/adminstore/"
+promo_link: "https://owk.eu/video-weihnachten?aff=adminstore#aff=adminstore"
 sales_page: "https://owk.eu/video-weihnachten"
 language: "de"
 ---
 # Jesus, christliche Mystik & Weihnachten (Satsang)
 
 > Product ID `30807` · Digistore24 productId `300439` · [HTML profile page](../../produkte/jesus-christliche-mystik-weihnachten-satsang-30807.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $12.21 (Single payment) |
+| Price | $12.22 (Single payment) |
 | Affiliate commission | 25% |
 | Earnings/sale* | $3.05 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/30807/adminstore/
+- **Promo link (affiliate):** https://owk.eu/video-weihnachten?aff=adminstore#aff=adminstore
 - Sales page: https://owk.eu/video-weihnachten
 - Canonical redirect: https://www.digistore24.com/redir/300439/adminstore
 
@@ -76,14 +76,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Jesus, christliche Mystik & Weihnachten (Satsang)? — Typ: Downloads, Anbieter: ediowk, gelistet seit 2019-12-19
-- Wie viel kostet es? — 12.209652 USD
+- Wie viel kostet es? — 12.217296 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Jesus, christliche Mystik & Weihnachten (Satsang) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/300439
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/300439/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Jesus%2C%20christliche%20Mystik%20%26%20Weihnachten%20(Satsang)
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 618706
 title: "Disziplin, Motivation und Businessaufbau – Der Grundbaustein"
 vendor: "kopfstartklar"
 product_type: "E-books"
-price: 20.9
+price: 20.91
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 10.45
+earnings_per_sale: 10.46
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2025-06-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/618706?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/618706"
@@ -22,16 +22,16 @@ language: "de"
 # Disziplin, Motivation und Businessaufbau – Der Grundbaustein
 
 > Product ID `52912` · Digistore24 productId `618706` · [HTML profile page](../../produkte/disziplin-motivation-und-businessaufbau-der-grundbaustein-52912.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.90 (Single payment) |
+| Price | $20.91 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $10.45 |
+| Earnings/sale* | $10.46 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | kopfstartklar |
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Disziplin, Motivation und Businessaufbau – Der Grundbaustein? — Typ: E-books, Anbieter: kopfstartklar, gelistet seit 2025-06-15
-- Wie viel kostet es? — 20.897289000000004 USD
+- Wie viel kostet es? — 20.910372000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Disziplin, Motivation und Businessaufbau – Der Grundbaustein Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/618706
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/618706/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Disziplin%2C%20Motivation%20und%20Businessaufbau%20%E2%80%93%20Der%20Grundbaustein
 
 ## 4. Editorial notes

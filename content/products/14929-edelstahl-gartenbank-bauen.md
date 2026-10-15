@@ -4,7 +4,7 @@ digistore24_product_id: 117073
 title: "Edelstahl Gartenbank bauen"
 vendor: "MrVegan"
 product_type: "Downloads"
-price: 9.3
+price: 9.31
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 4.65
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft"]
 listed_since: "2017-02-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/14929/adminstore/"
+promo_link: "http://balkonernte.blogspot.de/2016/07/edelstahl-gartenbank-bauen-wig-schweien.html?aff=adminstore#aff=adminstore"
 sales_page: "http://balkonernte.blogspot.de/2016/07/edelstahl-gartenbank-bauen-wig-schweien.html"
 language: "de"
 ---
 # Edelstahl Gartenbank bauen
 
 > Product ID `14929` · Digistore24 productId `117073` · [HTML profile page](../../produkte/edelstahl-gartenbank-bauen-14929.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $9.30 (Single payment) |
+| Price | $9.31 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $4.65 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/14929/adminstore/
+- **Promo link (affiliate):** http://balkonernte.blogspot.de/2016/07/edelstahl-gartenbank-bauen-wig-schweien.html?aff=adminstore#aff=adminstore
 - Sales page: http://balkonernte.blogspot.de/2016/07/edelstahl-gartenbank-bauen-wig-schweien.html
 - Canonical redirect: https://www.digistore24.com/redir/117073/adminstore
 
@@ -58,14 +58,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Edelstahl Gartenbank bauen? — Typ: Downloads, Anbieter: MrVegan, gelistet seit 2017-02-01
-- Wie viel kostet es? — 9.302592 USD
+- Wie viel kostet es? — 9.308416000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Edelstahl Gartenbank bauen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/117073
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/117073/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Edelstahl%20Gartenbank%20bauen
 
 ## 4. Editorial notes

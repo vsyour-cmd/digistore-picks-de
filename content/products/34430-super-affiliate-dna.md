@@ -4,16 +4,16 @@ digistore24_product_id: 330258
 title: "Super-Affiliate DNA"
 vendor: "startuprakete"
 product_type: "Audio book (download)"
-price: 41.37
+price: 41.4
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 20.68
+earnings_per_sale: 20.7
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2020-06-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://startuprakete.de/super-affiliate-dna/?aff=adminstore#aff=adminstore"
 sales_page: "https://startuprakete.de/super-affiliate-dna/"
@@ -22,16 +22,16 @@ language: "de"
 # Super-Affiliate DNA
 
 > Product ID `34430` · Digistore24 productId `330258` · [HTML profile page](../../produkte/super-affiliate-dna-34430.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Audio book (download) |
-| Price | $41.37 (Single payment) |
+| Price | $41.40 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $20.68 |
+| Earnings/sale* | $20.70 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | startuprakete |
@@ -84,14 +84,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Super-Affiliate DNA? — Typ: Audio book (download), Anbieter: startuprakete, gelistet seit 2020-06-05
-- Wie viel kostet es? — 41.3697 USD
+- Wie viel kostet es? — 41.3956 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Super-Affiliate DNA Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/330258
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/330258/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Super-Affiliate%20DNA
 
 ## 4. Editorial notes

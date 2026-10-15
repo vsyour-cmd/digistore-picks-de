@@ -4,16 +4,16 @@ digistore24_product_id: 651802
 title: "Mini Online Kurs \"Unzufrieden im Job\"- Job-Realitäts-Check"
 vendor: "HeartfulMindset"
 product_type: "Member area and video courses"
-price: 46.98
+price: 47.01
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 4.7
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Personal Development","Profession & Job","Personal Development"]
+categories: ["Personal Development","Personal Development","Profession & Job"]
 listed_since: "2026-09-10"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.heartful-mindset.de/jobrealitaetscheck-live?aff=adminstore#aff=adminstore"
 sales_page: "https://www.heartful-mindset.de/jobrealitaetscheck-live"
@@ -22,14 +22,14 @@ language: "de"
 # Mini Online Kurs "Unzufrieden im Job"- Job-Realitäts-Check
 
 > Product ID `59094` · Digistore24 productId `651802` · [HTML profile page](../../produkte/mini-online-kurs-unzufrieden-im-job-job-realit-ts-check-59094.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $46.98 (Single payment, Installment) |
+| Price | $47.01 (Single payment, Installment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $4.70 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | HeartfulMindset |
 | Listed since | 2026-09-10 |
 | Auto-accept affiliates | yes |
-| Categories | Personal Development, Profession & Job, Personal Development |
+| Categories | Personal Development, Personal Development, Profession & Job |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -73,14 +73,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mini Online Kurs "Unzufrieden im Job"- Job-Realitäts-Check? — Typ: Member area and video courses, Anbieter: HeartfulMindset, gelistet seit 2026-09-10
-- Wie viel kostet es? — 46.98256200000001 USD
+- Wie viel kostet es? — 47.011976000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Mini Online Kurs "Unzufrieden im Job"- Job-Realitäts-Check Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/651802
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/651802/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Mini%20Online%20Kurs%20%22Unzufrieden%20im%20Job%22-%20Job-Realit%C3%A4ts-Check
 
 ## 4. Editorial notes

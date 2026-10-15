@@ -12,8 +12,8 @@ cart_conversion_pct: 39
 cancel_rate_pct: 4.72
 categories: ["Personal Development"]
 listed_since: "2020-05-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://gelddasbuch.de/buchgeschenk-7500/?aff=adminstore#aff=adminstore"
 sales_page: "https://gelddasbuch.de/buchgeschenk-7500/"
@@ -22,7 +22,7 @@ language: "de"
 # Geld das Buch Free plus Shipping Aktion - von Gunnar Kessler
 
 > Product ID `32674` · Digistore24 productId `324309` · [HTML profile page](../../produkte/geld-das-buch-free-plus-shipping-aktion-von-gunnar-kessler-32674.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -73,14 +73,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Geld das Buch Free plus Shipping Aktion - von Gunnar Kessler? — Typ: Book (printed), Anbieter: GTK-littlefreilich, gelistet seit 2020-05-01
-- Wie viel kostet es? — 2.3927340000000004 USD
+- Wie viel kostet es? — 2.394232 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Geld das Buch Free plus Shipping Aktion - von Gunnar Kessler Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/324309
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/324309/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Geld%20das%20Buch%20Free%20plus%20Shipping%20Aktion%20-%20von%20Gunnar%20Kessler
 
 ## 4. Editorial notes

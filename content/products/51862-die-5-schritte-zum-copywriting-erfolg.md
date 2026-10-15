@@ -10,10 +10,10 @@ affiliate_commission_pct: 50
 earnings_per_sale: 0
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Sales Training","Marketing Services"]
+categories: ["Education","Marketing Services","Sales Training"]
 listed_since: "2025-03-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/604124?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/604124"
@@ -22,7 +22,7 @@ language: "de"
 # Die 5-Schritte zum Copywriting Erfolg
 
 > Product ID `51862` · Digistore24 productId `604124` · [HTML profile page](../../produkte/die-5-schritte-zum-copywriting-erfolg-51862.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | JK-Buisness-Marketing |
 | Listed since | 2025-03-27 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Sales Training, Marketing Services |
+| Categories | Education, Marketing Services, Sales Training |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -78,7 +78,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Die 5-Schritte zum Copywriting Erfolg Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/604124
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/604124/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Die%205-Schritte%20zum%20Copywriting%20Erfolg
 
 ## 4. Editorial notes

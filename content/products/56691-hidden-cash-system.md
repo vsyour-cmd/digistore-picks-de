@@ -4,34 +4,34 @@ digistore24_product_id: 694165
 title: "Hidden Cash System"
 vendor: "hidden-marketer"
 product_type: "Member area and video courses"
-price: 443.89
+price: 444.16
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 221.94
+earnings_per_sale: 222.08
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2026-05-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
-research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/56691/adminstore/"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
+research_quality: "thin"
+promo_link: "https://www.hidden-marketer.de/start/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.hidden-marketer.de/start/"
 language: "de"
 ---
 # Hidden Cash System
 
 > Product ID `56691` · Digistore24 productId `694165` · [HTML profile page](../../produkte/hidden-cash-system-56691.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $443.89 (Subscription) |
+| Price | $444.16 (Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $221.94 |
+| Earnings/sale* | $222.08 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | hidden-marketer |
@@ -45,14 +45,17 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56691/adminstore/
+- **Promo link (affiliate):** https://www.hidden-marketer.de/start/?aff=adminstore#aff=adminstore
 - Sales page: https://www.hidden-marketer.de/start/
 - Vendor affiliate support: https://www.hidden-marketer.de/partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/694165/adminstore
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** SALESPAGE HCS
+- **Opening copy (first paragraphs):**
+  > Wir verwenden Cookies, um Ihnen eine bessere Browser-Erfahrung zu bieten, Inhalte und Anzeigen zu personalisieren, Funktionen für soziale Medien bereitzustellen und unseren Traffic zu analysieren. Lesen Sie, wie wir Cookies verwenden und wie Sie sie steuern können, indem Sie auf Cookie-Einstellungen klicken. Cookie Einstellungen
+- **Page word count:** 94
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
@@ -67,14 +70,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Hidden Cash System? — Typ: Member area and video courses, Anbieter: hidden-marketer, gelistet seit 2026-05-26
-- Wie viel kostet es? — 443.88570000000004 USD
+- Wie viel kostet es? — 444.16360000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Hidden Cash System Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/694165
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/694165/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Hidden%20Cash%20System
 
 ## 4. Editorial notes

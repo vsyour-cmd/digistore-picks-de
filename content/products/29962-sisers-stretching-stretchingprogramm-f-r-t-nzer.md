@@ -4,7 +4,7 @@ digistore24_product_id: 296282
 title: "Sisers Stretching - Stretchingprogramm für Tänzer"
 vendor: "Sisers-Stretching"
 product_type: "Member area and video courses"
-price: 360.69
+price: 360.91
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 4.75
@@ -12,8 +12,8 @@ cart_conversion_pct: 35
 cancel_rate_pct: 0.53
 categories: ["Sport"]
 listed_since: "2019-11-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://sisers-stretching.at/stretching-programm/?aff=adminstore#aff=adminstore"
 sales_page: "https://sisers-stretching.at/stretching-programm/"
@@ -22,14 +22,14 @@ language: "de"
 # Sisers Stretching - Stretchingprogramm für Tänzer
 
 > Product ID `29962` · Digistore24 productId `296282` · [HTML profile page](../../produkte/sisers-stretching-stretchingprogramm-f-r-t-nzer-29962.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $360.69 (Subscription) |
+| Price | $360.91 (Subscription) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $4.75 |
 | Cart conversion* | 35% |
@@ -86,14 +86,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Sisers Stretching - Stretchingprogramm für Tänzer? — Typ: Member area and video courses, Anbieter: Sisers-Stretching, gelistet seit 2019-11-22
-- Wie viel kostet es? — 360.687879 USD
+- Wie viel kostet es? — 360.91369199999997 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Sisers Stretching - Stretchingprogramm für Tänzer Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/296282
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/296282/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Sisers%20Stretching%20-%20Stretchingprogramm%20f%C3%BCr%20T%C3%A4nzer
 
 ## 4. Editorial notes

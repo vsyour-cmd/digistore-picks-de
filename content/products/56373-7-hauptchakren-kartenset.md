@@ -4,7 +4,7 @@ digistore24_product_id: 687904
 title: "7 Hauptchakren Kartenset"
 vendor: "Spiritual-Power"
 product_type: "Downloads"
-price: 27.25
+price: 27.27
 currency: "USD"
 affiliate_commission_pct: 20
 earnings_per_sale: 5.45
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-04-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/56373/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/687904?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/687904"
 language: "de"
 ---
 # 7 Hauptchakren Kartenset
 
 > Product ID `56373` · Digistore24 productId `687904` · [HTML profile page](../../produkte/7-hauptchakren-kartenset-56373.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $27.25 (Single payment) |
+| Price | $27.27 (Single payment) |
 | Affiliate commission | 20% |
 | Earnings/sale* | $5.45 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56373/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/687904?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/687904
 - Canonical redirect: https://www.digistore24.com/redir/687904/adminstore
 
@@ -75,14 +75,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 7 Hauptchakren Kartenset? — Typ: Downloads, Anbieter: Spiritual-Power, gelistet seit 2026-04-27
-- Wie viel kostet es? — 27.248097000000005 USD
+- Wie viel kostet es? — 27.265156 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 7 Hauptchakren Kartenset Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/687904
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/687904/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=7%20Hauptchakren%20Kartenset
 
 ## 4. Editorial notes

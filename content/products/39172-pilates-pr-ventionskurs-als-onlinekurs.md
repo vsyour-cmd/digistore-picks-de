@@ -4,16 +4,16 @@ digistore24_product_id: 372710
 title: "Pilates-Präventionskurs als Onlinekurs"
 vendor: "KatiBloedorn"
 product_type: "Downloads"
-price: 56.29
+price: 56.32
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 31.24
+earnings_per_sale: 31.26
 cart_conversion_pct: 23
 cancel_rate_pct: 4.17
 categories: ["Health & Fitness"]
 listed_since: "2021-02-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.praeventionskurse-online.de/pilates-kraeftigungsprogramm-onlinekurs/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.praeventionskurse-online.de/pilates-kraeftigungsprogramm-onlinekurs/"
@@ -22,16 +22,16 @@ language: "de"
 # Pilates-Präventionskurs als Onlinekurs
 
 > Product ID `39172` · Digistore24 productId `372710` · [HTML profile page](../../produkte/pilates-pr-ventionskurs-als-onlinekurs-39172.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $56.29 (Single payment) |
+| Price | $56.32 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $31.24 |
+| Earnings/sale* | $31.26 |
 | Cart conversion* | 23% |
 | Cancel rate* | 4.17% |
 | Vendor | KatiBloedorn |
@@ -89,14 +89,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Pilates-Präventionskurs als Onlinekurs? — Typ: Downloads, Anbieter: KatiBloedorn, gelistet seit 2021-02-08
-- Wie viel kostet es? — 56.285154000000006 USD
+- Wie viel kostet es? — 56.320392000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Pilates-Präventionskurs als Onlinekurs Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/372710
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/372710/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Pilates-Pr%C3%A4ventionskurs%20als%20Onlinekurs
 
 ## 4. Editorial notes

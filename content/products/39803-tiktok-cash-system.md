@@ -4,34 +4,34 @@ digistore24_product_id: 442545
 title: "TikTok Cash System"
 vendor: "CyrilCash"
 product_type: "Member area and video courses"
-price: 212.86
+price: 213
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 158.49
+earnings_per_sale: 158.59
 cart_conversion_pct: 8
 cancel_rate_pct: 2.04
 categories: ["Profession & Job"]
 listed_since: "2022-05-12"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/39803/adminstore/"
+promo_link: "https://social.business-kickstart.de/start-1/?aff=adminstore#aff=adminstore"
 sales_page: "https://social.business-kickstart.de/start-1/"
 language: "de"
 ---
 # TikTok Cash System
 
 > Product ID `39803` · Digistore24 productId `442545` · [HTML profile page](../../produkte/tiktok-cash-system-39803.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $212.86 (Single payment) |
+| Price | $213.00 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $158.49 |
+| Earnings/sale* | $158.59 |
 | Cart conversion* | 8% |
 | Cancel rate* | 2.04% |
 | Vendor | CyrilCash |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/39803/adminstore/
+- **Promo link (affiliate):** https://social.business-kickstart.de/start-1/?aff=adminstore#aff=adminstore
 - Sales page: https://social.business-kickstart.de/start-1/
 - Vendor affiliate support: https://social.business-kickstart.de/partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/442545/adminstore
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist TikTok Cash System? — Typ: Member area and video courses, Anbieter: CyrilCash, gelistet seit 2022-05-12
-- Wie viel kostet es? — 212.863878 USD
+- Wie viel kostet es? — 212.997144 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: TikTok Cash System Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/442545
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/442545/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=TikTok%20Cash%20System
 
 ## 4. Editorial notes

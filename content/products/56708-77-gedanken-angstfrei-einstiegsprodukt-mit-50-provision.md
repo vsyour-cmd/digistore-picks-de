@@ -4,16 +4,16 @@ digistore24_product_id: 695491
 title: "77 GeDANKEn: Angstfrei-Einstiegsprodukt mit 50 % Provision"
 vendor: "Seelendank"
 product_type: "E-books"
-price: 6.26
+price: 6.27
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 3.13
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Health & Fitness","Personal Development"]
+categories: ["Health & Fitness","Personal Development","Education"]
 listed_since: "2026-05-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://angstfrei.shop/produkt/ebook-77-zitate-gedanken-impulse-gegen-angst/?aff=adminstore#aff=adminstore"
 sales_page: "https://angstfrei.shop/produkt/ebook-77-zitate-gedanken-impulse-gegen-angst/"
@@ -22,14 +22,14 @@ language: "de"
 # 77 GeDANKEn: Angstfrei-Einstiegsprodukt mit 50 % Provision
 
 > Product ID `56708` · Digistore24 productId `695491` · [HTML profile page](../../produkte/77-gedanken-angstfrei-einstiegsprodukt-mit-50-provision-56708.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $6.26 (Single payment) |
+| Price | $6.27 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $3.13 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | Seelendank |
 | Listed since | 2026-05-27 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Health & Fitness, Personal Development |
+| Categories | Health & Fitness, Personal Development, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -81,14 +81,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 77 GeDANKEn: Angstfrei-Einstiegsprodukt mit 50 % Provision? — Typ: E-books, Anbieter: Seelendank, gelistet seit 2026-05-27
-- Wie viel kostet es? — 6.26136 USD
+- Wie viel kostet es? — 6.26528 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 77 GeDANKEn: Angstfrei-Einstiegsprodukt mit 50 % Provision Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/695491
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/695491/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=77%20GeDANKEn%3A%20Angstfrei-Einstiegsprodukt%20mit%2050%20%25%20Provision
 
 ## 4. Editorial notes

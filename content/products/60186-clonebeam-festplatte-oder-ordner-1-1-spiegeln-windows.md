@@ -4,16 +4,16 @@ digistore24_product_id: 719917
 title: "CloneBeam – Festplatte oder Ordner 1:1 spiegeln (Windows)"
 vendor: "gzaistacks2aae"
 product_type: "Software"
-price: 14
+price: 14.01
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 4.2
+earnings_per_sale: 4.21
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Computer & Internet","Software"]
+categories: ["Software","Computer & Internet"]
 listed_since: "2026-10-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.gz-ai-stacks.de/CloneBeam/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.gz-ai-stacks.de/CloneBeam/"
@@ -22,22 +22,22 @@ language: "de"
 # CloneBeam – Festplatte oder Ordner 1:1 spiegeln (Windows)
 
 > Product ID `60186` · Digistore24 productId `719917` · [HTML profile page](../../produkte/clonebeam-festplatte-oder-ordner-1-1-spiegeln-windows-60186.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $14.00 (Single payment) |
+| Price | $14.01 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $4.20 |
+| Earnings/sale* | $4.21 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | gzaistacks2aae |
 | Listed since | 2026-10-05 |
 | Auto-accept affiliates | yes |
-| Categories | Computer & Internet, Software |
+| Categories | Software, Computer & Internet |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist CloneBeam – Festplatte oder Ordner 1:1 spiegeln (Windows)? — Typ: Software, Anbieter: gzaistacks2aae, gelistet seit 2026-10-05
-- Wie viel kostet es? — 13.998612000000001 USD
+- Wie viel kostet es? — 14.007375999999999 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: CloneBeam – Festplatte oder Ordner 1:1 spiegeln (Windows) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/719917
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/719917/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=CloneBeam%20%E2%80%93%20Festplatte%20oder%20Ordner%201%3A1%20spiegeln%20(Windows)
 
 ## 4. Editorial notes

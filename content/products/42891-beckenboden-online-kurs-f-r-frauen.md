@@ -4,34 +4,34 @@ digistore24_product_id: 478436
 title: "\"Beckenboden-ONLINE\" Kurs für Frauen"
 vendor: "SilkeTiede"
 product_type: "Member area and video courses"
-price: 234.89
+price: 235.04
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 23.49
+earnings_per_sale: 23.51
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2023-01-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/42891/adminstore/"
+promo_link: "https://physiotherapie-rostock.de/onlinekurse/beckenbodenkurs-fuer-frauen/?aff=adminstore#aff=adminstore"
 sales_page: "https://physiotherapie-rostock.de/onlinekurse/beckenbodenkurs-fuer-frauen/"
 language: "de"
 ---
 # "Beckenboden-ONLINE" Kurs für Frauen
 
 > Product ID `42891` · Digistore24 productId `478436` · [HTML profile page](../../produkte/beckenboden-online-kurs-f-r-frauen-42891.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $234.89 (Single payment) |
+| Price | $235.04 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $23.49 |
+| Earnings/sale* | $23.51 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SilkeTiede |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/42891/adminstore/
+- **Promo link (affiliate):** https://physiotherapie-rostock.de/onlinekurse/beckenbodenkurs-fuer-frauen/?aff=adminstore#aff=adminstore
 - Sales page: https://physiotherapie-rostock.de/onlinekurse/beckenbodenkurs-fuer-frauen/
 - Vendor affiliate support: https://www.digistore24.com/signup/478436,485303/
 - Canonical redirect: https://www.digistore24.com/redir/478436/adminstore
@@ -80,14 +80,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist "Beckenboden-ONLINE" Kurs für Frauen? — Typ: Member area and video courses, Anbieter: SilkeTiede, gelistet seit 2023-01-09
-- Wie viel kostet es? — 234.89044800000002 USD
+- Wie viel kostet es? — 235.037504 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: "Beckenboden-ONLINE" Kurs für Frauen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/478436
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/478436/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=%22Beckenboden-ONLINE%22%20Kurs%20f%C3%BCr%20Frauen
 
 ## 4. Editorial notes

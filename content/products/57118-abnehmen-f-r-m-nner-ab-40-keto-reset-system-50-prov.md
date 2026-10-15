@@ -4,16 +4,16 @@ digistore24_product_id: 701298
 title: "Abnehmen für Männer ab 40 – Keto-Reset-System (50 % Prov.)"
 vendor: "One-Balance-Media"
 product_type: "E-books"
-price: 20.8
+price: 20.81
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 10.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Food & Drink","Health & Fitness"]
+categories: ["Health & Fitness","Food & Drink"]
 listed_since: "2026-06-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.one-balance-media.de?aff=adminstore#aff=adminstore"
 sales_page: "https://www.one-balance-media.de"
@@ -22,14 +22,14 @@ language: "de"
 # Abnehmen für Männer ab 40 – Keto-Reset-System (50 % Prov.)
 
 > Product ID `57118` · Digistore24 productId `701298` · [HTML profile page](../../produkte/abnehmen-f-r-m-nner-ab-40-keto-reset-system-50-prov-57118.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.80 (Single payment) |
+| Price | $20.81 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $10.40 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | One-Balance-Media |
 | Listed since | 2026-06-24 |
 | Auto-accept affiliates | yes |
-| Categories | Food & Drink, Health & Fitness |
+| Categories | Health & Fitness, Food & Drink |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -82,14 +82,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Abnehmen für Männer ab 40 – Keto-Reset-System (50 % Prov.)? — Typ: E-books, Anbieter: One-Balance-Media, gelistet seit 2026-06-24
-- Wie viel kostet es? — 20.796660000000003 USD
+- Wie viel kostet es? — 20.80968 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Abnehmen für Männer ab 40 – Keto-Reset-System (50 % Prov.) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/701298
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/701298/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Abnehmen%20f%C3%BCr%20M%C3%A4nner%20ab%2040%20%E2%80%93%20Keto-Reset-System%20(50%20%25%20Prov.)
 
 ## 4. Editorial notes

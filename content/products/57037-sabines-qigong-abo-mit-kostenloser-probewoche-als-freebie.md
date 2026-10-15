@@ -4,34 +4,34 @@ digistore24_product_id: 671247
 title: "Sabines Qigong-Abo mit kostenloser Probewoche als Freebie"
 vendor: "SabineQigong"
 product_type: "Member area and video courses"
-price: 91.14
+price: 91.19
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 45.57
+earnings_per_sale: 45.6
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2026-06-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/57037/adminstore/"
+promo_link: "https://sabine-tukovits-fischer.app.mentortools.com/qigong-abo?aff=adminstore#aff=adminstore"
 sales_page: "https://sabine-tukovits-fischer.app.mentortools.com/qigong-abo"
 language: "de"
 ---
 # Sabines Qigong-Abo mit kostenloser Probewoche als Freebie
 
 > Product ID `57037` · Digistore24 productId `671247` · [HTML profile page](../../produkte/sabines-qigong-abo-mit-kostenloser-probewoche-als-freebie-57037.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $91.14 (Subscription) |
+| Price | $91.19 (Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $45.57 |
+| Earnings/sale* | $45.60 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SabineQigong |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/57037/adminstore/
+- **Promo link (affiliate):** https://sabine-tukovits-fischer.app.mentortools.com/qigong-abo?aff=adminstore#aff=adminstore
 - Sales page: https://sabine-tukovits-fischer.app.mentortools.com/qigong-abo
 - Vendor affiliate support: https://sabine-tukovits-fischer.app.mentortools.com/fur-affiliates-2-2-2
 - Canonical redirect: https://www.digistore24.com/redir/671247/adminstore
@@ -88,14 +88,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Sabines Qigong-Abo mit kostenloser Probewoche als Freebie? — Typ: Member area and video courses, Anbieter: SabineQigong, gelistet seit 2026-06-17
-- Wie viel kostet es? — 91.13633100000001 USD
+- Wie viel kostet es? — 91.19338800000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Sabines Qigong-Abo mit kostenloser Probewoche als Freebie Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/671247
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/671247/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Sabines%20Qigong-Abo%20mit%20kostenloser%20Probewoche%20als%20Freebie
 
 ## 4. Editorial notes

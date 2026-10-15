@@ -4,34 +4,34 @@ digistore24_product_id: 525405
 title: "Smartphone Geldmaschine - 13% Conversion dank starkem VSL"
 vendor: "Moneycashnow"
 product_type: "Member area and video courses"
-price: 62.95
+price: 62.99
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 31.47
+earnings_per_sale: 31.49
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Computer & Internet","Profession & Job"]
 listed_since: "2023-11-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
-promo_link: "https://www.digistore24.com/redir/47493/adminstore/"
+promo_link: "https://lukessbusiness.systeme.io/geldmaschine-vsl?aff=adminstore#aff=adminstore"
 sales_page: "https://lukessbusiness.systeme.io/geldmaschine-vsl"
 language: "de"
 ---
 # Smartphone Geldmaschine - 13% Conversion dank starkem VSL
 
 > Product ID `47493` · Digistore24 productId `525405` · [HTML profile page](../../produkte/smartphone-geldmaschine-13-conversion-dank-starkem-vsl-47493.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $62.95 (Single payment) |
+| Price | $62.99 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $31.47 |
+| Earnings/sale* | $31.49 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Moneycashnow |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/47493/adminstore/
+- **Promo link (affiliate):** https://lukessbusiness.systeme.io/geldmaschine-vsl?aff=adminstore#aff=adminstore
 - Sales page: https://lukessbusiness.systeme.io/geldmaschine-vsl
 - Vendor affiliate support: https://www.lukes-channel.com/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/525405/adminstore
@@ -72,14 +72,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Smartphone Geldmaschine - 13% Conversion dank starkem VSL? — Typ: Member area and video courses, Anbieter: Moneycashnow, gelistet seit 2023-11-15
-- Wie viel kostet es? — 62.94903 USD
+- Wie viel kostet es? — 62.98844 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Smartphone Geldmaschine - 13% Conversion dank starkem VSL Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/525405
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/525405/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Smartphone%20Geldmaschine%20-%2013%25%20Conversion%20dank%20starkem%20VSL
 
 ## 4. Editorial notes

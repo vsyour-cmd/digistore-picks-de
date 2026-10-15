@@ -4,16 +4,16 @@ digistore24_product_id: 608744
 title: "15 Fitness Drinks für Zuhause & Unterwegs"
 vendor: "Freifone"
 product_type: "E-books"
-price: 13.53
+price: 13.54
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 6.76
+earnings_per_sale: 6.77
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Food & Drink","Sport"]
+categories: ["Sport","Food & Drink"]
 listed_since: "2025-04-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://designs-nf.com/ebooks/15-fitness-drinks?aff=adminstore#aff=adminstore"
 sales_page: "https://designs-nf.com/ebooks/15-fitness-drinks"
@@ -22,22 +22,22 @@ language: "de"
 # 15 Fitness Drinks für Zuhause & Unterwegs
 
 > Product ID `52166` · Digistore24 productId `608744` · [HTML profile page](../../produkte/15-fitness-drinks-f-r-zuhause-unterwegs-52166.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $13.53 (Single payment) |
+| Price | $13.54 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $6.76 |
+| Earnings/sale* | $6.77 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Freifone |
 | Listed since | 2025-04-22 |
 | Auto-accept affiliates | yes |
-| Categories | Food & Drink, Sport |
+| Categories | Sport, Food & Drink |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -80,14 +80,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 15 Fitness Drinks für Zuhause & Unterwegs? — Typ: E-books, Anbieter: Freifone, gelistet seit 2025-04-22
-- Wie viel kostet es? — 13.529010000000001 USD
+- Wie viel kostet es? — 13.53748 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 15 Fitness Drinks für Zuhause & Unterwegs Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/608744
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/608744/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=15%20Fitness%20Drinks%20f%C3%BCr%20Zuhause%20%26%20Unterwegs
 
 ## 4. Editorial notes

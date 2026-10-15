@@ -4,16 +4,16 @@ digistore24_product_id: 668676
 title: "Der Courier Code"
 vendor: "OnboardSafari"
 product_type: "Member area and video courses"
-price: 25.37
+price: 25.39
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 12.69
+earnings_per_sale: 12.7
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Profession & Job","Travel & Culture"]
+categories: ["Travel & Culture","Profession & Job"]
 listed_since: "2026-02-13"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.onboardsafari.de/couriercode?aff=adminstore#aff=adminstore"
 sales_page: "https://www.onboardsafari.de/couriercode"
@@ -22,22 +22,22 @@ language: "de"
 # Der Courier Code
 
 > Product ID `56138` · Digistore24 productId `668676` · [HTML profile page](../../produkte/der-courier-code-56138.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $25.37 (Single payment) |
+| Price | $25.39 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $12.69 |
+| Earnings/sale* | $12.70 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | OnboardSafari |
 | Listed since | 2026-02-13 |
 | Auto-accept affiliates | yes |
-| Categories | Profession & Job, Travel & Culture |
+| Categories | Travel & Culture, Profession & Job |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -78,14 +78,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Courier Code? — Typ: Member area and video courses, Anbieter: OnboardSafari, gelistet seit 2026-02-13
-- Wie viel kostet es? — 25.369689000000005 USD
+- Wie viel kostet es? — 25.385572000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Der Courier Code Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/668676
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/668676/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%20Courier%20Code
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 266706
 title: "Online-Ausbildung \"Waldbaden und Naturtherapie\""
 vendor: "growstudio"
 product_type: "Member area and video courses"
-price: 185.1
+price: 185.22
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 55.54
+earnings_per_sale: 55.57
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Home & Garden","Profession & Job"]
 listed_since: "2019-04-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.ganzheitliche-heilung.de/waldbaden/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.ganzheitliche-heilung.de/waldbaden/"
@@ -22,16 +22,16 @@ language: "de"
 # Online-Ausbildung "Waldbaden und Naturtherapie"
 
 > Product ID `28500` · Digistore24 productId `266706` · [HTML profile page](../../produkte/online-ausbildung-waldbaden-und-naturtherapie-28500.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $185.10 (Single payment, Installment) |
+| Price | $185.22 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $55.54 |
+| Earnings/sale* | $55.57 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | growstudio |
@@ -82,14 +82,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online-Ausbildung "Waldbaden und Naturtherapie"? — Typ: Member area and video courses, Anbieter: growstudio, gelistet seit 2019-04-04
-- Wie viel kostet es? — 185.10145500000002 USD
+- Wie viel kostet es? — 185.21734 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Online-Ausbildung "Waldbaden und Naturtherapie" Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/266706
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/266706/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Online-Ausbildung%20%22Waldbaden%20und%20Naturtherapie%22
 
 ## 4. Editorial notes

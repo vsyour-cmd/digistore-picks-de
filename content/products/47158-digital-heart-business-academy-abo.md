@@ -4,7 +4,7 @@ digistore24_product_id: 488621
 title: "Digital Heart Business Academy ABO"
 vendor: "cduffner"
 product_type: "Member area and video courses"
-price: 54.79
+price: 54.82
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 5.48
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2023-03-12"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://dhba.funnelcockpit.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://dhba.funnelcockpit.com/"
@@ -22,14 +22,14 @@ language: "de"
 # Digital Heart Business Academy ABO
 
 > Product ID `47158` · Digistore24 productId `488621` · [HTML profile page](../../produkte/digital-heart-business-academy-abo-47158.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $54.79 (Subscription) |
+| Price | $54.82 (Subscription) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $5.48 |
 | Cart conversion* | — |
@@ -59,14 +59,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Digital Heart Business Academy ABO? — Typ: Member area and video courses, Anbieter: cduffner, gelistet seit 2023-03-12
-- Wie viel kostet es? — 54.7869 USD
+- Wie viel kostet es? — 54.8212 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Digital Heart Business Academy ABO Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/488621
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/488621/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Digital%20Heart%20Business%20Academy%20ABO
 
 ## 4. Editorial notes

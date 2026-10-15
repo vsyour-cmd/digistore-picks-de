@@ -4,16 +4,16 @@ digistore24_product_id: 604159
 title: "Rufgespräch – ein Raum jenseits von Coaching"
 vendor: "digicube"
 product_type: "Online coaching"
-price: 101.48
+price: 101.54
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 30.45
+earnings_per_sale: 30.46
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2025-03-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://lanaprinzip.com/rufgespraech/?aff=adminstore#aff=adminstore"
 sales_page: "https://lanaprinzip.com/rufgespraech/"
@@ -22,16 +22,16 @@ language: "de"
 # Rufgespräch – ein Raum jenseits von Coaching
 
 > Product ID `53256` · Digistore24 productId `604159` · [HTML profile page](../../produkte/rufgespr-ch-ein-raum-jenseits-von-coaching-53256.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $101.48 (Single payment) |
+| Price | $101.54 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $30.45 |
+| Earnings/sale* | $30.46 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | digicube |
@@ -94,14 +94,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Rufgespräch – ein Raum jenseits von Coaching? — Typ: Online coaching, Anbieter: digicube, gelistet seit 2025-03-27
-- Wie viel kostet es? — 101.47875600000002 USD
+- Wie viel kostet es? — 101.54228800000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Rufgespräch – ein Raum jenseits von Coaching Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/604159
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/604159/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Rufgespr%C3%A4ch%20%E2%80%93%20ein%20Raum%20jenseits%20von%20Coaching
 
 ## 4. Editorial notes

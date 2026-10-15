@@ -4,16 +4,16 @@ digistore24_product_id: 674753
 title: "VERA-X AI-Business Engine™"
 vendor: "smartboostAI"
 product_type: "Remote service provided electronically"
-price: 13407.14
+price: 13415.53
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 4022.14
+earnings_per_sale: 4024.66
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Services","Marketing Services"]
 listed_since: "2026-03-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/674753?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/674753"
@@ -22,16 +22,16 @@ language: "de"
 # VERA-X AI-Business Engine™
 
 > Product ID `55852` · Digistore24 productId `674753` · [HTML profile page](../../produkte/vera-x-ai-business-engine-55852.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $13407.14 (Single payment, Installment) |
+| Price | $13415.53 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $4022.14 |
+| Earnings/sale* | $4024.66 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | smartboostAI |
@@ -110,14 +110,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist VERA-X AI-Business Engine™? — Typ: Remote service provided electronically, Anbieter: smartboostAI, gelistet seit 2026-03-09
-- Wie viel kostet es? — 13407.137100000002 USD
+- Wie viel kostet es? — 13415.5308 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: VERA-X AI-Business Engine™ Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/674753
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/674753/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=VERA-X%20AI-Business%20Engine%E2%84%A2
 
 ## 4. Editorial notes

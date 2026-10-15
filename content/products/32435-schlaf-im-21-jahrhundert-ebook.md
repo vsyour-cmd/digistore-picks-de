@@ -7,22 +7,22 @@ product_type: "E-books"
 price: 6.22
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 4.47
+earnings_per_sale: 4.48
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2020-04-11"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/32435/adminstore/"
+promo_link: "https://buch.schlafonaut.de/ebook?aff=adminstore#aff=adminstore"
 sales_page: "https://buch.schlafonaut.de/ebook"
 language: "de"
 ---
 # Schlaf im 21. Jahrhundert - eBook
 
 > Product ID `32435` · Digistore24 productId `320088` · [HTML profile page](../../produkte/schlaf-im-21-jahrhundert-ebook-32435.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,7 @@ language: "de"
 | Product type | E-books |
 | Price | $6.22 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $4.47 |
+| Earnings/sale* | $4.48 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | sleep-performance |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/32435/adminstore/
+- **Promo link (affiliate):** https://buch.schlafonaut.de/ebook?aff=adminstore#aff=adminstore
 - Sales page: https://buch.schlafonaut.de/ebook
 - Canonical redirect: https://www.digistore24.com/redir/320088/adminstore
 
@@ -58,14 +58,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Schlaf im 21. Jahrhundert - eBook? — Typ: E-books, Anbieter: sleep-performance, gelistet seit 2020-04-11
-- Wie viel kostet es? — 6.216636 USD
+- Wie viel kostet es? — 6.220528 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Schlaf im 21. Jahrhundert - eBook Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/320088
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/320088/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Schlaf%20im%2021.%20Jahrhundert%20-%20eBook
 
 ## 4. Editorial notes

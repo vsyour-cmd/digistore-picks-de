@@ -4,16 +4,16 @@ digistore24_product_id: 668372
 title: "A TOUCH OF ALOHA - Berühre das Licht deiner Seele"
 vendor: "ThomasYoung"
 product_type: "Member area and video courses"
-price: 941.6
+price: 942.19
 currency: "USD"
 affiliate_commission_pct: 18
-earnings_per_sale: 370.64
+earnings_per_sale: 370.87
 cart_conversion_pct: 13
 cancel_rate_pct: 3.69
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2026-02-12"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.thomasyoung.online/aloha?aff=adminstore#aff=adminstore"
 sales_page: "https://www.thomasyoung.online/aloha"
@@ -22,16 +22,16 @@ language: "de"
 # A TOUCH OF ALOHA - Berühre das Licht deiner Seele
 
 > Product ID `55854` · Digistore24 productId `668372` · [HTML profile page](../../produkte/a-touch-of-aloha-ber-hre-das-licht-deiner-seele-55854.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $941.60 (Single payment, Installment) |
+| Price | $942.19 (Single payment, Installment) |
 | Affiliate commission | 18% |
-| Earnings/sale* | $370.64 |
+| Earnings/sale* | $370.87 |
 | Cart conversion* | 13% |
 | Cancel rate* | 3.69% |
 | Vendor | ThomasYoung |
@@ -78,14 +78,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist A TOUCH OF ALOHA - Berühre das Licht deiner Seele? — Typ: Member area and video courses, Anbieter: ThomasYoung, gelistet seit 2026-02-12
-- Wie viel kostet es? — 941.5967340000001 USD
+- Wie viel kostet es? — 942.186232 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: A TOUCH OF ALOHA - Berühre das Licht deiner Seele Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/668372
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/668372/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=A%20TOUCH%20OF%20ALOHA%20-%20Ber%C3%BChre%20das%20Licht%20deiner%20Seele
 
 ## 4. Editorial notes

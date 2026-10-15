@@ -4,16 +4,16 @@ digistore24_product_id: 691897
 title: "Money Mindset Membership"
 vendor: "Glareena"
 product_type: "Member area and video courses"
-price: 771.49
+price: 771.97
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 231.45
+earnings_per_sale: 231.59
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2026-06-13"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://gluecksmomente-jeden-tag.com/abo-dein-neustart?aff=adminstore#aff=adminstore"
 sales_page: "https://gluecksmomente-jeden-tag.com/abo-dein-neustart"
@@ -22,16 +22,16 @@ language: "de"
 # Money Mindset Membership
 
 > Product ID `56878` · Digistore24 productId `691897` · [HTML profile page](../../produkte/money-mindset-membership-56878.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $771.49 (Subscription) |
+| Price | $771.97 (Subscription) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $231.45 |
+| Earnings/sale* | $231.59 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Glareena |
@@ -75,14 +75,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Money Mindset Membership? — Typ: Member area and video courses, Anbieter: Glareena, gelistet seit 2026-06-13
-- Wie viel kostet es? — 771.489 USD
+- Wie viel kostet es? — 771.972 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Money Mindset Membership Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/691897
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/691897/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Money%20Mindset%20Membership
 
 ## 4. Editorial notes

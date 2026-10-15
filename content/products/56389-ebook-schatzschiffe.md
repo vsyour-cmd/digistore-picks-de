@@ -4,32 +4,32 @@ digistore24_product_id: 688752
 title: "Ebook - Schatzschiffe"
 vendor: "joebgesbuchverleger39ac"
 product_type: "E-books"
-price: 6.26
+price: 6.27
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 3.13
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Law & Justice"]
+categories: ["Law & Justice","Education"]
 listed_since: "2026-04-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.veronica-gerritzen.de/die-ernaehrungsloesung-teu1#aff=adminstore"
+promo_link: "https://www.checkout-ds24.com/product/688752?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/688752"
 language: "de"
 ---
 # Ebook - Schatzschiffe
 
 > Product ID `56389` · Digistore24 productId `688752` · [HTML profile page](../../produkte/ebook-schatzschiffe-56389.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $6.26 (Single payment) |
+| Price | $6.27 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $3.13 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | joebgesbuchverleger39ac |
 | Listed since | 2026-04-29 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Law & Justice |
+| Categories | Law & Justice, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.veronica-gerritzen.de/die-ernaehrungsloesung-teu1#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/688752?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/688752
 - Canonical redirect: https://www.digistore24.com/redir/688752/adminstore
 
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ebook - Schatzschiffe? — Typ: E-books, Anbieter: joebgesbuchverleger39ac, gelistet seit 2026-04-29
-- Wie viel kostet es? — 6.26136 USD
+- Wie viel kostet es? — 6.26528 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Ebook - Schatzschiffe Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/688752
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/688752/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Ebook%20-%20Schatzschiffe
 
 ## 4. Editorial notes

@@ -4,7 +4,7 @@ digistore24_product_id: 711404
 title: "Melonen - Kochbuch für Familien  - 50 % Provision"
 vendor: "wildandfreefamily"
 product_type: "E-books"
-price: 14.52
+price: 14.53
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 7.27
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children","Food & Drink"]
 listed_since: "2026-07-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/57587/adminstore/"
+promo_link: "https://wildfree-melonen-kochbuch.netlify.app/?aff=adminstore#aff=adminstore"
 sales_page: "https://wildfree-melonen-kochbuch.netlify.app/"
 language: "de"
 ---
 # Melonen - Kochbuch für Familien  - 50 % Provision
 
 > Product ID `57587` · Digistore24 productId `711404` · [HTML profile page](../../produkte/melonen-kochbuch-f-r-familien-50-provision-57587.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $14.52 (Single payment) |
+| Price | $14.53 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $7.27 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/57587/adminstore/
+- **Promo link (affiliate):** https://wildfree-melonen-kochbuch.netlify.app/?aff=adminstore#aff=adminstore
 - Sales page: https://wildfree-melonen-kochbuch.netlify.app/
 - Canonical redirect: https://www.digistore24.com/redir/711404/adminstore
 
@@ -77,14 +77,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Melonen - Kochbuch für Familien  - 50 % Provision? — Typ: E-books, Anbieter: wildandfreefamily, gelistet seit 2026-07-18
-- Wie viel kostet es? — 14.524119 USD
+- Wie viel kostet es? — 14.533212 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Melonen - Kochbuch für Familien  - 50 % Provision Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/711404
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/711404/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Melonen%20-%20Kochbuch%20f%C3%BCr%20Familien%20%20-%2050%20%25%20Provision
 
 ## 4. Editorial notes

@@ -4,34 +4,34 @@ digistore24_product_id: 248911
 title: "maona.tv - Mitgliedschaft"
 vendor: "maonatvgmbh"
 product_type: "Member area and video courses"
-price: 93.01
+price: 93.07
 currency: "USD"
 affiliate_commission_pct: 15.2
-earnings_per_sale: 14.13
+earnings_per_sale: 14.14
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2018-11-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/redir/28329/adminstore/"
+promo_link: "https://www.maona.tv/home-ds?aff=adminstore#aff=adminstore"
 sales_page: "https://www.maona.tv/home-ds"
 language: "de"
 ---
 # maona.tv - Mitgliedschaft
 
 > Product ID `28329` · Digistore24 productId `248911` · [HTML profile page](../../produkte/maona-tv-mitgliedschaft-28329.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $93.01 (Subscription) |
+| Price | $93.07 (Subscription) |
 | Affiliate commission | 15.2% |
-| Earnings/sale* | $14.13 |
+| Earnings/sale* | $14.14 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | maonatvgmbh |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/redir/28329/adminstore/
+- **Promo link (affiliate):** https://www.maona.tv/home-ds?aff=adminstore#aff=adminstore
 - Sales page: https://www.maona.tv/home-ds
 - Vendor affiliate support: https://www.maona.tv/botschafter-werden
 - Canonical redirect: https://www.digistore24.com/redir/248911/adminstore
@@ -96,14 +96,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist maona.tv - Mitgliedschaft? — Typ: Member area and video courses, Anbieter: maonatvgmbh, gelistet seit 2018-11-20
-- Wie viel kostet es? — 93.014739 USD
+- Wie viel kostet es? — 93.072972 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: maona.tv - Mitgliedschaft Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/248911
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/248911/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=maona.tv%20-%20Mitgliedschaft
 
 ## 4. Editorial notes

@@ -4,32 +4,32 @@ digistore24_product_id: 349188
 title: "iPhone Fotokurs [Online-Kurs]"
 vendor: "rheinrost"
 product_type: "Member area and video courses"
-price: 15.84
+price: 15.85
 currency: "USD"
 affiliate_commission_pct: 35
 earnings_per_sale: 6.63
 cart_conversion_pct: 28
 cancel_rate_pct: 1.02
-categories: ["Online Marketing & E-Business","Photography & Film","Social Media"]
+categories: ["Online Marketing & E-Business","Social Media","Photography & Film"]
 listed_since: "2020-09-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/35457/adminstore/"
+promo_link: "https://www.unaufschiebbar.de/iphone-fotokurs/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.unaufschiebbar.de/iphone-fotokurs/"
 language: "de"
 ---
 # iPhone Fotokurs [Online-Kurs]
 
 > Product ID `35457` · Digistore24 productId `349188` · [HTML profile page](../../produkte/iphone-fotokurs-online-kurs-35457.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $15.84 (Single payment) |
+| Price | $15.85 (Single payment) |
 | Affiliate commission | 35% |
 | Earnings/sale* | $6.63 |
 | Cart conversion* | 28% |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | rheinrost |
 | Listed since | 2020-09-23 |
 | Auto-accept affiliates | yes |
-| Categories | Online Marketing & E-Business, Photography & Film, Social Media |
+| Categories | Online Marketing & E-Business, Social Media, Photography & Film |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/35457/adminstore/
+- **Promo link (affiliate):** https://www.unaufschiebbar.de/iphone-fotokurs/?aff=adminstore#aff=adminstore
 - Sales page: https://www.unaufschiebbar.de/iphone-fotokurs/
 - Vendor affiliate support: https://www.unaufschiebbar.de/partner
 - Canonical redirect: https://www.digistore24.com/redir/349188/adminstore
@@ -84,14 +84,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist iPhone Fotokurs [Online-Kurs]? — Typ: Member area and video courses, Anbieter: rheinrost, gelistet seit 2020-09-23
-- Wie viel kostet es? — 15.843477000000002 USD
+- Wie viel kostet es? — 15.853396 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: iPhone Fotokurs [Online-Kurs] Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/349188
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/349188/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=iPhone%20Fotokurs%20%5BOnline-Kurs%5D
 
 ## 4. Editorial notes

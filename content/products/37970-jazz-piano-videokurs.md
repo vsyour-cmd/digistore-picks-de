@@ -4,16 +4,16 @@ digistore24_product_id: 402673
 title: "Jazz Piano Videokurs"
 vendor: "modernmusic"
 product_type: "Member area and video courses"
-price: 493.28
+price: 493.59
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 246.64
+earnings_per_sale: 246.8
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dancing & Music"]
 listed_since: "2021-08-14"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.modern-music.org/jazz-piano-videokurs?aff=adminstore#aff=adminstore"
 sales_page: "https://www.modern-music.org/jazz-piano-videokurs"
@@ -22,16 +22,16 @@ language: "de"
 # Jazz Piano Videokurs
 
 > Product ID `37970` · Digistore24 productId `402673` · [HTML profile page](../../produkte/jazz-piano-videokurs-37970.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $493.28 (Single payment, Installment) |
+| Price | $493.59 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $246.64 |
+| Earnings/sale* | $246.80 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | modernmusic |
@@ -100,14 +100,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Jazz Piano Videokurs? — Typ: Member area and video courses, Anbieter: modernmusic, gelistet seit 2021-08-14
-- Wie viel kostet es? — 493.283358 USD
+- Wie viel kostet es? — 493.59218400000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Jazz Piano Videokurs Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/402673
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/402673/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Jazz%20Piano%20Videokurs
 
 ## 4. Editorial notes

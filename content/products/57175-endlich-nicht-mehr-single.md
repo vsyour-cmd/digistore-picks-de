@@ -4,34 +4,34 @@ digistore24_product_id: 701931
 title: "Endlich nicht mehr Single"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 26.02
+price: 26.03
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 13.01
+earnings_per_sale: 13.02
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2026-06-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/57175/adminstore/"
+promo_link: "https://ratgeberplatz.de/ratgeber/endlich-nicht-mehr-single?aff=adminstore#aff=adminstore"
 sales_page: "https://ratgeberplatz.de/ratgeber/endlich-nicht-mehr-single"
 language: "de"
 ---
 # Endlich nicht mehr Single
 
 > Product ID `57175` · Digistore24 productId `701931` · [HTML profile page](../../produkte/endlich-nicht-mehr-single-57175.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $26.02 (Single payment) |
+| Price | $26.03 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $13.01 |
+| Earnings/sale* | $13.02 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pixonmedia |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/57175/adminstore/
+- **Promo link (affiliate):** https://ratgeberplatz.de/ratgeber/endlich-nicht-mehr-single?aff=adminstore#aff=adminstore
 - Sales page: https://ratgeberplatz.de/ratgeber/endlich-nicht-mehr-single
 - Canonical redirect: https://www.digistore24.com/redir/701931/adminstore
 
@@ -87,14 +87,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Endlich nicht mehr Single? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-06-29
-- Wie viel kostet es? — 26.018187 USD
+- Wie viel kostet es? — 26.034476 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Endlich nicht mehr Single Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/701931
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/701931/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Endlich%20nicht%20mehr%20Single
 
 ## 4. Editorial notes

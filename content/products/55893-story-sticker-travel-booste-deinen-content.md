@@ -4,7 +4,7 @@ digistore24_product_id: 658183
 title: "Story Sticker TRAVEL - Booste Deinen Content!"
 vendor: "sarahvisita"
 product_type: "Downloads"
-price: 6.57
+price: 6.58
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 0.66
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media","Marketing Services"]
 listed_since: "2025-12-31"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/55893/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/658183?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/658183"
 language: "de"
 ---
 # Story Sticker TRAVEL - Booste Deinen Content!
 
 > Product ID `55893` · Digistore24 productId `658183` · [HTML profile page](../../produkte/story-sticker-travel-booste-deinen-content-55893.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $6.57 (Single payment) |
+| Price | $6.58 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $0.66 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55893/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/658183?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/658183
 - Canonical redirect: https://www.digistore24.com/redir/658183/adminstore
 
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Story Sticker TRAVEL - Booste Deinen Content!? — Typ: Downloads, Anbieter: sarahvisita, gelistet seit 2025-12-31
-- Wie viel kostet es? — 6.574428 USD
+- Wie viel kostet es? — 6.578544 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Story Sticker TRAVEL - Booste Deinen Content! Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/658183
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/658183/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Story%20Sticker%20TRAVEL%20-%20Booste%20Deinen%20Content!
 
 ## 4. Editorial notes

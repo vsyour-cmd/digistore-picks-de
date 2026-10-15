@@ -4,7 +4,7 @@ digistore24_product_id: 727653
 title: "Zukunft gestalten im Alter"
 vendor: "autorpetermeurerausdemahrtal"
 product_type: "E-books"
-price: 10.44
+price: 10.45
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 1.04
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2026-09-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/727653?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/727653"
@@ -22,14 +22,14 @@ language: "de"
 # Zukunft gestalten im Alter
 
 > Product ID `58814` · Digistore24 productId `727653` · [HTML profile page](../../produkte/zukunft-gestalten-im-alter-58814.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.44 (Single payment) |
+| Price | $10.45 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $1.04 |
 | Cart conversion* | — |
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Zukunft gestalten im Alter? — Typ: E-books, Anbieter: autorpetermeurerausdemahrtal, gelistet seit 2026-09-01
-- Wie viel kostet es? — 10.443054 USD
+- Wie viel kostet es? — 10.449592 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Zukunft gestalten im Alter Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/727653
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/727653/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Zukunft%20gestalten%20im%20Alter
 
 ## 4. Editorial notes

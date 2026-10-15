@@ -211,14 +211,15 @@ const products = DATA.products
   .map((p) => ({ ...p, label: p.label || `Digistore24 Produkt ${p.id}`, slug: slug(p.label || `produkt-${p.id}`) + "-" + p.id }))
   .sort((a, b) => (b.earningsPerSale || 0) - (a.earningsPerSale || 0));
 
-// Anbieter-Hubs decken nur die Top-100-Anbieter mit ≥2 Produkten ab (gleiche Auswahl wie vendorHubs());
-// vor dem Verweisen im Template prüfen, damit Anbieter außerhalb der Top 100 keine toten Links erzeugen
-const HUB_SLUGS = (() => {
+// Anbieter-Hubs: Top-100-Auswahl EINMALig hier (gemeinsame Quelle für HUB_SLUGS und vendorHubs()),
+// damit Gleichstand-Grenzen identisch bleiben (Produkt-Reihenfolge kann sich unterwegs ändern)
+const TOP_VENDORS = (() => {
   const m = new Map();
   for (const p of products) m.set(p.vendorName, (m.get(p.vendorName) || 0) + 1);
-  return new Set([...m.entries()].filter(([, n]) => n >= 2)
-    .sort((a, b) => b[1] - a[1]).slice(0, 100).map(([k]) => slug(k)));
+  return new Map([...m.entries()].filter(([, n]) => n >= 2)
+    .sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0])).slice(0, 100));
 })();
+const HUB_SLUGS = new Set([...TOP_VENDORS.keys()].map((k) => slug(k)));
 
 {
   const cnt = {};
@@ -1034,7 +1035,7 @@ function faqBankDe(cat, items) {
   add("Preise & Kosten", `Was ist das günstigste ${cat.label}-Produkt?`, `${L(cheapest)} für <b>${money(cheapest.price, cheapest.currency)}</b>. Günstig heißt nicht sinnvoll — vor dem Kauf Stornoquote und Verkaufsseite prüfen.`);
   add("Preise & Kosten", `Sind Steuern im Preis enthalten?`, `Nein — der gelistete Preis ist der Netto-Preis des Anbieters. Digistore24 addiert im Checkout die gesetzliche Steuer Ihres Landes; dort sehen Sie immer den Endbetrag vor der Zahlung.`);
   add("Preise & Kosten", `Einmalkauf oder Abo?`, `${subsN} von ${n} Listings in dieser Kategorie sind Abos, der Rest Einmalkäufe. Die Abrechnungsart steht auf jedem Produktprofil und nochmal im Checkout.`);
-  add("Preise & Kosten", `Ändern sich die Preise häufig?`, `Anbieterseits ja. Unser <a href="price-watch.html">Preis-Monitor</a> vergleicht tägliche Snapshots des gesamten Marktplatzes — Änderungen ab 1% erscheinen dort automatisch.`);
+  add("Preise & Kosten", `Ändern sich die Preise häufig?`, `Anbieterseits ja. Unser <a href="../price-watch.html">Preis-Monitor</a> vergleicht tägliche Snapshots des gesamten Marktplatzes — Änderungen ab 1% erscheinen dort automatisch.`);
   add("Preise & Kosten", `Ist teurer automatisch besser?`, `Nein. Preis misst Positionierung, nicht Qualität. Der Marktplatz veröffentlicht die Stornoquote — der Anteil rückabgewickelter Käufe — und teure Listings sind nicht systematisch besser. Nutzen Sie den <a href="../blog/digistore24-zahlen-checkliste.html">6-Punkte-Check</a>.`);
   add("Preise & Kosten", `Kann ich in Raten zahlen?`, `Manche Anbieter bieten Ratenpläne (eigenes Billing-Format auf der Verkaufsseite). Digistore24 verarbeitet, was der Anbieter konfiguriert hat — der Checkout zeigt Ihre Optionen vor der Verpflichtung.`);
   add("Rückerstattung & Garantie", `Gibt es Geld-zurück-Garantien bei ${cat.label}?`, `${gPct}% der von uns recherchierten Verkaufsseiten in dieser Kategorie nennen explizite Garantie-Formulierungen (Anbieteraussagen — nicht von uns geprüft). Digistore24 wickelt Rückerstattungen nach den Anbieter-Bedingungen ab; die Kassenseite ist bindend.`);
@@ -1096,9 +1097,11 @@ function faqHubPagesDe() {
   fs.mkdirSync(dir, { recursive: true });
   let built = 0;
   const eligible = DATA.categories.filter((c) => products.filter((p) => (p.categoryIds || []).includes(String(c.catId))).length >= 3);
+  { const un = products.filter((p) => !(p.categoryIds || []).length).length;
+    if (un >= 3) eligible.push({ catId: "uncat", labelDe: "Ohne Kategorie", sectionDe: "Digistore24-Marktplatz", file: "ohne-kategorie", count: un }); }
   for (let ci = 0; ci < eligible.length; ci++) {
     const c = eligible[ci];
-    const items = products.filter((p) => (p.categoryIds || []).includes(String(c.catId)));
+    const items = products.filter((p) => (p.categoryIds || []).includes(String(c.catId)) || (c.catId === "uncat" && !(p.categoryIds || []).length));
     const qas = faqBankDe(c, items);
     const groups = [...new Set(qas.map((x) => x.g))];
     const best = [...items].sort((a, b) => (b.earningsPerSale || 0) - (a.earningsPerSale || 0))[0];
@@ -1395,11 +1398,9 @@ function vendorHubs() {
     if (!vmap.has(k)) vmap.set(k, []);
     vmap.get(k).push(p);
   }
-  const vendors = [...vmap.entries()]
-    .filter(([, arr]) => arr.length >= 2)
-    .map(([k, arr]) => ({ name: k, items: arr.sort((a, b) => (b.earningsPerSale || 0) - (a.earningsPerSale || 0)) }))
-    .sort((a, b) => b.items.length - a.items.length)
-    .slice(0, 100);
+  // Top-100-Auswahl gemeinsame Quelle mit HUB_SLUGS (TOP_VENDORS)
+  const vendors = [...TOP_VENDORS.entries()]
+    .map(([k]) => ({ name: k, items: (vmap.get(k) || []).sort((a, b) => (b.earningsPerSale || 0) - (a.earningsPerSale || 0)) }));
   const dir = outPath("hersteller");
   fs.mkdirSync(dir, { recursive: true });
   for (const v of vendors) {

@@ -4,16 +4,16 @@ digistore24_product_id: 679700
 title: "GehaltCockpit System | Exceltool und Videos"
 vendor: "NilsWarnecke"
 product_type: "Software"
-price: 23.35
+price: 23.36
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 78.52
+earnings_per_sale: 78.57
 cart_conversion_pct: 7
 cancel_rate_pct: 4.95
-categories: ["Computer & Internet","Education","Profession & Job"]
+categories: ["Computer & Internet","Profession & Job","Education"]
 listed_since: "2026-03-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://cashcockpit.de/gehaltcockpit-system/?aff=adminstore#aff=adminstore"
 sales_page: "https://cashcockpit.de/gehaltcockpit-system/"
@@ -22,22 +22,22 @@ language: "de"
 # GehaltCockpit System | Exceltool und Videos
 
 > Product ID `56356` · Digistore24 productId `679700` · [HTML profile page](../../produkte/gehaltcockpit-system-exceltool-und-videos-56356.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $23.35 (Single payment, Installment) |
+| Price | $23.36 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $78.52 |
+| Earnings/sale* | $78.57 |
 | Cart conversion* | 7% |
 | Cancel rate* | 4.95% |
 | Vendor | NilsWarnecke |
 | Listed since | 2026-03-26 |
 | Auto-accept affiliates | yes |
-| Categories | Computer & Internet, Education, Profession & Job |
+| Categories | Computer & Internet, Profession & Job, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -87,14 +87,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist GehaltCockpit System | Exceltool und Videos? — Typ: Software, Anbieter: NilsWarnecke, gelistet seit 2026-03-26
-- Wie viel kostet es? — 23.345928 USD
+- Wie viel kostet es? — 23.360544 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: GehaltCockpit System | Exceltool und Videos Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/679700
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/679700/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=GehaltCockpit%20System%20%7C%20Exceltool%20und%20Videos
 
 ## 4. Editorial notes

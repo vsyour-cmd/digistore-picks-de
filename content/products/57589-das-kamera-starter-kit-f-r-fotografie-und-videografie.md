@@ -4,40 +4,40 @@ digistore24_product_id: 710700
 title: "Das Kamera-Starter-Kit für Fotografie und Videografie."
 vendor: "dop09e6a"
 product_type: "E-books"
-price: 26.02
+price: 26.03
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 13.01
+earnings_per_sale: 13.02
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Hobby & Craft","Photography & Film","Travel & Culture"]
+categories: ["Travel & Culture","Hobby & Craft","Photography & Film"]
 listed_since: "2026-07-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/57589/adminstore/"
+promo_link: "https://fotofilmbeginner.com/das-kamera-starter-kit?aff=adminstore#aff=adminstore"
 sales_page: "https://fotofilmbeginner.com/das-kamera-starter-kit"
 language: "de"
 ---
 # Das Kamera-Starter-Kit für Fotografie und Videografie.
 
 > Product ID `57589` · Digistore24 productId `710700` · [HTML profile page](../../produkte/das-kamera-starter-kit-f-r-fotografie-und-videografie-57589.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $26.02 (Single payment) |
+| Price | $26.03 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $13.01 |
+| Earnings/sale* | $13.02 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | dop09e6a |
 | Listed since | 2026-07-18 |
 | Auto-accept affiliates | yes |
-| Categories | Hobby & Craft, Photography & Film, Travel & Culture |
+| Categories | Travel & Culture, Hobby & Craft, Photography & Film |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/57589/adminstore/
+- **Promo link (affiliate):** https://fotofilmbeginner.com/das-kamera-starter-kit?aff=adminstore#aff=adminstore
 - Sales page: https://fotofilmbeginner.com/das-kamera-starter-kit
 - Canonical redirect: https://www.digistore24.com/redir/710700/adminstore
 
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Kamera-Starter-Kit für Fotografie und Videografie.? — Typ: E-books, Anbieter: dop09e6a, gelistet seit 2026-07-18
-- Wie viel kostet es? — 26.018187 USD
+- Wie viel kostet es? — 26.034476 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Das Kamera-Starter-Kit für Fotografie und Videografie. Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/710700
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/710700/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Das%20Kamera-Starter-Kit%20f%C3%BCr%20Fotografie%20und%20Videografie.
 
 ## 4. Editorial notes

@@ -12,17 +12,17 @@ cart_conversion_pct: 41
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Social Media","Online Marketing"]
 listed_since: "2025-02-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://body-soul-center.com/produkt/therapeutisches-solfeggio-klang-erhebung/#aff=adminstore"
+promo_link: "https://reneaktivnetzmarketing.funnelcockpit.com/ki-prompts-dein-cheat-sheet-lite/?aff=adminstore#aff=adminstore"
 sales_page: "https://reneaktivnetzmarketing.funnelcockpit.com/ki-prompts-dein-cheat-sheet-lite/"
 language: "de"
 ---
 # KI-Prompts Cheat Sheet Lite
 
 > Product ID `51463` · Digistore24 productId `598878` · [HTML profile page](../../produkte/ki-prompts-cheat-sheet-lite-51463.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://body-soul-center.com/produkt/therapeutisches-solfeggio-klang-erhebung/#aff=adminstore
+- **Promo link (affiliate):** https://reneaktivnetzmarketing.funnelcockpit.com/ki-prompts-dein-cheat-sheet-lite/?aff=adminstore#aff=adminstore
 - Sales page: https://reneaktivnetzmarketing.funnelcockpit.com/ki-prompts-dein-cheat-sheet-lite/
 - Vendor affiliate support: https://smarte-ki-schmiede.de/partnerprogramm-ki-schmiede-50/
 - Canonical redirect: https://www.digistore24.com/redir/598878/adminstore
@@ -66,7 +66,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: KI-Prompts Cheat Sheet Lite Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/598878
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/598878/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=KI-Prompts%20Cheat%20Sheet%20Lite
 
 ## 4. Editorial notes

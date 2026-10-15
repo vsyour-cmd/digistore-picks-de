@@ -4,34 +4,34 @@ digistore24_product_id: 109343
 title: "GASTROWORKS Profi Speisekalkulation"
 vendor: "Gastroworks"
 product_type: "Downloads"
-price: 257.16
+price: 257.32
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 128.58
+earnings_per_sale: 128.66
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hotels & Gastronomy"]
 listed_since: "2016-12-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/21249/adminstore/"
+promo_link: "http://kochkralle.de/?aff=adminstore#aff=adminstore"
 sales_page: "http://kochkralle.de/"
 language: "de"
 ---
 # GASTROWORKS Profi Speisekalkulation
 
 > Product ID `21249` · Digistore24 productId `109343` · [HTML profile page](../../produkte/gastroworks-profi-speisekalkulation-21249.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $257.16 (Single payment, Installment) |
+| Price | $257.32 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $128.58 |
+| Earnings/sale* | $128.66 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Gastroworks |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/21249/adminstore/
+- **Promo link (affiliate):** http://kochkralle.de/?aff=adminstore#aff=adminstore
 - Sales page: http://kochkralle.de/
 - Canonical redirect: https://www.digistore24.com/redir/109343/adminstore
 
@@ -66,14 +66,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist GASTROWORKS Profi Speisekalkulation? — Typ: Downloads, Anbieter: Gastroworks, gelistet seit 2016-12-15
-- Wie viel kostet es? — 257.163 USD
+- Wie viel kostet es? — 257.324 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: GASTROWORKS Profi Speisekalkulation Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/109343
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/109343/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=GASTROWORKS%20Profi%20Speisekalkulation
 
 ## 4. Editorial notes

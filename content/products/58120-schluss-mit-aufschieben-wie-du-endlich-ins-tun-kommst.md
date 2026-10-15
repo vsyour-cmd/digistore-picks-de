@@ -4,16 +4,16 @@ digistore24_product_id: 717921
 title: "Schluss mit Aufschieben – Wie du endlich ins Tun kommst"
 vendor: "mlangbein51cce0"
 product_type: "E-books"
-price: 28.21
+price: 28.23
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 14.11
+earnings_per_sale: 14.12
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Personal Development","Leadership & Management"]
+categories: ["Personal Development","Education","Leadership & Management"]
 listed_since: "2026-08-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/717921?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/717921"
@@ -22,22 +22,22 @@ language: "de"
 # Schluss mit Aufschieben – Wie du endlich ins Tun kommst
 
 > Product ID `58120` · Digistore24 productId `717921` · [HTML profile page](../../produkte/schluss-mit-aufschieben-wie-du-endlich-ins-tun-kommst-58120.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $28.21 (Single payment) |
+| Price | $28.23 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $14.11 |
+| Earnings/sale* | $14.12 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | mlangbein51cce0 |
 | Listed since | 2026-08-04 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Personal Development, Leadership & Management |
+| Categories | Personal Development, Education, Leadership & Management |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Schluss mit Aufschieben – Wie du endlich ins Tun kommst? — Typ: E-books, Anbieter: mlangbein51cce0, gelistet seit 2026-08-04
-- Wie viel kostet es? — 28.209663000000003 USD
+- Wie viel kostet es? — 28.227324 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Schluss mit Aufschieben – Wie du endlich ins Tun kommst Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/717921
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/717921/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Schluss%20mit%20Aufschieben%20%E2%80%93%20Wie%20du%20endlich%20ins%20Tun%20kommst
 
 ## 4. Editorial notes

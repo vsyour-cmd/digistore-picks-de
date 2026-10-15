@@ -4,7 +4,7 @@ digistore24_product_id: 88083
 title: "Meine Erfahrung mit psychologischen Eignungstests"
 vendor: "ttiman"
 product_type: "Downloads"
-price: 18.69
+price: 18.71
 currency: "USD"
 affiliate_commission_pct: 0
 earnings_per_sale: 7.83
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2016-07-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/12783/adminstore/"
+promo_link: "http://assessment-vorbereitung-bfw-erfahrung.tipps-tricks-infos.com?aff=adminstore#aff=adminstore"
 sales_page: "http://assessment-vorbereitung-bfw-erfahrung.tipps-tricks-infos.com"
 language: "de"
 ---
 # Meine Erfahrung mit psychologischen Eignungstests
 
 > Product ID `12783` · Digistore24 productId `88083` · [HTML profile page](../../produkte/meine-erfahrung-mit-psychologischen-eignungstests-12783.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $18.69 (Single payment) |
+| Price | $18.71 (Single payment) |
 | Affiliate commission | 0% |
 | Earnings/sale* | $7.83 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/12783/adminstore/
+- **Promo link (affiliate):** http://assessment-vorbereitung-bfw-erfahrung.tipps-tricks-infos.com?aff=adminstore#aff=adminstore
 - Sales page: http://assessment-vorbereitung-bfw-erfahrung.tipps-tricks-infos.com
 - Vendor affiliate support: http://affiliate-support-eignungstest.tipps-tricks-infos.com
 - Canonical redirect: https://www.digistore24.com/redir/88083/adminstore
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Meine Erfahrung mit psychologischen Eignungstests? — Typ: Downloads, Anbieter: ttiman, gelistet seit 2016-07-16
-- Wie viel kostet es? — 18.694632 USD
+- Wie viel kostet es? — 18.706336 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Meine Erfahrung mit psychologischen Eignungstests Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/88083
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/88083/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Meine%20Erfahrung%20mit%20psychologischen%20Eignungstests
 
 ## 4. Editorial notes

@@ -10,10 +10,10 @@ affiliate_commission_pct: 50
 earnings_per_sale: 2.61
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Food & Drink","Health & Fitness"]
+categories: ["Health & Fitness","Food & Drink"]
 listed_since: "2026-03-28"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://designs-nf.com/ebooks/deine-fitnessdrinks?aff=adminstore#aff=adminstore"
 sales_page: "https://designs-nf.com/ebooks/deine-fitnessdrinks"
@@ -22,7 +22,7 @@ language: "de"
 # Deine Fitnessdrinks
 
 > Product ID `56070` · Digistore24 productId `680183` · [HTML profile page](../../produkte/deine-fitnessdrinks-56070.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | Freifone |
 | Listed since | 2026-03-28 |
 | Auto-accept affiliates | yes |
-| Categories | Food & Drink, Health & Fitness |
+| Categories | Health & Fitness, Food & Drink |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -82,14 +82,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Deine Fitnessdrinks? — Typ: E-books, Anbieter: Freifone, gelistet seit 2026-03-28
-- Wie viel kostet es? — 5.210346 USD
+- Wie viel kostet es? — 5.213608 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Deine Fitnessdrinks Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/680183
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/680183/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Deine%20Fitnessdrinks
 
 ## 4. Editorial notes

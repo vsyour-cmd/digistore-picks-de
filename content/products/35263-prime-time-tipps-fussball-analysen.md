@@ -4,34 +4,34 @@ digistore24_product_id: 362814
 title: "Prime Time Tipps Fussball Analysen"
 vendor: "Primetimetipps"
 product_type: "Member area and video courses"
-price: 328.86
+price: 329.06
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 131.54
+earnings_per_sale: 131.63
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Betting Systems"]
 listed_since: "2020-12-14"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/35263/adminstore/"
+promo_link: "https://primetimetipps.de?aff=adminstore#aff=adminstore"
 sales_page: "https://primetimetipps.de"
 language: "de"
 ---
 # Prime Time Tipps Fussball Analysen
 
 > Product ID `35263` · Digistore24 productId `362814` · [HTML profile page](../../produkte/prime-time-tipps-fussball-analysen-35263.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $328.86 (Subscription) |
+| Price | $329.06 (Subscription) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $131.54 |
+| Earnings/sale* | $131.63 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Primetimetipps |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/35263/adminstore/
+- **Promo link (affiliate):** https://primetimetipps.de?aff=adminstore#aff=adminstore
 - Sales page: https://primetimetipps.de
 - Canonical redirect: https://www.digistore24.com/redir/362814/adminstore
 
@@ -92,14 +92,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Prime Time Tipps Fussball Analysen? — Typ: Member area and video courses, Anbieter: Primetimetipps, gelistet seit 2020-12-14
-- Wie viel kostet es? — 328.85557200000005 USD
+- Wie viel kostet es? — 329.061456 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Prime Time Tipps Fussball Analysen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/362814
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/362814/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Prime%20Time%20Tipps%20Fussball%20Analysen
 
 ## 4. Editorial notes

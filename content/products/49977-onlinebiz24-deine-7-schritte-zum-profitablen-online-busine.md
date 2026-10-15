@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2024-10-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/49977/adminstore/"
+promo_link: "https://page.funnelcockpit.com/ZRRYiteNm5xA6db3a?aff=adminstore#aff=adminstore"
 sales_page: "https://page.funnelcockpit.com/ZRRYiteNm5xA6db3a"
 language: "de"
 ---
 # OnlineBiz24 - Deine 7 Schritte zum profitablen Online Busine
 
 > Product ID `49977` · Digistore24 productId `573843` · [HTML profile page](../../produkte/onlinebiz24-deine-7-schritte-zum-profitablen-online-busine-49977.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/49977/adminstore/
+- **Promo link (affiliate):** https://page.funnelcockpit.com/ZRRYiteNm5xA6db3a?aff=adminstore#aff=adminstore
 - Sales page: https://page.funnelcockpit.com/ZRRYiteNm5xA6db3a
 - Vendor affiliate support: https://page.funnelcockpit.com/xShDvzeT9ZKbdFXNW
 - Canonical redirect: https://www.digistore24.com/redir/573843/adminstore
@@ -66,7 +66,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: OnlineBiz24 - Deine 7 Schritte zum profitablen Online Busine Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/573843
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/573843/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=OnlineBiz24%20-%20Deine%207%20Schritte%20zum%20profitablen%20Online%20Busine
 
 ## 4. Editorial notes

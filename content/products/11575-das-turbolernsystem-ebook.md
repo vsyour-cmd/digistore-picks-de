@@ -4,16 +4,16 @@ digistore24_product_id: 24351
 title: "Das Turbolernsystem - Ebook"
 vendor: "Insider-Media"
 product_type: "Downloads"
-price: 64.83
+price: 64.87
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 32.41
+earnings_per_sale: 32.43
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2014-04-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://www.lerntipp.com/turbolernstrategie?aff=adminstore#aff=adminstore"
 sales_page: "https://www.lerntipp.com/turbolernstrategie"
@@ -22,16 +22,16 @@ language: "de"
 # Das Turbolernsystem - Ebook
 
 > Product ID `11575` · Digistore24 productId `24351` · [HTML profile page](../../produkte/das-turbolernsystem-ebook-11575.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $64.83 (Single payment) |
+| Price | $64.87 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $32.41 |
+| Earnings/sale* | $32.43 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Insider-Media |
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Turbolernsystem - Ebook? — Typ: Downloads, Anbieter: Insider-Media, gelistet seit 2014-04-18
-- Wie viel kostet es? — 64.827438 USD
+- Wie viel kostet es? — 64.86802399999999 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Das Turbolernsystem - Ebook Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/24351
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/24351/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Das%20Turbolernsystem%20-%20Ebook
 
 ## 4. Editorial notes

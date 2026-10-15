@@ -4,32 +4,32 @@ digistore24_product_id: 536891
 title: "[NEU] Fuck Einsamkeit - zu verschenken | Buch (gedruckt)"
 vendor: "Erschaffedichneu"
 product_type: "Book (printed)"
-price: 10.41
+price: 10.42
 currency: "USD"
 affiliate_commission_pct: 0
 earnings_per_sale: 5.85
 cart_conversion_pct: 11
 cancel_rate_pct: 0.86
-categories: ["Dating, Relationships & Romance","Personal Development"]
+categories: ["Personal Development","Dating, Relationships & Romance"]
 listed_since: "2024-01-31"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/48381/adminstore/"
+promo_link: "https://erschaffedichneu.com/feinsamkeit?aff=adminstore#aff=adminstore"
 sales_page: "https://erschaffedichneu.com/feinsamkeit"
 language: "de"
 ---
 # [NEU] Fuck Einsamkeit - zu verschenken | Buch (gedruckt)
 
 > Product ID `48381` · Digistore24 productId `536891` · [HTML profile page](../../produkte/neu-fuck-einsamkeit-zu-verschenken-buch-gedruckt-48381.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $10.41 (Single payment) |
+| Price | $10.42 (Single payment) |
 | Affiliate commission | 0% |
 | Earnings/sale* | $5.85 |
 | Cart conversion* | 11% |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | Erschaffedichneu |
 | Listed since | 2024-01-31 |
 | Auto-accept affiliates | yes |
-| Categories | Dating, Relationships & Romance, Personal Development |
+| Categories | Personal Development, Dating, Relationships & Romance |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/48381/adminstore/
+- **Promo link (affiliate):** https://erschaffedichneu.com/feinsamkeit?aff=adminstore#aff=adminstore
 - Sales page: https://erschaffedichneu.com/feinsamkeit
 - Canonical redirect: https://www.digistore24.com/redir/536891/adminstore
 
@@ -58,14 +58,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist [NEU] Fuck Einsamkeit - zu verschenken | Buch (gedruckt)? — Typ: Book (printed), Anbieter: Erschaffedichneu, gelistet seit 2024-01-31
-- Wie viel kostet es? — 10.409511000000002 USD
+- Wie viel kostet es? — 10.416028 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: [NEU] Fuck Einsamkeit - zu verschenken | Buch (gedruckt) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/536891
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/536891/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=%5BNEU%5D%20Fuck%20Einsamkeit%20-%20zu%20verschenken%20%7C%20Buch%20(gedruckt)
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 702997
 title: "Werde STARTKLAR‑Affiliate und empfehle den Onlinekurs für Au"
 vendor: "goldkern"
 product_type: "Online coaching"
-price: 42.49
+price: 42.51
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 14.87
+earnings_per_sale: 14.88
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Profession & Job"]
 listed_since: "2026-08-12"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.startklar.training/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.startklar.training/"
@@ -22,16 +22,16 @@ language: "de"
 # Werde STARTKLAR‑Affiliate und empfehle den Onlinekurs für Au
 
 > Product ID `58297` · Digistore24 productId `702997` · [HTML profile page](../../produkte/werde-startklar-affiliate-und-empfehle-den-onlinekurs-f-r-au-58297.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $42.49 (Single payment) |
+| Price | $42.51 (Single payment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $14.87 |
+| Earnings/sale* | $14.88 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | goldkern |
@@ -91,14 +91,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Werde STARTKLAR‑Affiliate und empfehle den Onlinekurs für Au? — Typ: Online coaching, Anbieter: goldkern, gelistet seit 2026-08-12
-- Wie viel kostet es? — 42.48780000000001 USD
+- Wie viel kostet es? — 42.5144 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Werde STARTKLAR‑Affiliate und empfehle den Onlinekurs für Au Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/702997
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/702997/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Werde%20STARTKLAR%E2%80%91Affiliate%20und%20empfehle%20den%20Onlinekurs%20f%C3%BCr%20Au
 
 ## 4. Editorial notes

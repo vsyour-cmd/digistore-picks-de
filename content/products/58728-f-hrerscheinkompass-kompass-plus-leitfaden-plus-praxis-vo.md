@@ -4,16 +4,16 @@ digistore24_product_id: 720586
 title: "FührerscheinKompass - Kompass PLUS: Leitfaden plus Praxis-Vo"
 vendor: "thorstenbahrb86a"
 product_type: "E-books"
-price: 93
+price: 93.06
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 27.9
+earnings_per_sale: 27.91
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2026-08-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://fuehrerschein-kompass.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://fuehrerschein-kompass.de/"
@@ -22,16 +22,16 @@ language: "de"
 # FührerscheinKompass - Kompass PLUS: Leitfaden plus Praxis-Vo
 
 > Product ID `58728` · Digistore24 productId `720586` · [HTML profile page](../../produkte/f-hrerscheinkompass-kompass-plus-leitfaden-plus-praxis-vo-58728.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $93.00 (Single payment) |
+| Price | $93.06 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $27.90 |
+| Earnings/sale* | $27.91 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | thorstenbahrb86a |
@@ -92,14 +92,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist FührerscheinKompass - Kompass PLUS: Leitfaden plus Praxis-Vo? — Typ: E-books, Anbieter: thorstenbahrb86a, gelistet seit 2026-08-27
-- Wie viel kostet es? — 93.00355800000001 USD
+- Wie viel kostet es? — 93.061784 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: FührerscheinKompass - Kompass PLUS: Leitfaden plus Praxis-Vo Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/720586
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/720586/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=F%C3%BChrerscheinKompass%20-%20Kompass%20PLUS%3A%20Leitfaden%20plus%20Praxis-Vo
 
 ## 4. Editorial notes

@@ -4,34 +4,34 @@ digistore24_product_id: 421455
 title: "Silent Subliminals Gesundheit - Deine Vitalität stärken"
 vendor: "EnergeticTernity"
 product_type: "Downloads"
-price: 266.51
+price: 266.68
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 98.5
+earnings_per_sale: 98.57
 cart_conversion_pct: 8
 cancel_rate_pct: 3.18
 categories: ["Health & Fitness"]
 listed_since: "2021-12-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/41939/adminstore/"
+promo_link: "https://energetic-eternity.de/produkt/silent-subliminals-gesundheit/?aff=adminstore#aff=adminstore"
 sales_page: "https://energetic-eternity.de/produkt/silent-subliminals-gesundheit/"
 language: "de"
 ---
 # Silent Subliminals Gesundheit - Deine Vitalität stärken
 
 > Product ID `41939` · Digistore24 productId `421455` · [HTML profile page](../../produkte/silent-subliminals-gesundheit-deine-vitalit-t-st-rken-41939.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $266.51 (Single payment) |
+| Price | $266.68 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $98.50 |
+| Earnings/sale* | $98.57 |
 | Cart conversion* | 8% |
 | Cancel rate* | 3.18% |
 | Vendor | EnergeticTernity |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/41939/adminstore/
+- **Promo link (affiliate):** https://energetic-eternity.de/produkt/silent-subliminals-gesundheit/?aff=adminstore#aff=adminstore
 - Sales page: https://energetic-eternity.de/produkt/silent-subliminals-gesundheit/
 - Vendor affiliate support: https://energetic-eternity.de/affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/421455/adminstore
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Silent Subliminals Gesundheit - Deine Vitalität stärken? — Typ: Downloads, Anbieter: EnergeticTernity, gelistet seit 2021-12-20
-- Wie viel kostet es? — 266.51031600000005 USD
+- Wie viel kostet es? — 266.677168 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Silent Subliminals Gesundheit - Deine Vitalität stärken Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/421455
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/421455/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Silent%20Subliminals%20Gesundheit%20-%20Deine%20Vitalit%C3%A4t%20st%C3%A4rken
 
 ## 4. Editorial notes

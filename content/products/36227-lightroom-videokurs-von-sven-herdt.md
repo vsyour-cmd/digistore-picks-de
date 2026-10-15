@@ -4,7 +4,7 @@ digistore24_product_id: 381498
 title: "Lightroom Videokurs von Sven Herdt"
 vendor: "SvenHerdt"
 product_type: "Downloads"
-price: 37.49
+price: 37.51
 currency: "USD"
 affiliate_commission_pct: 33
 earnings_per_sale: 12.37
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Photography & Film"]
 listed_since: "2021-03-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/36227/adminstore/"
+promo_link: "https://svenherdt.com/lightroom-videokurs/?aff=adminstore#aff=adminstore"
 sales_page: "https://svenherdt.com/lightroom-videokurs/"
 language: "de"
 ---
 # Lightroom Videokurs von Sven Herdt
 
 > Product ID `36227` · Digistore24 productId `381498` · [HTML profile page](../../produkte/lightroom-videokurs-von-sven-herdt-36227.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $37.49 (Single payment) |
+| Price | $37.51 (Single payment) |
 | Affiliate commission | 33% |
 | Earnings/sale* | $12.37 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/36227/adminstore/
+- **Promo link (affiliate):** https://svenherdt.com/lightroom-videokurs/?aff=adminstore#aff=adminstore
 - Sales page: https://svenherdt.com/lightroom-videokurs/
 - Canonical redirect: https://www.digistore24.com/redir/381498/adminstore
 
@@ -77,14 +77,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Lightroom Videokurs von Sven Herdt? — Typ: Downloads, Anbieter: SvenHerdt, gelistet seit 2021-03-29
-- Wie viel kostet es? — 37.489893 USD
+- Wie viel kostet es? — 37.513364 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Lightroom Videokurs von Sven Herdt Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/381498
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/381498/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Lightroom%20Videokurs%20von%20Sven%20Herdt
 
 ## 4. Editorial notes

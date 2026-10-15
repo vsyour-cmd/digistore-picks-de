@@ -4,7 +4,7 @@ digistore24_product_id: 590509
 title: "Print on Demand, Verkaufen auf Etsy und Amazon, POD"
 vendor: "Cansoul"
 product_type: "Downloads"
-price: 23.49
+price: 23.51
 currency: "USD"
 affiliate_commission_pct: 0
 earnings_per_sale: 5.59
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media","Online Marketing"]
 listed_since: "2025-01-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/50959/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/590509?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/590509"
 language: "de"
 ---
 # Print on Demand, Verkaufen auf Etsy und Amazon, POD
 
 > Product ID `50959` · Digistore24 productId `590509` · [HTML profile page](../../produkte/print-on-demand-verkaufen-auf-etsy-und-amazon-pod-50959.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $23.49 (Single payment) |
+| Price | $23.51 (Single payment) |
 | Affiliate commission | 0% |
 | Earnings/sale* | $5.59 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/50959/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/590509?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/590509
 - Canonical redirect: https://www.digistore24.com/redir/590509/adminstore
 
@@ -77,14 +77,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Print on Demand, Verkaufen auf Etsy und Amazon, POD? — Typ: Downloads, Anbieter: Cansoul, gelistet seit 2025-01-15
-- Wie viel kostet es? — 23.491281000000004 USD
+- Wie viel kostet es? — 23.505988000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Print on Demand, Verkaufen auf Etsy und Amazon, POD Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/590509
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/590509/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Print%20on%20Demand%2C%20Verkaufen%20auf%20Etsy%20und%20Amazon%2C%20POD
 
 ## 4. Editorial notes

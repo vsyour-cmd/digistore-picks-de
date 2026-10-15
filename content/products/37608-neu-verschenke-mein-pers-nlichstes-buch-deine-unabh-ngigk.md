@@ -12,8 +12,8 @@ cart_conversion_pct: 8
 cancel_rate_pct: 2.53
 categories: ["Personal Development"]
 listed_since: "2021-08-11"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/redir/402184/adminstore"
 sales_page: "https://www.thomasklussmann.de/buch/unabhaengigkeitserklaerung/?utm_source=Digistore24&utm_medium=Affiliate&utm_campaign=Aff%3A%20[AFFILIATE]&utm_content=Cam%3A%20[CAMPAIGNKEY]&dbtr=aff_[AFFILIATE]"
@@ -22,7 +22,7 @@ language: "de"
 # [NEU] Verschenke mein persönlichstes Buch “Deine Unabhängigk
 
 > Product ID `37608` · Digistore24 productId `402184` · [HTML profile page](../../produkte/neu-verschenke-mein-pers-nlichstes-buch-deine-unabh-ngigk-37608.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -84,14 +84,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist [NEU] Verschenke mein persönlichstes Buch “Deine Unabhängigk? — Typ: Book (printed), Anbieter: digitalbeat, gelistet seit 2021-08-11
-- Wie viel kostet es? — 6.339627 USD
+- Wie viel kostet es? — 6.343596 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: [NEU] Verschenke mein persönlichstes Buch “Deine Unabhängigk Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/402184
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/402184/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=%5BNEU%5D%20Verschenke%20mein%20pers%C3%B6nlichstes%20Buch%20%E2%80%9CDeine%20Unabh%C3%A4ngigk
 
 ## 4. Editorial notes

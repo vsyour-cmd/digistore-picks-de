@@ -4,32 +4,32 @@ digistore24_product_id: 581795
 title: "MADEIRA: Madeira Bildband [E-Book]"
 vendor: "rheinrost"
 product_type: "E-books"
-price: 13.08
+price: 13.09
 currency: "USD"
 affiliate_commission_pct: 35
 earnings_per_sale: 2.95
 cart_conversion_pct: 43
 cancel_rate_pct: 0.94
-categories: ["Hobby & Craft","Photography & Film","Travel & Culture"]
+categories: ["Travel & Culture","Hobby & Craft","Photography & Film"]
 listed_since: "2024-11-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/50487/adminstore/"
+promo_link: "https://www.unaufschiebbar.de/madeira-bildband/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.unaufschiebbar.de/madeira-bildband/"
 language: "de"
 ---
 # MADEIRA: Madeira Bildband [E-Book]
 
 > Product ID `50487` · Digistore24 productId `581795` · [HTML profile page](../../produkte/madeira-madeira-bildband-e-book-50487.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $13.08 (Single payment) |
+| Price | $13.09 (Single payment) |
 | Affiliate commission | 35% |
 | Earnings/sale* | $2.95 |
 | Cart conversion* | 43% |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | rheinrost |
 | Listed since | 2024-11-20 |
 | Auto-accept affiliates | yes |
-| Categories | Hobby & Craft, Photography & Film, Travel & Culture |
+| Categories | Travel & Culture, Hobby & Craft, Photography & Film |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/50487/adminstore/
+- **Promo link (affiliate):** https://www.unaufschiebbar.de/madeira-bildband/?aff=adminstore#aff=adminstore
 - Sales page: https://www.unaufschiebbar.de/madeira-bildband/
 - Vendor affiliate support: https://www.unaufschiebbar.de/partner/
 - Canonical redirect: https://www.digistore24.com/redir/581795/adminstore
@@ -80,14 +80,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist MADEIRA: Madeira Bildband [E-Book]? — Typ: E-books, Anbieter: rheinrost, gelistet seit 2024-11-20
-- Wie viel kostet es? — 13.08177 USD
+- Wie viel kostet es? — 13.08996 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: MADEIRA: Madeira Bildband [E-Book] Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/581795
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/581795/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=MADEIRA%3A%20Madeira%20Bildband%20%5BE-Book%5D
 
 ## 4. Editorial notes

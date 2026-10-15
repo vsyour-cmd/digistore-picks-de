@@ -4,34 +4,34 @@ digistore24_product_id: 273107
 title: "Yoga-Präventionskurs als Onlinekurs"
 vendor: "KatiBloedorn"
 product_type: "Downloads"
-price: 57.32
+price: 57.36
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 31.73
+earnings_per_sale: 31.75
 cart_conversion_pct: 23
 cancel_rate_pct: 3.06
 categories: ["Health & Fitness"]
 listed_since: "2019-05-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/redir/31653/adminstore/"
+promo_link: "https://www.praeventionskurse-online.de/hatha-yoga-aktive-entspannung-und-stressbewaeltigung-onlinekurs/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.praeventionskurse-online.de/hatha-yoga-aktive-entspannung-und-stressbewaeltigung-onlinekurs/"
 language: "de"
 ---
 # Yoga-Präventionskurs als Onlinekurs
 
 > Product ID `31653` · Digistore24 productId `273107` · [HTML profile page](../../produkte/yoga-pr-ventionskurs-als-onlinekurs-31653.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $57.32 (Single payment) |
+| Price | $57.36 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $31.73 |
+| Earnings/sale* | $31.75 |
 | Cart conversion* | 23% |
 | Cancel rate* | 3.06% |
 | Vendor | KatiBloedorn |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/redir/31653/adminstore/
+- **Promo link (affiliate):** https://www.praeventionskurse-online.de/hatha-yoga-aktive-entspannung-und-stressbewaeltigung-onlinekurs/?aff=adminstore#aff=adminstore
 - Sales page: https://www.praeventionskurse-online.de/hatha-yoga-aktive-entspannung-und-stressbewaeltigung-onlinekurs/
 - Vendor affiliate support: https://www.praeventionskurse-online.de/affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/273107/adminstore
@@ -83,14 +83,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Yoga-Präventionskurs als Onlinekurs? — Typ: Downloads, Anbieter: KatiBloedorn, gelistet seit 2019-05-24
-- Wie viel kostet es? — 57.32498700000001 USD
+- Wie viel kostet es? — 57.360876000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Yoga-Präventionskurs als Onlinekurs Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/273107
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/273107/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Yoga-Pr%C3%A4ventionskurs%20als%20Onlinekurs
 
 ## 4. Editorial notes

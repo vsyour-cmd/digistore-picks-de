@@ -4,7 +4,7 @@ digistore24_product_id: 87693
 title: "Online Briefmarken Katalog Deutschland 14 Tage-Laufzeit"
 vendor: "abartl"
 product_type: "Software"
-price: 4.68
+price: 4.69
 currency: "USD"
 affiliate_commission_pct: 25
 earnings_per_sale: 1.17
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft"]
 listed_since: "2016-07-13"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://rund-um-briefmarken.de/lp-hp/?aff=adminstore#aff=adminstore"
 sales_page: "https://rund-um-briefmarken.de/lp-hp/"
@@ -22,14 +22,14 @@ language: "de"
 # Online Briefmarken Katalog Deutschland 14 Tage-Laufzeit
 
 > Product ID `2951` · Digistore24 productId `87693` · [HTML profile page](../../produkte/online-briefmarken-katalog-deutschland-14-tage-laufzeit-2951.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $4.68 (Single payment) |
+| Price | $4.69 (Single payment) |
 | Affiliate commission | 25% |
 | Earnings/sale* | $1.17 |
 | Cart conversion* | — |
@@ -73,14 +73,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online Briefmarken Katalog Deutschland 14 Tage-Laufzeit? — Typ: Software, Anbieter: abartl, gelistet seit 2016-07-13
-- Wie viel kostet es? — 4.684839000000001 USD
+- Wie viel kostet es? — 4.687772000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Online Briefmarken Katalog Deutschland 14 Tage-Laufzeit Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/87693
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/87693/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Online%20Briefmarken%20Katalog%20Deutschland%2014%20Tage-Laufzeit
 
 ## 4. Editorial notes

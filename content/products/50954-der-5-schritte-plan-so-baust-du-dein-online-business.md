@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2025-01-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://page.funnelcockpit.com/nbSXRKsiihQ7Wyoov?aff=adminstore#aff=adminstore"
 sales_page: "https://page.funnelcockpit.com/nbSXRKsiihQ7Wyoov"
@@ -22,7 +22,7 @@ language: "de"
 # Der 5 Schritte Plan: So baust du dein Online Business
 
 > Product ID `50954` · Digistore24 productId `589441` · [HTML profile page](../../produkte/der-5-schritte-plan-so-baust-du-dein-online-business-50954.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -66,7 +66,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Der 5 Schritte Plan: So baust du dein Online Business Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/589441
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/589441/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%205%20Schritte%20Plan%3A%20So%20baust%20du%20dein%20Online%20Business
 
 ## 4. Editorial notes

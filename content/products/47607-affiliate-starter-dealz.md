@@ -12,17 +12,17 @@ cart_conversion_pct: 25
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2023-02-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/47607/adminstore/"
+promo_link: "https://www.profitbuddies.de/affiliate-starter-dealz?aff=adminstore#aff=adminstore"
 sales_page: "https://www.profitbuddies.de/affiliate-starter-dealz"
 language: "de"
 ---
 # Affiliate Starter Dealz
 
 > Product ID `47607` · Digistore24 productId `485752` · [HTML profile page](../../produkte/affiliate-starter-dealz-47607.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/47607/adminstore/
+- **Promo link (affiliate):** https://www.profitbuddies.de/affiliate-starter-dealz?aff=adminstore#aff=adminstore
 - Sales page: https://www.profitbuddies.de/affiliate-starter-dealz
 - Vendor affiliate support: https://www.profitbuddies.de/partnerprogramm?utm_source=digistore24&utm_medium=referral&utm_campaign=partnerprogramm-marktplatz
 - Canonical redirect: https://www.digistore24.com/redir/485752/adminstore
@@ -73,14 +73,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Affiliate Starter Dealz? — Typ: Member area and video courses, Anbieter: profitbuddies, gelistet seit 2023-02-22
-- Wie viel kostet es? — 1.7218740000000001 USD
+- Wie viel kostet es? — 1.722952 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Affiliate Starter Dealz Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/485752
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/485752/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Affiliate%20Starter%20Dealz
 
 ## 4. Editorial notes

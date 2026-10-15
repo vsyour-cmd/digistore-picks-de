@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2022-05-31"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/40321/adminstore/"
+promo_link: "https://www.javidhoffmann.de/gratis-buch?aff=adminstore#aff=adminstore"
 sales_page: "https://www.javidhoffmann.de/gratis-buch"
 language: "de"
 ---
 # [GRATIS BUCH] COACHING MILLIONÄR
 
 > Product ID `40321` · Digistore24 productId `445024` · [HTML profile page](../../produkte/gratis-buch-coaching-million-r-40321.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/40321/adminstore/
+- **Promo link (affiliate):** https://www.javidhoffmann.de/gratis-buch?aff=adminstore#aff=adminstore
 - Sales page: https://www.javidhoffmann.de/gratis-buch
 - Vendor affiliate support: https://www.javidhoffmann.de/buch-affiliate
 - Canonical redirect: https://www.digistore24.com/redir/445024/adminstore
@@ -77,7 +77,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: [GRATIS BUCH] COACHING MILLIONÄR Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/445024
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/445024/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=%5BGRATIS%20BUCH%5D%20COACHING%20MILLION%C3%84R
 
 ## 4. Editorial notes

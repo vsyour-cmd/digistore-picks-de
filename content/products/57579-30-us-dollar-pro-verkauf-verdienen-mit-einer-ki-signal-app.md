@@ -10,19 +10,19 @@ affiliate_commission_pct: 0
 earnings_per_sale: 30
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Software","Trading Products","Finances"]
+categories: ["Trading Products","Software","Finances"]
 listed_since: "2026-07-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/57579/adminstore/"
+promo_link: "https://btcbeep.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://btcbeep.com/"
 language: "de"
 ---
 # 30 $ US Dollar pro Verkauf verdienen mit einer KI Signal App
 
 > Product ID `57579` · Digistore24 productId `713919` · [HTML profile page](../../produkte/30-us-dollar-pro-verkauf-verdienen-mit-einer-ki-signal-app-57579.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | btcbeep |
 | Listed since | 2026-07-17 |
 | Auto-accept affiliates | yes |
-| Categories | Software, Trading Products, Finances |
+| Categories | Trading Products, Software, Finances |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/57579/adminstore/
+- **Promo link (affiliate):** https://btcbeep.com/?aff=adminstore#aff=adminstore
 - Sales page: https://btcbeep.com/
 - Vendor affiliate support: https://btcbeep.com/affiliate.php
 - Canonical redirect: https://www.digistore24.com/redir/713919/adminstore
@@ -104,7 +104,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 30 $ US Dollar pro Verkauf verdienen mit einer KI Signal App Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/713919
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/713919/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=30%20%24%20US%20Dollar%20pro%20Verkauf%20verdienen%20mit%20einer%20KI%20Signal%20App
 
 ## 4. Editorial notes

@@ -4,34 +4,34 @@ digistore24_product_id: 613426
 title: "Entspannung auf Knopfdruck - zert. PMR Präventionskurs"
 vendor: "glueckwaerts"
 product_type: "Member area and video courses"
-price: 93.01
+price: 93.07
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 37.21
+earnings_per_sale: 37.23
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2025-05-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/53109/adminstore/"
+promo_link: "https://www.glueckwaerts.com/anmeldung-otcoachy?aff=adminstore#aff=adminstore"
 sales_page: "https://www.glueckwaerts.com/anmeldung-otcoachy"
 language: "de"
 ---
 # Entspannung auf Knopfdruck - zert. PMR Präventionskurs
 
 > Product ID `53109` · Digistore24 productId `613426` · [HTML profile page](../../produkte/entspannung-auf-knopfdruck-zert-pmr-pr-ventionskurs-53109.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $93.01 (Single payment, Installment) |
+| Price | $93.07 (Single payment, Installment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $37.21 |
+| Earnings/sale* | $37.23 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | glueckwaerts |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/53109/adminstore/
+- **Promo link (affiliate):** https://www.glueckwaerts.com/anmeldung-otcoachy?aff=adminstore#aff=adminstore
 - Sales page: https://www.glueckwaerts.com/anmeldung-otcoachy
 - Vendor affiliate support: https://www.glueckwaerts.com/affiliate
 - Canonical redirect: https://www.digistore24.com/redir/613426/adminstore
@@ -100,14 +100,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Entspannung auf Knopfdruck - zert. PMR Präventionskurs? — Typ: Member area and video courses, Anbieter: glueckwaerts, gelistet seit 2025-05-18
-- Wie viel kostet es? — 93.014739 USD
+- Wie viel kostet es? — 93.072972 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Entspannung auf Knopfdruck - zert. PMR Präventionskurs Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/613426
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/613426/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Entspannung%20auf%20Knopfdruck%20-%20zert.%20PMR%20Pr%C3%A4ventionskurs
 
 ## 4. Editorial notes

@@ -4,34 +4,34 @@ digistore24_product_id: 673543
 title: "DFS - Das Frauen Freiheitssystem"
 vendor: "online-sales"
 product_type: "Member area and video courses"
-price: 338.25
+price: 338.46
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 202.95
+earnings_per_sale: 203.07
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media"]
 listed_since: "2026-03-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/55855/adminstore/"
+promo_link: "https://www.frauensystem.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.frauensystem.de/"
 language: "de"
 ---
 # DFS - Das Frauen Freiheitssystem
 
 > Product ID `55855` · Digistore24 productId `673543` · [HTML profile page](../../produkte/dfs-das-frauen-freiheitssystem-55855.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $338.25 (Single payment, Installment) |
+| Price | $338.46 (Single payment, Installment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $202.95 |
+| Earnings/sale* | $203.07 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | online-sales |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55855/adminstore/
+- **Promo link (affiliate):** https://www.frauensystem.de/?aff=adminstore#aff=adminstore
 - Sales page: https://www.frauensystem.de/
 - Canonical redirect: https://www.digistore24.com/redir/673543/adminstore
 
@@ -66,14 +66,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist DFS - Das Frauen Freiheitssystem? — Typ: Member area and video courses, Anbieter: online-sales, gelistet seit 2026-03-05
-- Wie viel kostet es? — 338.247612 USD
+- Wie viel kostet es? — 338.45937599999996 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: DFS - Das Frauen Freiheitssystem Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/673543
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/673543/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=DFS%20-%20Das%20Frauen%20Freiheitssystem
 
 ## 4. Editorial notes

@@ -7,13 +7,13 @@ product_type: "E-books"
 price: 5.18
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 1.55
+earnings_per_sale: 1.56
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Real Estate","Marketing Services"]
+categories: ["Education","Marketing Services","Real Estate"]
 listed_since: "2026-08-10"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
 promo_link: "https://wissenskinder.my.canva.site/grenzblick-drogenlabor-im-mietshaus?aff=adminstore#aff=adminstore"
 sales_page: "https://wissenskinder.my.canva.site/grenzblick-drogenlabor-im-mietshaus"
@@ -22,7 +22,7 @@ language: "de"
 # Das Drogen-Labor in der Nachbarschaft erkennen
 
 > Product ID `58256` · Digistore24 productId `717533` · [HTML profile page](../../produkte/das-drogen-labor-in-der-nachbarschaft-erkennen-58256.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,13 +31,13 @@ language: "de"
 | Product type | E-books |
 | Price | $5.18 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $1.55 |
+| Earnings/sale* | $1.56 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | wissenskind |
 | Listed since | 2026-08-10 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Real Estate, Marketing Services |
+| Categories | Education, Marketing Services, Real Estate |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -60,14 +60,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Drogen-Labor in der Nachbarschaft erkennen? — Typ: E-books, Anbieter: wissenskind, gelistet seit 2026-08-10
-- Wie viel kostet es? — 5.1768030000000005 USD
+- Wie viel kostet es? — 5.180044 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Das Drogen-Labor in der Nachbarschaft erkennen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/717533
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/717533/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Das%20Drogen-Labor%20in%20der%20Nachbarschaft%20erkennen
 
 ## 4. Editorial notes

@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2025-05-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/54863/adminstore/"
+promo_link: "https://www.online-marketing-woman.de/55-der-ultimative-seo-leitfaden-anmeldung?aff=adminstore#aff=adminstore"
 sales_page: "https://www.online-marketing-woman.de/55-der-ultimative-seo-leitfaden-anmeldung"
 language: "de"
 ---
 # Bewirb das Freebie "SEO-Leitfaden". Profitiere von 3 Upsells
 
 > Product ID `54863` · Digistore24 productId `611758` · [HTML profile page](../../produkte/bewirb-das-freebie-seo-leitfaden-profitiere-von-3-upsells-54863.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/54863/adminstore/
+- **Promo link (affiliate):** https://www.online-marketing-woman.de/55-der-ultimative-seo-leitfaden-anmeldung?aff=adminstore#aff=adminstore
 - Sales page: https://www.online-marketing-woman.de/55-der-ultimative-seo-leitfaden-anmeldung
 - Vendor affiliate support: https://www.online-marketing-woman.de/55-59-60-61-affiliate-support-seite
 - Canonical redirect: https://www.digistore24.com/redir/611758/adminstore
@@ -88,7 +88,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Bewirb das Freebie "SEO-Leitfaden". Profitiere von 3 Upsells Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/611758
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/611758/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Bewirb%20das%20Freebie%20%22SEO-Leitfaden%22.%20Profitiere%20von%203%20Upsells
 
 ## 4. Editorial notes

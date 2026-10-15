@@ -4,7 +4,7 @@ digistore24_product_id: 93721
 title: "Bedienungsanleitung für Kinder"
 vendor: "NadjaHorlacher"
 product_type: "Downloads"
-price: 14
+price: 14.01
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 7
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2016-09-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.checkout-ds24.com/redir/12977/adminstore/"
+promo_link: "https://nadjahorlacher.com/bedienungsanleitung-fuer-kinder/?aff=adminstore#aff=adminstore"
 sales_page: "https://nadjahorlacher.com/bedienungsanleitung-fuer-kinder/"
 language: "de"
 ---
 # Bedienungsanleitung für Kinder
 
 > Product ID `12977` · Digistore24 productId `93721` · [HTML profile page](../../produkte/bedienungsanleitung-f-r-kinder-12977.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $14.00 (Single payment) |
+| Price | $14.01 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $7.00 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/redir/12977/adminstore/
+- **Promo link (affiliate):** https://nadjahorlacher.com/bedienungsanleitung-fuer-kinder/?aff=adminstore#aff=adminstore
 - Sales page: https://nadjahorlacher.com/bedienungsanleitung-fuer-kinder/
 - Vendor affiliate support: https://www.facebook.com/groups/digitalmarketingmitnadjahorlacher
 - Canonical redirect: https://www.digistore24.com/redir/93721/adminstore
@@ -59,14 +59,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Bedienungsanleitung für Kinder? — Typ: Downloads, Anbieter: NadjaHorlacher, gelistet seit 2016-09-01
-- Wie viel kostet es? — 13.998612000000001 USD
+- Wie viel kostet es? — 14.007375999999999 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Bedienungsanleitung für Kinder Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/93721
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/93721/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Bedienungsanleitung%20f%C3%BCr%20Kinder
 
 ## 4. Editorial notes

@@ -10,10 +10,10 @@ affiliate_commission_pct: 0
 earnings_per_sale: 5.59
 cart_conversion_pct: 45
 cancel_rate_pct: 4.02
-categories: ["Family & Children","Personal Development"]
+categories: ["Personal Development","Family & Children"]
 listed_since: "2020-05-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://buch.bodoschaefer.de/ein-hund-namens-money/?aff=adminstore#aff=adminstore"
 sales_page: "https://buch.bodoschaefer.de/ein-hund-namens-money/"
@@ -22,7 +22,7 @@ language: "de"
 # "Ein Hund Namens Money" von Bodo Schäfer
 
 > Product ID `45110` · Digistore24 productId `327088` · [HTML profile page](../../produkte/ein-hund-namens-money-von-bodo-sch-fer-45110.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | BodoSchaefer |
 | Listed since | 2020-05-17 |
 | Auto-accept affiliates | no (approval required) |
-| Categories | Family & Children, Personal Development |
+| Categories | Personal Development, Family & Children |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -71,14 +71,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist "Ein Hund Namens Money" von Bodo Schäfer? — Typ: Book (printed), Anbieter: BodoSchaefer, gelistet seit 2020-05-17
-- Wie viel kostet es? — 7.290012 USD
+- Wie viel kostet es? — 7.294575999999999 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: "Ein Hund Namens Money" von Bodo Schäfer Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/327088
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/327088/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=%22Ein%20Hund%20Namens%20Money%22%20von%20Bodo%20Sch%C3%A4fer
 
 ## 4. Editorial notes

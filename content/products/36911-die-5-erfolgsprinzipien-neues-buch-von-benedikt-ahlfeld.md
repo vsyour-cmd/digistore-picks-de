@@ -12,17 +12,17 @@ cart_conversion_pct: 28
 cancel_rate_pct: 0.41
 categories: ["Personal Development"]
 listed_since: "2021-05-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.rainbow-web.com#aff=adminstore"
+promo_link: "https://www.benediktahlfeld.com/erfolgsprinzipien-printbuch?aff=adminstore#aff=adminstore"
 sales_page: "https://www.benediktahlfeld.com/erfolgsprinzipien-printbuch"
 language: "de"
 ---
 # "Die 5 Erfolgsprinzipien" - neues Buch von Benedikt Ahlfeld
 
 > Product ID `36911` · Digistore24 productId `391150` · [HTML profile page](../../produkte/die-5-erfolgsprinzipien-neues-buch-von-benedikt-ahlfeld-36911.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.rainbow-web.com#aff=adminstore
+- **Promo link (affiliate):** https://www.benediktahlfeld.com/erfolgsprinzipien-printbuch?aff=adminstore#aff=adminstore
 - Sales page: https://www.benediktahlfeld.com/erfolgsprinzipien-printbuch
 - Vendor affiliate support: https://partner.zhi-training.com/
 - Canonical redirect: https://www.digistore24.com/redir/391150/adminstore
@@ -76,14 +76,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist "Die 5 Erfolgsprinzipien" - neues Buch von Benedikt Ahlfeld? — Typ: Book (printed), Anbieter: trafficoftrust, gelistet seit 2021-05-23
-- Wie viel kostet es? — 8.575827 USD
+- Wie viel kostet es? — 8.581196 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: "Die 5 Erfolgsprinzipien" - neues Buch von Benedikt Ahlfeld Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/391150
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/391150/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=%22Die%205%20Erfolgsprinzipien%22%20-%20neues%20Buch%20von%20Benedikt%20Ahlfeld
 
 ## 4. Editorial notes

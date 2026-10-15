@@ -10,19 +10,19 @@ affiliate_commission_pct: 80
 earnings_per_sale: 28.82
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Personal Development"]
+categories: ["Personal Development","Education"]
 listed_since: "2026-05-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/56633/adminstore/"
+promo_link: "https://academy.e-ducation.cloud/course/daten-verstehen-auswerten?aff=adminstore#aff=adminstore"
 sales_page: "https://academy.e-ducation.cloud/course/daten-verstehen-auswerten"
 language: "de"
 ---
 # Daten lesen, verstehen und auswerten für Lehrlinge/Azubis
 
 > Product ID `56633` · Digistore24 productId `694254` · [HTML profile page](../../produkte/daten-lesen-verstehen-und-auswerten-f-r-lehrlinge-azubis-56633.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | Mathecloud |
 | Listed since | 2026-05-20 |
 | Auto-accept affiliates | no (approval required) |
-| Categories | Education, Personal Development |
+| Categories | Personal Development, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56633/adminstore/
+- **Promo link (affiliate):** https://academy.e-ducation.cloud/course/daten-verstehen-auswerten?aff=adminstore#aff=adminstore
 - Sales page: https://academy.e-ducation.cloud/course/daten-verstehen-auswerten
 - Vendor affiliate support: https://success.e-ducation.cloud/Mathecloud-MBA-affiliate-support/
 - Canonical redirect: https://www.digistore24.com/redir/694254/adminstore
@@ -95,7 +95,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Daten lesen, verstehen und auswerten für Lehrlinge/Azubis Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/694254
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/694254/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Daten%20lesen%2C%20verstehen%20und%20auswerten%20f%C3%BCr%20Lehrlinge%2FAzubis
 
 ## 4. Editorial notes

@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Profession & Job","Finances"]
 listed_since: "2026-03-31"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/56141/adminstore/"
+promo_link: "https://heikoboos.com/der-1-000e-notfallpuffer-blueprint-ds24?aff=adminstore#aff=adminstore"
 sales_page: "https://heikoboos.com/der-1-000e-notfallpuffer-blueprint-ds24"
 language: "de"
 ---
 # 1000€ Notfallpuffer Blueprint | 5-Produkte | 50% Provision
 
 > Product ID `56141` · Digistore24 productId `680962` · [HTML profile page](../../produkte/1000-notfallpuffer-blueprint-5-produkte-50-provision-56141.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56141/adminstore/
+- **Promo link (affiliate):** https://heikoboos.com/der-1-000e-notfallpuffer-blueprint-ds24?aff=adminstore#aff=adminstore
 - Sales page: https://heikoboos.com/der-1-000e-notfallpuffer-blueprint-ds24
 - Vendor affiliate support: https://heikoboos.com/notfallpuffer-bis-einkommensquellen-affiliate-support-ds24
 - Canonical redirect: https://www.digistore24.com/redir/680962/adminstore
@@ -95,7 +95,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 1000€ Notfallpuffer Blueprint | 5-Produkte | 50% Provision Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/680962
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/680962/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=1000%E2%82%AC%20Notfallpuffer%20Blueprint%20%7C%205-Produkte%20%7C%2050%25%20Provision
 
 ## 4. Editorial notes

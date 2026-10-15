@@ -4,16 +4,16 @@ digistore24_product_id: 693024
 title: "Affiliate Review System"
 vendor: "MachtundNussbaumGbR"
 product_type: "Software"
-price: 185.1
+price: 185.22
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 92.56
+earnings_per_sale: 92.61
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Online Marketing & E-Business","Software"]
+categories: ["Software","Online Marketing & E-Business"]
 listed_since: "2026-05-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.imhub.de/lp/affiliatereviewsystem?aff=adminstore#aff=adminstore"
 sales_page: "https://www.imhub.de/lp/affiliatereviewsystem"
@@ -22,22 +22,22 @@ language: "de"
 # Affiliate Review System
 
 > Product ID `56636` · Digistore24 productId `693024` · [HTML profile page](../../produkte/affiliate-review-system-56636.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $185.10 (Single payment) |
+| Price | $185.22 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $92.56 |
+| Earnings/sale* | $92.61 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MachtundNussbaumGbR |
 | Listed since | 2026-05-21 |
 | Auto-accept affiliates | yes |
-| Categories | Online Marketing & E-Business, Software |
+| Categories | Software, Online Marketing & E-Business |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -100,14 +100,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Affiliate Review System? — Typ: Software, Anbieter: MachtundNussbaumGbR, gelistet seit 2026-05-21
-- Wie viel kostet es? — 185.10145500000002 USD
+- Wie viel kostet es? — 185.21734 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Affiliate Review System Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/693024
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/693024/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Affiliate%20Review%20System
 
 ## 4. Editorial notes

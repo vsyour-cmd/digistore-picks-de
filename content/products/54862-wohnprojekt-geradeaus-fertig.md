@@ -4,16 +4,16 @@ digistore24_product_id: 653624
 title: "Wohnprojekt. Geradeaus. Fertig."
 vendor: "BaukeinScheiss"
 product_type: "Telephone coaching"
-price: 93.01
+price: 93.07
 currency: "USD"
 affiliate_commission_pct: 95
-earnings_per_sale: 88.36
+earnings_per_sale: 88.42
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Leadership & Management","Project Management","Real Estate"]
+categories: ["Leadership & Management","Real Estate","Project Management"]
 listed_since: "2025-12-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.hofmann-projektmanagement.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.hofmann-projektmanagement.com/"
@@ -22,22 +22,22 @@ language: "de"
 # Wohnprojekt. Geradeaus. Fertig.
 
 > Product ID `54862` · Digistore24 productId `653624` · [HTML profile page](../../produkte/wohnprojekt-geradeaus-fertig-54862.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Telephone coaching |
-| Price | $93.01 (Single payment) |
+| Price | $93.07 (Single payment) |
 | Affiliate commission | 95% |
-| Earnings/sale* | $88.36 |
+| Earnings/sale* | $88.42 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | BaukeinScheiss |
 | Listed since | 2025-12-06 |
 | Auto-accept affiliates | yes |
-| Categories | Leadership & Management, Project Management, Real Estate |
+| Categories | Leadership & Management, Real Estate, Project Management |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -92,14 +92,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Wohnprojekt. Geradeaus. Fertig.? — Typ: Telephone coaching, Anbieter: BaukeinScheiss, gelistet seit 2025-12-06
-- Wie viel kostet es? — 93.014739 USD
+- Wie viel kostet es? — 93.072972 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Wohnprojekt. Geradeaus. Fertig. Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/653624
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/653624/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Wohnprojekt.%20Geradeaus.%20Fertig.
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 578289
 title: "55 % Provision - Ratgeber zur Kapitalbeschaffung für Gründer"
 vendor: "kukkltd"
 product_type: "E-books"
-price: 38.66
+price: 38.69
 currency: "USD"
 affiliate_commission_pct: 55
-earnings_per_sale: 21.27
+earnings_per_sale: 21.28
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Education"]
 listed_since: "2024-11-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://danieldirks.com/der-weg-zum-geld-vsl?aff=adminstore#aff=adminstore"
 sales_page: "https://danieldirks.com/der-weg-zum-geld-vsl"
@@ -22,16 +22,16 @@ language: "de"
 # 55 % Provision - Ratgeber zur Kapitalbeschaffung für Gründer
 
 > Product ID `53275` · Digistore24 productId `578289` · [HTML profile page](../../produkte/55-provision-ratgeber-zur-kapitalbeschaffung-f-r-gr-nder-53275.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $38.66 (Single payment) |
+| Price | $38.69 (Single payment) |
 | Affiliate commission | 55% |
-| Earnings/sale* | $21.27 |
+| Earnings/sale* | $21.28 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | kukkltd |
@@ -89,14 +89,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 55 % Provision - Ratgeber zur Kapitalbeschaffung für Gründer? — Typ: E-books, Anbieter: kukkltd, gelistet seit 2024-11-01
-- Wie viel kostet es? — 38.663898 USD
+- Wie viel kostet es? — 38.688103999999996 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 55 % Provision - Ratgeber zur Kapitalbeschaffung für Gründer Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/578289
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/578289/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=55%20%25%20Provision%20-%20Ratgeber%20zur%20Kapitalbeschaffung%20f%C3%BCr%20Gr%C3%BCnder
 
 ## 4. Editorial notes

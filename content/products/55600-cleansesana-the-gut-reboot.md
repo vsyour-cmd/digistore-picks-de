@@ -4,16 +4,16 @@ digistore24_product_id: 665412
 title: "CleanseSana: The Gut \"Reboot\""
 vendor: "DS24-MySana"
 product_type: "Supplements - health"
-price: 158.27
+price: 158.37
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 106.52
+earnings_per_sale: 106.59
 cart_conversion_pct: 19
 cancel_rate_pct: 5.15
 categories: ["Health & Fitness","Food Supplements"]
 listed_since: "2026-01-30"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://cleansesana.com/cleansesana-pdp-fe?aff=adminstore#aff=adminstore"
 sales_page: "https://cleansesana.com/cleansesana-pdp-fe"
@@ -22,16 +22,16 @@ language: "de"
 # CleanseSana: The Gut "Reboot"
 
 > Product ID `55600` · Digistore24 productId `665412` · [HTML profile page](../../produkte/cleansesana-the-gut-reboot-55600.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $158.27 (Single payment) |
+| Price | $158.37 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $106.52 |
+| Earnings/sale* | $106.59 |
 | Cart conversion* | 19% |
 | Cancel rate* | 5.15% |
 | Vendor | DS24-MySana |
@@ -105,14 +105,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist CleanseSana: The Gut "Reboot"? — Typ: Supplements - health, Anbieter: DS24-MySana, gelistet seit 2026-01-30
-- Wie viel kostet es? — 158.26705500000003 USD
+- Wie viel kostet es? — 158.36614 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: CleanseSana: The Gut "Reboot" Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/665412
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/665412/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=CleanseSana%3A%20The%20Gut%20%22Reboot%22
 
 ## 4. Editorial notes

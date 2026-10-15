@@ -4,7 +4,7 @@ digistore24_product_id: 741244
 title: "Steuererklärung für Rentner leicht gemacht"
 vendor: "ratgeberleichtgemacht"
 product_type: "E-books"
-price: 20.8
+price: 20.81
 currency: "USD"
 affiliate_commission_pct: 40
 earnings_per_sale: 8.32
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Finances"]
 listed_since: "2026-10-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/741244?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/741244"
@@ -22,14 +22,14 @@ language: "de"
 # Steuererklärung für Rentner leicht gemacht
 
 > Product ID `60322` · Digistore24 productId `741244` · [HTML profile page](../../produkte/steuererkl-rung-f-r-rentner-leicht-gemacht-60322.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.80 (Single payment) |
+| Price | $20.81 (Single payment) |
 | Affiliate commission | 40% |
 | Earnings/sale* | $8.32 |
 | Cart conversion* | — |
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Steuererklärung für Rentner leicht gemacht? — Typ: E-books, Anbieter: ratgeberleichtgemacht, gelistet seit 2026-10-07
-- Wie viel kostet es? — 20.796660000000003 USD
+- Wie viel kostet es? — 20.80968 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Steuererklärung für Rentner leicht gemacht Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/741244
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/741244/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Steuererkl%C3%A4rung%20f%C3%BCr%20Rentner%20leicht%20gemacht
 
 ## 4. Editorial notes

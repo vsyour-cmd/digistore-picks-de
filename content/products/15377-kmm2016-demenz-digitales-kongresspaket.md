@@ -4,34 +4,34 @@ digistore24_product_id: 119253
 title: "KMM2016 Demenz - Digitales Kongresspaket"
 vendor: "AMMSpitz"
 product_type: "Member area and video courses"
-price: 117.41
+price: 117.49
 currency: "USD"
 affiliate_commission_pct: 45
-earnings_per_sale: 52.83
+earnings_per_sale: 52.86
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2017-02-12"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/15377/adminstore/"
+promo_link: "https://digitalewelt.spitzen-praevention.com/kmm-demenz/?aff=adminstore#aff=adminstore"
 sales_page: "https://digitalewelt.spitzen-praevention.com/kmm-demenz/"
 language: "de"
 ---
 # KMM2016 Demenz - Digitales Kongresspaket
 
 > Product ID `15377` · Digistore24 productId `119253` · [HTML profile page](../../produkte/kmm2016-demenz-digitales-kongresspaket-15377.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $117.41 (Single payment, Installment) |
+| Price | $117.49 (Single payment, Installment) |
 | Affiliate commission | 45% |
-| Earnings/sale* | $52.83 |
+| Earnings/sale* | $52.86 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | AMMSpitz |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/15377/adminstore/
+- **Promo link (affiliate):** https://digitalewelt.spitzen-praevention.com/kmm-demenz/?aff=adminstore#aff=adminstore
 - Sales page: https://digitalewelt.spitzen-praevention.com/kmm-demenz/
 - Vendor affiliate support: https://digitalewelt.spitzen-praevention.com/partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/119253/adminstore
@@ -93,14 +93,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KMM2016 Demenz - Digitales Kongresspaket? — Typ: Member area and video courses, Anbieter: AMMSpitz, gelistet seit 2017-02-12
-- Wie viel kostet es? — 117.41168100000002 USD
+- Wie viel kostet es? — 117.48518800000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: KMM2016 Demenz - Digitales Kongresspaket Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/119253
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/119253/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=KMM2016%20Demenz%20-%20Digitales%20Kongresspaket
 
 ## 4. Editorial notes

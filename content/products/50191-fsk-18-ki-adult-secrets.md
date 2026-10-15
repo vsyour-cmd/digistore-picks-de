@@ -4,34 +4,34 @@ digistore24_product_id: 576941
 title: "FSK 18 KI - Adult Secrets"
 vendor: "Spekulatius"
 product_type: "Member area and video courses"
-price: 119.32
+price: 119.4
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 59.66
+earnings_per_sale: 59.7
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Online Marketing & E-Business"]
 listed_since: "2024-10-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/50191/adminstore/"
+promo_link: "https://www.meinneuerlifestyle.vip/adultaffiliate/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.meinneuerlifestyle.vip/adultaffiliate/"
 language: "de"
 ---
 # FSK 18 KI - Adult Secrets
 
 > Product ID `50191` · Digistore24 productId `576941` · [HTML profile page](../../produkte/fsk-18-ki-adult-secrets-50191.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $119.32 (Single payment) |
+| Price | $119.40 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $59.66 |
+| Earnings/sale* | $59.70 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Spekulatius |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/50191/adminstore/
+- **Promo link (affiliate):** https://www.meinneuerlifestyle.vip/adultaffiliate/?aff=adminstore#aff=adminstore
 - Sales page: https://www.meinneuerlifestyle.vip/adultaffiliate/
 - Vendor affiliate support: https://www.meinneuerlifestyle.vip/werbemittel-fsk-freebie-2/
 - Canonical redirect: https://www.digistore24.com/redir/576941/adminstore
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist FSK 18 KI - Adult Secrets? — Typ: Member area and video courses, Anbieter: Spekulatius, gelistet seit 2024-10-24
-- Wie viel kostet es? — 119.323632 USD
+- Wie viel kostet es? — 119.398336 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: FSK 18 KI - Adult Secrets Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/576941
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/576941/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=FSK%2018%20KI%20-%20Adult%20Secrets
 
 ## 4. Editorial notes

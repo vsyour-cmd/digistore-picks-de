@@ -4,7 +4,7 @@ digistore24_product_id: 327139
 title: "Der vegane Meal Planner Guide (E-Book)"
 vendor: "Melanie341"
 product_type: "E-books"
-price: 16.76
+price: 16.77
 currency: "USD"
 affiliate_commission_pct: 30
 earnings_per_sale: 5.03
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink"]
 listed_since: "2020-05-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://vegaliferocks.de/vegan-kochen-buch/?aff=adminstore#aff=adminstore"
 sales_page: "https://vegaliferocks.de/vegan-kochen-buch/"
@@ -22,14 +22,14 @@ language: "de"
 # Der vegane Meal Planner Guide (E-Book)
 
 > Product ID `32940` · Digistore24 productId `327139` · [HTML profile page](../../produkte/der-vegane-meal-planner-guide-e-book-32940.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $16.76 (Single payment) |
+| Price | $16.77 (Single payment) |
 | Affiliate commission | 30% |
 | Earnings/sale* | $5.03 |
 | Cart conversion* | — |
@@ -76,14 +76,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der vegane Meal Planner Guide (E-Book)? — Typ: E-books, Anbieter: Melanie341, gelistet seit 2020-05-17
-- Wie viel kostet es? — 16.760319000000003 USD
+- Wie viel kostet es? — 16.770812 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Der vegane Meal Planner Guide (E-Book) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/327139
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/327139/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%20vegane%20Meal%20Planner%20Guide%20(E-Book)
 
 ## 4. Editorial notes

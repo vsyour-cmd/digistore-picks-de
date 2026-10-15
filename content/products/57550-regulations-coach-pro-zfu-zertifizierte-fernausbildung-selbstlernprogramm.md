@@ -4,16 +4,16 @@ digistore24_product_id: 708735
 title: "Regulations Coach Pro – ZFU-zertifizierte Fernausbildung (Selbstlernprogramm)"
 vendor: "diepraxisfamily"
 product_type: "Member area and video courses"
-price: 8352.87
+price: 8358.1
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 223.62
+earnings_per_sale: 223.76
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2026-07-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/708735?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/708735"
@@ -22,16 +22,16 @@ language: "de"
 # Regulations Coach Pro – ZFU-zertifizierte Fernausbildung (Selbstlernprogramm)
 
 > Product ID `57550` · Digistore24 productId `708735` · [HTML profile page](../../produkte/regulations-coach-pro-zfu-zertifizierte-fernausbildung-selbstlernprogramm-57550.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $8352.87 (Single payment) |
+| Price | $8358.10 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $223.62 |
+| Earnings/sale* | $223.76 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | diepraxisfamily |
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Regulations Coach Pro – ZFU-zertifizierte Fernausbildung (Selbstlernprogramm)? — Typ: Member area and video courses, Anbieter: diepraxisfamily, gelistet seit 2026-07-15
-- Wie viel kostet es? — 8352.866679 USD
+- Wie viel kostet es? — 8358.096092 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Regulations Coach Pro – ZFU-zertifizierte Fernausbildung (Selbstlernprogramm) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/708735
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/708735/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Regulations%20Coach%20Pro%20%E2%80%93%20ZFU-zertifizierte%20Fernausbildung%20(Selbstlernprogramm)
 
 ## 4. Editorial notes

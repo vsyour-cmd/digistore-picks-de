@@ -4,16 +4,16 @@ digistore24_product_id: 396802
 title: "Visualisierungs-Checkliste-Videotraining"
 vendor: "Erfolg-Intuitiv"
 product_type: "Member area and video courses"
-price: 35.23
+price: 35.25
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 14.55
+earnings_per_sale: 14.56
 cart_conversion_pct: 17
 cancel_rate_pct: 6.46
 categories: ["Personal Development"]
 listed_since: "2021-07-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://erfolg-intuitiv.de/visualisierungs-checkliste-videotraining-01/?aff=adminstore#aff=adminstore"
 sales_page: "https://erfolg-intuitiv.de/visualisierungs-checkliste-videotraining-01/"
@@ -22,16 +22,16 @@ language: "de"
 # Visualisierungs-Checkliste-Videotraining
 
 > Product ID `40070` · Digistore24 productId `396802` · [HTML profile page](../../produkte/visualisierungs-checkliste-videotraining-40070.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $35.23 (Single payment) |
+| Price | $35.25 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $14.55 |
+| Earnings/sale* | $14.56 |
 | Cart conversion* | 17% |
 | Cancel rate* | 6.46% |
 | Vendor | Erfolg-Intuitiv |
@@ -82,14 +82,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Visualisierungs-Checkliste-Videotraining? — Typ: Member area and video courses, Anbieter: Erfolg-Intuitiv, gelistet seit 2021-07-04
-- Wie viel kostet es? — 35.231331000000004 USD
+- Wie viel kostet es? — 35.253388 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Visualisierungs-Checkliste-Videotraining Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/396802
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/396802/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Visualisierungs-Checkliste-Videotraining
 
 ## 4. Editorial notes

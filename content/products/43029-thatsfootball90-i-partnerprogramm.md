@@ -4,34 +4,34 @@ digistore24_product_id: 481734
 title: "Thatsfootball90 I Partnerprogramm"
 vendor: "Daniele317"
 product_type: "Telephone coaching"
-price: 142.55
+price: 142.64
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 63.94
+earnings_per_sale: 63.98
 cart_conversion_pct: 6
 cancel_rate_pct: 1.44
 categories: ["Betting Systems"]
 listed_since: "2023-01-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/43029/adminstore/"
+promo_link: "https://www.digistore.thatsfootball90x.de?aff=adminstore#aff=adminstore"
 sales_page: "https://www.digistore.thatsfootball90x.de"
 language: "de"
 ---
 # Thatsfootball90 I Partnerprogramm
 
 > Product ID `43029` · Digistore24 productId `481734` · [HTML profile page](../../produkte/thatsfootball90-i-partnerprogramm-43029.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Telephone coaching |
-| Price | $142.55 (Single payment, Installment) |
+| Price | $142.64 (Single payment, Installment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $63.94 |
+| Earnings/sale* | $63.98 |
 | Cart conversion* | 6% |
 | Cancel rate* | 1.44% |
 | Vendor | Daniele317 |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/43029/adminstore/
+- **Promo link (affiliate):** https://www.digistore.thatsfootball90x.de?aff=adminstore#aff=adminstore
 - Sales page: https://www.digistore.thatsfootball90x.de
 - Canonical redirect: https://www.digistore24.com/redir/481734/adminstore
 
@@ -85,14 +85,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Thatsfootball90 I Partnerprogramm? — Typ: Telephone coaching, Anbieter: Daniele317, gelistet seit 2023-01-29
-- Wie viel kostet es? — 142.546569 USD
+- Wie viel kostet es? — 142.635812 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Thatsfootball90 I Partnerprogramm Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/481734
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/481734/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Thatsfootball90%20I%20Partnerprogramm
 
 ## 4. Editorial notes

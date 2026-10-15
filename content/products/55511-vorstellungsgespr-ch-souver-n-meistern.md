@@ -4,32 +4,32 @@ digistore24_product_id: 662786
 title: "Vorstellungsgespräch souverän meistern"
 vendor: "Diveco"
 product_type: "Downloads"
-price: 23.39
+price: 23.41
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 11.7
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Profession & Job","Services"]
+categories: ["Profession & Job","Education","Services"]
 listed_since: "2026-01-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/55511/adminstore/"
+promo_link: "https://heinzbader.com/workbook-vorstellungsgespraech-landingpage/?aff=adminstore#aff=adminstore"
 sales_page: "https://heinzbader.com/workbook-vorstellungsgespraech-landingpage/"
 language: "de"
 ---
 # Vorstellungsgespräch souverän meistern
 
 > Product ID `55511` · Digistore24 productId `662786` · [HTML profile page](../../produkte/vorstellungsgespr-ch-souver-n-meistern-55511.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $23.39 (Single payment) |
+| Price | $23.41 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $11.70 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | Diveco |
 | Listed since | 2026-01-20 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Profession & Job, Services |
+| Categories | Profession & Job, Education, Services |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55511/adminstore/
+- **Promo link (affiliate):** https://heinzbader.com/workbook-vorstellungsgespraech-landingpage/?aff=adminstore#aff=adminstore
 - Sales page: https://heinzbader.com/workbook-vorstellungsgespraech-landingpage/
 - Canonical redirect: https://www.digistore24.com/redir/662786/adminstore
 
@@ -81,14 +81,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Vorstellungsgespräch souverän meistern? — Typ: Downloads, Anbieter: Diveco, gelistet seit 2026-01-20
-- Wie viel kostet es? — 23.390652000000003 USD
+- Wie viel kostet es? — 23.405296000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Vorstellungsgespräch souverän meistern Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/662786
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/662786/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Vorstellungsgespr%C3%A4ch%20souver%C3%A4n%20meistern
 
 ## 4. Editorial notes

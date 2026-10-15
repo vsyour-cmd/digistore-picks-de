@@ -4,34 +4,34 @@ digistore24_product_id: 704756
 title: "AI Band Club™ Starter– KI-Tool für digitale Musikmarken"
 vendor: "smartboostAI"
 product_type: "Software"
-price: 197.31
+price: 197.43
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 59.19
+earnings_per_sale: 59.23
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Computer & Internet","Marketing Services"]
 listed_since: "2026-06-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
-promo_link: "https://www.digistore24.com/redir/57147/adminstore/"
+promo_link: "https://aibandclub.com/ai-band-club-starter-upsell?aff=adminstore#aff=adminstore"
 sales_page: "https://aibandclub.com/ai-band-club-starter-upsell"
 language: "de"
 ---
 # AI Band Club™ Starter– KI-Tool für digitale Musikmarken
 
 > Product ID `57147` · Digistore24 productId `704756` · [HTML profile page](../../produkte/ai-band-club-starter-ki-tool-f-r-digitale-musikmarken-57147.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $197.31 (Subscription, Installment) |
+| Price | $197.43 (Subscription, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $59.19 |
+| Earnings/sale* | $59.23 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | smartboostAI |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/57147/adminstore/
+- **Promo link (affiliate):** https://aibandclub.com/ai-band-club-starter-upsell?aff=adminstore#aff=adminstore
 - Sales page: https://aibandclub.com/ai-band-club-starter-upsell
 - Vendor affiliate support: https://aibandclub.com/affiliate-zugang
 - Canonical redirect: https://www.digistore24.com/redir/704756/adminstore
@@ -70,14 +70,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist AI Band Club™ Starter– KI-Tool für digitale Musikmarken? — Typ: Software, Anbieter: smartboostAI, gelistet seit 2026-06-27
-- Wie viel kostet es? — 197.31110700000002 USD
+- Wie viel kostet es? — 197.434636 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: AI Band Club™ Starter– KI-Tool für digitale Musikmarken Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/704756
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/704756/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=AI%20Band%20Club%E2%84%A2%20Starter%E2%80%93%20KI-Tool%20f%C3%BCr%20digitale%20Musikmarken
 
 ## 4. Editorial notes

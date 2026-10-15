@@ -4,16 +4,16 @@ digistore24_product_id: 531911
 title: "BricsCAD 2D Video-Kurs"
 vendor: "CADDeutschland"
 product_type: "Member area and video courses"
-price: 334.31
+price: 334.52
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 66.86
+earnings_per_sale: 66.9
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2026-06-30"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://cad-video.de/bricscad-2d-channel?aff=adminstore#aff=adminstore"
 sales_page: "https://cad-video.de/bricscad-2d-channel"
@@ -22,16 +22,16 @@ language: "de"
 # BricsCAD 2D Video-Kurs
 
 > Product ID `57310` · Digistore24 productId `531911` · [HTML profile page](../../produkte/bricscad-2d-video-kurs-57310.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $334.31 (Single payment) |
+| Price | $334.52 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $66.86 |
+| Earnings/sale* | $66.90 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | CADDeutschland |
@@ -87,14 +87,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist BricsCAD 2D Video-Kurs? — Typ: Member area and video courses, Anbieter: CADDeutschland, gelistet seit 2026-06-30
-- Wie viel kostet es? — 334.31190000000004 USD
+- Wie viel kostet es? — 334.5212 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: BricsCAD 2D Video-Kurs Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/531911
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/531911/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=BricsCAD%202D%20Video-Kurs
 
 ## 4. Editorial notes

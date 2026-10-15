@@ -4,16 +4,16 @@ digistore24_product_id: 635555
 title: "E-Books für Assistenzen: 10 Praxis-Hacks je Thema, mit Vorlagen-Pack"
 vendor: "rotmary"
 product_type: "E-books"
-price: 30.3
+price: 30.32
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 7.58
+earnings_per_sale: 7.59
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: []
+categories: ["Computer & Internet","Profession & Job","Education"]
 listed_since: "2026-10-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.officetrainings.de/e-books-fuer-assistenzen/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.officetrainings.de/e-books-fuer-assistenzen/"
@@ -22,22 +22,22 @@ language: "de"
 # E-Books für Assistenzen: 10 Praxis-Hacks je Thema, mit Vorlagen-Pack
 
 > Product ID `60394` · Digistore24 productId `635555` · [HTML profile page](../../produkte/e-books-f-r-assistenzen-10-praxis-hacks-je-thema-mit-vorlagen-pack-60394.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $30.30 (Single payment) |
+| Price | $30.32 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $7.58 |
+| Earnings/sale* | $7.59 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | rotmary |
 | Listed since | 2026-10-07 |
 | Auto-accept affiliates | yes |
-| Categories | Uncategorized |
+| Categories | Computer & Internet, Profession & Job, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -74,14 +74,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist E-Books für Assistenzen: 10 Praxis-Hacks je Thema, mit Vorlagen-Pack? — Typ: E-books, Anbieter: rotmary, gelistet seit 2026-10-07
-- Wie viel kostet es? — 30.300510000000003 USD
+- Wie viel kostet es? — 30.319480000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: E-Books für Assistenzen: 10 Praxis-Hacks je Thema, mit Vorlagen-Pack Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/635555
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/635555/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=E-Books%20f%C3%BCr%20Assistenzen%3A%2010%20Praxis-Hacks%20je%20Thema%2C%20mit%20Vorlagen-Pack
 
 ## 4. Editorial notes

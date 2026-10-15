@@ -4,16 +4,16 @@ digistore24_product_id: 727271
 title: "KI Kursportal - Onlinekurs Flatrate mit Schwerpunkt KI"
 vendor: "Ararembe"
 product_type: "Member area and video courses"
-price: 18.8
+price: 18.81
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 7.51
+earnings_per_sale: 7.52
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Computer & Internet","Education","Online Marketing & E-Business"]
+categories: ["Computer & Internet","Online Marketing & E-Business","Education"]
 listed_since: "2026-09-03"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://onlinekurse-von-experten.com/ki-kursportal-salespage/?aff=adminstore#aff=adminstore"
 sales_page: "https://onlinekurse-von-experten.com/ki-kursportal-salespage/"
@@ -22,22 +22,22 @@ language: "de"
 # KI Kursportal - Onlinekurs Flatrate mit Schwerpunkt KI
 
 > Product ID `58892` · Digistore24 productId `727271` · [HTML profile page](../../produkte/ki-kursportal-onlinekurs-flatrate-mit-schwerpunkt-ki-58892.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $18.80 (Subscription) |
+| Price | $18.81 (Subscription) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $7.51 |
+| Earnings/sale* | $7.52 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Ararembe |
 | Listed since | 2026-09-03 |
 | Auto-accept affiliates | yes |
-| Categories | Computer & Internet, Education, Online Marketing & E-Business |
+| Categories | Computer & Internet, Online Marketing & E-Business, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -72,14 +72,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI Kursportal - Onlinekurs Flatrate mit Schwerpunkt KI? — Typ: Member area and video courses, Anbieter: Ararembe, gelistet seit 2026-09-03
-- Wie viel kostet es? — 18.795261 USD
+- Wie viel kostet es? — 18.807028 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: KI Kursportal - Onlinekurs Flatrate mit Schwerpunkt KI Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/727271
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/727271/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=KI%20Kursportal%20-%20Onlinekurs%20Flatrate%20mit%20Schwerpunkt%20KI
 
 ## 4. Editorial notes

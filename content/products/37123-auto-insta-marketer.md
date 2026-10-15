@@ -4,34 +4,34 @@ digistore24_product_id: 268789
 title: "Auto-Insta-Marketer"
 vendor: "Cleriker"
 product_type: "Downloads"
-price: 307.24
+price: 307.44
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 76.81
+earnings_per_sale: 76.86
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2019-04-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/37123/adminstore/"
+promo_link: "https://lp.larspilawski.de/auto-insta-marketer/?aff=adminstore#aff=adminstore"
 sales_page: "https://lp.larspilawski.de/auto-insta-marketer/"
 language: "de"
 ---
 # Auto-Insta-Marketer
 
 > Product ID `37123` · Digistore24 productId `268789` · [HTML profile page](../../produkte/auto-insta-marketer-37123.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $307.24 (Single payment, Subscription) |
+| Price | $307.44 (Single payment, Subscription) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $76.81 |
+| Earnings/sale* | $76.86 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Cleriker |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/37123/adminstore/
+- **Promo link (affiliate):** https://lp.larspilawski.de/auto-insta-marketer/?aff=adminstore#aff=adminstore
 - Sales page: https://lp.larspilawski.de/auto-insta-marketer/
 - Vendor affiliate support: https://vip.larspilawski.de/auto-insta-marketer/index.php?id=332
 - Canonical redirect: https://www.digistore24.com/redir/268789/adminstore
@@ -91,14 +91,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Auto-Insta-Marketer? — Typ: Downloads, Anbieter: Cleriker, gelistet seit 2019-04-21
-- Wie viel kostet es? — 307.2426990000001 USD
+- Wie viel kostet es? — 307.43505200000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Auto-Insta-Marketer Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/268789
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/268789/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Auto-Insta-Marketer
 
 ## 4. Editorial notes

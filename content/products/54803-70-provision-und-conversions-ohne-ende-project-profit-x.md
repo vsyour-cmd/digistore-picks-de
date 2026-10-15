@@ -4,34 +4,34 @@ digistore24_product_id: 649034
 title: "70% Provision und Conversions ohne Ende  Project Profit X"
 vendor: "funnelprofits"
 product_type: "Member area and video courses"
-price: 77.33
+price: 77.38
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 77.2
+earnings_per_sale: 77.25
 cart_conversion_pct: 11
 cancel_rate_pct: 10.92
 categories: ["Computer & Internet","Online Marketing & E-Business"]
 listed_since: "2025-11-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/54803/adminstore/"
+promo_link: "https://www.projectprofitx.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.projectprofitx.com/"
 language: "de"
 ---
 # 70% Provision und Conversions ohne Ende  Project Profit X
 
 > Product ID `54803` · Digistore24 productId `649034` · [HTML profile page](../../produkte/70-provision-und-conversions-ohne-ende-project-profit-x-54803.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $77.33 (Single payment) |
+| Price | $77.38 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $77.20 |
+| Earnings/sale* | $77.25 |
 | Cart conversion* | 11% |
 | Cancel rate* | 10.92% |
 | Vendor | funnelprofits |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/54803/adminstore/
+- **Promo link (affiliate):** https://www.projectprofitx.com/?aff=adminstore#aff=adminstore
 - Sales page: https://www.projectprofitx.com/
 - Vendor affiliate support: https://www.projectprofitx.com/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/649034/adminstore
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 70% Provision und Conversions ohne Ende  Project Profit X? — Typ: Member area and video courses, Anbieter: funnelprofits, gelistet seit 2025-11-17
-- Wie viel kostet es? — 77.327796 USD
+- Wie viel kostet es? — 77.37620799999999 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 70% Provision und Conversions ohne Ende  Project Profit X Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/649034
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/649034/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=70%25%20Provision%20und%20Conversions%20ohne%20Ende%20%20Project%20Profit%20X
 
 ## 4. Editorial notes

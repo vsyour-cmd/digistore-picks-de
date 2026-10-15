@@ -4,40 +4,40 @@ digistore24_product_id: 308228
 title: "Liebeskummer Extrem! | Onlinekurs"
 vendor: "Mariposa75"
 product_type: "Downloads"
-price: 337.31
+price: 337.52
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 118.06
+earnings_per_sale: 118.13
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Dating, Relationships & Romance","Personal Development"]
+categories: ["Personal Development","Dating, Relationships & Romance"]
 listed_since: "2020-02-14"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/40071/adminstore/"
+promo_link: "http://katja-amberg-shop.de/liebeskummerextrem?aff=adminstore#aff=adminstore"
 sales_page: "http://katja-amberg-shop.de/liebeskummerextrem"
 language: "de"
 ---
 # Liebeskummer Extrem! | Onlinekurs
 
 > Product ID `40071` · Digistore24 productId `308228` · [HTML profile page](../../produkte/liebeskummer-extrem-onlinekurs-40071.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $337.31 (Single payment, Installment) |
+| Price | $337.52 (Single payment, Installment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $118.06 |
+| Earnings/sale* | $118.13 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Mariposa75 |
 | Listed since | 2020-02-14 |
 | Auto-accept affiliates | yes |
-| Categories | Dating, Relationships & Romance, Personal Development |
+| Categories | Personal Development, Dating, Relationships & Romance |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/40071/adminstore/
+- **Promo link (affiliate):** http://katja-amberg-shop.de/liebeskummerextrem?aff=adminstore#aff=adminstore
 - Sales page: http://katja-amberg-shop.de/liebeskummerextrem
 - Canonical redirect: https://www.digistore24.com/redir/308228/adminstore
 
@@ -86,14 +86,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Liebeskummer Extrem! | Onlinekurs? — Typ: Downloads, Anbieter: Mariposa75, gelistet seit 2020-02-14
-- Wie viel kostet es? — 337.30840800000004 USD
+- Wie viel kostet es? — 337.519584 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Liebeskummer Extrem! | Onlinekurs Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/308228
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/308228/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Liebeskummer%20Extrem!%20%7C%20Onlinekurs
 
 ## 4. Editorial notes

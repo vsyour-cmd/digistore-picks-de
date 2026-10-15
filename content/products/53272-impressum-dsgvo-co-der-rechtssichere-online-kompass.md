@@ -12,8 +12,8 @@ cart_conversion_pct: 18
 cancel_rate_pct: 2.71
 categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2025-07-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://affiliforge.net/Rechtssicher-im-Onlinebusiness?aff=adminstore#aff=adminstore"
 sales_page: "https://affiliforge.net/Rechtssicher-im-Onlinebusiness"
@@ -22,7 +22,7 @@ language: "de"
 # Impressum, DSGVO - Co - Der rechtssichere Online-Kompass
 
 > Product ID `53272` · Digistore24 productId `625538` · [HTML profile page](../../produkte/impressum-dsgvo-co-der-rechtssichere-online-kompass-53272.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -82,14 +82,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Impressum, DSGVO - Co - Der rechtssichere Online-Kompass? — Typ: Member area and video courses, Anbieter: AffiliForge, gelistet seit 2025-07-23
-- Wie viel kostet es? — 2.448639 USD
+- Wie viel kostet es? — 2.450172 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Impressum, DSGVO - Co - Der rechtssichere Online-Kompass Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/625538
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/625538/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Impressum%2C%20DSGVO%20-%20Co%20-%20Der%20rechtssichere%20Online-Kompass
 
 ## 4. Editorial notes

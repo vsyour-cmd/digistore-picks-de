@@ -4,16 +4,16 @@ digistore24_product_id: 586333
 title: "EngageGorilla - Steigere deine Social Media Reichweite"
 vendor: "sattelitevendor"
 product_type: "Software"
-price: 108.46
+price: 108.52
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 27.11
+earnings_per_sale: 27.13
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media","Online Marketing"]
 listed_since: "2024-12-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://www.digistore24.com/redir/586333/adminstore"
 sales_page: "https://www.engagegorilla.com/?utm_source=[AFFILIATE]&utm_medium={{field_15190}}"
@@ -22,16 +22,16 @@ language: "de"
 # EngageGorilla - Steigere deine Social Media Reichweite
 
 > Product ID `50944` · Digistore24 productId `586333` · [HTML profile page](../../produkte/engagegorilla-steigere-deine-social-media-reichweite-50944.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $108.46 (Subscription) |
+| Price | $108.52 (Subscription) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $27.11 |
+| Earnings/sale* | $27.13 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | sattelitevendor |
@@ -59,14 +59,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist EngageGorilla - Steigere deine Social Media Reichweite? — Typ: Software, Anbieter: sattelitevendor, gelistet seit 2024-12-17
-- Wie viel kostet es? — 108.45570000000001 USD
+- Wie viel kostet es? — 108.5236 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: EngageGorilla - Steigere deine Social Media Reichweite Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/586333
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/586333/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=EngageGorilla%20-%20Steigere%20deine%20Social%20Media%20Reichweite
 
 ## 4. Editorial notes

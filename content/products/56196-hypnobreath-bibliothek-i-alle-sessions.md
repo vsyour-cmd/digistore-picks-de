@@ -4,16 +4,16 @@ digistore24_product_id: 682175
 title: "Hypnobreath Bibliothek I Alle Sessions"
 vendor: "fabianries"
 product_type: "Member area and video courses"
-price: 373.01
+price: 373.24
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 88.02
+earnings_per_sale: 88.07
 cart_conversion_pct: 4
 cancel_rate_pct: 2.87
 categories: ["Personal Development"]
 listed_since: "2026-04-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://hypnobreath.de/kurse?aff=adminstore#aff=adminstore"
 sales_page: "https://hypnobreath.de/kurse"
@@ -22,16 +22,16 @@ language: "de"
 # Hypnobreath Bibliothek I Alle Sessions
 
 > Product ID `56196` · Digistore24 productId `682175` · [HTML profile page](../../produkte/hypnobreath-bibliothek-i-alle-sessions-56196.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $373.01 (Subscription) |
+| Price | $373.24 (Subscription) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $88.02 |
+| Earnings/sale* | $88.07 |
 | Cart conversion* | 4% |
 | Cancel rate* | 2.87% |
 | Vendor | fabianries |
@@ -93,14 +93,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Hypnobreath Bibliothek I Alle Sessions? — Typ: Member area and video courses, Anbieter: fabianries, gelistet seit 2026-04-04
-- Wie viel kostet es? — 373.00934100000006 USD
+- Wie viel kostet es? — 373.24286800000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Hypnobreath Bibliothek I Alle Sessions Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/682175
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/682175/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Hypnobreath%20Bibliothek%20I%20Alle%20Sessions
 
 ## 4. Editorial notes

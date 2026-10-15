@@ -4,16 +4,16 @@ digistore24_product_id: 736405
 title: "Affiliate-Website erstellen für Anfänger – Kurs mit Matze"
 vendor: "einfachmitmatze"
 product_type: "Downloads"
-price: 93.01
+price: 93.07
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 37.21
+earnings_per_sale: 37.23
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-09-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/736405?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/736405"
@@ -22,16 +22,16 @@ language: "de"
 # Affiliate-Website erstellen für Anfänger – Kurs mit Matze
 
 > Product ID `59580` · Digistore24 productId `736405` · [HTML profile page](../../produkte/affiliate-website-erstellen-f-r-anf-nger-kurs-mit-matze-59580.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $93.01 (Single payment) |
+| Price | $93.07 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $37.21 |
+| Earnings/sale* | $37.23 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | einfachmitmatze |
@@ -80,14 +80,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Affiliate-Website erstellen für Anfänger – Kurs mit Matze? — Typ: Downloads, Anbieter: einfachmitmatze, gelistet seit 2026-09-23
-- Wie viel kostet es? — 93.014739 USD
+- Wie viel kostet es? — 93.072972 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Affiliate-Website erstellen für Anfänger – Kurs mit Matze Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/736405
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/736405/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Affiliate-Website%20erstellen%20f%C3%BCr%20Anf%C3%A4nger%20%E2%80%93%20Kurs%20mit%20Matze
 
 ## 4. Editorial notes

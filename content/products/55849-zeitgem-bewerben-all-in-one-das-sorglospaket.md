@@ -4,40 +4,40 @@ digistore24_product_id: 674178
 title: "Zeitgemäß bewerben - All-in-One - Das Sorglospaket"
 vendor: "Diveco"
 product_type: "E-books"
-price: 130.52
+price: 130.6
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 65.26
+earnings_per_sale: 65.3
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Profession & Job"]
+categories: ["Profession & Job","Education"]
 listed_since: "2026-03-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/55849/adminstore/"
+promo_link: "https://heinzbader.com/workbook-zeitgemaess-bewerben-das-sorglospaket-landingpage/?aff=adminstore#aff=adminstore"
 sales_page: "https://heinzbader.com/workbook-zeitgemaess-bewerben-das-sorglospaket-landingpage/"
 language: "de"
 ---
 # Zeitgemäß bewerben - All-in-One - Das Sorglospaket
 
 > Product ID `55849` · Digistore24 productId `674178` · [HTML profile page](../../produkte/zeitgem-bewerben-all-in-one-das-sorglospaket-55849.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $130.52 (Single payment) |
+| Price | $130.60 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $65.26 |
+| Earnings/sale* | $65.30 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Diveco |
 | Listed since | 2026-03-06 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Profession & Job |
+| Categories | Profession & Job, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55849/adminstore/
+- **Promo link (affiliate):** https://heinzbader.com/workbook-zeitgemaess-bewerben-das-sorglospaket-landingpage/?aff=adminstore#aff=adminstore
 - Sales page: https://heinzbader.com/workbook-zeitgemaess-bewerben-das-sorglospaket-landingpage/
 - Vendor affiliate support: https://heinzbader.com/affiliate-support-seite-zeitgemaess-bewerben-all-in-one-das-sorglospaket/
 - Canonical redirect: https://www.digistore24.com/redir/674178/adminstore
@@ -96,14 +96,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Zeitgemäß bewerben - All-in-One - Das Sorglospaket? — Typ: E-books, Anbieter: Diveco, gelistet seit 2026-03-06
-- Wie viel kostet es? — 130.515813 USD
+- Wie viel kostet es? — 130.597524 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Zeitgemäß bewerben - All-in-One - Das Sorglospaket Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/674178
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/674178/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Zeitgem%C3%A4%C3%9F%20bewerben%20-%20All-in-One%20-%20Das%20Sorglospaket
 
 ## 4. Editorial notes

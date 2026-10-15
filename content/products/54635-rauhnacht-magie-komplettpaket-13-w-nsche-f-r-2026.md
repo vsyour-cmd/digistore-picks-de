@@ -4,40 +4,40 @@ digistore24_product_id: 647692
 title: "Rauhnacht-Magie Komplettpaket – 13 Wünsche für 2026"
 vendor: "LidoConsultingAps"
 product_type: "Downloads"
-price: 17.89
+price: 17.9
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 4.47
+earnings_per_sale: 4.48
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Personal Development","Profession & Job","Spiri­tua­lity & Esotericism"]
+categories: ["Personal Development","Spiri­tua­lity & Esotericism","Profession & Job"]
 listed_since: "2025-11-12"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/54635/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/647692?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/647692"
 language: "de"
 ---
 # Rauhnacht-Magie Komplettpaket – 13 Wünsche für 2026
 
 > Product ID `54635` · Digistore24 productId `647692` · [HTML profile page](../../produkte/rauhnacht-magie-komplettpaket-13-w-nsche-f-r-2026-54635.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $17.89 (Single payment) |
+| Price | $17.90 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $4.47 |
+| Earnings/sale* | $4.48 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | LidoConsultingAps |
 | Listed since | 2025-11-12 |
 | Auto-accept affiliates | yes |
-| Categories | Personal Development, Profession & Job, Spiri­tua­lity & Esotericism |
+| Categories | Personal Development, Spiri­tua­lity & Esotericism, Profession & Job |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/54635/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/647692?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/647692
 - Canonical redirect: https://www.digistore24.com/redir/647692/adminstore
 
@@ -76,14 +76,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Rauhnacht-Magie Komplettpaket – 13 Wünsche für 2026? — Typ: Downloads, Anbieter: LidoConsultingAps, gelistet seit 2025-11-12
-- Wie viel kostet es? — 17.8896 USD
+- Wie viel kostet es? — 17.9008 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Rauhnacht-Magie Komplettpaket – 13 Wünsche für 2026 Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/647692
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/647692/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Rauhnacht-Magie%20Komplettpaket%20%E2%80%93%2013%20W%C3%BCnsche%20f%C3%BCr%202026
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 292094
 title: "Der Nummer 1 Overlock Online Nähkurs Deutschlands"
 vendor: "creatory"
 product_type: "Member area and video courses"
-price: 77.15
+price: 77.2
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 18.28
+earnings_per_sale: 18.29
 cart_conversion_pct: 53
 cancel_rate_pct: 2.99
 categories: ["Hobby & Craft"]
 listed_since: "2019-10-25"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.overlocknaehmaschine.info/overlock-naehkurs/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.overlocknaehmaschine.info/overlock-naehkurs/"
@@ -22,16 +22,16 @@ language: "de"
 # Der Nummer 1 Overlock Online Nähkurs Deutschlands
 
 > Product ID `40710` · Digistore24 productId `292094` · [HTML profile page](../../produkte/der-nummer-1-overlock-online-n-hkurs-deutschlands-40710.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $77.15 (Single payment, Installment) |
+| Price | $77.20 (Single payment, Installment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $18.28 |
+| Earnings/sale* | $18.29 |
 | Cart conversion* | 53% |
 | Cancel rate* | 2.99% |
 | Vendor | creatory |
@@ -109,14 +109,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Nummer 1 Overlock Online Nähkurs Deutschlands? — Typ: Member area and video courses, Anbieter: creatory, gelistet seit 2019-10-25
-- Wie viel kostet es? — 77.14890000000001 USD
+- Wie viel kostet es? — 77.1972 USD
 - Garantie? — 30
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Der Nummer 1 Overlock Online Nähkurs Deutschlands Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/292094
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/292094/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Der%20Nummer%201%20Overlock%20Online%20N%C3%A4hkurs%20Deutschlands
 
 ## 4. Editorial notes

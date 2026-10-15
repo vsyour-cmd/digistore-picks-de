@@ -12,8 +12,8 @@ cart_conversion_pct: 38
 cancel_rate_pct: 1.77
 categories: ["Personal Development"]
 listed_since: "2023-02-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://missiongoodlife.de/buchgeschenk-7500/?aff=adminstore#aff=adminstore"
 sales_page: "https://missiongoodlife.de/buchgeschenk-7500/"
@@ -22,7 +22,7 @@ language: "de"
 # Mission: Goodlife Free plus Shipping - von Gunnar Kessler
 
 > Product ID `47290` · Digistore24 productId `484846` · [HTML profile page](../../produkte/mission-goodlife-free-plus-shipping-von-gunnar-kessler-47290.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -70,14 +70,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mission: Goodlife Free plus Shipping - von Gunnar Kessler? — Typ: Book (printed), Anbieter: GTK-littlefreilich, gelistet seit 2023-02-17
-- Wie viel kostet es? — 2.4262770000000002 USD
+- Wie viel kostet es? — 2.427796 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Mission: Goodlife Free plus Shipping - von Gunnar Kessler Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/484846
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/484846/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Mission%3A%20Goodlife%20Free%20plus%20Shipping%20-%20von%20Gunnar%20Kessler
 
 ## 4. Editorial notes

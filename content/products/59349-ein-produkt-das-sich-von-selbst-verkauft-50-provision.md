@@ -4,40 +4,40 @@ digistore24_product_id: 733005
 title: "Ein Produkt, das sich von selbst verkauft - 50% Provision"
 vendor: "stellenmanufaktur"
 product_type: "Remote service provided electronically"
-price: 2339.56
+price: 2341.02
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 1169.78
+earnings_per_sale: 1170.51
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Online Marketing & E-Business","Online Marketing","Marketing Services"]
+categories: ["Online Marketing & E-Business","Marketing Services","Online Marketing"]
 listed_since: "2026-09-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/59349/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/733005?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/733005"
 language: "de"
 ---
 # Ein Produkt, das sich von selbst verkauft - 50% Provision
 
 > Product ID `59349` · Digistore24 productId `733005` · [HTML profile page](../../produkte/ein-produkt-das-sich-von-selbst-verkauft-50-provision-59349.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $2339.56 (Single payment, Installment) |
+| Price | $2341.02 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $1169.78 |
+| Earnings/sale* | $1170.51 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | stellenmanufaktur |
 | Listed since | 2026-09-18 |
 | Auto-accept affiliates | yes |
-| Categories | Online Marketing & E-Business, Online Marketing, Marketing Services |
+| Categories | Online Marketing & E-Business, Marketing Services, Online Marketing |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59349/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/733005?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/733005
 - Vendor affiliate support: https://blueprint.architekt-des-erfolgs.de/
 - Canonical redirect: https://www.digistore24.com/redir/733005/adminstore
@@ -80,14 +80,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ein Produkt, das sich von selbst verkauft - 50% Provision? — Typ: Remote service provided electronically, Anbieter: stellenmanufaktur, gelistet seit 2026-09-18
-- Wie viel kostet es? — 2339.5571640000003 USD
+- Wie viel kostet es? — 2341.0218720000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Ein Produkt, das sich von selbst verkauft - 50% Provision Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/733005
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/733005/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Ein%20Produkt%2C%20das%20sich%20von%20selbst%20verkauft%20-%2050%25%20Provision
 
 ## 4. Editorial notes

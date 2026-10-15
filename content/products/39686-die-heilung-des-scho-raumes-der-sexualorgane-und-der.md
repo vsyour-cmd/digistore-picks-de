@@ -4,16 +4,16 @@ digistore24_product_id: 425571
 title: "„Die Heilung des Schoßraumes, der Sexualorgane und der...“"
 vendor: "phoenix999"
 product_type: "Downloads"
-price: 464.47
+price: 464.76
 currency: "USD"
 affiliate_commission_pct: 33
-earnings_per_sale: 73.35
+earnings_per_sale: 73.39
 cart_conversion_pct: 23
 cancel_rate_pct: 2.86
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2022-01-19"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://andreas-goldemann.mykajabi.com/schossraum-e?aff=adminstore#aff=adminstore"
 sales_page: "https://andreas-goldemann.mykajabi.com/schossraum-e"
@@ -22,16 +22,16 @@ language: "de"
 # „Die Heilung des Schoßraumes, der Sexualorgane und der...“
 
 > Product ID `39686` · Digistore24 productId `425571` · [HTML profile page](../../produkte/die-heilung-des-scho-raumes-der-sexualorgane-und-der-39686.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $464.47 (Single payment, Installment) |
+| Price | $464.76 (Single payment, Installment) |
 | Affiliate commission | 33% |
-| Earnings/sale* | $73.35 |
+| Earnings/sale* | $73.39 |
 | Cart conversion* | 23% |
 | Cancel rate* | 2.86% |
 | Vendor | phoenix999 |
@@ -95,14 +95,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist „Die Heilung des Schoßraumes, der Sexualorgane und der...“? — Typ: Downloads, Anbieter: phoenix999, gelistet seit 2022-01-19
-- Wie viel kostet es? — 464.46992100000006 USD
+- Wie viel kostet es? — 464.760708 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: „Die Heilung des Schoßraumes, der Sexualorgane und der...“ Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/425571
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/425571/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=%E2%80%9EDie%20Heilung%20des%20Scho%C3%9Fraumes%2C%20der%20Sexualorgane%20und%20der...%E2%80%9C
 
 ## 4. Editorial notes

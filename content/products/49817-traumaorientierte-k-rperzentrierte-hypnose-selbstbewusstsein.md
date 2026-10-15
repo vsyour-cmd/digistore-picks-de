@@ -7,22 +7,22 @@ product_type: "Downloads"
 price: 3.77
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 11.01
+earnings_per_sale: 11.02
 cart_conversion_pct: 16
 cancel_rate_pct: 7.05
-categories: ["Dating, Relationships & Romance","Personal Development","Spiri­tua­lity & Esotericism"]
+categories: ["Personal Development","Dating, Relationships & Romance","Spiri­tua­lity & Esotericism"]
 listed_since: "2024-08-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/49817/adminstore/"
+promo_link: "https://www.digistore24.com/product/567073?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/567073"
 language: "de"
 ---
 # Traumaorientierte Körperzentrierte Hypnose Selbstbewusstsein
 
 > Product ID `49817` · Digistore24 productId `567073` · [HTML profile page](../../produkte/traumaorientierte-k-rperzentrierte-hypnose-selbstbewusstsein-49817.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,13 +31,13 @@ language: "de"
 | Product type | Downloads |
 | Price | $3.77 (Single payment) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $11.01 |
+| Earnings/sale* | $11.02 |
 | Cart conversion* | 16% |
 | Cancel rate* | 7.05% |
 | Vendor | jennifersubke |
 | Listed since | 2024-08-26 |
 | Auto-accept affiliates | yes |
-| Categories | Dating, Relationships & Romance, Personal Development, Spiri­tua­lity & Esotericism |
+| Categories | Personal Development, Dating, Relationships & Romance, Spiri­tua­lity & Esotericism |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/49817/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/567073?aff=adminstore
 - Sales page: https://www.digistore24.com/product/567073
 - Canonical redirect: https://www.digistore24.com/redir/567073/adminstore
 
@@ -70,14 +70,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Traumaorientierte Körperzentrierte Hypnose Selbstbewusstsein? — Typ: Downloads, Anbieter: jennifersubke, gelistet seit 2024-08-26
-- Wie viel kostet es? — 3.7679970000000003 USD
+- Wie viel kostet es? — 3.770356 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Traumaorientierte Körperzentrierte Hypnose Selbstbewusstsein Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/567073
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/567073/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Traumaorientierte%20K%C3%B6rperzentrierte%20Hypnose%20Selbstbewusstsein
 
 ## 4. Editorial notes

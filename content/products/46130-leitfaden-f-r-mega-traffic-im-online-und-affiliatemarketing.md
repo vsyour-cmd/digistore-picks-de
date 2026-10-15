@@ -10,10 +10,10 @@ affiliate_commission_pct: 60
 earnings_per_sale: 0.15
 cart_conversion_pct: 28
 cancel_rate_pct: 2.33
-categories: ["Business & Investment","Email Marketing","Online Marketing & E-Business"]
+categories: ["Business & Investment","Online Marketing & E-Business","Email Marketing"]
 listed_since: "2023-11-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://michael-schlinder.com/Mega-Traffic?aff=adminstore#aff=adminstore"
 sales_page: "https://michael-schlinder.com/Mega-Traffic"
@@ -22,7 +22,7 @@ language: "de"
 # Leitfaden für mega Traffic im Online- und Affiliatemarketing
 
 > Product ID `46130` · Digistore24 productId `525532` · [HTML profile page](../../produkte/leitfaden-f-r-mega-traffic-im-online-und-affiliatemarketing-46130.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | MSchlinder |
 | Listed since | 2023-11-16 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Email Marketing, Online Marketing & E-Business |
+| Categories | Business & Investment, Online Marketing & E-Business, Email Marketing |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -76,14 +76,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Leitfaden für mega Traffic im Online- und Affiliatemarketing? — Typ: E-books, Anbieter: MSchlinder, gelistet seit 2023-11-16
-- Wie viel kostet es? — 0.268344 USD
+- Wie viel kostet es? — 0.268512 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Leitfaden für mega Traffic im Online- und Affiliatemarketing Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/525532
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/525532/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Leitfaden%20f%C3%BCr%20mega%20Traffic%20im%20Online-%20und%20Affiliatemarketing
 
 ## 4. Editorial notes

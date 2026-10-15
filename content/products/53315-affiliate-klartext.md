@@ -12,17 +12,17 @@ cart_conversion_pct: 51
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2025-07-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/53315/adminstore/"
+promo_link: "https://www.ilias-marketing.de/affiliate-klartext/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.ilias-marketing.de/affiliate-klartext/"
 language: "de"
 ---
 # Affiliate Klartext
 
 > Product ID `53315` · Digistore24 productId `624283` · [HTML profile page](../../produkte/affiliate-klartext-53315.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/53315/adminstore/
+- **Promo link (affiliate):** https://www.ilias-marketing.de/affiliate-klartext/?aff=adminstore#aff=adminstore
 - Sales page: https://www.ilias-marketing.de/affiliate-klartext/
 - Vendor affiliate support: https://www.ilias-marketing.de/partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/624283/adminstore
@@ -81,14 +81,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Affiliate Klartext? — Typ: E-books, Anbieter: iliasmak, gelistet seit 2025-07-15
-- Wie viel kostet es? — 0.324249 USD
+- Wie viel kostet es? — 0.32445199999999996 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Affiliate Klartext Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/624283
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/624283/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Affiliate%20Klartext
 
 ## 4. Editorial notes

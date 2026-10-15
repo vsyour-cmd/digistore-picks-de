@@ -4,16 +4,16 @@ digistore24_product_id: 661129
 title: "KetoSana - Metabolic Breakthrough Drops (DACH Market)"
 vendor: "DS24-MySana"
 product_type: "Supplements - for slimming"
-price: 187.97
+price: 188.09
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 128.85
+earnings_per_sale: 128.93
 cart_conversion_pct: 20
 cancel_rate_pct: 6.47
 categories: ["Health & Fitness","Food Supplements"]
 listed_since: "2026-01-13"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://myketosana.com/ketosana-pdp-fe?aff=adminstore#aff=adminstore"
 sales_page: "https://myketosana.com/ketosana-pdp-fe"
@@ -22,16 +22,16 @@ language: "de"
 # KetoSana - Metabolic Breakthrough Drops (DACH Market)
 
 > Product ID `55260` · Digistore24 productId `661129` · [HTML profile page](../../produkte/ketosana-metabolic-breakthrough-drops-dach-market-55260.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - for slimming |
-| Price | $187.97 (Single payment) |
+| Price | $188.09 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $128.85 |
+| Earnings/sale* | $128.93 |
 | Cart conversion* | 20% |
 | Cancel rate* | 6.47% |
 | Vendor | DS24-MySana |
@@ -103,14 +103,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KetoSana - Metabolic Breakthrough Drops (DACH Market)? — Typ: Supplements - for slimming, Anbieter: DS24-MySana, gelistet seit 2026-01-13
-- Wie viel kostet es? — 187.974972 USD
+- Wie viel kostet es? — 188.092656 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: KetoSana - Metabolic Breakthrough Drops (DACH Market) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/661129
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/661129/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=KetoSana%20-%20Metabolic%20Breakthrough%20Drops%20(DACH%20Market)
 
 ## 4. Editorial notes

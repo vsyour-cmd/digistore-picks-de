@@ -4,7 +4,7 @@ digistore24_product_id: 351146
 title: "Tai Chi Kurs on demand - online lernen über 15 Monate"
 vendor: "WuWeiSchule"
 product_type: "Member area and video courses"
-price: 23.02
+price: 23.04
 currency: "USD"
 affiliate_commission_pct: 25
 earnings_per_sale: 5.76
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Sport"]
 listed_since: "2020-10-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/35249/adminstore/"
+promo_link: "https://www.wuwei-schule.de/lp/tai-chi/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.wuwei-schule.de/lp/tai-chi/"
 language: "de"
 ---
 # Tai Chi Kurs on demand - online lernen über 15 Monate
 
 > Product ID `35249` · Digistore24 productId `351146` · [HTML profile page](../../produkte/tai-chi-kurs-on-demand-online-lernen-ber-15-monate-35249.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $23.02 (Subscription) |
+| Price | $23.04 (Subscription) |
 | Affiliate commission | 25% |
 | Earnings/sale* | $5.76 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/35249/adminstore/
+- **Promo link (affiliate):** https://www.wuwei-schule.de/lp/tai-chi/?aff=adminstore#aff=adminstore
 - Sales page: https://www.wuwei-schule.de/lp/tai-chi/
 - Canonical redirect: https://www.digistore24.com/redir/351146/adminstore
 
@@ -72,14 +72,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Tai Chi Kurs on demand - online lernen über 15 Monate? — Typ: Member area and video courses, Anbieter: WuWeiSchule, gelistet seit 2020-10-06
-- Wie viel kostet es? — 23.021679000000002 USD
+- Wie viel kostet es? — 23.036092 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Tai Chi Kurs on demand - online lernen über 15 Monate Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/351146
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/351146/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Tai%20Chi%20Kurs%20on%20demand%20-%20online%20lernen%20%C3%BCber%2015%20Monate
 
 ## 4. Editorial notes

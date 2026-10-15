@@ -10,10 +10,10 @@ affiliate_commission_pct: 50
 earnings_per_sale: 0
 cart_conversion_pct: 50
 cancel_rate_pct: 12.1
-categories: ["Computer & Internet","Email Marketing","Online Marketing & E-Business"]
+categories: ["Computer & Internet","Online Marketing & E-Business","Email Marketing"]
 listed_since: "2025-01-13"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
 promo_link: "https://vierstelligimmonat.de/kitoolkit?aff=adminstore#aff=adminstore"
 sales_page: "https://vierstelligimmonat.de/kitoolkit"
@@ -22,7 +22,7 @@ language: "de"
 # Das KI Business Toolkit (Freebie)
 
 > Product ID `51092` · Digistore24 productId `590210` · [HTML profile page](../../produkte/das-ki-business-toolkit-freebie-51092.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | MoneyCreators |
 | Listed since | 2025-01-13 |
 | Auto-accept affiliates | yes |
-| Categories | Computer & Internet, Email Marketing, Online Marketing & E-Business |
+| Categories | Computer & Internet, Online Marketing & E-Business, Email Marketing |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -68,7 +68,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Das KI Business Toolkit (Freebie) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/590210
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/590210/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Das%20KI%20Business%20Toolkit%20(Freebie)
 
 ## 4. Editorial notes

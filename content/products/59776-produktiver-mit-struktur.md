@@ -4,16 +4,16 @@ digistore24_product_id: 735622
 title: "Produktiver mit Struktur"
 vendor: "ima806"
 product_type: "Member area and video courses"
-price: 44.16
+price: 44.19
 currency: "USD"
 affiliate_commission_pct: 33
-earnings_per_sale: 14.58
+earnings_per_sale: 14.59
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Online Marketing & E-Business","Personal Development"]
+categories: ["Personal Development","Online Marketing & E-Business"]
 listed_since: "2026-09-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://markwart-academy.de/prodmistr/?aff=adminstore#aff=adminstore"
 sales_page: "https://markwart-academy.de/prodmistr/"
@@ -22,22 +22,22 @@ language: "de"
 # Produktiver mit Struktur
 
 > Product ID `59776` · Digistore24 productId `735622` · [HTML profile page](../../produkte/produktiver-mit-struktur-59776.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $44.16 (Single payment) |
+| Price | $44.19 (Single payment) |
 | Affiliate commission | 33% |
-| Earnings/sale* | $14.58 |
+| Earnings/sale* | $14.59 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ima806 |
 | Listed since | 2026-09-26 |
 | Auto-accept affiliates | yes |
-| Categories | Online Marketing & E-Business, Personal Development |
+| Categories | Personal Development, Online Marketing & E-Business |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -66,14 +66,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Produktiver mit Struktur? — Typ: Member area and video courses, Anbieter: ima806, gelistet seit 2026-09-26
-- Wie viel kostet es? — 44.164950000000005 USD
+- Wie viel kostet es? — 44.1926 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Produktiver mit Struktur Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/735622
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/735622/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Produktiver%20mit%20Struktur
 
 ## 4. Editorial notes

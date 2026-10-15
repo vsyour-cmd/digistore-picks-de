@@ -12,17 +12,17 @@ cart_conversion_pct: 18
 cancel_rate_pct: 0.53
 categories: ["Education"]
 listed_since: "2022-09-14"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/41339/adminstore/"
+promo_link: "https://business-kickstart.de/instaclub-24h-launch-2?aff=adminstore#aff=adminstore"
 sales_page: "https://business-kickstart.de/instaclub-24h-launch-2"
 language: "de"
 ---
 # Insta Club
 
 > Product ID `41339` · Digistore24 productId `460457` · [HTML profile page](../../produkte/insta-club-41339.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/41339/adminstore/
+- **Promo link (affiliate):** https://business-kickstart.de/instaclub-24h-launch-2?aff=adminstore#aff=adminstore
 - Sales page: https://business-kickstart.de/instaclub-24h-launch-2
 - Vendor affiliate support: https://business-kickstart.de/instaclub-partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/460457/adminstore
@@ -59,14 +59,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Insta Club? — Typ: Member area and video courses, Anbieter: CyrilCash, gelistet seit 2022-09-14
-- Wie viel kostet es? — 2.9965080000000004 USD
+- Wie viel kostet es? — 2.998384 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Insta Club Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/460457
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/460457/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Insta%20Club
 
 ## 4. Editorial notes

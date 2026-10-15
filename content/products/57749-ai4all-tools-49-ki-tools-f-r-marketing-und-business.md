@@ -4,40 +4,40 @@ digistore24_product_id: 715281
 title: "AI4ALL.tools – 49+ KI-Tools für Marketing und Business"
 vendor: "janusmarketing"
 product_type: "Member area and video courses"
-price: 270.6
+price: 270.77
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 135.3
+earnings_per_sale: 135.39
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Computer & Internet","Email Marketing","Online Marketing & E-Business"]
+categories: ["Computer & Internet","Online Marketing & E-Business","Email Marketing"]
 listed_since: "2026-07-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/57749/adminstore/"
+promo_link: "https://ai4all.tools/?aff=adminstore#aff=adminstore"
 sales_page: "https://ai4all.tools/"
 language: "de"
 ---
 # AI4ALL.tools – 49+ KI-Tools für Marketing und Business
 
 > Product ID `57749` · Digistore24 productId `715281` · [HTML profile page](../../produkte/ai4all-tools-49-ki-tools-f-r-marketing-und-business-57749.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $270.60 (Subscription) |
+| Price | $270.77 (Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $135.30 |
+| Earnings/sale* | $135.39 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | janusmarketing |
 | Listed since | 2026-07-26 |
 | Auto-accept affiliates | yes |
-| Categories | Computer & Internet, Email Marketing, Online Marketing & E-Business |
+| Categories | Computer & Internet, Online Marketing & E-Business, Email Marketing |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/57749/adminstore/
+- **Promo link (affiliate):** https://ai4all.tools/?aff=adminstore#aff=adminstore
 - Sales page: https://ai4all.tools/
 - Vendor affiliate support: https://partner.ai4all.tools/register
 - Canonical redirect: https://www.digistore24.com/redir/715281/adminstore
@@ -96,14 +96,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist AI4ALL.tools – 49+ KI-Tools für Marketing und Business? — Typ: Member area and video courses, Anbieter: janusmarketing, gelistet seit 2026-07-26
-- Wie viel kostet es? — 270.60256200000003 USD
+- Wie viel kostet es? — 270.771976 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: AI4ALL.tools – 49+ KI-Tools für Marketing und Business Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/715281
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/715281/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=AI4ALL.tools%20%E2%80%93%2049%2B%20KI-Tools%20f%C3%BCr%20Marketing%20und%20Business
 
 ## 4. Editorial notes

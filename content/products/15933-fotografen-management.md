@@ -4,34 +4,34 @@ digistore24_product_id: 127933
 title: "Fotografen.Management"
 vendor: "ThomasAmmermueller"
 product_type: "Downloads"
-price: 201.26
+price: 201.38
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 40.25
+earnings_per_sale: 40.28
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2017-03-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/15933/adminstore/"
+promo_link: "https://fotografen.management/?aff=adminstore#aff=adminstore"
 sales_page: "https://fotografen.management/"
 language: "de"
 ---
 # Fotografen.Management
 
 > Product ID `15933` · Digistore24 productId `127933` · [HTML profile page](../../produkte/fotografen-management-15933.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $201.26 (Subscription) |
+| Price | $201.38 (Subscription) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $40.25 |
+| Earnings/sale* | $40.28 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ThomasAmmermueller |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/15933/adminstore/
+- **Promo link (affiliate):** https://fotografen.management/?aff=adminstore#aff=adminstore
 - Sales page: https://fotografen.management/
 - Canonical redirect: https://www.digistore24.com/redir/127933/adminstore
 
@@ -66,14 +66,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Fotografen.Management? — Typ: Downloads, Anbieter: ThomasAmmermueller, gelistet seit 2017-03-24
-- Wie viel kostet es? — 201.258 USD
+- Wie viel kostet es? — 201.38400000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Fotografen.Management Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/127933
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/127933/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Fotografen.Management
 
 ## 4. Editorial notes

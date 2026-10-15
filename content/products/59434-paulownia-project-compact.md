@@ -4,16 +4,16 @@ digistore24_product_id: 724786
 title: "Paulownia Project Compact | Проект Павловния Компакт"
 vendor: "fafenrotirina9b234"
 product_type: "E-books"
-price: 559.05
+price: 559.4
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 55.91
+earnings_per_sale: 55.94
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-09-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/724786?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/724786"
@@ -22,16 +22,16 @@ language: "de"
 # Paulownia Project Compact | Проект Павловния Компакт
 
 > Product ID `59434` · Digistore24 productId `724786` · [HTML profile page](../../produkte/paulownia-project-compact-59434.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $559.05 (Single payment) |
+| Price | $559.40 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $55.91 |
+| Earnings/sale* | $55.94 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | fafenrotirina9b234 |
@@ -86,14 +86,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Paulownia Project Compact | Проект Павловния Компакт? — Typ: E-books, Anbieter: fafenrotirina9b234, gelistet seit 2026-09-20
-- Wie viel kostet es? — 559.0500000000001 USD
+- Wie viel kostet es? — 559.4 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Paulownia Project Compact | Проект Павловния Компакт Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/724786
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/724786/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Paulownia%20Project%20Compact%20%7C%20%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%9F%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%D0%BD%D0%B8%D1%8F%20%D0%9A%D0%BE%D0%BC%D0%BF%D0%B0%D0%BA%D1%82
 
 ## 4. Editorial notes

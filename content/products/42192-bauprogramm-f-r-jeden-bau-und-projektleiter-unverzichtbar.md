@@ -4,16 +4,16 @@ digistore24_product_id: 423798
 title: "Bauprogramm - Für jeden Bau- und Projektleiter unverzichtbar"
 vendor: "Bauprogramm"
 product_type: "Software"
-price: 320.85
+price: 321.05
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 77.43
+earnings_per_sale: 77.48
 cart_conversion_pct: 40
 cancel_rate_pct: 4.14
-categories: ["Home & Garden","Software","Real Estate"]
+categories: ["Software","Home & Garden","Real Estate"]
 listed_since: "2022-01-10"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/redir/423798/adminstore"
 sales_page: "https://www.bauprogramm.com/?aff=[AFFILIATE]&cam=[CAMPAIGNKEY]"
@@ -22,22 +22,22 @@ language: "de"
 # Bauprogramm - Für jeden Bau- und Projektleiter unverzichtbar
 
 > Product ID `42192` · Digistore24 productId `423798` · [HTML profile page](../../produkte/bauprogramm-f-r-jeden-bau-und-projektleiter-unverzichtbar-42192.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $320.85 (Subscription) |
+| Price | $321.05 (Subscription) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $77.43 |
+| Earnings/sale* | $77.48 |
 | Cart conversion* | 40% |
 | Cancel rate* | 4.14% |
 | Vendor | Bauprogramm |
 | Listed since | 2022-01-10 |
 | Auto-accept affiliates | yes |
-| Categories | Home & Garden, Software, Real Estate |
+| Categories | Software, Home & Garden, Real Estate |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -85,14 +85,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Bauprogramm - Für jeden Bau- und Projektleiter unverzichtbar? — Typ: Software, Anbieter: Bauprogramm, gelistet seit 2022-01-10
-- Wie viel kostet es? — 320.849976 USD
+- Wie viel kostet es? — 321.050848 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Bauprogramm - Für jeden Bau- und Projektleiter unverzichtbar Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/423798
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/423798/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Bauprogramm%20-%20F%C3%BCr%20jeden%20Bau-%20und%20Projektleiter%20unverzichtbar
 
 ## 4. Editorial notes

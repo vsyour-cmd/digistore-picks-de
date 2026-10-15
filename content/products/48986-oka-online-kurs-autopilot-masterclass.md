@@ -4,16 +4,16 @@ digistore24_product_id: 506187
 title: "OKA - Online Kurs Autopilot Masterclass"
 vendor: "MichoWorldwide"
 product_type: "Member area and video courses"
-price: 2249.35
+price: 2250.76
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 1124.67
+earnings_per_sale: 1125.38
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Marketing Services"]
 listed_since: "2023-07-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/506187?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/506187"
@@ -22,16 +22,16 @@ language: "de"
 # OKA - Online Kurs Autopilot Masterclass
 
 > Product ID `48986` · Digistore24 productId `506187` · [HTML profile page](../../produkte/oka-online-kurs-autopilot-masterclass-48986.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $2249.35 (Single payment, Installment) |
+| Price | $2250.76 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $1124.67 |
+| Earnings/sale* | $1125.38 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MichoWorldwide |
@@ -125,14 +125,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist OKA - Online Kurs Autopilot Masterclass? — Typ: Member area and video courses, Anbieter: MichoWorldwide, gelistet seit 2023-07-06
-- Wie viel kostet es? — 2249.348856 USD
+- Wie viel kostet es? — 2250.757088 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: OKA - Online Kurs Autopilot Masterclass Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/506187
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/506187/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=OKA%20-%20Online%20Kurs%20Autopilot%20Masterclass
 
 ## 4. Editorial notes

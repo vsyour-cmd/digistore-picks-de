@@ -4,16 +4,16 @@ digistore24_product_id: 652717
 title: "Kurs 1 – Dein eigener Offline-KI-Agent (Ubuntu + Ollama + We"
 vendor: "NeiFlex"
 product_type: "Member area and video courses"
-price: 74.23
+price: 74.28
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 37.12
+earnings_per_sale: 37.14
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Computer & Internet","Software"]
+categories: ["Software","Computer & Internet"]
 listed_since: "2025-12-03"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://kurse.neiflex.at/kurs1.html?aff=adminstore#aff=adminstore"
 sales_page: "https://kurse.neiflex.at/kurs1.html"
@@ -22,22 +22,22 @@ language: "de"
 # Kurs 1 – Dein eigener Offline-KI-Agent (Ubuntu + Ollama + We
 
 > Product ID `54844` · Digistore24 productId `652717` · [HTML profile page](../../produkte/kurs-1-dein-eigener-offline-ki-agent-ubuntu-ollama-we-54844.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $74.23 (Single payment) |
+| Price | $74.28 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $37.12 |
+| Earnings/sale* | $37.14 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | NeiFlex |
 | Listed since | 2025-12-03 |
 | Auto-accept affiliates | yes |
-| Categories | Computer & Internet, Software |
+| Categories | Software, Computer & Internet |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Kurs 1 – Dein eigener Offline-KI-Agent (Ubuntu + Ollama + We? — Typ: Member area and video courses, Anbieter: NeiFlex, gelistet seit 2025-12-03
-- Wie viel kostet es? — 74.230659 USD
+- Wie viel kostet es? — 74.27713200000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Kurs 1 – Dein eigener Offline-KI-Agent (Ubuntu + Ollama + We Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/652717
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/652717/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Kurs%201%20%E2%80%93%20Dein%20eigener%20Offline-KI-Agent%20(Ubuntu%20%2B%20Ollama%20%2B%20We
 
 ## 4. Editorial notes

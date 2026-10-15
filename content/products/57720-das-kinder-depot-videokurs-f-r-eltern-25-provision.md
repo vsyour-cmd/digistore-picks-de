@@ -4,16 +4,16 @@ digistore24_product_id: 674625
 title: "Das Kinder-Depot – Videokurs für Eltern | 25 % Provision"
 vendor: "meyermatthias75a7be"
 product_type: "Member area and video courses"
-price: 607.92
+price: 608.3
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 151.98
+earnings_per_sale: 152.08
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Family & Children","Finances"]
+categories: ["Family & Children","Education","Finances"]
 listed_since: "2026-07-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://www.das-kinder-depot.de/challenge/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.das-kinder-depot.de/challenge/"
@@ -22,22 +22,22 @@ language: "de"
 # Das Kinder-Depot – Videokurs für Eltern | 25 % Provision
 
 > Product ID `57720` · Digistore24 productId `674625` · [HTML profile page](../../produkte/das-kinder-depot-videokurs-f-r-eltern-25-provision-57720.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $607.92 (Single payment, Installment) |
+| Price | $608.30 (Single payment, Installment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $151.98 |
+| Earnings/sale* | $152.08 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | meyermatthias75a7be |
 | Listed since | 2026-07-24 |
 | Auto-accept affiliates | no (approval required) |
-| Categories | Education, Family & Children, Finances |
+| Categories | Family & Children, Education, Finances |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -66,14 +66,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Kinder-Depot – Videokurs für Eltern | 25 % Provision? — Typ: Member area and video courses, Anbieter: meyermatthias75a7be, gelistet seit 2026-07-24
-- Wie viel kostet es? — 607.9221510000001 USD
+- Wie viel kostet es? — 608.3027480000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Das Kinder-Depot – Videokurs für Eltern | 25 % Provision Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/674625
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/674625/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Das%20Kinder-Depot%20%E2%80%93%20Videokurs%20f%C3%BCr%20Eltern%20%7C%2025%20%25%20Provision
 
 ## 4. Editorial notes

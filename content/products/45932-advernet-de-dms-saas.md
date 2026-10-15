@@ -4,16 +4,16 @@ digistore24_product_id: 544850
 title: "Advernet.de DMS SaaS"
 vendor: "advernetde"
 product_type: "Remote service provided electronically"
-price: 9.3
+price: 9.31
 currency: "USD"
 affiliate_commission_pct: 25
 earnings_per_sale: 2.33
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Services","Software"]
+categories: ["Software","Services"]
 listed_since: "2024-03-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.advernet.de/dms-saas.html?aff=adminstore#aff=adminstore"
 sales_page: "https://www.advernet.de/dms-saas.html"
@@ -22,14 +22,14 @@ language: "de"
 # Advernet.de DMS SaaS
 
 > Product ID `45932` · Digistore24 productId `544850` · [HTML profile page](../../produkte/advernet-de-dms-saas-45932.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $9.30 (Subscription) |
+| Price | $9.31 (Subscription) |
 | Affiliate commission | 25% |
 | Earnings/sale* | $2.33 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | advernetde |
 | Listed since | 2024-03-22 |
 | Auto-accept affiliates | yes |
-| Categories | Services, Software |
+| Categories | Software, Services |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -75,14 +75,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Advernet.de DMS SaaS? — Typ: Remote service provided electronically, Anbieter: advernetde, gelistet seit 2024-03-22
-- Wie viel kostet es? — 9.302592 USD
+- Wie viel kostet es? — 9.308416000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Advernet.de DMS SaaS Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/544850
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/544850/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Advernet.de%20DMS%20SaaS
 
 ## 4. Editorial notes

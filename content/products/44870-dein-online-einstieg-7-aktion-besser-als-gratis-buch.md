@@ -4,16 +4,16 @@ digistore24_product_id: 420657
 title: "Dein Online Einstieg 7,- € Aktion, besser als gratis Buch!"
 vendor: "Leseidee"
 product_type: "Member area and video courses"
-price: 362.66
+price: 362.88
 currency: "USD"
 affiliate_commission_pct: 100
-earnings_per_sale: 83.41
+earnings_per_sale: 83.46
 cart_conversion_pct: 6
 cancel_rate_pct: 2.42
 categories: []
 listed_since: "2021-12-14"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://deals.davebrych.com/dein-online-einstieg-jetzt/?aff=adminstore#aff=adminstore"
 sales_page: "https://deals.davebrych.com/dein-online-einstieg-jetzt/"
@@ -22,16 +22,16 @@ language: "de"
 # Dein Online Einstieg 7,- € Aktion, besser als gratis Buch!
 
 > Product ID `44870` · Digistore24 productId `420657` · [HTML profile page](../../produkte/dein-online-einstieg-7-aktion-besser-als-gratis-buch-44870.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $362.66 (Single payment) |
+| Price | $362.88 (Single payment) |
 | Affiliate commission | 100% |
-| Earnings/sale* | $83.41 |
+| Earnings/sale* | $83.46 |
 | Cart conversion* | 6% |
 | Cancel rate* | 2.42% |
 | Vendor | Leseidee |
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Dein Online Einstieg 7,- € Aktion, besser als gratis Buch!? — Typ: Member area and video courses, Anbieter: Leseidee, gelistet seit 2021-12-14
-- Wie viel kostet es? — 362.65573500000005 USD
+- Wie viel kostet es? — 362.88278 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Dein Online Einstieg 7,- € Aktion, besser als gratis Buch! Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/420657
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/420657/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Dein%20Online%20Einstieg%207%2C-%20%E2%82%AC%20Aktion%2C%20besser%20als%20gratis%20Buch!
 
 ## 4. Editorial notes

@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business"]
 listed_since: "2026-07-31"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://lovable.ygn-onlinemarketing.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://lovable.ygn-onlinemarketing.de/"
@@ -22,7 +22,7 @@ language: "de"
 # Lovable Cheat Code (Freebie)
 
 > Product ID `57814` · Digistore24 productId `715694` · [HTML profile page](../../produkte/lovable-cheat-code-freebie-57814.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -88,7 +88,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Lovable Cheat Code (Freebie) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/715694
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/715694/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Lovable%20Cheat%20Code%20(Freebie)
 
 ## 4. Editorial notes

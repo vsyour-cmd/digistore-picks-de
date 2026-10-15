@@ -4,7 +4,7 @@ digistore24_product_id: 275358
 title: "IK-Jahres-ePaper-Abo"
 vendor: "IbizaKurier"
 product_type: "Downloads"
-price: 111.25
+price: 111.32
 currency: "USD"
 affiliate_commission_pct: 0
 earnings_per_sale: 0
@@ -12,24 +12,24 @@ cart_conversion_pct: 16
 cancel_rate_pct: 1.65
 categories: ["Travel & Culture"]
 listed_since: "2019-06-12"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/29929/adminstore/"
+promo_link: "https://ibizakurier.de/epaper/?aff=adminstore#aff=adminstore"
 sales_page: "https://ibizakurier.de/epaper/"
 language: "de"
 ---
 # IK-Jahres-ePaper-Abo
 
 > Product ID `29929` · Digistore24 productId `275358` · [HTML profile page](../../produkte/ik-jahres-epaper-abo-29929.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $111.25 (Subscription) |
+| Price | $111.32 (Subscription) |
 | Affiliate commission | 0% |
 | Earnings/sale* | $0.00 |
 | Cart conversion* | 16% |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/29929/adminstore/
+- **Promo link (affiliate):** https://ibizakurier.de/epaper/?aff=adminstore#aff=adminstore
 - Sales page: https://ibizakurier.de/epaper/
 - Canonical redirect: https://www.digistore24.com/redir/275358/adminstore
 
@@ -83,14 +83,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist IK-Jahres-ePaper-Abo? — Typ: Downloads, Anbieter: IbizaKurier, gelistet seit 2019-06-12
-- Wie viel kostet es? — 111.25095 USD
+- Wie viel kostet es? — 111.3206 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: IK-Jahres-ePaper-Abo Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/275358
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/275358/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=IK-Jahres-ePaper-Abo
 
 ## 4. Editorial notes

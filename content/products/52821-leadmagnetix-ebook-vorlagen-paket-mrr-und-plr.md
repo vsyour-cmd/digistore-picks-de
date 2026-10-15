@@ -4,32 +4,32 @@ digistore24_product_id: 616881
 title: "Leadmagnetix:Ebook-Vorlagen Paket (MRR und PLR)"
 vendor: "MoneyCreators"
 product_type: "Downloads"
-price: 5.62
+price: 5.63
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 2.82
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Computer & Internet","Email Marketing","Online Marketing & E-Business"]
+categories: ["Computer & Internet","Online Marketing & E-Business","Email Marketing"]
 listed_since: "2025-06-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "http://www.fitundattraktiv.de/2minuten-traumkoerper-megaangebot#aff=adminstore"
+promo_link: "https://www.checkout-ds24.com/product/616881?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/616881"
 language: "de"
 ---
 # Leadmagnetix:Ebook-Vorlagen Paket (MRR und PLR)
 
 > Product ID `52821` · Digistore24 productId `616881` · [HTML profile page](../../produkte/leadmagnetix-ebook-vorlagen-paket-mrr-und-plr-52821.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $5.62 (Single payment) |
+| Price | $5.63 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $2.82 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | MoneyCreators |
 | Listed since | 2025-06-05 |
 | Auto-accept affiliates | yes |
-| Categories | Computer & Internet, Email Marketing, Online Marketing & E-Business |
+| Categories | Computer & Internet, Online Marketing & E-Business, Email Marketing |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://www.fitundattraktiv.de/2minuten-traumkoerper-megaangebot#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/616881?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/616881
 - Canonical redirect: https://www.digistore24.com/redir/616881/adminstore
 
@@ -75,14 +75,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Leadmagnetix:Ebook-Vorlagen Paket (MRR und PLR)? — Typ: Downloads, Anbieter: MoneyCreators, gelistet seit 2025-06-05
-- Wie viel kostet es? — 5.624043 USD
+- Wie viel kostet es? — 5.6275640000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Leadmagnetix:Ebook-Vorlagen Paket (MRR und PLR) Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/616881
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/616881/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Leadmagnetix%3AEbook-Vorlagen%20Paket%20(MRR%20und%20PLR)
 
 ## 4. Editorial notes

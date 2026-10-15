@@ -4,34 +4,34 @@ digistore24_product_id: 24459
 title: "Sich perfekt ausdrücken, kommunizieren und überzeugen"
 vendor: "Insider-Media"
 product_type: "Downloads"
-price: 28.19
+price: 28.2
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 8.45
+earnings_per_sale: 8.46
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2014-04-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/17435/adminstore/"
+promo_link: "https://www.lerntipp.com/usb-komm?aff=adminstore#aff=adminstore"
 sales_page: "https://www.lerntipp.com/usb-komm"
 language: "de"
 ---
 # Sich perfekt ausdrücken, kommunizieren und überzeugen
 
 > Product ID `17435` · Digistore24 productId `24459` · [HTML profile page](../../produkte/sich-perfekt-ausdr-cken-kommunizieren-und-berzeugen-17435.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $28.19 (Single payment) |
+| Price | $28.20 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $8.45 |
+| Earnings/sale* | $8.46 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Insider-Media |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/17435/adminstore/
+- **Promo link (affiliate):** https://www.lerntipp.com/usb-komm?aff=adminstore#aff=adminstore
 - Sales page: https://www.lerntipp.com/usb-komm
 - Canonical redirect: https://www.digistore24.com/redir/24459/adminstore
 
@@ -58,14 +58,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Sich perfekt ausdrücken, kommunizieren und überzeugen? — Typ: Downloads, Anbieter: Insider-Media, gelistet seit 2014-04-21
-- Wie viel kostet es? — 28.187301000000005 USD
+- Wie viel kostet es? — 28.204948 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Sich perfekt ausdrücken, kommunizieren und überzeugen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/24459
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/24459/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Sich%20perfekt%20ausdr%C3%BCcken%2C%20kommunizieren%20und%20%C3%BCberzeugen
 
 ## 4. Editorial notes

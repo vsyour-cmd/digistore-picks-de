@@ -4,34 +4,34 @@ digistore24_product_id: 725205
 title: "Auswandern nach Thailand — Das Handbuch: Visum, Steuern, Kra"
 vendor: "stonebridge"
 product_type: "E-books"
-price: 21.23
+price: 21.25
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 14.86
+earnings_per_sale: 14.87
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Travel & Culture"]
 listed_since: "2026-09-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/59821/adminstore/"
+promo_link: "https://thailandratgeber.de/auswandern/?aff=adminstore#aff=adminstore"
 sales_page: "https://thailandratgeber.de/auswandern/"
 language: "de"
 ---
 # Auswandern nach Thailand — Das Handbuch: Visum, Steuern, Kra
 
 > Product ID `59821` · Digistore24 productId `725205` · [HTML profile page](../../produkte/auswandern-nach-thailand-das-handbuch-visum-steuern-kra-59821.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $21.23 (Single payment) |
+| Price | $21.25 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $14.86 |
+| Earnings/sale* | $14.87 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | stonebridge |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59821/adminstore/
+- **Promo link (affiliate):** https://thailandratgeber.de/auswandern/?aff=adminstore#aff=adminstore
 - Sales page: https://thailandratgeber.de/auswandern/
 - Vendor affiliate support: https://thailandratgeber.de/partner/
 - Canonical redirect: https://www.digistore24.com/redir/725205/adminstore
@@ -96,14 +96,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Auswandern nach Thailand — Das Handbuch: Visum, Steuern, Kra? — Typ: E-books, Anbieter: stonebridge, gelistet seit 2026-09-27
-- Wie viel kostet es? — 21.232719 USD
+- Wie viel kostet es? — 21.246012 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Auswandern nach Thailand — Das Handbuch: Visum, Steuern, Kra Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/725205
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/725205/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Auswandern%20nach%20Thailand%20%E2%80%94%20Das%20Handbuch%3A%20Visum%2C%20Steuern%2C%20Kra
 
 ## 4. Editorial notes

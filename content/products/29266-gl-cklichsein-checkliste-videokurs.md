@@ -4,16 +4,16 @@ digistore24_product_id: 249553
 title: "Glücklichsein-Checkliste + Videokurs"
 vendor: "Erfolg-Intuitiv"
 product_type: "Downloads"
-price: 44.16
+price: 44.19
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 22.08
+earnings_per_sale: 22.1
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2018-11-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://erfolg-intuitiv.de/gluecklichsein-Checkliste/?aff=adminstore#aff=adminstore"
 sales_page: "https://erfolg-intuitiv.de/gluecklichsein-Checkliste/"
@@ -22,16 +22,16 @@ language: "de"
 # Glücklichsein-Checkliste + Videokurs
 
 > Product ID `29266` · Digistore24 productId `249553` · [HTML profile page](../../produkte/gl-cklichsein-checkliste-videokurs-29266.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $44.16 (Single payment) |
+| Price | $44.19 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $22.08 |
+| Earnings/sale* | $22.10 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Erfolg-Intuitiv |
@@ -81,14 +81,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Glücklichsein-Checkliste + Videokurs? — Typ: Downloads, Anbieter: Erfolg-Intuitiv, gelistet seit 2018-11-23
-- Wie viel kostet es? — 44.164950000000005 USD
+- Wie viel kostet es? — 44.1926 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Glücklichsein-Checkliste + Videokurs Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/249553
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/249553/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Gl%C3%BCcklichsein-Checkliste%20%2B%20Videokurs
 
 ## 4. Editorial notes

@@ -4,34 +4,34 @@ digistore24_product_id: 396755
 title: "Kleine Knotenkunde: Die wichtigsten Knoten für Outdoor"
 vendor: "ypsilon"
 product_type: "E-books"
-price: 14.62
+price: 14.63
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 7.31
+earnings_per_sale: 7.32
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Survival"]
 listed_since: "2021-07-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/37061/adminstore/"
+promo_link: "https://ousuca.com/buecher/knotenbuch/?aff=adminstore#aff=adminstore"
 sales_page: "https://ousuca.com/buecher/knotenbuch/"
 language: "de"
 ---
 # Kleine Knotenkunde: Die wichtigsten Knoten für Outdoor
 
 > Product ID `37061` · Digistore24 productId `396755` · [HTML profile page](../../produkte/kleine-knotenkunde-die-wichtigsten-knoten-f-r-outdoor-37061.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $14.62 (Single payment) |
+| Price | $14.63 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $7.31 |
+| Earnings/sale* | $7.32 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ypsilon |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/37061/adminstore/
+- **Promo link (affiliate):** https://ousuca.com/buecher/knotenbuch/?aff=adminstore#aff=adminstore
 - Sales page: https://ousuca.com/buecher/knotenbuch/
 - Vendor affiliate support: https://ousuca.com/partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/396755/adminstore
@@ -77,14 +77,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Kleine Knotenkunde: Die wichtigsten Knoten für Outdoor? — Typ: E-books, Anbieter: ypsilon, gelistet seit 2021-07-04
-- Wie viel kostet es? — 14.624748000000002 USD
+- Wie viel kostet es? — 14.633904000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Kleine Knotenkunde: Die wichtigsten Knoten für Outdoor Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/396755
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/396755/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Kleine%20Knotenkunde%3A%20Die%20wichtigsten%20Knoten%20f%C3%BCr%20Outdoor
 
 ## 4. Editorial notes

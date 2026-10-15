@@ -4,16 +4,16 @@ digistore24_product_id: 366886
 title: "Hundewissen Sachkunde - Der Digitale Hundeführerschein"
 vendor: "perrocc"
 product_type: "Member area and video courses"
-price: 56.29
+price: 56.32
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 16.88
+earnings_per_sale: 16.89
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2021-01-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://perrocc.coachy.net/lp/derdigitalehundefuehrerschein/?aff=AFFILIATE&aff=adminstore#aff=adminstore"
 sales_page: "https://perrocc.coachy.net/lp/derdigitalehundefuehrerschein/?aff=AFFILIATE"
@@ -22,16 +22,16 @@ language: "de"
 # Hundewissen Sachkunde - Der Digitale Hundeführerschein
 
 > Product ID `35625` · Digistore24 productId `366886` · [HTML profile page](../../produkte/hundewissen-sachkunde-der-digitale-hundef-hrerschein-35625.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $56.29 (Single payment) |
+| Price | $56.32 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $16.88 |
+| Earnings/sale* | $16.89 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | perrocc |
@@ -103,14 +103,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Hundewissen Sachkunde - Der Digitale Hundeführerschein? — Typ: Member area and video courses, Anbieter: perrocc, gelistet seit 2021-01-09
-- Wie viel kostet es? — 56.285154000000006 USD
+- Wie viel kostet es? — 56.320392000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Hundewissen Sachkunde - Der Digitale Hundeführerschein Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/366886
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/366886/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Hundewissen%20Sachkunde%20-%20Der%20Digitale%20Hundef%C3%BChrerschein
 
 ## 4. Editorial notes

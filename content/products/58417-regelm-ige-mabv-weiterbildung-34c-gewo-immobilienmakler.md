@@ -4,40 +4,40 @@ digistore24_product_id: 709291
 title: "Regelmäßige MaBV-Weiterbildung § 34c GewO Immobilienmakler"
 vendor: "sachkundeak"
 product_type: "Member area and video courses"
-price: 280.93
+price: 281.11
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 70.24
+earnings_per_sale: 70.28
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Personal Development","Profession & Job"]
+categories: ["Personal Development","Profession & Job","Education"]
 listed_since: "2026-08-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/58417/adminstore/"
+promo_link: "https://sachkundelehrgaenge.de/digistore24-%c2%a7-26a-weg-zertifizierter-verwalter-ihk-wohnimmobilienverwalter-in/?aff=adminstore#aff=adminstore"
 sales_page: "https://sachkundelehrgaenge.de/digistore24-%c2%a7-26a-weg-zertifizierter-verwalter-ihk-wohnimmobilienverwalter-in/"
 language: "de"
 ---
 # Regelmäßige MaBV-Weiterbildung § 34c GewO Immobilienmakler
 
 > Product ID `58417` · Digistore24 productId `709291` · [HTML profile page](../../produkte/regelm-ige-mabv-weiterbildung-34c-gewo-immobilienmakler-58417.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $280.93 (Single payment) |
+| Price | $281.11 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $70.24 |
+| Earnings/sale* | $70.28 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | sachkundeak |
 | Listed since | 2026-08-17 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Personal Development, Profession & Job |
+| Categories | Personal Development, Profession & Job, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58417/adminstore/
+- **Promo link (affiliate):** https://sachkundelehrgaenge.de/digistore24-%c2%a7-26a-weg-zertifizierter-verwalter-ihk-wohnimmobilienverwalter-in/?aff=adminstore#aff=adminstore
 - Sales page: https://sachkundelehrgaenge.de/digistore24-%c2%a7-26a-weg-zertifizierter-verwalter-ihk-wohnimmobilienverwalter-in/
 - Vendor affiliate support: https://sachkundelehrgaenge.de/bewerben-sie-die-regelmaessige-mabv-weiterbildung-fuer-%c2%a7-34c-gewo-immobilienmaklerinnen/
 - Canonical redirect: https://www.digistore24.com/redir/709291/adminstore
@@ -87,14 +87,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Regelmäßige MaBV-Weiterbildung § 34c GewO Immobilienmakler? — Typ: Member area and video courses, Anbieter: sachkundeak, gelistet seit 2026-08-17
-- Wie viel kostet es? — 280.933806 USD
+- Wie viel kostet es? — 281.109688 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Regelmäßige MaBV-Weiterbildung § 34c GewO Immobilienmakler Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/709291
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/709291/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Regelm%C3%A4%C3%9Fige%20MaBV-Weiterbildung%20%C2%A7%2034c%20GewO%20Immobilienmakler
 
 ## 4. Editorial notes

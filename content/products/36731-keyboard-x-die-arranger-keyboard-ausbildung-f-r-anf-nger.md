@@ -4,34 +4,34 @@ digistore24_product_id: 12411
 title: "KEYBOARD X - Die Arranger Keyboard Ausbildung für Anfänger"
 vendor: "doormaker"
 product_type: "Member area and video courses"
-price: 1217.7
+price: 1218.46
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 608.85
+earnings_per_sale: 609.23
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dancing & Music"]
 listed_since: "2013-05-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/36731/adminstore/"
+promo_link: "http://www.onlinemusikschule.info/keyboard-spielen-lernen?aff=adminstore#aff=adminstore"
 sales_page: "http://www.onlinemusikschule.info/keyboard-spielen-lernen"
 language: "de"
 ---
 # KEYBOARD X - Die Arranger Keyboard Ausbildung für Anfänger
 
 > Product ID `36731` · Digistore24 productId `12411` · [HTML profile page](../../produkte/keyboard-x-die-arranger-keyboard-ausbildung-f-r-anf-nger-36731.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1217.70 (Installment) |
+| Price | $1218.46 (Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $608.85 |
+| Earnings/sale* | $609.23 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | doormaker |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/36731/adminstore/
+- **Promo link (affiliate):** http://www.onlinemusikschule.info/keyboard-spielen-lernen?aff=adminstore#aff=adminstore
 - Sales page: http://www.onlinemusikschule.info/keyboard-spielen-lernen
 - Vendor affiliate support: https://onlinemusikschule.info/partnerprogramm
 - Canonical redirect: https://www.digistore24.com/redir/12411/adminstore
@@ -95,14 +95,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KEYBOARD X - Die Arranger Keyboard Ausbildung für Anfänger? — Typ: Member area and video courses, Anbieter: doormaker, gelistet seit 2013-05-26
-- Wie viel kostet es? — 1217.700348 USD
+- Wie viel kostet es? — 1218.462704 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: KEYBOARD X - Die Arranger Keyboard Ausbildung für Anfänger Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/12411
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/12411/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=KEYBOARD%20X%20-%20Die%20Arranger%20Keyboard%20Ausbildung%20f%C3%BCr%20Anf%C3%A4nger
 
 ## 4. Editorial notes

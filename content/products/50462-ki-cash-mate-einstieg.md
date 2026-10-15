@@ -7,13 +7,13 @@ product_type: "Member area and video courses"
 price: 7.83
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 3.91
+earnings_per_sale: 3.92
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2024-11-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://www.altersvorsorge-vierzigplus-incomebooster.de/ki-cash-mate-einstieg/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.altersvorsorge-vierzigplus-incomebooster.de/ki-cash-mate-einstieg/"
@@ -22,7 +22,7 @@ language: "de"
 # KI Cash Mate Einstieg:
 
 > Product ID `50462` · Digistore24 productId `579744` · [HTML profile page](../../produkte/ki-cash-mate-einstieg-50462.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,7 @@ language: "de"
 | Product type | Member area and video courses |
 | Price | $7.83 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $3.91 |
+| Earnings/sale* | $3.92 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | digitalesonlinebusiness |
@@ -59,14 +59,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI Cash Mate Einstieg:? — Typ: Member area and video courses, Anbieter: digitalesonlinebusiness, gelistet seit 2024-11-09
-- Wie viel kostet es? — 7.826700000000001 USD
+- Wie viel kostet es? — 7.8316 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: KI Cash Mate Einstieg: Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/579744
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/579744/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=KI%20Cash%20Mate%20Einstieg%3A
 
 ## 4. Editorial notes

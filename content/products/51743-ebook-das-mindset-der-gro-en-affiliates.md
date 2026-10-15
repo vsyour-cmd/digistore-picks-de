@@ -10,19 +10,19 @@ affiliate_commission_pct: 50
 earnings_per_sale: 5.2
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Online Marketing & E-Business","Personal Development"]
+categories: ["Personal Development","Online Marketing & E-Business"]
 listed_since: "2025-02-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/51743/adminstore/"
+promo_link: "https://michael-kotzur.de/das-mindset-der-grossen-affiliates/?aff=adminstore#aff=adminstore"
 sales_page: "https://michael-kotzur.de/das-mindset-der-grossen-affiliates/"
 language: "de"
 ---
 # eBook: Das Mindset der großen Affiliates
 
 > Product ID `51743` · Digistore24 productId `597886` · [HTML profile page](../../produkte/ebook-das-mindset-der-gro-en-affiliates-51743.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | pixonmedia |
 | Listed since | 2025-02-22 |
 | Auto-accept affiliates | yes |
-| Categories | Online Marketing & E-Business, Personal Development |
+| Categories | Personal Development, Online Marketing & E-Business |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/51743/adminstore/
+- **Promo link (affiliate):** https://michael-kotzur.de/das-mindset-der-grossen-affiliates/?aff=adminstore#aff=adminstore
 - Sales page: https://michael-kotzur.de/das-mindset-der-grossen-affiliates/
 - Vendor affiliate support: https://michaelpartner.com/
 - Canonical redirect: https://www.digistore24.com/redir/597886/adminstore
@@ -77,14 +77,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist eBook: Das Mindset der großen Affiliates? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2025-02-22
-- Wie viel kostet es? — 10.398330000000001 USD
+- Wie viel kostet es? — 10.40484 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: eBook: Das Mindset der großen Affiliates Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/597886
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/597886/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=eBook%3A%20Das%20Mindset%20der%20gro%C3%9Fen%20Affiliates
 
 ## 4. Editorial notes

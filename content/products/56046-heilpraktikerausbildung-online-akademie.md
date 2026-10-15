@@ -4,16 +4,16 @@ digistore24_product_id: 679337
 title: "Heilpraktikerausbildung - Online-Akademie"
 vendor: "info8293"
 product_type: "Online coaching"
-price: 2649.62
+price: 2651.28
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 794.89
+earnings_per_sale: 795.39
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-03-25"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/679337?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/679337"
@@ -22,16 +22,16 @@ language: "de"
 # Heilpraktikerausbildung - Online-Akademie
 
 > Product ID `56046` · Digistore24 productId `679337` · [HTML profile page](../../produkte/heilpraktikerausbildung-online-akademie-56046.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $2649.62 (Single payment) |
+| Price | $2651.28 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $794.89 |
+| Earnings/sale* | $795.39 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | info8293 |
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Heilpraktikerausbildung - Online-Akademie? — Typ: Online coaching, Anbieter: info8293, gelistet seit 2026-03-25
-- Wie viel kostet es? — 2649.617475 USD
+- Wie viel kostet es? — 2651.2763 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Heilpraktikerausbildung - Online-Akademie Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/679337
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/679337/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Heilpraktikerausbildung%20-%20Online-Akademie
 
 ## 4. Editorial notes

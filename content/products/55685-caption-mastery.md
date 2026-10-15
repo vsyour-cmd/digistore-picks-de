@@ -4,34 +4,34 @@ digistore24_product_id: 595163
 title: "Caption Mastery"
 vendor: "seotech"
 product_type: "Member area and video courses"
-price: 336.75
+price: 336.96
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 114.02
+earnings_per_sale: 114.1
 cart_conversion_pct: 11
 cancel_rate_pct: 0.75
 categories: ["Computer & Internet","Online Marketing & E-Business","Social Media"]
 listed_since: "2025-02-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/55685/adminstore/"
+promo_link: "https://go.eugen-grinschuk.de/caption-mastery/?aff=adminstore#aff=adminstore"
 sales_page: "https://go.eugen-grinschuk.de/caption-mastery/"
 language: "de"
 ---
 # Caption Mastery
 
 > Product ID `55685` · Digistore24 productId `595163` · [HTML profile page](../../produkte/caption-mastery-55685.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $336.75 (Single payment) |
+| Price | $336.96 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $114.02 |
+| Earnings/sale* | $114.10 |
 | Cart conversion* | 11% |
 | Cancel rate* | 0.75% |
 | Vendor | seotech |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55685/adminstore/
+- **Promo link (affiliate):** https://go.eugen-grinschuk.de/caption-mastery/?aff=adminstore#aff=adminstore
 - Sales page: https://go.eugen-grinschuk.de/caption-mastery/
 - Canonical redirect: https://www.digistore24.com/redir/595163/adminstore
 
@@ -66,14 +66,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Caption Mastery? — Typ: Member area and video courses, Anbieter: seotech, gelistet seit 2025-02-09
-- Wie viel kostet es? — 336.74935800000003 USD
+- Wie viel kostet es? — 336.960184 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Caption Mastery Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/595163
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/595163/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Caption%20Mastery
 
 ## 4. Editorial notes

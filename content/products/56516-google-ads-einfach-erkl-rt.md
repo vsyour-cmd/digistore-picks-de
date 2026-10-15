@@ -4,16 +4,16 @@ digistore24_product_id: 688319
 title: "Google Ads einfach erklärt"
 vendor: "privat16850fc2"
 product_type: "Member area and video courses"
-price: 11.07
+price: 11.08
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 5.53
+earnings_per_sale: 5.54
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2026-04-28"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://www.onlinebusiness-wissen.de/google-ads-kurs/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.onlinebusiness-wissen.de/google-ads-kurs/"
@@ -22,16 +22,16 @@ language: "de"
 # Google Ads einfach erklärt
 
 > Product ID `56516` · Digistore24 productId `688319` · [HTML profile page](../../produkte/google-ads-einfach-erkl-rt-56516.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $11.07 (Single payment) |
+| Price | $11.08 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $5.53 |
+| Earnings/sale* | $5.54 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | privat16850fc2 |
@@ -59,14 +59,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Google Ads einfach erklärt? — Typ: Member area and video courses, Anbieter: privat16850fc2, gelistet seit 2026-04-28
-- Wie viel kostet es? — 11.06919 USD
+- Wie viel kostet es? — 11.076120000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Google Ads einfach erklärt Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/688319
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/688319/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Google%20Ads%20einfach%20erkl%C3%A4rt
 
 ## 4. Editorial notes

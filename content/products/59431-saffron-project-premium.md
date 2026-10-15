@@ -4,34 +4,34 @@ digistore24_product_id: 724814
 title: "Saffron Project Premium | Проект Шафран Премиум"
 vendor: "fafenrotirina9b234"
 product_type: "E-books"
-price: 559.05
+price: 559.4
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 55.91
+earnings_per_sale: 55.94
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-09-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/59431/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/724814?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/724814"
 language: "de"
 ---
 # Saffron Project Premium | Проект Шафран Премиум
 
 > Product ID `59431` · Digistore24 productId `724814` · [HTML profile page](../../produkte/saffron-project-premium-59431.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $559.05 (Single payment) |
+| Price | $559.40 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $55.91 |
+| Earnings/sale* | $55.94 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | fafenrotirina9b234 |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59431/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/724814?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/724814
 - Canonical redirect: https://www.digistore24.com/redir/724814/adminstore
 
@@ -86,14 +86,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Saffron Project Premium | Проект Шафран Премиум? — Typ: E-books, Anbieter: fafenrotirina9b234, gelistet seit 2026-09-20
-- Wie viel kostet es? — 559.0500000000001 USD
+- Wie viel kostet es? — 559.4 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Saffron Project Premium | Проект Шафран Премиум Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/724814
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/724814/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Saffron%20Project%20Premium%20%7C%20%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%A8%D0%B0%D1%84%D1%80%D0%B0%D0%BD%20%D0%9F%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC
 
 ## 4. Editorial notes

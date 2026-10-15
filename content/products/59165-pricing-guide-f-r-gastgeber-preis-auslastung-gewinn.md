@@ -4,7 +4,7 @@ digistore24_product_id: 706785
 title: "Pricing-Guide für Gastgeber – Preis, Auslastung, Gewinn"
 vendor: "Anha13"
 product_type: "E-books"
-price: 24.04
+price: 24.05
 currency: "USD"
 affiliate_commission_pct: 40
 earnings_per_sale: 9.62
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hotels & Gastronomy"]
 listed_since: "2026-09-13"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/59165/adminstore/"
+promo_link: "https://ahliving.de/airbnb-preise-optimieren-fehler-vermeiden-mehr-verdienen/?aff=adminstore#aff=adminstore"
 sales_page: "https://ahliving.de/airbnb-preise-optimieren-fehler-vermeiden-mehr-verdienen/"
 language: "de"
 ---
 # Pricing-Guide für Gastgeber – Preis, Auslastung, Gewinn
 
 > Product ID `59165` · Digistore24 productId `706785` · [HTML profile page](../../produkte/pricing-guide-f-r-gastgeber-preis-auslastung-gewinn-59165.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $24.04 (Single payment) |
+| Price | $24.05 (Single payment) |
 | Affiliate commission | 40% |
 | Earnings/sale* | $9.62 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59165/adminstore/
+- **Promo link (affiliate):** https://ahliving.de/airbnb-preise-optimieren-fehler-vermeiden-mehr-verdienen/?aff=adminstore#aff=adminstore
 - Sales page: https://ahliving.de/airbnb-preise-optimieren-fehler-vermeiden-mehr-verdienen/
 - Canonical redirect: https://www.digistore24.com/redir/706785/adminstore
 
@@ -84,14 +84,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Pricing-Guide für Gastgeber – Preis, Auslastung, Gewinn? — Typ: E-books, Anbieter: Anha13, gelistet seit 2026-09-13
-- Wie viel kostet es? — 24.039150000000003 USD
+- Wie viel kostet es? — 24.0542 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Pricing-Guide für Gastgeber – Preis, Auslastung, Gewinn Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/706785
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/706785/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Pricing-Guide%20f%C3%BCr%20Gastgeber%20%E2%80%93%20Preis%2C%20Auslastung%2C%20Gewinn
 
 ## 4. Editorial notes

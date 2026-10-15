@@ -4,40 +4,40 @@ digistore24_product_id: 624279
 title: "Als Frau mit UGC Geld verdienen - Extreme Cold Traffic CVR"
 vendor: "drfranzwalter"
 product_type: "Member area and video courses"
-price: 513.95
+price: 514.27
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 256.97
+earnings_per_sale: 257.13
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Business & Investment","Photography & Film","Profession & Job"]
+categories: ["Business & Investment","Profession & Job","Photography & Film"]
 listed_since: "2025-07-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
-research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/53921/adminstore/"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
+research_quality: "medium"
+promo_link: "https://ugc-community.funnelcockpit.com/angebot/?aff=adminstore#aff=adminstore"
 sales_page: "https://ugc-community.funnelcockpit.com/angebot/"
 language: "de"
 ---
 # Als Frau mit UGC Geld verdienen - Extreme Cold Traffic CVR
 
 > Product ID `53921` · Digistore24 productId `624279` · [HTML profile page](../../produkte/als-frau-mit-ugc-geld-verdienen-extreme-cold-traffic-cvr-53921.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $513.95 (Single payment) |
+| Price | $514.27 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $256.97 |
+| Earnings/sale* | $257.13 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | drfranzwalter |
 | Listed since | 2025-07-15 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Photography & Film, Profession & Job |
+| Categories | Business & Investment, Profession & Job, Photography & Film |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,14 +45,22 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/53921/adminstore/
+- **Promo link (affiliate):** https://ugc-community.funnelcockpit.com/angebot/?aff=adminstore#aff=adminstore
 - Sales page: https://ugc-community.funnelcockpit.com/angebot/
 - Vendor affiliate support: https://ugc-community.funnelcockpit.com/affiliatesupport/
 - Canonical redirect: https://www.digistore24.com/redir/624279/adminstore
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** (1) Angebot UGC Community
+- **Guarantee mention:** "14-Tage Geld" (verify on the official page before relying on it)
+- **Opening copy (first paragraphs):**
+  > Wie man sich nebenbei ein zweites Einkommenmit simplen Fotos/Reels oder Produkttest aufbaut
+  > Sichere dir den 30 Tage Fahrplan und baue dir von 0 auf 100 dein Social Media Nebeneinkommen auf.
+  > WAS DICH ERWARTET:Step-by-Step Fahrplan zum nachmachen für ein seriöses Nebeneinkommen
+  > Hier bekommst du den kompletten Überblick über die UGC-Industrie, damit du von Tag 1 weißt, wo Geld fließt, welche Nischen sich lohnen und welche dich Zeit kosten. Du lernst die Vor- und Nachteile aller relevanten UGC-Nischen, bekommst konkrete Videoanleitungen zum direkten Nachmachen und verstehst die Psychologie von Brands, sodass du nicht wie ein Anfänger wirkst, sondern wie ein Creator, der genau weiß, was Unternehmen wirklich wollen.
+- **Page word count:** 653
+- **OG image:** https://static.funnelcockpit.com/upload/kMzzBG2Kx8SuiTdrF/0e14ffdbcee0bfcfa0296353d2535ed4.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
@@ -67,14 +75,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Als Frau mit UGC Geld verdienen - Extreme Cold Traffic CVR? — Typ: Member area and video courses, Anbieter: drfranzwalter, gelistet seit 2025-07-15
-- Wie viel kostet es? — 513.9458460000001 USD
-- Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
+- Wie viel kostet es? — 514.267608 USD
+- Garantie? — 14-Tage Geld
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Als Frau mit UGC Geld verdienen - Extreme Cold Traffic CVR Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/624279
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/624279/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Als%20Frau%20mit%20UGC%20Geld%20verdienen%20-%20Extreme%20Cold%20Traffic%20CVR
 
 ## 4. Editorial notes

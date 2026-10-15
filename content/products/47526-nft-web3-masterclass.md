@@ -4,16 +4,16 @@ digistore24_product_id: 526446
 title: "NFT & Web3 Masterclass"
 vendor: "NFTAkademie"
 product_type: "Member area and video courses"
-price: 3347.59
+price: 3349.69
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 1673.8
+earnings_per_sale: 1674.84
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Finances"]
 listed_since: "2023-11-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://nft-akademie.com/nft-web3-masterclass-by-nft-akademie/?aff=adminstore#aff=adminstore"
 sales_page: "https://nft-akademie.com/nft-web3-masterclass-by-nft-akademie/"
@@ -22,16 +22,16 @@ language: "de"
 # NFT & Web3 Masterclass
 
 > Product ID `47526` · Digistore24 productId `526446` · [HTML profile page](../../produkte/nft-web3-masterclass-47526.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $3347.59 (Single payment, Installment) |
+| Price | $3349.69 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $1673.80 |
+| Earnings/sale* | $1674.84 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | NFTAkademie |
@@ -89,14 +89,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist NFT & Web3 Masterclass? — Typ: Member area and video courses, Anbieter: NFTAkademie, gelistet seit 2023-11-22
-- Wie viel kostet es? — 3347.5914000000002 USD
+- Wie viel kostet es? — 3349.6872 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: NFT & Web3 Masterclass Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/526446
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/526446/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=NFT%20%26%20Web3%20Masterclass
 
 ## 4. Editorial notes

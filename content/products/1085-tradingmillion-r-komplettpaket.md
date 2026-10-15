@@ -4,16 +4,16 @@ digistore24_product_id: 14723
 title: "Tradingmillionär Komplettpaket"
 vendor: "Corpmail"
 product_type: "Downloads"
-price: 337.31
+price: 337.52
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 168.65
+earnings_per_sale: 168.76
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Trading Products"]
 listed_since: "2013-08-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "http://www.tradingmillionaer.de?aff=adminstore#aff=adminstore"
 sales_page: "http://www.tradingmillionaer.de"
@@ -22,16 +22,16 @@ language: "de"
 # Tradingmillionär Komplettpaket
 
 > Product ID `1085` · Digistore24 productId `14723` · [HTML profile page](../../produkte/tradingmillion-r-komplettpaket-1085.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $337.31 (Single payment) |
+| Price | $337.52 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $168.65 |
+| Earnings/sale* | $168.76 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Corpmail |
@@ -96,14 +96,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Tradingmillionär Komplettpaket? — Typ: Downloads, Anbieter: Corpmail, gelistet seit 2013-08-20
-- Wie viel kostet es? — 337.30840800000004 USD
+- Wie viel kostet es? — 337.519584 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Tradingmillionär Komplettpaket Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/14723
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/14723/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Tradingmillion%C3%A4r%20Komplettpaket
 
 ## 4. Editorial notes

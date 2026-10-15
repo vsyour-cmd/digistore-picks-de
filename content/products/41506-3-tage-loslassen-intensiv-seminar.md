@@ -4,16 +4,16 @@ digistore24_product_id: 463188
 title: "3 Tage LOSLASSEN intensiv Seminar"
 vendor: "InaRudolph"
 product_type: "Webinar"
-price: 36.11
+price: 36.14
 currency: "USD"
 affiliate_commission_pct: 80
-earnings_per_sale: 37.6
+earnings_per_sale: 37.63
 cart_conversion_pct: 28
 cancel_rate_pct: 0.85
 categories: ["Personal Development"]
 listed_since: "2022-10-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://inarudolph.de/3-tage-intensiv-seminar/?aff=adminstore#aff=adminstore"
 sales_page: "https://inarudolph.de/3-tage-intensiv-seminar/"
@@ -22,16 +22,16 @@ language: "de"
 # 3 Tage LOSLASSEN intensiv Seminar
 
 > Product ID `41506` · Digistore24 productId `463188` · [HTML profile page](../../produkte/3-tage-loslassen-intensiv-seminar-41506.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Webinar |
-| Price | $36.11 (Single payment) |
+| Price | $36.14 (Single payment) |
 | Affiliate commission | 80% |
-| Earnings/sale* | $37.60 |
+| Earnings/sale* | $37.63 |
 | Cart conversion* | 28% |
 | Cancel rate* | 0.85% |
 | Vendor | InaRudolph |
@@ -87,14 +87,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 3 Tage LOSLASSEN intensiv Seminar? — Typ: Webinar, Anbieter: InaRudolph, gelistet seit 2022-10-04
-- Wie viel kostet es? — 36.11463 USD
+- Wie viel kostet es? — 36.13724 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 3 Tage LOSLASSEN intensiv Seminar Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/463188
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/463188/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=3%20Tage%20LOSLASSEN%20intensiv%20Seminar
 
 ## 4. Editorial notes

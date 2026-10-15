@@ -4,34 +4,34 @@ digistore24_product_id: 719130
 title: "Sunny’s Keto Academy – Dein Keto Starter Guide"
 vendor: "nadinesunny"
 product_type: "E-books"
-price: 67.92
+price: 67.97
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 47.55
+earnings_per_sale: 47.58
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-08-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/58685/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/719130?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/719130"
 language: "de"
 ---
 # Sunny’s Keto Academy – Dein Keto Starter Guide
 
 > Product ID `58685` · Digistore24 productId `719130` · [HTML profile page](../../produkte/sunny-s-keto-academy-dein-keto-starter-guide-58685.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $67.92 (Single payment) |
+| Price | $67.97 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $47.55 |
+| Earnings/sale* | $47.58 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | nadinesunny |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58685/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/719130?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/719130
 - Canonical redirect: https://www.digistore24.com/redir/719130/adminstore
 
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Sunny’s Keto Academy – Dein Keto Starter Guide? — Typ: E-books, Anbieter: nadinesunny, gelistet seit 2026-08-26
-- Wie viel kostet es? — 67.924575 USD
+- Wie viel kostet es? — 67.9671 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Sunny’s Keto Academy – Dein Keto Starter Guide Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/719130
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/719130/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Sunny%E2%80%99s%20Keto%20Academy%20%E2%80%93%20Dein%20Keto%20Starter%20Guide
 
 ## 4. Editorial notes

@@ -7,13 +7,13 @@ product_type: "Member area and video courses"
 price: 7.67
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 34.3
+earnings_per_sale: 34.32
 cart_conversion_pct: 21
 cancel_rate_pct: 0
 categories: ["Travel & Culture"]
 listed_since: "2025-09-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://meilenweitreisen.app.mentortools.com/meilen-master-kurs?aff=adminstore#aff=adminstore"
 sales_page: "https://meilenweitreisen.app.mentortools.com/meilen-master-kurs"
@@ -22,7 +22,7 @@ language: "de"
 # Meilen Master - besser und günstiger Reisen mit Meilen
 
 > Product ID `55278` · Digistore24 productId `638069` · [HTML profile page](../../produkte/meilen-master-besser-und-g-nstiger-reisen-mit-meilen-55278.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,7 @@ language: "de"
 | Product type | Member area and video courses |
 | Price | $7.67 (Single payment, Installment) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $34.30 |
+| Earnings/sale* | $34.32 |
 | Cart conversion* | 21% |
 | Cancel rate* | 0% |
 | Vendor | meilenweit_reisen_ |
@@ -89,14 +89,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Meilen Master - besser und günstiger Reisen mit Meilen? — Typ: Member area and video courses, Anbieter: meilenweit_reisen_, gelistet seit 2025-09-26
-- Wie viel kostet es? — 7.670166000000001 USD
+- Wie viel kostet es? — 7.674968000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Meilen Master - besser und günstiger Reisen mit Meilen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/638069
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/638069/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Meilen%20Master%20-%20besser%20und%20g%C3%BCnstiger%20Reisen%20mit%20Meilen
 
 ## 4. Editorial notes

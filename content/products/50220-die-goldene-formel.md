@@ -4,16 +4,16 @@ digistore24_product_id: 572251
 title: "Die goldene Formel"
 vendor: "AndreasLang"
 product_type: "Member area and video courses"
-price: 141.88
+price: 141.96
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 86.81
+earnings_per_sale: 86.86
 cart_conversion_pct: 5
 cancel_rate_pct: 5.86
 categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2024-09-25"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
 promo_link: "https://billionenmarkt.com/breakingnews7?aff=adminstore#aff=adminstore"
 sales_page: "https://billionenmarkt.com/breakingnews7"
@@ -22,16 +22,16 @@ language: "de"
 # Die goldene Formel
 
 > Product ID `50220` · Digistore24 productId `572251` · [HTML profile page](../../produkte/die-goldene-formel-50220.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $141.88 (Single payment, Installment) |
+| Price | $141.96 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $86.81 |
+| Earnings/sale* | $86.86 |
 | Cart conversion* | 5% |
 | Cancel rate* | 5.86% |
 | Vendor | AndreasLang |
@@ -72,14 +72,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die goldene Formel? — Typ: Member area and video courses, Anbieter: AndreasLang, gelistet seit 2024-09-25
-- Wie viel kostet es? — 141.875709 USD
+- Wie viel kostet es? — 141.964532 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Die goldene Formel Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/572251
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/572251/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Die%20goldene%20Formel
 
 ## 4. Editorial notes

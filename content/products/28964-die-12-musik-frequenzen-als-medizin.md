@@ -4,16 +4,16 @@ digistore24_product_id: 584114
 title: "Die 12 Musik-Frequenzen als Medizin"
 vendor: "Musik-Apotheke"
 product_type: "Downloads"
-price: 54.34
+price: 54.37
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 14.7
+earnings_per_sale: 14.71
 cart_conversion_pct: 15
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2024-12-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.compose-media.de/die-12-musik-frequenzen-als-medizin/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.compose-media.de/die-12-musik-frequenzen-als-medizin/"
@@ -22,16 +22,16 @@ language: "de"
 # Die 12 Musik-Frequenzen als Medizin
 
 > Product ID `28964` · Digistore24 productId `584114` · [HTML profile page](../../produkte/die-12-musik-frequenzen-als-medizin-28964.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $54.34 (Single payment) |
+| Price | $54.37 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $14.70 |
+| Earnings/sale* | $14.71 |
 | Cart conversion* | 15% |
 | Cancel rate* | 0% |
 | Vendor | Musik-Apotheke |
@@ -82,14 +82,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die 12 Musik-Frequenzen als Medizin? — Typ: Downloads, Anbieter: Musik-Apotheke, gelistet seit 2024-12-04
-- Wie viel kostet es? — 54.33966000000001 USD
+- Wie viel kostet es? — 54.37368 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Die 12 Musik-Frequenzen als Medizin Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/584114
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/584114/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Die%2012%20Musik-Frequenzen%20als%20Medizin
 
 ## 4. Editorial notes

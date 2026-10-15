@@ -4,34 +4,34 @@ digistore24_product_id: 568194
 title: "Meta Ads Elite"
 vendor: "Homer25"
 product_type: "Member area and video courses"
-price: 107.11
+price: 107.18
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 53.56
+earnings_per_sale: 53.59
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media"]
 listed_since: "2024-09-02"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/50413/adminstore/"
+promo_link: "https://www.jonasklaholz.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.jonasklaholz.de/"
 language: "de"
 ---
 # Meta Ads Elite
 
 > Product ID `50413` · Digistore24 productId `568194` · [HTML profile page](../../produkte/meta-ads-elite-50413.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $107.11 (Single payment, Installment) |
+| Price | $107.18 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $53.56 |
+| Earnings/sale* | $53.59 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Homer25 |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/50413/adminstore/
+- **Promo link (affiliate):** https://www.jonasklaholz.de/?aff=adminstore#aff=adminstore
 - Sales page: https://www.jonasklaholz.de/
 - Vendor affiliate support: https://www.jonasklaholz.de/partnerprogramm-2/
 - Canonical redirect: https://www.digistore24.com/redir/568194/adminstore
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Meta Ads Elite? — Typ: Member area and video courses, Anbieter: Homer25, gelistet seit 2024-09-02
-- Wie viel kostet es? — 107.11398000000001 USD
+- Wie viel kostet es? — 107.18104 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Meta Ads Elite Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/568194
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/568194/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Meta%20Ads%20Elite
 
 ## 4. Editorial notes

@@ -4,40 +4,40 @@ digistore24_product_id: 413283
 title: "Ausbildung Mikroimmuntherapie für Fachpersonen"
 vendor: "CorinneHeitz"
 product_type: "Member area and video courses"
-price: 1203.08
+price: 1203.83
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 120.31
+earnings_per_sale: 120.38
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Health & Fitness"]
+categories: ["Health & Fitness","Education"]
 listed_since: "2021-10-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/45775/adminstore/"
+promo_link: "https://naturheilkunde-akademie.com/komplette-ausbildung-mit-paket-zum-sonderpreis/?aff=adminstore#aff=adminstore"
 sales_page: "https://naturheilkunde-akademie.com/komplette-ausbildung-mit-paket-zum-sonderpreis/"
 language: "de"
 ---
 # Ausbildung Mikroimmuntherapie für Fachpersonen
 
 > Product ID `45775` · Digistore24 productId `413283` · [HTML profile page](../../produkte/ausbildung-mikroimmuntherapie-f-r-fachpersonen-45775.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1203.08 (Single payment, Installment) |
+| Price | $1203.83 (Single payment, Installment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $120.31 |
+| Earnings/sale* | $120.38 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | CorinneHeitz |
 | Listed since | 2021-10-24 |
 | Auto-accept affiliates | no (approval required) |
-| Categories | Education, Health & Fitness |
+| Categories | Health & Fitness, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/45775/adminstore/
+- **Promo link (affiliate):** https://naturheilkunde-akademie.com/komplette-ausbildung-mit-paket-zum-sonderpreis/?aff=adminstore#aff=adminstore
 - Sales page: https://naturheilkunde-akademie.com/komplette-ausbildung-mit-paket-zum-sonderpreis/
 - Canonical redirect: https://www.digistore24.com/redir/413283/adminstore
 
@@ -92,14 +92,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ausbildung Mikroimmuntherapie für Fachpersonen? — Typ: Member area and video courses, Anbieter: CorinneHeitz, gelistet seit 2021-10-24
-- Wie viel kostet es? — 1203.0756000000001 USD
+- Wie viel kostet es? — 1203.8288 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Ausbildung Mikroimmuntherapie für Fachpersonen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/413283
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/413283/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Ausbildung%20Mikroimmuntherapie%20f%C3%BCr%20Fachpersonen
 
 ## 4. Editorial notes

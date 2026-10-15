@@ -4,16 +4,16 @@ digistore24_product_id: 691042
 title: "Astro-Produkte - 25% Provision auf jeden Verkauf"
 vendor: "Freifone"
 product_type: "Remote service provided electronically"
-price: 9.38
+price: 9.39
 currency: "USD"
 affiliate_commission_pct: 25
 earnings_per_sale: 2.35
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Personal Development","Services","Spiri­tua­lity & Esotericism"]
+categories: ["Personal Development","Spiri­tua­lity & Esotericism","Services"]
 listed_since: "2026-05-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://designs-nf.com/astro?aff=adminstore#aff=adminstore"
 sales_page: "https://designs-nf.com/astro"
@@ -22,14 +22,14 @@ language: "de"
 # Astro-Produkte - 25% Provision auf jeden Verkauf
 
 > Product ID `56504` · Digistore24 productId `691042` · [HTML profile page](../../produkte/astro-produkte-25-provision-auf-jeden-verkauf-56504.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $9.38 (Single payment) |
+| Price | $9.39 (Single payment) |
 | Affiliate commission | 25% |
 | Earnings/sale* | $2.35 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | Freifone |
 | Listed since | 2026-05-07 |
 | Auto-accept affiliates | yes |
-| Categories | Personal Development, Services, Spiri­tua­lity & Esotericism |
+| Categories | Personal Development, Spiri­tua­lity & Esotericism, Services |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -88,14 +88,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Astro-Produkte - 25% Provision auf jeden Verkauf? — Typ: Remote service provided electronically, Anbieter: Freifone, gelistet seit 2026-05-07
-- Wie viel kostet es? — 9.380859000000001 USD
+- Wie viel kostet es? — 9.386732 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Astro-Produkte - 25% Provision auf jeden Verkauf Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/691042
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/691042/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Astro-Produkte%20-%2025%25%20Provision%20auf%20jeden%20Verkauf
 
 ## 4. Editorial notes

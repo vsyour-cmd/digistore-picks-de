@@ -4,7 +4,7 @@ digistore24_product_id: 560236
 title: "Marmelade ohne Gelierzucker kochen"
 vendor: "FrauInga"
 product_type: "E-books"
-price: 8.25
+price: 8.26
 currency: "USD"
 affiliate_commission_pct: 40
 earnings_per_sale: 3.3
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink"]
 listed_since: "2024-07-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/53161/adminstore/"
+promo_link: "https://jahreszeitenkueche.de/ebook-marmelade-kochen-ohne-gelierzucker?aff=adminstore#aff=adminstore"
 sales_page: "https://jahreszeitenkueche.de/ebook-marmelade-kochen-ohne-gelierzucker"
 language: "de"
 ---
 # Marmelade ohne Gelierzucker kochen
 
 > Product ID `53161` · Digistore24 productId `560236` · [HTML profile page](../../produkte/marmelade-ohne-gelierzucker-kochen-53161.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $8.25 (Single payment) |
+| Price | $8.26 (Single payment) |
 | Affiliate commission | 40% |
 | Earnings/sale* | $3.30 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/53161/adminstore/
+- **Promo link (affiliate):** https://jahreszeitenkueche.de/ebook-marmelade-kochen-ohne-gelierzucker?aff=adminstore#aff=adminstore
 - Sales page: https://jahreszeitenkueche.de/ebook-marmelade-kochen-ohne-gelierzucker
 - Vendor affiliate support: https://jahreszeitenkueche.de/werde-affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/560236/adminstore
@@ -83,14 +83,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Marmelade ohne Gelierzucker kochen? — Typ: E-books, Anbieter: FrauInga, gelistet seit 2024-07-08
-- Wie viel kostet es? — 8.251578 USD
+- Wie viel kostet es? — 8.256744 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Marmelade ohne Gelierzucker kochen Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/560236
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/560236/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Marmelade%20ohne%20Gelierzucker%20kochen
 
 ## 4. Editorial notes

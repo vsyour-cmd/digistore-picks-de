@@ -4,34 +4,34 @@ digistore24_product_id: 319463
 title: "Forex-Handelssystem BOSreversal"
 vendor: "topebooksdownload"
 product_type: "Downloads"
-price: 121.2
+price: 121.28
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 30.3
+earnings_per_sale: 30.32
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Trading Products"]
 listed_since: "2020-04-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/42855/adminstore/"
+promo_link: "https://bos-trading-forum.de/bosreversal-forex-handelssystem/?aff=adminstore#aff=adminstore"
 sales_page: "https://bos-trading-forum.de/bosreversal-forex-handelssystem/"
 language: "de"
 ---
 # Forex-Handelssystem BOSreversal
 
 > Product ID `42855` · Digistore24 productId `319463` · [HTML profile page](../../produkte/forex-handelssystem-bosreversal-42855.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $121.20 (Single payment, Subscription) |
+| Price | $121.28 (Single payment, Subscription) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $30.30 |
+| Earnings/sale* | $30.32 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | topebooksdownload |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/42855/adminstore/
+- **Promo link (affiliate):** https://bos-trading-forum.de/bosreversal-forex-handelssystem/?aff=adminstore#aff=adminstore
 - Sales page: https://bos-trading-forum.de/bosreversal-forex-handelssystem/
 - Vendor affiliate support: https://bos-trading-forum.de/affiliate-bosreversal/
 - Canonical redirect: https://www.digistore24.com/redir/319463/adminstore
@@ -102,14 +102,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Forex-Handelssystem BOSreversal? — Typ: Downloads, Anbieter: topebooksdownload, gelistet seit 2020-04-08
-- Wie viel kostet es? — 121.20204000000001 USD
+- Wie viel kostet es? — 121.27792000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Forex-Handelssystem BOSreversal Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/319463
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/319463/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Forex-Handelssystem%20BOSreversal
 
 ## 4. Editorial notes

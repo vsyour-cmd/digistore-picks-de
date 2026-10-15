@@ -4,16 +4,16 @@ digistore24_product_id: 552698
 title: "Breathwork und Beambreath Grundausbildung"
 vendor: "BeamdreamBreathworks"
 product_type: "Member area and video courses"
-price: 1177.29
+price: 1178.03
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 172.21
+earnings_per_sale: 172.32
 cart_conversion_pct: 17
 cancel_rate_pct: 2.7
 categories: ["Personal Development"]
 listed_since: "2024-05-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.beamdream.com/breathwork-teacher-training?aff=adminstore#aff=adminstore"
 sales_page: "https://www.beamdream.com/breathwork-teacher-training"
@@ -22,16 +22,16 @@ language: "de"
 # Breathwork und Beambreath Grundausbildung
 
 > Product ID `56256` · Digistore24 productId `552698` · [HTML profile page](../../produkte/breathwork-und-beambreath-grundausbildung-56256.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1177.29 (Single payment, Installment) |
+| Price | $1178.03 (Single payment, Installment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $172.21 |
+| Earnings/sale* | $172.32 |
 | Cart conversion* | 17% |
 | Cancel rate* | 2.7% |
 | Vendor | BeamdreamBreathworks |
@@ -100,14 +100,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Breathwork und Beambreath Grundausbildung? — Typ: Member area and video courses, Anbieter: BeamdreamBreathworks, gelistet seit 2024-05-16
-- Wie viel kostet es? — 1177.292214 USD
+- Wie viel kostet es? — 1178.029272 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Breathwork und Beambreath Grundausbildung Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/552698
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/552698/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Breathwork%20und%20Beambreath%20Grundausbildung
 
 ## 4. Editorial notes

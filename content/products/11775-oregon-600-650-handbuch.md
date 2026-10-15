@@ -4,34 +4,34 @@ digistore24_product_id: 67115
 title: "Oregon 600 + 650 Handbuch"
 vendor: "MBMweb"
 product_type: "E-books"
-price: 20.89
+price: 20.9
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 10.44
+earnings_per_sale: 10.45
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft"]
 listed_since: "2015-12-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/11775/adminstore/"
+promo_link: "http://gps-anleitung.de/gps-oregon-600-650-handbuch/?aff=adminstore#aff=adminstore"
 sales_page: "http://gps-anleitung.de/gps-oregon-600-650-handbuch/"
 language: "de"
 ---
 # Oregon 600 + 650 Handbuch
 
 > Product ID `11775` · Digistore24 productId `67115` · [HTML profile page](../../produkte/oregon-600-650-handbuch-11775.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.89 (Single payment) |
+| Price | $20.90 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $10.44 |
+| Earnings/sale* | $10.45 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MBMweb |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/11775/adminstore/
+- **Promo link (affiliate):** http://gps-anleitung.de/gps-oregon-600-650-handbuch/?aff=adminstore#aff=adminstore
 - Sales page: http://gps-anleitung.de/gps-oregon-600-650-handbuch/
 - Vendor affiliate support: http://affiliates.michael-bloemeke.de/
 - Canonical redirect: https://www.digistore24.com/redir/67115/adminstore
@@ -94,14 +94,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Oregon 600 + 650 Handbuch? — Typ: E-books, Anbieter: MBMweb, gelistet seit 2015-12-23
-- Wie viel kostet es? — 20.886108 USD
+- Wie viel kostet es? — 20.899184 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Oregon 600 + 650 Handbuch Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/67115
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/67115/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Oregon%20600%20%2B%20650%20Handbuch
 
 ## 4. Editorial notes

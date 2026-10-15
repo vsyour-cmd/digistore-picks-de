@@ -4,40 +4,40 @@ digistore24_product_id: 659261
 title: "Schulung zum Sicherheitsbeauftragten"
 vendor: "SifAmed"
 product_type: "Remote service provided electronically"
-price: 272.48
+price: 272.65
 currency: "USD"
 affiliate_commission_pct: 5
-earnings_per_sale: 13.63
+earnings_per_sale: 13.64
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Profession & Job"]
+categories: ["Profession & Job","Education"]
 listed_since: "2026-01-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/55125/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/659261?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/659261"
 language: "de"
 ---
 # Schulung zum Sicherheitsbeauftragten
 
 > Product ID `55125` · Digistore24 productId `659261` · [HTML profile page](../../produkte/schulung-zum-sicherheitsbeauftragten-55125.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $272.48 (Single payment) |
+| Price | $272.65 (Single payment) |
 | Affiliate commission | 5% |
-| Earnings/sale* | $13.63 |
+| Earnings/sale* | $13.64 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SifAmed |
 | Listed since | 2026-01-06 |
 | Auto-accept affiliates | no (approval required) |
-| Categories | Education, Profession & Job |
+| Categories | Profession & Job, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55125/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/659261?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/659261
 - Canonical redirect: https://www.digistore24.com/redir/659261/adminstore
 
@@ -79,14 +79,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Schulung zum Sicherheitsbeauftragten? — Typ: Remote service provided electronically, Anbieter: SifAmed, gelistet seit 2026-01-06
-- Wie viel kostet es? — 272.48097 USD
+- Wie viel kostet es? — 272.65156 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Schulung zum Sicherheitsbeauftragten Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/659261
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/659261/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Schulung%20zum%20Sicherheitsbeauftragten
 
 ## 4. Editorial notes

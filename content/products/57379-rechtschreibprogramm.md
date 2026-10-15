@@ -4,34 +4,34 @@ digistore24_product_id: 625038
 title: "Rechtschreibprogramm"
 vendor: "KerstinSchimkus"
 product_type: "Member area and video courses"
-price: 1341.72
+price: 1342.56
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 134.17
+earnings_per_sale: 134.26
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2026-07-02"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/57379/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/625038?testpay=3439450-9651235395CaS2vrL3ncVhvxmGehLyZmGNXMU4fRgJ5AK34zVUtT59D&fbclid=PAVERFWASzradwZG9mAmV4dG4DYWVtAjEwAHNydGMGYXBwX2lkDzEyNDAyNDU3NDI4NzQxNAABpxr-gC_f2vtUrV7v4u81UQ5A08KVOGKgbBw8ne9qoPq6dtTAs-xd5Oo5P&aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/625038?testpay=3439450-9651235395CaS2vrL3ncVhvxmGehLyZmGNXMU4fRgJ5AK34zVUtT59D&fbclid=PAVERFWASzradwZG9mAmV4dG4DYWVtAjEwAHNydGMGYXBwX2lkDzEyNDAyNDU3NDI4NzQxNAABpxr-gC_f2vtUrV7v4u81UQ5A08KVOGKgbBw8ne9qoPq6dtTAs-xd5Oo5P"
 language: "de"
 ---
 # Rechtschreibprogramm
 
 > Product ID `57379` · Digistore24 productId `625038` · [HTML profile page](../../produkte/rechtschreibprogramm-57379.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1341.72 (Installment) |
+| Price | $1342.56 (Installment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $134.17 |
+| Earnings/sale* | $134.26 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | KerstinSchimkus |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/57379/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/625038?testpay=3439450-9651235395CaS2vrL3ncVhvxmGehLyZmGNXMU4fRgJ5AK34zVUtT59D&fbclid=PAVERFWASzradwZG9mAmV4dG4DYWVtAjEwAHNydGMGYXBwX2lkDzEyNDAyNDU3NDI4NzQxNAABpxr-gC_f2vtUrV7v4u81UQ5A08KVOGKgbBw8ne9qoPq6dtTAs-xd5Oo5P&aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/625038?testpay=3439450-9651235395CaS2vrL3ncVhvxmGehLyZmGNXMU4fRgJ5AK34zVUtT59D&fbclid=PAVERFWASzradwZG9mAmV4dG4DYWVtAjEwAHNydGMGYXBwX2lkDzEyNDAyNDU3NDI4NzQxNAABpxr-gC_f2vtUrV7v4u81UQ5A08KVOGKgbBw8ne9qoPq6dtTAs-xd5Oo5P
 - Canonical redirect: https://www.digistore24.com/redir/625038/adminstore
 
@@ -90,14 +90,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Rechtschreibprogramm? — Typ: Member area and video courses, Anbieter: KerstinSchimkus, gelistet seit 2026-07-02
-- Wie viel kostet es? — 1341.72 USD
+- Wie viel kostet es? — 1342.56 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Rechtschreibprogramm Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/625038
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/625038/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Rechtschreibprogramm
 
 ## 4. Editorial notes

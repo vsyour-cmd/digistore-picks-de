@@ -4,34 +4,34 @@ digistore24_product_id: 445726
 title: "Social Media Mega Bundle"
 vendor: "CyrilCash"
 product_type: "Member area and video courses"
-price: 211.87
+price: 212
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 157.84
+earnings_per_sale: 157.94
 cart_conversion_pct: 8
 cancel_rate_pct: 2.12
 categories: ["Services"]
 listed_since: "2022-06-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/40233/adminstore/"
+promo_link: "https://business-kickstart.de/socialmedia-vorlagen/?aff=adminstore#aff=adminstore"
 sales_page: "https://business-kickstart.de/socialmedia-vorlagen/"
 language: "de"
 ---
 # Social Media Mega Bundle
 
 > Product ID `40233` · Digistore24 productId `445726` · [HTML profile page](../../produkte/social-media-mega-bundle-40233.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $211.87 (Single payment) |
+| Price | $212.00 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $157.84 |
+| Earnings/sale* | $157.94 |
 | Cart conversion* | 8% |
 | Cancel rate* | 2.12% |
 | Vendor | CyrilCash |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/40233/adminstore/
+- **Promo link (affiliate):** https://business-kickstart.de/socialmedia-vorlagen/?aff=adminstore#aff=adminstore
 - Sales page: https://business-kickstart.de/socialmedia-vorlagen/
 - Vendor affiliate support: https://business-kickstart.de/socialmedia-vorlagen-partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/445726/adminstore
@@ -67,14 +67,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Social Media Mega Bundle? — Typ: Member area and video courses, Anbieter: CyrilCash, gelistet seit 2022-06-06
-- Wie viel kostet es? — 211.86876900000001 USD
+- Wie viel kostet es? — 212.00141200000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Social Media Mega Bundle Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/445726
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/445726/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Social%20Media%20Mega%20Bundle
 
 ## 4. Editorial notes

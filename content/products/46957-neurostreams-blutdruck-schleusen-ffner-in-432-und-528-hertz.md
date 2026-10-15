@@ -4,34 +4,34 @@ digistore24_product_id: 227473
 title: "Neurostreams™ Blutdruck-Schleusenöffner in 432 und 528 Hertz"
 vendor: "newdimension"
 product_type: "Downloads"
-price: 81.74
+price: 81.8
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 40.88
+earnings_per_sale: 40.9
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Home & Garden"]
 listed_since: "2018-06-13"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/46957/adminstore/"
+promo_link: "https://www.neurostreams.de/produkte/blutdruck-senken-ohne-medikamente/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.neurostreams.de/produkte/blutdruck-senken-ohne-medikamente/"
 language: "de"
 ---
 # Neurostreams™ Blutdruck-Schleusenöffner in 432 und 528 Hertz
 
 > Product ID `46957` · Digistore24 productId `227473` · [HTML profile page](../../produkte/neurostreams-blutdruck-schleusen-ffner-in-432-und-528-hertz-46957.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $81.74 (Single payment) |
+| Price | $81.80 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $40.88 |
+| Earnings/sale* | $40.90 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | newdimension |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/46957/adminstore/
+- **Promo link (affiliate):** https://www.neurostreams.de/produkte/blutdruck-senken-ohne-medikamente/?aff=adminstore#aff=adminstore
 - Sales page: https://www.neurostreams.de/produkte/blutdruck-senken-ohne-medikamente/
 - Vendor affiliate support: https://www.timdaugs.com/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/227473/adminstore
@@ -89,14 +89,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Neurostreams™ Blutdruck-Schleusenöffner in 432 und 528 Hertz? — Typ: Downloads, Anbieter: newdimension, gelistet seit 2018-06-13
-- Wie viel kostet es? — 81.744291 USD
+- Wie viel kostet es? — 81.795468 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Neurostreams™ Blutdruck-Schleusenöffner in 432 und 528 Hertz Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/227473
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/227473/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Neurostreams%E2%84%A2%20Blutdruck-Schleusen%C3%B6ffner%20in%20432%20und%20528%20Hertz
 
 ## 4. Editorial notes

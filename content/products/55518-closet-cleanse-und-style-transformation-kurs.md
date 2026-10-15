@@ -4,16 +4,16 @@ digistore24_product_id: 557923
 title: "Closet Cleanse und  Style Transformation Kurs"
 vendor: "PersonalStylistSabine"
 product_type: "Member area and video courses"
-price: 158.77
+price: 158.87
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 23.82
+earnings_per_sale: 23.83
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Fashion"]
 listed_since: "2024-06-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/557923?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/557923"
@@ -22,16 +22,16 @@ language: "de"
 # Closet Cleanse und  Style Transformation Kurs
 
 > Product ID `55518` · Digistore24 productId `557923` · [HTML profile page](../../produkte/closet-cleanse-und-style-transformation-kurs-55518.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $158.77 (Single payment, Installment) |
+| Price | $158.87 (Single payment, Installment) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $23.82 |
+| Earnings/sale* | $23.83 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | PersonalStylistSabine |
@@ -84,14 +84,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Closet Cleanse und  Style Transformation Kurs? — Typ: Member area and video courses, Anbieter: PersonalStylistSabine, gelistet seit 2024-06-21
-- Wie viel kostet es? — 158.77020000000002 USD
+- Wie viel kostet es? — 158.8696 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Closet Cleanse und  Style Transformation Kurs Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/557923
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/557923/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Closet%20Cleanse%20und%20%20Style%20Transformation%20Kurs
 
 ## 4. Editorial notes

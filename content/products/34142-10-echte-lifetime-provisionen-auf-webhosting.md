@@ -4,16 +4,16 @@ digistore24_product_id: 35801
 title: "10% echte Lifetime Provisionen auf Webhosting!"
 vendor: "Rainbow-Web"
 product_type: "Downloads"
-price: 91.29
+price: 91.35
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 0.49
 cart_conversion_pct: 28
 cancel_rate_pct: 4.62
-categories: ["Computer & Internet","Online Marketing & E-Business","Software"]
+categories: ["Software","Computer & Internet","Online Marketing & E-Business"]
 listed_since: "2014-11-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.rainbow-web.com?aff=adminstore#aff=adminstore"
 sales_page: "https://www.rainbow-web.com"
@@ -22,14 +22,14 @@ language: "de"
 # 10% echte Lifetime Provisionen auf Webhosting!
 
 > Product ID `34142` · Digistore24 productId `35801` · [HTML profile page](../../produkte/10-echte-lifetime-provisionen-auf-webhosting-34142.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $91.29 (Subscription) |
+| Price | $91.35 (Subscription) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $0.49 |
 | Cart conversion* | 28% |
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | Rainbow-Web |
 | Listed since | 2014-11-06 |
 | Auto-accept affiliates | yes |
-| Categories | Computer & Internet, Online Marketing & E-Business, Software |
+| Categories | Software, Computer & Internet, Online Marketing & E-Business |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -77,14 +77,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 10% echte Lifetime Provisionen auf Webhosting!? — Typ: Downloads, Anbieter: Rainbow-Web, gelistet seit 2014-11-06
-- Wie viel kostet es? — 91.29286500000002 USD
+- Wie viel kostet es? — 91.35002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 10% echte Lifetime Provisionen auf Webhosting! Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/35801
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/35801/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=10%25%20echte%20Lifetime%20Provisionen%20auf%20Webhosting!
 
 ## 4. Editorial notes

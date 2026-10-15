@@ -4,34 +4,34 @@ digistore24_product_id: 89821
 title: "Sei Dein eigener Feng Shui Berater"
 vendor: "Feng-Shui-Digital"
 product_type: "Member area and video courses"
-price: 169.12
+price: 169.23
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 84.56
+earnings_per_sale: 84.61
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Home & Garden"]
 listed_since: "2016-08-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.oliverpfeil.de/produkte/joomla-ebook#aff=adminstore"
+promo_link: "https://feng-shui.de/feng-shui-workshop-online/?aff=adminstore#aff=adminstore"
 sales_page: "https://feng-shui.de/feng-shui-workshop-online/"
 language: "de"
 ---
 # Sei Dein eigener Feng Shui Berater
 
 > Product ID `12519` · Digistore24 productId `89821` · [HTML profile page](../../produkte/sei-dein-eigener-feng-shui-berater-12519.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $169.12 (Single payment) |
+| Price | $169.23 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $84.56 |
+| Earnings/sale* | $84.61 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Feng-Shui-Digital |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.oliverpfeil.de/produkte/joomla-ebook#aff=adminstore
+- **Promo link (affiliate):** https://feng-shui.de/feng-shui-workshop-online/?aff=adminstore#aff=adminstore
 - Sales page: https://feng-shui.de/feng-shui-workshop-online/
 - Vendor affiliate support: https://feng-shui-digital.com/0-affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/89821/adminstore
@@ -95,14 +95,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Sei Dein eigener Feng Shui Berater? — Typ: Member area and video courses, Anbieter: Feng-Shui-Digital, gelistet seit 2016-08-01
-- Wie viel kostet es? — 169.123806 USD
+- Wie viel kostet es? — 169.22968799999998 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Sei Dein eigener Feng Shui Berater Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/89821
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/89821/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Sei%20Dein%20eigener%20Feng%20Shui%20Berater
 
 ## 4. Editorial notes

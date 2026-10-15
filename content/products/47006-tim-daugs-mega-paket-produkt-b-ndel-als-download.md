@@ -4,16 +4,16 @@ digistore24_product_id: 615173
 title: "Tim Daugs: MEGA Paket (Produkt-Bündel) als Download"
 vendor: "newdimension"
 product_type: "Downloads"
-price: 374.89
+price: 375.12
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 93.72
+earnings_per_sale: 93.78
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2025-05-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.timdaugs.com/angebot-mega-paket/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.timdaugs.com/angebot-mega-paket/"
@@ -22,16 +22,16 @@ language: "de"
 # Tim Daugs: MEGA Paket (Produkt-Bündel) als Download
 
 > Product ID `47006` · Digistore24 productId `615173` · [HTML profile page](../../produkte/tim-daugs-mega-paket-produkt-b-ndel-als-download-47006.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $374.89 (Single payment, Installment) |
+| Price | $375.12 (Single payment, Installment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $93.72 |
+| Earnings/sale* | $93.78 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | newdimension |
@@ -99,14 +99,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Tim Daugs: MEGA Paket (Produkt-Bündel) als Download? — Typ: Downloads, Anbieter: newdimension, gelistet seit 2025-05-27
-- Wie viel kostet es? — 374.88774900000004 USD
+- Wie viel kostet es? — 375.122452 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Tim Daugs: MEGA Paket (Produkt-Bündel) als Download Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/615173
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/615173/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Tim%20Daugs%3A%20MEGA%20Paket%20(Produkt-B%C3%BCndel)%20als%20Download
 
 ## 4. Editorial notes

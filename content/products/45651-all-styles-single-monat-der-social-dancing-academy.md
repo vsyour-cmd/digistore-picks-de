@@ -4,34 +4,34 @@ digistore24_product_id: 409953
 title: "All Styles Single-Monat der Social Dancing Academy"
 vendor: "DadoIbrakovic"
 product_type: "Member area and video courses"
-price: 6.57
+price: 6.58
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 14.28
+earnings_per_sale: 14.29
 cart_conversion_pct: 21
 cancel_rate_pct: 3.5
 categories: ["Dancing & Music"]
 listed_since: "2021-09-30"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/45651/adminstore/"
+promo_link: "https://socialdancingacademy.com/single-monat?aff=adminstore#aff=adminstore"
 sales_page: "https://socialdancingacademy.com/single-monat"
 language: "de"
 ---
 # All Styles Single-Monat der Social Dancing Academy
 
 > Product ID `45651` · Digistore24 productId `409953` · [HTML profile page](../../produkte/all-styles-single-monat-der-social-dancing-academy-45651.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $6.57 (Single payment) |
+| Price | $6.58 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $14.28 |
+| Earnings/sale* | $14.29 |
 | Cart conversion* | 21% |
 | Cancel rate* | 3.5% |
 | Vendor | DadoIbrakovic |
@@ -45,7 +45,7 @@ language: "de"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/45651/adminstore/
+- **Promo link (affiliate):** https://socialdancingacademy.com/single-monat?aff=adminstore#aff=adminstore
 - Sales page: https://socialdancingacademy.com/single-monat
 - Canonical redirect: https://www.digistore24.com/redir/409953/adminstore
 
@@ -84,14 +84,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist All Styles Single-Monat der Social Dancing Academy? — Typ: Member area and video courses, Anbieter: DadoIbrakovic, gelistet seit 2021-09-30
-- Wie viel kostet es? — 6.574428 USD
+- Wie viel kostet es? — 6.578544 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: All Styles Single-Monat der Social Dancing Academy Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/409953
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/409953/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=All%20Styles%20Single-Monat%20der%20Social%20Dancing%20Academy
 
 ## 4. Editorial notes

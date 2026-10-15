@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2025-05-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
 promo_link: "https://app.soul-in-menta.de/soulinmenta/soulpass?aff=adminstore#aff=adminstore"
 sales_page: "https://app.soul-in-menta.de/soulinmenta/soulpass"
@@ -22,7 +22,7 @@ language: "de"
 # soulPass
 
 > Product ID `54556` · Digistore24 productId `614409` · [HTML profile page](../../produkte/soulpass-54556.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -65,7 +65,7 @@ language: "de"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: soulPass Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/614409
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/614409/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=soulPass
 
 ## 4. Editorial notes

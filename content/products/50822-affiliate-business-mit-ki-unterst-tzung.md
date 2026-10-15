@@ -10,10 +10,10 @@ affiliate_commission_pct: 50
 earnings_per_sale: 1.33
 cart_conversion_pct: 44
 cancel_rate_pct: 0
-categories: ["Email Marketing","Online Marketing & E-Business","Online Marketing"]
+categories: ["Online Marketing & E-Business","Email Marketing","Online Marketing"]
 listed_since: "2024-11-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://reneaktivnetzmarketing.funnelcockpit.com/handwerk-trifft-ki/?aff=adminstore#aff=adminstore"
 sales_page: "https://reneaktivnetzmarketing.funnelcockpit.com/handwerk-trifft-ki/"
@@ -22,7 +22,7 @@ language: "de"
 # Affiliate-Business mit KI-Unterstützung
 
 > Product ID `50822` · Digistore24 productId `582043` · [HTML profile page](../../produkte/affiliate-business-mit-ki-unterst-tzung-50822.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "de"
 | Vendor | ReneAktivNetz |
 | Listed since | 2024-11-21 |
 | Auto-accept affiliates | yes |
-| Categories | Email Marketing, Online Marketing & E-Business, Online Marketing |
+| Categories | Online Marketing & E-Business, Email Marketing, Online Marketing |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -59,14 +59,14 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Affiliate-Business mit KI-Unterstützung? — Typ: E-books, Anbieter: ReneAktivNetz, gelistet seit 2024-11-21
-- Wie viel kostet es? — 0.31306800000000007 USD
+- Wie viel kostet es? — 0.31326400000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Affiliate-Business mit KI-Unterstützung Alternativen · Preis & Daten · Erfahrungen & Recherche
-- Public Digistore24 product page: https://www.digistore24.com/product/582043
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/582043/
 - Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=Affiliate-Business%20mit%20KI-Unterst%C3%BCtzung
 
 ## 4. Editorial notes
