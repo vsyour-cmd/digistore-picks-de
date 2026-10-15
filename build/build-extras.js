@@ -149,6 +149,27 @@ console.log("llms-full.txt:", fullLines.length, "products,", DATA.categories.len
         .replace(/&amp;/g, "&").replace(/: Alternativen.*$/i, "").replace(/ vs .*$/i, "");
       return '<li><a href="' + f + '">' + t + "</a></li>";
     });
+    // 改进项 alternatives-index-quality(2026-10-15):Organization JSON-LD + Werbe-Hinweis + Datum + Navigation(可信度 25 分修复)
+    const ORG_LD_LOCAL = {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      name: "adminstore",
+      url: SITE_URL + "/",
+      email: "admin@2bkf.com",
+      description: "Unabhängiger Herausgeber von DigistorePicks DE, einem Verzeichnis von Digistore24-Marktplatz-Produkten mit überprüfbaren Marktplatz-Daten und gekennzeichneter Verkaufsseiten-Recherche.",
+      address: {
+        "@type": "PostalAddress",
+        streetAddress: "Room 70, Unit 10B, 7/F, Tower B, New Mandarin Plaza, 14 Science Museum Road, Tsim Sha Tsui",
+        addressLocality: "Kowloon",
+        addressRegion: "Kowloon",
+        postalCode: "999077",
+        addressCountry: "HK",
+      },
+      sameAs: [
+        "https://github.com/vsyour-cmd/digistore-picks-de",
+        "https://vsyour-cmd.github.io/digistore-picks/",
+      ],
+    };
     const html = `<!doctype html>
 <html lang="de">
 <head>
@@ -158,17 +179,21 @@ console.log("llms-full.txt:", fullLines.length, "products,", DATA.categories.len
 <meta name="description" content="Jede Alternativen- &amp; Vergleichsseite auf ${SITE_NAME}: Gegenüberstellungen für die Top-Angebote des Digistore24-Marktplatzes.">
 <link rel="canonical" href="${SITE_URL}/alternativen/index.html">
 <link rel="stylesheet" href="../assets/style.css">
+<script type="application/ld+json">${JSON.stringify(ORG_LD_LOCAL).replace(/</g, "\\u003c")}</script>
 </head>
 <body>
 <header class="site"><div class="wrap"><a href="../index.html"><b>${SITE_NAME}</b></a> — unabhängiges Digistore24-Verzeichnis</header>
 <main class="wrap">
 <h1>Alle Alternativen- &amp; Vergleichsseiten</h1>
-<p class="sub">${files.length} Vergleichsseiten, eine je Top-Angebot.</p>
+<p class="sub">${files.length} Vergleichsseiten, eine je Top-Angebot. Aktualisiert ${TODAY}.</p>
+<p><b>Werbe-Hinweis:</b> ${SITE_NAME} enthält Affiliate-Links (Werbung). Kaufen Sie über einen Link, erhalten wir ggf. eine Provision vom Anbieter — für Sie keine Mehrkosten. Alle Statistiken auf diesen Seiten sind Anbieter-seitige Marktplatz-Daten vom offiziellen Digistore24-Marktplatz — keine Prognose.</p>
 <ul>
 ${items.join(String.fromCharCode(10))}
 </ul>
+<h2>Weiterlesen</h2>
+<p><a href="../index.html">Alle Kategorien</a> · <a href="../blog/index.html">Blog &amp; Daten-Guides</a> · <a href="../impressum.html">Impressum</a> · <a href="../changelog.html">Neuigkeiten</a></p>
 </main>
-<footer class="site"><div class="wrap"><a href="../impressum.html">Impressum</a> · <a href="../datenschutz.html">Datenschutz</a> · <a href="../changelog.html">Neuigkeiten</a> · Daten: Digistore24-Marktplatz, Anbieter-seitig</footer>
+<footer class="site"><div class="wrap"><a href="../impressum.html">Impressum</a> · <a href="../datenschutz.html">Datenschutz</a> · <a href="../changelog.html">Neuigkeiten</a> · Daten: Digistore24-Marktplatz, Anbieter-seitig (Stand ${TODAY})</footer>
 </body>
 </html>
 `;

@@ -361,7 +361,7 @@ ${row(B)}
   // Alternativen-Seiten nur für Top-Angebote(193/4300):无对比页的产品不输出链接,防死链
   const P = X === "A" ? A : B;
   return fs.existsSync(path.join(ROOT, "alternativen", P.slug + ".html")) ? m : "<p>" + " ".repeat(0);
-});
+}) + `
 ${pairs.length > 1 ? `<h2>Weitere direkte Vergleiche</h2>
 <ul>${[...Array(Math.min(4, pairs.length - 1)).keys()].map((k) => vsMeta[(pi + 1 + k) % pairs.length]).map((v) => `<li><a href="${v.f}">${esc(v.t)}</a> — Marktplatz-Vergleich aus derselben Reihe.</li>`).join("\n")}</ul>` : ""}
 </article>`;

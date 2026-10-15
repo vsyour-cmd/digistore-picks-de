@@ -715,7 +715,8 @@ ${alts.map(row).join("\n")}
 <li><b>Niedrigster Preis:</b> ${esc([...all].sort((a, b) => (a.price || 1e9) - (b.price || 1e9))[0].label)} (${money(Math.min(...all.map((x) => x.price || 1e9)), p.currency)}).</li>
 </ul>
 <p>Jedes Produkt verlinkt auf ein vollständiges Profil mit wörtlicher Verkaufsseiten-Recherche. Preis und Garantie immer auf der offiziellen Seite bestätigen.</p>
-<p class="sub">Wie wir bewerten: <a href="../blog/digistore24-zahlen-checkliste.html">6-Punkte-Zahlen-Check</a> · <a href="../about.html">Recherche-Standards</a>. Beleg- &amp; Validierungsbedingungen: alle Statistiken aus der offiziellen Digistore24-Marktplatz-API (Snapshot ${datemark(DATA.scrapedAt)}); Vergleiche werden bei jedem täglichen Rebuild neu berechnet.</p>`;
+<p class="sub">Wie wir bewerten: <a href="../blog/digistore24-zahlen-checkliste.html">6-Punkte-Zahlen-Check</a> · <a href="../about.html">Recherche-Standards</a>. Beleg- &amp; Validierungsbedingungen: alle Statistiken aus der offiziellen Digistore24-Marktplatz-API (Snapshot ${datemark(DATA.scrapedAt)}); Vergleiche werden bei jedem täglichen Rebuild neu berechnet.</p>
+<p><a href="index.html">← Alle Alternativen &amp; Vergleiche</a> — das vollständige Vergleichsverzeichnis.</p>`;
     const jsonLd = [{
       "@context": "https://schema.org",
       "@type": "ItemList",
