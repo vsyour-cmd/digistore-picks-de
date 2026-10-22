@@ -1620,7 +1620,7 @@ function longTailContentDe(p) {
 <li>Speichern Sie die Bestellbestätigung; notieren Sie die Rückerstattungsfrist im Kalender.</li>
 <li>Prüfen Sie zügig. Der Digistore24-Käufersupport hilft, wenn der Anbieter nicht reagiert.</li>
 </ol>`);
-  secs.push(`<p class="sub">Vollständiges Recherche-Archiv für dieses Produkt (Markdown: kompletter Marktplatz-Datensatz + wörtliche Verkaufsseiten-Auszüge): <a href="../content/products/${mdFile}">${esc(p.label)} — Datenarchiv (.md)</a>.</p>`);
+  secs.push(`<p class="sub">Vollständiges Recherche-Archiv für dieses Produkt (Markdown: kompletter Marktplatz-Datensatz + wörtliche Verkaufsseiten-Auszüge): <a href="../content/products/${mdFile}" download="${mdFile}">${esc(p.label)} — vollständiges Datenarchiv (Markdown-Datei: ${mdFile})</a>.</p>`);
   return secs.join("\n");
 }
 
