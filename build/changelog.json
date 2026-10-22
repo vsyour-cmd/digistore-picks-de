@@ -2,6 +2,16 @@
   "site": "de",
   "entries": [
     {
+      "date": "2026-10-16",
+      "summary": "Produktseiten als käuferorientierte Landingpages neu gestaltet: Die Affiliate-Provisions- und Marktplatz-Statistik-Blöcke sind entfernt (das waren Affiliate-Daten) und durch acht neue käuferorientierte Sektionen je Produkt ersetzt — Was ist das Produkt, Preisdetails, Rückerstattungsrichtlinie, Für wen geeignet, Seriositätsprüfung, Zugang nach dem Kauf, Recherche von Bewertungen und sicherer Kauf. Jedes Produkt verlinkt außerdem sein vollständiges Markdown-Recherche-Archiv. Der zugrunde liegende Marktplatz-Datensatz ist unverändert und bleibt im Datenarchiv jedes Produkts verfügbar.",
+      "changes": [
+        "entfernt: Affiliate-Provisions-Zeile, Marktplatz-Statistiken-Zeile (Warenkorb-Konversion/Stornoquote/Verdienst pro Verkauf) aus Datentabelle, Auf-einen-Blick-Block und Produktkarten",
+        "ergänzt: 8 Longtail-Käufersektionen je Produktseite (Was ist / Preis / Rückerstattung / Für wen / Seriös / Zugang nach Kauf / Erfahrungs-Recherche / Sicherer Kauf) — jede Zahl aus dem Marktplatz-Datensatz oder als Anbieteraussage gekennzeichnet",
+        "ergänzt: je Produkt ein Link zum vollständigen Markdown-Recherche-Archiv (content/products/{id}-{slug}.md)",
+        "Produktkarten zeigen jetzt Anbieter, Listing-Datum und Preis (Käuferfelder) statt Affiliate-Felder"
+      ]
+    },
+    {
       "date": "2026-10-15",
       "summary": "Sitemap-Integrität gehärtet: FAQ-Hub-Seiten werden jetzt per Verzeichnis-Scan statt per Kategorienliste in die Sitemap aufgenommen — die FAQ-Seite der Gruppe „ohne Kategorie“ fehlte, und 3 veraltete Angebotsseiten (2 eingestellte Angebote, 1 umbenannter Titel) wurden entfernt. Tagesartikel und Tabellen aus dem Snapshot 2026-10-14 aktualisiert; der Marktplatz-Scrape läuft in der Begleitsession.",
       "changes": [
